@@ -1,0 +1,16 @@
+{
+  "project": "niolearn-20",
+  "newSource": "src/projects/ComparisonBroll.tsx",
+  "newMotion": [
+    "nio-story-comparison",
+    "nio-compare-board"
+  ],
+  "reuse": [
+    "Nio04Broll: credential, fees, conversation, outcomes",
+    "Nio07Broll: selection interview, focused preparation"
+  ],
+  "creation": "Original continuous Remotion storyboard and native Canvas anonymous review board. No stock creator artwork or fabricated school scores.",
+  "referenceStudy": "docs/REFERENCE_ANALYSIS.md#motion-re-study--batch-revision",
+  "alphaExports": "public/assets/projects/niolearn-20",
+  "music": "Original project synthesized calm-focus bed"
+}

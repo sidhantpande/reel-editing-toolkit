@@ -1,0 +1,57 @@
+[
+  {
+    "asset": "public/assets/projects/niolearn-07/nio-system-diagnostic-v1.webm",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "transparentPixels": 1625913,
+    "opaquePixels": 370479
+  },
+  {
+    "asset": "public/assets/projects/niolearn-07/nio-system-interview-v1.webm",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "transparentPixels": 1708169,
+    "opaquePixels": 62558
+  },
+  {
+    "asset": "public/assets/projects/niolearn-07/nio-system-path-v1.webm",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "transparentPixels": 1921903,
+    "opaquePixels": 93076
+  },
+  {
+    "asset": "public/assets/projects/niolearn-07/nio-system-prep-v1.webm",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "transparentPixels": 1644169,
+    "opaquePixels": 267041
+  },
+  {
+    "asset": "public/assets/projects/niolearn-07/nio-system-review-v1.webm",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "transparentPixels": 1612378,
+    "opaquePixels": 377724
+  }
+]

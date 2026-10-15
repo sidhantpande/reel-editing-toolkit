@@ -1,0 +1,5 @@
+[0.00-1.34]  Blind guessing.
+[1.88-5.72]  If you use the elimination method and do guessing, the chance will be more
+[5.72-6.96]  the answer will be right.
+[7.62-9.60]  Which of your questions is the best? Please comment
+[9.60-14.14]  and go on to other improvements for New Holland.com.

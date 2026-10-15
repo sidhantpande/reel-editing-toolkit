@@ -1,0 +1,500 @@
+{
+  "video": "/Users/sidhant/Desktop/NioLearn-Reels/deliverables/niolearn/NIOLEARN_10_Brand_Introduction_v1.mp4",
+  "probe": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "mime_codec_string": "avc1.640028",
+        "width": 1080,
+        "height": 1920,
+        "coded_width": 1080,
+        "coded_height": 1920,
+        "has_b_frames": 2,
+        "pix_fmt": "yuv420p",
+        "level": 40,
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "time_base": "1/90000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 4977000,
+        "duration": "55.300000",
+        "bit_rate": "5020385",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "1659",
+        "extradata_size": 47,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "encoder": "Lavc61.19.100 libx264"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "mime_codec_string": "mp4a.40.2",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "initial_padding": 1024,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 2655216,
+        "duration": "55.317000",
+        "bit_rate": "190933",
+        "nb_frames": "2594",
+        "extradata_size": 5,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler"
+        }
+      }
+    ],
+    "format": {
+      "filename": "deliverables/niolearn/NIOLEARN_10_Brand_Introduction_v1.mp4",
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "55.317000",
+      "size": "36086103",
+      "bit_rate": "5218808",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf63.1.102",
+        "comment": "Made with Remotion 4.0.535"
+      }
+    }
+  },
+  "captions": [
+    {
+      "page": 0,
+      "sampleFrame": 50,
+      "expected": "What if JEE wasn't",
+      "ocr": "i Whatif JEE wasn't",
+      "similarity": 0.966,
+      "review": false
+    },
+    {
+      "page": 1,
+      "sampleFrame": 81,
+      "expected": "your only option?",
+      "ocr": "u f rZ 4 aks n\u00b0 iE \u00bb\ny your only option?\n\u2018J",
+      "similarity": 0.683,
+      "review": false
+    },
+    {
+      "page": 2,
+      "sampleFrame": 97,
+      "expected": "Today,",
+      "ocr": "> \u2122 al \u00bb*\nMf . \u201c\n7 \u201c\u2014\na \u2122 =.\nNJ\n> \\",
+      "similarity": 0.154,
+      "review": true
+    },
+    {
+      "page": 3,
+      "sampleFrame": 132,
+      "expected": "a new generation of",
+      "ocr": "A a new geheration of\nSJ\nes",
+      "similarity": 0.811,
+      "review": false
+    },
+    {
+      "page": 4,
+      "sampleFrame": 169,
+      "expected": "tech colleges are changing",
+      "ocr": "y tech colleges.are \u2018\naX N",
+      "similarity": 0.81,
+      "review": false
+    },
+    {
+      "page": 5,
+      "sampleFrame": 214,
+      "expected": "the way a student",
+      "ocr": "4 the way.a student",
+      "similarity": 0.966,
+      "review": false
+    },
+    {
+      "page": 6,
+      "sampleFrame": 236,
+      "expected": "learns.",
+      "ocr": ">.> Z*- = \u2014\nMy, \" pa\nMY | NSsw CIRCUT]\n\u201c<a et\nNJ\nox )",
+      "similarity": 0.2,
+      "review": true
+    },
+    {
+      "page": 7,
+      "sampleFrame": 272,
+      "expected": "But all of them",
+      "ocr": "Butallof them :",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 8,
+      "sampleFrame": 351,
+      "expected": "have different types of",
+      "ocr": "have differe i t types of",
+      "similarity": 0.95,
+      "review": false
+    },
+    {
+      "page": 9,
+      "sampleFrame": 367,
+      "expected": "examinations.",
+      "ocr": "aN _\u2014\nss: &",
+      "similarity": 0.375,
+      "review": true
+    },
+    {
+      "page": 10,
+      "sampleFrame": 410,
+      "expected": "Some focus on logical",
+      "ocr": "Some focus on logical",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 11,
+      "sampleFrame": 444,
+      "expected": "reasoning and aptitude,",
+      "ocr": "reasoning and aptitude,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 12,
+      "sampleFrame": 474,
+      "expected": "while some focus on",
+      "ocr": "while some focus on",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 13,
+      "sampleFrame": 517,
+      "expected": "coding and problem solving",
+      "ocr": "coding and problem\nsolving",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 14,
+      "sampleFrame": 552,
+      "expected": "and interviews.",
+      "ocr": "N\nSy N\nS",
+      "similarity": 0.333,
+      "review": true
+    },
+    {
+      "page": 15,
+      "sampleFrame": 585,
+      "expected": "and that's the part",
+      "ocr": "y \u2018and that's the: art\nos",
+      "similarity": 0.875,
+      "review": false
+    },
+    {
+      "page": 16,
+      "sampleFrame": 623,
+      "expected": "which often makes a",
+      "ocr": "4 whichoften makes a\na \\",
+      "similarity": 0.941,
+      "review": false
+    },
+    {
+      "page": 17,
+      "sampleFrame": 647,
+      "expected": "student confused.",
+      "ocr": "y student Gonfused. |",
+      "similarity": 0.903,
+      "review": false
+    },
+    {
+      "page": 18,
+      "sampleFrame": 691,
+      "expected": "And that's exactly why",
+      "ocr": "And \u2014 =",
+      "similarity": 0.286,
+      "review": true
+    },
+    {
+      "page": 19,
+      "sampleFrame": 736,
+      "expected": "we started NioLearn,",
+      "ocr": "we started NioLearn,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 20,
+      "sampleFrame": 773,
+      "expected": "to make opportunities",
+      "ocr": "to make opportunities",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 21,
+      "sampleFrame": 823,
+      "expected": "easier to discover,",
+      "ocr": "easier to discover,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 22,
+      "sampleFrame": 853,
+      "expected": "understand,",
+      "ocr": "understand,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 23,
+      "sampleFrame": 887,
+      "expected": "and prepare for.",
+      "ocr": "and prepare for.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 24,
+      "sampleFrame": 926,
+      "expected": "NioLearn is a modern",
+      "ocr": "\u2018 4 ee Ne\n_ NioLearnisamodern\nv \u2018",
+      "similarity": 0.85,
+      "review": false
+    },
+    {
+      "page": 25,
+      "sampleFrame": 983,
+      "expected": "tech admission platform,",
+      "ocr": "Me ee = ms). dl atl\nd tech admission.",
+      "similarity": 0.565,
+      "review": true
+    },
+    {
+      "page": 26,
+      "sampleFrame": 1011,
+      "expected": "which offers",
+      "ocr": "which offers",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 27,
+      "sampleFrame": 1057,
+      "expected": "structured live classes,",
+      "ocr": "structured live classes,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 28,
+      "sampleFrame": 1079,
+      "expected": "mocks,",
+      "ocr": "mocks,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 29,
+      "sampleFrame": 1106,
+      "expected": "interviews,",
+      "ocr": "interviews,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 30,
+      "sampleFrame": 1142,
+      "expected": "personalized feedback,",
+      "ocr": "personalized feedback,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 31,
+      "sampleFrame": 1172,
+      "expected": "and mentorship,",
+      "ocr": "and mentorship,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 32,
+      "sampleFrame": 1209,
+      "expected": "all in one place.",
+      "ocr": "all in one place.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 33,
+      "sampleFrame": 1251,
+      "expected": "Our vision goes beyond",
+      "ocr": "Our vision goes beyond",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 34,
+      "sampleFrame": 1279,
+      "expected": "the examination,",
+      "ocr": "the \u201ca |",
+      "similarity": 0.444,
+      "review": true
+    },
+    {
+      "page": 35,
+      "sampleFrame": 1306,
+      "expected": "we want the students",
+      "ocr": "we want the students",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 36,
+      "sampleFrame": 1329,
+      "expected": "to understand their",
+      "ocr": "to understand their",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 37,
+      "sampleFrame": 1378,
+      "expected": "opportunities and make",
+      "ocr": "opportunities and\nmake",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 38,
+      "sampleFrame": 1430,
+      "expected": "informed decisions about",
+      "ocr": "informed decisions\nabout",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 39,
+      "sampleFrame": 1454,
+      "expected": "their future,",
+      "ocr": "their future,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 40,
+      "sampleFrame": 1517,
+      "expected": "because one exam shouldn't",
+      "ocr": "because one exam\nshouldn't",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 41,
+      "sampleFrame": 1550,
+      "expected": "define your future.",
+      "ocr": "\u00a3 define your future.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 42,
+      "sampleFrame": 1568,
+      "expected": "NioLearn,",
+      "ocr": "A -\u2014 : | he",
+      "similarity": 0.182,
+      "review": true
+    },
+    {
+      "page": 43,
+      "sampleFrame": 1599,
+      "expected": "navigate more",
+      "ocr": "4 \u2018ioe |",
+      "similarity": 0.25,
+      "review": true
+    },
+    {
+      "page": 44,
+      "sampleFrame": 1613,
+      "expected": "possibilities.",
+      "ocr": "\u201d \u2014 |",
+      "similarity": 0.0,
+      "review": true
+    }
+  ]
+}

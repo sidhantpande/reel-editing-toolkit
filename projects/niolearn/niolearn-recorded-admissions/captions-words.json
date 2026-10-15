@@ -1,0 +1,826 @@
+{
+  "fps": 30,
+  "status": "reviewed-source-aligned",
+  "words": [
+    {
+      "text": "Planning",
+      "startFrame": 3,
+      "endFrame": 11,
+      "startMs": 100.0,
+      "endMs": 366.667,
+      "sourceStart": 1.96,
+      "sourceEnd": 2.23,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "to",
+      "startFrame": 11,
+      "endFrame": 17,
+      "startMs": 366.667,
+      "endMs": 566.667,
+      "sourceStart": 2.23,
+      "sourceEnd": 2.43,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "join",
+      "startFrame": 17,
+      "endFrame": 23,
+      "startMs": 566.667,
+      "endMs": 766.667,
+      "sourceStart": 2.43,
+      "sourceEnd": 2.65,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "a",
+      "startFrame": 23,
+      "endFrame": 31,
+      "startMs": 766.667,
+      "endMs": 1033.333,
+      "sourceStart": 2.65,
+      "sourceEnd": 2.89,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "new-gen",
+      "startFrame": 31,
+      "endFrame": 40,
+      "startMs": 1033.333,
+      "endMs": 1333.333,
+      "sourceStart": 2.89,
+      "sourceEnd": 3.19,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "technology",
+      "startFrame": 40,
+      "endFrame": 55,
+      "startMs": 1333.333,
+      "endMs": 1833.333,
+      "sourceStart": 3.19,
+      "sourceEnd": 3.69,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "college",
+      "startFrame": 55,
+      "endFrame": 66,
+      "startMs": 1833.333,
+      "endMs": 2200.0,
+      "sourceStart": 3.69,
+      "sourceEnd": 4.07,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "in",
+      "startFrame": 66,
+      "endFrame": 75,
+      "startMs": 2200.0,
+      "endMs": 2500.0,
+      "sourceStart": 4.07,
+      "sourceEnd": 4.37,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "2027?",
+      "startFrame": 75,
+      "endFrame": 99,
+      "startMs": 2500.0,
+      "endMs": 3300.0,
+      "sourceStart": 4.37,
+      "sourceEnd": 5.15,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "This",
+      "startFrame": 110,
+      "endFrame": 114,
+      "startMs": 3666.667,
+      "endMs": 3800.0,
+      "sourceStart": 5.53,
+      "sourceEnd": 5.65,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "video",
+      "startFrame": 114,
+      "endFrame": 117,
+      "startMs": 3800.0,
+      "endMs": 3900.0,
+      "sourceStart": 5.65,
+      "sourceEnd": 5.77,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "is",
+      "startFrame": 117,
+      "endFrame": 120,
+      "startMs": 3900.0,
+      "endMs": 4000.0,
+      "sourceStart": 5.77,
+      "sourceEnd": 5.87,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "for",
+      "startFrame": 120,
+      "endFrame": 126,
+      "startMs": 4000.0,
+      "endMs": 4200.0,
+      "sourceStart": 5.87,
+      "sourceEnd": 6.07,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "you.",
+      "startFrame": 126,
+      "endFrame": 132,
+      "startMs": 4200.0,
+      "endMs": 4400.0,
+      "sourceStart": 6.07,
+      "sourceEnd": 6.27,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "Admissions",
+      "startFrame": 135,
+      "endFrame": 149,
+      "startMs": 4500.0,
+      "endMs": 4966.667,
+      "sourceStart": 6.86,
+      "sourceEnd": 7.33,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "are",
+      "startFrame": 149,
+      "endFrame": 157,
+      "startMs": 4966.667,
+      "endMs": 5233.333,
+      "sourceStart": 7.33,
+      "sourceEnd": 7.59,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "officially",
+      "startFrame": 157,
+      "endFrame": 167,
+      "startMs": 5233.333,
+      "endMs": 5566.667,
+      "sourceStart": 7.59,
+      "sourceEnd": 7.93,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "open",
+      "startFrame": 167,
+      "endFrame": 176,
+      "startMs": 5566.667,
+      "endMs": 5866.667,
+      "sourceStart": 7.93,
+      "sourceEnd": 8.23,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "for",
+      "startFrame": 176,
+      "endFrame": 183,
+      "startMs": 5866.667,
+      "endMs": 6100.0,
+      "sourceStart": 8.23,
+      "sourceEnd": 8.47,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "NioLearn's",
+      "startFrame": 183,
+      "endFrame": 194,
+      "startMs": 6100.0,
+      "endMs": 6466.667,
+      "sourceStart": 8.47,
+      "sourceEnd": 8.83,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "first",
+      "startFrame": 210,
+      "endFrame": 217,
+      "startMs": 7000.0,
+      "endMs": 7233.333,
+      "sourceStart": 9.35,
+      "sourceEnd": 9.59,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "cohort",
+      "startFrame": 217,
+      "endFrame": 228,
+      "startMs": 7233.333,
+      "endMs": 7600.0,
+      "sourceStart": 9.59,
+      "sourceEnd": 9.95,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "for",
+      "startFrame": 228,
+      "endFrame": 236,
+      "startMs": 7600.0,
+      "endMs": 7866.667,
+      "sourceStart": 9.95,
+      "sourceEnd": 10.23,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "the",
+      "startFrame": 236,
+      "endFrame": 241,
+      "startMs": 7866.667,
+      "endMs": 8033.333,
+      "sourceStart": 10.23,
+      "sourceEnd": 10.39,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "students",
+      "startFrame": 241,
+      "endFrame": 253,
+      "startMs": 8033.333,
+      "endMs": 8433.333,
+      "sourceStart": 10.39,
+      "sourceEnd": 10.79,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "who",
+      "startFrame": 253,
+      "endFrame": 265,
+      "startMs": 8433.333,
+      "endMs": 8833.333,
+      "sourceStart": 10.79,
+      "sourceEnd": 11.19,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "are",
+      "startFrame": 265,
+      "endFrame": 268,
+      "startMs": 8833.333,
+      "endMs": 8933.333,
+      "sourceStart": 11.19,
+      "sourceEnd": 11.31,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "targeting",
+      "startFrame": 268,
+      "endFrame": 279,
+      "startMs": 8933.333,
+      "endMs": 9300.0,
+      "sourceStart": 11.31,
+      "sourceEnd": 11.67,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "the",
+      "startFrame": 279,
+      "endFrame": 282,
+      "startMs": 9300.0,
+      "endMs": 9400.0,
+      "sourceStart": 11.67,
+      "sourceEnd": 11.77,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "2027",
+      "startFrame": 282,
+      "endFrame": 312,
+      "startMs": 9400.0,
+      "endMs": 10400.0,
+      "sourceStart": 11.77,
+      "sourceEnd": 12.77,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "admissions",
+      "startFrame": 312,
+      "endFrame": 331,
+      "startMs": 10400.0,
+      "endMs": 11033.333,
+      "sourceStart": 12.77,
+      "sourceEnd": 13.41,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "cycle.",
+      "startFrame": 331,
+      "endFrame": 346,
+      "startMs": 11033.333,
+      "endMs": 11533.333,
+      "sourceStart": 13.41,
+      "sourceEnd": 13.91,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "In",
+      "startFrame": 352,
+      "endFrame": 356,
+      "startMs": 11733.333,
+      "endMs": 11866.667,
+      "sourceStart": 14.37,
+      "sourceEnd": 14.51,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "this,",
+      "startFrame": 356,
+      "endFrame": 364,
+      "startMs": 11866.667,
+      "endMs": 12133.333,
+      "sourceStart": 14.51,
+      "sourceEnd": 14.75,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "you",
+      "startFrame": 366,
+      "endFrame": 369,
+      "startMs": 12200.0,
+      "endMs": 12300.0,
+      "sourceStart": 14.83,
+      "sourceEnd": 14.93,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "will",
+      "startFrame": 369,
+      "endFrame": 373,
+      "startMs": 12300.0,
+      "endMs": 12433.333,
+      "sourceStart": 14.93,
+      "sourceEnd": 15.05,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "be",
+      "startFrame": 373,
+      "endFrame": 378,
+      "startMs": 12433.333,
+      "endMs": 12600.0,
+      "sourceStart": 15.05,
+      "sourceEnd": 15.25,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "provided",
+      "startFrame": 378,
+      "endFrame": 384,
+      "startMs": 12600.0,
+      "endMs": 12800.0,
+      "sourceStart": 15.25,
+      "sourceEnd": 15.43,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "with",
+      "startFrame": 384,
+      "endFrame": 394,
+      "startMs": 12800.0,
+      "endMs": 13133.333,
+      "sourceStart": 15.43,
+      "sourceEnd": 15.76,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "live",
+      "startFrame": 406,
+      "endFrame": 417,
+      "startMs": 13533.333,
+      "endMs": 13900.0,
+      "sourceStart": 16.18,
+      "sourceEnd": 16.53,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "classes,",
+      "startFrame": 417,
+      "endFrame": 436,
+      "startMs": 13900.0,
+      "endMs": 14533.333,
+      "sourceStart": 16.53,
+      "sourceEnd": 17.15,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "personalized",
+      "startFrame": 442,
+      "endFrame": 458,
+      "startMs": 14733.333,
+      "endMs": 15266.667,
+      "sourceStart": 17.52,
+      "sourceEnd": 18.05,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "mentorship,",
+      "startFrame": 458,
+      "endFrame": 477,
+      "startMs": 15266.667,
+      "endMs": 15900.0,
+      "sourceStart": 18.05,
+      "sourceEnd": 18.71,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "mock",
+      "startFrame": 490,
+      "endFrame": 498,
+      "startMs": 16333.333,
+      "endMs": 16600.0,
+      "sourceStart": 19.12,
+      "sourceEnd": 19.39,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "interviews,",
+      "startFrame": 498,
+      "endFrame": 515,
+      "startMs": 16600.0,
+      "endMs": 17166.667,
+      "sourceStart": 19.39,
+      "sourceEnd": 19.97,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "mock",
+      "startFrame": 525,
+      "endFrame": 530,
+      "startMs": 17500.0,
+      "endMs": 17666.667,
+      "sourceStart": 20.51,
+      "sourceEnd": 20.67,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "lectures,",
+      "startFrame": 530,
+      "endFrame": 548,
+      "startMs": 17666.667,
+      "endMs": 18266.667,
+      "sourceStart": 20.67,
+      "sourceEnd": 21.25,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "mock",
+      "startFrame": 563,
+      "endFrame": 568,
+      "startMs": 18766.667,
+      "endMs": 18933.333,
+      "sourceStart": 21.77,
+      "sourceEnd": 21.95,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "tests",
+      "startFrame": 568,
+      "endFrame": 584,
+      "startMs": 18933.333,
+      "endMs": 19466.667,
+      "sourceStart": 21.95,
+      "sourceEnd": 22.47,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "and",
+      "startFrame": 587,
+      "endFrame": 602,
+      "startMs": 19566.667,
+      "endMs": 20066.667,
+      "sourceStart": 22.47,
+      "sourceEnd": 23.25,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "expert",
+      "startFrame": 602,
+      "endFrame": 620,
+      "startMs": 20066.667,
+      "endMs": 20666.667,
+      "sourceStart": 23.25,
+      "sourceEnd": 23.85,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "guidance,",
+      "startFrame": 620,
+      "endFrame": 637,
+      "startMs": 20666.667,
+      "endMs": 21233.333,
+      "sourceStart": 23.85,
+      "sourceEnd": 24.41,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "all",
+      "startFrame": 649,
+      "endFrame": 660,
+      "startMs": 21633.333,
+      "endMs": 22000.0,
+      "sourceStart": 24.79,
+      "sourceEnd": 25.17,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "in",
+      "startFrame": 660,
+      "endFrame": 669,
+      "startMs": 22000.0,
+      "endMs": 22300.0,
+      "sourceStart": 25.17,
+      "sourceEnd": 25.47,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "one",
+      "startFrame": 669,
+      "endFrame": 678,
+      "startMs": 22300.0,
+      "endMs": 22600.0,
+      "sourceStart": 25.47,
+      "sourceEnd": 25.75,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "place.",
+      "startFrame": 678,
+      "endFrame": 689,
+      "startMs": 22600.0,
+      "endMs": 22966.667,
+      "sourceStart": 25.75,
+      "sourceEnd": 26.13,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "don't",
+      "startFrame": 693,
+      "endFrame": 703,
+      "startMs": 23100.0,
+      "endMs": 23433.333,
+      "sourceStart": 32.38,
+      "sourceEnd": 32.71,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "wait",
+      "startFrame": 703,
+      "endFrame": 712,
+      "startMs": 23433.333,
+      "endMs": 23733.333,
+      "sourceStart": 32.71,
+      "sourceEnd": 33.01,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "until",
+      "startFrame": 712,
+      "endFrame": 723,
+      "startMs": 23733.333,
+      "endMs": 24100.0,
+      "sourceStart": 33.01,
+      "sourceEnd": 33.37,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "the",
+      "startFrame": 723,
+      "endFrame": 735,
+      "startMs": 24100.0,
+      "endMs": 24500.0,
+      "sourceStart": 33.37,
+      "sourceEnd": 33.75,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "entrance",
+      "startFrame": 735,
+      "endFrame": 741,
+      "startMs": 24500.0,
+      "endMs": 24700.0,
+      "sourceStart": 33.75,
+      "sourceEnd": 33.97,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "exams",
+      "startFrame": 741,
+      "endFrame": 753,
+      "startMs": 24700.0,
+      "endMs": 25100.0,
+      "sourceStart": 33.97,
+      "sourceEnd": 34.37,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "are",
+      "startFrame": 753,
+      "endFrame": 760,
+      "startMs": 25100.0,
+      "endMs": 25333.333,
+      "sourceStart": 34.37,
+      "sourceEnd": 34.61,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "around",
+      "startFrame": 760,
+      "endFrame": 766,
+      "startMs": 25333.333,
+      "endMs": 25533.333,
+      "sourceStart": 34.61,
+      "sourceEnd": 34.81,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "the",
+      "startFrame": 766,
+      "endFrame": 774,
+      "startMs": 25533.333,
+      "endMs": 25800.0,
+      "sourceStart": 34.81,
+      "sourceEnd": 35.05,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "corner.",
+      "startFrame": 774,
+      "endFrame": 783,
+      "startMs": 25800.0,
+      "endMs": 26100.0,
+      "sourceStart": 35.05,
+      "sourceEnd": 35.37,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "Visit",
+      "startFrame": 786,
+      "endFrame": 790,
+      "startMs": 26200.0,
+      "endMs": 26333.333,
+      "sourceStart": 35.81,
+      "sourceEnd": 35.94,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "the",
+      "startFrame": 790,
+      "endFrame": 796,
+      "startMs": 26333.333,
+      "endMs": 26533.333,
+      "sourceStart": 35.94,
+      "sourceEnd": 36.15,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "NioLearn",
+      "startFrame": 796,
+      "endFrame": 805,
+      "startMs": 26533.333,
+      "endMs": 26833.333,
+      "sourceStart": 36.15,
+      "sourceEnd": 36.43,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "website",
+      "startFrame": 805,
+      "endFrame": 819,
+      "startMs": 26833.333,
+      "endMs": 27300.0,
+      "sourceStart": 36.43,
+      "sourceEnd": 36.89,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "and",
+      "startFrame": 819,
+      "endFrame": 832,
+      "startMs": 27300.0,
+      "endMs": 27733.333,
+      "sourceStart": 36.89,
+      "sourceEnd": 37.33,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "register",
+      "startFrame": 832,
+      "endFrame": 843,
+      "startMs": 27733.333,
+      "endMs": 28100.0,
+      "sourceStart": 37.33,
+      "sourceEnd": 37.69,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "for",
+      "startFrame": 843,
+      "endFrame": 852,
+      "startMs": 28100.0,
+      "endMs": 28400.0,
+      "sourceStart": 37.69,
+      "sourceEnd": 37.99,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "the",
+      "startFrame": 852,
+      "endFrame": 857,
+      "startMs": 28400.0,
+      "endMs": 28566.667,
+      "sourceStart": 37.99,
+      "sourceEnd": 38.17,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "first",
+      "startFrame": 857,
+      "endFrame": 866,
+      "startMs": 28566.667,
+      "endMs": 28866.667,
+      "sourceStart": 38.17,
+      "sourceEnd": 38.45,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "cohort",
+      "startFrame": 866,
+      "endFrame": 875,
+      "startMs": 28866.667,
+      "endMs": 29166.667,
+      "sourceStart": 38.45,
+      "sourceEnd": 38.75,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "right",
+      "startFrame": 875,
+      "endFrame": 893,
+      "startMs": 29166.667,
+      "endMs": 29766.667,
+      "sourceStart": 38.75,
+      "sourceEnd": 39.37,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "now.",
+      "startFrame": 893,
+      "endFrame": 899,
+      "startMs": 29766.667,
+      "endMs": 29966.667,
+      "sourceStart": 39.37,
+      "sourceEnd": 39.56,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "Your",
+      "startFrame": 902,
+      "endFrame": 908,
+      "startMs": 30066.667,
+      "endMs": 30266.667,
+      "sourceStart": 39.93,
+      "sourceEnd": 40.13,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "opportunity",
+      "startFrame": 908,
+      "endFrame": 930,
+      "startMs": 30266.667,
+      "endMs": 31000.0,
+      "sourceStart": 40.13,
+      "sourceEnd": 40.85,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "starts",
+      "startFrame": 930,
+      "endFrame": 943,
+      "startMs": 31000.0,
+      "endMs": 31433.333,
+      "sourceStart": 40.85,
+      "sourceEnd": 41.31,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    },
+    {
+      "text": "here.",
+      "startFrame": 943,
+      "endFrame": 952,
+      "startMs": 31433.333,
+      "endMs": 31733.333,
+      "sourceStart": 41.31,
+      "sourceEnd": 41.61,
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+    }
+  ]
+}

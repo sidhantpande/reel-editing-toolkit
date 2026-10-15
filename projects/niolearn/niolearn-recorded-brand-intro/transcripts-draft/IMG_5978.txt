@@ -1,0 +1,6 @@
+[0.00-6.66]  New Holland is a modern tech admission platform which offers structured life
+[6.66-14.22]  classes, mocks, interviews, personalized feedback and mentorship all in one
+[14.22-19.20]  place. Our vision goes beyond the examination. We want the students to understand
+[19.20-24.60]  their opportunities and make informed decision about their future because one
+[24.60-27.08]  One exam shouldn't define your future.
+[27.78-29.82]  New learned, navigate more possibilities.

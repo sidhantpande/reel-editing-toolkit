@@ -1,0 +1,174 @@
+{
+  "id": "niolearn-11",
+  "fps": 30,
+  "dialogueFrames": 1290,
+  "endHoldFrames": 45,
+  "totalFrames": 1335,
+  "cuts": [
+    {
+      "source": "media/raw/niolearn/niolearn-11/IMG_5966.mov",
+      "inFrame": 13,
+      "outFrame": 125,
+      "timelineFrom": 0,
+      "duration": 112,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Weak intro example"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-11/IMG_5966.mov",
+      "inFrame": 131,
+      "outFrame": 304,
+      "timelineFrom": 112,
+      "duration": 173,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Interviewer calls it resume reading"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-11/IMG_5966.mov",
+      "inFrame": 321,
+      "outFrame": 366,
+      "timelineFrom": 285,
+      "duration": 45,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Strong answer lead-in"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-11/IMG_5966.mov",
+      "inFrame": 378,
+      "outFrame": 416,
+      "timelineFrom": 330,
+      "duration": 38,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Recorded three-thing phrasing; preserve actual source"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-11/IMG_5966.mov",
+      "inFrame": 418,
+      "outFrame": 448,
+      "timelineFrom": 368,
+      "duration": 30,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Hook"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-11/IMG_5966.mov",
+      "inFrame": 459,
+      "outFrame": 499,
+      "timelineFrom": 398,
+      "duration": 40,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Proof"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-11/IMG_5966.mov",
+      "inFrame": 509,
+      "outFrame": 573,
+      "timelineFrom": 438,
+      "duration": 64,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Why this college"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-11/IMG_5966.mov",
+      "inFrame": 578,
+      "outFrame": 619,
+      "timelineFrom": 502,
+      "duration": 41,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Next goal"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-11/IMG_5966.mov",
+      "inFrame": 633,
+      "outFrame": 697,
+      "timelineFrom": 543,
+      "duration": 64,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Frame your introduction"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-11/IMG_5966.mov",
+      "inFrame": 715,
+      "outFrame": 880,
+      "timelineFrom": 607,
+      "duration": 165,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Complete English project proof example"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-11/IMG_5966.mov",
+      "inFrame": 885,
+      "outFrame": 997,
+      "timelineFrom": 772,
+      "duration": 112,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "College opportunity"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-11/IMG_5966.mov",
+      "inFrame": 1009,
+      "outFrame": 1069,
+      "timelineFrom": 884,
+      "duration": 60,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Next project goal"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-11/IMG_5966.mov",
+      "inFrame": 1083,
+      "outFrame": 1263,
+      "timelineFrom": 944,
+      "duration": 180,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "What interviewer learns"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-11/IMG_5966.mov",
+      "inFrame": 1269,
+      "outFrame": 1338,
+      "timelineFrom": 1124,
+      "duration": 69,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Follow tips"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-11/IMG_5966.mov",
+      "inFrame": 1343,
+      "outFrame": 1440,
+      "timelineFrom": 1193,
+      "duration": 97,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Improve website CTA"
+    }
+  ]
+}

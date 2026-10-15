@@ -1,0 +1,152 @@
+{
+  "id": "niolearn-20",
+  "fps": 30,
+  "dialogueFrames": 1378,
+  "endHoldFrames": 45,
+  "totalFrames": 1423,
+  "cuts": [
+    {
+      "source": "media/raw/niolearn/niolearn-20/IMG_5967.mov",
+      "inFrame": 45,
+      "outFrame": 106,
+      "timelineFrom": 0,
+      "duration": 61,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Brochure hook"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-20/IMG_5967.mov",
+      "inFrame": 116,
+      "outFrame": 208,
+      "timelineFrom": 61,
+      "duration": 92,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Six-factor setup"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-20/IMG_5967.mov",
+      "inFrame": 222,
+      "outFrame": 292,
+      "timelineFrom": 153,
+      "duration": 70,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Degree recognition"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-20/IMG_5967.mov",
+      "inFrame": 310,
+      "outFrame": 384,
+      "timelineFrom": 223,
+      "duration": 74,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Total fees"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-20/IMG_5967.mov",
+      "inFrame": 401,
+      "outFrame": 499,
+      "timelineFrom": 297,
+      "duration": 98,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Selection process"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-20/IMG_5967.mov",
+      "inFrame": 520,
+      "outFrame": 629,
+      "timelineFrom": 395,
+      "duration": 109,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Curriculum"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-20/IMG_5967.mov",
+      "inFrame": 645,
+      "outFrame": 772,
+      "timelineFrom": 504,
+      "duration": 127,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Mentors industry exposure"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-20/IMG_5967.mov",
+      "inFrame": 779,
+      "outFrame": 867,
+      "timelineFrom": 631,
+      "duration": 88,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Outcome transparency"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-20/IMG_5967.mov",
+      "inFrame": 872,
+      "outFrame": 1041,
+      "timelineFrom": 719,
+      "duration": 169,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Compare and score 1 to 5"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-20/IMG_5967.mov",
+      "inFrame": 1048,
+      "outFrame": 1157,
+      "timelineFrom": 888,
+      "duration": 109,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Total and avoid hype"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-20/IMG_5971.mov",
+      "inFrame": 28,
+      "outFrame": 179,
+      "timelineFrom": 997,
+      "duration": 151,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Replacement direct-answer trust ending"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-20/IMG_5971.mov",
+      "inFrame": 189,
+      "outFrame": 324,
+      "timelineFrom": 1148,
+      "duration": 135,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Comment sheet CTA"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-20/IMG_5971.mov",
+      "inFrame": 337,
+      "outFrame": 432,
+      "timelineFrom": 1283,
+      "duration": 95,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Website CTA"
+    }
+  ]
+}

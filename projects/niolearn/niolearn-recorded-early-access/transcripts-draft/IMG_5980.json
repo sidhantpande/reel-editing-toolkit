@@ -1,0 +1,392 @@
+{
+  "source": "IMG_5980.wav",
+  "language": "en",
+  "status": "ASR_DRAFT_FOR_MATCHING_NOT_FINAL_CAPTIONS",
+  "segments": [
+    {
+      "start": 0.8399999999999981,
+      "end": 3.2,
+      "text": " Planning to get into a new generation tech college.",
+      "words": [
+        {
+          "start": 0.8399999999999981,
+          "end": 1.42,
+          "text": " Planning",
+          "probability": 0.39069268107414246
+        },
+        {
+          "start": 1.42,
+          "end": 1.6,
+          "text": " to",
+          "probability": 0.992615818977356
+        },
+        {
+          "start": 1.6,
+          "end": 1.74,
+          "text": " get",
+          "probability": 0.9936222434043884
+        },
+        {
+          "start": 1.74,
+          "end": 1.98,
+          "text": " into",
+          "probability": 0.97237229347229
+        },
+        {
+          "start": 1.98,
+          "end": 2.08,
+          "text": " a",
+          "probability": 0.9651257991790771
+        },
+        {
+          "start": 2.08,
+          "end": 2.22,
+          "text": " new",
+          "probability": 0.8642814755439758
+        },
+        {
+          "start": 2.22,
+          "end": 2.48,
+          "text": " generation",
+          "probability": 0.967384397983551
+        },
+        {
+          "start": 2.48,
+          "end": 2.82,
+          "text": " tech",
+          "probability": 0.9497544169425964
+        },
+        {
+          "start": 2.82,
+          "end": 3.2,
+          "text": " college.",
+          "probability": 0.9701313972473145
+        }
+      ]
+    },
+    {
+      "start": 3.78,
+      "end": 4.38,
+      "text": " This is for you.",
+      "words": [
+        {
+          "start": 3.78,
+          "end": 3.8,
+          "text": " This",
+          "probability": 0.9574097394943237
+        },
+        {
+          "start": 3.8,
+          "end": 3.92,
+          "text": " is",
+          "probability": 0.9883911609649658
+        },
+        {
+          "start": 3.92,
+          "end": 4.12,
+          "text": " for",
+          "probability": 0.9953631162643433
+        },
+        {
+          "start": 4.12,
+          "end": 4.38,
+          "text": " you.",
+          "probability": 0.9956610798835754
+        }
+      ]
+    },
+    {
+      "start": 5.22,
+      "end": 8.54,
+      "text": " Different examinations, different categories and interviews.",
+      "words": [
+        {
+          "start": 5.22,
+          "end": 5.44,
+          "text": " Different",
+          "probability": 0.9957773685455322
+        },
+        {
+          "start": 5.44,
+          "end": 6.2,
+          "text": " examinations,",
+          "probability": 0.7472313940525055
+        },
+        {
+          "start": 6.7,
+          "end": 6.94,
+          "text": " different",
+          "probability": 0.9944367408752441
+        },
+        {
+          "start": 6.94,
+          "end": 7.32,
+          "text": " categories",
+          "probability": 0.14035025238990784
+        },
+        {
+          "start": 7.32,
+          "end": 8.04,
+          "text": " and",
+          "probability": 0.7384926080703735
+        },
+        {
+          "start": 8.04,
+          "end": 8.54,
+          "text": " interviews.",
+          "probability": 0.9941324591636658
+        }
+      ]
+    },
+    {
+      "start": 9.3,
+      "end": 11.88,
+      "text": " Preparing for all of them can get a bit confusing.",
+      "words": [
+        {
+          "start": 9.3,
+          "end": 9.72,
+          "text": " Preparing",
+          "probability": 0.9768616855144501
+        },
+        {
+          "start": 9.72,
+          "end": 9.92,
+          "text": " for",
+          "probability": 0.996976375579834
+        },
+        {
+          "start": 9.92,
+          "end": 10.34,
+          "text": " all",
+          "probability": 0.9946371912956238
+        },
+        {
+          "start": 10.34,
+          "end": 10.52,
+          "text": " of",
+          "probability": 0.9866878390312195
+        },
+        {
+          "start": 10.52,
+          "end": 10.74,
+          "text": " them",
+          "probability": 0.9619133472442627
+        },
+        {
+          "start": 10.74,
+          "end": 10.92,
+          "text": " can",
+          "probability": 0.9754725098609924
+        },
+        {
+          "start": 10.92,
+          "end": 11.14,
+          "text": " get",
+          "probability": 0.9897869825363159
+        },
+        {
+          "start": 11.14,
+          "end": 11.24,
+          "text": " a",
+          "probability": 0.9922184944152832
+        },
+        {
+          "start": 11.24,
+          "end": 11.36,
+          "text": " bit",
+          "probability": 0.9981003403663635
+        },
+        {
+          "start": 11.36,
+          "end": 11.88,
+          "text": " confusing.",
+          "probability": 0.9891798496246338
+        }
+      ]
+    },
+    {
+      "start": 12.64,
+      "end": 14.66,
+      "text": " That's where New Orleans comes into action.",
+      "words": [
+        {
+          "start": 12.64,
+          "end": 13.08,
+          "text": " That's",
+          "probability": 0.9336138665676117
+        },
+        {
+          "start": 13.08,
+          "end": 13.22,
+          "text": " where",
+          "probability": 0.7465152740478516
+        },
+        {
+          "start": 13.22,
+          "end": 13.4,
+          "text": " New",
+          "probability": 0.3400120437145233
+        },
+        {
+          "start": 13.4,
+          "end": 13.6,
+          "text": " Orleans",
+          "probability": 0.6090707182884216
+        },
+        {
+          "start": 13.6,
+          "end": 13.88,
+          "text": " comes",
+          "probability": 0.992668628692627
+        },
+        {
+          "start": 13.88,
+          "end": 14.26,
+          "text": " into",
+          "probability": 0.9963954091072083
+        },
+        {
+          "start": 14.26,
+          "end": 14.66,
+          "text": " action.",
+          "probability": 0.9971070885658264
+        }
+      ]
+    },
+    {
+      "start": 15.32,
+      "end": 21.02,
+      "text": " We help you prepare with structured life classes, expert mentorship and personalized interviews",
+      "words": [
+        {
+          "start": 15.32,
+          "end": 15.48,
+          "text": " We",
+          "probability": 0.9858059287071228
+        },
+        {
+          "start": 15.48,
+          "end": 15.68,
+          "text": " help",
+          "probability": 0.9801945686340332
+        },
+        {
+          "start": 15.68,
+          "end": 15.82,
+          "text": " you",
+          "probability": 0.9965296387672424
+        },
+        {
+          "start": 15.82,
+          "end": 16.12,
+          "text": " prepare",
+          "probability": 0.876481294631958
+        },
+        {
+          "start": 16.12,
+          "end": 16.48,
+          "text": " with",
+          "probability": 0.9708122611045837
+        },
+        {
+          "start": 16.48,
+          "end": 17.06,
+          "text": " structured",
+          "probability": 0.9671189785003662
+        },
+        {
+          "start": 17.06,
+          "end": 17.4,
+          "text": " life",
+          "probability": 0.8366255760192871
+        },
+        {
+          "start": 17.4,
+          "end": 17.76,
+          "text": " classes,",
+          "probability": 0.306845098733902
+        },
+        {
+          "start": 18.32,
+          "end": 18.62,
+          "text": " expert",
+          "probability": 0.8799567222595215
+        },
+        {
+          "start": 18.62,
+          "end": 19.22,
+          "text": " mentorship",
+          "probability": 0.9427745342254639
+        },
+        {
+          "start": 19.22,
+          "end": 19.9,
+          "text": " and",
+          "probability": 0.8262830376625061
+        },
+        {
+          "start": 19.9,
+          "end": 20.36,
+          "text": " personalized",
+          "probability": 0.8508145809173584
+        },
+        {
+          "start": 20.36,
+          "end": 21.02,
+          "text": " interviews",
+          "probability": 0.6681562066078186
+        }
+      ]
+    },
+    {
+      "start": 21.02,
+      "end": 22.56,
+      "text": " so that you can prepare with confidence.",
+      "words": [
+        {
+          "start": 21.02,
+          "end": 21.22,
+          "text": " so",
+          "probability": 0.8703489899635315
+        },
+        {
+          "start": 21.22,
+          "end": 21.32,
+          "text": " that",
+          "probability": 0.9693052768707275
+        },
+        {
+          "start": 21.32,
+          "end": 21.44,
+          "text": " you",
+          "probability": 0.9932891726493835
+        },
+        {
+          "start": 21.44,
+          "end": 21.54,
+          "text": " can",
+          "probability": 0.9926192164421082
+        },
+        {
+          "start": 21.54,
+          "end": 21.82,
+          "text": " prepare",
+          "probability": 0.9845705628395081
+        },
+        {
+          "start": 21.82,
+          "end": 22.06,
+          "text": " with",
+          "probability": 0.9819644689559937
+        },
+        {
+          "start": 22.06,
+          "end": 22.56,
+          "text": " confidence.",
+          "probability": 0.99869304895401
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "from": 128,
+    "duration": 3,
+    "src": "proxies/niolearn-16-holds/cut-128.jpg"
+  },
+  {
+    "from": 817,
+    "duration": 3,
+    "src": "proxies/niolearn-16-holds/cut-817.jpg"
+  },
+  {
+    "from": 887,
+    "duration": 3,
+    "src": "proxies/niolearn-16-holds/cut-887.jpg"
+  }
+]

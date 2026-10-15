@@ -1,0 +1,612 @@
+{
+  "checkedDate": "2026-10-15",
+  "recordedExportsVerified": 14,
+  "cameraOriginalsVerified": 22,
+  "referenceVideosVerified": 5,
+  "unprocessedCameraRecordings": [],
+  "excludedFalseStarts": [
+    "media/raw/atfro/atfro-01/IMG_5999.mov",
+    "media/raw/niolearn/niolearn-11/IMG_5965.mov"
+  ],
+  "pendingScriptsWithoutSourceMedia": [
+    {
+      "id": "atfro-06",
+      "brand": "atfro",
+      "format": "REEL",
+      "title": "MEET NAVNEET: THE HANDOFF PERSON",
+      "script_date": "21 OCT",
+      "script": "projects/atfro/atfro-06/script.md"
+    },
+    {
+      "id": "atfro-08",
+      "brand": "atfro",
+      "format": "REEL",
+      "title": "WHAT HAPPENS BEFORE WE HIT RECORD",
+      "script_date": "23 OCT",
+      "script": "projects/atfro/atfro-08/script.md"
+    },
+    {
+      "id": "atfro-11",
+      "brand": "atfro",
+      "format": "REEL",
+      "title": "WHY THREE SHOTS CAN BE BETTER THAN THIRTY",
+      "script_date": "26 OCT",
+      "script": "projects/atfro/atfro-11/script.md"
+    },
+    {
+      "id": "atfro-13",
+      "brand": "atfro",
+      "format": "REEL",
+      "title": "YOUR WEBSITE MAY BE LOSING EVERY ENQUIRY",
+      "script_date": "28 OCT",
+      "script": "projects/atfro/atfro-13/script.md"
+    },
+    {
+      "id": "atfro-15",
+      "brand": "atfro",
+      "format": "REEL",
+      "title": "THE ATFRO STUDIO PRODUCT DIARY",
+      "script_date": "30 OCT",
+      "script": "projects/atfro/atfro-15/script.md"
+    },
+    {
+      "id": "atfro-18",
+      "brand": "atfro",
+      "format": "REEL",
+      "title": "HEALTHCARE CONTENT HAS A DIFFERENT RULEBOOK",
+      "script_date": "2 NOV",
+      "script": "projects/atfro/atfro-18/script.md"
+    },
+    {
+      "id": "atfro-20",
+      "brand": "atfro",
+      "format": "REEL",
+      "title": "STARTING THE COMPANY WAS THE EASY ANNOUNCEMENT",
+      "script_date": "4 NOV",
+      "script": "projects/atfro/atfro-20/script.md"
+    },
+    {
+      "id": "atfro-22",
+      "brand": "atfro",
+      "format": "REEL",
+      "title": "60-SECOND WEBSITE AUDIT",
+      "script_date": "6 NOV",
+      "script": "projects/atfro/atfro-22/script.md"
+    },
+    {
+      "id": "atfro-25",
+      "brand": "atfro",
+      "format": "REEL",
+      "title": "A VIRAL VIDEO ISN'T A SALES SYSTEM",
+      "script_date": "9 NOV",
+      "script": "projects/atfro/atfro-25/script.md"
+    },
+    {
+      "id": "atfro-27",
+      "brand": "atfro",
+      "format": "REEL",
+      "title": "WHAT HAPPENS AFTER YOU MESSAGE ATFRO?",
+      "script_date": "11 NOV",
+      "script": "projects/atfro/atfro-27/script.md"
+    },
+    {
+      "id": "atfro-29",
+      "brand": "atfro",
+      "format": "REEL",
+      "title": "MEET SHWETA: THINK BEFORE YOU SHOOT",
+      "script_date": "13 NOV",
+      "script": "projects/atfro/atfro-29/script.md"
+    },
+    {
+      "id": "atfro-30",
+      "brand": "atfro",
+      "format": "REEL",
+      "title": "30 DAYS BACK: WHAT ACTUALLY HAPPENED?",
+      "script_date": "14 NOV",
+      "script": "projects/atfro/atfro-30/script.md"
+    },
+    {
+      "id": "niolearn-03",
+      "brand": "niolearn",
+      "format": "REEL",
+      "title": "NSET vs NSAT vs VSAT: what actually changes?",
+      "script_date": "Sat 3 Oct 2026",
+      "script": "projects/niolearn/niolearn-03/script.md"
+    },
+    {
+      "id": "niolearn-06",
+      "brand": "niolearn",
+      "format": "REEL",
+      "title": "Quick logical reasoning challenge",
+      "script_date": "Tue 6 Oct 2026",
+      "script": "projects/niolearn/niolearn-06/script.md"
+    },
+    {
+      "id": "niolearn-08",
+      "brand": "niolearn",
+      "format": "REEL",
+      "title": "Types of students during an aptitude test",
+      "script_date": "Thu 8 Oct 2026",
+      "script": "projects/niolearn/niolearn-08/script.md"
+    },
+    {
+      "id": "niolearn-14",
+      "brand": "niolearn",
+      "format": "REEL",
+      "title": "Mental math shortcuts for aptitude rounds",
+      "script_date": "Wed 14 Oct 2026",
+      "script": "projects/niolearn/niolearn-14/script.md"
+    },
+    {
+      "id": "niolearn-18",
+      "brand": "niolearn",
+      "format": "REEL",
+      "title": "Student Q\\&A: biggest confusion about new-age admissions",
+      "script_date": "Sun 18 Oct 2026",
+      "script": "projects/niolearn/niolearn-18/script.md"
+    },
+    {
+      "id": "niolearn-22",
+      "brand": "niolearn",
+      "format": "REEL",
+      "title": "Aptitude question of the day",
+      "script_date": "Thu 22 Oct 2026",
+      "script": "projects/niolearn/niolearn-22/script.md"
+    },
+    {
+      "id": "niolearn-23",
+      "brand": "niolearn",
+      "format": "REEL",
+      "title": "NioLearn cohort countdown",
+      "script_date": "Fri 23 Oct 2026",
+      "script": "projects/niolearn/niolearn-23/script.md"
+    },
+    {
+      "id": "niolearn-24",
+      "brand": "niolearn",
+      "format": "REEL",
+      "title": "What students get inside the NioLearn cohort",
+      "script_date": "Sat 24 Oct 2026",
+      "script": "projects/niolearn/niolearn-24/script.md"
+    },
+    {
+      "id": "niolearn-25",
+      "brand": "niolearn",
+      "format": "REEL",
+      "title": "Cohort Day 1: NioLearn kickoff",
+      "script_date": "Sun 25 Oct 2026",
+      "script": "projects/niolearn/niolearn-25/script.md"
+    },
+    {
+      "id": "niolearn-26",
+      "brand": "niolearn",
+      "format": "REEL",
+      "title": "First class reactions / key learnings",
+      "script_date": "Mon 26 Oct 2026",
+      "script": "projects/niolearn/niolearn-26/script.md"
+    },
+    {
+      "id": "niolearn-27",
+      "brand": "niolearn",
+      "format": "REEL",
+      "title": "Diagnostic result breakdown",
+      "script_date": "Tue 27 Oct 2026",
+      "script": "projects/niolearn/niolearn-27/script.md"
+    },
+    {
+      "id": "niolearn-30",
+      "brand": "niolearn",
+      "format": "REEL",
+      "title": "Timed logic challenge",
+      "script_date": "Fri 30 Oct 2026",
+      "script": "projects/niolearn/niolearn-30/script.md"
+    },
+    {
+      "id": "niolearn-31",
+      "brand": "niolearn",
+      "format": "REEL",
+      "title": "How parents can evaluate ROI without guessing",
+      "script_date": "Sat 31 Oct 2026",
+      "script": "projects/niolearn/niolearn-31/script.md"
+    },
+    {
+      "id": "niolearn-32",
+      "brand": "niolearn",
+      "format": "REEL",
+      "title": "October recap: prep, mocks, interviews, decisions",
+      "script_date": "Sun 1 Nov 2026",
+      "script": "projects/niolearn/niolearn-32/script.md"
+    },
+    {
+      "id": "niolearn-33",
+      "brand": "niolearn",
+      "format": "REEL",
+      "title": "Application deadline tracker: how not to miss an option",
+      "script_date": "Mon 2 Nov 2026",
+      "script": "projects/niolearn/niolearn-33/script.md"
+    },
+    {
+      "id": "niolearn-34",
+      "brand": "niolearn",
+      "format": "REEL",
+      "title": "Scholarships across new-age tech schools: what to check",
+      "script_date": "Tue 3 Nov 2026",
+      "script": "projects/niolearn/niolearn-34/script.md"
+    },
+    {
+      "id": "niolearn-35",
+      "brand": "niolearn",
+      "format": "REEL",
+      "title": "Student progress story from the cohort",
+      "script_date": "Wed 4 Nov 2026",
+      "script": "projects/niolearn/niolearn-35/script.md"
+    },
+    {
+      "id": "niolearn-38",
+      "brand": "niolearn",
+      "format": "REEL",
+      "title": "Inside a NioLearn mock review",
+      "script_date": "Sat 7 Nov 2026",
+      "script": "projects/niolearn/niolearn-38/script.md"
+    },
+    {
+      "id": "niolearn-39",
+      "brand": "niolearn",
+      "format": "REEL",
+      "title": "Share a student’s prep journey",
+      "script_date": "Sun 8 Nov 2026",
+      "script": "projects/niolearn/niolearn-39/script.md"
+    },
+    {
+      "id": "niolearn-40",
+      "brand": "niolearn",
+      "format": "REEL",
+      "title": "Share a student’s prep journey: Version B (data-led)",
+      "script_date": "Sat 14 Nov 2026 · sheet says Mon",
+      "script": "projects/niolearn/niolearn-40/script.md"
+    },
+    {
+      "id": "niolearn-41",
+      "brand": "niolearn",
+      "format": "REEL",
+      "title": "Quiz: which entrance strategy would you choose?",
+      "script_date": "Mon 16 Nov 2026 · sheet says Tue",
+      "script": "projects/niolearn/niolearn-41/script.md"
+    },
+    {
+      "id": "niolearn-42",
+      "brand": "niolearn",
+      "format": "REEL",
+      "title": "When your parents ask “degree milegi na?” again",
+      "script_date": "Wed 18 Nov 2026",
+      "script": "projects/niolearn/niolearn-42/script.md"
+    },
+    {
+      "id": "niolearn-44",
+      "brand": "niolearn",
+      "format": "REEL",
+      "title": "Student Q\\&A / doubt room snippets",
+      "script_date": "Sun 22 Nov 2026 · sheet says Fri",
+      "script": "projects/niolearn/niolearn-44/script.md"
+    },
+    {
+      "id": "niolearn-46",
+      "brand": "niolearn",
+      "format": "REEL",
+      "title": "Project question: weak vs strong response (Version B)",
+      "script_date": "Sun 21 Sep 2025 (sheet date typo; repeat of Oct 19 topic)",
+      "script": "projects/niolearn/niolearn-46/script.md"
+    },
+    {
+      "id": "niolearn-49",
+      "brand": "niolearn",
+      "format": "REEL",
+      "title": "What NioLearn students practice every week",
+      "script_date": "Tue 24 Nov 2026 · sheet says Wed",
+      "script": "projects/niolearn/niolearn-49/script.md"
+    },
+    {
+      "id": "niolearn-50",
+      "brand": "niolearn",
+      "format": "REEL",
+      "title": "Sunday doubt room",
+      "script_date": "Wed 25 Nov 2026 · sheet says Thu",
+      "script": "projects/niolearn/niolearn-50/script.md"
+    }
+  ],
+  "otherUnproducedCalendarFormats": [
+    {
+      "id": "niolearn-01",
+      "brand": "niolearn",
+      "format": "STATIC",
+      "title": "What are new-age tech schools?",
+      "script_date": "Thu 1 Oct 2026",
+      "script": "projects/niolearn/niolearn-01/script.md"
+    },
+    {
+      "id": "niolearn-02",
+      "brand": "niolearn",
+      "format": "STATIC",
+      "title": "Which new-age tech school entrance are you targeting?",
+      "script_date": "Fri 2 Oct 2026",
+      "script": "projects/niolearn/niolearn-02/script.md"
+    },
+    {
+      "id": "niolearn-05",
+      "brand": "niolearn",
+      "format": "CAROUSEL",
+      "title": "Scaler vs Newton vs Vedam vs Polaris: admissions process",
+      "script_date": "Mon 5 Oct 2026",
+      "script": "projects/niolearn/niolearn-05/script.md"
+    },
+    {
+      "id": "niolearn-10",
+      "brand": "niolearn",
+      "format": "CAROUSEL",
+      "title": "Degree vs certification vs partner university: decode the fine print",
+      "script_date": "Sat 10 Oct 2026",
+      "script": "projects/niolearn/niolearn-10/script.md"
+    },
+    {
+      "id": "niolearn-13",
+      "brand": "niolearn",
+      "format": "CAROUSEL",
+      "title": "Parent checklist: recognition, fees, outcomes, degree model",
+      "script_date": "Tue 13 Oct 2026",
+      "script": "projects/niolearn/niolearn-13/script.md"
+    },
+    {
+      "id": "niolearn-17",
+      "brand": "niolearn",
+      "format": "CAROUSEL",
+      "title": "Inside NioLearn: what a focused prep session looks like",
+      "script_date": "Sat 17 Oct 2026",
+      "script": "projects/niolearn/niolearn-17/script.md"
+    },
+    {
+      "id": "niolearn-21",
+      "brand": "niolearn",
+      "format": "CAROUSEL",
+      "title": "Parent vs student: what each cares about while choosing a school",
+      "script_date": "Wed 21 Oct 2026",
+      "script": "projects/niolearn/niolearn-21/script.md"
+    },
+    {
+      "id": "niolearn-28",
+      "brand": "niolearn",
+      "format": "STATIC",
+      "title": "Why NioLearn focuses only on new-age tech admissions",
+      "script_date": "Wed 28 Oct 2026",
+      "script": "projects/niolearn/niolearn-28/script.md"
+    },
+    {
+      "id": "niolearn-29",
+      "brand": "niolearn",
+      "format": "CAROUSEL",
+      "title": "PI round: what interviewers are actually checking",
+      "script_date": "Thu 29 Oct 2026",
+      "script": "projects/niolearn/niolearn-29/script.md"
+    },
+    {
+      "id": "niolearn-36",
+      "brand": "niolearn",
+      "format": "CAROUSEL",
+      "title": "Top AI tools a future tech student should know",
+      "script_date": "Thu 5 Nov 2026",
+      "script": "projects/niolearn/niolearn-36/script.md"
+    },
+    {
+      "id": "niolearn-37",
+      "brand": "niolearn",
+      "format": "CAROUSEL",
+      "title": "Expectation vs reality: new-age entrance prep",
+      "script_date": "Fri 6 Nov 2026",
+      "script": "projects/niolearn/niolearn-37/script.md"
+    },
+    {
+      "id": "niolearn-43",
+      "brand": "niolearn",
+      "format": "CAROUSEL",
+      "title": "Tech admissions news / application updates",
+      "script_date": "Fri 20 Nov 2026 · sheet says Thu",
+      "script": "projects/niolearn/niolearn-43/script.md"
+    },
+    {
+      "id": "niolearn-45",
+      "brand": "niolearn",
+      "format": "CAROUSEL",
+      "title": "Probability / logic question with solution",
+      "script_date": "Sat 20 Sep 2025 (sheet date typo; slot after 22 Nov)",
+      "script": "projects/niolearn/niolearn-45/script.md"
+    },
+    {
+      "id": "niolearn-47",
+      "brand": "niolearn",
+      "format": "CAROUSEL",
+      "title": "How to shortlist 3 new-age tech schools",
+      "script_date": "Sun 22 Nov 2026 · sheet says Mon",
+      "script": "projects/niolearn/niolearn-47/script.md"
+    },
+    {
+      "id": "niolearn-48",
+      "brand": "niolearn",
+      "format": "CAROUSEL",
+      "title": "5 red flags to check before paying an admission fee",
+      "script_date": "Mon 23 Nov 2026 · sheet says Tue",
+      "script": "projects/niolearn/niolearn-48/script.md"
+    },
+    {
+      "id": "niolearn-51",
+      "brand": "niolearn",
+      "format": "CAROUSEL",
+      "title": "November wrap \\+ next cohort waitlist",
+      "script_date": "Thu 26 Nov 2026 · sheet says Fri",
+      "script": "projects/niolearn/niolearn-51/script.md"
+    }
+  ],
+  "sourceIntegrity": [
+    {
+      "path": "media/raw/niolearn/niolearn-04/IMG_5941.mov",
+      "bytes": 162236514,
+      "sha256": "df53a744b33e2fe28c8dfe5103dd81159e638eea394d8e0d3116dacd7ce90daa",
+      "result": "verified"
+    },
+    {
+      "path": "media/raw/niolearn/niolearn-07/IMG_5947.mov",
+      "bytes": 125705846,
+      "sha256": "67cb499dd98d5fd882733a761543a0e8879c7e89a6a3898a0930fef99b1c5bdf",
+      "result": "verified"
+    },
+    {
+      "path": "media/raw/niolearn/niolearn-09/IMG_5952.mov",
+      "bytes": 122160619,
+      "sha256": "d468ca90c6ef2c35906a0719ac0273274da4a5d0ce062f25ff460fd3d50a74cc",
+      "result": "verified"
+    },
+    {
+      "path": "media/raw/niolearn/niolearn-12/IMG_5956.mov",
+      "bytes": 107694257,
+      "sha256": "4e94f1a3301f03c162c0268ed661ad99f2447b4e8640b478923010ec9fe06070",
+      "result": "verified"
+    },
+    {
+      "path": "media/raw/niolearn/niolearn-15/IMG_5960.mov",
+      "bytes": 186050205,
+      "sha256": "b23c9b957188ed259973b021c62db2db32aa45190d1debc452e2f54f342f9dc6",
+      "result": "verified"
+    },
+    {
+      "path": "media/raw/niolearn/niolearn-16/IMG_5961.mov",
+      "bytes": 121206326,
+      "sha256": "7472ae51001007f65303e831ccef3379534261ac5bf0ff8ff9a485b4bbb9abc1",
+      "result": "verified"
+    },
+    {
+      "path": "media/raw/niolearn/niolearn-16/IMG_5962.mov",
+      "bytes": 55131102,
+      "sha256": "09601c074a78d0636990f78aded33a43333f5ae478ad47d7c5cd0bf5360da090",
+      "result": "verified"
+    },
+    {
+      "path": "media/raw/niolearn/niolearn-19/IMG_5963.mov",
+      "bytes": 170471846,
+      "sha256": "49f514340be8db23d636dfcd5883b0fccc856ff4dc8c25d2f8903b7803ba264c",
+      "result": "verified"
+    },
+    {
+      "path": "media/raw/niolearn/niolearn-11/IMG_5965.mov",
+      "bytes": 10916967,
+      "sha256": "06d085f2490534626a6e267611287c483790ed9b9f3ba4e7fc03b31e0d3c1409",
+      "result": "verified"
+    },
+    {
+      "path": "media/raw/niolearn/niolearn-11/IMG_5966.mov",
+      "bytes": 167913913,
+      "sha256": "d590fde0612ab0cd887ec70927ac4af695b5df992886cb2bed85c17c691f0b2b",
+      "result": "verified"
+    },
+    {
+      "path": "media/raw/niolearn/niolearn-20/IMG_5967.mov",
+      "bytes": 183455211,
+      "sha256": "2ae6c3d74fc48fbea3b46afe8b7c720a83ca80c38963fad86f9567def3387e6f",
+      "result": "verified"
+    },
+    {
+      "path": "media/raw/niolearn/niolearn-20/IMG_5971.mov",
+      "bytes": 51359982,
+      "sha256": "57b10fd76d344d36c1a11e58afe83cf4aedb8c8d8ea5a23d012d562ebf3ac8ff",
+      "result": "verified"
+    },
+    {
+      "path": "media/raw/niolearn/niolearn-recorded-brand-intro/IMG_5974.mov",
+      "bytes": 95004453,
+      "sha256": "dc0ce16e1fddab39af2878842966d9cad5bd71fa16be8345d6f4918f1bb9f64a",
+      "result": "verified"
+    },
+    {
+      "path": "media/raw/niolearn/niolearn-recorded-brand-intro/IMG_5976.mov",
+      "bytes": 39130963,
+      "sha256": "b8921cb5cc69169fe71a4d2192f0083c707723a6c78610cc81ee60a37d6eb9cf",
+      "result": "verified"
+    },
+    {
+      "path": "media/raw/niolearn/niolearn-recorded-brand-intro/IMG_5978.mov",
+      "bytes": 110001295,
+      "sha256": "898ad3f54d5eeabbb8378f80a1f26ffbfc8518f7114c5ae2df5216ad2a761b84",
+      "result": "verified"
+    },
+    {
+      "path": "media/raw/niolearn/niolearn-recorded-early-access/IMG_5980.mov",
+      "bytes": 86560072,
+      "sha256": "5470c980147b29205c698dd55c8f6811634741e8d7d3909590cc8ca471986fad",
+      "result": "verified"
+    },
+    {
+      "path": "media/raw/niolearn/niolearn-recorded-early-access/IMG_5987.mov",
+      "bytes": 44556537,
+      "sha256": "42547f13f1059525a6a737e341efcd2faf2a1f6e528d7afd587696af494cf175",
+      "result": "verified"
+    },
+    {
+      "path": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov",
+      "bytes": 145279297,
+      "sha256": "6b335d24dcd7787d67de2f0b1fbd68b24d8e7417ebaef77b8ac17f8d42fb6ac6",
+      "result": "verified"
+    },
+    {
+      "path": "media/raw/atfro/atfro-04/IMG_5995.mov",
+      "bytes": 154451847,
+      "sha256": "d1ee0bde830ea0323b85aae4a322c1a11674b58880b21a7db440a6be77f78c46",
+      "result": "verified"
+    },
+    {
+      "path": "media/raw/atfro/atfro-04/IMG_5996.mov",
+      "bytes": 25818776,
+      "sha256": "01534d1b3f844aec2730b48a1a4b34fe8f9a29e4004b0cfa65331af761b0be7a",
+      "result": "verified"
+    },
+    {
+      "path": "media/raw/atfro/atfro-01/IMG_5999.mov",
+      "bytes": 55935290,
+      "sha256": "42e411a1c57a6ed4dfe05fd56793ce22b40be275c6a2243ef1f0a0b18397abbd",
+      "result": "verified"
+    },
+    {
+      "path": "media/raw/atfro/atfro-01/IMG_6001.mov",
+      "bytes": 252320249,
+      "sha256": "98f6d88178177d80a6471b209fa007864c62ad5801700d7fb33ef60ced02f0f7",
+      "result": "verified"
+    },
+    {
+      "path": "media/reference/animated-broll/505d87e62e77b841a0b0b52721168c31_720w.mp4",
+      "bytes": 5186107,
+      "sha256": "958c7d25624369465851e5a4f96f7056074af79d3d37aab0b3aa8e9c303c45be",
+      "result": "verified"
+    },
+    {
+      "path": "media/reference/animated-broll/ac7a4e6616e5def4306e0468754568a9_720w.mp4",
+      "bytes": 386758,
+      "sha256": "fddfa27ab282e8cf75c024b1ec482b962140bf334f899f753043aa81727a5f93",
+      "result": "verified"
+    },
+    {
+      "path": "media/reference/animated-broll/e767a28b8bc3f20d77f51ce85a760346_720w.mp4",
+      "bytes": 1454013,
+      "sha256": "e2fff98236fb9b4087c75874cd7acd5471d8c9d3e0dc7756ffa57708b0f13ae5",
+      "result": "verified"
+    },
+    {
+      "path": "media/reference/ideal-captions/SaveClip.App_AQMYtOIzXKKW1HQWMXAmNGjrc4RUOYedmBNMctVlakLwXGvKXs-lRt5xVR3HAUywz7VYrThQXzCF9ocbBrJl6b25.mp4",
+      "bytes": 2585692,
+      "sha256": "8ac570b6803fb10c2d2124b5b8a65b4fa1ebfbc5a346f59ffad6cecc7cdfb27e",
+      "result": "verified"
+    },
+    {
+      "path": "media/reference/secondary-reel/SaveClip.App_AQMX-rWI0dxJ0Y6VPhcN60DEBlKu2gCkyxU-cjV8DZYW229l1KfA92IRONcS7GMtw3vZ9QyJXxSjIdEcjUkTExrYO0_7-etd5lsaOZI.mp4",
+      "bytes": 7644908,
+      "sha256": "439c329e8892d8ad845ead52b3935645d0138d0fdea3a601be0b0e0b4ad487fb",
+      "result": "verified"
+    }
+  ],
+  "status": "All supplied recordings edited; additional calendar reels need their source recordings/media."
+}

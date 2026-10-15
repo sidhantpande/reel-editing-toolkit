@@ -1,0 +1,134 @@
+[
+  {
+    "file": "public/assets/broll/atfro-compare.webm",
+    "width": 1080,
+    "height": 1920,
+    "duration": 6.0,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "decoded-alpha-verified"
+  },
+  {
+    "file": "public/assets/broll/atfro-countdown.webm",
+    "width": 1080,
+    "height": 1920,
+    "duration": 6.0,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "decoded-alpha-verified"
+  },
+  {
+    "file": "public/assets/broll/atfro-crowd.webm",
+    "width": 1080,
+    "height": 1920,
+    "duration": 6.0,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "decoded-alpha-verified"
+  },
+  {
+    "file": "public/assets/broll/atfro-lead-flow.webm",
+    "width": 1080,
+    "height": 1920,
+    "duration": 6.0,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "decoded-alpha-verified"
+  },
+  {
+    "file": "public/assets/broll/atfro-pathways.webm",
+    "width": 1080,
+    "height": 1920,
+    "duration": 6.0,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "decoded-alpha-verified"
+  },
+  {
+    "file": "public/assets/broll/atfro-timeline.webm",
+    "width": 1080,
+    "height": 1920,
+    "duration": 6.0,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "decoded-alpha-verified"
+  },
+  {
+    "file": "public/assets/broll/niolearn-compare.webm",
+    "width": 1080,
+    "height": 1920,
+    "duration": 6.0,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "decoded-alpha-verified"
+  },
+  {
+    "file": "public/assets/broll/niolearn-countdown.webm",
+    "width": 1080,
+    "height": 1920,
+    "duration": 6.0,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "decoded-alpha-verified"
+  },
+  {
+    "file": "public/assets/broll/niolearn-crowd.webm",
+    "width": 1080,
+    "height": 1920,
+    "duration": 6.0,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "decoded-alpha-verified"
+  },
+  {
+    "file": "public/assets/broll/niolearn-lead-flow.webm",
+    "width": 1080,
+    "height": 1920,
+    "duration": 6.0,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "decoded-alpha-verified"
+  },
+  {
+    "file": "public/assets/broll/niolearn-pathways.webm",
+    "width": 1080,
+    "height": 1920,
+    "duration": 6.0,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "decoded-alpha-verified"
+  },
+  {
+    "file": "public/assets/broll/niolearn-timeline.webm",
+    "width": 1080,
+    "height": 1920,
+    "duration": 6.0,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "decoded-alpha-verified"
+  }
+]

@@ -1,0 +1,1010 @@
+{
+  "brand": "niolearn",
+  "captionPreset": "reference",
+  "durationInFrames": 1082,
+  "dialogueAudio": "proxies/niolearn-09-dialogue.wav",
+  "clips": [
+    {
+      "src": "proxies/niolearn-09-aroll.mp4",
+      "duration": 1037,
+      "volume": 0,
+      "from": 0
+    }
+  ],
+  "captions": [
+    {
+      "startMs": 33.333,
+      "endMs": 1166.667,
+      "words": [
+        {
+          "text": "Maths",
+          "startMs": 33.333,
+          "endMs": 333.333
+        },
+        {
+          "text": "mein",
+          "startMs": 333.333,
+          "endMs": 433.333
+        },
+        {
+          "text": "90",
+          "startMs": 433.333,
+          "endMs": 733.333,
+          "accent": true,
+          "emphasis": true
+        },
+        {
+          "text": "aaye,",
+          "startMs": 733.333,
+          "endMs": 1066.667
+        }
+      ],
+      "top": 1240,
+      "fontSize": 84
+    },
+    {
+      "startMs": 1400.0,
+      "endMs": 1800.0,
+      "words": [
+        {
+          "text": "par",
+          "startMs": 1400.0,
+          "endMs": 1500.0
+        },
+        {
+          "text": "abhi",
+          "startMs": 1500.0,
+          "endMs": 1700.0
+        },
+        {
+          "text": "bhi",
+          "startMs": 1700.0,
+          "endMs": 1800.0
+        }
+      ],
+      "top": 1240,
+      "fontSize": 84
+    },
+    {
+      "startMs": 1800.0,
+      "endMs": 2400.0,
+      "words": [
+        {
+          "text": "entrance",
+          "startMs": 1800.0,
+          "endMs": 2066.667
+        },
+        {
+          "text": "tough",
+          "startMs": 2066.667,
+          "endMs": 2300.0,
+          "accent": true,
+          "emphasis": true
+        },
+        {
+          "text": "lag",
+          "startMs": 2300.0,
+          "endMs": 2400.0
+        }
+      ],
+      "top": 1240,
+      "fontSize": 84
+    },
+    {
+      "startMs": 2400.0,
+      "endMs": 2700.0,
+      "words": [
+        {
+          "text": "raha",
+          "startMs": 2400.0,
+          "endMs": 2533.333
+        },
+        {
+          "text": "hai?",
+          "startMs": 2533.333,
+          "endMs": 2600.0
+        }
+      ],
+      "top": 1240,
+      "fontSize": 84
+    },
+    {
+      "startMs": 2766.667,
+      "endMs": 3333.333,
+      "words": [
+        {
+          "text": "Main",
+          "startMs": 2766.667,
+          "endMs": 2833.333
+        },
+        {
+          "text": "batata",
+          "startMs": 2833.333,
+          "endMs": 3033.333
+        },
+        {
+          "text": "hoon",
+          "startMs": 3033.333,
+          "endMs": 3100.0
+        },
+        {
+          "text": "kyun.",
+          "startMs": 3100.0,
+          "endMs": 3233.333
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 3466.667,
+      "endMs": 4133.3330000000005,
+      "words": [
+        {
+          "text": "Pehla,",
+          "startMs": 3466.667,
+          "endMs": 4033.333
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 4166.667,
+      "endMs": 5400.0,
+      "words": [
+        {
+          "text": "saare",
+          "startMs": 4166.667,
+          "endMs": 4566.667
+        },
+        {
+          "text": "questions",
+          "startMs": 4566.667,
+          "endMs": 5100.0,
+          "accent": true,
+          "emphasis": true
+        },
+        {
+          "text": "karne",
+          "startMs": 5100.0,
+          "endMs": 5400.0
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 5400.0,
+      "endMs": 6200.0,
+      "words": [
+        {
+          "text": "ki",
+          "startMs": 5400.0,
+          "endMs": 5566.667
+        },
+        {
+          "text": "zid",
+          "startMs": 5566.667,
+          "endMs": 5866.667
+        },
+        {
+          "text": "rakhna,",
+          "startMs": 5866.667,
+          "endMs": 6100.0
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 6233.333,
+      "endMs": 7466.667,
+      "words": [
+        {
+          "text": "time",
+          "startMs": 6233.333,
+          "endMs": 6533.333
+        },
+        {
+          "text": "limited",
+          "startMs": 6533.333,
+          "endMs": 6866.667,
+          "accent": true,
+          "emphasis": true
+        },
+        {
+          "text": "hota",
+          "startMs": 6866.667,
+          "endMs": 7166.667
+        },
+        {
+          "text": "hai,",
+          "startMs": 7166.667,
+          "endMs": 7366.667
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 7600.0,
+      "endMs": 8400.0,
+      "words": [
+        {
+          "text": "smart",
+          "startMs": 7600.0,
+          "endMs": 8000.0
+        },
+        {
+          "text": "choice",
+          "startMs": 8000.0,
+          "endMs": 8300.0,
+          "accent": true,
+          "emphasis": true
+        },
+        {
+          "text": "bhi",
+          "startMs": 8300.0,
+          "endMs": 8400.0
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 8400.0,
+      "endMs": 9033.333,
+      "words": [
+        {
+          "text": "ek",
+          "startMs": 8400.0,
+          "endMs": 8633.333
+        },
+        {
+          "text": "skill",
+          "startMs": 8633.333,
+          "endMs": 8833.333,
+          "accent": true,
+          "emphasis": true
+        },
+        {
+          "text": "hai.",
+          "startMs": 8833.333,
+          "endMs": 8933.333
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 9133.333,
+      "endMs": 9566.667,
+      "words": [
+        {
+          "text": "Doosra,",
+          "startMs": 9133.333,
+          "endMs": 9466.667
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 10066.667,
+      "endMs": 11100.0,
+      "words": [
+        {
+          "text": "formulas",
+          "startMs": 10066.667,
+          "endMs": 10666.667,
+          "accent": true,
+          "emphasis": true
+        },
+        {
+          "text": "ratna,",
+          "startMs": 10666.667,
+          "endMs": 11000.0
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 11200.0,
+      "endMs": 11933.333,
+      "words": [
+        {
+          "text": "entrance",
+          "startMs": 11200.0,
+          "endMs": 11566.667,
+          "accent": true,
+          "emphasis": true
+        },
+        {
+          "text": "mein",
+          "startMs": 11566.667,
+          "endMs": 11700.0
+        },
+        {
+          "text": "khaali",
+          "startMs": 11700.0,
+          "endMs": 11933.333
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 11933.333,
+      "endMs": 12566.667,
+      "words": [
+        {
+          "text": "maths",
+          "startMs": 11933.333,
+          "endMs": 12233.333,
+          "accent": true,
+          "emphasis": true
+        },
+        {
+          "text": "nahi,",
+          "startMs": 12233.333,
+          "endMs": 12466.667
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 12666.667,
+      "endMs": 13433.333,
+      "words": [
+        {
+          "text": "reasoning",
+          "startMs": 12666.667,
+          "endMs": 13066.667,
+          "accent": true,
+          "emphasis": true
+        },
+        {
+          "text": "bhi",
+          "startMs": 13066.667,
+          "endMs": 13233.333
+        },
+        {
+          "text": "aati",
+          "startMs": 13233.333,
+          "endMs": 13433.333
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 13433.333,
+      "endMs": 14300.0,
+      "words": [
+        {
+          "text": "jahaan",
+          "startMs": 13433.333,
+          "endMs": 13733.333
+        },
+        {
+          "text": "pe",
+          "startMs": 13733.333,
+          "endMs": 13833.333
+        },
+        {
+          "text": "logic",
+          "startMs": 13833.333,
+          "endMs": 14300.0,
+          "accent": true,
+          "emphasis": true
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 14300.0,
+      "endMs": 15433.333,
+      "words": [
+        {
+          "text": "aur",
+          "startMs": 14300.0,
+          "endMs": 14533.333
+        },
+        {
+          "text": "pattern",
+          "startMs": 14533.333,
+          "endMs": 14833.333,
+          "accent": true,
+          "emphasis": true
+        },
+        {
+          "text": "lagta",
+          "startMs": 14833.333,
+          "endMs": 15200.0
+        },
+        {
+          "text": "hai,",
+          "startMs": 15200.0,
+          "endMs": 15400.0
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 15433.333,
+      "endMs": 16000.0,
+      "words": [
+        {
+          "text": "ratta",
+          "startMs": 15433.333,
+          "endMs": 15900.0,
+          "accent": true,
+          "emphasis": true
+        },
+        {
+          "text": "nahi.",
+          "startMs": 15700.0,
+          "endMs": 15900.0
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 16066.667,
+      "endMs": 16666.667,
+      "words": [
+        {
+          "text": "Teesra,",
+          "startMs": 16066.667,
+          "endMs": 16566.667
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 17000.0,
+      "endMs": 18133.333,
+      "words": [
+        {
+          "text": "mocks",
+          "startMs": 17000.0,
+          "endMs": 17400.0,
+          "accent": true,
+          "emphasis": true
+        },
+        {
+          "text": "dena,",
+          "startMs": 17400.0,
+          "endMs": 18033.333
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 18166.667,
+      "endMs": 19100.0,
+      "words": [
+        {
+          "text": "marks",
+          "startMs": 18166.667,
+          "endMs": 18533.333,
+          "accent": true,
+          "emphasis": true
+        },
+        {
+          "text": "dekhna,",
+          "startMs": 18533.333,
+          "endMs": 19033.333
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 19100.0,
+      "endMs": 20333.333,
+      "words": [
+        {
+          "text": "lekin",
+          "startMs": 19100.0,
+          "endMs": 19466.667
+        },
+        {
+          "text": "analyse",
+          "startMs": 19466.667,
+          "endMs": 19933.333,
+          "accent": true,
+          "emphasis": true
+        },
+        {
+          "text": "nahi",
+          "startMs": 19933.333,
+          "endMs": 20100.0
+        },
+        {
+          "text": "karna,",
+          "startMs": 20100.0,
+          "endMs": 20233.333
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 20433.333,
+      "endMs": 21466.667,
+      "words": [
+        {
+          "text": "analyse",
+          "startMs": 20433.333,
+          "endMs": 21000.0,
+          "accent": true,
+          "emphasis": true
+        },
+        {
+          "text": "karna",
+          "startMs": 21000.0,
+          "endMs": 21400.0
+        },
+        {
+          "text": "hi",
+          "startMs": 21400.0,
+          "endMs": 21466.667
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 21466.667,
+      "endMs": 22733.333,
+      "words": [
+        {
+          "text": "sabse",
+          "startMs": 21466.667,
+          "endMs": 21800.0
+        },
+        {
+          "text": "zyada",
+          "startMs": 21800.0,
+          "endMs": 22066.667
+        },
+        {
+          "text": "important",
+          "startMs": 22066.667,
+          "endMs": 22666.667,
+          "accent": true,
+          "emphasis": true
+        },
+        {
+          "text": "hai.",
+          "startMs": 22466.667,
+          "endMs": 22633.333
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 22900.0,
+      "endMs": 23866.667,
+      "words": [
+        {
+          "text": "Entrance",
+          "startMs": 22900.0,
+          "endMs": 23266.667
+        },
+        {
+          "text": "sirf",
+          "startMs": 23266.667,
+          "endMs": 23566.667
+        },
+        {
+          "text": "maths",
+          "startMs": 23566.667,
+          "endMs": 23866.667,
+          "accent": true,
+          "emphasis": true
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 23866.667,
+      "endMs": 24400.0,
+      "words": [
+        {
+          "text": "nahi",
+          "startMs": 23866.667,
+          "endMs": 24033.333
+        },
+        {
+          "text": "hota,",
+          "startMs": 24033.333,
+          "endMs": 24300.0
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 24466.667,
+      "endMs": 25266.667,
+      "words": [
+        {
+          "text": "strategy,",
+          "startMs": 24466.667,
+          "endMs": 25166.667,
+          "accent": true,
+          "emphasis": true
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 25300.0,
+      "endMs": 27000.0,
+      "words": [
+        {
+          "text": "reasoning",
+          "startMs": 25300.0,
+          "endMs": 25933.333
+        },
+        {
+          "text": "aur",
+          "startMs": 26100.0,
+          "endMs": 26433.333
+        },
+        {
+          "text": "review,",
+          "startMs": 26433.333,
+          "endMs": 26900.0,
+          "accent": true,
+          "emphasis": true
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 27100.0,
+      "endMs": 28033.333,
+      "words": [
+        {
+          "text": "yeh",
+          "startMs": 27100.0,
+          "endMs": 27266.667
+        },
+        {
+          "text": "teeno",
+          "startMs": 27266.667,
+          "endMs": 27533.333
+        },
+        {
+          "text": "cheezein",
+          "startMs": 27533.333,
+          "endMs": 27833.333
+        },
+        {
+          "text": "bhi",
+          "startMs": 27833.333,
+          "endMs": 28033.333
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 28033.333,
+      "endMs": 29100.0,
+      "words": [
+        {
+          "text": "kaafi",
+          "startMs": 28033.333,
+          "endMs": 28433.333
+        },
+        {
+          "text": "zyada",
+          "startMs": 28433.333,
+          "endMs": 28833.333
+        },
+        {
+          "text": "farak",
+          "startMs": 28833.333,
+          "endMs": 29100.0
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 28966.667,
+      "endMs": 29366.667,
+      "words": [
+        {
+          "text": "laati",
+          "startMs": 28966.667,
+          "endMs": 29166.667
+        },
+        {
+          "text": "hain.",
+          "startMs": 29166.667,
+          "endMs": 29266.667
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 29466.667,
+      "endMs": 30233.333,
+      "words": [
+        {
+          "text": "Aap",
+          "startMs": 29466.667,
+          "endMs": 29700.0
+        },
+        {
+          "text": "kaunsi",
+          "startMs": 29700.0,
+          "endMs": 30000.0
+        },
+        {
+          "text": "galti",
+          "startMs": 30000.0,
+          "endMs": 30233.333,
+          "accent": true,
+          "emphasis": true
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 30233.333,
+      "endMs": 30733.333,
+      "words": [
+        {
+          "text": "kar",
+          "startMs": 30233.333,
+          "endMs": 30433.333
+        },
+        {
+          "text": "rahe",
+          "startMs": 30433.333,
+          "endMs": 30600.0
+        },
+        {
+          "text": "ho?",
+          "startMs": 30600.0,
+          "endMs": 30633.333
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 30733.333,
+      "endMs": 31600.0,
+      "words": [
+        {
+          "text": "Comments",
+          "startMs": 30733.333,
+          "endMs": 30966.667,
+          "accent": true,
+          "emphasis": true
+        },
+        {
+          "text": "mein",
+          "startMs": 30966.667,
+          "endMs": 31066.667
+        },
+        {
+          "text": "batao",
+          "startMs": 31066.667,
+          "endMs": 31500.0
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 31666.667,
+      "endMs": 32266.667,
+      "words": [
+        {
+          "text": "aur",
+          "startMs": 31666.667,
+          "endMs": 31833.333
+        },
+        {
+          "text": "agar",
+          "startMs": 31833.333,
+          "endMs": 32033.333
+        },
+        {
+          "text": "aapko",
+          "startMs": 32033.333,
+          "endMs": 32266.667
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 32266.667,
+      "endMs": 33000.0,
+      "words": [
+        {
+          "text": "apni",
+          "startMs": 32266.667,
+          "endMs": 32433.333
+        },
+        {
+          "text": "galti",
+          "startMs": 32433.333,
+          "endMs": 32666.667,
+          "accent": true,
+          "emphasis": true
+        },
+        {
+          "text": "sudhaarna",
+          "startMs": 32666.667,
+          "endMs": 33000.0
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 33000.0,
+      "endMs": 33266.667,
+      "words": [
+        {
+          "text": "hai,",
+          "startMs": 33000.0,
+          "endMs": 33166.667
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 33266.667,
+      "endMs": 34533.333,
+      "words": [
+        {
+          "text": "go",
+          "startMs": 33266.667,
+          "endMs": 33533.333
+        },
+        {
+          "text": "on",
+          "startMs": 33533.333,
+          "endMs": 33733.333
+        },
+        {
+          "text": "niolearn.com",
+          "startMs": 33733.333,
+          "endMs": 34433.333,
+          "accent": true,
+          "emphasis": true
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    }
+  ],
+  "broll": [
+    {
+      "kind": "nio-study-choice",
+      "duration": 163,
+      "fadeFrames": 8,
+      "from": 116
+    },
+    {
+      "kind": "nio-study-logic",
+      "duration": 194,
+      "fadeFrames": 8,
+      "from": 294
+    },
+    {
+      "kind": "nio-system-review",
+      "duration": 189,
+      "fadeFrames": 8,
+      "from": 501
+    }
+  ],
+  "endCard": true,
+  "endCardFrom": 1037,
+  "bottomShade": true,
+  "cutBlends": [
+    {
+      "from": 81,
+      "duration": 3,
+      "src": "proxies/niolearn-09-holds/cut-81.jpg"
+    },
+    {
+      "from": 101,
+      "duration": 3,
+      "src": "proxies/niolearn-09-holds/cut-101.jpg"
+    },
+    {
+      "from": 271,
+      "duration": 3,
+      "src": "proxies/niolearn-09-holds/cut-271.jpg"
+    },
+    {
+      "from": 480,
+      "duration": 3,
+      "src": "proxies/niolearn-09-holds/cut-480.jpg"
+    },
+    {
+      "from": 682,
+      "duration": 3,
+      "src": "proxies/niolearn-09-holds/cut-682.jpg"
+    },
+    {
+      "from": 732,
+      "duration": 3,
+      "src": "proxies/niolearn-09-holds/cut-732.jpg"
+    },
+    {
+      "from": 758,
+      "duration": 3,
+      "src": "proxies/niolearn-09-holds/cut-758.jpg"
+    },
+    {
+      "from": 810,
+      "duration": 3,
+      "src": "proxies/niolearn-09-holds/cut-810.jpg"
+    },
+    {
+      "from": 881,
+      "duration": 3,
+      "src": "proxies/niolearn-09-holds/cut-881.jpg"
+    },
+    {
+      "from": 948,
+      "duration": 3,
+      "src": "proxies/niolearn-09-holds/cut-948.jpg"
+    },
+    {
+      "from": 998,
+      "duration": 3,
+      "src": "proxies/niolearn-09-holds/cut-998.jpg"
+    }
+  ],
+  "endHoldImage": "proxies/niolearn-09-holds/end.jpg",
+  "endCardFadeFrames": 10,
+  "smoothMusic": true,
+  "music": "assets/music/niolearn-09-bed.wav",
+  "musicVolume": 0.75,
+  "sfx": [
+    {
+      "src": "assets/sfx/transition-air.wav",
+      "volume": 0.08,
+      "from": 116
+    },
+    {
+      "src": "assets/sfx/transition-air.wav",
+      "volume": 0.08,
+      "from": 294
+    },
+    {
+      "src": "assets/sfx/transition-air.wav",
+      "volume": 0.08,
+      "from": 501
+    }
+  ]
+}

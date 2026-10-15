@@ -1,0 +1,152 @@
+{
+  "id": "niolearn-16",
+  "fps": 30,
+  "dialogueFrames": 989,
+  "endHoldFrames": 45,
+  "totalFrames": 1034,
+  "cuts": [
+    {
+      "source": "media/raw/niolearn/niolearn-16/IMG_5961.mov",
+      "inFrame": 85,
+      "outFrame": 213,
+      "timelineFrom": 0,
+      "duration": 128,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Mock marks hook"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-16/IMG_5961.mov",
+      "inFrame": 230,
+      "outFrame": 247,
+      "timelineFrom": 128,
+      "duration": 17,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "First mistake label"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-16/IMG_5961.mov",
+      "inFrame": 255,
+      "outFrame": 406,
+      "timelineFrom": 145,
+      "duration": 151,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Tough questions hide easy ones"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-16/IMG_5961.mov",
+      "inFrame": 424,
+      "outFrame": 442,
+      "timelineFrom": 296,
+      "duration": 18,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Second mistake label"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-16/IMG_5961.mov",
+      "inFrame": 451,
+      "outFrame": 594,
+      "timelineFrom": 314,
+      "duration": 143,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Misread NOT and EXCEPT"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-16/IMG_5961.mov",
+      "inFrame": 631,
+      "outFrame": 651,
+      "timelineFrom": 457,
+      "duration": 20,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Third mistake, omit filler and pause"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-16/IMG_5961.mov",
+      "inFrame": 688,
+      "outFrame": 768,
+      "timelineFrom": 477,
+      "duration": 80,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Too long on easy questions"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-16/IMG_5961.mov",
+      "inFrame": 777,
+      "outFrame": 829,
+      "timelineFrom": 557,
+      "duration": 52,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Another time leak"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-16/IMG_5961.mov",
+      "inFrame": 852,
+      "outFrame": 871,
+      "timelineFrom": 609,
+      "duration": 19,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Fourth lead-in"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-16/IMG_5962.mov",
+      "inFrame": 19,
+      "outFrame": 46,
+      "timelineFrom": 628,
+      "duration": 27,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Blind guessing continuation"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-16/IMG_5962.mov",
+      "inFrame": 54,
+      "outFrame": 216,
+      "timelineFrom": 655,
+      "duration": 162,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Elimination explanation"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-16/IMG_5962.mov",
+      "inFrame": 239,
+      "outFrame": 309,
+      "timelineFrom": 817,
+      "duration": 70,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Which leak and comment CTA"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-16/IMG_5962.mov",
+      "inFrame": 320,
+      "outFrame": 422,
+      "timelineFrom": 887,
+      "duration": 102,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Improvement website CTA"
+    }
+  ]
+}

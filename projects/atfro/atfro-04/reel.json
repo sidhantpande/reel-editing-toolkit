@@ -1,0 +1,938 @@
+{
+  "brand": "atfro",
+  "captionPreset": "reference",
+  "durationInFrames": 1197,
+  "dialogueAudio": "proxies/atfro-04-dialogue.wav",
+  "clips": [
+    {
+      "src": "proxies/atfro-04-aroll.mp4",
+      "duration": 1152,
+      "volume": 0,
+      "from": 0
+    }
+  ],
+  "captions": [
+    {
+      "startMs": 100.0,
+      "endMs": 1400.0,
+      "words": [
+        {
+          "text": "You",
+          "startMs": 100.0,
+          "endMs": 233.333
+        },
+        {
+          "text": "can",
+          "startMs": 233.333,
+          "endMs": 400.0
+        },
+        {
+          "text": "film",
+          "startMs": 400.0,
+          "endMs": 733.333
+        },
+        {
+          "text": "every",
+          "startMs": 733.333,
+          "endMs": 1400.0
+        }
+      ],
+      "top": 1240,
+      "fontSize": 84
+    },
+    {
+      "startMs": 1400.0,
+      "endMs": 2400.0,
+      "words": [
+        {
+          "text": "event",
+          "startMs": 1400.0,
+          "endMs": 1700.0
+        },
+        {
+          "text": "at",
+          "startMs": 1700.0,
+          "endMs": 1933.333
+        },
+        {
+          "text": "a",
+          "startMs": 1933.333,
+          "endMs": 2166.667
+        },
+        {
+          "text": "school",
+          "startMs": 2166.667,
+          "endMs": 2400.0,
+          "accent": true,
+          "emphasis": true
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 2400.0,
+      "endMs": 3600.0,
+      "words": [
+        {
+          "text": "and",
+          "startMs": 2400.0,
+          "endMs": 2833.333
+        },
+        {
+          "text": "still",
+          "startMs": 2833.333,
+          "endMs": 3200.0
+        },
+        {
+          "text": "miss",
+          "startMs": 3200.0,
+          "endMs": 3433.333
+        },
+        {
+          "text": "out",
+          "startMs": 3433.333,
+          "endMs": 3600.0
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 3600.0,
+      "endMs": 4933.333,
+      "words": [
+        {
+          "text": "the",
+          "startMs": 3600.0,
+          "endMs": 3800.0
+        },
+        {
+          "text": "story",
+          "startMs": 3800.0,
+          "endMs": 4166.667
+        },
+        {
+          "text": "which",
+          "startMs": 4166.667,
+          "endMs": 4600.0
+        },
+        {
+          "text": "parents",
+          "startMs": 4600.0,
+          "endMs": 4933.333,
+          "accent": true,
+          "emphasis": true
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 4933.333,
+      "endMs": 5566.667,
+      "words": [
+        {
+          "text": "ask",
+          "startMs": 4933.333,
+          "endMs": 5300.0
+        },
+        {
+          "text": "for.",
+          "startMs": 5300.0,
+          "endMs": 5466.667
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 5800.0,
+      "endMs": 6700.0,
+      "words": [
+        {
+          "text": "A",
+          "startMs": 5800.0,
+          "endMs": 5933.333
+        },
+        {
+          "text": "school",
+          "startMs": 5933.333,
+          "endMs": 6133.333,
+          "accent": true,
+          "emphasis": true
+        },
+        {
+          "text": "isn't",
+          "startMs": 6133.333,
+          "endMs": 6433.333
+        },
+        {
+          "text": "trying",
+          "startMs": 6433.333,
+          "endMs": 6700.0
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 6700.0,
+      "endMs": 7600.0,
+      "words": [
+        {
+          "text": "to",
+          "startMs": 6700.0,
+          "endMs": 6900.0
+        },
+        {
+          "text": "win",
+          "startMs": 6900.0,
+          "endMs": 7033.333
+        },
+        {
+          "text": "an",
+          "startMs": 7033.333,
+          "endMs": 7333.333
+        },
+        {
+          "text": "editing",
+          "startMs": 7333.333,
+          "endMs": 7600.0
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 7600.0,
+      "endMs": 8400.0,
+      "words": [
+        {
+          "text": "competition,",
+          "startMs": 7600.0,
+          "endMs": 8300.0,
+          "accent": true,
+          "emphasis": true
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 8500.0,
+      "endMs": 9500.0,
+      "words": [
+        {
+          "text": "it's",
+          "startMs": 8500.0,
+          "endMs": 8700.0
+        },
+        {
+          "text": "trying",
+          "startMs": 8700.0,
+          "endMs": 9000.0
+        },
+        {
+          "text": "to",
+          "startMs": 9000.0,
+          "endMs": 9300.0
+        },
+        {
+          "text": "help",
+          "startMs": 9300.0,
+          "endMs": 9500.0
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 9500.0,
+      "endMs": 10933.333,
+      "words": [
+        {
+          "text": "families",
+          "startMs": 9500.0,
+          "endMs": 9900.0,
+          "accent": true,
+          "emphasis": true
+        },
+        {
+          "text": "understand",
+          "startMs": 9900.0,
+          "endMs": 10533.333
+        },
+        {
+          "text": "what",
+          "startMs": 10533.333,
+          "endMs": 10933.333
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 10933.333,
+      "endMs": 11900.0,
+      "words": [
+        {
+          "text": "are",
+          "startMs": 10933.333,
+          "endMs": 11100.0
+        },
+        {
+          "text": "their",
+          "startMs": 11100.0,
+          "endMs": 11333.333
+        },
+        {
+          "text": "teachings,",
+          "startMs": 11333.333,
+          "endMs": 11800.0,
+          "accent": true,
+          "emphasis": true
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 12300.0,
+      "endMs": 13800.0,
+      "words": [
+        {
+          "text": "cultures",
+          "startMs": 12300.0,
+          "endMs": 12666.667
+        },
+        {
+          "text": "and",
+          "startMs": 12666.667,
+          "endMs": 13100.0
+        },
+        {
+          "text": "values.",
+          "startMs": 13100.0,
+          "endMs": 13700.0,
+          "accent": true,
+          "emphasis": true
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 13933.333,
+      "endMs": 14900.0,
+      "words": [
+        {
+          "text": "And",
+          "startMs": 13933.333,
+          "endMs": 14166.667
+        },
+        {
+          "text": "as",
+          "startMs": 14166.667,
+          "endMs": 14466.667
+        },
+        {
+          "text": "a",
+          "startMs": 14466.667,
+          "endMs": 14700.0
+        },
+        {
+          "text": "growth",
+          "startMs": 14700.0,
+          "endMs": 14900.0,
+          "accent": true,
+          "emphasis": true
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 14900.0,
+      "endMs": 15500.0,
+      "words": [
+        {
+          "text": "partner,",
+          "startMs": 14900.0,
+          "endMs": 15400.0,
+          "accent": true,
+          "emphasis": true
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 15733.333,
+      "endMs": 16533.333,
+      "words": [
+        {
+          "text": "our",
+          "startMs": 15733.333,
+          "endMs": 15833.333
+        },
+        {
+          "text": "goal",
+          "startMs": 15833.333,
+          "endMs": 16033.333,
+          "accent": true,
+          "emphasis": true
+        },
+        {
+          "text": "is",
+          "startMs": 16033.333,
+          "endMs": 16266.667
+        },
+        {
+          "text": "to",
+          "startMs": 16266.667,
+          "endMs": 16533.333
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 16533.333,
+      "endMs": 18600.0,
+      "words": [
+        {
+          "text": "align",
+          "startMs": 16533.333,
+          "endMs": 16933.333
+        },
+        {
+          "text": "school's",
+          "startMs": 16933.333,
+          "endMs": 17600.0
+        },
+        {
+          "text": "goal",
+          "startMs": 17600.0,
+          "endMs": 17833.333,
+          "accent": true,
+          "emphasis": true
+        },
+        {
+          "text": "and",
+          "startMs": 17833.333,
+          "endMs": 18600.0
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 18600.0,
+      "endMs": 19866.667,
+      "words": [
+        {
+          "text": "parents'",
+          "startMs": 18600.0,
+          "endMs": 19066.667
+        },
+        {
+          "text": "questions.",
+          "startMs": 19200.0,
+          "endMs": 19766.667,
+          "accent": true,
+          "emphasis": true
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 19900.0,
+      "endMs": 21366.667,
+      "words": [
+        {
+          "text": "Then",
+          "startMs": 19900.0,
+          "endMs": 20300.0
+        },
+        {
+          "text": "we",
+          "startMs": 20300.0,
+          "endMs": 20733.333
+        },
+        {
+          "text": "choose",
+          "startMs": 20733.333,
+          "endMs": 21066.667
+        },
+        {
+          "text": "one",
+          "startMs": 21066.667,
+          "endMs": 21366.667
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 21366.667,
+      "endMs": 22766.667,
+      "words": [
+        {
+          "text": "learning",
+          "startMs": 21366.667,
+          "endMs": 21733.333
+        },
+        {
+          "text": "story",
+          "startMs": 21733.333,
+          "endMs": 22166.667,
+          "accent": true,
+          "emphasis": true
+        },
+        {
+          "text": "and",
+          "startMs": 22166.667,
+          "endMs": 22566.667
+        },
+        {
+          "text": "what",
+          "startMs": 22566.667,
+          "endMs": 22766.667
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 22766.667,
+      "endMs": 23900.0,
+      "words": [
+        {
+          "text": "footage",
+          "startMs": 22766.667,
+          "endMs": 23133.333,
+          "accent": true,
+          "emphasis": true
+        },
+        {
+          "text": "can",
+          "startMs": 23133.333,
+          "endMs": 23333.333
+        },
+        {
+          "text": "make",
+          "startMs": 23333.333,
+          "endMs": 23566.667
+        },
+        {
+          "text": "it",
+          "startMs": 23566.667,
+          "endMs": 23900.0
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 23900.0,
+      "endMs": 24733.333,
+      "words": [
+        {
+          "text": "all",
+          "startMs": 23900.0,
+          "endMs": 24200.0
+        },
+        {
+          "text": "clear.",
+          "startMs": 24200.0,
+          "endMs": 24633.333,
+          "accent": true,
+          "emphasis": true
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 24733.333,
+      "endMs": 25633.333,
+      "words": [
+        {
+          "text": "The",
+          "startMs": 24733.333,
+          "endMs": 24933.333
+        },
+        {
+          "text": "reel",
+          "startMs": 24933.333,
+          "endMs": 25133.333,
+          "accent": true,
+          "emphasis": true
+        },
+        {
+          "text": "is",
+          "startMs": 25133.333,
+          "endMs": 25366.667
+        },
+        {
+          "text": "one",
+          "startMs": 25366.667,
+          "endMs": 25633.333
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 25633.333,
+      "endMs": 26100.0,
+      "words": [
+        {
+          "text": "part,",
+          "startMs": 25633.333,
+          "endMs": 26000.0
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 26233.333,
+      "endMs": 26933.333,
+      "words": [
+        {
+          "text": "the",
+          "startMs": 26233.333,
+          "endMs": 26433.333
+        },
+        {
+          "text": "caption,",
+          "startMs": 26433.333,
+          "endMs": 26833.333,
+          "accent": true,
+          "emphasis": true
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 27333.333,
+      "endMs": 27966.667,
+      "words": [
+        {
+          "text": "approval,",
+          "startMs": 27333.333,
+          "endMs": 27866.667,
+          "accent": true,
+          "emphasis": true
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 28600.0,
+      "endMs": 29966.667,
+      "words": [
+        {
+          "text": "answer",
+          "startMs": 28600.0,
+          "endMs": 28800.0
+        },
+        {
+          "text": "to",
+          "startMs": 28800.0,
+          "endMs": 29066.667
+        },
+        {
+          "text": "parents",
+          "startMs": 29066.667,
+          "endMs": 29333.333
+        },
+        {
+          "text": "questions",
+          "startMs": 29333.333,
+          "endMs": 29966.667,
+          "accent": true,
+          "emphasis": true
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 29966.667,
+      "endMs": 31433.333,
+      "words": [
+        {
+          "text": "and",
+          "startMs": 29966.667,
+          "endMs": 30433.333
+        },
+        {
+          "text": "the",
+          "startMs": 30433.333,
+          "endMs": 30600.0
+        },
+        {
+          "text": "next",
+          "startMs": 30600.0,
+          "endMs": 30866.667
+        },
+        {
+          "text": "campaigns",
+          "startMs": 30866.667,
+          "endMs": 31333.333,
+          "accent": true,
+          "emphasis": true
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 31600.0,
+      "endMs": 32333.333,
+      "words": [
+        {
+          "text": "matters",
+          "startMs": 31600.0,
+          "endMs": 31966.667
+        },
+        {
+          "text": "too.",
+          "startMs": 31966.667,
+          "endMs": 32233.333
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 32400.0,
+      "endMs": 33100.0,
+      "words": [
+        {
+          "text": "If",
+          "startMs": 32400.0,
+          "endMs": 32533.333
+        },
+        {
+          "text": "you",
+          "startMs": 32533.333,
+          "endMs": 32733.333
+        },
+        {
+          "text": "lead",
+          "startMs": 32733.333,
+          "endMs": 32866.667
+        },
+        {
+          "text": "a",
+          "startMs": 32866.667,
+          "endMs": 33100.0
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 33100.0,
+      "endMs": 33533.333,
+      "words": [
+        {
+          "text": "school,",
+          "startMs": 33100.0,
+          "endMs": 33433.333,
+          "accent": true,
+          "emphasis": true
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 33733.333,
+      "endMs": 34433.333,
+      "words": [
+        {
+          "text": "DM",
+          "startMs": 33733.333,
+          "endMs": 33833.333
+        },
+        {
+          "text": "SCHOOL,",
+          "startMs": 33833.333,
+          "endMs": 34333.333,
+          "accent": true,
+          "emphasis": true
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 34700.0,
+      "endMs": 35400.0,
+      "words": [
+        {
+          "text": "one",
+          "startMs": 34700.0,
+          "endMs": 34833.333
+        },
+        {
+          "text": "communication",
+          "startMs": 34833.333,
+          "endMs": 35400.0,
+          "accent": true,
+          "emphasis": true
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 35400.0,
+      "endMs": 36400.0,
+      "words": [
+        {
+          "text": "bottleneck",
+          "startMs": 35400.0,
+          "endMs": 36033.333,
+          "accent": true,
+          "emphasis": true
+        },
+        {
+          "text": "with",
+          "startMs": 36200.0,
+          "endMs": 36400.0
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 36400.0,
+      "endMs": 37533.333,
+      "words": [
+        {
+          "text": "communication",
+          "startMs": 36400.0,
+          "endMs": 36966.667
+        },
+        {
+          "text": "challenge",
+          "startMs": 36966.667,
+          "endMs": 37433.333,
+          "accent": true,
+          "emphasis": true
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 37666.667,
+      "endMs": 38433.333,
+      "words": [
+        {
+          "text": "you're",
+          "startMs": 37666.667,
+          "endMs": 37800.0
+        },
+        {
+          "text": "trying",
+          "startMs": 37800.0,
+          "endMs": 37933.333
+        },
+        {
+          "text": "to",
+          "startMs": 37933.333,
+          "endMs": 38033.333
+        },
+        {
+          "text": "solve.",
+          "startMs": 38033.333,
+          "endMs": 38333.333
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    }
+  ],
+  "broll": [
+    {
+      "kind": "atfro-school-film",
+      "duration": 141,
+      "fadeFrames": 8,
+      "from": 34
+    },
+    {
+      "kind": "atfro-school-plan",
+      "duration": 283,
+      "fadeFrames": 8,
+      "from": 464
+    },
+    {
+      "kind": "atfro-school-workflow",
+      "duration": 205,
+      "fadeFrames": 8,
+      "from": 773
+    }
+  ],
+  "endCard": true,
+  "endCardFrom": 1152,
+  "bottomShade": true,
+  "cutBlends": [
+    {
+      "from": 167,
+      "duration": 3,
+      "src": "proxies/atfro-04-holds/cut-167.jpg"
+    },
+    {
+      "from": 252,
+      "duration": 3,
+      "src": "proxies/atfro-04-holds/cut-252.jpg"
+    },
+    {
+      "from": 415,
+      "duration": 3,
+      "src": "proxies/atfro-04-holds/cut-415.jpg"
+    },
+    {
+      "from": 739,
+      "duration": 3,
+      "src": "proxies/atfro-04-holds/cut-739.jpg"
+    },
+    {
+      "from": 970,
+      "duration": 3,
+      "src": "proxies/atfro-04-holds/cut-970.jpg"
+    }
+  ],
+  "endHoldImage": "proxies/atfro-04-holds/end.jpg",
+  "endCardFadeFrames": 10,
+  "smoothMusic": true,
+  "music": "assets/music/atfro-04-bed.wav",
+  "musicVolume": 0.75,
+  "sfx": [
+    {
+      "src": "assets/sfx/transition-air.wav",
+      "volume": 0.08,
+      "from": 34
+    },
+    {
+      "src": "assets/sfx/transition-air.wav",
+      "volume": 0.08,
+      "from": 464
+    },
+    {
+      "src": "assets/sfx/transition-air.wav",
+      "volume": 0.08,
+      "from": 773
+    }
+  ]
+}

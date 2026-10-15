@@ -1,0 +1,615 @@
+[
+  {
+    "start": 0.75,
+    "end": 6.67,
+    "text": " You can film every event at a school and still miss out the story which parents ask for.",
+    "words": [
+      {
+        "text": " You",
+        "start": 0.75,
+        "end": 1.23
+      },
+      {
+        "text": " can",
+        "start": 1.23,
+        "end": 1.47
+      },
+      {
+        "text": " film",
+        "start": 1.47,
+        "end": 1.81
+      },
+      {
+        "text": " every",
+        "start": 1.81,
+        "end": 2.45
+      },
+      {
+        "text": " event",
+        "start": 2.45,
+        "end": 2.77
+      },
+      {
+        "text": " at",
+        "start": 2.77,
+        "end": 3.01
+      },
+      {
+        "text": " a",
+        "start": 3.01,
+        "end": 3.23
+      },
+      {
+        "text": " school",
+        "start": 3.23,
+        "end": 3.45
+      },
+      {
+        "text": " and",
+        "start": 3.45,
+        "end": 3.91
+      },
+      {
+        "text": " still",
+        "start": 3.91,
+        "end": 4.25
+      },
+      {
+        "text": " miss",
+        "start": 4.25,
+        "end": 4.49
+      },
+      {
+        "text": " out",
+        "start": 4.49,
+        "end": 4.65
+      },
+      {
+        "text": " the",
+        "start": 4.65,
+        "end": 4.85
+      },
+      {
+        "text": " story",
+        "start": 4.85,
+        "end": 5.23
+      },
+      {
+        "text": " which",
+        "start": 5.23,
+        "end": 5.65
+      },
+      {
+        "text": " parents",
+        "start": 5.65,
+        "end": 6.01
+      },
+      {
+        "text": " ask",
+        "start": 6.01,
+        "end": 6.37
+      },
+      {
+        "text": " for.",
+        "start": 6.37,
+        "end": 6.67
+      }
+    ]
+  },
+  {
+    "start": 7.55,
+    "end": 12.55,
+    "text": " A school isn't trying to win an editing competition, it's trying to help families understand",
+    "words": [
+      {
+        "text": " A",
+        "start": 7.55,
+        "end": 7.71
+      },
+      {
+        "text": " school",
+        "start": 7.71,
+        "end": 7.91
+      },
+      {
+        "text": " isn't",
+        "start": 7.91,
+        "end": 8.21
+      },
+      {
+        "text": " trying",
+        "start": 8.21,
+        "end": 8.47
+      },
+      {
+        "text": " to",
+        "start": 8.47,
+        "end": 8.65
+      },
+      {
+        "text": " win",
+        "start": 8.65,
+        "end": 8.79
+      },
+      {
+        "text": " an",
+        "start": 8.79,
+        "end": 9.09
+      },
+      {
+        "text": " editing",
+        "start": 9.09,
+        "end": 9.35
+      },
+      {
+        "text": " competition,",
+        "start": 9.35,
+        "end": 10.07
+      },
+      {
+        "text": " it's",
+        "start": 10.51,
+        "end": 10.69
+      },
+      {
+        "text": " trying",
+        "start": 10.69,
+        "end": 10.99
+      },
+      {
+        "text": " to",
+        "start": 10.99,
+        "end": 11.29
+      },
+      {
+        "text": " help",
+        "start": 11.29,
+        "end": 11.49
+      },
+      {
+        "text": " families",
+        "start": 11.49,
+        "end": 11.89
+      },
+      {
+        "text": " understand",
+        "start": 11.89,
+        "end": 12.55
+      }
+    ]
+  },
+  {
+    "start": 12.55,
+    "end": 15.69,
+    "text": " what are their teachings, cultures and values.",
+    "words": [
+      {
+        "text": " what",
+        "start": 12.55,
+        "end": 12.95
+      },
+      {
+        "text": " are",
+        "start": 12.95,
+        "end": 13.11
+      },
+      {
+        "text": " their",
+        "start": 13.11,
+        "end": 13.33
+      },
+      {
+        "text": " teachings,",
+        "start": 13.33,
+        "end": 13.81
+      },
+      {
+        "text": " cultures",
+        "start": 14.29,
+        "end": 14.65
+      },
+      {
+        "text": " and",
+        "start": 14.65,
+        "end": 15.09
+      },
+      {
+        "text": " values.",
+        "start": 15.09,
+        "end": 15.69
+      }
+    ]
+  },
+  {
+    "start": 16.59,
+    "end": 22.43,
+    "text": " And as a growth partner, our goal is to align school's goal and parents' questions.",
+    "words": [
+      {
+        "text": " And",
+        "start": 16.59,
+        "end": 16.83
+      },
+      {
+        "text": " as",
+        "start": 16.83,
+        "end": 17.13
+      },
+      {
+        "text": " a",
+        "start": 17.13,
+        "end": 17.37
+      },
+      {
+        "text": " growth",
+        "start": 17.37,
+        "end": 17.57
+      },
+      {
+        "text": " partner,",
+        "start": 17.57,
+        "end": 18.05
+      },
+      {
+        "text": " our",
+        "start": 18.41,
+        "end": 18.49
+      },
+      {
+        "text": " goal",
+        "start": 18.49,
+        "end": 18.71
+      },
+      {
+        "text": " is",
+        "start": 18.71,
+        "end": 18.95
+      },
+      {
+        "text": " to",
+        "start": 18.95,
+        "end": 19.19
+      },
+      {
+        "text": " align",
+        "start": 19.19,
+        "end": 19.59
+      },
+      {
+        "text": " school's",
+        "start": 19.59,
+        "end": 20.25
+      },
+      {
+        "text": " goal",
+        "start": 20.25,
+        "end": 20.49
+      },
+      {
+        "text": " and",
+        "start": 20.49,
+        "end": 21.25
+      },
+      {
+        "text": " parents'",
+        "start": 21.25,
+        "end": 21.73
+      },
+      {
+        "text": " questions.",
+        "start": 21.85,
+        "end": 22.43
+      }
+    ]
+  },
+  {
+    "start": 23.43,
+    "end": 28.23,
+    "text": " Then we choose one learning story and what footage can make it all clear.",
+    "words": [
+      {
+        "text": " Then",
+        "start": 23.43,
+        "end": 23.83
+      },
+      {
+        "text": " we",
+        "start": 23.83,
+        "end": 24.27
+      },
+      {
+        "text": " choose",
+        "start": 24.27,
+        "end": 24.61
+      },
+      {
+        "text": " one",
+        "start": 24.61,
+        "end": 24.91
+      },
+      {
+        "text": " learning",
+        "start": 24.91,
+        "end": 25.27
+      },
+      {
+        "text": " story",
+        "start": 25.27,
+        "end": 25.69
+      },
+      {
+        "text": " and",
+        "start": 25.69,
+        "end": 26.09
+      },
+      {
+        "text": " what",
+        "start": 26.09,
+        "end": 26.31
+      },
+      {
+        "text": " footage",
+        "start": 26.31,
+        "end": 26.65
+      },
+      {
+        "text": " can",
+        "start": 26.65,
+        "end": 26.87
+      },
+      {
+        "text": " make",
+        "start": 26.87,
+        "end": 27.09
+      },
+      {
+        "text": " it",
+        "start": 27.09,
+        "end": 27.43
+      },
+      {
+        "text": " all",
+        "start": 27.43,
+        "end": 27.75
+      },
+      {
+        "text": " clear.",
+        "start": 27.75,
+        "end": 28.23
+      }
+    ]
+  },
+  {
+    "start": 28.23,
+    "end": 35.75,
+    "text": " The reel is one part, the caption, approval, answer to parents questions and the next campaigns",
+    "words": [
+      {
+        "text": " The",
+        "start": 28.23,
+        "end": 29.13
+      },
+      {
+        "text": " reel",
+        "start": 29.13,
+        "end": 29.33
+      },
+      {
+        "text": " is",
+        "start": 29.33,
+        "end": 29.57
+      },
+      {
+        "text": " one",
+        "start": 29.57,
+        "end": 29.83
+      },
+      {
+        "text": " part,",
+        "start": 29.83,
+        "end": 30.21
+      },
+      {
+        "text": " the",
+        "start": 30.67,
+        "end": 30.85
+      },
+      {
+        "text": " caption,",
+        "start": 30.85,
+        "end": 31.27
+      },
+      {
+        "text": " approval,",
+        "start": 31.75,
+        "end": 32.29
+      },
+      {
+        "text": " answer",
+        "start": 33.03,
+        "end": 33.23
+      },
+      {
+        "text": " to",
+        "start": 33.23,
+        "end": 33.49
+      },
+      {
+        "text": " parents",
+        "start": 33.49,
+        "end": 33.75
+      },
+      {
+        "text": " questions",
+        "start": 33.75,
+        "end": 34.39
+      },
+      {
+        "text": " and",
+        "start": 34.39,
+        "end": 34.87
+      },
+      {
+        "text": " the",
+        "start": 34.87,
+        "end": 35.03
+      },
+      {
+        "text": " next",
+        "start": 35.03,
+        "end": 35.31
+      },
+      {
+        "text": " campaigns",
+        "start": 35.31,
+        "end": 35.75
+      }
+    ]
+  },
+  {
+    "start": 35.75,
+    "end": 36.83,
+    "text": " matters too.",
+    "words": [
+      {
+        "text": " matters",
+        "start": 35.75,
+        "end": 36.39
+      },
+      {
+        "text": " too.",
+        "start": 36.39,
+        "end": 36.83
+      }
+    ]
+  },
+  {
+    "start": 37.41,
+    "end": 43.19,
+    "text": " So if you read a school, DM school in the comments, your one communication bottleneck",
+    "words": [
+      {
+        "text": " So",
+        "start": 37.41,
+        "end": 37.77
+      },
+      {
+        "text": " if",
+        "start": 37.77,
+        "end": 38.13
+      },
+      {
+        "text": " you",
+        "start": 38.13,
+        "end": 38.23
+      },
+      {
+        "text": " read",
+        "start": 38.23,
+        "end": 38.37
+      },
+      {
+        "text": " a",
+        "start": 38.37,
+        "end": 38.57
+      },
+      {
+        "text": " school,",
+        "start": 38.57,
+        "end": 38.93
+      },
+      {
+        "text": " DM",
+        "start": 39.29,
+        "end": 39.35
+      },
+      {
+        "text": " school",
+        "start": 39.35,
+        "end": 39.73
+      },
+      {
+        "text": " in",
+        "start": 39.73,
+        "end": 39.95
+      },
+      {
+        "text": " the",
+        "start": 39.95,
+        "end": 40.11
+      },
+      {
+        "text": " comments,",
+        "start": 40.11,
+        "end": 40.45
+      },
+      {
+        "text": " your",
+        "start": 41.35,
+        "end": 41.59
+      },
+      {
+        "text": " one",
+        "start": 41.59,
+        "end": 41.85
+      },
+      {
+        "text": " communication",
+        "start": 41.85,
+        "end": 42.41
+      },
+      {
+        "text": " bottleneck",
+        "start": 42.41,
+        "end": 43.19
+      }
+    ]
+  },
+  {
+    "start": 43.19,
+    "end": 45.25,
+    "text": " Can I come nearer to the last thing?",
+    "words": [
+      {
+        "text": " Can",
+        "start": 43.19,
+        "end": 43.45
+      },
+      {
+        "text": " I",
+        "start": 43.45,
+        "end": 43.55
+      },
+      {
+        "text": " come",
+        "start": 43.55,
+        "end": 43.69
+      },
+      {
+        "text": " nearer",
+        "start": 43.69,
+        "end": 44.47
+      },
+      {
+        "text": " to",
+        "start": 44.47,
+        "end": 44.77
+      },
+      {
+        "text": " the",
+        "start": 44.77,
+        "end": 44.93
+      },
+      {
+        "text": " last",
+        "start": 44.93,
+        "end": 44.97
+      },
+      {
+        "text": " thing?",
+        "start": 44.97,
+        "end": 45.25
+      }
+    ]
+  }
+]

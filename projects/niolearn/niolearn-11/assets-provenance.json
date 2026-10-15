@@ -1,0 +1,10 @@
+{
+  "project": "niolearn-11",
+  "reuse": [
+    "src/projects/ProjectBroll.tsx: nio-project-structure",
+    "src/projects/StudyBroll.tsx: nio-story-profile"
+  ],
+  "creation": "Reuse original route, laptop and curiosity elements, with source-matched timing and sustained motion.",
+  "referenceStudy": "docs/REFERENCE_ANALYSIS.md#motion-re-study--batch-revision",
+  "music": "Original project calm-focus synthesis; no stock music"
+}

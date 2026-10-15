@@ -1,0 +1,97 @@
+{
+  "id": "atfro-04",
+  "fps": 30,
+  "dialogueFrames": 1152,
+  "endHoldFrames": 45,
+  "totalFrames": 1197,
+  "cuts": [
+    {
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov",
+      "inFrame": 32,
+      "outFrame": 199,
+      "timelineFrom": 0,
+      "duration": 167,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Hook"
+    },
+    {
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov",
+      "inFrame": 220,
+      "outFrame": 305,
+      "timelineFrom": 167,
+      "duration": 85,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "School editing competition"
+    },
+    {
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov",
+      "inFrame": 312,
+      "outFrame": 475,
+      "timelineFrom": 252,
+      "duration": 163,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Teaching culture values"
+    },
+    {
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov",
+      "inFrame": 495,
+      "outFrame": 677,
+      "timelineFrom": 415,
+      "duration": 182,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Align school goals and parent questions"
+    },
+    {
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov",
+      "inFrame": 703,
+      "outFrame": 845,
+      "timelineFrom": 597,
+      "duration": 142,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "One learning story and footage"
+    },
+    {
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov",
+      "inFrame": 865,
+      "outFrame": 907,
+      "timelineFrom": 739,
+      "duration": 42,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Reel is one part"
+    },
+    {
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov",
+      "inFrame": 914,
+      "outFrame": 1103,
+      "timelineFrom": 781,
+      "duration": 189,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Caption approval response campaign"
+    },
+    {
+      "source": "media/raw/atfro/atfro-04/IMG_5996.mov",
+      "inFrame": 21,
+      "outFrame": 203,
+      "timelineFrom": 970,
+      "duration": 182,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Clean replacement school CTA; omit abandoned first ending and production chatter"
+    }
+  ]
+}

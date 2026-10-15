@@ -1,0 +1,893 @@
+[
+  {
+    "startMs": 33.333,
+    "endMs": 800.0,
+    "words": [
+      {
+        "text": "Three",
+        "startMs": 33.333,
+        "endMs": 166.667
+      },
+      {
+        "text": "months",
+        "startMs": 166.667,
+        "endMs": 366.667
+      },
+      {
+        "text": "of",
+        "startMs": 366.667,
+        "endMs": 500.0
+      },
+      {
+        "text": "silence",
+        "startMs": 500.0,
+        "endMs": 800.0,
+        "emphasis": true
+      }
+    ],
+    "top": 1240,
+    "fontSize": 84
+  },
+  {
+    "startMs": 800.0,
+    "endMs": 1600.0,
+    "words": [
+      {
+        "text": "from",
+        "startMs": 800.0,
+        "endMs": 1066.667
+      },
+      {
+        "text": "ATFRO.",
+        "startMs": 1066.667,
+        "endMs": 1500.0,
+        "emphasis": true
+      }
+    ],
+    "top": 1240,
+    "fontSize": 84
+  },
+  {
+    "startMs": 1666.667,
+    "endMs": 2566.667,
+    "words": [
+      {
+        "text": "You",
+        "startMs": 1666.667,
+        "endMs": 1833.333
+      },
+      {
+        "text": "deserve",
+        "startMs": 1833.333,
+        "endMs": 2133.333
+      },
+      {
+        "text": "to",
+        "startMs": 2133.333,
+        "endMs": 2400.0
+      },
+      {
+        "text": "know",
+        "startMs": 2400.0,
+        "endMs": 2566.667
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 2566.667,
+    "endMs": 3366.667,
+    "words": [
+      {
+        "text": "what",
+        "startMs": 2566.667,
+        "endMs": 2766.667
+      },
+      {
+        "text": "we",
+        "startMs": 2766.667,
+        "endMs": 3000.0
+      },
+      {
+        "text": "have",
+        "startMs": 3000.0,
+        "endMs": 3233.333
+      },
+      {
+        "text": "been",
+        "startMs": 3233.333,
+        "endMs": 3366.667
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 3366.667,
+    "endMs": 3633.333,
+    "words": [
+      {
+        "text": "doing.",
+        "startMs": 3366.667,
+        "endMs": 3533.333
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 4000.0,
+    "endMs": 4700.0,
+    "words": [
+      {
+        "text": "We",
+        "startMs": 4000.0,
+        "endMs": 4100.0
+      },
+      {
+        "text": "have",
+        "startMs": 4100.0,
+        "endMs": 4266.667
+      },
+      {
+        "text": "been",
+        "startMs": 4266.667,
+        "endMs": 4400.0
+      },
+      {
+        "text": "busy",
+        "startMs": 4400.0,
+        "endMs": 4700.0
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 4700.0,
+    "endMs": 6033.333,
+    "words": [
+      {
+        "text": "with",
+        "startMs": 4700.0,
+        "endMs": 5000.0
+      },
+      {
+        "text": "client",
+        "startMs": 5000.0,
+        "endMs": 5266.667
+      },
+      {
+        "text": "work",
+        "startMs": 5266.667,
+        "endMs": 5666.667,
+        "emphasis": true
+      },
+      {
+        "text": "without",
+        "startMs": 5666.667,
+        "endMs": 6033.333
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 6033.333,
+    "endMs": 7300.0,
+    "words": [
+      {
+        "text": "showing",
+        "startMs": 6033.333,
+        "endMs": 6466.667
+      },
+      {
+        "text": "the",
+        "startMs": 6466.667,
+        "endMs": 6700.0
+      },
+      {
+        "text": "process.",
+        "startMs": 6700.0,
+        "endMs": 7200.0
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 7366.667,
+    "endMs": 7866.667,
+    "words": [
+      {
+        "text": "And",
+        "startMs": 7366.667,
+        "endMs": 7533.333
+      },
+      {
+        "text": "this",
+        "startMs": 7533.333,
+        "endMs": 7700.0
+      },
+      {
+        "text": "is",
+        "startMs": 7700.0,
+        "endMs": 7800.0
+      },
+      {
+        "text": "a",
+        "startMs": 7800.0,
+        "endMs": 7866.667
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 7866.667,
+    "endMs": 8700.0,
+    "words": [
+      {
+        "text": "mistake",
+        "startMs": 7866.667,
+        "endMs": 8166.667
+      },
+      {
+        "text": "which",
+        "startMs": 8166.667,
+        "endMs": 8433.333
+      },
+      {
+        "text": "we",
+        "startMs": 8433.333,
+        "endMs": 8600.0
+      },
+      {
+        "text": "are",
+        "startMs": 8600.0,
+        "endMs": 8700.0
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 8700.0,
+    "endMs": 9166.667,
+    "words": [
+      {
+        "text": "correcting,",
+        "startMs": 8700.0,
+        "endMs": 9066.667,
+        "emphasis": true
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 9300.0,
+    "endMs": 10100.0,
+    "words": [
+      {
+        "text": "Not",
+        "startMs": 9300.0,
+        "endMs": 9466.667
+      },
+      {
+        "text": "dressing",
+        "startMs": 9466.667,
+        "endMs": 9766.667
+      },
+      {
+        "text": "it",
+        "startMs": 9766.667,
+        "endMs": 9966.667
+      },
+      {
+        "text": "up",
+        "startMs": 9966.667,
+        "endMs": 10100.0
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 10100.0,
+    "endMs": 11000.0,
+    "words": [
+      {
+        "text": "as",
+        "startMs": 10100.0,
+        "endMs": 10366.667
+      },
+      {
+        "text": "a",
+        "startMs": 10366.667,
+        "endMs": 10500.0
+      },
+      {
+        "text": "strategy.",
+        "startMs": 10500.0,
+        "endMs": 10900.0,
+        "emphasis": true
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 11133.333,
+    "endMs": 11900.0,
+    "words": [
+      {
+        "text": "We",
+        "startMs": 11133.333,
+        "endMs": 11333.333
+      },
+      {
+        "text": "have",
+        "startMs": 11333.333,
+        "endMs": 11433.333
+      },
+      {
+        "text": "dealt",
+        "startMs": 11433.333,
+        "endMs": 11600.0
+      },
+      {
+        "text": "with",
+        "startMs": 11600.0,
+        "endMs": 11900.0
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 11900.0,
+    "endMs": 13500.0,
+    "words": [
+      {
+        "text": "school",
+        "startMs": 11900.0,
+        "endMs": 12566.667,
+        "emphasis": true
+      },
+      {
+        "text": "communications,",
+        "startMs": 12566.667,
+        "endMs": 13400.0
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 13800.0,
+    "endMs": 15033.333,
+    "words": [
+      {
+        "text": "doctor-led",
+        "startMs": 13800.0,
+        "endMs": 14166.667,
+        "emphasis": true
+      },
+      {
+        "text": "content",
+        "startMs": 14166.667,
+        "endMs": 14633.333
+      },
+      {
+        "text": "and",
+        "startMs": 14633.333,
+        "endMs": 14933.333
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 15133.333,
+    "endMs": 16200.0,
+    "words": [
+      {
+        "text": "practical",
+        "startMs": 15133.333,
+        "endMs": 15666.667
+      },
+      {
+        "text": "software",
+        "startMs": 15666.667,
+        "endMs": 16200.0,
+        "emphasis": true
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 16200.0,
+    "endMs": 16766.667,
+    "words": [
+      {
+        "text": "systems.",
+        "startMs": 16200.0,
+        "endMs": 16666.667,
+        "emphasis": true
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 16966.667,
+    "endMs": 17900.0,
+    "words": [
+      {
+        "text": "Different",
+        "startMs": 16966.667,
+        "endMs": 17366.667
+      },
+      {
+        "text": "projects",
+        "startMs": 17366.667,
+        "endMs": 17800.0,
+        "emphasis": true
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 18200.0,
+    "endMs": 19533.333,
+    "words": [
+      {
+        "text": "still",
+        "startMs": 18200.0,
+        "endMs": 18433.333
+      },
+      {
+        "text": "the",
+        "startMs": 18433.333,
+        "endMs": 18666.667
+      },
+      {
+        "text": "same",
+        "startMs": 18666.667,
+        "endMs": 19033.333
+      },
+      {
+        "text": "question,",
+        "startMs": 19033.333,
+        "endMs": 19433.333,
+        "emphasis": true
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 19733.333,
+    "endMs": 20700.0,
+    "words": [
+      {
+        "text": "What's",
+        "startMs": 19733.333,
+        "endMs": 20033.333
+      },
+      {
+        "text": "stopping",
+        "startMs": 20033.333,
+        "endMs": 20333.333,
+        "emphasis": true
+      },
+      {
+        "text": "this",
+        "startMs": 20333.333,
+        "endMs": 20700.0
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 20700.0,
+    "endMs": 21866.667,
+    "words": [
+      {
+        "text": "business",
+        "startMs": 20700.0,
+        "endMs": 21133.333
+      },
+      {
+        "text": "from",
+        "startMs": 21133.333,
+        "endMs": 21466.667
+      },
+      {
+        "text": "growing?",
+        "startMs": 21466.667,
+        "endMs": 21766.667,
+        "emphasis": true
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 22000.0,
+    "endMs": 23100.0,
+    "words": [
+      {
+        "text": "That",
+        "startMs": 22000.0,
+        "endMs": 22200.0
+      },
+      {
+        "text": "is",
+        "startMs": 22200.0,
+        "endMs": 22366.667
+      },
+      {
+        "text": "what",
+        "startMs": 22366.667,
+        "endMs": 22600.0
+      },
+      {
+        "text": "being",
+        "startMs": 22600.0,
+        "endMs": 23100.0
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 23100.0,
+    "endMs": 24700.0,
+    "words": [
+      {
+        "text": "a",
+        "startMs": 23100.0,
+        "endMs": 23433.333
+      },
+      {
+        "text": "growth",
+        "startMs": 23433.333,
+        "endMs": 23766.667
+      },
+      {
+        "text": "partner",
+        "startMs": 23766.667,
+        "endMs": 24300.0,
+        "emphasis": true
+      },
+      {
+        "text": "means",
+        "startMs": 24300.0,
+        "endMs": 24700.0
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 24700.0,
+    "endMs": 25300.0,
+    "words": [
+      {
+        "text": "to",
+        "startMs": 24700.0,
+        "endMs": 24966.667
+      },
+      {
+        "text": "us.",
+        "startMs": 24966.667,
+        "endMs": 25200.0
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 25400.0,
+    "endMs": 26533.333,
+    "words": [
+      {
+        "text": "Understand",
+        "startMs": 25400.0,
+        "endMs": 25733.333
+      },
+      {
+        "text": "the",
+        "startMs": 25733.333,
+        "endMs": 25966.667
+      },
+      {
+        "text": "problem,",
+        "startMs": 25966.667,
+        "endMs": 26433.333,
+        "emphasis": true
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 26733.333,
+    "endMs": 28566.667,
+    "words": [
+      {
+        "text": "build",
+        "startMs": 26733.333,
+        "endMs": 27166.667
+      },
+      {
+        "text": "what",
+        "startMs": 27166.667,
+        "endMs": 27566.667
+      },
+      {
+        "text": "is",
+        "startMs": 27566.667,
+        "endMs": 28000.0
+      },
+      {
+        "text": "useful",
+        "startMs": 28033.333,
+        "endMs": 28566.667,
+        "emphasis": true
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 28566.667,
+    "endMs": 28966.667,
+    "words": [
+      {
+        "text": "and",
+        "startMs": 28566.667,
+        "endMs": 28866.667
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 29133.333,
+    "endMs": 30166.667,
+    "words": [
+      {
+        "text": "grow",
+        "startMs": 29133.333,
+        "endMs": 29500.0
+      },
+      {
+        "text": "with",
+        "startMs": 29500.0,
+        "endMs": 29733.333
+      },
+      {
+        "text": "the",
+        "startMs": 29733.333,
+        "endMs": 29833.333
+      },
+      {
+        "text": "people",
+        "startMs": 29833.333,
+        "endMs": 30166.667,
+        "emphasis": true
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 30166.667,
+    "endMs": 30866.667,
+    "words": [
+      {
+        "text": "who",
+        "startMs": 30166.667,
+        "endMs": 30433.333
+      },
+      {
+        "text": "are",
+        "startMs": 30433.333,
+        "endMs": 30533.333
+      },
+      {
+        "text": "running",
+        "startMs": 30533.333,
+        "endMs": 30733.333
+      },
+      {
+        "text": "the",
+        "startMs": 30733.333,
+        "endMs": 30866.667
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 30866.667,
+    "endMs": 31333.333,
+    "words": [
+      {
+        "text": "business.",
+        "startMs": 30866.667,
+        "endMs": 31233.333
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 31600.0,
+    "endMs": 32533.333,
+    "words": [
+      {
+        "text": "So",
+        "startMs": 31600.0,
+        "endMs": 31666.667
+      },
+      {
+        "text": "here",
+        "startMs": 31666.667,
+        "endMs": 31966.667
+      },
+      {
+        "text": "we",
+        "startMs": 31966.667,
+        "endMs": 32200.0
+      },
+      {
+        "text": "are,",
+        "startMs": 32200.0,
+        "endMs": 32433.333
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 32600.0,
+    "endMs": 34100.0,
+    "words": [
+      {
+        "text": "back",
+        "startMs": 32600.0,
+        "endMs": 33166.667,
+        "emphasis": true
+      },
+      {
+        "text": "again",
+        "startMs": 33166.667,
+        "endMs": 33500.0
+      },
+      {
+        "text": "to",
+        "startMs": 33500.0,
+        "endMs": 33800.0
+      },
+      {
+        "text": "share",
+        "startMs": 33800.0,
+        "endMs": 34100.0
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 34100.0,
+    "endMs": 34733.333,
+    "words": [
+      {
+        "text": "the",
+        "startMs": 34100.0,
+        "endMs": 34200.0
+      },
+      {
+        "text": "people,",
+        "startMs": 34200.0,
+        "endMs": 34633.333,
+        "emphasis": true
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 34800.0,
+    "endMs": 35833.333,
+    "words": [
+      {
+        "text": "the",
+        "startMs": 34800.0,
+        "endMs": 34833.333
+      },
+      {
+        "text": "work",
+        "startMs": 34800.0,
+        "endMs": 35200.0,
+        "emphasis": true
+      },
+      {
+        "text": "and",
+        "startMs": 35200.0,
+        "endMs": 35700.0
+      },
+      {
+        "text": "the",
+        "startMs": 35700.0,
+        "endMs": 35833.333
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 35833.333,
+    "endMs": 36333.333,
+    "words": [
+      {
+        "text": "lesson.",
+        "startMs": 35833.333,
+        "endMs": 36233.333,
+        "emphasis": true
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 36366.667,
+    "endMs": 37300.0,
+    "words": [
+      {
+        "text": "Welcome",
+        "startMs": 36366.667,
+        "endMs": 36666.667
+      },
+      {
+        "text": "to",
+        "startMs": 36666.667,
+        "endMs": 36966.667
+      },
+      {
+        "text": "the",
+        "startMs": 36966.667,
+        "endMs": 37100.0
+      },
+      {
+        "text": "real",
+        "startMs": 37100.0,
+        "endMs": 37300.0
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 37300.0,
+    "endMs": 37900.0,
+    "words": [
+      {
+        "text": "ATFRO.",
+        "startMs": 37300.0,
+        "endMs": 37800.0,
+        "emphasis": true
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  }
+]

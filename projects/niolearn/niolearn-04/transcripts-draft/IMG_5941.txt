@@ -1,0 +1,4 @@
+[0.00-3.66]  Before getting the fee, ask 5 questions.
+[4.88-8.90]  What is the degree or college degree and what is its recognition?
+[9.94-16.26]  What will be the degree certification or part time university credential?
+[16.32-27.14]  The third is the fees, total fees, hidden deposits and security deposits and all the things they need to have proper breakdown.

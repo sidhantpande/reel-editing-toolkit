@@ -1,0 +1,232 @@
+{
+  "source": "IMG_5971.wav",
+  "language": "en",
+  "status": "ASR_DRAFT_FOR_MATCHING_NOT_FINAL_CAPTIONS",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.7,
+      "text": " and remember that the answers to the question of the college are the same.",
+      "words": [
+        {
+          "start": 0.0,
+          "end": 1.06,
+          "text": " and",
+          "probability": 0.06137264147400856
+        },
+        {
+          "start": 1.06,
+          "end": 1.52,
+          "text": " remember",
+          "probability": 0.9242702126502991
+        },
+        {
+          "start": 1.52,
+          "end": 2.1,
+          "text": " that",
+          "probability": 0.27326932549476624
+        },
+        {
+          "start": 2.1,
+          "end": 2.16,
+          "text": " the",
+          "probability": 0.41573426127433777
+        },
+        {
+          "start": 2.16,
+          "end": 2.5,
+          "text": " answers",
+          "probability": 0.08008099347352982
+        },
+        {
+          "start": 2.5,
+          "end": 4.14,
+          "text": " to",
+          "probability": 0.7096701860427856
+        },
+        {
+          "start": 4.14,
+          "end": 4.14,
+          "text": " the",
+          "probability": 0.5649402737617493
+        },
+        {
+          "start": 4.14,
+          "end": 4.14,
+          "text": " question",
+          "probability": 0.31775549054145813
+        },
+        {
+          "start": 4.14,
+          "end": 4.14,
+          "text": " of",
+          "probability": 0.27339908480644226
+        },
+        {
+          "start": 4.14,
+          "end": 4.14,
+          "text": " the",
+          "probability": 0.28525784611701965
+        },
+        {
+          "start": 4.14,
+          "end": 4.14,
+          "text": " college",
+          "probability": 0.8608039617538452
+        },
+        {
+          "start": 4.14,
+          "end": 4.22,
+          "text": " are",
+          "probability": 0.23765027523040771
+        },
+        {
+          "start": 4.22,
+          "end": 4.68,
+          "text": " the",
+          "probability": 0.28614968061447144
+        },
+        {
+          "start": 4.68,
+          "end": 4.7,
+          "text": " same.",
+          "probability": 0.6073753237724304
+        }
+      ]
+    },
+    {
+      "start": 5.6,
+      "end": 10.52,
+      "text": " If you want the compassion sheet of college, write in the comments",
+      "words": [
+        {
+          "start": 5.6,
+          "end": 6.52,
+          "text": " If",
+          "probability": 0.6075299978256226
+        },
+        {
+          "start": 6.52,
+          "end": 7.2,
+          "text": " you",
+          "probability": 0.9442734718322754
+        },
+        {
+          "start": 7.2,
+          "end": 7.3,
+          "text": " want",
+          "probability": 0.820308268070221
+        },
+        {
+          "start": 7.3,
+          "end": 7.36,
+          "text": " the",
+          "probability": 0.2871303856372833
+        },
+        {
+          "start": 7.36,
+          "end": 8.04,
+          "text": " compassion",
+          "probability": 0.05028500780463219
+        },
+        {
+          "start": 8.04,
+          "end": 8.6,
+          "text": " sheet",
+          "probability": 0.5868483185768127
+        },
+        {
+          "start": 8.6,
+          "end": 8.76,
+          "text": " of",
+          "probability": 0.8673297762870789
+        },
+        {
+          "start": 8.76,
+          "end": 8.76,
+          "text": " college,",
+          "probability": 0.7067806124687195
+        },
+        {
+          "start": 9.02,
+          "end": 9.72,
+          "text": " write",
+          "probability": 0.7635191082954407
+        },
+        {
+          "start": 9.72,
+          "end": 10.52,
+          "text": " in",
+          "probability": 0.23454971611499786
+        },
+        {
+          "start": 10.52,
+          "end": 10.52,
+          "text": " the",
+          "probability": 0.8836272358894348
+        },
+        {
+          "start": 10.52,
+          "end": 10.52,
+          "text": " comments",
+          "probability": 0.9428182244300842
+        }
+      ]
+    },
+    {
+      "start": 10.52,
+      "end": 14.3,
+      "text": " for other SEO tips, go on Newland.com.",
+      "words": [
+        {
+          "start": 10.52,
+          "end": 11.54,
+          "text": " for",
+          "probability": 0.002021850785240531
+        },
+        {
+          "start": 11.54,
+          "end": 11.54,
+          "text": " other",
+          "probability": 0.7654320001602173
+        },
+        {
+          "start": 11.54,
+          "end": 12.06,
+          "text": " SEO",
+          "probability": 0.2596724033355713
+        },
+        {
+          "start": 12.06,
+          "end": 12.46,
+          "text": " tips,",
+          "probability": 0.9954782128334045
+        },
+        {
+          "start": 12.86,
+          "end": 13.1,
+          "text": " go",
+          "probability": 0.8887172341346741
+        },
+        {
+          "start": 13.1,
+          "end": 13.34,
+          "text": " on",
+          "probability": 0.8900383710861206
+        },
+        {
+          "start": 13.34,
+          "end": 13.8,
+          "text": " Newland",
+          "probability": 0.3993642181158066
+        },
+        {
+          "start": 13.8,
+          "end": 14.3,
+          "text": ".com.",
+          "probability": 0.9663766026496887
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1065 @@
+[
+  {
+    "startMs": 66.667,
+    "endMs": 1766.667,
+    "words": [
+      {
+        "text": "What",
+        "startMs": 66.667,
+        "endMs": 266.667
+      },
+      {
+        "text": "if",
+        "startMs": 266.667,
+        "endMs": 833.333
+      },
+      {
+        "text": "JEE",
+        "startMs": 833.333,
+        "endMs": 1166.667,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "wasn't",
+        "startMs": 1166.667,
+        "endMs": 1766.667
+      }
+    ],
+    "top": 1240,
+    "fontSize": 84
+  },
+  {
+    "startMs": 1766.667,
+    "endMs": 2800.0,
+    "words": [
+      {
+        "text": "your",
+        "startMs": 1766.667,
+        "endMs": 2000.0
+      },
+      {
+        "text": "only",
+        "startMs": 2000.0,
+        "endMs": 2266.667
+      },
+      {
+        "text": "option?",
+        "startMs": 2266.667,
+        "endMs": 2700.0,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1240,
+    "fontSize": 84
+  },
+  {
+    "startMs": 2866.667,
+    "endMs": 3333.333,
+    "words": [
+      {
+        "text": "Today,",
+        "startMs": 2866.667,
+        "endMs": 3233.333
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 3500.0,
+    "endMs": 4500.0,
+    "words": [
+      {
+        "text": "a",
+        "startMs": 3500.0,
+        "endMs": 3666.667
+      },
+      {
+        "text": "new",
+        "startMs": 3666.667,
+        "endMs": 3833.333
+      },
+      {
+        "text": "generation",
+        "startMs": 3833.333,
+        "endMs": 4200.0,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "of",
+        "startMs": 4200.0,
+        "endMs": 4500.0
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 4500.0,
+    "endMs": 5733.333,
+    "words": [
+      {
+        "text": "tech",
+        "startMs": 4500.0,
+        "endMs": 4700.0
+      },
+      {
+        "text": "colleges",
+        "startMs": 4700.0,
+        "endMs": 5000.0,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "are",
+        "startMs": 5000.0,
+        "endMs": 5233.333
+      },
+      {
+        "text": "changing",
+        "startMs": 5233.333,
+        "endMs": 5733.333
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 5733.333,
+    "endMs": 7233.333,
+    "words": [
+      {
+        "text": "the",
+        "startMs": 5733.333,
+        "endMs": 6033.333
+      },
+      {
+        "text": "way",
+        "startMs": 6033.333,
+        "endMs": 6600.0
+      },
+      {
+        "text": "a",
+        "startMs": 6600.0,
+        "endMs": 6900.0
+      },
+      {
+        "text": "student",
+        "startMs": 6900.0,
+        "endMs": 7233.333
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 7233.333,
+    "endMs": 7966.667,
+    "words": [
+      {
+        "text": "learns.",
+        "startMs": 7233.333,
+        "endMs": 7866.667
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 8133.333,
+    "endMs": 9166.667,
+    "words": [
+      {
+        "text": "But",
+        "startMs": 8133.333,
+        "endMs": 8300.0
+      },
+      {
+        "text": "all",
+        "startMs": 8300.0,
+        "endMs": 8800.0
+      },
+      {
+        "text": "of",
+        "startMs": 8800.0,
+        "endMs": 9000.0
+      },
+      {
+        "text": "them",
+        "startMs": 9000.0,
+        "endMs": 9166.667
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 9166.667,
+    "endMs": 11800.0,
+    "words": [
+      {
+        "text": "have",
+        "startMs": 9166.667,
+        "endMs": 9566.667
+      },
+      {
+        "text": "different",
+        "startMs": 9566.667,
+        "endMs": 10333.333
+      },
+      {
+        "text": "types",
+        "startMs": 10333.333,
+        "endMs": 10900.0
+      },
+      {
+        "text": "of",
+        "startMs": 10900.0,
+        "endMs": 11800.0
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 11500.0,
+    "endMs": 12333.333,
+    "words": [
+      {
+        "text": "examinations.",
+        "startMs": 11500.0,
+        "endMs": 12233.333,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 12366.667,
+    "endMs": 13766.667,
+    "words": [
+      {
+        "text": "Some",
+        "startMs": 12366.667,
+        "endMs": 12633.333
+      },
+      {
+        "text": "focus",
+        "startMs": 12633.333,
+        "endMs": 13000.0
+      },
+      {
+        "text": "on",
+        "startMs": 13000.0,
+        "endMs": 13333.333
+      },
+      {
+        "text": "logical",
+        "startMs": 13333.333,
+        "endMs": 13766.667,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 13766.667,
+    "endMs": 14900.0,
+    "words": [
+      {
+        "text": "reasoning",
+        "startMs": 13766.667,
+        "endMs": 14066.667
+      },
+      {
+        "text": "and",
+        "startMs": 14066.667,
+        "endMs": 14300.0
+      },
+      {
+        "text": "aptitude,",
+        "startMs": 14300.0,
+        "endMs": 14800.0,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 15100.0,
+    "endMs": 15900.0,
+    "words": [
+      {
+        "text": "while",
+        "startMs": 15100.0,
+        "endMs": 15166.667
+      },
+      {
+        "text": "some",
+        "startMs": 15166.667,
+        "endMs": 15366.667
+      },
+      {
+        "text": "focus",
+        "startMs": 15366.667,
+        "endMs": 15666.667
+      },
+      {
+        "text": "on",
+        "startMs": 15666.667,
+        "endMs": 15900.0
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 15900.0,
+    "endMs": 17333.333,
+    "words": [
+      {
+        "text": "coding",
+        "startMs": 15900.0,
+        "endMs": 16233.333
+      },
+      {
+        "text": "and",
+        "startMs": 16233.333,
+        "endMs": 16633.333
+      },
+      {
+        "text": "problem",
+        "startMs": 16633.333,
+        "endMs": 16866.667
+      },
+      {
+        "text": "solving",
+        "startMs": 16866.667,
+        "endMs": 17333.333,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 17333.333,
+    "endMs": 18500.0,
+    "words": [
+      {
+        "text": "and",
+        "startMs": 17333.333,
+        "endMs": 17966.667
+      },
+      {
+        "text": "interviews.",
+        "startMs": 17966.667,
+        "endMs": 18400.0,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 18633.333,
+    "endMs": 19600.0,
+    "words": [
+      {
+        "text": "and",
+        "startMs": 18633.333,
+        "endMs": 18733.333
+      },
+      {
+        "text": "that's",
+        "startMs": 18733.333,
+        "endMs": 19266.667
+      },
+      {
+        "text": "the",
+        "startMs": 19266.667,
+        "endMs": 19400.0
+      },
+      {
+        "text": "part",
+        "startMs": 19400.0,
+        "endMs": 19600.0
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 19600.0,
+    "endMs": 20800.0,
+    "words": [
+      {
+        "text": "which",
+        "startMs": 19600.0,
+        "endMs": 20000.0
+      },
+      {
+        "text": "often",
+        "startMs": 20000.0,
+        "endMs": 20300.0
+      },
+      {
+        "text": "makes",
+        "startMs": 20300.0,
+        "endMs": 20666.667
+      },
+      {
+        "text": "a",
+        "startMs": 20666.667,
+        "endMs": 20800.0
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 20800.0,
+    "endMs": 21666.667,
+    "words": [
+      {
+        "text": "student",
+        "startMs": 20800.0,
+        "endMs": 20966.667
+      },
+      {
+        "text": "confused.",
+        "startMs": 20966.667,
+        "endMs": 21566.667,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 21700.0,
+    "endMs": 23133.333,
+    "words": [
+      {
+        "text": "And",
+        "startMs": 21700.0,
+        "endMs": 21933.333
+      },
+      {
+        "text": "that's",
+        "startMs": 21933.333,
+        "endMs": 22400.0
+      },
+      {
+        "text": "exactly",
+        "startMs": 22400.0,
+        "endMs": 22766.667
+      },
+      {
+        "text": "why",
+        "startMs": 22766.667,
+        "endMs": 23133.333
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 23133.333,
+    "endMs": 24633.333,
+    "words": [
+      {
+        "text": "we",
+        "startMs": 23133.333,
+        "endMs": 23466.667
+      },
+      {
+        "text": "started",
+        "startMs": 23466.667,
+        "endMs": 23866.667
+      },
+      {
+        "text": "NioLearn,",
+        "startMs": 23866.667,
+        "endMs": 24633.333,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 24633.333,
+    "endMs": 25866.667,
+    "words": [
+      {
+        "text": "to",
+        "startMs": 24633.333,
+        "endMs": 24866.667
+      },
+      {
+        "text": "make",
+        "startMs": 24866.667,
+        "endMs": 25100.0
+      },
+      {
+        "text": "opportunities",
+        "startMs": 25100.0,
+        "endMs": 25866.667,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 25866.667,
+    "endMs": 27533.333,
+    "words": [
+      {
+        "text": "easier",
+        "startMs": 25866.667,
+        "endMs": 26533.333
+      },
+      {
+        "text": "to",
+        "startMs": 26533.333,
+        "endMs": 26933.333
+      },
+      {
+        "text": "discover,",
+        "startMs": 26933.333,
+        "endMs": 27433.333,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 27700.0,
+    "endMs": 28533.333,
+    "words": [
+      {
+        "text": "understand,",
+        "startMs": 27700.0,
+        "endMs": 28433.333,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 28800.0,
+    "endMs": 29666.667,
+    "words": [
+      {
+        "text": "and",
+        "startMs": 28800.0,
+        "endMs": 29100.0
+      },
+      {
+        "text": "prepare",
+        "startMs": 29100.0,
+        "endMs": 29333.333,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "for.",
+        "startMs": 29333.333,
+        "endMs": 29600.0
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 29666.667,
+    "endMs": 30966.667,
+    "words": [
+      {
+        "text": "NioLearn",
+        "startMs": 29666.667,
+        "endMs": 30133.333,
+        "accent": true
+      },
+      {
+        "text": "is",
+        "startMs": 30133.333,
+        "endMs": 30366.667
+      },
+      {
+        "text": "a",
+        "startMs": 30366.667,
+        "endMs": 30500.0
+      },
+      {
+        "text": "modern",
+        "startMs": 30500.0,
+        "endMs": 30966.667,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 30966.667,
+    "endMs": 32866.667,
+    "words": [
+      {
+        "text": "tech",
+        "startMs": 30966.667,
+        "endMs": 31333.333
+      },
+      {
+        "text": "admission",
+        "startMs": 31333.333,
+        "endMs": 32133.333
+      },
+      {
+        "text": "platform,",
+        "startMs": 32133.333,
+        "endMs": 32766.667,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 32933.333,
+    "endMs": 33800.0,
+    "words": [
+      {
+        "text": "which",
+        "startMs": 32933.333,
+        "endMs": 33100.0
+      },
+      {
+        "text": "offers",
+        "startMs": 33100.0,
+        "endMs": 33733.333
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 33800.0,
+    "endMs": 35333.333,
+    "words": [
+      {
+        "text": "structured",
+        "startMs": 33800.0,
+        "endMs": 34333.333
+      },
+      {
+        "text": "live",
+        "startMs": 34333.333,
+        "endMs": 34700.0
+      },
+      {
+        "text": "classes,",
+        "startMs": 34700.0,
+        "endMs": 35233.333,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 35333.333,
+    "endMs": 36066.667,
+    "words": [
+      {
+        "text": "mocks,",
+        "startMs": 35333.333,
+        "endMs": 36000.0,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 36066.667,
+    "endMs": 36966.667,
+    "words": [
+      {
+        "text": "interviews,",
+        "startMs": 36066.667,
+        "endMs": 36866.667,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 37100.0,
+    "endMs": 38166.667,
+    "words": [
+      {
+        "text": "personalized",
+        "startMs": 37100.0,
+        "endMs": 37400.0
+      },
+      {
+        "text": "feedback,",
+        "startMs": 37400.0,
+        "endMs": 38066.667,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 38300.0,
+    "endMs": 39166.667,
+    "words": [
+      {
+        "text": "and",
+        "startMs": 38300.0,
+        "endMs": 38500.0
+      },
+      {
+        "text": "mentorship,",
+        "startMs": 38500.0,
+        "endMs": 39133.333,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 39166.667,
+    "endMs": 40400.0,
+    "words": [
+      {
+        "text": "all",
+        "startMs": 39166.667,
+        "endMs": 39600.0
+      },
+      {
+        "text": "in",
+        "startMs": 39600.0,
+        "endMs": 39833.333
+      },
+      {
+        "text": "one",
+        "startMs": 39833.333,
+        "endMs": 40133.333
+      },
+      {
+        "text": "place.",
+        "startMs": 40133.333,
+        "endMs": 40300.0
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 40400.0,
+    "endMs": 41800.0,
+    "words": [
+      {
+        "text": "Our",
+        "startMs": 40400.0,
+        "endMs": 40700.0
+      },
+      {
+        "text": "vision",
+        "startMs": 40700.0,
+        "endMs": 41000.0,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "goes",
+        "startMs": 41000.0,
+        "endMs": 41433.333
+      },
+      {
+        "text": "beyond",
+        "startMs": 41433.333,
+        "endMs": 41800.0
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 41800.0,
+    "endMs": 42733.333,
+    "words": [
+      {
+        "text": "the",
+        "startMs": 41800.0,
+        "endMs": 42066.667
+      },
+      {
+        "text": "examination,",
+        "startMs": 42066.667,
+        "endMs": 42633.333
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 42800.0,
+    "endMs": 43633.333,
+    "words": [
+      {
+        "text": "we",
+        "startMs": 42800.0,
+        "endMs": 43033.333
+      },
+      {
+        "text": "want",
+        "startMs": 43033.333,
+        "endMs": 43233.333
+      },
+      {
+        "text": "the",
+        "startMs": 43233.333,
+        "endMs": 43433.333
+      },
+      {
+        "text": "students",
+        "startMs": 43433.333,
+        "endMs": 43633.333
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 43633.333,
+    "endMs": 44400.0,
+    "words": [
+      {
+        "text": "to",
+        "startMs": 43633.333,
+        "endMs": 43833.333
+      },
+      {
+        "text": "understand",
+        "startMs": 43833.333,
+        "endMs": 44200.0,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "their",
+        "startMs": 44200.0,
+        "endMs": 44400.0
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 44400.0,
+    "endMs": 46033.333,
+    "words": [
+      {
+        "text": "opportunities",
+        "startMs": 44400.0,
+        "endMs": 45100.0,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "and",
+        "startMs": 45433.333,
+        "endMs": 45666.667
+      },
+      {
+        "text": "make",
+        "startMs": 45666.667,
+        "endMs": 46033.333
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 46033.333,
+    "endMs": 47766.667,
+    "words": [
+      {
+        "text": "informed",
+        "startMs": 46033.333,
+        "endMs": 46533.333
+      },
+      {
+        "text": "decisions",
+        "startMs": 46533.333,
+        "endMs": 47166.667,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "about",
+        "startMs": 47166.667,
+        "endMs": 47766.667
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 47766.667,
+    "endMs": 48566.667,
+    "words": [
+      {
+        "text": "their",
+        "startMs": 47766.667,
+        "endMs": 48066.667
+      },
+      {
+        "text": "future,",
+        "startMs": 48066.667,
+        "endMs": 48533.333,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 48566.667,
+    "endMs": 50666.667,
+    "words": [
+      {
+        "text": "because",
+        "startMs": 48566.667,
+        "endMs": 48966.667
+      },
+      {
+        "text": "one",
+        "startMs": 48966.667,
+        "endMs": 49366.667
+      },
+      {
+        "text": "exam",
+        "startMs": 49366.667,
+        "endMs": 49866.667,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "shouldn't",
+        "startMs": 49866.667,
+        "endMs": 50666.667
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 50666.667,
+    "endMs": 51766.667,
+    "words": [
+      {
+        "text": "define",
+        "startMs": 50666.667,
+        "endMs": 51133.333
+      },
+      {
+        "text": "your",
+        "startMs": 51133.333,
+        "endMs": 51433.333
+      },
+      {
+        "text": "future.",
+        "startMs": 51433.333,
+        "endMs": 51666.667,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 51766.667,
+    "endMs": 52366.667,
+    "words": [
+      {
+        "text": "NioLearn,",
+        "startMs": 51766.667,
+        "endMs": 52266.667,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 52566.667,
+    "endMs": 53400.0,
+    "words": [
+      {
+        "text": "navigate",
+        "startMs": 52566.667,
+        "endMs": 53100.0
+      },
+      {
+        "text": "more",
+        "startMs": 53100.0,
+        "endMs": 53400.0
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 53400.0,
+    "endMs": 53866.667,
+    "words": [
+      {
+        "text": "possibilities.",
+        "startMs": 53400.0,
+        "endMs": 53766.667,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  }
+]

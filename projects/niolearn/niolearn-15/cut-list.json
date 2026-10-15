@@ -1,0 +1,141 @@
+{
+  "id": "niolearn-15",
+  "fps": 30,
+  "dialogueFrames": 1310,
+  "endHoldFrames": 45,
+  "totalFrames": 1355,
+  "cuts": [
+    {
+      "source": "media/raw/niolearn/niolearn-15/IMG_5960.mov",
+      "inFrame": 99,
+      "outFrame": 174,
+      "timelineFrom": 0,
+      "duration": 75,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Marks hook"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-15/IMG_5960.mov",
+      "inFrame": 184,
+      "outFrame": 283,
+      "timelineFrom": 75,
+      "duration": 99,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Why colleges consider more"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-15/IMG_5960.mov",
+      "inFrame": 301,
+      "outFrame": 357,
+      "timelineFrom": 174,
+      "duration": 56,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Problem solving label"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-15/IMG_5960.mov",
+      "inFrame": 364,
+      "outFrame": 513,
+      "timelineFrom": 230,
+      "duration": 149,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "How students approach new questions"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-15/IMG_5960.mov",
+      "inFrame": 534,
+      "outFrame": 583,
+      "timelineFrom": 379,
+      "duration": 49,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Communication label"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-15/IMG_5960.mov",
+      "inFrame": 592,
+      "outFrame": 751,
+      "timelineFrom": 428,
+      "duration": 159,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Clarity and confidence"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-15/IMG_5960.mov",
+      "inFrame": 766,
+      "outFrame": 838,
+      "timelineFrom": 587,
+      "duration": 72,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Projects and curiosity label"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-15/IMG_5960.mov",
+      "inFrame": 844,
+      "outFrame": 1067,
+      "timelineFrom": 659,
+      "duration": 223,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Self-initiated projects and interest"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-15/IMG_5960.mov",
+      "inFrame": 1107,
+      "outFrame": 1254,
+      "timelineFrom": 882,
+      "duration": 147,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Each college differs; verify criteria"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-15/IMG_5960.mov",
+      "inFrame": 1257,
+      "outFrame": 1356,
+      "timelineFrom": 1029,
+      "duration": 99,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Complete preparation beyond marks"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-15/IMG_5960.mov",
+      "inFrame": 1374,
+      "outFrame": 1481,
+      "timelineFrom": 1128,
+      "duration": 107,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Profile and comment prompt"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-15/IMG_5960.mov",
+      "inFrame": 1486,
+      "outFrame": 1561,
+      "timelineFrom": 1235,
+      "duration": 75,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Diagnostic website CTA"
+    }
+  ]
+}

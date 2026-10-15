@@ -1,0 +1,98 @@
+{
+  "phrases": [
+    "Maths mein 90 aaye,",
+    "par abhi bhi",
+    "entrance tough lag",
+    "raha hai?",
+    "Main batata hoon kyun.",
+    "Pehla,",
+    "saare questions karne",
+    "ki zid rakhna,",
+    "time limited hota hai,",
+    "smart choice bhi",
+    "ek skill hai.",
+    "Doosra,",
+    "formulas ratna,",
+    "entrance mein khaali",
+    "maths nahi,",
+    "reasoning bhi aati",
+    "jahaan pe logic",
+    "aur pattern lagta hai,",
+    "ratta nahi.",
+    "Teesra,",
+    "mocks dena,",
+    "marks dekhna,",
+    "lekin analyse nahi karna,",
+    "analyse karna hi",
+    "sabse zyada important hai.",
+    "Entrance sirf maths",
+    "nahi hota,",
+    "strategy,",
+    "reasoning aur review,",
+    "yeh teeno cheezein bhi",
+    "kaafi zyada farak",
+    "laati hain.",
+    "Aap kaunsi galti",
+    "kar rahe ho?",
+    "Comments mein batao",
+    "aur agar aapko",
+    "apni galti sudhaarna",
+    "hai,",
+    "go on niolearn.com"
+  ],
+  "accentWords": [
+    "maths",
+    "90",
+    "entrance",
+    "tough",
+    "questions",
+    "time",
+    "limited",
+    "choice",
+    "skill",
+    "formulas",
+    "reasoning",
+    "logic",
+    "pattern",
+    "ratta",
+    "mocks",
+    "marks",
+    "analyse",
+    "important",
+    "strategy",
+    "review",
+    "galti",
+    "comments"
+  ],
+  "broll": [
+    {
+      "kind": "nio-study-choice",
+      "source": "IMG_5952",
+      "start": 6.38,
+      "end": 12.04
+    },
+    {
+      "kind": "nio-study-logic",
+      "source": "IMG_5952",
+      "start": 13.76,
+      "end": 19.95
+    },
+    {
+      "kind": "nio-system-review",
+      "source": "IMG_5952",
+      "start": 21.63,
+      "end": 27.52
+    }
+  ],
+  "notes": [
+    "Color highlights start with this reel. Previous approved exports retain their existing appearance.",
+    "Source opening pickup trimmed to start cleanly at maths; preserve all three mistakes and advice.",
+    "Do not use extra B-roll headlines on top of speech captions.",
+    "Revision 2 applies the requested sustained functional motion after the reference re-study; prior v1 export remains available."
+  ],
+  "alphaExports": [
+    "nio-study-choice",
+    "nio-study-logic"
+  ],
+  "assetVersion": 2
+}

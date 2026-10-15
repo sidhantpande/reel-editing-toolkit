@@ -1,0 +1,535 @@
+{
+  "status": "Reviewed medium Hindi source timestamps and small hook comparison; Roman Hinglish corrected; pause overhangs removed",
+  "words": [
+    {
+      "text": "Maths",
+      "start": 1.48,
+      "end": 1.76
+    },
+    {
+      "text": "mein",
+      "start": 1.76,
+      "end": 1.88
+    },
+    {
+      "text": "90",
+      "start": 1.88,
+      "end": 2.16
+    },
+    {
+      "text": "aaye,",
+      "start": 2.16,
+      "end": 2.5
+    },
+    {
+      "text": "par",
+      "start": 2.84,
+      "end": 2.94
+    },
+    {
+      "text": "abhi",
+      "start": 2.94,
+      "end": 3.12
+    },
+    {
+      "text": "bhi",
+      "start": 3.12,
+      "end": 3.24
+    },
+    {
+      "text": "entrance",
+      "start": 3.24,
+      "end": 3.5
+    },
+    {
+      "text": "tough",
+      "start": 3.5,
+      "end": 3.72
+    },
+    {
+      "text": "lag",
+      "start": 3.72,
+      "end": 3.84
+    },
+    {
+      "text": "raha",
+      "start": 3.84,
+      "end": 3.95
+    },
+    {
+      "text": "hai?",
+      "start": 3.95,
+      "end": 4.05
+    },
+    {
+      "text": "Main",
+      "start": 4.42,
+      "end": 4.51
+    },
+    {
+      "text": "batata",
+      "start": 4.51,
+      "end": 4.7
+    },
+    {
+      "text": "hoon",
+      "start": 4.7,
+      "end": 4.77
+    },
+    {
+      "text": "kyun.",
+      "start": 4.77,
+      "end": 4.91
+    },
+    {
+      "text": "Pehla,",
+      "start": 5.69,
+      "end": 6.25
+    },
+    {
+      "text": "saare",
+      "start": 6.39,
+      "end": 6.79
+    },
+    {
+      "text": "questions",
+      "start": 6.79,
+      "end": 7.33
+    },
+    {
+      "text": "karne",
+      "start": 7.33,
+      "end": 7.63
+    },
+    {
+      "text": "ki",
+      "start": 7.63,
+      "end": 7.81
+    },
+    {
+      "text": "zid",
+      "start": 7.81,
+      "end": 8.11
+    },
+    {
+      "text": "rakhna,",
+      "start": 8.11,
+      "end": 8.32
+    },
+    {
+      "text": "time",
+      "start": 9.39,
+      "end": 9.69
+    },
+    {
+      "text": "limited",
+      "start": 9.69,
+      "end": 10.05
+    },
+    {
+      "text": "hota",
+      "start": 10.05,
+      "end": 10.33
+    },
+    {
+      "text": "hai,",
+      "start": 10.33,
+      "end": 10.53
+    },
+    {
+      "text": "smart",
+      "start": 10.75,
+      "end": 11.15
+    },
+    {
+      "text": "choice",
+      "start": 11.15,
+      "end": 11.47
+    },
+    {
+      "text": "bhi",
+      "start": 11.47,
+      "end": 11.57
+    },
+    {
+      "text": "ek",
+      "start": 11.57,
+      "end": 11.79
+    },
+    {
+      "text": "skill",
+      "start": 11.79,
+      "end": 12.01
+    },
+    {
+      "text": "hai.",
+      "start": 12.01,
+      "end": 12.11
+    },
+    {
+      "text": "Doosra,",
+      "start": 12.83,
+      "end": 13.18
+    },
+    {
+      "text": "formulas",
+      "start": 13.75,
+      "end": 14.35
+    },
+    {
+      "text": "ratna,",
+      "start": 14.35,
+      "end": 14.69
+    },
+    {
+      "text": "entrance",
+      "start": 15.09,
+      "end": 15.47
+    },
+    {
+      "text": "mein",
+      "start": 15.47,
+      "end": 15.59
+    },
+    {
+      "text": "khaali",
+      "start": 15.59,
+      "end": 15.83
+    },
+    {
+      "text": "maths",
+      "start": 15.83,
+      "end": 16.13
+    },
+    {
+      "text": "nahi,",
+      "start": 16.13,
+      "end": 16.38
+    },
+    {
+      "text": "reasoning",
+      "start": 16.77,
+      "end": 17.17
+    },
+    {
+      "text": "bhi",
+      "start": 17.17,
+      "end": 17.33
+    },
+    {
+      "text": "aati",
+      "start": 17.33,
+      "end": 17.53
+    },
+    {
+      "text": "jahaan",
+      "start": 17.53,
+      "end": 17.85
+    },
+    {
+      "text": "pe",
+      "start": 17.85,
+      "end": 17.95
+    },
+    {
+      "text": "logic",
+      "start": 17.95,
+      "end": 18.41
+    },
+    {
+      "text": "aur",
+      "start": 18.41,
+      "end": 18.65
+    },
+    {
+      "text": "pattern",
+      "start": 18.65,
+      "end": 18.95
+    },
+    {
+      "text": "lagta",
+      "start": 18.95,
+      "end": 19.31
+    },
+    {
+      "text": "hai,",
+      "start": 19.31,
+      "end": 19.49
+    },
+    {
+      "text": "ratta",
+      "start": 19.53,
+      "end": 19.99
+    },
+    {
+      "text": "nahi.",
+      "start": 19.8,
+      "end": 20.01
+    },
+    {
+      "text": "Teesra,",
+      "start": 20.75,
+      "end": 21.23
+    },
+    {
+      "text": "mocks",
+      "start": 21.67,
+      "end": 22.05
+    },
+    {
+      "text": "dena,",
+      "start": 22.05,
+      "end": 22.69
+    },
+    {
+      "text": "marks",
+      "start": 22.83,
+      "end": 23.19
+    },
+    {
+      "text": "dekhna,",
+      "start": 23.19,
+      "end": 23.71
+    },
+    {
+      "text": "lekin",
+      "start": 23.77,
+      "end": 24.13
+    },
+    {
+      "text": "analyse",
+      "start": 24.13,
+      "end": 24.61
+    },
+    {
+      "text": "nahi",
+      "start": 24.61,
+      "end": 24.77
+    },
+    {
+      "text": "karna,",
+      "start": 24.77,
+      "end": 24.91
+    },
+    {
+      "text": "analyse",
+      "start": 25.39,
+      "end": 25.97
+    },
+    {
+      "text": "karna",
+      "start": 25.97,
+      "end": 26.37
+    },
+    {
+      "text": "hi",
+      "start": 26.37,
+      "end": 26.43
+    },
+    {
+      "text": "sabse",
+      "start": 26.43,
+      "end": 26.77
+    },
+    {
+      "text": "zyada",
+      "start": 26.77,
+      "end": 27.03
+    },
+    {
+      "text": "important",
+      "start": 27.03,
+      "end": 27.65
+    },
+    {
+      "text": "hai.",
+      "start": 27.45,
+      "end": 27.59
+    },
+    {
+      "text": "Entrance",
+      "start": 29.03,
+      "end": 29.41
+    },
+    {
+      "text": "sirf",
+      "start": 29.41,
+      "end": 29.69
+    },
+    {
+      "text": "maths",
+      "start": 29.69,
+      "end": 30.01
+    },
+    {
+      "text": "nahi",
+      "start": 30.01,
+      "end": 30.17
+    },
+    {
+      "text": "hota,",
+      "start": 30.17,
+      "end": 30.44
+    },
+    {
+      "text": "strategy,",
+      "start": 30.72,
+      "end": 31.42
+    },
+    {
+      "text": "reasoning",
+      "start": 31.89,
+      "end": 32.54
+    },
+    {
+      "text": "aur",
+      "start": 32.69,
+      "end": 33.05
+    },
+    {
+      "text": "review,",
+      "start": 33.05,
+      "end": 33.49
+    },
+    {
+      "text": "yeh",
+      "start": 33.95,
+      "end": 34.13
+    },
+    {
+      "text": "teeno",
+      "start": 34.13,
+      "end": 34.39
+    },
+    {
+      "text": "cheezein",
+      "start": 34.39,
+      "end": 34.71
+    },
+    {
+      "text": "bhi",
+      "start": 34.71,
+      "end": 34.91
+    },
+    {
+      "text": "kaafi",
+      "start": 34.91,
+      "end": 35.31
+    },
+    {
+      "text": "zyada",
+      "start": 35.31,
+      "end": 35.69
+    },
+    {
+      "text": "farak",
+      "start": 35.69,
+      "end": 35.97
+    },
+    {
+      "text": "laati",
+      "start": 35.82,
+      "end": 36.03
+    },
+    {
+      "text": "hain.",
+      "start": 36.03,
+      "end": 36.14
+    },
+    {
+      "text": "Aap",
+      "start": 37.12,
+      "end": 37.37
+    },
+    {
+      "text": "kaunsi",
+      "start": 37.37,
+      "end": 37.65
+    },
+    {
+      "text": "galti",
+      "start": 37.65,
+      "end": 37.89
+    },
+    {
+      "text": "kar",
+      "start": 37.89,
+      "end": 38.09
+    },
+    {
+      "text": "rahe",
+      "start": 38.09,
+      "end": 38.25
+    },
+    {
+      "text": "ho?",
+      "start": 38.25,
+      "end": 38.29
+    },
+    {
+      "text": "Comments",
+      "start": 38.39,
+      "end": 38.63
+    },
+    {
+      "text": "mein",
+      "start": 38.63,
+      "end": 38.73
+    },
+    {
+      "text": "batao",
+      "start": 38.73,
+      "end": 39.18
+    },
+    {
+      "text": "aur",
+      "start": 39.54,
+      "end": 39.69
+    },
+    {
+      "text": "agar",
+      "start": 39.71,
+      "end": 39.91
+    },
+    {
+      "text": "aapko",
+      "start": 39.91,
+      "end": 40.13
+    },
+    {
+      "text": "apni",
+      "start": 40.13,
+      "end": 40.31
+    },
+    {
+      "text": "galti",
+      "start": 40.31,
+      "end": 40.55
+    },
+    {
+      "text": "sudhaarna",
+      "start": 40.55,
+      "end": 40.87
+    },
+    {
+      "text": "hai,",
+      "start": 40.87,
+      "end": 41.04
+    },
+    {
+      "text": "go",
+      "start": 41.05,
+      "end": 41.71
+    },
+    {
+      "text": "on",
+      "start": 41.71,
+      "end": 41.91
+    },
+    {
+      "text": "niolearn.com",
+      "start": 41.91,
+      "end": 42.6
+    }
+  ]
+}

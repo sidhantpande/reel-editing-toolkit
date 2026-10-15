@@ -1,0 +1,15 @@
+{
+  "project": "niolearn-19",
+  "source": "src/projects/ProjectBroll.tsx",
+  "newMotion": [
+    "nio-project-phone",
+    "nio-project-structure",
+    "nio-project-attendance"
+  ],
+  "creation": "Original Canvas geometry and deterministic Remotion animation; no external stock.",
+  "referenceStudy": "docs/REFERENCE_ANALYSIS.md#motion-re-study--batch-revision",
+  "motion": "Continuous functional clock/route/selection movement and paper-to-phone story, with restrained camera drift.",
+  "alphaExports": "public/assets/projects/niolearn-19",
+  "music": "Original project calm-focus synthesis and transition air",
+  "claims": "Speaker example only; no new achievement or outcome claim added."
+}

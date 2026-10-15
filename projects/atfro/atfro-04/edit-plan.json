@@ -1,0 +1,101 @@
+{
+  "id": "atfro-04",
+  "brand": "atfro",
+  "status": "edited-awaiting-user-review",
+  "sourceClips": [
+    "media/raw/atfro/atfro-04/IMG_5995.mov",
+    "media/raw/atfro/atfro-04/IMG_5996.mov"
+  ],
+  "format": "REEL",
+  "captionPreset": "reference",
+  "broll": [
+    {
+      "kind": "atfro-school-film",
+      "duration": 141,
+      "fadeFrames": 8,
+      "from": 34
+    },
+    {
+      "kind": "atfro-school-plan",
+      "duration": 283,
+      "fadeFrames": 8,
+      "from": 464
+    },
+    {
+      "kind": "atfro-school-workflow",
+      "duration": 205,
+      "fadeFrames": 8,
+      "from": 773
+    }
+  ],
+  "notes": [
+    "Source script timings are estimates. Match recorded dialogue before final captions.",
+    "Review all fact placeholders before final export.",
+    "CTA wording stumbles; compare replacement CTA in IMG_5996.",
+    "Replacement ending for IMG_5995."
+  ],
+  "takes": [
+    {
+      "project": "atfro-04",
+      "brand": "atfro",
+      "file": "IMG_5995.mov",
+      "path": "media/raw/atfro/atfro-04/IMG_5995.mov",
+      "role": "main",
+      "confidence": "high",
+      "evidence": "School event reel vs the story parents need; culture, values, growth partner, one learning story.",
+      "edit_note": "CTA wording stumbles; compare replacement CTA in IMG_5996.",
+      "asr_draft": ".cache/transcripts-en/IMG_5995.json"
+    },
+    {
+      "project": "atfro-04",
+      "brand": "atfro",
+      "file": "IMG_5996.mov",
+      "path": "media/raw/atfro/atfro-04/IMG_5996.mov",
+      "role": "cta-pickup",
+      "confidence": "high",
+      "evidence": "If you lead a school, DM SCHOOL with one communication bottleneck.",
+      "edit_note": "Replacement ending for IMG_5995.",
+      "asr_draft": ".cache/transcripts-en/IMG_5996.json"
+    }
+  ],
+  "captionBeats": [
+    "Parents need a story",
+    "Learning + values",
+    "One clear goal",
+    "DM SCHOOL"
+  ],
+  "suggestedBroll": [
+    {
+      "spokenAnchor": "When an event dump is contrasted with a learning story",
+      "composition": "Broll-timeline",
+      "asset": "public/assets/broll/atfro-timeline.webm",
+      "timingStatus": "Resolve against edited recording; no frame cue assigned"
+    },
+    {
+      "spokenAnchor": "At the difference between a clip stack and a purposeful story",
+      "composition": "Broll-compare",
+      "asset": "public/assets/broll/atfro-compare.webm",
+      "timingStatus": "Resolve against edited recording; no frame cue assigned"
+    }
+  ],
+  "soundDirection": {
+    "music": "soft-momentum",
+    "voicePriority": true,
+    "sfx": [
+      "soft-whoosh at a major graphic reveal",
+      "soft-tick only for a real timer"
+    ],
+    "avoid": "A sound effect on every caption word"
+  },
+  "creativeNote": "Use restrained comparisons. Never insert stock identifiable students. IMG_5996 is the replacement CTA.",
+  "visualDirection": "light-editorial-v3",
+  "preferredPremiumScene": {
+    "composition": "Premium-paper-partnership",
+    "kind": "paper-partnership",
+    "asset": "public/assets/broll/atfro-premium-paper-partnership-v3.webm",
+    "source": "src/premium/PaperScene.tsx",
+    "note": "Use opaque paper scenes for full B-roll; alpha versions are reusable overlays. Functional first-generation diagrams can be restyled as needed."
+  },
+  "output": "deliverables/atfro/ATFRO_02_School_Story_v1.mp4",
+  "finalQA": "analysis/final-qa.json"
+}

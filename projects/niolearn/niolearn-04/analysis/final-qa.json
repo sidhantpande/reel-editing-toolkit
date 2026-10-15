@@ -1,0 +1,47 @@
+{
+  "export": "deliverables/niolearn/NIOLEARN_01_Parent_Questions_v2.mp4",
+  "title": "5 questions parents should ask before choosing a new-age tech school",
+  "order": "First recorded NioLearn reel; calendar script 04. Calendar script 01 is STATIC.",
+  "sha256": "6441cc58df1a9209b0b60d9c138aeac5503dab81d1febcf8f37c4a7abe2159c3",
+  "bytes": 40389036,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "frames": 1401,
+  "durationSeconds": 46.7,
+  "dialogueFrames": 1356,
+  "sourceDurationSeconds": 57.606667,
+  "captions": {
+    "words": 142,
+    "groups": 52,
+    "language": "Roman Hinglish",
+    "alignment": "Reviewed medium-model source word timing, pause-overhang corrections and independent small-model transcription of edited dialogue.",
+    "visualReview": "All 52 caption groups checked in encoded v2; position, size and timing match v1 exactly."
+  },
+  "transitions": "Reviewed all source cut boundaries, ten three-frame Canvas blends, four B-roll fades, internal credential-to-fee transition and logo dissolve.",
+  "gaze": "Full chronological source sheet inspected; side-glance passages shown only as relevant B-roll.",
+  "audioLUFS": -14.02,
+  "audioTruePeakDBTP": -2.03,
+  "fullDecode": "passed",
+  "blackFramesDetected": false,
+  "reusableAlphaScenes": 5,
+  "alphaCheck": "analysis/alpha-check.json",
+  "ending": "Only original NioLearn mark on light ivory.",
+  "status": "awaiting-user-review",
+  "framing": {
+    "revision": 2,
+    "zoomRange": [
+      1.6,
+      1.63
+    ],
+    "cropX": 0.4,
+    "cropY": 0.9,
+    "application": "Camera footage only, directly from original recording",
+    "visualReview": "Checked headroom, eye line and gestures across opening, five-question sections and closing. Face occupies the upper portion; excess wall area is reduced.",
+    "captionLayoutUnchanged": true,
+    "captionPagesSHA256": "b8ef4b1bb841094e07888039492bb5611ce73fa103f0889ac98bbfb87254c49b",
+    "cutBlendStills": "Regenerated from reframed A-roll, including the end-card camera hold."
+  }
+}

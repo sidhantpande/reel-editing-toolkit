@@ -1,0 +1,784 @@
+{
+  "source": "IMG_5967.wav",
+  "language": "en",
+  "status": "ASR_DRAFT_FOR_MATCHING_NOT_FINAL_CAPTIONS",
+  "segments": [
+    {
+      "start": 6.74,
+      "end": 9.48,
+      "text": " First, degree and recognition.",
+      "words": [
+        {
+          "start": 6.74,
+          "end": 7.58,
+          "text": " First,",
+          "probability": 0.13050593435764313
+        },
+        {
+          "start": 8.12,
+          "end": 8.44,
+          "text": " degree",
+          "probability": 0.323779433965683
+        },
+        {
+          "start": 8.44,
+          "end": 8.86,
+          "text": " and",
+          "probability": 0.8389171957969666
+        },
+        {
+          "start": 8.86,
+          "end": 9.48,
+          "text": " recognition.",
+          "probability": 0.9599297046661377
+        }
+      ]
+    },
+    {
+      "start": 9.94,
+      "end": 12.58,
+      "text": " Second, how much fees do you need?",
+      "words": [
+        {
+          "start": 9.94,
+          "end": 10.62,
+          "text": " Second,",
+          "probability": 0.4358736574649811
+        },
+        {
+          "start": 11.04,
+          "end": 11.24,
+          "text": " how",
+          "probability": 0.24576053023338318
+        },
+        {
+          "start": 11.24,
+          "end": 11.44,
+          "text": " much",
+          "probability": 0.7797234654426575
+        },
+        {
+          "start": 11.44,
+          "end": 11.9,
+          "text": " fees",
+          "probability": 0.3352578282356262
+        },
+        {
+          "start": 11.9,
+          "end": 12.22,
+          "text": " do",
+          "probability": 0.2531573176383972
+        },
+        {
+          "start": 12.22,
+          "end": 12.22,
+          "text": " you",
+          "probability": 0.8301642537117004
+        },
+        {
+          "start": 12.22,
+          "end": 12.58,
+          "text": " need?",
+          "probability": 0.15870200097560883
+        }
+      ]
+    },
+    {
+      "start": 12.8,
+      "end": 16.48,
+      "text": " Third, what is the selection process of that college?",
+      "words": [
+        {
+          "start": 12.8,
+          "end": 13.62,
+          "text": " Third,",
+          "probability": 0.695833146572113
+        },
+        {
+          "start": 14.02,
+          "end": 14.22,
+          "text": " what",
+          "probability": 0.7191810011863708
+        },
+        {
+          "start": 14.22,
+          "end": 14.22,
+          "text": " is",
+          "probability": 0.9108750224113464
+        },
+        {
+          "start": 14.22,
+          "end": 14.28,
+          "text": " the",
+          "probability": 0.901957094669342
+        },
+        {
+          "start": 14.28,
+          "end": 14.64,
+          "text": " selection",
+          "probability": 0.7616090178489685
+        },
+        {
+          "start": 14.64,
+          "end": 15.42,
+          "text": " process",
+          "probability": 0.9839762449264526
+        },
+        {
+          "start": 15.42,
+          "end": 15.92,
+          "text": " of",
+          "probability": 0.48398444056510925
+        },
+        {
+          "start": 15.92,
+          "end": 16.1,
+          "text": " that",
+          "probability": 0.8150795698165894
+        },
+        {
+          "start": 16.1,
+          "end": 16.48,
+          "text": " college?",
+          "probability": 0.8365858793258667
+        }
+      ]
+    },
+    {
+      "start": 17.02,
+      "end": 21.08,
+      "text": " What is the curriculum and what is the use of it?",
+      "words": [
+        {
+          "start": 17.02,
+          "end": 17.48,
+          "text": " What",
+          "probability": 0.5477312207221985
+        },
+        {
+          "start": 17.48,
+          "end": 17.82,
+          "text": " is",
+          "probability": 0.5502301454544067
+        },
+        {
+          "start": 17.82,
+          "end": 17.94,
+          "text": " the",
+          "probability": 0.5082362294197083
+        },
+        {
+          "start": 17.94,
+          "end": 18.44,
+          "text": " curriculum",
+          "probability": 0.9458993077278137
+        },
+        {
+          "start": 18.44,
+          "end": 19.56,
+          "text": " and",
+          "probability": 0.807418167591095
+        },
+        {
+          "start": 19.56,
+          "end": 19.86,
+          "text": " what",
+          "probability": 0.8465620875358582
+        },
+        {
+          "start": 19.86,
+          "end": 20.0,
+          "text": " is",
+          "probability": 0.40674909949302673
+        },
+        {
+          "start": 20.0,
+          "end": 20.0,
+          "text": " the",
+          "probability": 0.31948694586753845
+        },
+        {
+          "start": 20.0,
+          "end": 20.22,
+          "text": " use",
+          "probability": 0.07365388423204422
+        },
+        {
+          "start": 20.22,
+          "end": 21.08,
+          "text": " of",
+          "probability": 0.827879011631012
+        },
+        {
+          "start": 21.08,
+          "end": 21.08,
+          "text": " it?",
+          "probability": 0.2514643371105194
+        }
+      ]
+    },
+    {
+      "start": 21.08,
+      "end": 25.5,
+      "text": " What are the five mentors and what is the exposure of that college?",
+      "words": [
+        {
+          "start": 21.08,
+          "end": 21.76,
+          "text": " What",
+          "probability": 0.22734037041664124
+        },
+        {
+          "start": 21.76,
+          "end": 21.76,
+          "text": " are",
+          "probability": 0.430110901594162
+        },
+        {
+          "start": 21.76,
+          "end": 21.76,
+          "text": " the",
+          "probability": 0.8491209149360657
+        },
+        {
+          "start": 21.76,
+          "end": 21.76,
+          "text": " five",
+          "probability": 0.24259348213672638
+        },
+        {
+          "start": 21.76,
+          "end": 22.66,
+          "text": " mentors",
+          "probability": 0.8483448028564453
+        },
+        {
+          "start": 22.66,
+          "end": 23.46,
+          "text": " and",
+          "probability": 0.6802788376808167
+        },
+        {
+          "start": 23.46,
+          "end": 24.04,
+          "text": " what",
+          "probability": 0.4673936367034912
+        },
+        {
+          "start": 24.04,
+          "end": 24.04,
+          "text": " is",
+          "probability": 0.6451578140258789
+        },
+        {
+          "start": 24.04,
+          "end": 24.14,
+          "text": " the",
+          "probability": 0.9413360357284546
+        },
+        {
+          "start": 24.14,
+          "end": 24.52,
+          "text": " exposure",
+          "probability": 0.2927955090999603
+        },
+        {
+          "start": 24.52,
+          "end": 24.94,
+          "text": " of",
+          "probability": 0.6617879271507263
+        },
+        {
+          "start": 24.94,
+          "end": 25.06,
+          "text": " that",
+          "probability": 0.4007777273654938
+        },
+        {
+          "start": 25.06,
+          "end": 25.5,
+          "text": " college?",
+          "probability": 0.9113852977752686
+        }
+      ]
+    },
+    {
+      "start": 25.5,
+      "end": 28.3,
+      "text": " and how much is the output of the transparency?",
+      "words": [
+        {
+          "start": 25.5,
+          "end": 26.08,
+          "text": " and",
+          "probability": 0.14146621525287628
+        },
+        {
+          "start": 26.08,
+          "end": 26.44,
+          "text": " how",
+          "probability": 0.12231937795877457
+        },
+        {
+          "start": 26.44,
+          "end": 26.44,
+          "text": " much",
+          "probability": 0.497327983379364
+        },
+        {
+          "start": 26.44,
+          "end": 26.92,
+          "text": " is",
+          "probability": 0.20836195349693298
+        },
+        {
+          "start": 26.92,
+          "end": 26.94,
+          "text": " the",
+          "probability": 0.8922498226165771
+        },
+        {
+          "start": 26.94,
+          "end": 27.2,
+          "text": " output",
+          "probability": 0.1576104760169983
+        },
+        {
+          "start": 27.2,
+          "end": 28.1,
+          "text": " of",
+          "probability": 0.3782099187374115
+        },
+        {
+          "start": 28.1,
+          "end": 28.1,
+          "text": " the",
+          "probability": 0.37386852502822876
+        },
+        {
+          "start": 28.1,
+          "end": 28.3,
+          "text": " transparency?",
+          "probability": 0.13826408982276917
+        }
+      ]
+    },
+    {
+      "start": 28.88,
+      "end": 31.06,
+      "text": " Do you call these six things on the basis of the basis?",
+      "words": [
+        {
+          "start": 28.88,
+          "end": 29.24,
+          "text": " Do",
+          "probability": 0.10018324106931686
+        },
+        {
+          "start": 29.24,
+          "end": 29.24,
+          "text": " you",
+          "probability": 0.20266349613666534
+        },
+        {
+          "start": 29.24,
+          "end": 29.24,
+          "text": " call",
+          "probability": 0.05566500872373581
+        },
+        {
+          "start": 29.24,
+          "end": 29.26,
+          "text": " these",
+          "probability": 0.24541202187538147
+        },
+        {
+          "start": 29.26,
+          "end": 29.66,
+          "text": " six",
+          "probability": 0.339252769947052
+        },
+        {
+          "start": 29.66,
+          "end": 29.98,
+          "text": " things",
+          "probability": 0.7101374864578247
+        },
+        {
+          "start": 29.98,
+          "end": 30.18,
+          "text": " on",
+          "probability": 0.35438212752342224
+        },
+        {
+          "start": 30.18,
+          "end": 30.18,
+          "text": " the",
+          "probability": 0.39827221632003784
+        },
+        {
+          "start": 30.18,
+          "end": 30.42,
+          "text": " basis",
+          "probability": 0.9673637747764587
+        },
+        {
+          "start": 30.42,
+          "end": 31.0,
+          "text": " of",
+          "probability": 0.8786494731903076
+        },
+        {
+          "start": 31.0,
+          "end": 31.0,
+          "text": " the",
+          "probability": 0.11763841658830643
+        },
+        {
+          "start": 31.0,
+          "end": 31.06,
+          "text": " basis?",
+          "probability": 0.020125603303313255
+        }
+      ]
+    },
+    {
+      "start": 31.64,
+      "end": 34.6,
+      "text": " And score on the scale of 1 to 5.",
+      "words": [
+        {
+          "start": 31.64,
+          "end": 32.44,
+          "text": " And",
+          "probability": 0.256415992975235
+        },
+        {
+          "start": 32.44,
+          "end": 32.9,
+          "text": " score",
+          "probability": 0.946509599685669
+        },
+        {
+          "start": 32.9,
+          "end": 33.4,
+          "text": " on",
+          "probability": 0.6480892300605774
+        },
+        {
+          "start": 33.4,
+          "end": 33.54,
+          "text": " the",
+          "probability": 0.9809050559997559
+        },
+        {
+          "start": 33.54,
+          "end": 33.78,
+          "text": " scale",
+          "probability": 0.9914183616638184
+        },
+        {
+          "start": 33.78,
+          "end": 34.0,
+          "text": " of",
+          "probability": 0.9943186640739441
+        },
+        {
+          "start": 34.0,
+          "end": 34.1,
+          "text": " 1",
+          "probability": 0.5461287498474121
+        },
+        {
+          "start": 34.1,
+          "end": 34.26,
+          "text": " to",
+          "probability": 0.44249460101127625
+        },
+        {
+          "start": 34.26,
+          "end": 34.6,
+          "text": " 5.",
+          "probability": 0.9847362637519836
+        }
+      ]
+    },
+    {
+      "start": 35.2,
+      "end": 37.24,
+      "text": " And then after the decision to complete the project,",
+      "words": [
+        {
+          "start": 35.2,
+          "end": 35.2,
+          "text": " And",
+          "probability": 0.3782447278499603
+        },
+        {
+          "start": 35.2,
+          "end": 35.26,
+          "text": " then",
+          "probability": 0.5749732851982117
+        },
+        {
+          "start": 35.26,
+          "end": 35.42,
+          "text": " after",
+          "probability": 0.06830788403749466
+        },
+        {
+          "start": 35.42,
+          "end": 36.18,
+          "text": " the",
+          "probability": 0.21392767131328583
+        },
+        {
+          "start": 36.18,
+          "end": 36.9,
+          "text": " decision",
+          "probability": 0.2870160937309265
+        },
+        {
+          "start": 36.9,
+          "end": 37.24,
+          "text": " to",
+          "probability": 0.15500301122665405
+        },
+        {
+          "start": 37.24,
+          "end": 37.24,
+          "text": " complete",
+          "probability": 0.6752548217773438
+        },
+        {
+          "start": 37.24,
+          "end": 37.24,
+          "text": " the",
+          "probability": 0.23766592144966125
+        },
+        {
+          "start": 37.24,
+          "end": 37.24,
+          "text": " project,",
+          "probability": 0.0404895655810833
+        }
+      ]
+    },
+    {
+      "start": 37.24,
+      "end": 37.86,
+      "text": " go to the hype.",
+      "words": [
+        {
+          "start": 37.24,
+          "end": 37.66,
+          "text": " go",
+          "probability": 0.13614346086978912
+        },
+        {
+          "start": 37.66,
+          "end": 37.66,
+          "text": " to",
+          "probability": 0.5084609985351562
+        },
+        {
+          "start": 37.66,
+          "end": 37.66,
+          "text": " the",
+          "probability": 0.5414141416549683
+        },
+        {
+          "start": 37.66,
+          "end": 37.86,
+          "text": " hype.",
+          "probability": 0.887974202632904
+        }
+      ]
+    },
+    {
+      "start": 38.74,
+      "end": 40.86,
+      "text": " And remember, a important tip.",
+      "words": [
+        {
+          "start": 38.74,
+          "end": 38.96,
+          "text": " And",
+          "probability": 0.6516709327697754
+        },
+        {
+          "start": 38.96,
+          "end": 39.3,
+          "text": " remember,",
+          "probability": 0.9869185090065002
+        },
+        {
+          "start": 39.82,
+          "end": 39.94,
+          "text": " a",
+          "probability": 0.45916327834129333
+        },
+        {
+          "start": 39.94,
+          "end": 40.44,
+          "text": " important",
+          "probability": 0.8952363133430481
+        },
+        {
+          "start": 40.44,
+          "end": 40.86,
+          "text": " tip.",
+          "probability": 0.9866596460342407
+        }
+      ]
+    },
+    {
+      "start": 41.38,
+      "end": 43.9,
+      "text": " Whatever college you give your questions right,",
+      "words": [
+        {
+          "start": 41.38,
+          "end": 41.42,
+          "text": " Whatever",
+          "probability": 0.11384765058755875
+        },
+        {
+          "start": 41.42,
+          "end": 41.92,
+          "text": " college",
+          "probability": 0.8950734734535217
+        },
+        {
+          "start": 41.92,
+          "end": 42.8,
+          "text": " you",
+          "probability": 0.3391466438770294
+        },
+        {
+          "start": 42.8,
+          "end": 42.82,
+          "text": " give",
+          "probability": 0.20773926377296448
+        },
+        {
+          "start": 42.82,
+          "end": 42.92,
+          "text": " your",
+          "probability": 0.27042558789253235
+        },
+        {
+          "start": 42.92,
+          "end": 43.42,
+          "text": " questions",
+          "probability": 0.5589930415153503
+        },
+        {
+          "start": 43.42,
+          "end": 43.9,
+          "text": " right,",
+          "probability": 0.14887920022010803
+        }
+      ]
+    },
+    {
+      "start": 44.72,
+      "end": 47.74,
+      "text": " without any sugar coating,",
+      "words": [
+        {
+          "start": 44.72,
+          "end": 45.14,
+          "text": " without",
+          "probability": 0.527163565158844
+        },
+        {
+          "start": 45.14,
+          "end": 45.58,
+          "text": " any",
+          "probability": 0.7709415555000305
+        },
+        {
+          "start": 45.58,
+          "end": 47.2,
+          "text": " sugar",
+          "probability": 0.5236422419548035
+        },
+        {
+          "start": 47.2,
+          "end": 47.74,
+          "text": " coating,",
+          "probability": 0.6129847764968872
+        }
+      ]
+    },
+    {
+      "start": 48.04,
+      "end": 49.96,
+      "text": " that is a actual college.",
+      "words": [
+        {
+          "start": 48.04,
+          "end": 48.18,
+          "text": " that",
+          "probability": 0.1311047226190567
+        },
+        {
+          "start": 48.18,
+          "end": 48.36,
+          "text": " is",
+          "probability": 0.44410240650177
+        },
+        {
+          "start": 48.36,
+          "end": 48.68,
+          "text": " a",
+          "probability": 0.2383577674627304
+        },
+        {
+          "start": 48.68,
+          "end": 49.52,
+          "text": " actual",
+          "probability": 0.5754919648170471
+        },
+        {
+          "start": 49.52,
+          "end": 49.96,
+          "text": " college.",
+          "probability": 0.9683908224105835
+        }
+      ]
+    },
+    {
+      "start": 50.52,
+      "end": 51.46,
+      "text": " What can I say?",
+      "words": [
+        {
+          "start": 50.52,
+          "end": 51.04,
+          "text": " What",
+          "probability": 0.2517259418964386
+        },
+        {
+          "start": 51.04,
+          "end": 51.46,
+          "text": " can",
+          "probability": 0.4975447356700897
+        },
+        {
+          "start": 51.46,
+          "end": 51.46,
+          "text": " I",
+          "probability": 0.6937129497528076
+        },
+        {
+          "start": 51.46,
+          "end": 51.46,
+          "text": " say?",
+          "probability": 0.8621007800102234
+        }
+      ]
+    }
+  ]
+}

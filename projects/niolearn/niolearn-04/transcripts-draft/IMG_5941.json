@@ -1,0 +1,347 @@
+{
+  "source": "IMG_5941.wav",
+  "language": "en",
+  "status": "ASR_DRAFT_FOR_MATCHING_NOT_FINAL_CAPTIONS",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.66,
+      "text": " Before getting the fee, ask 5 questions.",
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.94,
+          "text": " Before",
+          "probability": 0.012266628444194794
+        },
+        {
+          "start": 0.94,
+          "end": 1.72,
+          "text": " getting",
+          "probability": 0.13811630010604858
+        },
+        {
+          "start": 1.72,
+          "end": 1.82,
+          "text": " the",
+          "probability": 0.1156928762793541
+        },
+        {
+          "start": 1.82,
+          "end": 1.88,
+          "text": " fee,",
+          "probability": 0.21651053428649902
+        },
+        {
+          "start": 2.7,
+          "end": 2.9,
+          "text": " ask",
+          "probability": 0.7039231061935425
+        },
+        {
+          "start": 2.9,
+          "end": 3.1,
+          "text": " 5",
+          "probability": 0.18708665668964386
+        },
+        {
+          "start": 3.1,
+          "end": 3.66,
+          "text": " questions.",
+          "probability": 0.9487553238868713
+        }
+      ]
+    },
+    {
+      "start": 4.88,
+      "end": 8.9,
+      "text": " What is the degree or college degree and what is its recognition?",
+      "words": [
+        {
+          "start": 4.88,
+          "end": 5.72,
+          "text": " What",
+          "probability": 0.16081377863883972
+        },
+        {
+          "start": 5.72,
+          "end": 5.72,
+          "text": " is",
+          "probability": 0.6974694132804871
+        },
+        {
+          "start": 5.72,
+          "end": 5.72,
+          "text": " the",
+          "probability": 0.7117788195610046
+        },
+        {
+          "start": 5.72,
+          "end": 5.84,
+          "text": " degree",
+          "probability": 0.4376973807811737
+        },
+        {
+          "start": 5.84,
+          "end": 6.86,
+          "text": " or",
+          "probability": 0.22083736956119537
+        },
+        {
+          "start": 6.86,
+          "end": 7.44,
+          "text": " college",
+          "probability": 0.31840384006500244
+        },
+        {
+          "start": 7.44,
+          "end": 8.0,
+          "text": " degree",
+          "probability": 0.3572884798049927
+        },
+        {
+          "start": 8.0,
+          "end": 8.02,
+          "text": " and",
+          "probability": 0.2992067039012909
+        },
+        {
+          "start": 8.02,
+          "end": 8.22,
+          "text": " what",
+          "probability": 0.7015671133995056
+        },
+        {
+          "start": 8.22,
+          "end": 8.22,
+          "text": " is",
+          "probability": 0.9125269055366516
+        },
+        {
+          "start": 8.22,
+          "end": 8.4,
+          "text": " its",
+          "probability": 0.40002191066741943
+        },
+        {
+          "start": 8.4,
+          "end": 8.9,
+          "text": " recognition?",
+          "probability": 0.8188640475273132
+        }
+      ]
+    },
+    {
+      "start": 9.94,
+      "end": 16.26,
+      "text": " What will be the degree certification or part time university credential?",
+      "words": [
+        {
+          "start": 9.94,
+          "end": 10.6,
+          "text": " What",
+          "probability": 0.13698476552963257
+        },
+        {
+          "start": 10.6,
+          "end": 10.72,
+          "text": " will",
+          "probability": 0.6720438003540039
+        },
+        {
+          "start": 10.72,
+          "end": 11.0,
+          "text": " be",
+          "probability": 0.3285050094127655
+        },
+        {
+          "start": 11.0,
+          "end": 12.42,
+          "text": " the",
+          "probability": 0.6972630620002747
+        },
+        {
+          "start": 12.42,
+          "end": 13.06,
+          "text": " degree",
+          "probability": 0.46494174003601074
+        },
+        {
+          "start": 13.06,
+          "end": 14.14,
+          "text": " certification",
+          "probability": 0.17147955298423767
+        },
+        {
+          "start": 14.14,
+          "end": 14.56,
+          "text": " or",
+          "probability": 0.35654735565185547
+        },
+        {
+          "start": 14.56,
+          "end": 14.96,
+          "text": " part",
+          "probability": 0.3829607665538788
+        },
+        {
+          "start": 14.96,
+          "end": 15.12,
+          "text": " time",
+          "probability": 0.6226057410240173
+        },
+        {
+          "start": 15.12,
+          "end": 15.44,
+          "text": " university",
+          "probability": 0.1610356569290161
+        },
+        {
+          "start": 15.44,
+          "end": 16.26,
+          "text": " credential?",
+          "probability": 0.5140278935432434
+        }
+      ]
+    },
+    {
+      "start": 16.32,
+      "end": 27.14,
+      "text": " The third is the fees, total fees, hidden deposits and security deposits and all the things they need to have proper breakdown.",
+      "words": [
+        {
+          "start": 16.32,
+          "end": 16.7,
+          "text": " The",
+          "probability": 0.1744222491979599
+        },
+        {
+          "start": 16.7,
+          "end": 18.86,
+          "text": " third",
+          "probability": 0.2878704369068146
+        },
+        {
+          "start": 18.86,
+          "end": 19.74,
+          "text": " is",
+          "probability": 0.40694090723991394
+        },
+        {
+          "start": 19.74,
+          "end": 19.78,
+          "text": " the",
+          "probability": 0.30505332350730896
+        },
+        {
+          "start": 19.78,
+          "end": 19.98,
+          "text": " fees,",
+          "probability": 0.5720457434654236
+        },
+        {
+          "start": 20.32,
+          "end": 20.82,
+          "text": " total",
+          "probability": 0.5941606760025024
+        },
+        {
+          "start": 20.82,
+          "end": 21.26,
+          "text": " fees,",
+          "probability": 0.9834257364273071
+        },
+        {
+          "start": 21.56,
+          "end": 22.14,
+          "text": " hidden",
+          "probability": 0.8580767512321472
+        },
+        {
+          "start": 22.14,
+          "end": 22.96,
+          "text": " deposits",
+          "probability": 0.8693938851356506
+        },
+        {
+          "start": 22.96,
+          "end": 23.64,
+          "text": " and",
+          "probability": 0.5383657813072205
+        },
+        {
+          "start": 23.64,
+          "end": 23.96,
+          "text": " security",
+          "probability": 0.6786519885063171
+        },
+        {
+          "start": 23.96,
+          "end": 24.78,
+          "text": " deposits",
+          "probability": 0.6789783835411072
+        },
+        {
+          "start": 24.78,
+          "end": 25.2,
+          "text": " and",
+          "probability": 0.37917423248291016
+        },
+        {
+          "start": 25.2,
+          "end": 25.4,
+          "text": " all",
+          "probability": 0.3489188253879547
+        },
+        {
+          "start": 25.4,
+          "end": 25.58,
+          "text": " the",
+          "probability": 0.42336729168891907
+        },
+        {
+          "start": 25.58,
+          "end": 25.94,
+          "text": " things",
+          "probability": 0.5459201335906982
+        },
+        {
+          "start": 25.94,
+          "end": 26.26,
+          "text": " they",
+          "probability": 0.18765389919281006
+        },
+        {
+          "start": 26.26,
+          "end": 26.78,
+          "text": " need",
+          "probability": 0.23483020067214966
+        },
+        {
+          "start": 26.78,
+          "end": 26.78,
+          "text": " to",
+          "probability": 0.7690542340278625
+        },
+        {
+          "start": 26.78,
+          "end": 26.78,
+          "text": " have",
+          "probability": 0.2179696261882782
+        },
+        {
+          "start": 26.78,
+          "end": 26.78,
+          "text": " proper",
+          "probability": 0.3283856213092804
+        },
+        {
+          "start": 26.78,
+          "end": 27.14,
+          "text": " breakdown.",
+          "probability": 0.216438427567482
+        }
+      ]
+    }
+  ]
+}

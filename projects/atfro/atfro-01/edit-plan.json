@@ -1,0 +1,105 @@
+{
+  "id": "atfro-01",
+  "brand": "atfro",
+  "status": "rendered-awaiting-user-review",
+  "sourceClips": [
+    "media/raw/atfro/atfro-01/IMG_5999.mov",
+    "media/raw/atfro/atfro-01/IMG_6001.mov"
+  ],
+  "format": "REEL",
+  "captionPreset": "reference",
+  "broll": [
+    {
+      "from": 331,
+      "duration": 175,
+      "kind": "atfro-work",
+      "beats": [
+        26,
+        83,
+        139
+      ],
+      "fadeFrames": 5
+    },
+    {
+      "from": 762,
+      "duration": 185,
+      "kind": "atfro-process",
+      "beats": [
+        0,
+        40,
+        112
+      ],
+      "fadeFrames": 5
+    }
+  ],
+  "notes": [
+    "Use IMG_6001; IMG_5999 is an aborted opening.",
+    "Exclude sideways-reading growth-partner take at 34.5\u201336.77 seconds; use camera-facing pickup at 68.07\u201371.47 seconds.",
+    "Two original Canvas/SVG B-roll passages, one focal object at a time; dedicated ivory caption area.",
+    "Soft bottom black gradient on presenter; subtle colour correction; upward caption entrance with a soft shadow.",
+    "Word alignment cross-checked against edited dialogue. Every encoded caption group visually checked; logo card clears captions.",
+    "Review the final video before publishing. Raw camera files are unchanged and remain excluded from Git.",
+    "Final refinement: larger/wider captions, expanded bottom gradient, short cut blends and eight-frame B-roll dissolves.",
+    "Music uses a continuous softened bed without end-card gain jump. Ending contains only the centered ATFRO logo."
+  ],
+  "takes": [
+    {
+      "project": "atfro-01",
+      "brand": "atfro",
+      "file": "IMG_5999.mov",
+      "path": "media/raw/atfro/atfro-01/IMG_5999.mov",
+      "role": "false-start",
+      "confidence": "high",
+      "evidence": "Three months of silence from ATFRO; relaunch opening; stops on strategy/skill wording.",
+      "edit_note": "Opening false start. Use IMG_6001 as the main source.",
+      "asr_draft": ".cache/transcripts-en/IMG_5999.json"
+    },
+    {
+      "project": "atfro-01",
+      "brand": "atfro",
+      "file": "IMG_6001.mov",
+      "path": "media/raw/atfro/atfro-01/IMG_6001.mov",
+      "role": "main-with-pickups",
+      "confidence": "high",
+      "evidence": "ATFRO silence, client work, schools/doctor content/software, growth partner, return to sharing work.",
+      "edit_note": "90.48 s contains repeated sentences and pauses. Approx candidate main 0\u201327 s plus later 67\u201388 s ending; these are draft review ranges, not applied edits.",
+      "asr_draft": ".cache/transcripts-en/IMG_6001.json"
+    }
+  ],
+  "captionBeats": [
+    "Why we went quiet",
+    "Client work",
+    "A growth partner",
+    "We are back"
+  ],
+  "suggestedBroll": [
+    {
+      "spokenAnchor": "When school, doctor content and systems are mentioned",
+      "composition": "Broll-lead-flow",
+      "asset": "public/assets/broll/atfro-lead-flow.webm",
+      "timingStatus": "Resolve against edited recording; no frame cue assigned"
+    }
+  ],
+  "soundDirection": {
+    "music": "soft-momentum",
+    "voicePriority": true,
+    "sfx": [
+      "soft-whoosh at a major graphic reveal",
+      "soft-tick only for a real timer"
+    ],
+    "avoid": "A sound effect on every caption word"
+  },
+  "creativeNote": "Stay on the founder for the hook. Prefer actual approved work footage over generic graphics. Review the late pickup ending in IMG_6001.",
+  "visualDirection": "light-editorial-v3",
+  "preferredPremiumScene": {
+    "composition": "Premium-paper-partnership",
+    "kind": "paper-partnership",
+    "asset": "public/assets/broll/atfro-premium-paper-partnership-v3.webm",
+    "source": "src/premium/PaperScene.tsx",
+    "note": "Use opaque paper scenes for full B-roll; alpha versions are reusable overlays. Functional first-generation diagrams can be restyled as needed."
+  },
+  "finalExport": "deliverables/atfro/ATFRO_01_reedit_v7.mp4",
+  "cutList": "projects/atfro/atfro-01/cut-list.json",
+  "productionPlan": "projects/atfro/atfro-01/production-plan.md",
+  "finishRevision": 7
+}

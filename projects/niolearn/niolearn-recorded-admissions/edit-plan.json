@@ -1,0 +1,82 @@
+{
+  "id": "niolearn-recorded-admissions",
+  "brand": "niolearn",
+  "status": "edited-awaiting-user-review",
+  "sourceClips": [
+    "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov"
+  ],
+  "format": "RECORDED_REEL",
+  "captionPreset": "reference",
+  "broll": [
+    {
+      "kind": "nio-brand-services",
+      "duration": 360,
+      "fadeFrames": 8,
+      "from": 339,
+      "beats": [
+        100,
+        180,
+        220,
+        248
+      ],
+      "labels": [
+        "nio-system-prep",
+        "nio-system-interview",
+        "nio-system-prep",
+        "nio-system-review",
+        "nio-system-path"
+      ]
+    }
+  ],
+  "notes": [
+    "Contains repeated Don\u2019t wait line around 26\u201335 s. Confirm admissions-open/cohort claims."
+  ],
+  "takes": [
+    {
+      "project": "niolearn-recorded-admissions",
+      "brand": "niolearn",
+      "file": "IMG_5990.mov",
+      "path": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov",
+      "role": "main",
+      "confidence": "high",
+      "evidence": "First cohort targeting 2027 admissions; live classes, mentorship, mocks and guidance; registration CTA.",
+      "edit_note": "Contains repeated Don\u2019t wait line around 26\u201335 s. Confirm admissions-open/cohort claims.",
+      "asr_draft": ".cache/transcripts-en/IMG_5990.json"
+    }
+  ],
+  "captionLanguage": "English recording; review exact words",
+  "captionBeats": [
+    "2027 pathways",
+    "First cohort",
+    "Live classes + mentorship",
+    "Register"
+  ],
+  "suggestedBroll": [
+    {
+      "spokenAnchor": "When services are listed",
+      "composition": "Broll-pathways",
+      "asset": "public/assets/broll/niolearn-pathways.webm",
+      "timingStatus": "Resolve against edited recording; no frame cue assigned"
+    }
+  ],
+  "soundDirection": {
+    "music": "calm-focus",
+    "voicePriority": true,
+    "sfx": [
+      "soft-whoosh at a major graphic reveal",
+      "soft-tick only for a real timer"
+    ],
+    "avoid": "A sound effect on every caption word"
+  },
+  "creativeNote": "Resolve the repeated line around 26\u201335 s, verify the cohort offer, and keep English captions.",
+  "visualDirection": "light-editorial-v3",
+  "preferredPremiumScene": {
+    "composition": "Premium-paper-possibilities",
+    "kind": "paper-possibilities",
+    "asset": "public/assets/broll/niolearn-premium-paper-possibilities-v3.webm",
+    "source": "src/premium/PaperScene.tsx",
+    "note": "Use opaque paper scenes for full B-roll; alpha versions are reusable overlays. Functional first-generation diagrams can be restyled as needed."
+  },
+  "output": "deliverables/niolearn/NIOLEARN_12_Admissions_v1.mp4",
+  "finalQA": "analysis/final-qa.json"
+}

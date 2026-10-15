@@ -1,0 +1,452 @@
+{
+  "video": "/Users/sidhant/Desktop/NioLearn-Reels/deliverables/niolearn/NIOLEARN_03_Entrance_Mistakes_v2.mp4",
+  "probe": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "mime_codec_string": "avc1.640028",
+        "width": 1080,
+        "height": 1920,
+        "coded_width": 1080,
+        "coded_height": 1920,
+        "has_b_frames": 2,
+        "pix_fmt": "yuv420p",
+        "level": 40,
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "time_base": "1/90000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 3246000,
+        "duration": "36.066667",
+        "bit_rate": "5064342",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "1082",
+        "extradata_size": 47,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "encoder": "Lavc61.19.100 libx264"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "mime_codec_string": "mp4a.40.2",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "initial_padding": 1024,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 1731584,
+        "duration": "36.074667",
+        "bit_rate": "190020",
+        "nb_frames": "1692",
+        "extradata_size": 5,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler"
+        }
+      }
+    ],
+    "format": {
+      "filename": "deliverables/niolearn/NIOLEARN_03_Entrance_Mistakes_v2.mp4",
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "36.074667",
+      "size": "23729907",
+      "bit_rate": "5262398",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf63.1.102",
+        "comment": "Made with Remotion 4.0.535"
+      }
+    }
+  },
+  "captions": [
+    {
+      "page": 0,
+      "sampleFrame": 32,
+      "expected": "Maths mein 90 aaye,",
+      "ocr": "Maths mein 90 aaye,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 1,
+      "sampleFrame": 53,
+      "expected": "par abhi bhi",
+      "ocr": "| tb}, \u2014 F feo fy Ba 5\nHe 'y : | i \u2018 oh! ~OH \u2018 >",
+      "similarity": 0.276,
+      "review": true
+    },
+    {
+      "page": 2,
+      "sampleFrame": 71,
+      "expected": "entrance tough lag",
+      "ocr": "7 - \u2014 eis 7. N | ,\na\u00bb Ro i. eT",
+      "similarity": 0.357,
+      "review": true
+    },
+    {
+      "page": 3,
+      "sampleFrame": 78,
+      "expected": "raha hai?",
+      "ocr": "P| 4 :\n\u00ab ct A 1 >\nb rs ; 3\n\u2019 ' . A\nti W ~",
+      "similarity": 0.286,
+      "review": true
+    },
+    {
+      "page": 4,
+      "sampleFrame": 97,
+      "expected": "Main batata hoon kyun.",
+      "ocr": "Main batata hoon kyun.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 5,
+      "sampleFrame": 121,
+      "expected": "Pehla,",
+      "ocr": "Pehla,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 6,
+      "sampleFrame": 159,
+      "expected": "saare questions karne",
+      "ocr": "saare questions karne",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 7,
+      "sampleFrame": 183,
+      "expected": "ki zid rakhna,",
+      "ocr": "ki zid rakhna,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 8,
+      "sampleFrame": 221,
+      "expected": "time limited hota hai,",
+      "ocr": "time limited hota hai,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 9,
+      "sampleFrame": 251,
+      "expected": "smart choice bhi",
+      "ocr": "smart choice bhi",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 10,
+      "sampleFrame": 268,
+      "expected": "ek skill hai.",
+      "ocr": "ek skill hai.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 11,
+      "sampleFrame": 284,
+      "expected": "Doosra,",
+      "ocr": "Doosra,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 12,
+      "sampleFrame": 330,
+      "expected": "formulas ratna,",
+      "ocr": "formulas ratna,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 13,
+      "sampleFrame": 355,
+      "expected": "entrance mein khaali",
+      "ocr": "entrance mein khaali",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 14,
+      "sampleFrame": 374,
+      "expected": "maths nahi,",
+      "ocr": "maths nahi,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 15,
+      "sampleFrame": 400,
+      "expected": "reasoning bhi aati",
+      "ocr": "reasoning bhi aati",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 16,
+      "sampleFrame": 426,
+      "expected": "jahaan pe logic",
+      "ocr": "jahaan pe logic",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 17,
+      "sampleFrame": 460,
+      "expected": "aur pattern lagta hai,",
+      "ocr": "aur pattern lagta hai,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 18,
+      "sampleFrame": 477,
+      "expected": "ratta nahi.",
+      "ocr": "ratta nahi.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 19,
+      "sampleFrame": 497,
+      "expected": "Teesra,",
+      "ocr": "Teesra,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 20,
+      "sampleFrame": 541,
+      "expected": "mocks dena,",
+      "ocr": "mocks dena,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 21,
+      "sampleFrame": 570,
+      "expected": "marks dekhna,",
+      "ocr": "marks dekhna,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 22,
+      "sampleFrame": 607,
+      "expected": "lekin analyse nahi karna,",
+      "ocr": "lekin analyse nahi\nkarna,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 23,
+      "sampleFrame": 643,
+      "expected": "analyse karna hi",
+      "ocr": "analyse karna });",
+      "similarity": 0.923,
+      "review": false
+    },
+    {
+      "page": 24,
+      "sampleFrame": 679,
+      "expected": "sabse zyada important hai.",
+      "ocr": "sabse zyada important\nhai.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 25,
+      "sampleFrame": 713,
+      "expected": "Entrance sirf maths",
+      "ocr": "Entrance sirf maths",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 26,
+      "sampleFrame": 729,
+      "expected": "nahi hota,",
+      "ocr": "nahi hota,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 27,
+      "sampleFrame": 755,
+      "expected": "strategy,",
+      "ocr": "e = + a = ei\u2019 \u2018 7\nP< ame \" ay Pile | sy\n} me Ome We ms",
+      "similarity": 0.118,
+      "review": true
+    },
+    {
+      "page": 28,
+      "sampleFrame": 807,
+      "expected": "reasoning aur review,",
+      "ocr": "reasoning aur review,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 29,
+      "sampleFrame": 838,
+      "expected": "yeh teeno cheezein bhi",
+      "ocr": "yeh teeno cheezein bhi",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 30,
+      "sampleFrame": 870,
+      "expected": "kaafi zyada farak",
+      "ocr": "kaafi zyada farak",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 31,
+      "sampleFrame": 878,
+      "expected": "laati hain.",
+      "ocr": "laati hain.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 32,
+      "sampleFrame": 904,
+      "expected": "Aap kaunsi galti",
+      "ocr": "Aap kaunsi galti",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 33,
+      "sampleFrame": 921,
+      "expected": "kar rahe ho?",
+      "ocr": "= ~karrah\u00e9} 52 .\nB \u2018 i 4] 04 S \u2018 a ee",
+      "similarity": 0.538,
+      "review": true
+    },
+    {
+      "page": 34,
+      "sampleFrame": 945,
+      "expected": "Comments mein batao",
+      "ocr": "Comments mein batao",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 35,
+      "sampleFrame": 965,
+      "expected": "aur agar aapko",
+      "ocr": "aur agar aapko",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 36,
+      "sampleFrame": 987,
+      "expected": "apni galti sudhaarna",
+      "ocr": "apni galtisudhaarna",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 37,
+      "sampleFrame": 995,
+      "expected": "hai,",
+      "ocr": "E in| in Loot\n\u2018 =| Resa f i \u201cs\n; eh i fir ft VR ee\nA | ! y, . N, ;\na7 Ht te . i CF aS)\ntbh one gs cs",
+      "similarity": 0.109,
+      "review": true
+    },
+    {
+      "page": 38,
+      "sampleFrame": 1033,
+      "expected": "go on niolearn.com",
+      "ocr": "go on niolearnicom",
+      "similarity": 0.968,
+      "review": false
+    }
+  ]
+}

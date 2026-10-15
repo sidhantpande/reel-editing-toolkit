@@ -1,0 +1,138 @@
+{
+  "id": "niolearn-recorded-brand-intro",
+  "brand": "niolearn",
+  "status": "edited-awaiting-user-review",
+  "sourceClips": [
+    "media/raw/niolearn/niolearn-recorded-brand-intro/IMG_5974.mov",
+    "media/raw/niolearn/niolearn-recorded-brand-intro/IMG_5976.mov",
+    "media/raw/niolearn/niolearn-recorded-brand-intro/IMG_5978.mov"
+  ],
+  "format": "RECORDED_REEL",
+  "captionPreset": "reference",
+  "broll": [
+    {
+      "kind": "nio-study-logic",
+      "duration": 60,
+      "fadeFrames": 8,
+      "from": 392
+    },
+    {
+      "kind": "nio-intro-project",
+      "duration": 62,
+      "fadeFrames": 8,
+      "from": 469
+    },
+    {
+      "kind": "nio-system-path",
+      "duration": 165,
+      "fadeFrames": 8,
+      "from": 731
+    },
+    {
+      "kind": "nio-brand-services",
+      "duration": 214,
+      "fadeFrames": 8,
+      "from": 1004,
+      "beats": [
+        54,
+        76,
+        102,
+        140
+      ],
+      "labels": [
+        "nio-system-prep",
+        "nio-system-review",
+        "nio-system-interview",
+        "nio-system-diagnostic",
+        "nio-system-interview"
+      ]
+    },
+    {
+      "kind": "nio-intro-curiosity",
+      "duration": 169,
+      "fadeFrames": 8,
+      "from": 1295
+    }
+  ],
+  "notes": [
+    "Recorded English brand introduction, outside this calendar scriptbook.",
+    "Short bridge after IMG_5974 and before IMG_5978.",
+    "Complete the introduction with the three ordered parts; verify product claims before publication."
+  ],
+  "takes": [
+    {
+      "project": "niolearn-recorded-brand-intro",
+      "brand": "niolearn",
+      "file": "IMG_5974.mov",
+      "path": "media/raw/niolearn/niolearn-recorded-brand-intro/IMG_5974.mov",
+      "role": "part-1",
+      "confidence": "high",
+      "evidence": "What if JEE were not your only option; new generation tech colleges and different entrance routes.",
+      "edit_note": "Recorded English brand introduction, outside this calendar scriptbook.",
+      "asr_draft": ".cache/transcripts-en/IMG_5974.json"
+    },
+    {
+      "project": "niolearn-recorded-brand-intro",
+      "brand": "niolearn",
+      "file": "IMG_5976.mov",
+      "path": "media/raw/niolearn/niolearn-recorded-brand-intro/IMG_5976.mov",
+      "role": "part-2",
+      "confidence": "high",
+      "evidence": "That is exactly why we started NioLearn; discover, understand and prepare for opportunities.",
+      "edit_note": "Short bridge after IMG_5974 and before IMG_5978.",
+      "asr_draft": ".cache/transcripts-en/IMG_5976.json"
+    },
+    {
+      "project": "niolearn-recorded-brand-intro",
+      "brand": "niolearn",
+      "file": "IMG_5978.mov",
+      "path": "media/raw/niolearn/niolearn-recorded-brand-intro/IMG_5978.mov",
+      "role": "part-3",
+      "confidence": "high",
+      "evidence": "Modern tech admissions platform; live classes, mocks, interviews, feedback, mentorship; Navigate More Possibilities.",
+      "edit_note": "Complete the introduction with the three ordered parts; verify product claims before publication.",
+      "asr_draft": ".cache/transcripts-en/IMG_5978.json"
+    }
+  ],
+  "captionLanguage": "English recording; review exact words",
+  "captionBeats": [
+    "Beyond one exam",
+    "Discover opportunities",
+    "Understand pathways",
+    "Prepare with confidence"
+  ],
+  "suggestedBroll": [
+    {
+      "spokenAnchor": "When multiple pathways are mentioned",
+      "composition": "Broll-pathways",
+      "asset": "public/assets/broll/niolearn-pathways.webm",
+      "timingStatus": "Resolve against edited recording; no frame cue assigned"
+    },
+    {
+      "spokenAnchor": "When students\u2019 individual futures are discussed",
+      "composition": "Broll-crowd",
+      "asset": "public/assets/broll/niolearn-crowd.webm",
+      "timingStatus": "Resolve against edited recording; no frame cue assigned"
+    }
+  ],
+  "soundDirection": {
+    "music": "calm-focus",
+    "voicePriority": true,
+    "sfx": [
+      "soft-whoosh at a major graphic reveal",
+      "soft-tick only for a real timer"
+    ],
+    "avoid": "A sound effect on every caption word"
+  },
+  "creativeNote": "Three recorded parts in order. Keep English captions for this English recording.",
+  "visualDirection": "light-editorial-v3",
+  "preferredPremiumScene": {
+    "composition": "Premium-paper-possibilities",
+    "kind": "paper-possibilities",
+    "asset": "public/assets/broll/niolearn-premium-paper-possibilities-v3.webm",
+    "source": "src/premium/PaperScene.tsx",
+    "note": "Use opaque paper scenes for full B-roll; alpha versions are reusable overlays. Functional first-generation diagrams can be restyled as needed."
+  },
+  "output": "deliverables/niolearn/NIOLEARN_10_Brand_Introduction_v1.mp4",
+  "finalQA": "analysis/final-qa.json"
+}

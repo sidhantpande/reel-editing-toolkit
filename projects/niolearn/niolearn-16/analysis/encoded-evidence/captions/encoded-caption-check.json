@@ -1,0 +1,396 @@
+{
+  "video": "/Users/sidhant/Desktop/NioLearn-Reels/deliverables/niolearn/NIOLEARN_06_Mock_Test_Teardown_v1.mp4",
+  "probe": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "mime_codec_string": "avc1.640028",
+        "width": 1080,
+        "height": 1920,
+        "coded_width": 1080,
+        "coded_height": 1920,
+        "has_b_frames": 2,
+        "pix_fmt": "yuv420p",
+        "level": 40,
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "time_base": "1/90000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 3102000,
+        "duration": "34.466667",
+        "bit_rate": "3474329",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "1034",
+        "extradata_size": 47,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "encoder": "Lavc61.19.100 libx264"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "mime_codec_string": "mp4a.40.2",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "initial_padding": 1024,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 1654784,
+        "duration": "34.474667",
+        "bit_rate": "190644",
+        "nb_frames": "1617",
+        "extradata_size": 5,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler"
+        }
+      }
+    ],
+    "format": {
+      "filename": "deliverables/niolearn/NIOLEARN_06_Mock_Test_Teardown_v1.mp4",
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "34.474667",
+      "size": "15829756",
+      "bit_rate": "3673365",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf63.1.102",
+        "comment": "Made with Remotion 4.0.535"
+      }
+    }
+  },
+  "captions": [
+    {
+      "page": 0,
+      "sampleFrame": 30,
+      "expected": "Mocks mein marks sirf",
+      "ocr": "Mocks mein marks\nsirf",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 1,
+      "sampleFrame": 57,
+      "expected": "galat answer se nahi,",
+      "ocr": "galat answer se nahi;",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 2,
+      "sampleFrame": 107,
+      "expected": "in chaar main galtiyon",
+      "ocr": "in chaar main galtiyon",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 3,
+      "sampleFrame": 126,
+      "expected": "se bhi katta hai.",
+      "ocr": "se bhi katta hai.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 4,
+      "sampleFrame": 142,
+      "expected": "Pehla,",
+      "ocr": "Pehla,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 5,
+      "sampleFrame": 175,
+      "expected": "tough question pe hi",
+      "ocr": "tough question pe hi",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 6,
+      "sampleFrame": 199,
+      "expected": "apna poora time",
+      "ocr": "apna poora time",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 7,
+      "sampleFrame": 218,
+      "expected": "laga dena,",
+      "ocr": "laga dena,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 8,
+      "sampleFrame": 263,
+      "expected": "ki easy questions pe",
+      "ocr": "ki easy questions pe",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 9,
+      "sampleFrame": 294,
+      "expected": "dhyaan hi nahi gaya.",
+      "ocr": "dhyaan hi nahi gaya.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 10,
+      "sampleFrame": 311,
+      "expected": "Doosra,",
+      "ocr": "Doosra,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 11,
+      "sampleFrame": 347,
+      "expected": "question ko dhang se",
+      "ocr": "question ko dhang se",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 12,
+      "sampleFrame": 369,
+      "expected": "read nahi karna,",
+      "ocr": "read nahi karna,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 13,
+      "sampleFrame": 412,
+      "expected": "NOT ya phir EXCEPT",
+      "ocr": "NOT ya phir EXCEPT",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 14,
+      "sampleFrame": 443,
+      "expected": "jaise words miss",
+      "ocr": "jaise words miss",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 15,
+      "sampleFrame": 455,
+      "expected": "kar dena.",
+      "ocr": "kar dena.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 16,
+      "sampleFrame": 475,
+      "expected": "Teesra,",
+      "ocr": "Teesra,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 17,
+      "sampleFrame": 521,
+      "expected": "easy questions pe",
+      "ocr": "easy questions pe",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 18,
+      "sampleFrame": 554,
+      "expected": "zyada time laga dena,",
+      "ocr": "zyada time laga dena,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 19,
+      "sampleFrame": 606,
+      "expected": "yeh bhi ek leak hai.",
+      "ocr": "yeh bhi ek leak hai.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 20,
+      "sampleFrame": 626,
+      "expected": "Chautha,",
+      "ocr": "Chautha,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 21,
+      "sampleFrame": 653,
+      "expected": "Blind guessing.",
+      "ocr": "Blind guessing.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 22,
+      "sampleFrame": 692,
+      "expected": "Elimination method ka",
+      "ocr": "Elimination method ka",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 23,
+      "sampleFrame": 722,
+      "expected": "use karke guessing",
+      "ocr": "use karke guessing",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 24,
+      "sampleFrame": 760,
+      "expected": "karoge toh chance",
+      "ocr": "karoge toh chance",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 25,
+      "sampleFrame": 793,
+      "expected": "zyada banega answer",
+      "ocr": "zyada banega answer",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 26,
+      "sampleFrame": 815,
+      "expected": "sahi hone ka.",
+      "ocr": "sahi hone ka.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 27,
+      "sampleFrame": 850,
+      "expected": "Aapka kaun sa leak hai?",
+      "ocr": "Aapka kaun sa Jeak hai?",
+      "similarity": 0.944,
+      "review": false
+    },
+    {
+      "page": 28,
+      "sampleFrame": 885,
+      "expected": "Please comment mein bataayein",
+      "ocr": "Please comment mein\nbataayein",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 29,
+      "sampleFrame": 932,
+      "expected": "aur baaki ka improvement",
+      "ocr": "aur baaki ka\nimprovement",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 30,
+      "sampleFrame": 963,
+      "expected": "ke liye go on",
+      "ocr": "ke liye go on",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 31,
+      "sampleFrame": 986,
+      "expected": "niolearn.com",
+      "ocr": "x oe Sow Ww\neS\n, \u2018niol\u00e9arfiicom =",
+      "similarity": 0.545,
+      "review": true
+    }
+  ]
+}

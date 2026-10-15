@@ -1,0 +1,90 @@
+{
+  "phrases": [
+    "My name is Navneet,",
+    "I am from Pune",
+    "and I have scored",
+    "87 percent.",
+    "Aur itna bolte hi",
+    "interviewer aapko rokega",
+    "bolega bhai interview nahi",
+    "resume reading hai.",
+    "Aapka strong answer",
+    "teen cheez pe",
+    "depend karta hai.",
+    "Aapki hook,",
+    "aapne kya kiya hai,",
+    "aap kyun is college",
+    "ko choose kar rahe ho,",
+    "aur aapka next goal",
+    "kya hai.",
+    "You should frame",
+    "your introduction like this,",
+    "ki, myself Navneet Singh",
+    "I worked with",
+    "this project in class 11",
+    "and I have solved",
+    "this problem",
+    "and I believe that",
+    "this college can",
+    "give me that opportunity",
+    "and my goal is",
+    "to make this project.",
+    "Dekha, 10 second mein hi",
+    "interviewer ko realise",
+    "ho jaayega ki",
+    "aapko kya-kya aata hai",
+    "aur aap kya-kya",
+    "kar sakte ho.",
+    "Aise aur tips ke liye",
+    "follow karein humein",
+    "aur agar aapko",
+    "improve karna hai",
+    "toh please go on",
+    "niolearn.com"
+  ],
+  "accentWords": [
+    "navneet",
+    "87",
+    "interviewer",
+    "interview",
+    "resume",
+    "reading",
+    "strong",
+    "answer",
+    "hook",
+    "college",
+    "choose",
+    "goal",
+    "introduction",
+    "project",
+    "solved",
+    "problem",
+    "opportunity",
+    "realise",
+    "tips",
+    "follow",
+    "improve"
+  ],
+  "broll": [
+    {
+      "kind": "nio-project-structure",
+      "source": "IMG_5966",
+      "start": 14.03,
+      "end": 20.63
+    },
+    {
+      "kind": "nio-story-profile",
+      "source": "IMG_5966",
+      "start": 24.49,
+      "end": 35.63,
+      "beats": [
+        150
+      ]
+    }
+  ],
+  "alphaExports": [],
+  "notes": [
+    "Actual recorded formula includes a spoken three-things phrase, then four ideas; do not overwrite source speech with calendar wording.",
+    "English example has an independent ASR crosscheck in analysis; preserve full audio and review proper-name caption before finishing."
+  ]
+}

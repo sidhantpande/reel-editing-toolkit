@@ -1,0 +1,731 @@
+{
+  "source": "IMG_5947.wav",
+  "language": "en",
+  "status": "ASR_DRAFT_FOR_MATCHING_NOT_FINAL_CAPTIONS",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.54,
+      "text": " The aptitude courses are very important, but Neolun is a system.",
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.4,
+          "text": " The",
+          "probability": 0.0762583464384079
+        },
+        {
+          "start": 0.4,
+          "end": 0.76,
+          "text": " aptitude",
+          "probability": 0.7618020474910736
+        },
+        {
+          "start": 0.76,
+          "end": 1.12,
+          "text": " courses",
+          "probability": 0.5871448516845703
+        },
+        {
+          "start": 1.12,
+          "end": 1.36,
+          "text": " are",
+          "probability": 0.8664676547050476
+        },
+        {
+          "start": 1.36,
+          "end": 1.52,
+          "text": " very",
+          "probability": 0.3997509479522705
+        },
+        {
+          "start": 1.52,
+          "end": 2.02,
+          "text": " important,",
+          "probability": 0.1704503893852234
+        },
+        {
+          "start": 2.04,
+          "end": 2.22,
+          "text": " but",
+          "probability": 0.8942291140556335
+        },
+        {
+          "start": 2.22,
+          "end": 2.7,
+          "text": " Neolun",
+          "probability": 0.38436854382356006
+        },
+        {
+          "start": 2.7,
+          "end": 3.06,
+          "text": " is",
+          "probability": 0.7019297480583191
+        },
+        {
+          "start": 3.06,
+          "end": 3.1,
+          "text": " a",
+          "probability": 0.5047858953475952
+        },
+        {
+          "start": 3.1,
+          "end": 3.54,
+          "text": " system.",
+          "probability": 0.9273766875267029
+        }
+      ]
+    },
+    {
+      "start": 4.18,
+      "end": 4.66,
+      "text": " Step 1.",
+      "words": [
+        {
+          "start": 4.18,
+          "end": 4.38,
+          "text": " Step",
+          "probability": 0.6999691128730774
+        },
+        {
+          "start": 4.38,
+          "end": 4.66,
+          "text": " 1.",
+          "probability": 0.6732831001281738
+        }
+      ]
+    },
+    {
+      "start": 4.98,
+      "end": 5.48,
+      "text": " Diagnostic.",
+      "words": [
+        {
+          "start": 4.98,
+          "end": 5.48,
+          "text": " Diagnostic.",
+          "probability": 0.835238536198934
+        }
+      ]
+    },
+    {
+      "start": 6.14,
+      "end": 10.82,
+      "text": " Where are you standing and what your point of improvement is, is very important.",
+      "words": [
+        {
+          "start": 6.14,
+          "end": 6.46,
+          "text": " Where",
+          "probability": 0.2211855947971344
+        },
+        {
+          "start": 6.46,
+          "end": 6.56,
+          "text": " are",
+          "probability": 0.8112226724624634
+        },
+        {
+          "start": 6.56,
+          "end": 6.56,
+          "text": " you",
+          "probability": 0.9958174824714661
+        },
+        {
+          "start": 6.56,
+          "end": 7.06,
+          "text": " standing",
+          "probability": 0.6826041340827942
+        },
+        {
+          "start": 7.06,
+          "end": 7.8,
+          "text": " and",
+          "probability": 0.48622462153434753
+        },
+        {
+          "start": 7.8,
+          "end": 8.12,
+          "text": " what",
+          "probability": 0.41846713423728943
+        },
+        {
+          "start": 8.12,
+          "end": 8.12,
+          "text": " your",
+          "probability": 0.49161195755004883
+        },
+        {
+          "start": 8.12,
+          "end": 8.44,
+          "text": " point",
+          "probability": 0.9124163389205933
+        },
+        {
+          "start": 8.44,
+          "end": 8.66,
+          "text": " of",
+          "probability": 0.971625030040741
+        },
+        {
+          "start": 8.66,
+          "end": 9.0,
+          "text": " improvement",
+          "probability": 0.9904464483261108
+        },
+        {
+          "start": 9.0,
+          "end": 9.44,
+          "text": " is,",
+          "probability": 0.8519997596740723
+        },
+        {
+          "start": 9.68,
+          "end": 10.22,
+          "text": " is",
+          "probability": 0.2438720464706421
+        },
+        {
+          "start": 10.22,
+          "end": 10.3,
+          "text": " very",
+          "probability": 0.20830808579921722
+        },
+        {
+          "start": 10.3,
+          "end": 10.82,
+          "text": " important.",
+          "probability": 0.8406995534896851
+        }
+      ]
+    },
+    {
+      "start": 11.48,
+      "end": 12.22,
+      "text": " Step 2.",
+      "words": [
+        {
+          "start": 11.48,
+          "end": 11.94,
+          "text": " Step",
+          "probability": 0.9400684833526611
+        },
+        {
+          "start": 11.94,
+          "end": 12.22,
+          "text": " 2.",
+          "probability": 0.9933040738105774
+        }
+      ]
+    },
+    {
+      "start": 12.66,
+      "end": 13.56,
+      "text": " Focus preparation.",
+      "words": [
+        {
+          "start": 12.66,
+          "end": 12.96,
+          "text": " Focus",
+          "probability": 0.9563635587692261
+        },
+        {
+          "start": 12.96,
+          "end": 13.56,
+          "text": " preparation.",
+          "probability": 0.7314330339431763
+        }
+      ]
+    },
+    {
+      "start": 14.02,
+      "end": 17.04,
+      "text": " Which entrance you are targeting, you should have the same coding preparation.",
+      "words": [
+        {
+          "start": 14.02,
+          "end": 14.32,
+          "text": " Which",
+          "probability": 0.5191236734390259
+        },
+        {
+          "start": 14.32,
+          "end": 14.84,
+          "text": " entrance",
+          "probability": 0.11218486726284027
+        },
+        {
+          "start": 14.84,
+          "end": 15.06,
+          "text": " you",
+          "probability": 0.3222646415233612
+        },
+        {
+          "start": 15.06,
+          "end": 15.48,
+          "text": " are",
+          "probability": 0.8847270607948303
+        },
+        {
+          "start": 15.48,
+          "end": 15.48,
+          "text": " targeting,",
+          "probability": 0.09858479350805283
+        },
+        {
+          "start": 15.78,
+          "end": 16.12,
+          "text": " you",
+          "probability": 0.0915491133928299
+        },
+        {
+          "start": 16.12,
+          "end": 16.14,
+          "text": " should",
+          "probability": 0.44486191868782043
+        },
+        {
+          "start": 16.14,
+          "end": 16.14,
+          "text": " have",
+          "probability": 0.14680399000644684
+        },
+        {
+          "start": 16.14,
+          "end": 16.14,
+          "text": " the",
+          "probability": 0.26780015230178833
+        },
+        {
+          "start": 16.14,
+          "end": 16.24,
+          "text": " same",
+          "probability": 0.8734438419342041
+        },
+        {
+          "start": 16.24,
+          "end": 16.6,
+          "text": " coding",
+          "probability": 0.42571398615837097
+        },
+        {
+          "start": 16.6,
+          "end": 17.04,
+          "text": " preparation.",
+          "probability": 0.9483014345169067
+        }
+      ]
+    },
+    {
+      "start": 17.96,
+      "end": 18.72,
+      "text": " Step 3.",
+      "words": [
+        {
+          "start": 17.96,
+          "end": 18.4,
+          "text": " Step",
+          "probability": 0.9201456308364868
+        },
+        {
+          "start": 18.4,
+          "end": 18.72,
+          "text": " 3.",
+          "probability": 0.9891088008880615
+        }
+      ]
+    },
+    {
+      "start": 19.16,
+      "end": 19.46,
+      "text": " Mox.",
+      "words": [
+        {
+          "start": 19.16,
+          "end": 19.46,
+          "text": " Mox.",
+          "probability": 0.7678201198577881
+        }
+      ]
+    },
+    {
+      "start": 19.82,
+      "end": 25.08,
+      "text": " Not just maxi, reviews, analysis, where time is going on and everything.",
+      "words": [
+        {
+          "start": 19.82,
+          "end": 20.08,
+          "text": " Not",
+          "probability": 0.3298531174659729
+        },
+        {
+          "start": 20.08,
+          "end": 20.08,
+          "text": " just",
+          "probability": 0.746137261390686
+        },
+        {
+          "start": 20.08,
+          "end": 20.76,
+          "text": " maxi,",
+          "probability": 0.20738589018583298
+        },
+        {
+          "start": 21.28,
+          "end": 21.72,
+          "text": " reviews,",
+          "probability": 0.8185551762580872
+        },
+        {
+          "start": 22.22,
+          "end": 22.56,
+          "text": " analysis,",
+          "probability": 0.9522377252578735
+        },
+        {
+          "start": 22.94,
+          "end": 23.18,
+          "text": " where",
+          "probability": 0.38423362374305725
+        },
+        {
+          "start": 23.18,
+          "end": 23.54,
+          "text": " time",
+          "probability": 0.5443272590637207
+        },
+        {
+          "start": 23.54,
+          "end": 23.88,
+          "text": " is",
+          "probability": 0.7297730445861816
+        },
+        {
+          "start": 23.88,
+          "end": 23.9,
+          "text": " going",
+          "probability": 0.27755236625671387
+        },
+        {
+          "start": 23.9,
+          "end": 24.64,
+          "text": " on",
+          "probability": 0.1623532772064209
+        },
+        {
+          "start": 24.64,
+          "end": 24.74,
+          "text": " and",
+          "probability": 0.6032947897911072
+        },
+        {
+          "start": 24.74,
+          "end": 25.08,
+          "text": " everything.",
+          "probability": 0.5963509678840637
+        }
+      ]
+    },
+    {
+      "start": 25.52,
+      "end": 26.24,
+      "text": " Step 4.",
+      "words": [
+        {
+          "start": 25.52,
+          "end": 25.94,
+          "text": " Step",
+          "probability": 0.9545383453369141
+        },
+        {
+          "start": 25.94,
+          "end": 26.24,
+          "text": " 4.",
+          "probability": 0.9961252808570862
+        }
+      ]
+    },
+    {
+      "start": 26.46,
+      "end": 27.22,
+      "text": " Interview preparation.",
+      "words": [
+        {
+          "start": 26.46,
+          "end": 26.72,
+          "text": " Interview",
+          "probability": 0.7027150392532349
+        },
+        {
+          "start": 26.72,
+          "end": 27.22,
+          "text": " preparation.",
+          "probability": 0.9090582728385925
+        }
+      ]
+    },
+    {
+      "start": 27.22,
+      "end": 31.9,
+      "text": " because you can see your marks in selection but you can see it too.",
+      "words": [
+        {
+          "start": 27.22,
+          "end": 27.88,
+          "text": " because",
+          "probability": 0.2876317799091339
+        },
+        {
+          "start": 27.88,
+          "end": 28.58,
+          "text": " you",
+          "probability": 0.2538909614086151
+        },
+        {
+          "start": 28.58,
+          "end": 29.38,
+          "text": " can",
+          "probability": 0.4311949610710144
+        },
+        {
+          "start": 29.38,
+          "end": 29.38,
+          "text": " see",
+          "probability": 0.5576578974723816
+        },
+        {
+          "start": 29.38,
+          "end": 29.58,
+          "text": " your",
+          "probability": 0.41464653611183167
+        },
+        {
+          "start": 29.58,
+          "end": 29.94,
+          "text": " marks",
+          "probability": 0.6534487009048462
+        },
+        {
+          "start": 29.94,
+          "end": 30.28,
+          "text": " in",
+          "probability": 0.5151144862174988
+        },
+        {
+          "start": 30.28,
+          "end": 30.28,
+          "text": " selection",
+          "probability": 0.7737686634063721
+        },
+        {
+          "start": 30.28,
+          "end": 30.6,
+          "text": " but",
+          "probability": 0.5522395968437195
+        },
+        {
+          "start": 30.6,
+          "end": 31.1,
+          "text": " you",
+          "probability": 0.7867418527603149
+        },
+        {
+          "start": 31.1,
+          "end": 31.26,
+          "text": " can",
+          "probability": 0.4630860686302185
+        },
+        {
+          "start": 31.26,
+          "end": 31.56,
+          "text": " see",
+          "probability": 0.46632206439971924
+        },
+        {
+          "start": 31.56,
+          "end": 31.56,
+          "text": " it",
+          "probability": 0.23215927183628082
+        },
+        {
+          "start": 31.56,
+          "end": 31.9,
+          "text": " too.",
+          "probability": 0.5503876805305481
+        }
+      ]
+    },
+    {
+      "start": 32.4,
+      "end": 36.26,
+      "text": " So, for the interview, take a single system for the diagnosis.",
+      "words": [
+        {
+          "start": 32.4,
+          "end": 32.52,
+          "text": " So,",
+          "probability": 0.7567146420478821
+        },
+        {
+          "start": 32.72,
+          "end": 32.82,
+          "text": " for",
+          "probability": 0.2769416868686676
+        },
+        {
+          "start": 32.82,
+          "end": 32.82,
+          "text": " the",
+          "probability": 0.3020312786102295
+        },
+        {
+          "start": 32.82,
+          "end": 34.4,
+          "text": " interview,",
+          "probability": 0.29969170689582825
+        },
+        {
+          "start": 34.8,
+          "end": 35.34,
+          "text": " take",
+          "probability": 0.1406707614660263
+        },
+        {
+          "start": 35.34,
+          "end": 35.34,
+          "text": " a",
+          "probability": 0.25782760977745056
+        },
+        {
+          "start": 35.34,
+          "end": 35.54,
+          "text": " single",
+          "probability": 0.5844368934631348
+        },
+        {
+          "start": 35.54,
+          "end": 35.96,
+          "text": " system",
+          "probability": 0.887757420539856
+        },
+        {
+          "start": 35.96,
+          "end": 36.26,
+          "text": " for",
+          "probability": 0.3508005142211914
+        },
+        {
+          "start": 36.26,
+          "end": 36.26,
+          "text": " the",
+          "probability": 0.5876300930976868
+        },
+        {
+          "start": 36.26,
+          "end": 36.26,
+          "text": " diagnosis.",
+          "probability": 0.19562776386737823
+        }
+      ]
+    },
+    {
+      "start": 36.28,
+      "end": 39.2,
+      "text": " Clarity, Preparedness and Guidance.",
+      "words": [
+        {
+          "start": 36.28,
+          "end": 37.08,
+          "text": " Clarity,",
+          "probability": 0.8409627377986908
+        },
+        {
+          "start": 37.66,
+          "end": 38.3,
+          "text": " Preparedness",
+          "probability": 0.73783940076828
+        },
+        {
+          "start": 38.3,
+          "end": 38.68,
+          "text": " and",
+          "probability": 0.7643497586250305
+        },
+        {
+          "start": 38.68,
+          "end": 39.2,
+          "text": " Guidance.",
+          "probability": 0.8981637060642242
+        }
+      ]
+    },
+    {
+      "start": 39.92,
+      "end": 43.26,
+      "text": " If you want to start your diagnosis, visit Newland.com.",
+      "words": [
+        {
+          "start": 39.92,
+          "end": 39.98,
+          "text": " If",
+          "probability": 0.7952345609664917
+        },
+        {
+          "start": 39.98,
+          "end": 40.26,
+          "text": " you",
+          "probability": 0.9881684184074402
+        },
+        {
+          "start": 40.26,
+          "end": 40.42,
+          "text": " want",
+          "probability": 0.6855397820472717
+        },
+        {
+          "start": 40.42,
+          "end": 40.42,
+          "text": " to",
+          "probability": 0.9824509024620056
+        },
+        {
+          "start": 40.42,
+          "end": 40.42,
+          "text": " start",
+          "probability": 0.9067935347557068
+        },
+        {
+          "start": 40.42,
+          "end": 40.44,
+          "text": " your",
+          "probability": 0.7400521636009216
+        },
+        {
+          "start": 40.44,
+          "end": 40.9,
+          "text": " diagnosis,",
+          "probability": 0.5849806666374207
+        },
+        {
+          "start": 41.82,
+          "end": 42.16,
+          "text": " visit",
+          "probability": 0.9364944696426392
+        },
+        {
+          "start": 42.16,
+          "end": 42.82,
+          "text": " Newland",
+          "probability": 0.4118729531764984
+        },
+        {
+          "start": 42.82,
+          "end": 43.26,
+          "text": ".com.",
+          "probability": 0.9760655462741852
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "asset": "public/assets/projects/niolearn-12/nio-intro-curiosity-v1.webm",
+    "frames": 218,
+    "unexpectedEmptyFrames": []
+  },
+  {
+    "asset": "public/assets/projects/niolearn-12/nio-intro-problem-v1.webm",
+    "frames": 194,
+    "unexpectedEmptyFrames": []
+  },
+  {
+    "asset": "public/assets/projects/niolearn-12/nio-intro-project-v1.webm",
+    "frames": 164,
+    "unexpectedEmptyFrames": []
+  }
+]

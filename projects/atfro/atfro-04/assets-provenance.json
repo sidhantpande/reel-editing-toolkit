@@ -1,0 +1,13 @@
+{
+  "project": "atfro-04",
+  "source": "src/projects/SchoolBroll.tsx",
+  "newMotion": [
+    "atfro-school-film",
+    "atfro-school-plan",
+    "atfro-school-workflow"
+  ],
+  "creation": "Original native Canvas filmstrip, planning sheet and workflow animation; no stock footage, student portraits or invented metrics.",
+  "referenceStudy": "docs/REFERENCE_ANALYSIS.md#motion-re-study--batch-revision",
+  "alphaExports": "public/assets/projects/atfro-04",
+  "music": "Original synthesized project calm-focus bed; no external music"
+}

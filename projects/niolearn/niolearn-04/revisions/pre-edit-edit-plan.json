@@ -1,0 +1,69 @@
+{
+  "id": "niolearn-04",
+  "brand": "niolearn",
+  "status": "mapped-awaiting-edit",
+  "sourceClips": [
+    "media/raw/niolearn/niolearn-04/IMG_5941.mov"
+  ],
+  "format": "REEL",
+  "captionPreset": "kinetic-white",
+  "broll": [],
+  "notes": [
+    "Source script timings are estimates. Match recorded dialogue before final captions.",
+    "Review all fact placeholders before final export.",
+    "Longer than estimated script. Preserve all five points; tighten naturally."
+  ],
+  "takes": [
+    {
+      "project": "niolearn-04",
+      "brand": "niolearn",
+      "file": "IMG_5941.mov",
+      "path": "media/raw/niolearn/niolearn-04/IMG_5941.mov",
+      "role": "main",
+      "confidence": "high",
+      "evidence": "Fee before paying; five parent questions: recognition, credential, fees, outcomes, students.",
+      "edit_note": "Longer than estimated script. Preserve all five points; tighten naturally.",
+      "asr_draft": ".cache/transcripts-en/IMG_5941.json"
+    }
+  ],
+  "captionBeats": [
+    "5 questions",
+    "Degree / recognition",
+    "Credential",
+    "Total fees",
+    "Outcomes",
+    "Talk to students"
+  ],
+  "suggestedBroll": [
+    {
+      "spokenAnchor": "On each numbered question",
+      "composition": "Broll-compare",
+      "asset": "public/assets/broll/niolearn-compare.webm",
+      "timingStatus": "Resolve against edited recording; no frame cue assigned"
+    },
+    {
+      "spokenAnchor": "On outcomes data",
+      "composition": "Broll-timeline",
+      "asset": "public/assets/broll/niolearn-timeline.webm",
+      "timingStatus": "Resolve against edited recording; no frame cue assigned"
+    }
+  ],
+  "soundDirection": {
+    "music": "calm-focus",
+    "voicePriority": true,
+    "sfx": [
+      "soft-whoosh at a major graphic reveal",
+      "soft-tick only for a real timer"
+    ],
+    "avoid": "A sound effect on every caption word"
+  },
+  "creativeNote": "Keep a calm pace. One short card per question; do not show fictional university credentials.",
+  "visualDirection": "light-editorial-v3",
+  "preferredPremiumScene": {
+    "composition": "Premium-paper-pathways",
+    "kind": "paper-pathways",
+    "asset": "public/assets/broll/niolearn-premium-paper-pathways-v3.webm",
+    "source": "src/premium/PaperScene.tsx",
+    "note": "Use opaque paper scenes for full B-roll; alpha versions are reusable overlays. Functional first-generation diagrams can be restyled as needed."
+  }
+}

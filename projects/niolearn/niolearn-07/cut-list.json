@@ -1,0 +1,170 @@
+{
+  "id": "niolearn-07",
+  "fps": 30,
+  "sourceDuration": 44.805,
+  "dialogueFrames": 1162,
+  "endHoldFrames": 45,
+  "totalFrames": 1207,
+  "cuts": [
+    {
+      "source": "media/raw/niolearn/niolearn-07/IMG_5947.mov",
+      "inFrame": 9,
+      "outFrame": 54,
+      "timelineFrom": 0,
+      "duration": 45,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Hook first phrase"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-07/IMG_5947.mov",
+      "inFrame": 63,
+      "outFrame": 109,
+      "timelineFrom": 45,
+      "duration": 46,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "NioLearn system"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-07/IMG_5947.mov",
+      "inFrame": 124,
+      "outFrame": 170,
+      "timelineFrom": 91,
+      "duration": 46,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Step 1 diagnostic"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-07/IMG_5947.mov",
+      "inFrame": 181,
+      "outFrame": 341,
+      "timelineFrom": 137,
+      "duration": 160,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Where you stand and improvement"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-07/IMG_5947.mov",
+      "inFrame": 351,
+      "outFrame": 412,
+      "timelineFrom": 297,
+      "duration": 61,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Step 2 focused preparation"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-07/IMG_5947.mov",
+      "inFrame": 417,
+      "outFrame": 534,
+      "timelineFrom": 358,
+      "duration": 117,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Target entrance preparation"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-07/IMG_5947.mov",
+      "inFrame": 544,
+      "outFrame": 590,
+      "timelineFrom": 475,
+      "duration": 46,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Step 3 mocks"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-07/IMG_5947.mov",
+      "inFrame": 595,
+      "outFrame": 760,
+      "timelineFrom": 521,
+      "duration": 165,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Marks, review, analysis and time"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-07/IMG_5947.mov",
+      "inFrame": 771,
+      "outFrame": 823,
+      "timelineFrom": 686,
+      "duration": 52,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Step 4 interview preparation"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-07/IMG_5947.mov",
+      "inFrame": 830,
+      "outFrame": 959,
+      "timelineFrom": 738,
+      "duration": 129,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Selection considers the student"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-07/IMG_5947.mov",
+      "inFrame": 970,
+      "outFrame": 1082,
+      "timelineFrom": 867,
+      "duration": 112,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Diagnostic to interview in one system"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-07/IMG_5947.mov",
+      "inFrame": 1100,
+      "outFrame": 1123,
+      "timelineFrom": 979,
+      "duration": 23,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Clarity"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-07/IMG_5947.mov",
+      "inFrame": 1131,
+      "outFrame": 1184,
+      "timelineFrom": 1002,
+      "duration": 53,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Preparedness and guidance"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-07/IMG_5947.mov",
+      "inFrame": 1194,
+      "outFrame": 1301,
+      "timelineFrom": 1055,
+      "duration": 107,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Diagnostic CTA and website"
+    }
+  ],
+  "notes": [
+    "Second recorded NioLearn reel; calendar 07; IMG_5947.",
+    "Complete source reviewed chronologically. Preserve all four steps, summary and CTA; trim setup, long pauses and trailing camera look.",
+    "Approved camera-only crop keeps face in upper third; captions stay at the approved lower position.",
+    "Short 3-frame visual blends preserve dialogue timing. Relevant original light paper scenes cover selected internal cuts."
+  ]
+}

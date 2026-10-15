@@ -1,0 +1,122 @@
+{
+  "source": "IMG_5996.wav",
+  "language": "en",
+  "status": "ASR_DRAFT_FOR_MATCHING_NOT_FINAL_CAPTIONS",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.68,
+      "text": " If you lead a school, DM school, one communication bottleneck with communication challenge you are trying to solve.",
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.9,
+          "text": " If",
+          "probability": 0.813223123550415
+        },
+        {
+          "start": 0.9,
+          "end": 0.98,
+          "text": " you",
+          "probability": 0.9939433932304382
+        },
+        {
+          "start": 0.98,
+          "end": 1.16,
+          "text": " lead",
+          "probability": 0.8734585642814636
+        },
+        {
+          "start": 1.16,
+          "end": 1.28,
+          "text": " a",
+          "probability": 0.971592903137207
+        },
+        {
+          "start": 1.28,
+          "end": 1.6,
+          "text": " school,",
+          "probability": 0.9832897186279297
+        },
+        {
+          "start": 1.96,
+          "end": 2.1,
+          "text": " DM",
+          "probability": 0.802351176738739
+        },
+        {
+          "start": 2.1,
+          "end": 2.54,
+          "text": " school,",
+          "probability": 0.8883252143859863
+        },
+        {
+          "start": 2.94,
+          "end": 3.08,
+          "text": " one",
+          "probability": 0.8984954953193665
+        },
+        {
+          "start": 3.08,
+          "end": 3.5,
+          "text": " communication",
+          "probability": 0.9796504974365234
+        },
+        {
+          "start": 3.5,
+          "end": 4.38,
+          "text": " bottleneck",
+          "probability": 0.9468996226787567
+        },
+        {
+          "start": 4.38,
+          "end": 4.66,
+          "text": " with",
+          "probability": 0.7655534744262695
+        },
+        {
+          "start": 4.66,
+          "end": 5.1,
+          "text": " communication",
+          "probability": 0.9085016250610352
+        },
+        {
+          "start": 5.1,
+          "end": 5.6,
+          "text": " challenge",
+          "probability": 0.9757645726203918
+        },
+        {
+          "start": 5.6,
+          "end": 6.08,
+          "text": " you",
+          "probability": 0.7347481846809387
+        },
+        {
+          "start": 6.08,
+          "end": 6.14,
+          "text": " are",
+          "probability": 0.9580835700035095
+        },
+        {
+          "start": 6.14,
+          "end": 6.34,
+          "text": " trying",
+          "probability": 0.9929304122924805
+        },
+        {
+          "start": 6.34,
+          "end": 6.5,
+          "text": " to",
+          "probability": 0.9949002861976624
+        },
+        {
+          "start": 6.5,
+          "end": 6.68,
+          "text": " solve.",
+          "probability": 0.9956409931182861
+        }
+      ]
+    }
+  ]
+}

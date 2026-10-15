@@ -1,0 +1,776 @@
+[
+  {
+    "start": 0.0,
+    "end": 4.26,
+    "text": " Aptitude Courses तो बहुत हैं पर Neolarn एक सिस्टम हैं",
+    "words": [
+      {
+        "text": " Aptitude",
+        "start": 0.0,
+        "end": 0.9,
+        "probability": 0.6632151617668569
+      },
+      {
+        "text": " Courses",
+        "start": 0.9,
+        "end": 1.28,
+        "probability": 0.8351097901662191
+      },
+      {
+        "text": " तो",
+        "start": 1.28,
+        "end": 1.4,
+        "probability": 0.7960471908251444
+      },
+      {
+        "text": " बहुत",
+        "start": 1.4,
+        "end": 1.66,
+        "probability": 0.9155328671137491
+      },
+      {
+        "text": " हैं",
+        "start": 1.66,
+        "end": 2.14,
+        "probability": 0.8328407009442648
+      },
+      {
+        "text": " पर",
+        "start": 2.14,
+        "end": 2.28,
+        "probability": 0.6675504048665365
+      },
+      {
+        "text": " Neolarn",
+        "start": 2.28,
+        "end": 2.88,
+        "probability": 0.453063428401947
+      },
+      {
+        "text": " एक",
+        "start": 2.88,
+        "end": 3.22,
+        "probability": 0.9443271160125732
+      },
+      {
+        "text": " सिस्टम",
+        "start": 3.22,
+        "end": 3.54,
+        "probability": 0.7871259791510445
+      },
+      {
+        "text": " हैं",
+        "start": 3.54,
+        "end": 4.26,
+        "probability": 0.8726654450098673
+      }
+    ]
+  },
+  {
+    "start": 4.26,
+    "end": 5.82,
+    "text": " Step 1- Diagnostic",
+    "words": [
+      {
+        "text": " Step",
+        "start": 4.26,
+        "end": 4.46,
+        "probability": 0.20344284176826477
+      },
+      {
+        "text": " 1",
+        "start": 4.46,
+        "end": 4.96,
+        "probability": 0.8018112182617188
+      },
+      {
+        "text": "-",
+        "start": 4.96,
+        "end": 4.96,
+        "probability": 0.21910789608955383
+      },
+      {
+        "text": " Diagnostic",
+        "start": 4.96,
+        "end": 5.82,
+        "probability": 0.821499099334081
+      }
+    ]
+  },
+  {
+    "start": 5.82,
+    "end": 11.72,
+    "text": " आप कहां stand कर रहे हो और आपका point of improvement क्या है ये जानना काफी जाहर ज़री होता है",
+    "words": [
+      {
+        "text": " आप",
+        "start": 5.82,
+        "end": 6.3,
+        "probability": 0.9210183769464493
+      },
+      {
+        "text": " कहां",
+        "start": 6.3,
+        "end": 6.66,
+        "probability": 0.9208688288927078
+      },
+      {
+        "text": " stand",
+        "start": 6.66,
+        "end": 7.1,
+        "probability": 0.3906162679195404
+      },
+      {
+        "text": " कर",
+        "start": 7.1,
+        "end": 7.4,
+        "probability": 0.9420410096645355
+      },
+      {
+        "text": " रहे",
+        "start": 7.4,
+        "end": 7.5,
+        "probability": 0.8642372339963913
+      },
+      {
+        "text": " हो",
+        "start": 7.5,
+        "end": 7.66,
+        "probability": 0.812894344329834
+      },
+      {
+        "text": " और",
+        "start": 7.66,
+        "end": 7.9,
+        "probability": 0.8806399901707967
+      },
+      {
+        "text": " आपका",
+        "start": 7.9,
+        "end": 8.24,
+        "probability": 0.963864932457606
+      },
+      {
+        "text": " point",
+        "start": 8.24,
+        "end": 8.56,
+        "probability": 0.8047782182693481
+      },
+      {
+        "text": " of",
+        "start": 8.56,
+        "end": 8.74,
+        "probability": 0.9868386387825012
+      },
+      {
+        "text": " improvement",
+        "start": 8.74,
+        "end": 9.14,
+        "probability": 0.9480205178260803
+      },
+      {
+        "text": " क्या",
+        "start": 9.14,
+        "end": 9.38,
+        "probability": 0.9127565622329712
+      },
+      {
+        "text": " है",
+        "start": 9.38,
+        "end": 9.48,
+        "probability": 0.9498020708560944
+      },
+      {
+        "text": " ये",
+        "start": 9.48,
+        "end": 9.84,
+        "probability": 0.6610130170981089
+      },
+      {
+        "text": " जानना",
+        "start": 9.84,
+        "end": 10.22,
+        "probability": 0.9141937891642252
+      },
+      {
+        "text": " काफी",
+        "start": 10.22,
+        "end": 10.56,
+        "probability": 0.8481661796569824
+      },
+      {
+        "text": " जाहर",
+        "start": 10.56,
+        "end": 10.72,
+        "probability": 0.7060541927814483
+      },
+      {
+        "text": " ज़री",
+        "start": 10.72,
+        "end": 11.0,
+        "probability": 0.6488370647033056
+      },
+      {
+        "text": " होता",
+        "start": 11.0,
+        "end": 11.24,
+        "probability": 0.9197935611009598
+      },
+      {
+        "text": " है",
+        "start": 11.24,
+        "end": 11.72,
+        "probability": 0.9768919944763184
+      }
+    ]
+  },
+  {
+    "start": 11.72,
+    "end": 13.92,
+    "text": " Step 2- Focus Preparation",
+    "words": [
+      {
+        "text": " Step",
+        "start": 11.72,
+        "end": 12.02,
+        "probability": 0.902721107006073
+      },
+      {
+        "text": " 2",
+        "start": 12.02,
+        "end": 12.48,
+        "probability": 0.9862068295478821
+      },
+      {
+        "text": "-",
+        "start": 12.48,
+        "end": 12.92,
+        "probability": 0.8683986663818359
+      },
+      {
+        "text": " Focus",
+        "start": 12.92,
+        "end": 13.12,
+        "probability": 0.8242611289024353
+      },
+      {
+        "text": " Preparation",
+        "start": 13.12,
+        "end": 13.92,
+        "probability": 0.8292398850123087
+      }
+    ]
+  },
+  {
+    "start": 13.92,
+    "end": 17.94,
+    "text": " आप कौन सा entrance target कर रहे हो उसी according preparation होनी चाहिए",
+    "words": [
+      {
+        "text": " आप",
+        "start": 13.92,
+        "end": 14.2,
+        "probability": 0.9728182703256607
+      },
+      {
+        "text": " कौन",
+        "start": 14.2,
+        "end": 14.62,
+        "probability": 0.6874695271253586
+      },
+      {
+        "text": " सा",
+        "start": 14.62,
+        "end": 14.62,
+        "probability": 0.7890464067459106
+      },
+      {
+        "text": " entrance",
+        "start": 14.62,
+        "end": 14.92,
+        "probability": 0.8682097792625427
+      },
+      {
+        "text": " target",
+        "start": 14.92,
+        "end": 15.22,
+        "probability": 0.7711005210876465
+      },
+      {
+        "text": " कर",
+        "start": 15.22,
+        "end": 15.48,
+        "probability": 0.9667783379554749
+      },
+      {
+        "text": " रहे",
+        "start": 15.48,
+        "end": 15.6,
+        "probability": 0.9507548958063126
+      },
+      {
+        "text": " हो",
+        "start": 15.6,
+        "end": 15.86,
+        "probability": 0.9464725852012634
+      },
+      {
+        "text": " उसी",
+        "start": 15.86,
+        "end": 16.28,
+        "probability": 0.8045123517513275
+      },
+      {
+        "text": " according",
+        "start": 16.28,
+        "end": 16.68,
+        "probability": 0.4665807783603668
+      },
+      {
+        "text": " preparation",
+        "start": 16.68,
+        "end": 17.18,
+        "probability": 0.9310885667800903
+      },
+      {
+        "text": " होनी",
+        "start": 17.18,
+        "end": 17.62,
+        "probability": 0.811701625585556
+      },
+      {
+        "text": " चाहिए",
+        "start": 17.62,
+        "end": 17.94,
+        "probability": 0.7333291726452964
+      }
+    ]
+  },
+  {
+    "start": 17.94,
+    "end": 19.8,
+    "text": " Step 3- Mocks",
+    "words": [
+      {
+        "text": " Step",
+        "start": 17.94,
+        "end": 18.48,
+        "probability": 0.5610477328300476
+      },
+      {
+        "text": " 3",
+        "start": 18.48,
+        "end": 18.98,
+        "probability": 0.9944660067558289
+      },
+      {
+        "text": "-",
+        "start": 18.98,
+        "end": 19.28,
+        "probability": 0.8981144428253174
+      },
+      {
+        "text": " Mocks",
+        "start": 19.28,
+        "end": 19.8,
+        "probability": 0.5208922028541565
+      }
+    ]
+  },
+  {
+    "start": 19.8,
+    "end": 25.64,
+    "text": " सिफ marks ही नहीं reviews, analysis आपका time कहां consume हो रहा है और सब कुछ",
+    "words": [
+      {
+        "text": " सिफ",
+        "start": 19.8,
+        "end": 20.24,
+        "probability": 0.6989321485161781
+      },
+      {
+        "text": " marks",
+        "start": 20.24,
+        "end": 20.54,
+        "probability": 0.6276050209999084
+      },
+      {
+        "text": " ही",
+        "start": 20.54,
+        "end": 20.74,
+        "probability": 0.7523942291736603
+      },
+      {
+        "text": " नहीं",
+        "start": 20.74,
+        "end": 21.32,
+        "probability": 0.9820217847824096
+      },
+      {
+        "text": " reviews,",
+        "start": 21.32,
+        "end": 21.88,
+        "probability": 0.8407077789306641
+      },
+      {
+        "text": " analysis",
+        "start": 22.28,
+        "end": 22.9,
+        "probability": 0.8909572958946228
+      },
+      {
+        "text": " आपका",
+        "start": 22.9,
+        "end": 23.3,
+        "probability": 0.8807641267776489
+      },
+      {
+        "text": " time",
+        "start": 23.3,
+        "end": 23.58,
+        "probability": 0.9013952016830444
+      },
+      {
+        "text": " कहां",
+        "start": 23.58,
+        "end": 23.86,
+        "probability": 0.84358049929142
+      },
+      {
+        "text": " consume",
+        "start": 23.86,
+        "end": 24.2,
+        "probability": 0.38876309990882874
+      },
+      {
+        "text": " हो",
+        "start": 24.2,
+        "end": 24.42,
+        "probability": 0.8529752492904663
+      },
+      {
+        "text": " रहा",
+        "start": 24.42,
+        "end": 24.66,
+        "probability": 0.9151823669672012
+      },
+      {
+        "text": " है",
+        "start": 24.66,
+        "end": 24.66,
+        "probability": 0.9674558937549591
+      },
+      {
+        "text": " और",
+        "start": 24.66,
+        "end": 24.88,
+        "probability": 0.8823385238647461
+      },
+      {
+        "text": " सब",
+        "start": 24.88,
+        "end": 25.18,
+        "probability": 0.9426498810450236
+      },
+      {
+        "text": " कुछ",
+        "start": 25.18,
+        "end": 25.64,
+        "probability": 0.8605410575866699
+      }
+    ]
+  },
+  {
+    "start": 25.64,
+    "end": 27.62,
+    "text": " Step 4. Interview Preparation",
+    "words": [
+      {
+        "text": " Step",
+        "start": 25.64,
+        "end": 26.02,
+        "probability": 0.46503007411956787
+      },
+      {
+        "text": " 4.",
+        "start": 26.02,
+        "end": 26.36,
+        "probability": 0.8774054050445557
+      },
+      {
+        "text": " Interview",
+        "start": 26.44,
+        "end": 26.88,
+        "probability": 0.627284586429596
+      },
+      {
+        "text": " Preparation",
+        "start": 26.88,
+        "end": 27.62,
+        "probability": 0.7808568874994913
+      }
+    ]
+  },
+  {
+    "start": 27.62,
+    "end": 32.22,
+    "text": " क्युकि, Selection में खाली आपके Marks नहीं भट आपको भी देखा जाता है",
+    "words": [
+      {
+        "text": " क्युकि,",
+        "start": 27.62,
+        "end": 28.04,
+        "probability": 0.718790373631886
+      },
+      {
+        "text": " Selection",
+        "start": 28.18,
+        "end": 28.64,
+        "probability": 0.7293325662612915
+      },
+      {
+        "text": " में",
+        "start": 28.64,
+        "end": 29.16,
+        "probability": 0.9546048442522684
+      },
+      {
+        "text": " खाली",
+        "start": 29.16,
+        "end": 29.4,
+        "probability": 0.793717023730278
+      },
+      {
+        "text": " आपके",
+        "start": 29.4,
+        "end": 29.68,
+        "probability": 0.9042324622472128
+      },
+      {
+        "text": " Marks",
+        "start": 29.68,
+        "end": 30.1,
+        "probability": 0.6785307377576828
+      },
+      {
+        "text": " नहीं",
+        "start": 30.1,
+        "end": 30.44,
+        "probability": 0.9470862627029419
+      },
+      {
+        "text": " भट",
+        "start": 30.44,
+        "end": 30.78,
+        "probability": 0.32678599655628204
+      },
+      {
+        "text": " आपको",
+        "start": 30.78,
+        "end": 31.22,
+        "probability": 0.9383154908816019
+      },
+      {
+        "text": " भी",
+        "start": 31.22,
+        "end": 31.32,
+        "probability": 0.9326061407725016
+      },
+      {
+        "text": " देखा",
+        "start": 31.32,
+        "end": 31.58,
+        "probability": 0.9347926576932272
+      },
+      {
+        "text": " जाता",
+        "start": 31.58,
+        "end": 31.84,
+        "probability": 0.9444688081741333
+      },
+      {
+        "text": " है",
+        "start": 31.84,
+        "end": 32.22,
+        "probability": 0.9792381525039673
+      }
+    ]
+  },
+  {
+    "start": 32.22,
+    "end": 36.18,
+    "text": " तो, Diagnostics से लेके Interview तब के लिए एक ही System",
+    "words": [
+      {
+        "text": " तो,",
+        "start": 32.22,
+        "end": 32.68,
+        "probability": 0.7033494139711062
+      },
+      {
+        "text": " Diagnostics",
+        "start": 32.88,
+        "end": 33.46,
+        "probability": 0.9006111174821854
+      },
+      {
+        "text": " से",
+        "start": 33.46,
+        "end": 33.6,
+        "probability": 0.7503951787948608
+      },
+      {
+        "text": " लेके",
+        "start": 33.6,
+        "end": 33.96,
+        "probability": 0.922389006614685
+      },
+      {
+        "text": " Interview",
+        "start": 33.96,
+        "end": 34.48,
+        "probability": 0.7034901976585388
+      },
+      {
+        "text": " तब",
+        "start": 34.48,
+        "end": 34.72,
+        "probability": 0.8952702581882477
+      },
+      {
+        "text": " के",
+        "start": 34.72,
+        "end": 34.9,
+        "probability": 0.9215216040611267
+      },
+      {
+        "text": " लिए",
+        "start": 34.9,
+        "end": 35.3,
+        "probability": 0.9322551250457763
+      },
+      {
+        "text": " एक",
+        "start": 35.3,
+        "end": 35.56,
+        "probability": 0.9538524945576986
+      },
+      {
+        "text": " ही",
+        "start": 35.56,
+        "end": 35.6,
+        "probability": 0.8722322285175323
+      },
+      {
+        "text": " System",
+        "start": 35.6,
+        "end": 36.18,
+        "probability": 0.3298381567001343
+      }
+    ]
+  },
+  {
+    "start": 36.18,
+    "end": 39.62,
+    "text": " Clarity, Preparedness and Guidance",
+    "words": [
+      {
+        "text": " Clarity,",
+        "start": 36.18,
+        "end": 37.32,
+        "probability": 0.5524927452206612
+      },
+      {
+        "text": " Preparedness",
+        "start": 37.92,
+        "end": 38.46,
+        "probability": 0.9615950187047323
+      },
+      {
+        "text": " and",
+        "start": 38.46,
+        "end": 38.8,
+        "probability": 0.32926881313323975
+      },
+      {
+        "text": " Guidance",
+        "start": 38.8,
+        "end": 39.62,
+        "probability": 0.9851415455341339
+      }
+    ]
+  },
+  {
+    "start": 39.62,
+    "end": 43.48,
+    "text": " अगर आपको भी अपना Diagnostics साथ करना है, Visit Neoland.com",
+    "words": [
+      {
+        "text": " अगर",
+        "start": 39.62,
+        "end": 40.08,
+        "probability": 0.8988707661628723
+      },
+      {
+        "text": " आपको",
+        "start": 40.08,
+        "end": 40.36,
+        "probability": 0.9827244182427725
+      },
+      {
+        "text": " भी",
+        "start": 40.36,
+        "end": 40.44,
+        "probability": 0.9399576385815939
+      },
+      {
+        "text": " अपना",
+        "start": 40.44,
+        "end": 40.6,
+        "probability": 0.9290197094281515
+      },
+      {
+        "text": " Diagnostics",
+        "start": 40.6,
+        "end": 41.04,
+        "probability": 0.960159569978714
+      },
+      {
+        "text": " साथ",
+        "start": 41.04,
+        "end": 41.3,
+        "probability": 0.7535887509584427
+      },
+      {
+        "text": " करना",
+        "start": 41.3,
+        "end": 41.56,
+        "probability": 0.9342987239360809
+      },
+      {
+        "text": " है,",
+        "start": 41.56,
+        "end": 41.8,
+        "probability": 0.9547035396099091
+      },
+      {
+        "text": " Visit",
+        "start": 42.06,
+        "end": 42.36,
+        "probability": 0.6844929456710815
+      },
+      {
+        "text": " Neoland",
+        "start": 42.36,
+        "end": 42.92,
+        "probability": 0.49266766508420307
+      },
+      {
+        "text": ".com",
+        "start": 42.92,
+        "end": 43.48,
+        "probability": 0.9902262091636658
+      }
+    ]
+  }
+]

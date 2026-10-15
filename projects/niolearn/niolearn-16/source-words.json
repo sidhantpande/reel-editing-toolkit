@@ -1,0 +1,605 @@
+{
+  "status": "Reviewed two-part source; actual order is time sink, misread, easy-question time, blind guessing; calendar order differs",
+  "words": [
+    {
+      "text": "Mocks",
+      "start": 2.89,
+      "end": 3.3,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "mein",
+      "start": 3.3,
+      "end": 3.42,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "marks",
+      "start": 3.42,
+      "end": 3.74,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "sirf",
+      "start": 3.74,
+      "end": 3.94,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "galat",
+      "start": 3.94,
+      "end": 4.22,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "answer",
+      "start": 4.22,
+      "end": 4.44,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "se",
+      "start": 4.44,
+      "end": 4.62,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "nahi,",
+      "start": 4.62,
+      "end": 4.84,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "in",
+      "start": 4.84,
+      "end": 5.4,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "chaar",
+      "start": 5.4,
+      "end": 5.72,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "main",
+      "start": 5.72,
+      "end": 6.04,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "galtiyon",
+      "start": 6.04,
+      "end": 6.5,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "se",
+      "start": 6.5,
+      "end": 6.54,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "bhi",
+      "start": 6.54,
+      "end": 6.66,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "katta",
+      "start": 6.66,
+      "end": 6.87,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "hai.",
+      "start": 6.87,
+      "end": 7.02,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "Pehla,",
+      "start": 7.74,
+      "end": 8.15,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "tough",
+      "start": 8.58,
+      "end": 8.84,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "question",
+      "start": 8.84,
+      "end": 9.22,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "pe",
+      "start": 9.22,
+      "end": 9.42,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "hi",
+      "start": 9.42,
+      "end": 9.52,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "apna",
+      "start": 9.52,
+      "end": 9.84,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "poora",
+      "start": 9.84,
+      "end": 10.2,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "time",
+      "start": 10.2,
+      "end": 10.4,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "laga",
+      "start": 10.4,
+      "end": 10.68,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "dena,",
+      "start": 10.68,
+      "end": 11.04,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "ki",
+      "start": 11.04,
+      "end": 11.46,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "easy",
+      "start": 11.46,
+      "end": 11.84,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "questions",
+      "start": 11.84,
+      "end": 12.4,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "pe",
+      "start": 12.4,
+      "end": 12.48,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "dhyaan",
+      "start": 12.48,
+      "end": 12.91,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "hi",
+      "start": 12.91,
+      "end": 13.04,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "nahi",
+      "start": 13.04,
+      "end": 13.26,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "gaya.",
+      "start": 13.26,
+      "end": 13.46,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "Doosra,",
+      "start": 14.19,
+      "end": 14.66,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "question",
+      "start": 15.02,
+      "end": 15.6,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "ko",
+      "start": 15.6,
+      "end": 15.74,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "dhang",
+      "start": 15.74,
+      "end": 16.04,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "se",
+      "start": 16.04,
+      "end": 16.16,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "read",
+      "start": 16.16,
+      "end": 16.32,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "nahi",
+      "start": 16.32,
+      "end": 16.48,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "karna,",
+      "start": 16.48,
+      "end": 16.88,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "NOT",
+      "start": 16.96,
+      "end": 17.42,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "ya",
+      "start": 17.42,
+      "end": 17.7,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "phir",
+      "start": 17.7,
+      "end": 18.0,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "EXCEPT",
+      "start": 18.0,
+      "end": 18.4,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "jaise",
+      "start": 18.4,
+      "end": 18.78,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "words",
+      "start": 18.78,
+      "end": 19.02,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "miss",
+      "start": 19.02,
+      "end": 19.42,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "kar",
+      "start": 19.42,
+      "end": 19.6,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "dena.",
+      "start": 19.6,
+      "end": 19.72,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "Teesra,",
+      "start": 21.11,
+      "end": 21.62,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "easy",
+      "start": 22.99,
+      "end": 23.4,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "questions",
+      "start": 23.4,
+      "end": 23.92,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "pe",
+      "start": 23.92,
+      "end": 24.5,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "zyada",
+      "start": 24.5,
+      "end": 24.92,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "time",
+      "start": 24.92,
+      "end": 25.1,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "laga",
+      "start": 25.1,
+      "end": 25.38,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "dena,",
+      "start": 25.38,
+      "end": 25.51,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "yeh",
+      "start": 25.98,
+      "end": 26.26,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "bhi",
+      "start": 26.26,
+      "end": 26.52,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "ek",
+      "start": 26.52,
+      "end": 26.96,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "leak",
+      "start": 26.96,
+      "end": 27.21,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "hai.",
+      "start": 27.21,
+      "end": 27.53,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "Chautha,",
+      "start": 28.47,
+      "end": 28.95,
+      "source": "IMG_5961"
+    },
+    {
+      "text": "Blind",
+      "start": 0.71,
+      "end": 1.16,
+      "source": "IMG_5962"
+    },
+    {
+      "text": "guessing.",
+      "start": 1.16,
+      "end": 1.47,
+      "source": "IMG_5962"
+    },
+    {
+      "text": "Elimination",
+      "start": 1.86,
+      "end": 2.66,
+      "source": "IMG_5962"
+    },
+    {
+      "text": "method",
+      "start": 2.66,
+      "end": 2.94,
+      "source": "IMG_5962"
+    },
+    {
+      "text": "ka",
+      "start": 2.94,
+      "end": 3.12,
+      "source": "IMG_5962"
+    },
+    {
+      "text": "use",
+      "start": 3.12,
+      "end": 3.42,
+      "source": "IMG_5962"
+    },
+    {
+      "text": "karke",
+      "start": 3.42,
+      "end": 3.74,
+      "source": "IMG_5962"
+    },
+    {
+      "text": "guessing",
+      "start": 3.74,
+      "end": 4.12,
+      "source": "IMG_5962"
+    },
+    {
+      "text": "karoge",
+      "start": 4.12,
+      "end": 4.48,
+      "source": "IMG_5962"
+    },
+    {
+      "text": "toh",
+      "start": 4.48,
+      "end": 4.72,
+      "source": "IMG_5962"
+    },
+    {
+      "text": "chance",
+      "start": 4.81,
+      "end": 5.29,
+      "source": "IMG_5962"
+    },
+    {
+      "text": "zyada",
+      "start": 5.56,
+      "end": 5.9,
+      "source": "IMG_5962"
+    },
+    {
+      "text": "banega",
+      "start": 5.9,
+      "end": 6.24,
+      "source": "IMG_5962"
+    },
+    {
+      "text": "answer",
+      "start": 6.24,
+      "end": 6.49,
+      "source": "IMG_5962"
+    },
+    {
+      "text": "sahi",
+      "start": 6.49,
+      "end": 6.7,
+      "source": "IMG_5962"
+    },
+    {
+      "text": "hone",
+      "start": 6.7,
+      "end": 6.9,
+      "source": "IMG_5962"
+    },
+    {
+      "text": "ka.",
+      "start": 6.9,
+      "end": 7.14,
+      "source": "IMG_5962"
+    },
+    {
+      "text": "Aapka",
+      "start": 8.04,
+      "end": 8.38,
+      "source": "IMG_5962"
+    },
+    {
+      "text": "kaun",
+      "start": 8.38,
+      "end": 8.6,
+      "source": "IMG_5962"
+    },
+    {
+      "text": "sa",
+      "start": 8.6,
+      "end": 8.66,
+      "source": "IMG_5962"
+    },
+    {
+      "text": "leak",
+      "start": 8.66,
+      "end": 8.86,
+      "source": "IMG_5962"
+    },
+    {
+      "text": "hai?",
+      "start": 8.86,
+      "end": 9.08,
+      "source": "IMG_5962"
+    },
+    {
+      "text": "Please",
+      "start": 9.22,
+      "end": 9.44,
+      "source": "IMG_5962"
+    },
+    {
+      "text": "comment",
+      "start": 9.44,
+      "end": 9.74,
+      "source": "IMG_5962"
+    },
+    {
+      "text": "mein",
+      "start": 9.74,
+      "end": 9.84,
+      "source": "IMG_5962"
+    },
+    {
+      "text": "bataayein",
+      "start": 9.84,
+      "end": 10.22,
+      "source": "IMG_5962"
+    },
+    {
+      "text": "aur",
+      "start": 10.74,
+      "end": 11.02,
+      "source": "IMG_5962"
+    },
+    {
+      "text": "baaki",
+      "start": 11.02,
+      "end": 11.54,
+      "source": "IMG_5962"
+    },
+    {
+      "text": "ka",
+      "start": 11.54,
+      "end": 11.74,
+      "source": "IMG_5962"
+    },
+    {
+      "text": "improvement",
+      "start": 11.74,
+      "end": 12.28,
+      "source": "IMG_5962"
+    },
+    {
+      "text": "ke",
+      "start": 12.28,
+      "end": 12.42,
+      "source": "IMG_5962"
+    },
+    {
+      "text": "liye",
+      "start": 12.42,
+      "end": 12.58,
+      "source": "IMG_5962"
+    },
+    {
+      "text": "go",
+      "start": 12.58,
+      "end": 12.98,
+      "source": "IMG_5962"
+    },
+    {
+      "text": "on",
+      "start": 12.98,
+      "end": 13.28,
+      "source": "IMG_5962"
+    },
+    {
+      "text": "niolearn.com",
+      "start": 13.3,
+      "end": 13.98,
+      "source": "IMG_5962"
+    }
+  ]
+}

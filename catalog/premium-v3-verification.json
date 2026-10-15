@@ -1,0 +1,114 @@
+[
+  {
+    "file": "public/assets/broll/atfro-premium-paper-crowd-v3.webm",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "alpha_range": [
+      0,
+      255
+    ],
+    "duration": "6.000000",
+    "sha256": "34cba7351fcf996ef2cba2f11adc8f383b7e285549e7b8fd7de725f9cf403571",
+    "status": "decoded-alpha-verified"
+  },
+  {
+    "file": "public/assets/broll/atfro-premium-paper-partnership-v3.webm",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "alpha_range": [
+      0,
+      255
+    ],
+    "duration": "6.000000",
+    "sha256": "67a90691808bc0b7e45ac6bf5fc3e0011200db927914fe5b161a55d4739986a2",
+    "status": "decoded-alpha-verified"
+  },
+  {
+    "file": "public/assets/broll/atfro-premium-paper-pathways-v3.webm",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "alpha_range": [
+      0,
+      255
+    ],
+    "duration": "6.000000",
+    "sha256": "09adaed34864613636f4091fa0dfce85b240963ec4a71f810ed15d3dcc81d3d9",
+    "status": "decoded-alpha-verified"
+  },
+  {
+    "file": "public/assets/broll/atfro-premium-paper-possibilities-v3.webm",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "alpha_range": [
+      0,
+      255
+    ],
+    "duration": "6.000000",
+    "sha256": "62471ae31a5ea5d74fdfac758747a679db1dcb7e96312c13206f68d5ee09b6ea",
+    "status": "decoded-alpha-verified"
+  },
+  {
+    "file": "public/assets/broll/niolearn-premium-paper-crowd-v3.webm",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "alpha_range": [
+      0,
+      255
+    ],
+    "duration": "6.000000",
+    "sha256": "24c2b9d3505936fa9703f26f15b8befa3639a687971c00714dfd35ba5f35fad2",
+    "status": "decoded-alpha-verified"
+  },
+  {
+    "file": "public/assets/broll/niolearn-premium-paper-partnership-v3.webm",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "alpha_range": [
+      0,
+      255
+    ],
+    "duration": "6.000000",
+    "sha256": "6cc98235c05e90ebcc52320710665640b9d0e6d0657aa6692cf28826f0e718fc",
+    "status": "decoded-alpha-verified"
+  },
+  {
+    "file": "public/assets/broll/niolearn-premium-paper-pathways-v3.webm",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "alpha_range": [
+      0,
+      255
+    ],
+    "duration": "6.000000",
+    "sha256": "e5a1bc4f133049c074a014a15d2f3b6d345803b4d49644d70287bc345388cbc7",
+    "status": "decoded-alpha-verified"
+  },
+  {
+    "file": "public/assets/broll/niolearn-premium-paper-possibilities-v3.webm",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "alpha_range": [
+      0,
+      255
+    ],
+    "duration": "6.000000",
+    "sha256": "c9ceee9e5725db041ef84add800af297d73d3de4849cb83c673441361dbddfa7",
+    "status": "decoded-alpha-verified"
+  }
+]

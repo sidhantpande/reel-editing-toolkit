@@ -1,0 +1,259 @@
+{
+  "id": "niolearn-04",
+  "fps": 30,
+  "sourceDuration": 57.606667,
+  "dialogueFrames": 1356,
+  "endHoldFrames": 45,
+  "totalFrames": 1401,
+  "cuts": [
+    {
+      "source": "media/raw/niolearn/niolearn-04/IMG_5941.mov",
+      "inFrame": 51,
+      "outFrame": 129,
+      "timelineFrom": 0,
+      "duration": 78,
+      "zoom": 1.6,
+      "reason": "Hook",
+      "cropX": 0.4,
+      "cropY": 0.9
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-04/IMG_5941.mov",
+      "inFrame": 145,
+      "outFrame": 154,
+      "timelineFrom": 78,
+      "duration": 9,
+      "zoom": 1.6,
+      "reason": "Pehla",
+      "cropX": 0.4,
+      "cropY": 0.9
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-04/IMG_5941.mov",
+      "inFrame": 169,
+      "outFrame": 284,
+      "timelineFrom": 87,
+      "duration": 115,
+      "zoom": 1.6,
+      "reason": "Degree and recognition",
+      "cropX": 0.4,
+      "cropY": 0.9
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-04/IMG_5941.mov",
+      "inFrame": 304,
+      "outFrame": 320,
+      "timelineFrom": 202,
+      "duration": 16,
+      "zoom": 1.62,
+      "reason": "Doosra",
+      "cropX": 0.4,
+      "cropY": 0.9
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-04/IMG_5941.mov",
+      "inFrame": 332,
+      "outFrame": 488,
+      "timelineFrom": 218,
+      "duration": 156,
+      "zoom": 1.62,
+      "reason": "Final credential",
+      "cropX": 0.4,
+      "cropY": 0.9
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-04/IMG_5941.mov",
+      "inFrame": 496,
+      "outFrame": 542,
+      "timelineFrom": 374,
+      "duration": 46,
+      "zoom": 1.62,
+      "reason": "Ask in writing; off-camera glance hidden by B-roll",
+      "cropX": 0.4,
+      "cropY": 0.9
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-04/IMG_5941.mov",
+      "inFrame": 558,
+      "outFrame": 574,
+      "timelineFrom": 420,
+      "duration": 16,
+      "zoom": 1.6,
+      "reason": "Teesra",
+      "cropX": 0.4,
+      "cropY": 0.9
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-04/IMG_5941.mov",
+      "inFrame": 618,
+      "outFrame": 650,
+      "timelineFrom": 436,
+      "duration": 32,
+      "zoom": 1.6,
+      "reason": "Total fees; omit repeated fees question",
+      "cropX": 0.4,
+      "cropY": 0.9
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-04/IMG_5941.mov",
+      "inFrame": 657,
+      "outFrame": 699,
+      "timelineFrom": 468,
+      "duration": 42,
+      "zoom": 1.6,
+      "reason": "Hidden deposits",
+      "cropX": 0.4,
+      "cropY": 0.9
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-04/IMG_5941.mov",
+      "inFrame": 706,
+      "outFrame": 746,
+      "timelineFrom": 510,
+      "duration": 40,
+      "zoom": 1.6,
+      "reason": "Security deposits",
+      "cropX": 0.4,
+      "cropY": 0.9
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-04/IMG_5941.mov",
+      "inFrame": 752,
+      "outFrame": 854,
+      "timelineFrom": 550,
+      "duration": 102,
+      "zoom": 1.6,
+      "reason": "Complete fee breakdown",
+      "cropX": 0.4,
+      "cropY": 0.9
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-04/IMG_5941.mov",
+      "inFrame": 868,
+      "outFrame": 882,
+      "timelineFrom": 652,
+      "duration": 14,
+      "zoom": 1.63,
+      "reason": "Chautha",
+      "cropX": 0.4,
+      "cropY": 0.9
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-04/IMG_5941.mov",
+      "inFrame": 895,
+      "outFrame": 943,
+      "timelineFrom": 666,
+      "duration": 48,
+      "zoom": 1.63,
+      "reason": "How outcomes are calculated",
+      "cropX": 0.4,
+      "cropY": 0.9
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-04/IMG_5941.mov",
+      "inFrame": 951,
+      "outFrame": 1076,
+      "timelineFrom": 714,
+      "duration": 125,
+      "zoom": 1.63,
+      "reason": "Batch strength and roles",
+      "cropX": 0.4,
+      "cropY": 0.9
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-04/IMG_5941.mov",
+      "inFrame": 1082,
+      "outFrame": 1127,
+      "timelineFrom": 839,
+      "duration": 45,
+      "zoom": 1.63,
+      "reason": "Why this matters",
+      "cropX": 0.4,
+      "cropY": 0.9
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-04/IMG_5941.mov",
+      "inFrame": 1139,
+      "outFrame": 1154,
+      "timelineFrom": 884,
+      "duration": 15,
+      "zoom": 1.6,
+      "reason": "Paanchva",
+      "cropX": 0.4,
+      "cropY": 0.9
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-04/IMG_5941.mov",
+      "inFrame": 1168,
+      "outFrame": 1298,
+      "timelineFrom": 899,
+      "duration": 130,
+      "zoom": 1.6,
+      "reason": "Talk to current students or alumni",
+      "cropX": 0.4,
+      "cropY": 0.9
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-04/IMG_5941.mov",
+      "inFrame": 1305,
+      "outFrame": 1406,
+      "timelineFrom": 1029,
+      "duration": 101,
+      "zoom": 1.6,
+      "reason": "School connects students; side glance covered",
+      "cropX": 0.4,
+      "cropY": 0.9
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-04/IMG_5941.mov",
+      "inFrame": 1413,
+      "outFrame": 1461,
+      "timelineFrom": 1130,
+      "duration": 48,
+      "zoom": 1.6,
+      "reason": "Positive sign; omit repeated closing phrase",
+      "cropX": 0.4,
+      "cropY": 0.9
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-04/IMG_5941.mov",
+      "inFrame": 1516,
+      "outFrame": 1557,
+      "timelineFrom": 1178,
+      "duration": 41,
+      "zoom": 1.62,
+      "reason": "Save the reel",
+      "cropX": 0.4,
+      "cropY": 0.9
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-04/IMG_5941.mov",
+      "inFrame": 1564,
+      "outFrame": 1630,
+      "timelineFrom": 1219,
+      "duration": 66,
+      "zoom": 1.62,
+      "reason": "Ask before reading brochure",
+      "cropX": 0.4,
+      "cropY": 0.9
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-04/IMG_5941.mov",
+      "inFrame": 1637,
+      "outFrame": 1708,
+      "timelineFrom": 1285,
+      "duration": 71,
+      "zoom": 1.62,
+      "reason": "Parent checklist CTA",
+      "cropX": 0.4,
+      "cropY": 0.9
+    }
+  ],
+  "notes": [
+    "First recorded NioLearn reel in footage order; calendar entry 04, parent questions.",
+    "Preserve all five questions. Remove setup, long pauses, repeated fee question and redundant closing phrase.",
+    "Side glances in credential/fee/conversation passages covered by custom B-roll. Camera originals unchanged.",
+    "Revision 2: zoom the camera footage only, crop excess upper wall and center the face in the upper third. Caption/B-roll positions and edit timings are unchanged."
+  ],
+  "framingRevision": "face-upper-third-v2"
+}

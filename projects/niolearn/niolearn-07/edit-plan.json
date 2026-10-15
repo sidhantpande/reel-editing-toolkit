@@ -1,0 +1,95 @@
+{
+  "id": "niolearn-07",
+  "brand": "niolearn",
+  "status": "edited-awaiting-user-review",
+  "sourceClips": [
+    "media/raw/niolearn/niolearn-07/IMG_5947.mov"
+  ],
+  "format": "REEL",
+  "captionPreset": "reference",
+  "broll": [
+    {
+      "kind": "nio-system-diagnostic",
+      "from": 129,
+      "duration": 176,
+      "fadeFrames": 8
+    },
+    {
+      "kind": "nio-system-prep",
+      "from": 350,
+      "duration": 133,
+      "fadeFrames": 8
+    },
+    {
+      "kind": "nio-system-review",
+      "from": 513,
+      "duration": 181,
+      "fadeFrames": 8
+    },
+    {
+      "kind": "nio-system-interview",
+      "from": 730,
+      "duration": 145,
+      "fadeFrames": 8
+    },
+    {
+      "kind": "nio-system-path",
+      "from": 905,
+      "duration": 158,
+      "fadeFrames": 8
+    }
+  ],
+  "notes": [
+    "Source script timings are estimates. Match recorded dialogue before final captions.",
+    "Review all fact placeholders before final export.",
+    "ASR misspells brand; use approved NioLearn spelling."
+  ],
+  "takes": [
+    {
+      "project": "niolearn-07",
+      "brand": "niolearn",
+      "file": "IMG_5947.mov",
+      "path": "media/raw/niolearn/niolearn-07/IMG_5947.mov",
+      "role": "main",
+      "confidence": "high",
+      "evidence": "Diagnostic, focused preparation, mocks/review, interview preparation; NioLearn system.",
+      "edit_note": "ASR misspells brand; use approved NioLearn spelling.",
+      "asr_draft": ".cache/transcripts-en/IMG_5947.json"
+    }
+  ],
+  "captionBeats": [
+    "One preparation system",
+    "Diagnostic",
+    "Focused prep",
+    "Mocks + review",
+    "Interview"
+  ],
+  "suggestedBroll": [
+    {
+      "spokenAnchor": "When the sequence of preparation steps starts",
+      "composition": "Broll-pathways",
+      "asset": "public/assets/broll/niolearn-pathways.webm",
+      "timingStatus": "Resolve against edited recording; no frame cue assigned"
+    }
+  ],
+  "soundDirection": {
+    "music": "calm-focus",
+    "voicePriority": true,
+    "sfx": [
+      "soft-whoosh at a major graphic reveal",
+      "soft-tick only for a real timer"
+    ],
+    "avoid": "A sound effect on every caption word"
+  },
+  "creativeNote": "Extend the paths to four steps in source code when needed; the supplied three-path scene is a reusable starting point, not the final four-step diagram.",
+  "visualDirection": "light-editorial-v3",
+  "preferredPremiumScene": {
+    "source": "src/projects/Nio07Broll.tsx",
+    "assetFolder": "public/assets/projects/niolearn-07",
+    "style": "approved light paper, separate caption zone",
+    "transparentExports": true
+  },
+  "output": "deliverables/niolearn/NIOLEARN_02_Preparation_System_v1.mp4",
+  "productionPlan": "production-plan.md",
+  "finalQA": "analysis/final-qa.json"
+}

@@ -1,0 +1,86 @@
+{
+  "phrases": [
+    "Interview ke intro mein",
+    "kya bolna hai?",
+    "Teen aise openers",
+    "jo ki My name is",
+    "se zyada strong hain.",
+    "Pehla,",
+    "apni problem batao,",
+    "ki mujhe hamesha se",
+    "yeh problem aati",
+    "rahi hai,",
+    "Taaki interviewer ko",
+    "samajh aaye ki",
+    "tumne yahaan pe",
+    "kyun apply kiya.",
+    "Doosra,",
+    "apne kisi project",
+    "ke baare batao,",
+    "ki you are working",
+    "on this project",
+    "aur you have done",
+    "this project.",
+    "This builds your interest.",
+    "Teesra,",
+    "curiosity develop karo,",
+    "ki mujhe jaanna tha",
+    "ki yeh cheezein",
+    "kaise kaam karti hain,",
+    "taaki interviewer ko",
+    "realise ho,",
+    "ki haan kuch",
+    "jaanne ke liye ho.",
+    "Save karo is reel ko",
+    "aur apna line",
+    "comment mein likho.",
+    "For more detailed",
+    "preparation,",
+    "go on niolearn.com"
+  ],
+  "accentWords": [
+    "interview",
+    "intro",
+    "openers",
+    "strong",
+    "problem",
+    "interviewer",
+    "apply",
+    "project",
+    "working",
+    "done",
+    "interest",
+    "curiosity",
+    "develop",
+    "realise",
+    "jaanne",
+    "save",
+    "comment",
+    "preparation"
+  ],
+  "broll": [
+    {
+      "kind": "nio-intro-problem",
+      "source": "IMG_5956",
+      "start": 7.49,
+      "end": 13.51
+    },
+    {
+      "kind": "nio-intro-project",
+      "source": "IMG_5956",
+      "start": 16.43,
+      "end": 21.43
+    },
+    {
+      "kind": "nio-intro-curiosity",
+      "source": "IMG_5956",
+      "start": 23.25,
+      "end": 30.01
+    }
+  ],
+  "alphaExports": [
+    "nio-intro-problem",
+    "nio-intro-project",
+    "nio-intro-curiosity"
+  ]
+}

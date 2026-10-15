@@ -1,0 +1,1088 @@
+[
+  {
+    "startMs": 66.667,
+    "endMs": 1100.0,
+    "words": [
+      {
+        "text": "My",
+        "startMs": 66.667,
+        "endMs": 200.0
+      },
+      {
+        "text": "name",
+        "startMs": 200.0,
+        "endMs": 466.667
+      },
+      {
+        "text": "is",
+        "startMs": 466.667,
+        "endMs": 600.0
+      },
+      {
+        "text": "Navneet,",
+        "startMs": 600.0,
+        "endMs": 1000.0,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1240,
+    "fontSize": 84
+  },
+  {
+    "startMs": 1333.333,
+    "endMs": 2100.0,
+    "words": [
+      {
+        "text": "I",
+        "startMs": 1333.333,
+        "endMs": 1433.333
+      },
+      {
+        "text": "am",
+        "startMs": 1433.333,
+        "endMs": 1533.333
+      },
+      {
+        "text": "from",
+        "startMs": 1533.333,
+        "endMs": 1733.333
+      },
+      {
+        "text": "Pune",
+        "startMs": 1733.333,
+        "endMs": 2100.0
+      }
+    ],
+    "top": 1240,
+    "fontSize": 84
+  },
+  {
+    "startMs": 2100.0,
+    "endMs": 2800.0,
+    "words": [
+      {
+        "text": "and",
+        "startMs": 2100.0,
+        "endMs": 2366.667
+      },
+      {
+        "text": "I",
+        "startMs": 2366.667,
+        "endMs": 2566.667
+      },
+      {
+        "text": "have",
+        "startMs": 2566.667,
+        "endMs": 2633.333
+      },
+      {
+        "text": "scored",
+        "startMs": 2633.333,
+        "endMs": 2800.0
+      }
+    ],
+    "top": 1240,
+    "fontSize": 84
+  },
+  {
+    "startMs": 2800.0,
+    "endMs": 3766.667,
+    "words": [
+      {
+        "text": "87",
+        "startMs": 2800.0,
+        "endMs": 3166.667,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "percent.",
+        "startMs": 3166.667,
+        "endMs": 3666.667
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 3833.333,
+    "endMs": 5566.667,
+    "words": [
+      {
+        "text": "Aur",
+        "startMs": 3833.333,
+        "endMs": 3966.667
+      },
+      {
+        "text": "itna",
+        "startMs": 3966.667,
+        "endMs": 4400.0
+      },
+      {
+        "text": "bolte",
+        "startMs": 4400.0,
+        "endMs": 5033.333
+      },
+      {
+        "text": "hi",
+        "startMs": 5033.333,
+        "endMs": 5566.667
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 5566.667,
+    "endMs": 6733.333,
+    "words": [
+      {
+        "text": "interviewer",
+        "startMs": 5566.667,
+        "endMs": 6066.667,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "aapko",
+        "startMs": 6066.667,
+        "endMs": 6266.667
+      },
+      {
+        "text": "rokega",
+        "startMs": 6266.667,
+        "endMs": 6733.333
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 6733.333,
+    "endMs": 8500.0,
+    "words": [
+      {
+        "text": "bolega",
+        "startMs": 6733.333,
+        "endMs": 7133.333
+      },
+      {
+        "text": "bhai",
+        "startMs": 7133.333,
+        "endMs": 7433.333
+      },
+      {
+        "text": "interview",
+        "startMs": 7433.333,
+        "endMs": 7966.667,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "nahi",
+        "startMs": 7966.667,
+        "endMs": 8500.0
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 8500.0,
+    "endMs": 9500.0,
+    "words": [
+      {
+        "text": "resume",
+        "startMs": 8500.0,
+        "endMs": 9066.667
+      },
+      {
+        "text": "reading",
+        "startMs": 9066.667,
+        "endMs": 9366.667,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "hai.",
+        "startMs": 9233.333,
+        "endMs": 9400.0
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 9566.667,
+    "endMs": 11000.0,
+    "words": [
+      {
+        "text": "Aapka",
+        "startMs": 9566.667,
+        "endMs": 10000.0
+      },
+      {
+        "text": "strong",
+        "startMs": 10000.0,
+        "endMs": 10466.667
+      },
+      {
+        "text": "answer",
+        "startMs": 10466.667,
+        "endMs": 11000.0,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 11000.0,
+    "endMs": 11533.333,
+    "words": [
+      {
+        "text": "teen",
+        "startMs": 11000.0,
+        "endMs": 11300.0
+      },
+      {
+        "text": "cheez",
+        "startMs": 11300.0,
+        "endMs": 11466.667
+      },
+      {
+        "text": "pe",
+        "startMs": 11466.667,
+        "endMs": 11533.333
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 11533.333,
+    "endMs": 12300.0,
+    "words": [
+      {
+        "text": "depend",
+        "startMs": 11533.333,
+        "endMs": 11800.0
+      },
+      {
+        "text": "karta",
+        "startMs": 11800.0,
+        "endMs": 12133.333
+      },
+      {
+        "text": "hai.",
+        "startMs": 12133.333,
+        "endMs": 12200.0
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 12366.667,
+    "endMs": 13266.667,
+    "words": [
+      {
+        "text": "Aapki",
+        "startMs": 12366.667,
+        "endMs": 12666.667
+      },
+      {
+        "text": "hook,",
+        "startMs": 12666.667,
+        "endMs": 13166.667,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 13366.667,
+    "endMs": 14633.333,
+    "words": [
+      {
+        "text": "aapne",
+        "startMs": 13366.667,
+        "endMs": 13733.333
+      },
+      {
+        "text": "kya",
+        "startMs": 13733.333,
+        "endMs": 14066.667
+      },
+      {
+        "text": "kiya",
+        "startMs": 14066.667,
+        "endMs": 14433.333
+      },
+      {
+        "text": "hai,",
+        "startMs": 14433.333,
+        "endMs": 14533.333
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 14700.0,
+    "endMs": 15700.0,
+    "words": [
+      {
+        "text": "aap",
+        "startMs": 14700.0,
+        "endMs": 14933.333
+      },
+      {
+        "text": "kyun",
+        "startMs": 14933.333,
+        "endMs": 15233.333
+      },
+      {
+        "text": "is",
+        "startMs": 15233.333,
+        "endMs": 15433.333
+      },
+      {
+        "text": "college",
+        "startMs": 15433.333,
+        "endMs": 15700.0,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 15700.0,
+    "endMs": 16766.667,
+    "words": [
+      {
+        "text": "ko",
+        "startMs": 15700.0,
+        "endMs": 15900.0
+      },
+      {
+        "text": "choose",
+        "startMs": 15900.0,
+        "endMs": 16166.667,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "kar",
+        "startMs": 16166.667,
+        "endMs": 16433.333
+      },
+      {
+        "text": "rahe",
+        "startMs": 16433.333,
+        "endMs": 16633.333
+      },
+      {
+        "text": "ho,",
+        "startMs": 16633.333,
+        "endMs": 16733.333
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 16766.667,
+    "endMs": 17766.667,
+    "words": [
+      {
+        "text": "aur",
+        "startMs": 16766.667,
+        "endMs": 16966.667
+      },
+      {
+        "text": "aapka",
+        "startMs": 16966.667,
+        "endMs": 17233.333
+      },
+      {
+        "text": "next",
+        "startMs": 17233.333,
+        "endMs": 17533.333
+      },
+      {
+        "text": "goal",
+        "startMs": 17533.333,
+        "endMs": 17766.667,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 17766.667,
+    "endMs": 18100.0,
+    "words": [
+      {
+        "text": "kya",
+        "startMs": 17766.667,
+        "endMs": 17833.333
+      },
+      {
+        "text": "hai.",
+        "startMs": 17833.333,
+        "endMs": 18000.0
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 18166.667,
+    "endMs": 18733.333,
+    "words": [
+      {
+        "text": "You",
+        "startMs": 18166.667,
+        "endMs": 18300.0
+      },
+      {
+        "text": "should",
+        "startMs": 18300.0,
+        "endMs": 18433.333
+      },
+      {
+        "text": "frame",
+        "startMs": 18433.333,
+        "endMs": 18733.333
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 18733.333,
+    "endMs": 19900.0,
+    "words": [
+      {
+        "text": "your",
+        "startMs": 18733.333,
+        "endMs": 18933.333
+      },
+      {
+        "text": "introduction",
+        "startMs": 18933.333,
+        "endMs": 19200.0,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "like",
+        "startMs": 19200.0,
+        "endMs": 19433.333
+      },
+      {
+        "text": "this,",
+        "startMs": 19433.333,
+        "endMs": 19800.0
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 20300.0,
+    "endMs": 21700.0,
+    "words": [
+      {
+        "text": "ki,",
+        "startMs": 20300.0,
+        "endMs": 20533.333
+      },
+      {
+        "text": "myself",
+        "startMs": 20900.0,
+        "endMs": 21200.0
+      },
+      {
+        "text": "Navneet",
+        "startMs": 21200.0,
+        "endMs": 21500.0,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "Singh",
+        "startMs": 21500.0,
+        "endMs": 21700.0
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 21700.0,
+    "endMs": 22700.0,
+    "words": [
+      {
+        "text": "I",
+        "startMs": 21700.0,
+        "endMs": 21866.667
+      },
+      {
+        "text": "worked",
+        "startMs": 21866.667,
+        "endMs": 22200.0
+      },
+      {
+        "text": "with",
+        "startMs": 22200.0,
+        "endMs": 22700.0
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 22700.0,
+    "endMs": 24400.0,
+    "words": [
+      {
+        "text": "this",
+        "startMs": 22700.0,
+        "endMs": 23000.0
+      },
+      {
+        "text": "project",
+        "startMs": 23000.0,
+        "endMs": 23333.333,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "in",
+        "startMs": 23333.333,
+        "endMs": 23600.0
+      },
+      {
+        "text": "class",
+        "startMs": 23600.0,
+        "endMs": 23933.333
+      },
+      {
+        "text": "11",
+        "startMs": 23933.333,
+        "endMs": 24400.0
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 24400.0,
+    "endMs": 25066.667,
+    "words": [
+      {
+        "text": "and",
+        "startMs": 24400.0,
+        "endMs": 24466.667
+      },
+      {
+        "text": "I",
+        "startMs": 24466.667,
+        "endMs": 24700.0
+      },
+      {
+        "text": "have",
+        "startMs": 24700.0,
+        "endMs": 24766.667
+      },
+      {
+        "text": "solved",
+        "startMs": 24766.667,
+        "endMs": 25066.667,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 25066.667,
+    "endMs": 25733.333,
+    "words": [
+      {
+        "text": "this",
+        "startMs": 25066.667,
+        "endMs": 25300.0
+      },
+      {
+        "text": "problem",
+        "startMs": 25300.0,
+        "endMs": 25733.333,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 25733.333,
+    "endMs": 26933.333,
+    "words": [
+      {
+        "text": "and",
+        "startMs": 25733.333,
+        "endMs": 25933.333
+      },
+      {
+        "text": "I",
+        "startMs": 25933.333,
+        "endMs": 26200.0
+      },
+      {
+        "text": "believe",
+        "startMs": 26200.0,
+        "endMs": 26566.667
+      },
+      {
+        "text": "that",
+        "startMs": 26566.667,
+        "endMs": 26933.333
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 26933.333,
+    "endMs": 27933.333,
+    "words": [
+      {
+        "text": "this",
+        "startMs": 26933.333,
+        "endMs": 27200.0
+      },
+      {
+        "text": "college",
+        "startMs": 27200.0,
+        "endMs": 27566.667,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "can",
+        "startMs": 27566.667,
+        "endMs": 27933.333
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 27933.333,
+    "endMs": 29466.667,
+    "words": [
+      {
+        "text": "give",
+        "startMs": 27933.333,
+        "endMs": 28200.0
+      },
+      {
+        "text": "me",
+        "startMs": 28200.0,
+        "endMs": 28433.333
+      },
+      {
+        "text": "that",
+        "startMs": 28433.333,
+        "endMs": 28733.333
+      },
+      {
+        "text": "opportunity",
+        "startMs": 28733.333,
+        "endMs": 29400.0,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 29466.667,
+    "endMs": 30466.667,
+    "words": [
+      {
+        "text": "and",
+        "startMs": 29466.667,
+        "endMs": 29666.667
+      },
+      {
+        "text": "my",
+        "startMs": 29666.667,
+        "endMs": 29933.333
+      },
+      {
+        "text": "goal",
+        "startMs": 29933.333,
+        "endMs": 30200.0,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "is",
+        "startMs": 30200.0,
+        "endMs": 30466.667
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 30466.667,
+    "endMs": 31466.667,
+    "words": [
+      {
+        "text": "to",
+        "startMs": 30466.667,
+        "endMs": 30633.333
+      },
+      {
+        "text": "make",
+        "startMs": 30633.333,
+        "endMs": 30800.0
+      },
+      {
+        "text": "this",
+        "startMs": 30800.0,
+        "endMs": 31033.333
+      },
+      {
+        "text": "project.",
+        "startMs": 31033.333,
+        "endMs": 31366.667,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 31566.667,
+    "endMs": 33033.333,
+    "words": [
+      {
+        "text": "Dekha,",
+        "startMs": 31566.667,
+        "endMs": 31933.333
+      },
+      {
+        "text": "10",
+        "startMs": 32233.333,
+        "endMs": 32466.667
+      },
+      {
+        "text": "second",
+        "startMs": 32466.667,
+        "endMs": 32833.333
+      },
+      {
+        "text": "mein",
+        "startMs": 32833.333,
+        "endMs": 32933.333
+      },
+      {
+        "text": "hi",
+        "startMs": 32933.333,
+        "endMs": 33033.333
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 33033.333,
+    "endMs": 33700.0,
+    "words": [
+      {
+        "text": "interviewer",
+        "startMs": 33033.333,
+        "endMs": 33400.0
+      },
+      {
+        "text": "ko",
+        "startMs": 33400.0,
+        "endMs": 33433.333
+      },
+      {
+        "text": "realise",
+        "startMs": 33433.333,
+        "endMs": 33700.0,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 33700.0,
+    "endMs": 34300.0,
+    "words": [
+      {
+        "text": "ho",
+        "startMs": 33700.0,
+        "endMs": 33833.333
+      },
+      {
+        "text": "jaayega",
+        "startMs": 33833.333,
+        "endMs": 34000.0
+      },
+      {
+        "text": "ki",
+        "startMs": 34000.0,
+        "endMs": 34300.0
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 34300.0,
+    "endMs": 35933.333,
+    "words": [
+      {
+        "text": "aapko",
+        "startMs": 34300.0,
+        "endMs": 34833.333
+      },
+      {
+        "text": "kya-kya",
+        "startMs": 34833.333,
+        "endMs": 35400.0
+      },
+      {
+        "text": "aata",
+        "startMs": 35400.0,
+        "endMs": 35733.333
+      },
+      {
+        "text": "hai",
+        "startMs": 35733.333,
+        "endMs": 35933.333
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 35933.333,
+    "endMs": 36800.0,
+    "words": [
+      {
+        "text": "aur",
+        "startMs": 35933.333,
+        "endMs": 36133.333
+      },
+      {
+        "text": "aap",
+        "startMs": 36133.333,
+        "endMs": 36333.333
+      },
+      {
+        "text": "kya-kya",
+        "startMs": 36333.333,
+        "endMs": 36800.0
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 36800.0,
+    "endMs": 37466.667,
+    "words": [
+      {
+        "text": "kar",
+        "startMs": 36800.0,
+        "endMs": 36966.667
+      },
+      {
+        "text": "sakte",
+        "startMs": 36966.667,
+        "endMs": 37266.667
+      },
+      {
+        "text": "ho.",
+        "startMs": 37266.667,
+        "endMs": 37366.667
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 37533.333,
+    "endMs": 38766.667,
+    "words": [
+      {
+        "text": "Aise",
+        "startMs": 37533.333,
+        "endMs": 37766.667
+      },
+      {
+        "text": "aur",
+        "startMs": 37766.667,
+        "endMs": 37900.0
+      },
+      {
+        "text": "tips",
+        "startMs": 37900.0,
+        "endMs": 38166.667,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "ke",
+        "startMs": 38166.667,
+        "endMs": 38333.333
+      },
+      {
+        "text": "liye",
+        "startMs": 38333.333,
+        "endMs": 38766.667
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 38766.667,
+    "endMs": 39800.0,
+    "words": [
+      {
+        "text": "follow",
+        "startMs": 38766.667,
+        "endMs": 39100.0,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "karein",
+        "startMs": 39100.0,
+        "endMs": 39333.333
+      },
+      {
+        "text": "humein",
+        "startMs": 39333.333,
+        "endMs": 39700.0
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 39800.0,
+    "endMs": 40466.667,
+    "words": [
+      {
+        "text": "aur",
+        "startMs": 39800.0,
+        "endMs": 40066.667
+      },
+      {
+        "text": "agar",
+        "startMs": 40066.667,
+        "endMs": 40266.667
+      },
+      {
+        "text": "aapko",
+        "startMs": 40266.667,
+        "endMs": 40466.667
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 40466.667,
+    "endMs": 41166.667,
+    "words": [
+      {
+        "text": "improve",
+        "startMs": 40466.667,
+        "endMs": 40866.667,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "karna",
+        "startMs": 40866.667,
+        "endMs": 41133.333
+      },
+      {
+        "text": "hai",
+        "startMs": 41133.333,
+        "endMs": 41166.667
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 41133.333,
+    "endMs": 42066.667,
+    "words": [
+      {
+        "text": "toh",
+        "startMs": 41133.333,
+        "endMs": 41300.0
+      },
+      {
+        "text": "please",
+        "startMs": 41300.0,
+        "endMs": 41566.667
+      },
+      {
+        "text": "go",
+        "startMs": 41566.667,
+        "endMs": 41800.0
+      },
+      {
+        "text": "on",
+        "startMs": 41800.0,
+        "endMs": 42066.667
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 42066.667,
+    "endMs": 43033.333,
+    "words": [
+      {
+        "text": "niolearn.com",
+        "startMs": 42066.667,
+        "endMs": 42933.333,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  }
+]

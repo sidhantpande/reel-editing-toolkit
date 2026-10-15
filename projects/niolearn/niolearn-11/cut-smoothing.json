@@ -1,0 +1,42 @@
+[
+  {
+    "from": 112,
+    "duration": 3,
+    "src": "proxies/niolearn-11-holds/cut-112.jpg"
+  },
+  {
+    "from": 285,
+    "duration": 3,
+    "src": "proxies/niolearn-11-holds/cut-285.jpg"
+  },
+  {
+    "from": 330,
+    "duration": 3,
+    "src": "proxies/niolearn-11-holds/cut-330.jpg"
+  },
+  {
+    "from": 543,
+    "duration": 3,
+    "src": "proxies/niolearn-11-holds/cut-543.jpg"
+  },
+  {
+    "from": 607,
+    "duration": 3,
+    "src": "proxies/niolearn-11-holds/cut-607.jpg"
+  },
+  {
+    "from": 944,
+    "duration": 3,
+    "src": "proxies/niolearn-11-holds/cut-944.jpg"
+  },
+  {
+    "from": 1124,
+    "duration": 3,
+    "src": "proxies/niolearn-11-holds/cut-1124.jpg"
+  },
+  {
+    "from": 1193,
+    "duration": 3,
+    "src": "proxies/niolearn-11-holds/cut-1193.jpg"
+  }
+]

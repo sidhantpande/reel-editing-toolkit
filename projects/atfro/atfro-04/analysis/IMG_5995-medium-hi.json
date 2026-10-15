@@ -1,0 +1,770 @@
+[
+  {
+    "start": 0.75,
+    "end": 1.47,
+    "text": " आज ह opio के चस्ते आप encouraging to improve one's career.",
+    "words": [
+      {
+        "text": " आज",
+        "start": 0.75,
+        "end": 0.75,
+        "probability": 0.4277127105742693
+      },
+      {
+        "text": " ह",
+        "start": 0.75,
+        "end": 0.75,
+        "probability": 0.019200565293431282
+      },
+      {
+        "text": " opio",
+        "start": 0.75,
+        "end": 0.75,
+        "probability": 6.738063348166179e-06
+      },
+      {
+        "text": " के",
+        "start": 0.75,
+        "end": 0.75,
+        "probability": 0.10981415584683418
+      },
+      {
+        "text": " चस्ते",
+        "start": 0.75,
+        "end": 0.75,
+        "probability": 0.30646764642248553
+      },
+      {
+        "text": " आप",
+        "start": 0.75,
+        "end": 0.75,
+        "probability": 0.48847984801977873
+      },
+      {
+        "text": " encouraging",
+        "start": 0.75,
+        "end": 0.75,
+        "probability": 2.022536500589922e-05
+      },
+      {
+        "text": " to",
+        "start": 0.75,
+        "end": 0.75,
+        "probability": 0.009321450255811214
+      },
+      {
+        "text": " improve",
+        "start": 0.75,
+        "end": 0.81,
+        "probability": 0.0045624771155416965
+      },
+      {
+        "text": " one's",
+        "start": 0.81,
+        "end": 0.81,
+        "probability": 0.46641115518286824
+      },
+      {
+        "text": " career",
+        "start": 0.81,
+        "end": 0.81,
+        "probability": 0.041317541152238846
+      },
+      {
+        "text": ".umbing",
+        "start": 0.81,
+        "end": 1.47,
+        "probability": 0.22783177300590296
+      }
+    ]
+  },
+  {
+    "start": 1.47,
+    "end": 8.15,
+    "text": "umbing a film every event at a school and still miss out the story which parents ask for.",
+    "words": [
+      {
+        "text": " a",
+        "start": 1.47,
+        "end": 1.47,
+        "probability": 0.006165543105453253
+      },
+      {
+        "text": " film",
+        "start": 1.47,
+        "end": 1.47,
+        "probability": 0.0010504968231543899
+      },
+      {
+        "text": " every",
+        "start": 1.47,
+        "end": 2.29,
+        "probability": 0.32877904176712036
+      },
+      {
+        "text": " event",
+        "start": 2.29,
+        "end": 2.79,
+        "probability": 0.9657980799674988
+      },
+      {
+        "text": " at",
+        "start": 2.79,
+        "end": 3.01,
+        "probability": 0.9700953960418701
+      },
+      {
+        "text": " a",
+        "start": 3.01,
+        "end": 3.21,
+        "probability": 0.8919318914413452
+      },
+      {
+        "text": " school",
+        "start": 3.21,
+        "end": 3.47,
+        "probability": 0.9840234518051147
+      },
+      {
+        "text": " and",
+        "start": 3.47,
+        "end": 3.85,
+        "probability": 0.23722095787525177
+      },
+      {
+        "text": " still",
+        "start": 3.85,
+        "end": 4.25,
+        "probability": 0.9329522848129272
+      },
+      {
+        "text": " miss",
+        "start": 4.25,
+        "end": 4.49,
+        "probability": 0.9567471742630005
+      },
+      {
+        "text": " out",
+        "start": 4.49,
+        "end": 4.65,
+        "probability": 0.9661576747894287
+      },
+      {
+        "text": " the",
+        "start": 4.65,
+        "end": 4.77,
+        "probability": 0.7472497224807739
+      },
+      {
+        "text": " story",
+        "start": 4.77,
+        "end": 5.23,
+        "probability": 0.9870358109474182
+      },
+      {
+        "text": " which",
+        "start": 5.23,
+        "end": 5.65,
+        "probability": 0.7981625199317932
+      },
+      {
+        "text": " parents",
+        "start": 5.65,
+        "end": 6.01,
+        "probability": 0.9745542407035828
+      },
+      {
+        "text": " ask",
+        "start": 6.01,
+        "end": 6.37,
+        "probability": 0.9288713335990906
+      },
+      {
+        "text": " for",
+        "start": 6.37,
+        "end": 7.03,
+        "probability": 0.9716775417327881
+      },
+      {
+        "text": ".மें",
+        "start": 7.03,
+        "end": 8.15,
+        "probability": 0.43054936929274845
+      }
+    ]
+  },
+  {
+    "start": 8.15,
+    "end": 10.93,
+    "text": "மें कोद्ता तो लिएएगा कौटाइभकोदम के लिएじवा दइरा जाज़ाहि ग़ सकता हूई,",
+    "words": [
+      {
+        "text": " कोद्ता",
+        "start": 8.15,
+        "end": 8.27,
+        "probability": 0.16146983711847238
+      },
+      {
+        "text": " तो",
+        "start": 8.27,
+        "end": 8.27,
+        "probability": 0.12922059992949167
+      },
+      {
+        "text": " लिएएगा",
+        "start": 8.27,
+        "end": 9.09,
+        "probability": 0.39023176673799753
+      },
+      {
+        "text": " कौटाइभकोदम",
+        "start": 9.09,
+        "end": 10.17,
+        "probability": 0.14919290722658238
+      },
+      {
+        "text": " के",
+        "start": 10.17,
+        "end": 10.17,
+        "probability": 0.11268315091729164
+      },
+      {
+        "text": " लिएじवा",
+        "start": 10.17,
+        "end": 10.17,
+        "probability": 0.5209040956413244
+      },
+      {
+        "text": " दइरा",
+        "start": 10.17,
+        "end": 10.17,
+        "probability": 0.05066296566898624
+      },
+      {
+        "text": " जाज़ाहि",
+        "start": 10.17,
+        "end": 10.17,
+        "probability": 0.3028548259753734
+      },
+      {
+        "text": " ग़",
+        "start": 10.17,
+        "end": 10.17,
+        "probability": 0.10154662560671568
+      },
+      {
+        "text": " सकता",
+        "start": 10.17,
+        "end": 10.17,
+        "probability": 0.2952802866930142
+      },
+      {
+        "text": " हूई,",
+        "start": 10.17,
+        "end": 10.17,
+        "probability": 0.35354858078062534
+      },
+      {
+        "text": " सकृर",
+        "start": 10.17,
+        "end": 10.93,
+        "probability": 0.10671404786407948
+      }
+    ]
+  },
+  {
+    "start": 10.93,
+    "end": 17.51,
+    "text": " सकृर दोसोड़े हैं।",
+    "words": [
+      {
+        "text": " दोसोड़े",
+        "start": 10.93,
+        "end": 11.89,
+        "probability": 0.19798504747450352
+      },
+      {
+        "text": " हैं।",
+        "start": 11.89,
+        "end": 12.77,
+        "probability": 0.42799634486436844
+      },
+      {
+        "text": " anteriorly",
+        "start": 12.77,
+        "end": 12.99,
+        "probability": 0.03783444237126332
+      },
+      {
+        "text": " as",
+        "start": 12.99,
+        "end": 12.99,
+        "probability": 0.0071348403580486774
+      },
+      {
+        "text": " a",
+        "start": 12.99,
+        "end": 17.25,
+        "probability": 0.9135739803314209
+      },
+      {
+        "text": " growth",
+        "start": 17.25,
+        "end": 17.51,
+        "probability": 0.912628173828125
+      }
+    ]
+  },
+  {
+    "start": 17.51,
+    "end": 23.71,
+    "text": " anteriorly as a growth partner, our goal is to align school's goal and parents' questions.",
+    "words": [
+      {
+        "text": " partner,",
+        "start": 17.51,
+        "end": 18.11,
+        "probability": 0.9485934376716614
+      },
+      {
+        "text": " our",
+        "start": 18.45,
+        "end": 18.45,
+        "probability": 0.5908830165863037
+      },
+      {
+        "text": " goal",
+        "start": 18.45,
+        "end": 18.71,
+        "probability": 0.9860016107559204
+      },
+      {
+        "text": " is",
+        "start": 18.71,
+        "end": 18.93,
+        "probability": 0.9795051217079163
+      },
+      {
+        "text": " to",
+        "start": 18.93,
+        "end": 19.11,
+        "probability": 0.9825968146324158
+      },
+      {
+        "text": " align",
+        "start": 19.11,
+        "end": 19.55,
+        "probability": 0.9423715472221375
+      },
+      {
+        "text": " school's",
+        "start": 19.55,
+        "end": 20.25,
+        "probability": 0.8185852766036987
+      },
+      {
+        "text": " goal",
+        "start": 20.25,
+        "end": 20.57,
+        "probability": 0.862738311290741
+      },
+      {
+        "text": " and",
+        "start": 20.57,
+        "end": 21.17,
+        "probability": 0.49172186851501465
+      },
+      {
+        "text": " parents'",
+        "start": 21.17,
+        "end": 21.71,
+        "probability": 0.6877495646476746
+      },
+      {
+        "text": " questions.",
+        "start": 22.41,
+        "end": 22.83,
+        "probability": 0.9121564030647278
+      },
+      {
+        "text": " ज़ाए",
+        "start": 23.71,
+        "end": 23.71,
+        "probability": 0.34666128030845095
+      }
+    ]
+  },
+  {
+    "start": 23.71,
+    "end": 25.67,
+    "text": " ज़ाए टेखुरत गईच्डना Zum yaaring story?",
+    "words": [
+      {
+        "text": " टेखुरत",
+        "start": 23.71,
+        "end": 24.15,
+        "probability": 0.16236419598054555
+      },
+      {
+        "text": " गईच्डना",
+        "start": 24.15,
+        "end": 24.15,
+        "probability": 0.16269310826266353
+      },
+      {
+        "text": " Zum",
+        "start": 24.15,
+        "end": 24.15,
+        "probability": 3.0712337320437655e-05
+      },
+      {
+        "text": " yaaring",
+        "start": 24.15,
+        "end": 25.17,
+        "probability": 0.00022977224944042973
+      },
+      {
+        "text": " story?",
+        "start": 25.17,
+        "end": 25.67,
+        "probability": 0.7558207511901855
+      }
+    ]
+  },
+  {
+    "start": 25.67,
+    "end": 28.37,
+    "text": " And what footage can make it all clear.",
+    "words": [
+      {
+        "text": " And",
+        "start": 25.67,
+        "end": 26.01,
+        "probability": 0.05002748221158981
+      },
+      {
+        "text": " what",
+        "start": 26.01,
+        "end": 26.29,
+        "probability": 0.9013388156890869
+      },
+      {
+        "text": " footage",
+        "start": 26.29,
+        "end": 26.63,
+        "probability": 0.9718202948570251
+      },
+      {
+        "text": " can",
+        "start": 26.63,
+        "end": 26.89,
+        "probability": 0.9771907329559326
+      },
+      {
+        "text": " make",
+        "start": 26.89,
+        "end": 27.11,
+        "probability": 0.9932551383972168
+      },
+      {
+        "text": " it",
+        "start": 27.11,
+        "end": 27.43,
+        "probability": 0.9908561706542969
+      },
+      {
+        "text": " all",
+        "start": 27.43,
+        "end": 27.75,
+        "probability": 0.9846750497817993
+      },
+      {
+        "text": " clear.",
+        "start": 27.75,
+        "end": 28.37,
+        "probability": 0.9935791492462158
+      }
+    ]
+  },
+  {
+    "start": 29.09,
+    "end": 30.15,
+    "text": " The reel is one part.",
+    "words": [
+      {
+        "text": " The",
+        "start": 29.09,
+        "end": 29.17,
+        "probability": 0.9108660221099854
+      },
+      {
+        "text": " reel",
+        "start": 29.17,
+        "end": 29.35,
+        "probability": 0.7983459234237671
+      },
+      {
+        "text": " is",
+        "start": 29.35,
+        "end": 29.55,
+        "probability": 0.9935190081596375
+      },
+      {
+        "text": " one",
+        "start": 29.55,
+        "end": 29.81,
+        "probability": 0.96897953748703
+      },
+      {
+        "text": " part.",
+        "start": 29.81,
+        "end": 30.15,
+        "probability": 0.9933998584747314
+      }
+    ]
+  },
+  {
+    "start": 30.67,
+    "end": 36.85,
+    "text": " The caption, approval, answer to parents' questions and the next campaigns matters too.",
+    "words": [
+      {
+        "text": " The",
+        "start": 30.67,
+        "end": 30.83,
+        "probability": 0.950920820236206
+      },
+      {
+        "text": " caption,",
+        "start": 30.83,
+        "end": 31.27,
+        "probability": 0.955586314201355
+      },
+      {
+        "text": " approval,",
+        "start": 31.75,
+        "end": 32.31,
+        "probability": 0.8520880341529846
+      },
+      {
+        "text": " answer",
+        "start": 33.09,
+        "end": 33.21,
+        "probability": 0.8935359120368958
+      },
+      {
+        "text": " to",
+        "start": 33.21,
+        "end": 33.47,
+        "probability": 0.99167799949646
+      },
+      {
+        "text": " parents'",
+        "start": 33.47,
+        "end": 33.73,
+        "probability": 0.7946895956993103
+      },
+      {
+        "text": " questions",
+        "start": 33.83,
+        "end": 34.37,
+        "probability": 0.9177383184432983
+      },
+      {
+        "text": " and",
+        "start": 34.37,
+        "end": 34.85,
+        "probability": 0.49269330501556396
+      },
+      {
+        "text": " the",
+        "start": 34.85,
+        "end": 35.03,
+        "probability": 0.9729607701301575
+      },
+      {
+        "text": " next",
+        "start": 35.03,
+        "end": 35.29,
+        "probability": 0.9792025685310364
+      },
+      {
+        "text": " campaigns",
+        "start": 35.29,
+        "end": 35.73,
+        "probability": 0.7934977412223816
+      },
+      {
+        "text": " matters",
+        "start": 35.73,
+        "end": 36.37,
+        "probability": 0.7922174334526062
+      },
+      {
+        "text": " too.",
+        "start": 36.37,
+        "end": 36.85,
+        "probability": 0.9475540518760681
+      }
+    ]
+  },
+  {
+    "start": 37.43,
+    "end": 40.45,
+    "text": " So, if you read a school, DM school in the comments.",
+    "words": [
+      {
+        "text": " So,",
+        "start": 37.43,
+        "end": 37.65,
+        "probability": 0.9507323503494263
+      },
+      {
+        "text": " if",
+        "start": 37.99,
+        "end": 38.11,
+        "probability": 0.9377328157424927
+      },
+      {
+        "text": " you",
+        "start": 38.11,
+        "end": 38.23,
+        "probability": 0.9916113018989563
+      },
+      {
+        "text": " read",
+        "start": 38.23,
+        "end": 38.37,
+        "probability": 0.8332474827766418
+      },
+      {
+        "text": " a",
+        "start": 38.37,
+        "end": 38.57,
+        "probability": 0.8528608679771423
+      },
+      {
+        "text": " school,",
+        "start": 38.57,
+        "end": 38.91,
+        "probability": 0.9595167636871338
+      },
+      {
+        "text": " DM",
+        "start": 39.23,
+        "end": 39.35,
+        "probability": 0.99409419298172
+      },
+      {
+        "text": " school",
+        "start": 39.35,
+        "end": 39.73,
+        "probability": 0.6624425649642944
+      },
+      {
+        "text": " in",
+        "start": 39.73,
+        "end": 39.93,
+        "probability": 0.9751266837120056
+      },
+      {
+        "text": " the",
+        "start": 39.93,
+        "end": 40.09,
+        "probability": 0.9922786951065063
+      },
+      {
+        "text": " comments.",
+        "start": 40.09,
+        "end": 40.45,
+        "probability": 0.9909720420837402
+      }
+    ]
+  },
+  {
+    "start": 41.35,
+    "end": 43.19,
+    "text": " Your one communication bottleneck.",
+    "words": [
+      {
+        "text": " Your",
+        "start": 41.35,
+        "end": 41.57,
+        "probability": 0.9028461575508118
+      },
+      {
+        "text": " one",
+        "start": 41.57,
+        "end": 41.85,
+        "probability": 0.778037965297699
+      },
+      {
+        "text": " communication",
+        "start": 41.85,
+        "end": 42.41,
+        "probability": 0.961617112159729
+      },
+      {
+        "text": " bottleneck.",
+        "start": 42.41,
+        "end": 43.19,
+        "probability": 0.965351402759552
+      }
+    ]
+  },
+  {
+    "start": 43.19,
+    "end": 45.53,
+    "text": " जान कम निवा तो लास लिए लास लिए",
+    "words": [
+      {
+        "text": " जान",
+        "start": 43.19,
+        "end": 43.45,
+        "probability": 0.6126572787761688
+      },
+      {
+        "text": " कम",
+        "start": 43.45,
+        "end": 43.65,
+        "probability": 0.41812558472156525
+      },
+      {
+        "text": " निवा",
+        "start": 43.65,
+        "end": 44.05,
+        "probability": 0.5911567906538645
+      },
+      {
+        "text": " तो",
+        "start": 44.05,
+        "end": 44.71,
+        "probability": 0.37692009409268695
+      },
+      {
+        "text": " लास",
+        "start": 44.71,
+        "end": 45.01,
+        "probability": 0.5421237796545029
+      },
+      {
+        "text": " लिए",
+        "start": 45.01,
+        "end": 45.13,
+        "probability": 0.5138785243034363
+      },
+      {
+        "text": " लास",
+        "start": 45.13,
+        "end": 45.53,
+        "probability": 0.7676356062293053
+      },
+      {
+        "text": " लिए",
+        "start": 45.53,
+        "end": 45.53,
+        "probability": 0.7722734749317169
+      }
+    ]
+  }
+]

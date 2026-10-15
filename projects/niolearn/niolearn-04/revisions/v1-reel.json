@@ -1,0 +1,1276 @@
+{
+  "brand": "niolearn",
+  "captionPreset": "reference",
+  "durationInFrames": 1401,
+  "dialogueAudio": "proxies/niolearn-04-dialogue.wav",
+  "clips": [
+    {
+      "src": "proxies/niolearn-04-aroll.mp4",
+      "from": 0,
+      "duration": 1356,
+      "volume": 0
+    }
+  ],
+  "captions": [
+    {
+      "startMs": 33.333,
+      "endMs": 1100.0,
+      "words": [
+        {
+          "text": "Fee",
+          "startMs": 33.333,
+          "endMs": 200.0,
+          "emphasis": true
+        },
+        {
+          "text": "bharne",
+          "startMs": 200.0,
+          "endMs": 566.667
+        },
+        {
+          "text": "se",
+          "startMs": 566.667,
+          "endMs": 700.0
+        },
+        {
+          "text": "pehle",
+          "startMs": 700.0,
+          "endMs": 1100.0
+        }
+      ],
+      "top": 1240,
+      "fontSize": 84
+    },
+    {
+      "startMs": 1100.0,
+      "endMs": 2333.333,
+      "words": [
+        {
+          "text": "ye",
+          "startMs": 1100.0,
+          "endMs": 1300.0
+        },
+        {
+          "text": "5",
+          "startMs": 1300.0,
+          "endMs": 1500.0
+        },
+        {
+          "text": "sawaal",
+          "startMs": 1500.0,
+          "endMs": 1933.333,
+          "emphasis": true
+        },
+        {
+          "text": "zaroor",
+          "startMs": 1933.333,
+          "endMs": 2333.333
+        }
+      ],
+      "top": 1240,
+      "fontSize": 84
+    },
+    {
+      "startMs": 2333.333,
+      "endMs": 2633.333,
+      "words": [
+        {
+          "text": "poochhiye.",
+          "startMs": 2333.333,
+          "endMs": 2533.333
+        }
+      ],
+      "top": 1240,
+      "fontSize": 84
+    },
+    {
+      "startMs": 2633.333,
+      "endMs": 2966.667,
+      "words": [
+        {
+          "text": "Pehla,",
+          "startMs": 2633.333,
+          "endMs": 2866.667
+        }
+      ],
+      "top": 1240,
+      "fontSize": 84
+    },
+    {
+      "startMs": 2966.667,
+      "endMs": 3566.667,
+      "words": [
+        {
+          "text": "degree",
+          "startMs": 2966.667,
+          "endMs": 3233.333,
+          "emphasis": true
+        },
+        {
+          "text": "kis",
+          "startMs": 3233.333,
+          "endMs": 3566.667
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 3566.667,
+      "endMs": 4733.333,
+      "words": [
+        {
+          "text": "body",
+          "startMs": 3566.667,
+          "endMs": 3966.667
+        },
+        {
+          "text": "ya",
+          "startMs": 3966.667,
+          "endMs": 4233.333
+        },
+        {
+          "text": "phir",
+          "startMs": 4233.333,
+          "endMs": 4400.0
+        },
+        {
+          "text": "college",
+          "startMs": 4400.0,
+          "endMs": 4733.333
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 4733.333,
+      "endMs": 5700.0,
+      "words": [
+        {
+          "text": "ka",
+          "startMs": 4733.333,
+          "endMs": 4966.667
+        },
+        {
+          "text": "hai",
+          "startMs": 4966.667,
+          "endMs": 5066.667
+        },
+        {
+          "text": "aur",
+          "startMs": 5066.667,
+          "endMs": 5400.0
+        },
+        {
+          "text": "uska",
+          "startMs": 5400.0,
+          "endMs": 5700.0
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 5700.0,
+      "endMs": 6733.333,
+      "words": [
+        {
+          "text": "recognition",
+          "startMs": 5700.0,
+          "endMs": 6333.333,
+          "emphasis": true
+        },
+        {
+          "text": "kya",
+          "startMs": 6333.333,
+          "endMs": 6466.667
+        },
+        {
+          "text": "hai?",
+          "startMs": 6466.667,
+          "endMs": 6633.333
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 6800.0,
+      "endMs": 7300.0,
+      "words": [
+        {
+          "text": "Doosra,",
+          "startMs": 6800.0,
+          "endMs": 7200.0
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 7300.0,
+      "endMs": 8433.333,
+      "words": [
+        {
+          "text": "final",
+          "startMs": 7300.0,
+          "endMs": 7700.0
+        },
+        {
+          "text": "mein",
+          "startMs": 7700.0,
+          "endMs": 7866.667
+        },
+        {
+          "text": "mujhe",
+          "startMs": 7866.667,
+          "endMs": 8200.0
+        },
+        {
+          "text": "kya",
+          "startMs": 8200.0,
+          "endMs": 8433.333
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 8433.333,
+      "endMs": 9000.0,
+      "words": [
+        {
+          "text": "milega?",
+          "startMs": 8433.333,
+          "endMs": 8900.0
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 9000.0,
+      "endMs": 9700.0,
+      "words": [
+        {
+          "text": "Degree,",
+          "startMs": 9000.0,
+          "endMs": 9600.0,
+          "emphasis": true
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 9700.0,
+      "endMs": 11000.0,
+      "words": [
+        {
+          "text": "certification",
+          "startMs": 9700.0,
+          "endMs": 10600.0,
+          "emphasis": true
+        },
+        {
+          "text": "ya",
+          "startMs": 10600.0,
+          "endMs": 10833.333
+        },
+        {
+          "text": "phir",
+          "startMs": 10833.333,
+          "endMs": 11000.0
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 11000.0,
+      "endMs": 11866.667,
+      "words": [
+        {
+          "text": "partner",
+          "startMs": 11000.0,
+          "endMs": 11400.0
+        },
+        {
+          "text": "university",
+          "startMs": 11400.0,
+          "endMs": 11766.667
+        },
+        {
+          "text": "ka",
+          "startMs": 11766.667,
+          "endMs": 11866.667
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 11866.667,
+      "endMs": 12466.667,
+      "words": [
+        {
+          "text": "credential?",
+          "startMs": 11866.667,
+          "endMs": 12400.0,
+          "emphasis": true
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 12466.667,
+      "endMs": 13466.667,
+      "words": [
+        {
+          "text": "Ye",
+          "startMs": 12466.667,
+          "endMs": 12733.333
+        },
+        {
+          "text": "written",
+          "startMs": 12733.333,
+          "endMs": 13266.667,
+          "emphasis": true
+        },
+        {
+          "text": "mein",
+          "startMs": 13266.667,
+          "endMs": 13466.667
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 13466.667,
+      "endMs": 14033.333,
+      "words": [
+        {
+          "text": "poochhiyega.",
+          "startMs": 13466.667,
+          "endMs": 13933.333
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 14066.667,
+      "endMs": 14533.333,
+      "words": [
+        {
+          "text": "Teesra,",
+          "startMs": 14066.667,
+          "endMs": 14466.667
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 14533.333,
+      "endMs": 15633.333,
+      "words": [
+        {
+          "text": "Total",
+          "startMs": 14533.333,
+          "endMs": 15033.333,
+          "emphasis": true
+        },
+        {
+          "text": "fees",
+          "startMs": 15033.333,
+          "endMs": 15266.667
+        },
+        {
+          "text": "kya",
+          "startMs": 15266.667,
+          "endMs": 15400.0
+        },
+        {
+          "text": "hai?",
+          "startMs": 15400.0,
+          "endMs": 15533.333
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 15633.333,
+      "endMs": 17166.667,
+      "words": [
+        {
+          "text": "Hidden",
+          "startMs": 15633.333,
+          "endMs": 16133.333
+        },
+        {
+          "text": "deposits",
+          "startMs": 16133.333,
+          "endMs": 17000.0,
+          "emphasis": true
+        },
+        {
+          "text": "aur",
+          "startMs": 17000.0,
+          "endMs": 17166.667
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 17166.667,
+      "endMs": 18400.0,
+      "words": [
+        {
+          "text": "security",
+          "startMs": 17166.667,
+          "endMs": 17633.333
+        },
+        {
+          "text": "deposits",
+          "startMs": 17633.333,
+          "endMs": 18300.0,
+          "emphasis": true
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 18400.0,
+      "endMs": 19233.333,
+      "words": [
+        {
+          "text": "aur",
+          "startMs": 18400.0,
+          "endMs": 18566.667
+        },
+        {
+          "text": "jo",
+          "startMs": 18566.667,
+          "endMs": 18733.333
+        },
+        {
+          "text": "bhi",
+          "startMs": 18733.333,
+          "endMs": 18933.333
+        },
+        {
+          "text": "cheezein",
+          "startMs": 18933.333,
+          "endMs": 19233.333
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 19233.333,
+      "endMs": 20133.333,
+      "words": [
+        {
+          "text": "hain",
+          "startMs": 19233.333,
+          "endMs": 19466.667
+        },
+        {
+          "text": "unka",
+          "startMs": 19466.667,
+          "endMs": 19800.0
+        },
+        {
+          "text": "proper",
+          "startMs": 19800.0,
+          "endMs": 20133.333
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 20133.333,
+      "endMs": 21100.0,
+      "words": [
+        {
+          "text": "breakdown",
+          "startMs": 20133.333,
+          "endMs": 20533.333,
+          "emphasis": true
+        },
+        {
+          "text": "aapke",
+          "startMs": 20533.333,
+          "endMs": 20866.667
+        },
+        {
+          "text": "paas",
+          "startMs": 20866.667,
+          "endMs": 21100.0
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 21100.0,
+      "endMs": 21766.667,
+      "words": [
+        {
+          "text": "hona",
+          "startMs": 21100.0,
+          "endMs": 21566.667
+        },
+        {
+          "text": "chahiye.",
+          "startMs": 21566.667,
+          "endMs": 21700.0
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 21766.667,
+      "endMs": 22266.667,
+      "words": [
+        {
+          "text": "Chautha,",
+          "startMs": 21766.667,
+          "endMs": 22166.667
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 22266.667,
+      "endMs": 23400.0,
+      "words": [
+        {
+          "text": "outcome",
+          "startMs": 22266.667,
+          "endMs": 22700.0
+        },
+        {
+          "text": "kaise",
+          "startMs": 22700.0,
+          "endMs": 23066.667
+        },
+        {
+          "text": "calculate",
+          "startMs": 23066.667,
+          "endMs": 23400.0
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 23400.0,
+      "endMs": 23866.667,
+      "words": [
+        {
+          "text": "hota",
+          "startMs": 23400.0,
+          "endMs": 23666.667
+        },
+        {
+          "text": "hai?",
+          "startMs": 23666.667,
+          "endMs": 23800.0
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 23866.667,
+      "endMs": 25133.333,
+      "words": [
+        {
+          "text": "Kis",
+          "startMs": 23866.667,
+          "endMs": 24433.333
+        },
+        {
+          "text": "batch",
+          "startMs": 24433.333,
+          "endMs": 24633.333,
+          "emphasis": true
+        },
+        {
+          "text": "ki,",
+          "startMs": 24633.333,
+          "endMs": 25033.333
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 25133.333,
+      "endMs": 26366.667,
+      "words": [
+        {
+          "text": "kya",
+          "startMs": 25133.333,
+          "endMs": 25333.333
+        },
+        {
+          "text": "strength",
+          "startMs": 25333.333,
+          "endMs": 25733.333,
+          "emphasis": true
+        },
+        {
+          "text": "hai",
+          "startMs": 25733.333,
+          "endMs": 25900.0
+        },
+        {
+          "text": "aur",
+          "startMs": 26100.0,
+          "endMs": 26366.667
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 26366.667,
+      "endMs": 27300.0,
+      "words": [
+        {
+          "text": "kya",
+          "startMs": 26366.667,
+          "endMs": 26566.667
+        },
+        {
+          "text": "roles",
+          "startMs": 26566.667,
+          "endMs": 26900.0,
+          "emphasis": true
+        },
+        {
+          "text": "ke",
+          "startMs": 26900.0,
+          "endMs": 26966.667
+        },
+        {
+          "text": "basis",
+          "startMs": 26966.667,
+          "endMs": 27300.0
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 27300.0,
+      "endMs": 28033.333,
+      "words": [
+        {
+          "text": "pe",
+          "startMs": 27300.0,
+          "endMs": 27333.333
+        },
+        {
+          "text": "outcomes",
+          "startMs": 27333.333,
+          "endMs": 27900.0,
+          "emphasis": true
+        },
+        {
+          "text": "hain?",
+          "startMs": 27900.0,
+          "endMs": 27966.667
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 28033.333,
+      "endMs": 29200.0,
+      "words": [
+        {
+          "text": "Ye",
+          "startMs": 28033.333,
+          "endMs": 28133.333
+        },
+        {
+          "text": "jaanna",
+          "startMs": 28133.333,
+          "endMs": 28600.0
+        },
+        {
+          "text": "kaafi",
+          "startMs": 28600.0,
+          "endMs": 28866.667
+        },
+        {
+          "text": "zaroori",
+          "startMs": 28866.667,
+          "endMs": 29200.0
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 29200.0,
+      "endMs": 29500.0,
+      "words": [
+        {
+          "text": "hota",
+          "startMs": 29200.0,
+          "endMs": 29300.0
+        },
+        {
+          "text": "hai.",
+          "startMs": 29300.0,
+          "endMs": 29433.333
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 29500.0,
+      "endMs": 30000.0,
+      "words": [
+        {
+          "text": "Paanchva,",
+          "startMs": 29500.0,
+          "endMs": 29900.0
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 30033.333,
+      "endMs": 31600.0,
+      "words": [
+        {
+          "text": "kya",
+          "startMs": 30033.333,
+          "endMs": 30566.667
+        },
+        {
+          "text": "aap",
+          "startMs": 30566.667,
+          "endMs": 30833.333
+        },
+        {
+          "text": "kisi",
+          "startMs": 30833.333,
+          "endMs": 31600.0
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 31600.0,
+      "endMs": 32933.333,
+      "words": [
+        {
+          "text": "alumni",
+          "startMs": 31600.0,
+          "endMs": 32233.333,
+          "emphasis": true
+        },
+        {
+          "text": "ya",
+          "startMs": 32233.333,
+          "endMs": 32433.333
+        },
+        {
+          "text": "phir",
+          "startMs": 32433.333,
+          "endMs": 32633.333
+        },
+        {
+          "text": "current",
+          "startMs": 32633.333,
+          "endMs": 32933.333
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 32933.333,
+      "endMs": 33900.0,
+      "words": [
+        {
+          "text": "student",
+          "startMs": 32933.333,
+          "endMs": 33266.667
+        },
+        {
+          "text": "se",
+          "startMs": 33266.667,
+          "endMs": 33433.333
+        },
+        {
+          "text": "connect",
+          "startMs": 33433.333,
+          "endMs": 33666.667,
+          "emphasis": true
+        },
+        {
+          "text": "kar",
+          "startMs": 33666.667,
+          "endMs": 33900.0
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 33900.0,
+      "endMs": 34300.0,
+      "words": [
+        {
+          "text": "sakte",
+          "startMs": 33900.0,
+          "endMs": 34200.0
+        },
+        {
+          "text": "hain?",
+          "startMs": 34200.0,
+          "endMs": 34300.0
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 34300.0,
+      "endMs": 35733.333,
+      "words": [
+        {
+          "text": "Agar",
+          "startMs": 34300.0,
+          "endMs": 34666.667
+        },
+        {
+          "text": "koi",
+          "startMs": 34666.667,
+          "endMs": 34933.333
+        },
+        {
+          "text": "college",
+          "startMs": 34933.333,
+          "endMs": 35266.667
+        },
+        {
+          "text": "aapko",
+          "startMs": 35266.667,
+          "endMs": 35733.333
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 35733.333,
+      "endMs": 36700.0,
+      "words": [
+        {
+          "text": "saamne",
+          "startMs": 35733.333,
+          "endMs": 36233.333
+        },
+        {
+          "text": "se",
+          "startMs": 36233.333,
+          "endMs": 36300.0
+        },
+        {
+          "text": "hi",
+          "startMs": 36300.0,
+          "endMs": 36400.0
+        },
+        {
+          "text": "connect",
+          "startMs": 36400.0,
+          "endMs": 36700.0,
+          "emphasis": true
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 36700.0,
+      "endMs": 37600.0,
+      "words": [
+        {
+          "text": "karne",
+          "startMs": 36700.0,
+          "endMs": 37000.0
+        },
+        {
+          "text": "ko",
+          "startMs": 37000.0,
+          "endMs": 37100.0
+        },
+        {
+          "text": "bol",
+          "startMs": 37100.0,
+          "endMs": 37333.333
+        },
+        {
+          "text": "raha",
+          "startMs": 37333.333,
+          "endMs": 37600.0
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 37600.0,
+      "endMs": 37733.333,
+      "words": [
+        {
+          "text": "hai,",
+          "startMs": 37600.0,
+          "endMs": 37666.667
+        }
+      ],
+      "top": 1340,
+      "fontSize": 77
+    },
+    {
+      "startMs": 37733.333,
+      "endMs": 38533.333,
+      "words": [
+        {
+          "text": "to",
+          "startMs": 37733.333,
+          "endMs": 37833.333
+        },
+        {
+          "text": "woh",
+          "startMs": 37833.333,
+          "endMs": 38000.0
+        },
+        {
+          "text": "ek",
+          "startMs": 38000.0,
+          "endMs": 38200.0
+        },
+        {
+          "text": "achhi",
+          "startMs": 38200.0,
+          "endMs": 38533.333
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 38533.333,
+      "endMs": 39300.0,
+      "words": [
+        {
+          "text": "nishani",
+          "startMs": 38533.333,
+          "endMs": 39066.667
+        },
+        {
+          "text": "hai.",
+          "startMs": 39066.667,
+          "endMs": 39266.667
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 39300.0,
+      "endMs": 40133.333,
+      "words": [
+        {
+          "text": "Ye",
+          "startMs": 39300.0,
+          "endMs": 39433.333
+        },
+        {
+          "text": "reel",
+          "startMs": 39433.333,
+          "endMs": 39633.333
+        },
+        {
+          "text": "ko",
+          "startMs": 39633.333,
+          "endMs": 39833.333
+        },
+        {
+          "text": "save",
+          "startMs": 39833.333,
+          "endMs": 40133.333,
+          "emphasis": true
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 40133.333,
+      "endMs": 40666.667,
+      "words": [
+        {
+          "text": "kar",
+          "startMs": 40133.333,
+          "endMs": 40366.667
+        },
+        {
+          "text": "lo.",
+          "startMs": 40366.667,
+          "endMs": 40600.0
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 40666.667,
+      "endMs": 41500.0,
+      "words": [
+        {
+          "text": "Brochure",
+          "startMs": 40666.667,
+          "endMs": 41000.0
+        },
+        {
+          "text": "ke",
+          "startMs": 41000.0,
+          "endMs": 41100.0
+        },
+        {
+          "text": "pehle",
+          "startMs": 41100.0,
+          "endMs": 41333.333
+        },
+        {
+          "text": "ye",
+          "startMs": 41333.333,
+          "endMs": 41500.0
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 41500.0,
+      "endMs": 42333.333,
+      "words": [
+        {
+          "text": "5",
+          "startMs": 41500.0,
+          "endMs": 41733.333
+        },
+        {
+          "text": "sawaal",
+          "startMs": 41733.333,
+          "endMs": 42000.0,
+          "emphasis": true
+        },
+        {
+          "text": "zaroor",
+          "startMs": 42000.0,
+          "endMs": 42333.333
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 42333.333,
+      "endMs": 42900.0,
+      "words": [
+        {
+          "text": "poochhna,",
+          "startMs": 42333.333,
+          "endMs": 42833.333
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 42900.0,
+      "endMs": 44000.0,
+      "words": [
+        {
+          "text": "aur",
+          "startMs": 42900.0,
+          "endMs": 43000.0
+        },
+        {
+          "text": "poora",
+          "startMs": 43000.0,
+          "endMs": 43366.667
+        },
+        {
+          "text": "parent",
+          "startMs": 43366.667,
+          "endMs": 43533.333
+        },
+        {
+          "text": "checklist",
+          "startMs": 43533.333,
+          "endMs": 44000.0,
+          "emphasis": true
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    },
+    {
+      "startMs": 44000.0,
+      "endMs": 45233.333,
+      "words": [
+        {
+          "text": "niolearn.com",
+          "startMs": 44000.0,
+          "endMs": 45000.0,
+          "emphasis": true
+        },
+        {
+          "text": "pe.",
+          "startMs": 45000.0,
+          "endMs": 45133.333
+        }
+      ],
+      "top": 1240,
+      "fontSize": 75
+    }
+  ],
+  "broll": [
+    {
+      "kind": "nio-parents-authority",
+      "from": 106,
+      "duration": 95,
+      "fadeFrames": 8
+    },
+    {
+      "kind": "nio-parents-credential-fees",
+      "from": 270,
+      "duration": 280,
+      "beats": [
+        151
+      ],
+      "fadeFrames": 8
+    },
+    {
+      "kind": "nio-parents-outcomes",
+      "from": 716,
+      "duration": 123,
+      "fadeFrames": 8
+    },
+    {
+      "kind": "nio-parents-conversation",
+      "from": 948,
+      "duration": 182,
+      "fadeFrames": 8
+    }
+  ],
+  "endCard": true,
+  "endCardFrom": 1356,
+  "bottomShade": true,
+  "cutBlends": [
+    {
+      "from": 78,
+      "duration": 3,
+      "src": "proxies/niolearn-04-holds/cut-78.jpg"
+    },
+    {
+      "from": 87,
+      "duration": 3,
+      "src": "proxies/niolearn-04-holds/cut-87.jpg"
+    },
+    {
+      "from": 218,
+      "duration": 3,
+      "src": "proxies/niolearn-04-holds/cut-218.jpg"
+    },
+    {
+      "from": 652,
+      "duration": 3,
+      "src": "proxies/niolearn-04-holds/cut-652.jpg"
+    },
+    {
+      "from": 666,
+      "duration": 3,
+      "src": "proxies/niolearn-04-holds/cut-666.jpg"
+    },
+    {
+      "from": 884,
+      "duration": 3,
+      "src": "proxies/niolearn-04-holds/cut-884.jpg"
+    },
+    {
+      "from": 899,
+      "duration": 3,
+      "src": "proxies/niolearn-04-holds/cut-899.jpg"
+    },
+    {
+      "from": 1178,
+      "duration": 3,
+      "src": "proxies/niolearn-04-holds/cut-1178.jpg"
+    },
+    {
+      "from": 1219,
+      "duration": 3,
+      "src": "proxies/niolearn-04-holds/cut-1219.jpg"
+    },
+    {
+      "from": 1285,
+      "duration": 3,
+      "src": "proxies/niolearn-04-holds/cut-1285.jpg"
+    }
+  ],
+  "endHoldImage": "proxies/niolearn-04-holds/end.jpg",
+  "endCardFadeFrames": 10,
+  "smoothMusic": true,
+  "music": "assets/music/niolearn-04-bed.wav",
+  "musicVolume": 0.75,
+  "sfx": [
+    {
+      "src": "assets/sfx/transition-air.wav",
+      "from": 106,
+      "volume": 0.08
+    },
+    {
+      "src": "assets/sfx/transition-air.wav",
+      "from": 270,
+      "volume": 0.08
+    },
+    {
+      "src": "assets/sfx/transition-air.wav",
+      "from": 716,
+      "volume": 0.08
+    },
+    {
+      "src": "assets/sfx/transition-air.wav",
+      "from": 948,
+      "volume": 0.08
+    }
+  ]
+}

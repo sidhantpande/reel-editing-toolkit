@@ -1,0 +1,460 @@
+{
+  "video": "/Users/sidhant/Desktop/NioLearn-Reels/deliverables/niolearn/NIOLEARN_09_School_Comparison_v1.mp4",
+  "probe": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "mime_codec_string": "avc1.640028",
+        "width": 1080,
+        "height": 1920,
+        "coded_width": 1080,
+        "coded_height": 1920,
+        "has_b_frames": 2,
+        "pix_fmt": "yuv420p",
+        "level": 40,
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "time_base": "1/90000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 4269000,
+        "duration": "47.433333",
+        "bit_rate": "3966097",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "1423",
+        "extradata_size": 47,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "encoder": "Lavc61.19.100 libx264"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "mime_codec_string": "mp4a.40.2",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "initial_padding": 1024,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 2277360,
+        "duration": "47.445000",
+        "bit_rate": "190788",
+        "nb_frames": "2225",
+        "extradata_size": 5,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler"
+        }
+      }
+    ],
+    "format": {
+      "filename": "deliverables/niolearn/NIOLEARN_09_School_Comparison_v1.mp4",
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "47.445000",
+      "size": "24701026",
+      "bit_rate": "4164995",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf63.1.102",
+        "comment": "Made with Remotion 4.0.535"
+      }
+    }
+  },
+  "captions": [
+    {
+      "page": 0,
+      "sampleFrame": 35,
+      "expected": "Brochures sab ek",
+      "ocr": "_ Brochures sab ek\nr aon \u201cNEW. CIRCUT?\nfy yA",
+      "similarity": 0.622,
+      "review": true
+    },
+    {
+      "page": 1,
+      "sampleFrame": 60,
+      "expected": "jaise lagte hain.",
+      "ocr": "_ _ jaiselagte hain.\n: pata : : w.CIRCUTI",
+      "similarity": 0.7,
+      "review": false
+    },
+    {
+      "page": 2,
+      "sampleFrame": 95,
+      "expected": "Compare karna hai toh",
+      "ocr": "",
+      "similarity": 0.0,
+      "review": true
+    },
+    {
+      "page": 3,
+      "sampleFrame": 130,
+      "expected": "in 6 cheezon ke",
+      "ocr": "in 6 \u00a2heezon ke",
+      "similarity": 0.957,
+      "review": false
+    },
+    {
+      "page": 4,
+      "sampleFrame": 153,
+      "expected": "basis pe kar lo.",
+      "ocr": "basis pe kar lo.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 5,
+      "sampleFrame": 220,
+      "expected": "Pehla, degree aur recognition.",
+      "ocr": "Pehla, degree aur\nrecognition.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 6,
+      "sampleFrame": 271,
+      "expected": "Doosra, total fees",
+      "ocr": "Doosra, total fees",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 7,
+      "sampleFrame": 294,
+      "expected": "kitni lagegi.",
+      "ocr": "kitni lagegi.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 8,
+      "sampleFrame": 356,
+      "expected": "Teesra, selection process",
+      "ocr": "Teesra, selection\nprocess",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 9,
+      "sampleFrame": 392,
+      "expected": "kya hai us college ka.",
+      "ocr": "kya hai us college ka.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 10,
+      "sampleFrame": 453,
+      "expected": "Chautha, curriculum kya hai",
+      "ocr": "Chautha, curriculum\nkya hai",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 11,
+      "sampleFrame": 482,
+      "expected": "aur kya provide",
+      "ocr": "aur kya provide",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 12,
+      "sampleFrame": 503,
+      "expected": "kar paayega.",
+      "ocr": "kar paayega.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 13,
+      "sampleFrame": 561,
+      "expected": "Paanchva, mentors kaise hain",
+      "ocr": "Paanchva, mentors\nkaise hain",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 14,
+      "sampleFrame": 597,
+      "expected": "aur industry exposure",
+      "ocr": "aur industry exposure",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 15,
+      "sampleFrame": 628,
+      "expected": "kya hai us college ka.",
+      "ocr": "kya hai us college ka.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 16,
+      "sampleFrame": 681,
+      "expected": "Aur chhatha, outcomes ki",
+      "ocr": "Aur chhatha, outcomes\nki",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 17,
+      "sampleFrame": 716,
+      "expected": "transparency kitni hai.",
+      "ocr": "transparency kitni hai.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 18,
+      "sampleFrame": 750,
+      "expected": "In 6 cheezon ke",
+      "ocr": "In 6 cheezon ke",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 19,
+      "sampleFrame": 778,
+      "expected": "basis pe tum college",
+      "ocr": "basis pe tum college",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 20,
+      "sampleFrame": 810,
+      "expected": "ko categorize karo",
+      "ocr": "ko categorize karo",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 21,
+      "sampleFrame": 843,
+      "expected": "aur score karo",
+      "ocr": "aur score karo",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 22,
+      "sampleFrame": 866,
+      "expected": "on the scale of",
+      "ocr": "on the scale of",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 23,
+      "sampleFrame": 885,
+      "expected": "1 to 5",
+      "ocr": "1to5",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 24,
+      "sampleFrame": 910,
+      "expected": "aur phir total",
+      "ocr": "aur phir total",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 25,
+      "sampleFrame": 937,
+      "expected": "karne ke baad hi",
+      "ocr": "karne ke baad hj",
+      "similarity": 0.923,
+      "review": false
+    },
+    {
+      "page": 26,
+      "sampleFrame": 960,
+      "expected": "decision lo",
+      "ocr": "decision lo",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 27,
+      "sampleFrame": 994,
+      "expected": "hype pe mat jaao.",
+      "ocr": "hype pe matjaao.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 28,
+      "sampleFrame": 1025,
+      "expected": "Aur yaad rakhna,",
+      "ocr": "Aur yaad rakhna;",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 29,
+      "sampleFrame": 1065,
+      "expected": "jo college sawaalon ka",
+      "ocr": "\u2018 <7 . \u2019 ==\no collegeisawaalon",
+      "similarity": 0.865,
+      "review": false
+    },
+    {
+      "page": 30,
+      "sampleFrame": 1094,
+      "expected": "seedha jawaab de,",
+      "ocr": "4 seedha jawaab de,",
+      "similarity": 0.966,
+      "review": false
+    },
+    {
+      "page": 31,
+      "sampleFrame": 1125,
+      "expected": "wahi trust ke",
+      "ocr": "\\e re a i : WD\ny ~ wahit : | \u2014",
+      "similarity": 0.417,
+      "review": true
+    },
+    {
+      "page": 32,
+      "sampleFrame": 1145,
+      "expected": "laayak hota hai.",
+      "ocr": "7 laayak hota hai. i.",
+      "similarity": 0.929,
+      "review": false
+    },
+    {
+      "page": 33,
+      "sampleFrame": 1191,
+      "expected": "Agar aapko college ki",
+      "ocr": "\" oo yee, iy\nAgar \u2014 Ki\u2019\ny 4 Ce \u00aeNEW.CIKCUTT",
+      "similarity": 0.267,
+      "review": true
+    },
+    {
+      "page": 34,
+      "sampleFrame": 1230,
+      "expected": "comparison sheet chahiye,",
+      "ocr": "| comparison sheet\nchahiye;",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 35,
+      "sampleFrame": 1254,
+      "expected": "toh comments mein",
+      "ocr": "toh comments mein",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 36,
+      "sampleFrame": 1280,
+      "expected": "SHEET likho.",
+      "ocr": "Ot SN rw CIRCUT",
+      "similarity": 0.182,
+      "review": true
+    },
+    {
+      "page": 37,
+      "sampleFrame": 1316,
+      "expected": "Baaki aise aur tips",
+      "ocr": "= /-> _. i\nBaaki aise aur tips\ni. ta\n=\n.",
+      "similarity": 0.889,
+      "review": false
+    },
+    {
+      "page": 38,
+      "sampleFrame": 1348,
+      "expected": "ke liye go on",
+      "ocr": "~ ke liye goon: |",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 39,
+      "sampleFrame": 1375,
+      "expected": "niolearn.com",
+      "ocr": "> _ vs 2 \u201c= B=\nee",
+      "similarity": 0.118,
+      "review": true
+    }
+  ]
+}

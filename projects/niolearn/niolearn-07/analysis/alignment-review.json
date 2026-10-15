@@ -1,0 +1,29 @@
+{
+  "sourceASR": [
+    "IMG_5947-medium-hi.json",
+    "IMG_5947-small-hi.json"
+  ],
+  "captionSource": "../source-words.json",
+  "sourceWordCount": 110,
+  "timingReview": "Source timestamps compared between models and corrected using waveform pause boundaries. Quantized through exact 30fps cut list.",
+  "correctedTerms": [
+    "Aptitude courses",
+    "NioLearn",
+    "diagnostic",
+    "point of improvement",
+    "Focus preparation",
+    "Mocks",
+    "reviews",
+    "analysis",
+    "consume",
+    "Interview preparation",
+    "Clarity",
+    "preparedness",
+    "guidance",
+    "niolearn.com"
+  ],
+  "dialogueCrosscheck": "edited-dialogue-medium-check.json confirms hook, all four steps, summary and CTA remain in order.",
+  "smallEditedModelLimitation": "edited-dialogue-check.json becomes unreliable after 10 seconds; retained for provenance, not used to certify completeness. Medium model check replaces it.",
+  "noScriptTimingAssumption": true,
+  "speakerAudio": "Original recording, no synthetic replacement or time stretch."
+}

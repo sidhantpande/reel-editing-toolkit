@@ -1,0 +1,218 @@
+{
+  "id": "niolearn-recorded-brand-intro",
+  "fps": 30,
+  "dialogueFrames": 1614,
+  "endHoldFrames": 45,
+  "totalFrames": 1659,
+  "cuts": [
+    {
+      "source": "media/raw/niolearn/niolearn-recorded-brand-intro/IMG_5974.mov",
+      "inFrame": 41,
+      "outFrame": 122,
+      "timelineFrom": 0,
+      "duration": 81,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "JEE opening"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-recorded-brand-intro/IMG_5974.mov",
+      "inFrame": 151,
+      "outFrame": 310,
+      "timelineFrom": 81,
+      "duration": 159,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "New-generation colleges"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-recorded-brand-intro/IMG_5974.mov",
+      "inFrame": 325,
+      "outFrame": 453,
+      "timelineFrom": 240,
+      "duration": 128,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Different examinations"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-recorded-brand-intro/IMG_5974.mov",
+      "inFrame": 475,
+      "outFrame": 664,
+      "timelineFrom": 368,
+      "duration": 189,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Different skills and interviews"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-recorded-brand-intro/IMG_5974.mov",
+      "inFrame": 673,
+      "outFrame": 765,
+      "timelineFrom": 557,
+      "duration": 92,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Confusion"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-recorded-brand-intro/IMG_5976.mov",
+      "inFrame": 22,
+      "outFrame": 112,
+      "timelineFrom": 649,
+      "duration": 90,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Why NioLearn"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-recorded-brand-intro/IMG_5976.mov",
+      "inFrame": 123,
+      "outFrame": 272,
+      "timelineFrom": 739,
+      "duration": 149,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Discover understand prepare"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-recorded-brand-intro/IMG_5978.mov",
+      "inFrame": 24,
+      "outFrame": 119,
+      "timelineFrom": 888,
+      "duration": 95,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Platform"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-recorded-brand-intro/IMG_5978.mov",
+      "inFrame": 132,
+      "outFrame": 161,
+      "timelineFrom": 983,
+      "duration": 29,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Offers"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-recorded-brand-intro/IMG_5978.mov",
+      "inFrame": 176,
+      "outFrame": 222,
+      "timelineFrom": 1012,
+      "duration": 46,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Structured live classes"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-recorded-brand-intro/IMG_5978.mov",
+      "inFrame": 234,
+      "outFrame": 256,
+      "timelineFrom": 1058,
+      "duration": 22,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Mocks"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-recorded-brand-intro/IMG_5978.mov",
+      "inFrame": 276,
+      "outFrame": 302,
+      "timelineFrom": 1080,
+      "duration": 26,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Interviews"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-recorded-brand-intro/IMG_5978.mov",
+      "inFrame": 310,
+      "outFrame": 348,
+      "timelineFrom": 1106,
+      "duration": 38,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Personalized feedback"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-recorded-brand-intro/IMG_5978.mov",
+      "inFrame": 360,
+      "outFrame": 390,
+      "timelineFrom": 1144,
+      "duration": 30,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Mentorship"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-recorded-brand-intro/IMG_5978.mov",
+      "inFrame": 403,
+      "outFrame": 439,
+      "timelineFrom": 1174,
+      "duration": 36,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "All in one place"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-recorded-brand-intro/IMG_5978.mov",
+      "inFrame": 453,
+      "outFrame": 525,
+      "timelineFrom": 1210,
+      "duration": 72,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Vision"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-recorded-brand-intro/IMG_5978.mov",
+      "inFrame": 535,
+      "outFrame": 709,
+      "timelineFrom": 1282,
+      "duration": 174,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Informed choices"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-recorded-brand-intro/IMG_5978.mov",
+      "inFrame": 718,
+      "outFrame": 813,
+      "timelineFrom": 1456,
+      "duration": 95,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "One exam future"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-recorded-brand-intro/IMG_5978.mov",
+      "inFrame": 832,
+      "outFrame": 895,
+      "timelineFrom": 1551,
+      "duration": 63,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Spoken tagline"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "from": 762,
+  "duration": 185,
+  "kind": "atfro-process",
+  "beats": [
+    0,
+    40,
+    112
+  ],
+  "fadeFrames": 5,
+  "transparent": true
+}

@@ -1,0 +1,300 @@
+{
+  "source": "IMG_5999.wav",
+  "language": "en",
+  "status": "ASR_DRAFT_FOR_MATCHING_NOT_FINAL_CAPTIONS",
+  "segments": [
+    {
+      "start": 0.780000000000002,
+      "end": 5.6,
+      "text": " 3 months of silence from atro, you deserve to know that what we have been doing.",
+      "words": [
+        {
+          "start": 0.780000000000002,
+          "end": 1.38,
+          "text": " 3",
+          "probability": 0.20950159430503845
+        },
+        {
+          "start": 1.38,
+          "end": 1.58,
+          "text": " months",
+          "probability": 0.9639443159103394
+        },
+        {
+          "start": 1.58,
+          "end": 1.8,
+          "text": " of",
+          "probability": 0.9864296913146973
+        },
+        {
+          "start": 1.8,
+          "end": 2.08,
+          "text": " silence",
+          "probability": 0.9953215718269348
+        },
+        {
+          "start": 2.08,
+          "end": 2.4,
+          "text": " from",
+          "probability": 0.96401447057724
+        },
+        {
+          "start": 2.4,
+          "end": 2.78,
+          "text": " atro,",
+          "probability": 0.5216538906097412
+        },
+        {
+          "start": 3.54,
+          "end": 3.62,
+          "text": " you",
+          "probability": 0.7284861207008362
+        },
+        {
+          "start": 3.62,
+          "end": 3.92,
+          "text": " deserve",
+          "probability": 0.9881762266159058
+        },
+        {
+          "start": 3.92,
+          "end": 4.14,
+          "text": " to",
+          "probability": 0.9961687922477722
+        },
+        {
+          "start": 4.14,
+          "end": 4.34,
+          "text": " know",
+          "probability": 0.9975627660751343
+        },
+        {
+          "start": 4.34,
+          "end": 4.62,
+          "text": " that",
+          "probability": 0.8565554618835449
+        },
+        {
+          "start": 4.62,
+          "end": 4.82,
+          "text": " what",
+          "probability": 0.934005618095398
+        },
+        {
+          "start": 4.82,
+          "end": 5.02,
+          "text": " we",
+          "probability": 0.9874695539474487
+        },
+        {
+          "start": 5.02,
+          "end": 5.18,
+          "text": " have",
+          "probability": 0.9862274527549744
+        },
+        {
+          "start": 5.18,
+          "end": 5.38,
+          "text": " been",
+          "probability": 0.9978349804878235
+        },
+        {
+          "start": 5.38,
+          "end": 5.6,
+          "text": " doing.",
+          "probability": 0.9977980852127075
+        }
+      ]
+    },
+    {
+      "start": 6.32,
+      "end": 10.58,
+      "text": " We have been dealing with client work without showing the process and this is a mistake.",
+      "words": [
+        {
+          "start": 6.32,
+          "end": 6.52,
+          "text": " We",
+          "probability": 0.9852449297904968
+        },
+        {
+          "start": 6.52,
+          "end": 6.64,
+          "text": " have",
+          "probability": 0.9881699085235596
+        },
+        {
+          "start": 6.64,
+          "end": 6.76,
+          "text": " been",
+          "probability": 0.9942865967750549
+        },
+        {
+          "start": 6.76,
+          "end": 6.96,
+          "text": " dealing",
+          "probability": 0.991510272026062
+        },
+        {
+          "start": 6.96,
+          "end": 7.18,
+          "text": " with",
+          "probability": 0.9989664554595947
+        },
+        {
+          "start": 7.18,
+          "end": 7.5,
+          "text": " client",
+          "probability": 0.9708511233329773
+        },
+        {
+          "start": 7.5,
+          "end": 7.9,
+          "text": " work",
+          "probability": 0.9844970703125
+        },
+        {
+          "start": 7.9,
+          "end": 8.36,
+          "text": " without",
+          "probability": 0.9489298462867737
+        },
+        {
+          "start": 8.36,
+          "end": 8.72,
+          "text": " showing",
+          "probability": 0.9936360120773315
+        },
+        {
+          "start": 8.72,
+          "end": 8.92,
+          "text": " the",
+          "probability": 0.989867091178894
+        },
+        {
+          "start": 8.92,
+          "end": 9.28,
+          "text": " process",
+          "probability": 0.9966097474098206
+        },
+        {
+          "start": 9.28,
+          "end": 9.74,
+          "text": " and",
+          "probability": 0.6003445386886597
+        },
+        {
+          "start": 9.74,
+          "end": 9.88,
+          "text": " this",
+          "probability": 0.9886149168014526
+        },
+        {
+          "start": 9.88,
+          "end": 10.0,
+          "text": " is",
+          "probability": 0.9874838590621948
+        },
+        {
+          "start": 10.0,
+          "end": 10.12,
+          "text": " a",
+          "probability": 0.9682415723800659
+        },
+        {
+          "start": 10.12,
+          "end": 10.58,
+          "text": " mistake.",
+          "probability": 0.9967650175094604
+        }
+      ]
+    },
+    {
+      "start": 11.32,
+      "end": 13.82,
+      "text": " We are not dressing it up as a skill.",
+      "words": [
+        {
+          "start": 11.32,
+          "end": 11.62,
+          "text": " We",
+          "probability": 0.9576595425605774
+        },
+        {
+          "start": 11.62,
+          "end": 11.68,
+          "text": " are",
+          "probability": 0.981107771396637
+        },
+        {
+          "start": 11.68,
+          "end": 11.88,
+          "text": " not",
+          "probability": 0.9969334602355957
+        },
+        {
+          "start": 11.88,
+          "end": 12.2,
+          "text": " dressing",
+          "probability": 0.19665996730327606
+        },
+        {
+          "start": 12.2,
+          "end": 12.62,
+          "text": " it",
+          "probability": 0.9741595983505249
+        },
+        {
+          "start": 12.62,
+          "end": 12.94,
+          "text": " up",
+          "probability": 0.9617328643798828
+        },
+        {
+          "start": 12.94,
+          "end": 13.34,
+          "text": " as",
+          "probability": 0.9923521876335144
+        },
+        {
+          "start": 13.34,
+          "end": 13.5,
+          "text": " a",
+          "probability": 0.9728612303733826
+        },
+        {
+          "start": 13.5,
+          "end": 13.82,
+          "text": " skill.",
+          "probability": 0.9749858975410461
+        }
+      ]
+    },
+    {
+      "start": 14.48,
+      "end": 14.84,
+      "text": " Skill?",
+      "words": [
+        {
+          "start": 14.48,
+          "end": 14.84,
+          "text": " Skill?",
+          "probability": 0.8763752579689026
+        }
+      ]
+    },
+    {
+      "start": 15.500000000000004,
+      "end": 16.1,
+      "text": " Skill.",
+      "words": [
+        {
+          "start": 15.500000000000004,
+          "end": 16.1,
+          "text": " Skill.",
+          "probability": 0.6905989050865173
+        }
+      ]
+    }
+  ]
+}

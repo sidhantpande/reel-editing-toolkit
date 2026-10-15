@@ -1,0 +1,18 @@
+{
+  "project": "niolearn-recorded-early-access",
+  "reuse": "Original study/project/system Canvas scenes and paper cutouts with provenance retained in their source projects.",
+  "newSource": "src/projects/ComparisonBroll.tsx",
+  "newMotion": [
+    "nio-brand-services",
+    "nio-access-calendar"
+  ],
+  "creation": "Original deterministic Canvas/Remotion motion, no downloaded stock or external music.",
+  "referenceStudy": "docs/REFERENCE_ANALYSIS.md#motion-re-study--batch-revision",
+  "music": "Original project calm-focus synthesized bed",
+  "contentReview": "Retain recorded October 22 waitlist offer for user review; recording does not say a deadline year. Do not add a year, a live-countdown, an offer price or claim the waitlist is currently verified.",
+  "serviceSceneMapping": [
+    "nio-system-prep",
+    "nio-parents-conversation",
+    "nio-system-interview"
+  ]
+}

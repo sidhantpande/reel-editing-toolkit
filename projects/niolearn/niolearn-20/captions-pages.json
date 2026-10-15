@@ -1,0 +1,1052 @@
+[
+  {
+    "startMs": 66.667,
+    "endMs": 1266.667,
+    "words": [
+      {
+        "text": "Brochures",
+        "startMs": 66.667,
+        "endMs": 733.333,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "sab",
+        "startMs": 733.333,
+        "endMs": 966.667
+      },
+      {
+        "text": "ek",
+        "startMs": 966.667,
+        "endMs": 1266.667
+      }
+    ],
+    "top": 1240,
+    "fontSize": 84
+  },
+  {
+    "startMs": 1266.667,
+    "endMs": 2033.333,
+    "words": [
+      {
+        "text": "jaise",
+        "startMs": 1266.667,
+        "endMs": 1500.0
+      },
+      {
+        "text": "lagte",
+        "startMs": 1500.0,
+        "endMs": 1900.0
+      },
+      {
+        "text": "hain.",
+        "startMs": 1900.0,
+        "endMs": 1933.333
+      }
+    ],
+    "top": 1240,
+    "fontSize": 84
+  },
+  {
+    "startMs": 2033.333,
+    "endMs": 3200.0,
+    "words": [
+      {
+        "text": "Compare",
+        "startMs": 2033.333,
+        "endMs": 2533.333,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "karna",
+        "startMs": 2533.333,
+        "endMs": 2833.333
+      },
+      {
+        "text": "hai",
+        "startMs": 2833.333,
+        "endMs": 3133.333
+      },
+      {
+        "text": "toh",
+        "startMs": 3133.333,
+        "endMs": 3200.0
+      }
+    ],
+    "top": 1240,
+    "fontSize": 84
+  },
+  {
+    "startMs": 3200.0,
+    "endMs": 4366.667,
+    "words": [
+      {
+        "text": "in",
+        "startMs": 3200.0,
+        "endMs": 3600.0
+      },
+      {
+        "text": "6",
+        "startMs": 3600.0,
+        "endMs": 3800.0,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "cheezon",
+        "startMs": 3800.0,
+        "endMs": 4266.667
+      },
+      {
+        "text": "ke",
+        "startMs": 4266.667,
+        "endMs": 4366.667
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 4366.667,
+    "endMs": 5133.333,
+    "words": [
+      {
+        "text": "basis",
+        "startMs": 4366.667,
+        "endMs": 4700.0
+      },
+      {
+        "text": "pe",
+        "startMs": 4700.0,
+        "endMs": 4800.0
+      },
+      {
+        "text": "kar",
+        "startMs": 4800.0,
+        "endMs": 5000.0
+      },
+      {
+        "text": "lo.",
+        "startMs": 5000.0,
+        "endMs": 5033.333
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 5166.667,
+    "endMs": 7433.333,
+    "words": [
+      {
+        "text": "Pehla,",
+        "startMs": 5166.667,
+        "endMs": 5566.667
+      },
+      {
+        "text": "degree",
+        "startMs": 6000.0,
+        "endMs": 6366.667
+      },
+      {
+        "text": "aur",
+        "startMs": 6366.667,
+        "endMs": 6666.667
+      },
+      {
+        "text": "recognition.",
+        "startMs": 6666.667,
+        "endMs": 7333.333,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 7500.0,
+    "endMs": 9133.333,
+    "words": [
+      {
+        "text": "Doosra,",
+        "startMs": 7500.0,
+        "endMs": 8000.0
+      },
+      {
+        "text": "total",
+        "startMs": 8233.333,
+        "endMs": 8766.667
+      },
+      {
+        "text": "fees",
+        "startMs": 8766.667,
+        "endMs": 9133.333,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 9133.333,
+    "endMs": 9900.0,
+    "words": [
+      {
+        "text": "kitni",
+        "startMs": 9133.333,
+        "endMs": 9366.667
+      },
+      {
+        "text": "lagegi.",
+        "startMs": 9366.667,
+        "endMs": 9800.0
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 9966.667,
+    "endMs": 11966.667,
+    "words": [
+      {
+        "text": "Teesra,",
+        "startMs": 9966.667,
+        "endMs": 10433.333
+      },
+      {
+        "text": "selection",
+        "startMs": 10666.667,
+        "endMs": 11466.667
+      },
+      {
+        "text": "process",
+        "startMs": 11466.667,
+        "endMs": 11966.667,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 11966.667,
+    "endMs": 13166.667,
+    "words": [
+      {
+        "text": "kya",
+        "startMs": 11966.667,
+        "endMs": 12200.0
+      },
+      {
+        "text": "hai",
+        "startMs": 12200.0,
+        "endMs": 12500.0
+      },
+      {
+        "text": "us",
+        "startMs": 12500.0,
+        "endMs": 12700.0
+      },
+      {
+        "text": "college",
+        "startMs": 12700.0,
+        "endMs": 13066.667,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "ka.",
+        "startMs": 12766.667,
+        "endMs": 13066.667
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 13233.333,
+    "endMs": 15200.0,
+    "words": [
+      {
+        "text": "Chautha,",
+        "startMs": 13233.333,
+        "endMs": 13700.0
+      },
+      {
+        "text": "curriculum",
+        "startMs": 13766.667,
+        "endMs": 14433.333,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "kya",
+        "startMs": 14433.333,
+        "endMs": 14966.667
+      },
+      {
+        "text": "hai",
+        "startMs": 14966.667,
+        "endMs": 15200.0
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 15200.0,
+    "endMs": 16166.667,
+    "words": [
+      {
+        "text": "aur",
+        "startMs": 15200.0,
+        "endMs": 15500.0
+      },
+      {
+        "text": "kya",
+        "startMs": 15500.0,
+        "endMs": 15866.667
+      },
+      {
+        "text": "provide",
+        "startMs": 15866.667,
+        "endMs": 16166.667,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 16166.667,
+    "endMs": 16866.667,
+    "words": [
+      {
+        "text": "kar",
+        "startMs": 16166.667,
+        "endMs": 16433.333
+      },
+      {
+        "text": "paayega.",
+        "startMs": 16433.333,
+        "endMs": 16800.0
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 16866.667,
+    "endMs": 18800.0,
+    "words": [
+      {
+        "text": "Paanchva,",
+        "startMs": 16866.667,
+        "endMs": 17400.0
+      },
+      {
+        "text": "mentors",
+        "startMs": 17633.333,
+        "endMs": 18066.667,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "kaise",
+        "startMs": 18066.667,
+        "endMs": 18366.667
+      },
+      {
+        "text": "hain",
+        "startMs": 18366.667,
+        "endMs": 18800.0
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 18800.0,
+    "endMs": 20000.0,
+    "words": [
+      {
+        "text": "aur",
+        "startMs": 18800.0,
+        "endMs": 18900.0
+      },
+      {
+        "text": "industry",
+        "startMs": 18900.0,
+        "endMs": 19466.667
+      },
+      {
+        "text": "exposure",
+        "startMs": 19466.667,
+        "endMs": 20000.0,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 20000.0,
+    "endMs": 21033.333,
+    "words": [
+      {
+        "text": "kya",
+        "startMs": 20000.0,
+        "endMs": 20233.333
+      },
+      {
+        "text": "hai",
+        "startMs": 20233.333,
+        "endMs": 20266.667
+      },
+      {
+        "text": "us",
+        "startMs": 20266.667,
+        "endMs": 20433.333
+      },
+      {
+        "text": "college",
+        "startMs": 20433.333,
+        "endMs": 20666.667,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "ka.",
+        "startMs": 20666.667,
+        "endMs": 20933.333
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 21100.0,
+    "endMs": 22733.333,
+    "words": [
+      {
+        "text": "Aur",
+        "startMs": 21100.0,
+        "endMs": 21333.333
+      },
+      {
+        "text": "chhatha,",
+        "startMs": 21333.333,
+        "endMs": 21700.0
+      },
+      {
+        "text": "outcomes",
+        "startMs": 22000.0,
+        "endMs": 22633.333,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "ki",
+        "startMs": 22633.333,
+        "endMs": 22733.333
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 22733.333,
+    "endMs": 23966.667,
+    "words": [
+      {
+        "text": "transparency",
+        "startMs": 22733.333,
+        "endMs": 23400.0,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "kitni",
+        "startMs": 23400.0,
+        "endMs": 23733.333
+      },
+      {
+        "text": "hai.",
+        "startMs": 23733.333,
+        "endMs": 23866.667
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 24033.333,
+    "endMs": 25100.0,
+    "words": [
+      {
+        "text": "In",
+        "startMs": 24033.333,
+        "endMs": 24266.667
+      },
+      {
+        "text": "6",
+        "startMs": 24266.667,
+        "endMs": 24466.667,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "cheezon",
+        "startMs": 24466.667,
+        "endMs": 24933.333
+      },
+      {
+        "text": "ke",
+        "startMs": 24933.333,
+        "endMs": 25100.0
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 25100.0,
+    "endMs": 26033.333,
+    "words": [
+      {
+        "text": "basis",
+        "startMs": 25100.0,
+        "endMs": 25533.333
+      },
+      {
+        "text": "pe",
+        "startMs": 25533.333,
+        "endMs": 25666.667
+      },
+      {
+        "text": "tum",
+        "startMs": 25666.667,
+        "endMs": 25866.667
+      },
+      {
+        "text": "college",
+        "startMs": 25866.667,
+        "endMs": 26033.333,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 26033.333,
+    "endMs": 27100.0,
+    "words": [
+      {
+        "text": "ko",
+        "startMs": 26033.333,
+        "endMs": 26233.333
+      },
+      {
+        "text": "categorize",
+        "startMs": 26233.333,
+        "endMs": 26800.0,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "karo",
+        "startMs": 26800.0,
+        "endMs": 27100.0
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 27100.0,
+    "endMs": 28200.0,
+    "words": [
+      {
+        "text": "aur",
+        "startMs": 27100.0,
+        "endMs": 27466.667
+      },
+      {
+        "text": "score",
+        "startMs": 27466.667,
+        "endMs": 27900.0,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "karo",
+        "startMs": 27900.0,
+        "endMs": 28200.0
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 28200.0,
+    "endMs": 28900.0,
+    "words": [
+      {
+        "text": "on",
+        "startMs": 28200.0,
+        "endMs": 28433.333
+      },
+      {
+        "text": "the",
+        "startMs": 28433.333,
+        "endMs": 28600.0
+      },
+      {
+        "text": "scale",
+        "startMs": 28600.0,
+        "endMs": 28766.667
+      },
+      {
+        "text": "of",
+        "startMs": 28766.667,
+        "endMs": 28900.0
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 28900.0,
+    "endMs": 29600.0,
+    "words": [
+      {
+        "text": "1",
+        "startMs": 28900.0,
+        "endMs": 29166.667
+      },
+      {
+        "text": "to",
+        "startMs": 29166.667,
+        "endMs": 29233.333
+      },
+      {
+        "text": "5",
+        "startMs": 29233.333,
+        "endMs": 29533.333,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 29600.0,
+    "endMs": 30433.333,
+    "words": [
+      {
+        "text": "aur",
+        "startMs": 29600.0,
+        "endMs": 29833.333
+      },
+      {
+        "text": "phir",
+        "startMs": 29833.333,
+        "endMs": 30033.333
+      },
+      {
+        "text": "total",
+        "startMs": 30033.333,
+        "endMs": 30433.333,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 30433.333,
+    "endMs": 31333.333,
+    "words": [
+      {
+        "text": "karne",
+        "startMs": 30433.333,
+        "endMs": 30800.0
+      },
+      {
+        "text": "ke",
+        "startMs": 30800.0,
+        "endMs": 31000.0
+      },
+      {
+        "text": "baad",
+        "startMs": 31000.0,
+        "endMs": 31166.667
+      },
+      {
+        "text": "hi",
+        "startMs": 31166.667,
+        "endMs": 31333.333
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 31333.333,
+    "endMs": 32100.0,
+    "words": [
+      {
+        "text": "decision",
+        "startMs": 31333.333,
+        "endMs": 31700.0,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "lo",
+        "startMs": 31700.0,
+        "endMs": 32000.0
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 32333.333,
+    "endMs": 33233.333,
+    "words": [
+      {
+        "text": "hype",
+        "startMs": 32333.333,
+        "endMs": 32566.667,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "pe",
+        "startMs": 32566.667,
+        "endMs": 32733.333
+      },
+      {
+        "text": "mat",
+        "startMs": 32733.333,
+        "endMs": 32933.333
+      },
+      {
+        "text": "jaao.",
+        "startMs": 32933.333,
+        "endMs": 33133.333
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 33300.0,
+    "endMs": 34266.667,
+    "words": [
+      {
+        "text": "Aur",
+        "startMs": 33300.0,
+        "endMs": 33466.667
+      },
+      {
+        "text": "yaad",
+        "startMs": 33466.667,
+        "endMs": 33800.0
+      },
+      {
+        "text": "rakhna,",
+        "startMs": 33800.0,
+        "endMs": 34166.667
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 34400.0,
+    "endMs": 35533.333,
+    "words": [
+      {
+        "text": "jo",
+        "startMs": 34400.0,
+        "endMs": 34566.667
+      },
+      {
+        "text": "college",
+        "startMs": 34566.667,
+        "endMs": 34900.0
+      },
+      {
+        "text": "sawaalon",
+        "startMs": 34900.0,
+        "endMs": 35433.333,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "ka",
+        "startMs": 35433.333,
+        "endMs": 35533.333
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 35533.333,
+    "endMs": 36566.667,
+    "words": [
+      {
+        "text": "seedha",
+        "startMs": 35533.333,
+        "endMs": 35900.0
+      },
+      {
+        "text": "jawaab",
+        "startMs": 35900.0,
+        "endMs": 36300.0,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "de,",
+        "startMs": 36300.0,
+        "endMs": 36466.667
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 36800.0,
+    "endMs": 37533.333,
+    "words": [
+      {
+        "text": "wahi",
+        "startMs": 36800.0,
+        "endMs": 37100.0
+      },
+      {
+        "text": "trust",
+        "startMs": 37100.0,
+        "endMs": 37466.667,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "ke",
+        "startMs": 37466.667,
+        "endMs": 37533.333
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 37533.333,
+    "endMs": 38266.667,
+    "words": [
+      {
+        "text": "laayak",
+        "startMs": 37533.333,
+        "endMs": 37833.333
+      },
+      {
+        "text": "hota",
+        "startMs": 37833.333,
+        "endMs": 38100.0
+      },
+      {
+        "text": "hai.",
+        "startMs": 38100.0,
+        "endMs": 38166.667
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 38333.333,
+    "endMs": 39800.0,
+    "words": [
+      {
+        "text": "Agar",
+        "startMs": 38333.333,
+        "endMs": 38533.333
+      },
+      {
+        "text": "aapko",
+        "startMs": 38800.0,
+        "endMs": 39266.667
+      },
+      {
+        "text": "college",
+        "startMs": 39266.667,
+        "endMs": 39633.333,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "ki",
+        "startMs": 39633.333,
+        "endMs": 39800.0
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 39800.0,
+    "endMs": 41100.0,
+    "words": [
+      {
+        "text": "comparison",
+        "startMs": 39800.0,
+        "endMs": 40200.0
+      },
+      {
+        "text": "sheet",
+        "startMs": 40200.0,
+        "endMs": 40533.333,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "chahiye,",
+        "startMs": 40533.333,
+        "endMs": 41000.0
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 41200.0,
+    "endMs": 41900.0,
+    "words": [
+      {
+        "text": "toh",
+        "startMs": 41200.0,
+        "endMs": 41333.333
+      },
+      {
+        "text": "comments",
+        "startMs": 41333.333,
+        "endMs": 41600.0
+      },
+      {
+        "text": "mein",
+        "startMs": 41600.0,
+        "endMs": 41900.0
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 41900.0,
+    "endMs": 42766.667,
+    "words": [
+      {
+        "text": "SHEET",
+        "startMs": 41900.0,
+        "endMs": 42233.333,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "likho.",
+        "startMs": 42233.333,
+        "endMs": 42666.667
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 42833.333,
+    "endMs": 43966.667,
+    "words": [
+      {
+        "text": "Baaki",
+        "startMs": 42833.333,
+        "endMs": 43266.667
+      },
+      {
+        "text": "aise",
+        "startMs": 43266.667,
+        "endMs": 43600.0
+      },
+      {
+        "text": "aur",
+        "startMs": 43600.0,
+        "endMs": 43733.333
+      },
+      {
+        "text": "tips",
+        "startMs": 43733.333,
+        "endMs": 43966.667,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 43966.667,
+    "endMs": 45033.333,
+    "words": [
+      {
+        "text": "ke",
+        "startMs": 43966.667,
+        "endMs": 44233.333
+      },
+      {
+        "text": "liye",
+        "startMs": 44233.333,
+        "endMs": 44466.667
+      },
+      {
+        "text": "go",
+        "startMs": 44466.667,
+        "endMs": 44733.333
+      },
+      {
+        "text": "on",
+        "startMs": 44733.333,
+        "endMs": 45033.333
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 45033.333,
+    "endMs": 45933.333,
+    "words": [
+      {
+        "text": "niolearn.com",
+        "startMs": 45033.333,
+        "endMs": 45833.333,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  }
+]

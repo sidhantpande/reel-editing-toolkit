@@ -1,0 +1,1015 @@
+{
+  "status": "source-aligned-to-edited-frames",
+  "fps": 30,
+  "method": "Local small-model word timestamps, proper noun correction, waveform-leading-pause correction and cut-list frame mapping",
+  "words": [
+    {
+      "text": "Three",
+      "startFrame": 1,
+      "endFrame": 5,
+      "startMs": 33.333,
+      "endMs": 166.667,
+      "sourceStart": 0.94,
+      "sourceEnd": 1.08
+    },
+    {
+      "text": "months",
+      "startFrame": 5,
+      "endFrame": 11,
+      "startMs": 166.667,
+      "endMs": 366.667,
+      "sourceStart": 1.08,
+      "sourceEnd": 1.26
+    },
+    {
+      "text": "of",
+      "startFrame": 11,
+      "endFrame": 15,
+      "startMs": 366.667,
+      "endMs": 500.0,
+      "sourceStart": 1.26,
+      "sourceEnd": 1.4
+    },
+    {
+      "text": "silence",
+      "startFrame": 15,
+      "endFrame": 24,
+      "startMs": 500.0,
+      "endMs": 800.0,
+      "sourceStart": 1.4,
+      "sourceEnd": 1.7
+    },
+    {
+      "text": "from",
+      "startFrame": 24,
+      "endFrame": 32,
+      "startMs": 800.0,
+      "endMs": 1066.667,
+      "sourceStart": 1.7,
+      "sourceEnd": 1.98
+    },
+    {
+      "text": "ATFRO.",
+      "startFrame": 32,
+      "endFrame": 45,
+      "startMs": 1066.667,
+      "endMs": 1500.0,
+      "sourceStart": 1.98,
+      "sourceEnd": 2.4
+    },
+    {
+      "text": "You",
+      "startFrame": 50,
+      "endFrame": 55,
+      "startMs": 1666.667,
+      "endMs": 1833.333,
+      "sourceStart": 2.78,
+      "sourceEnd": 2.94
+    },
+    {
+      "text": "deserve",
+      "startFrame": 55,
+      "endFrame": 64,
+      "startMs": 1833.333,
+      "endMs": 2133.333,
+      "sourceStart": 2.94,
+      "sourceEnd": 3.24
+    },
+    {
+      "text": "to",
+      "startFrame": 64,
+      "endFrame": 72,
+      "startMs": 2133.333,
+      "endMs": 2400.0,
+      "sourceStart": 3.24,
+      "sourceEnd": 3.5
+    },
+    {
+      "text": "know",
+      "startFrame": 72,
+      "endFrame": 77,
+      "startMs": 2400.0,
+      "endMs": 2566.667,
+      "sourceStart": 3.5,
+      "sourceEnd": 3.66
+    },
+    {
+      "text": "what",
+      "startFrame": 77,
+      "endFrame": 83,
+      "startMs": 2566.667,
+      "endMs": 2766.667,
+      "sourceStart": 3.86,
+      "sourceEnd": 4.08
+    },
+    {
+      "text": "we",
+      "startFrame": 83,
+      "endFrame": 90,
+      "startMs": 2766.667,
+      "endMs": 3000.0,
+      "sourceStart": 4.08,
+      "sourceEnd": 4.3
+    },
+    {
+      "text": "have",
+      "startFrame": 90,
+      "endFrame": 97,
+      "startMs": 3000.0,
+      "endMs": 3233.333,
+      "sourceStart": 4.3,
+      "sourceEnd": 4.52
+    },
+    {
+      "text": "been",
+      "startFrame": 97,
+      "endFrame": 101,
+      "startMs": 3233.333,
+      "endMs": 3366.667,
+      "sourceStart": 4.52,
+      "sourceEnd": 4.66
+    },
+    {
+      "text": "doing.",
+      "startFrame": 101,
+      "endFrame": 106,
+      "startMs": 3366.667,
+      "endMs": 3533.333,
+      "sourceStart": 4.66,
+      "sourceEnd": 4.82
+    },
+    {
+      "text": "We",
+      "startFrame": 111,
+      "endFrame": 123,
+      "startMs": 3700.0,
+      "endMs": 4100.0,
+      "sourceStart": 5.48,
+      "sourceEnd": 5.86
+    },
+    {
+      "text": "have",
+      "startFrame": 123,
+      "endFrame": 128,
+      "startMs": 4100.0,
+      "endMs": 4266.667,
+      "sourceStart": 5.86,
+      "sourceEnd": 6.02
+    },
+    {
+      "text": "been",
+      "startFrame": 128,
+      "endFrame": 132,
+      "startMs": 4266.667,
+      "endMs": 4400.0,
+      "sourceStart": 6.02,
+      "sourceEnd": 6.16
+    },
+    {
+      "text": "busy",
+      "startFrame": 132,
+      "endFrame": 141,
+      "startMs": 4400.0,
+      "endMs": 4700.0,
+      "sourceStart": 6.16,
+      "sourceEnd": 6.48
+    },
+    {
+      "text": "with",
+      "startFrame": 141,
+      "endFrame": 150,
+      "startMs": 4700.0,
+      "endMs": 5000.0,
+      "sourceStart": 6.48,
+      "sourceEnd": 6.76
+    },
+    {
+      "text": "client",
+      "startFrame": 150,
+      "endFrame": 158,
+      "startMs": 5000.0,
+      "endMs": 5266.667,
+      "sourceStart": 6.76,
+      "sourceEnd": 7.04
+    },
+    {
+      "text": "work",
+      "startFrame": 158,
+      "endFrame": 170,
+      "startMs": 5266.667,
+      "endMs": 5666.667,
+      "sourceStart": 7.04,
+      "sourceEnd": 7.42
+    },
+    {
+      "text": "without",
+      "startFrame": 170,
+      "endFrame": 181,
+      "startMs": 5666.667,
+      "endMs": 6033.333,
+      "sourceStart": 7.42,
+      "sourceEnd": 7.8
+    },
+    {
+      "text": "showing",
+      "startFrame": 181,
+      "endFrame": 194,
+      "startMs": 6033.333,
+      "endMs": 6466.667,
+      "sourceStart": 7.8,
+      "sourceEnd": 8.24
+    },
+    {
+      "text": "the",
+      "startFrame": 194,
+      "endFrame": 201,
+      "startMs": 6466.667,
+      "endMs": 6700.0,
+      "sourceStart": 8.24,
+      "sourceEnd": 8.48
+    },
+    {
+      "text": "process.",
+      "startFrame": 201,
+      "endFrame": 216,
+      "startMs": 6700.0,
+      "endMs": 7200.0,
+      "sourceStart": 8.48,
+      "sourceEnd": 8.96
+    },
+    {
+      "text": "And",
+      "startFrame": 221,
+      "endFrame": 226,
+      "startMs": 7366.667,
+      "endMs": 7533.333,
+      "sourceStart": 9.48,
+      "sourceEnd": 9.64
+    },
+    {
+      "text": "this",
+      "startFrame": 226,
+      "endFrame": 231,
+      "startMs": 7533.333,
+      "endMs": 7700.0,
+      "sourceStart": 9.64,
+      "sourceEnd": 9.8
+    },
+    {
+      "text": "is",
+      "startFrame": 231,
+      "endFrame": 234,
+      "startMs": 7700.0,
+      "endMs": 7800.0,
+      "sourceStart": 9.8,
+      "sourceEnd": 9.9
+    },
+    {
+      "text": "a",
+      "startFrame": 234,
+      "endFrame": 236,
+      "startMs": 7800.0,
+      "endMs": 7866.667,
+      "sourceStart": 9.9,
+      "sourceEnd": 9.98
+    },
+    {
+      "text": "mistake",
+      "startFrame": 236,
+      "endFrame": 245,
+      "startMs": 7866.667,
+      "endMs": 8166.667,
+      "sourceStart": 9.98,
+      "sourceEnd": 10.26
+    },
+    {
+      "text": "which",
+      "startFrame": 245,
+      "endFrame": 253,
+      "startMs": 8166.667,
+      "endMs": 8433.333,
+      "sourceStart": 10.26,
+      "sourceEnd": 10.54
+    },
+    {
+      "text": "we",
+      "startFrame": 253,
+      "endFrame": 258,
+      "startMs": 8433.333,
+      "endMs": 8600.0,
+      "sourceStart": 10.54,
+      "sourceEnd": 10.7
+    },
+    {
+      "text": "are",
+      "startFrame": 258,
+      "endFrame": 261,
+      "startMs": 8600.0,
+      "endMs": 8700.0,
+      "sourceStart": 10.7,
+      "sourceEnd": 10.8
+    },
+    {
+      "text": "correcting,",
+      "startFrame": 261,
+      "endFrame": 272,
+      "startMs": 8700.0,
+      "endMs": 9066.667,
+      "sourceStart": 10.8,
+      "sourceEnd": 11.18
+    },
+    {
+      "text": "Not",
+      "startFrame": 276,
+      "endFrame": 284,
+      "startMs": 9200.0,
+      "endMs": 9466.667,
+      "sourceStart": 11.68,
+      "sourceEnd": 11.92
+    },
+    {
+      "text": "dressing",
+      "startFrame": 284,
+      "endFrame": 293,
+      "startMs": 9466.667,
+      "endMs": 9766.667,
+      "sourceStart": 11.92,
+      "sourceEnd": 12.24
+    },
+    {
+      "text": "it",
+      "startFrame": 293,
+      "endFrame": 299,
+      "startMs": 9766.667,
+      "endMs": 9966.667,
+      "sourceStart": 12.24,
+      "sourceEnd": 12.44
+    },
+    {
+      "text": "up",
+      "startFrame": 299,
+      "endFrame": 303,
+      "startMs": 9966.667,
+      "endMs": 10100.0,
+      "sourceStart": 12.44,
+      "sourceEnd": 12.56
+    },
+    {
+      "text": "as",
+      "startFrame": 303,
+      "endFrame": 311,
+      "startMs": 10100.0,
+      "endMs": 10366.667,
+      "sourceStart": 12.56,
+      "sourceEnd": 12.84
+    },
+    {
+      "text": "a",
+      "startFrame": 311,
+      "endFrame": 315,
+      "startMs": 10366.667,
+      "endMs": 10500.0,
+      "sourceStart": 12.84,
+      "sourceEnd": 12.96
+    },
+    {
+      "text": "strategy.",
+      "startFrame": 315,
+      "endFrame": 327,
+      "startMs": 10500.0,
+      "endMs": 10900.0,
+      "sourceStart": 12.96,
+      "sourceEnd": 13.36
+    },
+    {
+      "text": "We",
+      "startFrame": 334,
+      "endFrame": 340,
+      "startMs": 11133.333,
+      "endMs": 11333.333,
+      "sourceStart": 14.4,
+      "sourceEnd": 14.6
+    },
+    {
+      "text": "have",
+      "startFrame": 340,
+      "endFrame": 343,
+      "startMs": 11333.333,
+      "endMs": 11433.333,
+      "sourceStart": 14.6,
+      "sourceEnd": 14.7
+    },
+    {
+      "text": "dealt",
+      "startFrame": 343,
+      "endFrame": 348,
+      "startMs": 11433.333,
+      "endMs": 11600.0,
+      "sourceStart": 14.7,
+      "sourceEnd": 14.88
+    },
+    {
+      "text": "with",
+      "startFrame": 348,
+      "endFrame": 357,
+      "startMs": 11600.0,
+      "endMs": 11900.0,
+      "sourceStart": 14.88,
+      "sourceEnd": 15.18
+    },
+    {
+      "text": "school",
+      "startFrame": 357,
+      "endFrame": 377,
+      "startMs": 11900.0,
+      "endMs": 12566.667,
+      "sourceStart": 15.18,
+      "sourceEnd": 15.84
+    },
+    {
+      "text": "communications,",
+      "startFrame": 377,
+      "endFrame": 402,
+      "startMs": 12566.667,
+      "endMs": 13400.0,
+      "sourceStart": 15.84,
+      "sourceEnd": 16.68
+    },
+    {
+      "text": "doctor-led",
+      "startFrame": 414,
+      "endFrame": 425,
+      "startMs": 13800.0,
+      "endMs": 14166.667,
+      "sourceStart": 17.3,
+      "sourceEnd": 17.68
+    },
+    {
+      "text": "content",
+      "startFrame": 425,
+      "endFrame": 439,
+      "startMs": 14166.667,
+      "endMs": 14633.333,
+      "sourceStart": 17.68,
+      "sourceEnd": 18.12
+    },
+    {
+      "text": "and",
+      "startFrame": 439,
+      "endFrame": 448,
+      "startMs": 14633.333,
+      "endMs": 14933.333,
+      "sourceStart": 18.12,
+      "sourceEnd": 18.74
+    },
+    {
+      "text": "practical",
+      "startFrame": 454,
+      "endFrame": 470,
+      "startMs": 15133.333,
+      "endMs": 15666.667,
+      "sourceStart": 18.74,
+      "sourceEnd": 19.28
+    },
+    {
+      "text": "software",
+      "startFrame": 470,
+      "endFrame": 486,
+      "startMs": 15666.667,
+      "endMs": 16200.0,
+      "sourceStart": 19.28,
+      "sourceEnd": 19.8
+    },
+    {
+      "text": "systems.",
+      "startFrame": 486,
+      "endFrame": 500,
+      "startMs": 16200.0,
+      "endMs": 16666.667,
+      "sourceStart": 19.8,
+      "sourceEnd": 20.26
+    },
+    {
+      "text": "Different",
+      "startFrame": 509,
+      "endFrame": 521,
+      "startMs": 16966.667,
+      "endMs": 17366.667,
+      "sourceStart": 21.52,
+      "sourceEnd": 21.94
+    },
+    {
+      "text": "projects",
+      "startFrame": 521,
+      "endFrame": 534,
+      "startMs": 17366.667,
+      "endMs": 17800.0,
+      "sourceStart": 21.94,
+      "sourceEnd": 22.38
+    },
+    {
+      "text": "still",
+      "startFrame": 534,
+      "endFrame": 553,
+      "startMs": 17800.0,
+      "endMs": 18433.333,
+      "sourceStart": 22.38,
+      "sourceEnd": 23.0
+    },
+    {
+      "text": "the",
+      "startFrame": 553,
+      "endFrame": 560,
+      "startMs": 18433.333,
+      "endMs": 18666.667,
+      "sourceStart": 23.0,
+      "sourceEnd": 23.22
+    },
+    {
+      "text": "same",
+      "startFrame": 560,
+      "endFrame": 571,
+      "startMs": 18666.667,
+      "endMs": 19033.333,
+      "sourceStart": 23.22,
+      "sourceEnd": 23.6
+    },
+    {
+      "text": "question,",
+      "startFrame": 571,
+      "endFrame": 583,
+      "startMs": 19033.333,
+      "endMs": 19433.333,
+      "sourceStart": 23.6,
+      "sourceEnd": 24.0
+    },
+    {
+      "text": "What's",
+      "startFrame": 587,
+      "endFrame": 601,
+      "startMs": 19566.667,
+      "endMs": 20033.333,
+      "sourceStart": 24.68,
+      "sourceEnd": 25.12
+    },
+    {
+      "text": "stopping",
+      "startFrame": 601,
+      "endFrame": 610,
+      "startMs": 20033.333,
+      "endMs": 20333.333,
+      "sourceStart": 25.12,
+      "sourceEnd": 25.42
+    },
+    {
+      "text": "this",
+      "startFrame": 610,
+      "endFrame": 621,
+      "startMs": 20333.333,
+      "endMs": 20700.0,
+      "sourceStart": 25.42,
+      "sourceEnd": 25.8
+    },
+    {
+      "text": "business",
+      "startFrame": 621,
+      "endFrame": 634,
+      "startMs": 20700.0,
+      "endMs": 21133.333,
+      "sourceStart": 25.8,
+      "sourceEnd": 26.24
+    },
+    {
+      "text": "from",
+      "startFrame": 634,
+      "endFrame": 644,
+      "startMs": 21133.333,
+      "endMs": 21466.667,
+      "sourceStart": 26.24,
+      "sourceEnd": 26.58
+    },
+    {
+      "text": "growing?",
+      "startFrame": 644,
+      "endFrame": 653,
+      "startMs": 21466.667,
+      "endMs": 21766.667,
+      "sourceStart": 26.58,
+      "sourceEnd": 26.88
+    },
+    {
+      "text": "That's",
+      "startFrame": 661,
+      "endFrame": 669,
+      "startMs": 22033.333,
+      "endMs": 22300.0,
+      "sourceStart": 34.6,
+      "sourceEnd": 34.88
+    },
+    {
+      "text": "what",
+      "startFrame": 669,
+      "endFrame": 674,
+      "startMs": 22300.0,
+      "endMs": 22466.667,
+      "sourceStart": 34.88,
+      "sourceEnd": 35.04
+    },
+    {
+      "text": "being",
+      "startFrame": 674,
+      "endFrame": 681,
+      "startMs": 22466.667,
+      "endMs": 22700.0,
+      "sourceStart": 35.04,
+      "sourceEnd": 35.26
+    },
+    {
+      "text": "a",
+      "startFrame": 681,
+      "endFrame": 686,
+      "startMs": 22700.0,
+      "endMs": 22866.667,
+      "sourceStart": 35.26,
+      "sourceEnd": 35.42
+    },
+    {
+      "text": "growth",
+      "startFrame": 686,
+      "endFrame": 690,
+      "startMs": 22866.667,
+      "endMs": 23000.0,
+      "sourceStart": 35.42,
+      "sourceEnd": 35.56
+    },
+    {
+      "text": "partner",
+      "startFrame": 690,
+      "endFrame": 702,
+      "startMs": 23000.0,
+      "endMs": 23400.0,
+      "sourceStart": 35.56,
+      "sourceEnd": 35.96
+    },
+    {
+      "text": "means",
+      "startFrame": 702,
+      "endFrame": 709,
+      "startMs": 23400.0,
+      "endMs": 23633.333,
+      "sourceStart": 35.96,
+      "sourceEnd": 36.2
+    },
+    {
+      "text": "to",
+      "startFrame": 709,
+      "endFrame": 717,
+      "startMs": 23633.333,
+      "endMs": 23900.0,
+      "sourceStart": 36.2,
+      "sourceEnd": 36.46
+    },
+    {
+      "text": "us.",
+      "startFrame": 717,
+      "endFrame": 723,
+      "startMs": 23900.0,
+      "endMs": 24100.0,
+      "sourceStart": 36.46,
+      "sourceEnd": 36.68
+    },
+    {
+      "text": "Understand",
+      "startFrame": 728,
+      "endFrame": 738,
+      "startMs": 24266.667,
+      "endMs": 24600.0,
+      "sourceStart": 71.6,
+      "sourceEnd": 71.94
+    },
+    {
+      "text": "the",
+      "startFrame": 738,
+      "endFrame": 745,
+      "startMs": 24600.0,
+      "endMs": 24833.333,
+      "sourceStart": 71.94,
+      "sourceEnd": 72.18
+    },
+    {
+      "text": "problem,",
+      "startFrame": 745,
+      "endFrame": 759,
+      "startMs": 24833.333,
+      "endMs": 25300.0,
+      "sourceStart": 72.18,
+      "sourceEnd": 72.64
+    },
+    {
+      "text": "build",
+      "startFrame": 768,
+      "endFrame": 781,
+      "startMs": 25600.0,
+      "endMs": 26033.333,
+      "sourceStart": 73.3,
+      "sourceEnd": 73.72
+    },
+    {
+      "text": "what",
+      "startFrame": 781,
+      "endFrame": 793,
+      "startMs": 26033.333,
+      "endMs": 26433.333,
+      "sourceStart": 73.72,
+      "sourceEnd": 74.12
+    },
+    {
+      "text": "is",
+      "startFrame": 793,
+      "endFrame": 806,
+      "startMs": 26433.333,
+      "endMs": 26866.667,
+      "sourceStart": 74.12,
+      "sourceEnd": 74.56
+    },
+    {
+      "text": "useful",
+      "startFrame": 807,
+      "endFrame": 823,
+      "startMs": 26900.0,
+      "endMs": 27433.333,
+      "sourceStart": 75.74,
+      "sourceEnd": 76.28
+    },
+    {
+      "text": "and",
+      "startFrame": 823,
+      "endFrame": 832,
+      "startMs": 27433.333,
+      "endMs": 27733.333,
+      "sourceStart": 76.28,
+      "sourceEnd": 77.32
+    },
+    {
+      "text": "grow",
+      "startFrame": 840,
+      "endFrame": 851,
+      "startMs": 28000.0,
+      "endMs": 28366.667,
+      "sourceStart": 77.32,
+      "sourceEnd": 77.7
+    },
+    {
+      "text": "with",
+      "startFrame": 851,
+      "endFrame": 858,
+      "startMs": 28366.667,
+      "endMs": 28600.0,
+      "sourceStart": 77.7,
+      "sourceEnd": 77.92
+    },
+    {
+      "text": "the",
+      "startFrame": 858,
+      "endFrame": 861,
+      "startMs": 28600.0,
+      "endMs": 28700.0,
+      "sourceStart": 77.92,
+      "sourceEnd": 78.04
+    },
+    {
+      "text": "people",
+      "startFrame": 861,
+      "endFrame": 871,
+      "startMs": 28700.0,
+      "endMs": 29033.333,
+      "sourceStart": 78.04,
+      "sourceEnd": 78.38
+    },
+    {
+      "text": "who",
+      "startFrame": 871,
+      "endFrame": 879,
+      "startMs": 29033.333,
+      "endMs": 29300.0,
+      "sourceStart": 78.38,
+      "sourceEnd": 78.62
+    },
+    {
+      "text": "are",
+      "startFrame": 879,
+      "endFrame": 882,
+      "startMs": 29300.0,
+      "endMs": 29400.0,
+      "sourceStart": 78.62,
+      "sourceEnd": 78.72
+    },
+    {
+      "text": "running",
+      "startFrame": 882,
+      "endFrame": 888,
+      "startMs": 29400.0,
+      "endMs": 29600.0,
+      "sourceStart": 78.72,
+      "sourceEnd": 78.94
+    },
+    {
+      "text": "the",
+      "startFrame": 888,
+      "endFrame": 892,
+      "startMs": 29600.0,
+      "endMs": 29733.333,
+      "sourceStart": 78.94,
+      "sourceEnd": 79.08
+    },
+    {
+      "text": "business.",
+      "startFrame": 892,
+      "endFrame": 903,
+      "startMs": 29733.333,
+      "endMs": 30100.0,
+      "sourceStart": 79.08,
+      "sourceEnd": 79.44
+    },
+    {
+      "text": "So",
+      "startFrame": 903,
+      "endFrame": 912,
+      "startMs": 30100.0,
+      "endMs": 30400.0,
+      "sourceStart": 79.44,
+      "sourceEnd": 79.72
+    },
+    {
+      "text": "here",
+      "startFrame": 916,
+      "endFrame": 925,
+      "startMs": 30533.333,
+      "endMs": 30833.333,
+      "sourceStart": 80.34,
+      "sourceEnd": 80.62
+    },
+    {
+      "text": "we",
+      "startFrame": 925,
+      "endFrame": 932,
+      "startMs": 30833.333,
+      "endMs": 31066.667,
+      "sourceStart": 80.62,
+      "sourceEnd": 80.86
+    },
+    {
+      "text": "are,",
+      "startFrame": 932,
+      "endFrame": 939,
+      "startMs": 31066.667,
+      "endMs": 31300.0,
+      "sourceStart": 80.86,
+      "sourceEnd": 81.1
+    },
+    {
+      "text": "back",
+      "startFrame": 944,
+      "endFrame": 961,
+      "startMs": 31466.667,
+      "endMs": 32033.333,
+      "sourceStart": 81.48,
+      "sourceEnd": 82.02
+    },
+    {
+      "text": "again",
+      "startFrame": 961,
+      "endFrame": 971,
+      "startMs": 32033.333,
+      "endMs": 32366.667,
+      "sourceStart": 82.02,
+      "sourceEnd": 82.36
+    },
+    {
+      "text": "to",
+      "startFrame": 971,
+      "endFrame": 980,
+      "startMs": 32366.667,
+      "endMs": 32666.667,
+      "sourceStart": 82.36,
+      "sourceEnd": 82.66
+    },
+    {
+      "text": "share",
+      "startFrame": 980,
+      "endFrame": 989,
+      "startMs": 32666.667,
+      "endMs": 32966.667,
+      "sourceStart": 82.66,
+      "sourceEnd": 82.96
+    },
+    {
+      "text": "the",
+      "startFrame": 989,
+      "endFrame": 992,
+      "startMs": 32966.667,
+      "endMs": 33066.667,
+      "sourceStart": 83.12,
+      "sourceEnd": 83.22
+    },
+    {
+      "text": "people,",
+      "startFrame": 992,
+      "endFrame": 1005,
+      "startMs": 33066.667,
+      "endMs": 33500.0,
+      "sourceStart": 83.22,
+      "sourceEnd": 83.68
+    },
+    {
+      "text": "the",
+      "startFrame": 1025,
+      "endFrame": 1026,
+      "startMs": 34166.667,
+      "endMs": 34200.0,
+      "sourceStart": 84.32,
+      "sourceEnd": 84.34
+    },
+    {
+      "text": "work",
+      "startFrame": 1025,
+      "endFrame": 1037,
+      "startMs": 34166.667,
+      "endMs": 34566.667,
+      "sourceStart": 84.34,
+      "sourceEnd": 84.74
+    },
+    {
+      "text": "and",
+      "startFrame": 1037,
+      "endFrame": 1052,
+      "startMs": 34566.667,
+      "endMs": 35066.667,
+      "sourceStart": 84.74,
+      "sourceEnd": 85.22
+    },
+    {
+      "text": "the",
+      "startFrame": 1052,
+      "endFrame": 1056,
+      "startMs": 35066.667,
+      "endMs": 35200.0,
+      "sourceStart": 85.22,
+      "sourceEnd": 85.36
+    },
+    {
+      "text": "lesson.",
+      "startFrame": 1056,
+      "endFrame": 1068,
+      "startMs": 35200.0,
+      "endMs": 35600.0,
+      "sourceStart": 85.36,
+      "sourceEnd": 85.76
+    },
+    {
+      "text": "Welcome",
+      "startFrame": 1072,
+      "endFrame": 1081,
+      "startMs": 35733.333,
+      "endMs": 36033.333,
+      "sourceStart": 86.52,
+      "sourceEnd": 87.02
+    },
+    {
+      "text": "to",
+      "startFrame": 1081,
+      "endFrame": 1090,
+      "startMs": 36033.333,
+      "endMs": 36333.333,
+      "sourceStart": 87.02,
+      "sourceEnd": 87.34
+    },
+    {
+      "text": "the",
+      "startFrame": 1090,
+      "endFrame": 1094,
+      "startMs": 36333.333,
+      "endMs": 36466.667,
+      "sourceStart": 87.34,
+      "sourceEnd": 87.48
+    },
+    {
+      "text": "real",
+      "startFrame": 1094,
+      "endFrame": 1100,
+      "startMs": 36466.667,
+      "endMs": 36666.667,
+      "sourceStart": 87.48,
+      "sourceEnd": 87.68
+    },
+    {
+      "text": "ATFRO.",
+      "startFrame": 1100,
+      "endFrame": 1115,
+      "startMs": 36666.667,
+      "endMs": 37166.667,
+      "sourceStart": 87.68,
+      "sourceEnd": 88.16
+    }
+  ]
+}

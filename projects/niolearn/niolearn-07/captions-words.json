@@ -1,0 +1,996 @@
+{
+  "fps": 30,
+  "status": "reviewed-source-aligned-Roman-Hinglish",
+  "words": [
+    {
+      "text": "Aptitude",
+      "startFrame": 1,
+      "endFrame": 16,
+      "startMs": 33.333,
+      "endMs": 533.333,
+      "sourceStart": 0.35,
+      "sourceEnd": 0.82
+    },
+    {
+      "text": "courses",
+      "startFrame": 16,
+      "endFrame": 28,
+      "startMs": 533.333,
+      "endMs": 933.333,
+      "sourceStart": 0.82,
+      "sourceEnd": 1.24
+    },
+    {
+      "text": "toh",
+      "startFrame": 28,
+      "endFrame": 31,
+      "startMs": 933.333,
+      "endMs": 1033.333,
+      "sourceStart": 1.24,
+      "sourceEnd": 1.32
+    },
+    {
+      "text": "bahut",
+      "startFrame": 31,
+      "endFrame": 40,
+      "startMs": 1033.333,
+      "endMs": 1333.333,
+      "sourceStart": 1.32,
+      "sourceEnd": 1.62
+    },
+    {
+      "text": "hain.",
+      "startFrame": 40,
+      "endFrame": 43,
+      "startMs": 1333.333,
+      "endMs": 1433.333,
+      "sourceStart": 1.62,
+      "sourceEnd": 1.74
+    },
+    {
+      "text": "Par",
+      "startFrame": 47,
+      "endFrame": 50,
+      "startMs": 1566.667,
+      "endMs": 1666.667,
+      "sourceStart": 2.16,
+      "sourceEnd": 2.28
+    },
+    {
+      "text": "NioLearn",
+      "startFrame": 50,
+      "endFrame": 65,
+      "startMs": 1666.667,
+      "endMs": 2166.667,
+      "sourceStart": 2.28,
+      "sourceEnd": 2.76
+    },
+    {
+      "text": "ek",
+      "startFrame": 65,
+      "endFrame": 74,
+      "startMs": 2166.667,
+      "endMs": 2466.667,
+      "sourceStart": 2.76,
+      "sourceEnd": 3.08
+    },
+    {
+      "text": "system",
+      "startFrame": 74,
+      "endFrame": 84,
+      "startMs": 2466.667,
+      "endMs": 2800.0,
+      "sourceStart": 3.08,
+      "sourceEnd": 3.4
+    },
+    {
+      "text": "hai.",
+      "startFrame": 84,
+      "endFrame": 87,
+      "startMs": 2800.0,
+      "endMs": 2900.0,
+      "sourceStart": 3.4,
+      "sourceEnd": 3.51
+    },
+    {
+      "text": "Step",
+      "startFrame": 93,
+      "endFrame": 101,
+      "startMs": 3100.0,
+      "endMs": 3366.667,
+      "sourceStart": 4.2,
+      "sourceEnd": 4.46
+    },
+    {
+      "text": "1.",
+      "startFrame": 101,
+      "endFrame": 105,
+      "startMs": 3366.667,
+      "endMs": 3500.0,
+      "sourceStart": 4.46,
+      "sourceEnd": 4.6
+    },
+    {
+      "text": "Diagnostic.",
+      "startFrame": 118,
+      "endFrame": 134,
+      "startMs": 3933.333,
+      "endMs": 4466.667,
+      "sourceStart": 5.02,
+      "sourceEnd": 5.57
+    },
+    {
+      "text": "Aap",
+      "startFrame": 139,
+      "endFrame": 144,
+      "startMs": 4633.333,
+      "endMs": 4800.0,
+      "sourceStart": 6.1,
+      "sourceEnd": 6.26
+    },
+    {
+      "text": "kahaan",
+      "startFrame": 144,
+      "endFrame": 153,
+      "startMs": 4800.0,
+      "endMs": 5100.0,
+      "sourceStart": 6.26,
+      "sourceEnd": 6.58
+    },
+    {
+      "text": "stand",
+      "startFrame": 153,
+      "endFrame": 168,
+      "startMs": 5100.0,
+      "endMs": 5600.0,
+      "sourceStart": 6.58,
+      "sourceEnd": 7.08
+    },
+    {
+      "text": "kar",
+      "startFrame": 168,
+      "endFrame": 173,
+      "startMs": 5600.0,
+      "endMs": 5766.667,
+      "sourceStart": 7.08,
+      "sourceEnd": 7.24
+    },
+    {
+      "text": "rahe",
+      "startFrame": 173,
+      "endFrame": 178,
+      "startMs": 5766.667,
+      "endMs": 5933.333,
+      "sourceStart": 7.24,
+      "sourceEnd": 7.4
+    },
+    {
+      "text": "ho,",
+      "startFrame": 178,
+      "endFrame": 182,
+      "startMs": 5933.333,
+      "endMs": 6066.667,
+      "sourceStart": 7.4,
+      "sourceEnd": 7.55
+    },
+    {
+      "text": "aur",
+      "startFrame": 189,
+      "endFrame": 192,
+      "startMs": 6300.0,
+      "endMs": 6400.0,
+      "sourceStart": 7.77,
+      "sourceEnd": 7.88
+    },
+    {
+      "text": "aapka",
+      "startFrame": 192,
+      "endFrame": 201,
+      "startMs": 6400.0,
+      "endMs": 6700.0,
+      "sourceStart": 7.88,
+      "sourceEnd": 8.16
+    },
+    {
+      "text": "point",
+      "startFrame": 201,
+      "endFrame": 212,
+      "startMs": 6700.0,
+      "endMs": 7066.667,
+      "sourceStart": 8.16,
+      "sourceEnd": 8.52
+    },
+    {
+      "text": "of",
+      "startFrame": 212,
+      "endFrame": 216,
+      "startMs": 7066.667,
+      "endMs": 7200.0,
+      "sourceStart": 8.52,
+      "sourceEnd": 8.66
+    },
+    {
+      "text": "improvement",
+      "startFrame": 216,
+      "endFrame": 231,
+      "startMs": 7200.0,
+      "endMs": 7700.0,
+      "sourceStart": 8.66,
+      "sourceEnd": 9.18
+    },
+    {
+      "text": "kya",
+      "startFrame": 231,
+      "endFrame": 235,
+      "startMs": 7700.0,
+      "endMs": 7833.333,
+      "sourceStart": 9.18,
+      "sourceEnd": 9.3
+    },
+    {
+      "text": "hai,",
+      "startFrame": 235,
+      "endFrame": 239,
+      "startMs": 7833.333,
+      "endMs": 7966.667,
+      "sourceStart": 9.3,
+      "sourceEnd": 9.43
+    },
+    {
+      "text": "yeh",
+      "startFrame": 248,
+      "endFrame": 250,
+      "startMs": 8266.667,
+      "endMs": 8333.333,
+      "sourceStart": 9.72,
+      "sourceEnd": 9.8
+    },
+    {
+      "text": "jaanna",
+      "startFrame": 250,
+      "endFrame": 260,
+      "startMs": 8333.333,
+      "endMs": 8666.667,
+      "sourceStart": 9.8,
+      "sourceEnd": 10.14
+    },
+    {
+      "text": "kaafi",
+      "startFrame": 260,
+      "endFrame": 272,
+      "startMs": 8666.667,
+      "endMs": 9066.667,
+      "sourceStart": 10.14,
+      "sourceEnd": 10.52
+    },
+    {
+      "text": "zyada",
+      "startFrame": 272,
+      "endFrame": 277,
+      "startMs": 9066.667,
+      "endMs": 9233.333,
+      "sourceStart": 10.52,
+      "sourceEnd": 10.7
+    },
+    {
+      "text": "zaroori",
+      "startFrame": 277,
+      "endFrame": 286,
+      "startMs": 9233.333,
+      "endMs": 9533.333,
+      "sourceStart": 10.7,
+      "sourceEnd": 11.0
+    },
+    {
+      "text": "hota",
+      "startFrame": 286,
+      "endFrame": 291,
+      "startMs": 9533.333,
+      "endMs": 9700.0,
+      "sourceStart": 11.0,
+      "sourceEnd": 11.16
+    },
+    {
+      "text": "hai.",
+      "startFrame": 291,
+      "endFrame": 294,
+      "startMs": 9700.0,
+      "endMs": 9800.0,
+      "sourceStart": 11.16,
+      "sourceEnd": 11.26
+    },
+    {
+      "text": "Step",
+      "startFrame": 299,
+      "endFrame": 307,
+      "startMs": 9966.667,
+      "endMs": 10233.333,
+      "sourceStart": 11.77,
+      "sourceEnd": 12.02
+    },
+    {
+      "text": "2.",
+      "startFrame": 307,
+      "endFrame": 313,
+      "startMs": 10233.333,
+      "endMs": 10433.333,
+      "sourceStart": 12.02,
+      "sourceEnd": 12.23
+    },
+    {
+      "text": "Focus",
+      "startFrame": 326,
+      "endFrame": 338,
+      "startMs": 10866.667,
+      "endMs": 11266.667,
+      "sourceStart": 12.68,
+      "sourceEnd": 13.06
+    },
+    {
+      "text": "preparation.",
+      "startFrame": 338,
+      "endFrame": 355,
+      "startMs": 11266.667,
+      "endMs": 11833.333,
+      "sourceStart": 13.06,
+      "sourceEnd": 13.62
+    },
+    {
+      "text": "Aap",
+      "startFrame": 360,
+      "endFrame": 365,
+      "startMs": 12000.0,
+      "endMs": 12166.667,
+      "sourceStart": 13.96,
+      "sourceEnd": 14.14
+    },
+    {
+      "text": "kaunsa",
+      "startFrame": 368,
+      "endFrame": 379,
+      "startMs": 12266.667,
+      "endMs": 12633.333,
+      "sourceStart": 14.25,
+      "sourceEnd": 14.6
+    },
+    {
+      "text": "entrance",
+      "startFrame": 379,
+      "endFrame": 389,
+      "startMs": 12633.333,
+      "endMs": 12966.667,
+      "sourceStart": 14.6,
+      "sourceEnd": 14.94
+    },
+    {
+      "text": "target",
+      "startFrame": 389,
+      "endFrame": 397,
+      "startMs": 12966.667,
+      "endMs": 13233.333,
+      "sourceStart": 14.94,
+      "sourceEnd": 15.2
+    },
+    {
+      "text": "kar",
+      "startFrame": 397,
+      "endFrame": 402,
+      "startMs": 13233.333,
+      "endMs": 13400.0,
+      "sourceStart": 15.2,
+      "sourceEnd": 15.36
+    },
+    {
+      "text": "rahe",
+      "startFrame": 402,
+      "endFrame": 406,
+      "startMs": 13400.0,
+      "endMs": 13533.333,
+      "sourceStart": 15.36,
+      "sourceEnd": 15.5
+    },
+    {
+      "text": "ho,",
+      "startFrame": 406,
+      "endFrame": 411,
+      "startMs": 13533.333,
+      "endMs": 13700.0,
+      "sourceStart": 15.5,
+      "sourceEnd": 15.66
+    },
+    {
+      "text": "usi",
+      "startFrame": 421,
+      "endFrame": 428,
+      "startMs": 14033.333,
+      "endMs": 14266.667,
+      "sourceStart": 15.99,
+      "sourceEnd": 16.22
+    },
+    {
+      "text": "according",
+      "startFrame": 428,
+      "endFrame": 438,
+      "startMs": 14266.667,
+      "endMs": 14600.0,
+      "sourceStart": 16.22,
+      "sourceEnd": 16.58
+    },
+    {
+      "text": "preparation",
+      "startFrame": 438,
+      "endFrame": 455,
+      "startMs": 14600.0,
+      "endMs": 15166.667,
+      "sourceStart": 16.58,
+      "sourceEnd": 17.12
+    },
+    {
+      "text": "honi",
+      "startFrame": 460,
+      "endFrame": 468,
+      "startMs": 15333.333,
+      "endMs": 15600.0,
+      "sourceStart": 17.31,
+      "sourceEnd": 17.56
+    },
+    {
+      "text": "chahiye.",
+      "startFrame": 468,
+      "endFrame": 473,
+      "startMs": 15600.0,
+      "endMs": 15766.667,
+      "sourceStart": 17.56,
+      "sourceEnd": 17.72
+    },
+    {
+      "text": "Step",
+      "startFrame": 478,
+      "endFrame": 485,
+      "startMs": 15933.333,
+      "endMs": 16166.667,
+      "sourceStart": 18.22,
+      "sourceEnd": 18.48
+    },
+    {
+      "text": "3.",
+      "startFrame": 485,
+      "endFrame": 494,
+      "startMs": 16166.667,
+      "endMs": 16466.667,
+      "sourceStart": 18.48,
+      "sourceEnd": 18.75
+    },
+    {
+      "text": "Mocks.",
+      "startFrame": 503,
+      "endFrame": 518,
+      "startMs": 16766.667,
+      "endMs": 17266.667,
+      "sourceStart": 19.07,
+      "sourceEnd": 19.56
+    },
+    {
+      "text": "Sirf",
+      "startFrame": 523,
+      "endFrame": 531,
+      "startMs": 17433.333,
+      "endMs": 17700.0,
+      "sourceStart": 19.91,
+      "sourceEnd": 20.16
+    },
+    {
+      "text": "marks",
+      "startFrame": 531,
+      "endFrame": 541,
+      "startMs": 17700.0,
+      "endMs": 18033.333,
+      "sourceStart": 20.16,
+      "sourceEnd": 20.51
+    },
+    {
+      "text": "hi",
+      "startFrame": 541,
+      "endFrame": 546,
+      "startMs": 18033.333,
+      "endMs": 18200.0,
+      "sourceStart": 20.51,
+      "sourceEnd": 20.67
+    },
+    {
+      "text": "nahi,",
+      "startFrame": 546,
+      "endFrame": 556,
+      "startMs": 18200.0,
+      "endMs": 18533.333,
+      "sourceStart": 20.67,
+      "sourceEnd": 21.0
+    },
+    {
+      "text": "reviews,",
+      "startFrame": 566,
+      "endFrame": 584,
+      "startMs": 18866.667,
+      "endMs": 19466.667,
+      "sourceStart": 21.34,
+      "sourceEnd": 21.95
+    },
+    {
+      "text": "analysis,",
+      "startFrame": 592,
+      "endFrame": 611,
+      "startMs": 19733.333,
+      "endMs": 20366.667,
+      "sourceStart": 22.2,
+      "sourceEnd": 22.83
+    },
+    {
+      "text": "aapka",
+      "startFrame": 616,
+      "endFrame": 623,
+      "startMs": 20533.333,
+      "endMs": 20766.667,
+      "sourceStart": 22.99,
+      "sourceEnd": 23.24
+    },
+    {
+      "text": "time",
+      "startFrame": 623,
+      "endFrame": 630,
+      "startMs": 20766.667,
+      "endMs": 21000.0,
+      "sourceStart": 23.24,
+      "sourceEnd": 23.48
+    },
+    {
+      "text": "kahaan",
+      "startFrame": 630,
+      "endFrame": 642,
+      "startMs": 21000.0,
+      "endMs": 21400.0,
+      "sourceStart": 23.48,
+      "sourceEnd": 23.86
+    },
+    {
+      "text": "consume",
+      "startFrame": 642,
+      "endFrame": 650,
+      "startMs": 21400.0,
+      "endMs": 21666.667,
+      "sourceStart": 23.86,
+      "sourceEnd": 24.14
+    },
+    {
+      "text": "ho",
+      "startFrame": 650,
+      "endFrame": 654,
+      "startMs": 21666.667,
+      "endMs": 21800.0,
+      "sourceStart": 24.14,
+      "sourceEnd": 24.26
+    },
+    {
+      "text": "raha",
+      "startFrame": 654,
+      "endFrame": 657,
+      "startMs": 21800.0,
+      "endMs": 21900.0,
+      "sourceStart": 24.26,
+      "sourceEnd": 24.38
+    },
+    {
+      "text": "hai,",
+      "startFrame": 657,
+      "endFrame": 660,
+      "startMs": 21900.0,
+      "endMs": 22000.0,
+      "sourceStart": 24.38,
+      "sourceEnd": 24.45
+    },
+    {
+      "text": "aur",
+      "startFrame": 667,
+      "endFrame": 671,
+      "startMs": 22233.333,
+      "endMs": 22366.667,
+      "sourceStart": 24.71,
+      "sourceEnd": 24.82
+    },
+    {
+      "text": "sab",
+      "startFrame": 671,
+      "endFrame": 676,
+      "startMs": 22366.667,
+      "endMs": 22533.333,
+      "sourceStart": 24.82,
+      "sourceEnd": 25.01
+    },
+    {
+      "text": "kuch.",
+      "startFrame": 676,
+      "endFrame": 682,
+      "startMs": 22533.333,
+      "endMs": 22733.333,
+      "sourceStart": 25.01,
+      "sourceEnd": 25.21
+    },
+    {
+      "text": "Step",
+      "startFrame": 688,
+      "endFrame": 696,
+      "startMs": 22933.333,
+      "endMs": 23200.0,
+      "sourceStart": 25.78,
+      "sourceEnd": 26.02
+    },
+    {
+      "text": "4.",
+      "startFrame": 696,
+      "endFrame": 703,
+      "startMs": 23200.0,
+      "endMs": 23433.333,
+      "sourceStart": 26.02,
+      "sourceEnd": 26.27
+    },
+    {
+      "text": "Interview",
+      "startFrame": 709,
+      "endFrame": 721,
+      "startMs": 23633.333,
+      "endMs": 24033.333,
+      "sourceStart": 26.46,
+      "sourceEnd": 26.88
+    },
+    {
+      "text": "preparation.",
+      "startFrame": 721,
+      "endFrame": 734,
+      "startMs": 24033.333,
+      "endMs": 24466.667,
+      "sourceStart": 26.88,
+      "sourceEnd": 27.31
+    },
+    {
+      "text": "Kyunki",
+      "startFrame": 740,
+      "endFrame": 749,
+      "startMs": 24666.667,
+      "endMs": 24966.667,
+      "sourceStart": 27.73,
+      "sourceEnd": 28.04
+    },
+    {
+      "text": "selection",
+      "startFrame": 753,
+      "endFrame": 767,
+      "startMs": 25100.0,
+      "endMs": 25566.667,
+      "sourceStart": 28.18,
+      "sourceEnd": 28.64
+    },
+    {
+      "text": "mein",
+      "startFrame": 767,
+      "endFrame": 774,
+      "startMs": 25566.667,
+      "endMs": 25800.0,
+      "sourceStart": 28.64,
+      "sourceEnd": 28.85
+    },
+    {
+      "text": "khaali",
+      "startFrame": 783,
+      "endFrame": 790,
+      "startMs": 26100.0,
+      "endMs": 26333.333,
+      "sourceStart": 29.17,
+      "sourceEnd": 29.4
+    },
+    {
+      "text": "aapke",
+      "startFrame": 790,
+      "endFrame": 798,
+      "startMs": 26333.333,
+      "endMs": 26600.0,
+      "sourceStart": 29.4,
+      "sourceEnd": 29.68
+    },
+    {
+      "text": "marks",
+      "startFrame": 798,
+      "endFrame": 809,
+      "startMs": 26600.0,
+      "endMs": 26966.667,
+      "sourceStart": 29.68,
+      "sourceEnd": 30.02
+    },
+    {
+      "text": "nahi,",
+      "startFrame": 809,
+      "endFrame": 815,
+      "startMs": 26966.667,
+      "endMs": 27166.667,
+      "sourceStart": 30.02,
+      "sourceEnd": 30.24
+    },
+    {
+      "text": "but",
+      "startFrame": 824,
+      "endFrame": 827,
+      "startMs": 27466.667,
+      "endMs": 27566.667,
+      "sourceStart": 30.53,
+      "sourceEnd": 30.65
+    },
+    {
+      "text": "aapko",
+      "startFrame": 834,
+      "endFrame": 845,
+      "startMs": 27800.0,
+      "endMs": 28166.667,
+      "sourceStart": 30.85,
+      "sourceEnd": 31.22
+    },
+    {
+      "text": "bhi",
+      "startFrame": 845,
+      "endFrame": 848,
+      "startMs": 28166.667,
+      "endMs": 28266.667,
+      "sourceStart": 31.22,
+      "sourceEnd": 31.32
+    },
+    {
+      "text": "dekha",
+      "startFrame": 848,
+      "endFrame": 854,
+      "startMs": 28266.667,
+      "endMs": 28466.667,
+      "sourceStart": 31.32,
+      "sourceEnd": 31.52
+    },
+    {
+      "text": "jaata",
+      "startFrame": 854,
+      "endFrame": 859,
+      "startMs": 28466.667,
+      "endMs": 28633.333,
+      "sourceStart": 31.52,
+      "sourceEnd": 31.7
+    },
+    {
+      "text": "hai.",
+      "startFrame": 859,
+      "endFrame": 863,
+      "startMs": 28633.333,
+      "endMs": 28766.667,
+      "sourceStart": 31.7,
+      "sourceEnd": 31.83
+    },
+    {
+      "text": "Toh",
+      "startFrame": 870,
+      "endFrame": 875,
+      "startMs": 29000.0,
+      "endMs": 29166.667,
+      "sourceStart": 32.42,
+      "sourceEnd": 32.61
+    },
+    {
+      "text": "diagnostic",
+      "startFrame": 881,
+      "endFrame": 900,
+      "startMs": 29366.667,
+      "endMs": 30000.0,
+      "sourceStart": 32.8,
+      "sourceEnd": 33.44
+    },
+    {
+      "text": "se",
+      "startFrame": 900,
+      "endFrame": 904,
+      "startMs": 30000.0,
+      "endMs": 30133.333,
+      "sourceStart": 33.44,
+      "sourceEnd": 33.56
+    },
+    {
+      "text": "leke",
+      "startFrame": 904,
+      "endFrame": 913,
+      "startMs": 30133.333,
+      "endMs": 30433.333,
+      "sourceStart": 33.56,
+      "sourceEnd": 33.86
+    },
+    {
+      "text": "interview",
+      "startFrame": 913,
+      "endFrame": 930,
+      "startMs": 30433.333,
+      "endMs": 31000.0,
+      "sourceStart": 33.86,
+      "sourceEnd": 34.44
+    },
+    {
+      "text": "tak",
+      "startFrame": 930,
+      "endFrame": 937,
+      "startMs": 31000.0,
+      "endMs": 31233.333,
+      "sourceStart": 34.44,
+      "sourceEnd": 34.66
+    },
+    {
+      "text": "ke",
+      "startFrame": 937,
+      "endFrame": 941,
+      "startMs": 31233.333,
+      "endMs": 31366.667,
+      "sourceStart": 34.66,
+      "sourceEnd": 34.8
+    },
+    {
+      "text": "liye",
+      "startFrame": 941,
+      "endFrame": 947,
+      "startMs": 31366.667,
+      "endMs": 31566.667,
+      "sourceStart": 34.8,
+      "sourceEnd": 35.01
+    },
+    {
+      "text": "ek",
+      "startFrame": 956,
+      "endFrame": 962,
+      "startMs": 31866.667,
+      "endMs": 32066.667,
+      "sourceStart": 35.29,
+      "sourceEnd": 35.5
+    },
+    {
+      "text": "hi",
+      "startFrame": 962,
+      "endFrame": 964,
+      "startMs": 32066.667,
+      "endMs": 32133.333,
+      "sourceStart": 35.5,
+      "sourceEnd": 35.58
+    },
+    {
+      "text": "system.",
+      "startFrame": 964,
+      "endFrame": 976,
+      "startMs": 32133.333,
+      "endMs": 32533.333,
+      "sourceStart": 35.58,
+      "sourceEnd": 35.96
+    },
+    {
+      "text": "Clarity,",
+      "startFrame": 982,
+      "endFrame": 999,
+      "startMs": 32733.333,
+      "endMs": 33300.0,
+      "sourceStart": 36.77,
+      "sourceEnd": 37.32
+    },
+    {
+      "text": "preparedness",
+      "startFrame": 1005,
+      "endFrame": 1022,
+      "startMs": 33500.0,
+      "endMs": 34066.667,
+      "sourceStart": 37.79,
+      "sourceEnd": 38.37
+    },
+    {
+      "text": "and",
+      "startFrame": 1028,
+      "endFrame": 1034,
+      "startMs": 34266.667,
+      "endMs": 34466.667,
+      "sourceStart": 38.57,
+      "sourceEnd": 38.76
+    },
+    {
+      "text": "guidance.",
+      "startFrame": 1034,
+      "endFrame": 1051,
+      "startMs": 34466.667,
+      "endMs": 35033.333,
+      "sourceStart": 38.76,
+      "sourceEnd": 39.34
+    },
+    {
+      "text": "Agar",
+      "startFrame": 1057,
+      "endFrame": 1063,
+      "startMs": 35233.333,
+      "endMs": 35433.333,
+      "sourceStart": 39.87,
+      "sourceEnd": 40.06
+    },
+    {
+      "text": "aapko",
+      "startFrame": 1063,
+      "endFrame": 1070,
+      "startMs": 35433.333,
+      "endMs": 35666.667,
+      "sourceStart": 40.06,
+      "sourceEnd": 40.3
+    },
+    {
+      "text": "bhi",
+      "startFrame": 1070,
+      "endFrame": 1073,
+      "startMs": 35666.667,
+      "endMs": 35766.667,
+      "sourceStart": 40.3,
+      "sourceEnd": 40.4
+    },
+    {
+      "text": "apna",
+      "startFrame": 1073,
+      "endFrame": 1078,
+      "startMs": 35766.667,
+      "endMs": 35933.333,
+      "sourceStart": 40.4,
+      "sourceEnd": 40.56
+    },
+    {
+      "text": "diagnostic",
+      "startFrame": 1078,
+      "endFrame": 1092,
+      "startMs": 35933.333,
+      "endMs": 36400.0,
+      "sourceStart": 40.56,
+      "sourceEnd": 41.02
+    },
+    {
+      "text": "start",
+      "startFrame": 1092,
+      "endFrame": 1099,
+      "startMs": 36400.0,
+      "endMs": 36633.333,
+      "sourceStart": 41.02,
+      "sourceEnd": 41.28
+    },
+    {
+      "text": "karna",
+      "startFrame": 1099,
+      "endFrame": 1105,
+      "startMs": 36633.333,
+      "endMs": 36833.333,
+      "sourceStart": 41.28,
+      "sourceEnd": 41.46
+    },
+    {
+      "text": "hai,",
+      "startFrame": 1105,
+      "endFrame": 1109,
+      "startMs": 36833.333,
+      "endMs": 36966.667,
+      "sourceStart": 41.46,
+      "sourceEnd": 41.6
+    },
+    {
+      "text": "visit",
+      "startFrame": 1120,
+      "endFrame": 1129,
+      "startMs": 37333.333,
+      "endMs": 37633.333,
+      "sourceStart": 41.98,
+      "sourceEnd": 42.26
+    },
+    {
+      "text": "niolearn.com",
+      "startFrame": 1136,
+      "endFrame": 1159,
+      "startMs": 37866.667,
+      "endMs": 38633.333,
+      "sourceStart": 42.5,
+      "sourceEnd": 43.26
+    }
+  ]
+}

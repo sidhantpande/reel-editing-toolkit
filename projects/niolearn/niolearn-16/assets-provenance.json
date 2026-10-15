@@ -1,0 +1,35 @@
+{
+  "project": "niolearn-16",
+  "newSource": "src/projects/StudyBroll.tsx",
+  "newMotion": [
+    "nio-mock-read",
+    "nio-mock-eliminate",
+    "nio-story-mock"
+  ],
+  "creation": "Original deterministic Canvas sheet, magnifier, option-elimination geometry and continuous Remotion story.",
+  "reuse": [
+    {
+      "kind": "nio-study-choice",
+      "source": "src/projects/StudyBroll.tsx",
+      "assetProject": "niolearn-09"
+    },
+    {
+      "kind": "nio-system-review",
+      "source": "src/projects/Nio07Broll.tsx",
+      "assetProject": "niolearn-07"
+    }
+  ],
+  "alphaExports": "public/assets/projects/niolearn-16",
+  "claims": "Generic question/option illustrations only; no fabricated mock scores, actual test questions or claimed probabilities.",
+  "music": "Original project synthesized bed and transition air",
+  "captions": "Source-aligned words, with source identifiers for both camera recordings and restrained brand accents.",
+  "motionRevision": "2026-10-15 sustained motion after reference re-study",
+  "motionReferenceStudy": "docs/REFERENCE_ANALYSIS.md#motion-re-study--batch-revision",
+  "ongoingActions": [
+    "Slow controlled art push and lateral drift",
+    "Moving inspection lens in curiosity/read scenes",
+    "Continuing clock hand and changing review focus",
+    "Code cursor moves through program rows",
+    "Longer explanations transition between linked compositions"
+  ]
+}

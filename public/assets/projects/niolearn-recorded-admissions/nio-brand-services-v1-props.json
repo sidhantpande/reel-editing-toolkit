@@ -1,0 +1,18 @@
+{
+  "kind": "nio-brand-services",
+  "duration": 360,
+  "transparent": true,
+  "beats": [
+    100,
+    180,
+    220,
+    248
+  ],
+  "labels": [
+    "nio-system-prep",
+    "nio-system-interview",
+    "nio-system-prep",
+    "nio-system-review",
+    "nio-system-path"
+  ]
+}

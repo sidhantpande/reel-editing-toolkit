@@ -1,0 +1,12 @@
+{
+  "project": "niolearn-recorded-admissions",
+  "sourceRecordings": [
+    "IMG_5990.mov"
+  ],
+  "review": "Chronological source contact sheets inspected; native-language word transcript reviewed alongside waveform pause log. Clean source takes selected; trailing screen looks and abandoned repeated lines excluded.",
+  "cutList": "cut-list.json",
+  "captionSource": "source-words.json",
+  "editorial": "editorial.json",
+  "contentReview": "Recorded first-cohort/2027 admissions announcement, retained as source dialogue for user review. No independent verification of availability is implied. No added deadline, price or outcome promise.",
+  "finalStatus": "Requires actual encoded visual, dialogue, motion and finish review before completion."
+}

@@ -1,0 +1,16 @@
+{
+  "video": "/Users/sidhant/Desktop/NioLearn-Reels/deliverables/niolearn/NIOLEARN_10_Brand_Introduction_v1.mp4",
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "frames": 1659,
+  "fps": "30/1",
+  "durationSeconds": 55.317,
+  "fullDecode": "passed",
+  "audioLUFS": -14.01,
+  "audioTruePeakDBTP": -1.91,
+  "loudnessRangeLU": 4.7,
+  "blackIntervals": [],
+  "boundaryEvents": 29
+}

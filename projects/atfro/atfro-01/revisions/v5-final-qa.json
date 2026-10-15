@@ -1,0 +1,23 @@
+{
+  "export": "deliverables/atfro/ATFRO_01_reedit_v5.mp4",
+  "sha256": "c14b23df6bde8d8e1f8448eb88a76325afa0f72e1a5f9ae0df8b5031cc84eeca",
+  "bytes": 34182029,
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "frames": 1181,
+  "durationSeconds": 39.36666666666667,
+  "audioLUFS": -14.0,
+  "audioTruePeakDBTP": -2.11,
+  "fullDecode": "passed",
+  "blackFramesDetected": false,
+  "captions": {
+    "groups": 38,
+    "spokenWordsMatched": 113,
+    "manualVisualReview": "All 38 encoded caption groups present. Reviewed complete group contact sheet; OCR noise on patterned shirt was visually resolved.",
+    "timingCheck": "projects/atfro/atfro-01/analysis/revision-4-caption-timing-check.json"
+  },
+  "transitions": "Reviewed before/after frames for every source edit, B-roll dissolves and clean logo-card boundary.",
+  "broll": "Two 1080x1920 reusable WebM clips decoded with alpha channel verified. No extra B-roll text labels; captions in dedicated lower area.",
+  "status": "awaiting-user-review"
+}

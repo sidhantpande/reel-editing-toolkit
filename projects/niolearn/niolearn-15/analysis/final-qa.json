@@ -1,0 +1,32 @@
+{
+  "export": "deliverables/niolearn/NIOLEARN_05_Beyond_Marks_v1.mp4",
+  "title": "Beyond_Marks",
+  "order": "05",
+  "sha256": "8721a7d7e2b14f38a69316a90f75d98f316b97565daff4f86c69ce669b30abdf",
+  "bytes": 32926521,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "frames": 1355,
+  "durationSeconds": 45.166666666666664,
+  "dialogueFrames": 1310,
+  "captions": {
+    "words": 128,
+    "groups": 44,
+    "color": "Opt-in bright teal on camera and darker teal on ivory; one main keyword per phrase; brand/domain always colored.",
+    "visualReview": "Every caption group and encoded transition-boundary contact inspected.",
+    "sourceAlignment": "Reviewed source-language medium word transcript, manually corrected names/English terms and pause overhangs, mapped through exact 30fps source cuts."
+  },
+  "boundaryEvents": 18,
+  "audioLUFS": -14.07,
+  "audioTruePeakDBTP": -1.36,
+  "fullDecode": "passed",
+  "blackFramesDetected": false,
+  "reusableAlphaScenes": 1,
+  "alphaCheck": "analysis/alpha-check.json",
+  "ending": "Original brand logo only on ivory; no additional text.",
+  "status": "awaiting-user-review",
+  "rebuild": "bash tools/render_reviewed_reel.sh projects/niolearn/niolearn-15 deliverables/niolearn/NIOLEARN_05_Beyond_Marks_v1.mp4"
+}

@@ -1,0 +1,87 @@
+{
+  "id": "niolearn-09",
+  "brand": "niolearn",
+  "status": "edited-awaiting-user-review",
+  "sourceClips": [
+    "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+  ],
+  "format": "REEL",
+  "captionPreset": "reference",
+  "broll": [
+    {
+      "kind": "nio-study-choice",
+      "duration": 163,
+      "fadeFrames": 8,
+      "from": 116
+    },
+    {
+      "kind": "nio-study-logic",
+      "duration": 194,
+      "fadeFrames": 8,
+      "from": 294
+    },
+    {
+      "kind": "nio-system-review",
+      "duration": 189,
+      "fadeFrames": 8,
+      "from": 501
+    }
+  ],
+  "notes": [
+    "Source script timings are estimates. Match recorded dialogue before final captions.",
+    "Review all fact placeholders before final export.",
+    "Recorded dialogue differs from the exact script; caption the take."
+  ],
+  "takes": [
+    {
+      "project": "niolearn-09",
+      "brand": "niolearn",
+      "file": "IMG_5952.mov",
+      "path": "media/raw/niolearn/niolearn-09/IMG_5952.mov",
+      "role": "main",
+      "confidence": "high",
+      "evidence": "Three entrance mistakes: attempting everything, formula-only study, mocks without analysis.",
+      "edit_note": "Recorded dialogue differs from the exact script; caption the take.",
+      "asr_draft": ".cache/transcripts-en/IMG_5952.json"
+    }
+  ],
+  "captionBeats": [
+    "Choose questions",
+    "Understand the logic",
+    "Review every mock"
+  ],
+  "suggestedBroll": [
+    {
+      "spokenAnchor": "When all questions are treated equally",
+      "composition": "Broll-timeline",
+      "asset": "public/assets/broll/niolearn-timeline.webm",
+      "timingStatus": "Resolve against edited recording; no frame cue assigned"
+    },
+    {
+      "spokenAnchor": "When reasoning is contrasted with formulas",
+      "composition": "Broll-compare",
+      "asset": "public/assets/broll/niolearn-compare.webm",
+      "timingStatus": "Resolve against edited recording; no frame cue assigned"
+    }
+  ],
+  "soundDirection": {
+    "music": "calm-focus",
+    "voicePriority": true,
+    "sfx": [
+      "soft-whoosh at a major graphic reveal",
+      "soft-tick only for a real timer"
+    ],
+    "avoid": "A sound effect on every caption word"
+  },
+  "creativeNote": "Use one selected keyword per beat; maintain spoken Hinglish.",
+  "visualDirection": "light-editorial-v3",
+  "preferredPremiumScene": {
+    "composition": "Premium-paper-pathways",
+    "kind": "paper-pathways",
+    "asset": "public/assets/broll/niolearn-premium-paper-pathways-v3.webm",
+    "source": "src/premium/PaperScene.tsx",
+    "note": "Use opaque paper scenes for full B-roll; alpha versions are reusable overlays. Functional first-generation diagrams can be restyled as needed."
+  },
+  "output": "deliverables/niolearn/NIOLEARN_03_Entrance_Mistakes_v2.mp4",
+  "finalQA": "analysis/final-qa.json"
+}

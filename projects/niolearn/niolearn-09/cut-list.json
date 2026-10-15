@@ -1,0 +1,185 @@
+{
+  "id": "niolearn-09",
+  "fps": 30,
+  "dialogueFrames": 1037,
+  "endHoldFrames": 45,
+  "totalFrames": 1082,
+  "cuts": [
+    {
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov",
+      "inFrame": 43,
+      "outFrame": 124,
+      "timelineFrom": 0,
+      "duration": 81,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Maths hook, omit uncertain opening pickup"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov",
+      "inFrame": 131,
+      "outFrame": 151,
+      "timelineFrom": 81,
+      "duration": 20,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Why hook"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov",
+      "inFrame": 168,
+      "outFrame": 252,
+      "timelineFrom": 101,
+      "duration": 84,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "First mistake"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov",
+      "inFrame": 280,
+      "outFrame": 366,
+      "timelineFrom": 185,
+      "duration": 86,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Time and smart choice"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov",
+      "inFrame": 382,
+      "outFrame": 444,
+      "timelineFrom": 271,
+      "duration": 62,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Second mistake"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov",
+      "inFrame": 450,
+      "outFrame": 494,
+      "timelineFrom": 333,
+      "duration": 44,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Entrance is more than maths"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov",
+      "inFrame": 500,
+      "outFrame": 603,
+      "timelineFrom": 377,
+      "duration": 103,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Reasoning, logic and patterns"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov",
+      "inFrame": 620,
+      "outFrame": 750,
+      "timelineFrom": 480,
+      "duration": 130,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Third mistake: mocks without analysis"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov",
+      "inFrame": 759,
+      "outFrame": 831,
+      "timelineFrom": 610,
+      "duration": 72,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Analysis matters"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov",
+      "inFrame": 866,
+      "outFrame": 916,
+      "timelineFrom": 682,
+      "duration": 50,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Entrance summary"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov",
+      "inFrame": 920,
+      "outFrame": 946,
+      "timelineFrom": 732,
+      "duration": 26,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Strategy"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov",
+      "inFrame": 956,
+      "outFrame": 1008,
+      "timelineFrom": 758,
+      "duration": 52,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Reasoning and review"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov",
+      "inFrame": 1016,
+      "outFrame": 1087,
+      "timelineFrom": 810,
+      "duration": 71,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Three skills make a difference"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov",
+      "inFrame": 1111,
+      "outFrame": 1178,
+      "timelineFrom": 881,
+      "duration": 67,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Comment prompt"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov",
+      "inFrame": 1184,
+      "outFrame": 1234,
+      "timelineFrom": 948,
+      "duration": 50,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Improve mistakes"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov",
+      "inFrame": 1243,
+      "outFrame": 1282,
+      "timelineFrom": 998,
+      "duration": 39,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Website CTA"
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+[
+  {
+    "kind": "atfro-school-film",
+    "fromSeconds": 1.1333333333333333,
+    "toSeconds": 5.833333333333333,
+    "lateFramePairs": [
+      {
+        "fromSeconds": 2.5,
+        "toSeconds": 3.0,
+        "meanPixelChange": 1.5666,
+        "changedPixelFraction": 0.11246
+      },
+      {
+        "fromSeconds": 3.0,
+        "toSeconds": 3.5,
+        "meanPixelChange": 0.58,
+        "changedPixelFraction": 0.03625
+      },
+      {
+        "fromSeconds": 3.5,
+        "toSeconds": 4.0,
+        "meanPixelChange": 0.248,
+        "changedPixelFraction": 0.02719
+      },
+      {
+        "fromSeconds": 4.0,
+        "toSeconds": 4.5,
+        "meanPixelChange": 0.2019,
+        "changedPixelFraction": 0.02012
+      },
+      {
+        "fromSeconds": 4.5,
+        "toSeconds": 5.0,
+        "meanPixelChange": 0.1936,
+        "changedPixelFraction": 0.01842
+      }
+    ],
+    "staticLatePairs": []
+  },
+  {
+    "kind": "atfro-school-plan",
+    "fromSeconds": 15.466666666666667,
+    "toSeconds": 24.9,
+    "lateFramePairs": [
+      {
+        "fromSeconds": 17.0,
+        "toSeconds": 17.5,
+        "meanPixelChange": 0.4204,
+        "changedPixelFraction": 0.02517
+      },
+      {
+        "fromSeconds": 17.5,
+        "toSeconds": 18.0,
+        "meanPixelChange": 0.3562,
+        "changedPixelFraction": 0.02074
+      },
+      {
+        "fromSeconds": 18.0,
+        "toSeconds": 18.5,
+        "meanPixelChange": 0.2914,
+        "changedPixelFraction": 0.01749
+      },
+      {
+        "fromSeconds": 18.5,
+        "toSeconds": 19.0,
+        "meanPixelChange": 0.2422,
+        "changedPixelFraction": 0.01596
+      },
+      {
+        "fromSeconds": 19.0,
+        "toSeconds": 19.5,
+        "meanPixelChange": 0.2347,
+        "changedPixelFraction": 0.0153
+      },
+      {
+        "fromSeconds": 19.5,
+        "toSeconds": 20.0,
+        "meanPixelChange": 5.9997,
+        "changedPixelFraction": 0.29671
+      },
+      {
+        "fromSeconds": 20.0,
+        "toSeconds": 20.5,
+        "meanPixelChange": 3.2464,
+        "changedPixelFraction": 0.33066
+      },
+      {
+        "fromSeconds": 20.5,
+        "toSeconds": 21.0,
+        "meanPixelChange": 0.8123,
+        "changedPixelFraction": 0.0459
+      },
+      {
+        "fromSeconds": 21.0,
+        "toSeconds": 21.5,
+        "meanPixelChange": 0.3245,
+        "changedPixelFraction": 0.03498
+      },
+      {
+        "fromSeconds": 21.5,
+        "toSeconds": 22.0,
+        "meanPixelChange": 0.8405,
+        "changedPixelFraction": 0.04766
+      },
+      {
+        "fromSeconds": 22.0,
+        "toSeconds": 22.5,
+        "meanPixelChange": 0.3366,
+        "changedPixelFraction": 0.03559
+      },
+      {
+        "fromSeconds": 22.5,
+        "toSeconds": 23.0,
+        "meanPixelChange": 0.8405,
+        "changedPixelFraction": 0.04759
+      },
+      {
+        "fromSeconds": 23.0,
+        "toSeconds": 23.5,
+        "meanPixelChange": 0.3522,
+        "changedPixelFraction": 0.03597
+      },
+      {
+        "fromSeconds": 23.5,
+        "toSeconds": 24.0,
+        "meanPixelChange": 0.8595,
+        "changedPixelFraction": 0.04744
+      },
+      {
+        "fromSeconds": 24.0,
+        "toSeconds": 24.5,
+        "meanPixelChange": 30.3284,
+        "changedPixelFraction": 0.8956
+      }
+    ],
+    "staticLatePairs": []
+  },
+  {
+    "kind": "atfro-school-workflow",
+    "fromSeconds": 25.766666666666666,
+    "toSeconds": 32.6,
+    "lateFramePairs": [
+      {
+        "fromSeconds": 27.0,
+        "toSeconds": 27.5,
+        "meanPixelChange": 0.3851,
+        "changedPixelFraction": 0.0361
+      },
+      {
+        "fromSeconds": 27.5,
+        "toSeconds": 28.0,
+        "meanPixelChange": 0.2582,
+        "changedPixelFraction": 0.01724
+      },
+      {
+        "fromSeconds": 28.0,
+        "toSeconds": 28.5,
+        "meanPixelChange": 0.1997,
+        "changedPixelFraction": 0.01503
+      },
+      {
+        "fromSeconds": 28.5,
+        "toSeconds": 29.0,
+        "meanPixelChange": 0.1643,
+        "changedPixelFraction": 0.01304
+      },
+      {
+        "fromSeconds": 29.0,
+        "toSeconds": 29.5,
+        "meanPixelChange": 0.1474,
+        "changedPixelFraction": 0.01184
+      },
+      {
+        "fromSeconds": 29.5,
+        "toSeconds": 30.0,
+        "meanPixelChange": 0.175,
+        "changedPixelFraction": 0.01336
+      },
+      {
+        "fromSeconds": 30.0,
+        "toSeconds": 30.5,
+        "meanPixelChange": 0.2175,
+        "changedPixelFraction": 0.01526
+      },
+      {
+        "fromSeconds": 30.5,
+        "toSeconds": 31.0,
+        "meanPixelChange": 0.2713,
+        "changedPixelFraction": 0.01887
+      },
+      {
+        "fromSeconds": 31.0,
+        "toSeconds": 31.5,
+        "meanPixelChange": 0.3173,
+        "changedPixelFraction": 0.02274
+      },
+      {
+        "fromSeconds": 31.5,
+        "toSeconds": 32.0,
+        "meanPixelChange": 0.34,
+        "changedPixelFraction": 0.02219
+      }
+    ],
+    "staticLatePairs": []
+  }
+]

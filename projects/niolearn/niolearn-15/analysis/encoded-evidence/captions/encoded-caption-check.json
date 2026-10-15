@@ -1,0 +1,492 @@
+{
+  "video": "/Users/sidhant/Desktop/NioLearn-Reels/deliverables/niolearn/NIOLEARN_05_Beyond_Marks_v1.mp4",
+  "probe": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "mime_codec_string": "avc1.640028",
+        "width": 1080,
+        "height": 1920,
+        "coded_width": 1080,
+        "coded_height": 1920,
+        "has_b_frames": 2,
+        "pix_fmt": "yuv420p",
+        "level": 40,
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "time_base": "1/90000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 4065000,
+        "duration": "45.166667",
+        "bit_rate": "5631794",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "1355",
+        "extradata_size": 47,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "encoder": "Lavc61.19.100 libx264"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "mime_codec_string": "mp4a.40.2",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "initial_padding": 1024,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 2169600,
+        "duration": "45.200000",
+        "bit_rate": "190964",
+        "nb_frames": "2119",
+        "extradata_size": 5,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler"
+        }
+      }
+    ],
+    "format": {
+      "filename": "deliverables/niolearn/NIOLEARN_05_Beyond_Marks_v1.mp4",
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "45.200000",
+      "size": "32926521",
+      "bit_rate": "5827702",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf63.1.102",
+        "comment": "Made with Remotion 4.0.535"
+      }
+    }
+  },
+  "captions": [
+    {
+      "page": 0,
+      "sampleFrame": 32,
+      "expected": "Marks achhe hain,",
+      "ocr": "Marks achhe hain,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 1,
+      "sampleFrame": 73,
+      "expected": "lekin selection pakka nahi,",
+      "ocr": "lekin selection pakka\nnahi,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 2,
+      "sampleFrame": 85,
+      "expected": "kyun,",
+      "ocr": "| >) a TORT wr - q\nkyon\n\u2014 \u2018e or + A",
+      "similarity": 0.3,
+      "review": true
+    },
+    {
+      "page": 3,
+      "sampleFrame": 140,
+      "expected": "kyunki college bahut",
+      "ocr": "kyunki college bahut",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 4,
+      "sampleFrame": 171,
+      "expected": "saari cheezein dekhta hai.",
+      "ocr": "saari cheezein dekhta hai.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 5,
+      "sampleFrame": 187,
+      "expected": "Pehla,",
+      "ocr": "Pehla,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 6,
+      "sampleFrame": 229,
+      "expected": "problem solving,",
+      "ocr": "problem solving,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 7,
+      "sampleFrame": 260,
+      "expected": "aap naye questions",
+      "ocr": "aap naye questions",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 8,
+      "sampleFrame": 284,
+      "expected": "ko kaise approach",
+      "ocr": "ko kaise approach",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 9,
+      "sampleFrame": 306,
+      "expected": "karte ho,",
+      "ocr": "karte ho,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 10,
+      "sampleFrame": 332,
+      "expected": "yeh kaafi zyada",
+      "ocr": "yeh kaafi zyada",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 11,
+      "sampleFrame": 357,
+      "expected": "aapki thinking ke",
+      "ocr": "aapki thinking ke",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 12,
+      "sampleFrame": 378,
+      "expected": "baare bata deta hai.",
+      "ocr": "baare bata deta hai.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 13,
+      "sampleFrame": 393,
+      "expected": "Doosra,",
+      "ocr": "Doosra,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 14,
+      "sampleFrame": 426,
+      "expected": "communication.",
+      "ocr": "communication.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 15,
+      "sampleFrame": 473,
+      "expected": "Aapki baat rakhne mein",
+      "ocr": "Aapki baat rakhne mein",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 16,
+      "sampleFrame": 504,
+      "expected": "kitni clarity aur",
+      "ocr": "kitni clarity aur",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 17,
+      "sampleFrame": 534,
+      "expected": "kitna confidence hai,",
+      "ocr": "kitna confidence hai,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 18,
+      "sampleFrame": 568,
+      "expected": "yeh kaafi zyada",
+      "ocr": "yeh kaafi zyada",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 19,
+      "sampleFrame": 585,
+      "expected": "matter karta hai.",
+      "ocr": "matter karta hai.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 20,
+      "sampleFrame": 602,
+      "expected": "Teesra,",
+      "ocr": "Teesra,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 21,
+      "sampleFrame": 657,
+      "expected": "projects aur curiosity.",
+      "ocr": "projects aur curiosity.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 22,
+      "sampleFrame": 700,
+      "expected": "Aapne apni marzi se",
+      "ocr": "Aapne apni marzi se",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 23,
+      "sampleFrame": 725,
+      "expected": "koi project kiya",
+      "ocr": "koi project kiya",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 24,
+      "sampleFrame": 745,
+      "expected": "hai ki nahi,",
+      "ocr": "hai ki nahi,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 25,
+      "sampleFrame": 771,
+      "expected": "aur aapne apne",
+      "ocr": "aur aapne apne",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 26,
+      "sampleFrame": 806,
+      "expected": "interest ke within",
+      "ocr": "interest ke within",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 27,
+      "sampleFrame": 834,
+      "expected": "kiya hai ki nahi,",
+      "ocr": "kiya hai ki nahi,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 28,
+      "sampleFrame": 858,
+      "expected": "yeh kaafi zyada",
+      "ocr": "yeh kaafi zyada",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 29,
+      "sampleFrame": 880,
+      "expected": "dekha jaata hai.",
+      "ocr": "dekha jaata hai.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 30,
+      "sampleFrame": 905,
+      "expected": "Har college ka",
+      "ocr": "Har college ka",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 31,
+      "sampleFrame": 940,
+      "expected": "weightage alag hota hai,",
+      "ocr": "weightage alag hota hai,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 32,
+      "sampleFrame": 978,
+      "expected": "toh please verify",
+      "ocr": "toh please verify",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 33,
+      "sampleFrame": 1028,
+      "expected": "criteria of each college.",
+      "ocr": "criteria of each college.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 34,
+      "sampleFrame": 1063,
+      "expected": "Isliye preparation complete",
+      "ocr": "Isliye preparation\ncomplete",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 35,
+      "sampleFrame": 1081,
+      "expected": "honi chahiye,",
+      "ocr": "honi chahiye,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 36,
+      "sampleFrame": 1112,
+      "expected": "sirf marks ke",
+      "ocr": "",
+      "similarity": 0.0,
+      "review": true
+    },
+    {
+      "page": 37,
+      "sampleFrame": 1126,
+      "expected": "basis pe nahi.",
+      "ocr": "basis pe nahi.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 38,
+      "sampleFrame": 1157,
+      "expected": "Aap apni profile pe",
+      "ocr": "Aap apni profile pe",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 39,
+      "sampleFrame": 1181,
+      "expected": "kaunsi cheezein improve",
+      "ocr": "kaunsi cheezein improve",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 40,
+      "sampleFrame": 1203,
+      "expected": "karna chahte ho?",
+      "ocr": "karna chahte ho?",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 41,
+      "sampleFrame": 1233,
+      "expected": "Comments mein batao.",
+      "ocr": "Comments mein batao.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 42,
+      "sampleFrame": 1266,
+      "expected": "For more diagnostic,",
+      "ocr": "For more diagnostic,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 43,
+      "sampleFrame": 1309,
+      "expected": "go on niolearn.com",
+      "ocr": "go on niolearn.com",
+      "similarity": 1.0,
+      "review": false
+    }
+  ]
+}

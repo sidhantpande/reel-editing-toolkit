@@ -1,0 +1,715 @@
+{
+  "source": "IMG_5956.wav",
+  "language": "en",
+  "status": "ASR_DRAFT_FOR_MATCHING_NOT_FINAL_CAPTIONS",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " What do we have to say in the interview?",
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.72,
+          "text": " What",
+          "probability": 0.10061536729335785
+        },
+        {
+          "start": 0.72,
+          "end": 0.72,
+          "text": " do",
+          "probability": 0.3194252550601959
+        },
+        {
+          "start": 0.72,
+          "end": 0.72,
+          "text": " we",
+          "probability": 0.2564898431301117
+        },
+        {
+          "start": 0.72,
+          "end": 0.72,
+          "text": " have",
+          "probability": 0.7076314091682434
+        },
+        {
+          "start": 0.72,
+          "end": 0.72,
+          "text": " to",
+          "probability": 0.9712420701980591
+        },
+        {
+          "start": 0.72,
+          "end": 0.72,
+          "text": " say",
+          "probability": 0.8723204731941223
+        },
+        {
+          "start": 0.72,
+          "end": 0.72,
+          "text": " in",
+          "probability": 0.5576074719429016
+        },
+        {
+          "start": 0.72,
+          "end": 0.86,
+          "text": " the",
+          "probability": 0.5000463128089905
+        },
+        {
+          "start": 0.86,
+          "end": 1.0,
+          "text": " interview?",
+          "probability": 0.8648395538330078
+        }
+      ]
+    },
+    {
+      "start": 2.8,
+      "end": 6.3,
+      "text": " Three of the opinions that are more important than the mind.",
+      "words": [
+        {
+          "start": 2.8,
+          "end": 3.28,
+          "text": " Three",
+          "probability": 0.11179763078689575
+        },
+        {
+          "start": 3.28,
+          "end": 3.74,
+          "text": " of",
+          "probability": 0.20415911078453064
+        },
+        {
+          "start": 3.74,
+          "end": 3.86,
+          "text": " the",
+          "probability": 0.4137285053730011
+        },
+        {
+          "start": 3.86,
+          "end": 4.0,
+          "text": " opinions",
+          "probability": 0.10024966299533844
+        },
+        {
+          "start": 4.0,
+          "end": 4.2,
+          "text": " that",
+          "probability": 0.42724278569221497
+        },
+        {
+          "start": 4.2,
+          "end": 4.54,
+          "text": " are",
+          "probability": 0.3045714199542999
+        },
+        {
+          "start": 4.54,
+          "end": 4.54,
+          "text": " more",
+          "probability": 0.27374812960624695
+        },
+        {
+          "start": 4.54,
+          "end": 6.12,
+          "text": " important",
+          "probability": 0.11987306922674179
+        },
+        {
+          "start": 6.12,
+          "end": 6.3,
+          "text": " than",
+          "probability": 0.5742999911308289
+        },
+        {
+          "start": 6.3,
+          "end": 6.3,
+          "text": " the",
+          "probability": 0.2760673761367798
+        },
+        {
+          "start": 6.3,
+          "end": 6.3,
+          "text": " mind.",
+          "probability": 0.2575197219848633
+        }
+      ]
+    },
+    {
+      "start": 6.38,
+      "end": 10.12,
+      "text": " First, tell your problem that I always keep on having problems.",
+      "words": [
+        {
+          "start": 6.38,
+          "end": 6.94,
+          "text": " First,",
+          "probability": 0.7230185866355896
+        },
+        {
+          "start": 7.32,
+          "end": 7.56,
+          "text": " tell",
+          "probability": 0.7998131513595581
+        },
+        {
+          "start": 7.56,
+          "end": 7.72,
+          "text": " your",
+          "probability": 0.7391036748886108
+        },
+        {
+          "start": 7.72,
+          "end": 8.14,
+          "text": " problem",
+          "probability": 0.8522966504096985
+        },
+        {
+          "start": 8.14,
+          "end": 8.88,
+          "text": " that",
+          "probability": 0.5393823981285095
+        },
+        {
+          "start": 8.88,
+          "end": 9.38,
+          "text": " I",
+          "probability": 0.7669287323951721
+        },
+        {
+          "start": 9.38,
+          "end": 9.58,
+          "text": " always",
+          "probability": 0.5489495992660522
+        },
+        {
+          "start": 9.58,
+          "end": 9.82,
+          "text": " keep",
+          "probability": 0.4295307397842407
+        },
+        {
+          "start": 9.82,
+          "end": 9.84,
+          "text": " on",
+          "probability": 0.15780360996723175
+        },
+        {
+          "start": 9.84,
+          "end": 10.12,
+          "text": " having",
+          "probability": 0.049765244126319885
+        },
+        {
+          "start": 10.12,
+          "end": 10.12,
+          "text": " problems.",
+          "probability": 0.38148820400238037
+        }
+      ]
+    },
+    {
+      "start": 10.9,
+      "end": 13.74,
+      "text": " So that you can understand the interview and you apply here.",
+      "words": [
+        {
+          "start": 10.9,
+          "end": 11.16,
+          "text": " So",
+          "probability": 0.5312007069587708
+        },
+        {
+          "start": 11.16,
+          "end": 11.26,
+          "text": " that",
+          "probability": 0.8160712122917175
+        },
+        {
+          "start": 11.26,
+          "end": 11.54,
+          "text": " you",
+          "probability": 0.5388192534446716
+        },
+        {
+          "start": 11.54,
+          "end": 11.54,
+          "text": " can",
+          "probability": 0.3884548544883728
+        },
+        {
+          "start": 11.54,
+          "end": 11.54,
+          "text": " understand",
+          "probability": 0.42400339245796204
+        },
+        {
+          "start": 11.54,
+          "end": 11.54,
+          "text": " the",
+          "probability": 0.6407639384269714
+        },
+        {
+          "start": 11.54,
+          "end": 11.64,
+          "text": " interview",
+          "probability": 0.858218252658844
+        },
+        {
+          "start": 11.64,
+          "end": 12.28,
+          "text": " and",
+          "probability": 0.2658265233039856
+        },
+        {
+          "start": 12.28,
+          "end": 12.84,
+          "text": " you",
+          "probability": 0.19339227676391602
+        },
+        {
+          "start": 12.84,
+          "end": 12.88,
+          "text": " apply",
+          "probability": 0.3037700057029724
+        },
+        {
+          "start": 12.88,
+          "end": 13.74,
+          "text": " here.",
+          "probability": 0.35213151574134827
+        }
+      ]
+    },
+    {
+      "start": 14.02,
+      "end": 15.64,
+      "text": " Second, tell about your project.",
+      "words": [
+        {
+          "start": 14.02,
+          "end": 14.46,
+          "text": " Second,",
+          "probability": 0.5259913802146912
+        },
+        {
+          "start": 14.94,
+          "end": 14.94,
+          "text": " tell",
+          "probability": 0.8939026594161987
+        },
+        {
+          "start": 14.94,
+          "end": 14.94,
+          "text": " about",
+          "probability": 0.30848532915115356
+        },
+        {
+          "start": 14.94,
+          "end": 15.08,
+          "text": " your",
+          "probability": 0.8241819739341736
+        },
+        {
+          "start": 15.08,
+          "end": 15.64,
+          "text": " project.",
+          "probability": 0.8830608129501343
+        }
+      ]
+    },
+    {
+      "start": 16.16,
+      "end": 19.88,
+      "text": " That you are working on this project and you have done this project.",
+      "words": [
+        {
+          "start": 16.16,
+          "end": 16.56,
+          "text": " That",
+          "probability": 0.45481717586517334
+        },
+        {
+          "start": 16.56,
+          "end": 16.7,
+          "text": " you",
+          "probability": 0.9581905007362366
+        },
+        {
+          "start": 16.7,
+          "end": 16.8,
+          "text": " are",
+          "probability": 0.9170960783958435
+        },
+        {
+          "start": 16.8,
+          "end": 17.06,
+          "text": " working",
+          "probability": 0.9851582646369934
+        },
+        {
+          "start": 17.06,
+          "end": 17.5,
+          "text": " on",
+          "probability": 0.9846473932266235
+        },
+        {
+          "start": 17.5,
+          "end": 17.98,
+          "text": " this",
+          "probability": 0.9792558550834656
+        },
+        {
+          "start": 17.98,
+          "end": 18.34,
+          "text": " project",
+          "probability": 0.9909709692001343
+        },
+        {
+          "start": 18.34,
+          "end": 18.68,
+          "text": " and",
+          "probability": 0.5055566430091858
+        },
+        {
+          "start": 18.68,
+          "end": 18.82,
+          "text": " you",
+          "probability": 0.897010326385498
+        },
+        {
+          "start": 18.82,
+          "end": 19.0,
+          "text": " have",
+          "probability": 0.9899125695228577
+        },
+        {
+          "start": 19.0,
+          "end": 19.24,
+          "text": " done",
+          "probability": 0.9944808483123779
+        },
+        {
+          "start": 19.24,
+          "end": 19.5,
+          "text": " this",
+          "probability": 0.9857855439186096
+        },
+        {
+          "start": 19.5,
+          "end": 19.88,
+          "text": " project.",
+          "probability": 0.9922216534614563
+        }
+      ]
+    },
+    {
+      "start": 20.14,
+      "end": 21.42,
+      "text": " This builds your interest.",
+      "words": [
+        {
+          "start": 20.14,
+          "end": 20.4,
+          "text": " This",
+          "probability": 0.9639666080474854
+        },
+        {
+          "start": 20.4,
+          "end": 20.58,
+          "text": " builds",
+          "probability": 0.8759429454803467
+        },
+        {
+          "start": 20.58,
+          "end": 20.92,
+          "text": " your",
+          "probability": 0.9837594032287598
+        },
+        {
+          "start": 20.92,
+          "end": 21.42,
+          "text": " interest.",
+          "probability": 0.9557777643203735
+        }
+      ]
+    },
+    {
+      "start": 22.44,
+      "end": 24.1,
+      "text": " Third, develop curiosity.",
+      "words": [
+        {
+          "start": 22.44,
+          "end": 22.56,
+          "text": " Third,",
+          "probability": 0.9566848874092102
+        },
+        {
+          "start": 23.06,
+          "end": 23.4,
+          "text": " develop",
+          "probability": 0.4933215379714966
+        },
+        {
+          "start": 23.4,
+          "end": 24.1,
+          "text": " curiosity.",
+          "probability": 0.8246858716011047
+        }
+      ]
+    },
+    {
+      "start": 24.58,
+      "end": 26.76,
+      "text": " I wanted to know how these things work.",
+      "words": [
+        {
+          "start": 24.58,
+          "end": 24.84,
+          "text": " I",
+          "probability": 0.2772204279899597
+        },
+        {
+          "start": 24.84,
+          "end": 25.5,
+          "text": " wanted",
+          "probability": 0.20730574429035187
+        },
+        {
+          "start": 25.5,
+          "end": 25.54,
+          "text": " to",
+          "probability": 0.9811045527458191
+        },
+        {
+          "start": 25.54,
+          "end": 25.54,
+          "text": " know",
+          "probability": 0.9660372734069824
+        },
+        {
+          "start": 25.54,
+          "end": 25.72,
+          "text": " how",
+          "probability": 0.7087582945823669
+        },
+        {
+          "start": 25.72,
+          "end": 25.78,
+          "text": " these",
+          "probability": 0.46866029500961304
+        },
+        {
+          "start": 25.78,
+          "end": 26.02,
+          "text": " things",
+          "probability": 0.8448550701141357
+        },
+        {
+          "start": 26.02,
+          "end": 26.76,
+          "text": " work.",
+          "probability": 0.7039404511451721
+        }
+      ]
+    },
+    {
+      "start": 26.76,
+      "end": 30.04,
+      "text": " so that they can realize something and get some information.",
+      "words": [
+        {
+          "start": 26.76,
+          "end": 27.34,
+          "text": " so",
+          "probability": 0.12365463376045227
+        },
+        {
+          "start": 27.34,
+          "end": 27.5,
+          "text": " that",
+          "probability": 0.8254395127296448
+        },
+        {
+          "start": 27.5,
+          "end": 27.86,
+          "text": " they",
+          "probability": 0.22999082505702972
+        },
+        {
+          "start": 27.86,
+          "end": 27.96,
+          "text": " can",
+          "probability": 0.35380855202674866
+        },
+        {
+          "start": 27.96,
+          "end": 28.18,
+          "text": " realize",
+          "probability": 0.16428214311599731
+        },
+        {
+          "start": 28.18,
+          "end": 28.72,
+          "text": " something",
+          "probability": 0.13872596621513367
+        },
+        {
+          "start": 28.72,
+          "end": 29.54,
+          "text": " and",
+          "probability": 0.20008619129657745
+        },
+        {
+          "start": 29.54,
+          "end": 30.04,
+          "text": " get",
+          "probability": 0.18580244481563568
+        },
+        {
+          "start": 30.04,
+          "end": 30.04,
+          "text": " some",
+          "probability": 0.21018989384174347
+        },
+        {
+          "start": 30.04,
+          "end": 30.04,
+          "text": " information.",
+          "probability": 0.30393660068511963
+        }
+      ]
+    },
+    {
+      "start": 30.4,
+      "end": 33.32,
+      "text": " Save your email and write your own line in the comment.",
+      "words": [
+        {
+          "start": 30.4,
+          "end": 31.0,
+          "text": " Save",
+          "probability": 0.34183070063591003
+        },
+        {
+          "start": 31.0,
+          "end": 31.2,
+          "text": " your",
+          "probability": 0.260716050863266
+        },
+        {
+          "start": 31.2,
+          "end": 31.56,
+          "text": " email",
+          "probability": 0.040513280779123306
+        },
+        {
+          "start": 31.56,
+          "end": 31.98,
+          "text": " and",
+          "probability": 0.7353149056434631
+        },
+        {
+          "start": 31.98,
+          "end": 32.24,
+          "text": " write",
+          "probability": 0.7932503819465637
+        },
+        {
+          "start": 32.24,
+          "end": 32.24,
+          "text": " your",
+          "probability": 0.8504076600074768
+        },
+        {
+          "start": 32.24,
+          "end": 32.66,
+          "text": " own",
+          "probability": 0.38628867268562317
+        },
+        {
+          "start": 32.66,
+          "end": 32.92,
+          "text": " line",
+          "probability": 0.20035560429096222
+        },
+        {
+          "start": 32.92,
+          "end": 33.18,
+          "text": " in",
+          "probability": 0.6929745674133301
+        },
+        {
+          "start": 33.18,
+          "end": 33.24,
+          "text": " the",
+          "probability": 0.9547573924064636
+        },
+        {
+          "start": 33.24,
+          "end": 33.32,
+          "text": " comment.",
+          "probability": 0.675775945186615
+        }
+      ]
+    },
+    {
+      "start": 33.9,
+      "end": 36.86,
+      "text": " For more detailed preparation, go on Neoland.com.",
+      "words": [
+        {
+          "start": 33.9,
+          "end": 34.18,
+          "text": " For",
+          "probability": 0.9313822388648987
+        },
+        {
+          "start": 34.18,
+          "end": 34.44,
+          "text": " more",
+          "probability": 0.9748475551605225
+        },
+        {
+          "start": 34.44,
+          "end": 34.72,
+          "text": " detailed",
+          "probability": 0.8508062958717346
+        },
+        {
+          "start": 34.72,
+          "end": 35.26,
+          "text": " preparation,",
+          "probability": 0.8760926127433777
+        },
+        {
+          "start": 35.6,
+          "end": 35.9,
+          "text": " go",
+          "probability": 0.9414347410202026
+        },
+        {
+          "start": 35.9,
+          "end": 36.1,
+          "text": " on",
+          "probability": 0.9810009598731995
+        },
+        {
+          "start": 36.1,
+          "end": 36.5,
+          "text": " Neoland",
+          "probability": 0.5246696869532267
+        },
+        {
+          "start": 36.5,
+          "end": 36.86,
+          "text": ".com.",
+          "probability": 0.880143791437149
+        }
+      ]
+    }
+  ]
+}

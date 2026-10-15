@@ -1,0 +1,32 @@
+{
+  "export": "deliverables/niolearn/NIOLEARN_08_Tell_Me_About_Yourself_v1.mp4",
+  "title": "Tell_Me_About_Yourself",
+  "order": "08",
+  "sha256": "00ddaae0a7744d80a3fc02078f9f9f9cbf077e6369c3d7fc9f733e90d89af146",
+  "bytes": 29844589,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "frames": 1335,
+  "durationSeconds": 44.5,
+  "dialogueFrames": 1290,
+  "captions": {
+    "words": 142,
+    "groups": 41,
+    "color": "Opt-in bright teal on camera and darker teal on ivory. One main keyword per phrase; brand/domain always colored.",
+    "visualReview": "Every caption group and encoded transition-boundary contact inspected.",
+    "sourceAlignment": "Reviewed source-language medium word transcript, manually corrected names/English terms and pause overhangs, mapped through exact 30fps source cuts."
+  },
+  "boundaryEvents": 19,
+  "audioLUFS": -14.01,
+  "audioTruePeakDBTP": -2.02,
+  "fullDecode": "passed",
+  "blackFramesDetected": false,
+  "reusableAlphaScenes": 0,
+  "alphaCheck": "analysis/alpha-check.json",
+  "ending": "Original brand logo only on ivory; no additional text.",
+  "status": "awaiting-user-review",
+  "rebuild": "bash tools/render_reviewed_reel.sh projects/niolearn/niolearn-11 deliverables/niolearn/NIOLEARN_08_Tell_Me_About_Yourself_v1.mp4"
+}

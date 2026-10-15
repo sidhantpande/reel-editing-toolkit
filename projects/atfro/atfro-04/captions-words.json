@@ -1,0 +1,1046 @@
+{
+  "fps": 30,
+  "status": "reviewed-source-aligned",
+  "words": [
+    {
+      "text": "You",
+      "startFrame": 3,
+      "endFrame": 7,
+      "startMs": 100.0,
+      "endMs": 233.333,
+      "sourceStart": 1.16,
+      "sourceEnd": 1.29,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "can",
+      "startFrame": 7,
+      "endFrame": 12,
+      "startMs": 233.333,
+      "endMs": 400.0,
+      "sourceStart": 1.29,
+      "sourceEnd": 1.47,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "film",
+      "startFrame": 12,
+      "endFrame": 22,
+      "startMs": 400.0,
+      "endMs": 733.333,
+      "sourceStart": 1.47,
+      "sourceEnd": 1.81,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "every",
+      "startFrame": 22,
+      "endFrame": 42,
+      "startMs": 733.333,
+      "endMs": 1400.0,
+      "sourceStart": 1.81,
+      "sourceEnd": 2.45,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "event",
+      "startFrame": 42,
+      "endFrame": 51,
+      "startMs": 1400.0,
+      "endMs": 1700.0,
+      "sourceStart": 2.45,
+      "sourceEnd": 2.77,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "at",
+      "startFrame": 51,
+      "endFrame": 58,
+      "startMs": 1700.0,
+      "endMs": 1933.333,
+      "sourceStart": 2.77,
+      "sourceEnd": 3.01,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "a",
+      "startFrame": 58,
+      "endFrame": 65,
+      "startMs": 1933.333,
+      "endMs": 2166.667,
+      "sourceStart": 3.01,
+      "sourceEnd": 3.23,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "school",
+      "startFrame": 65,
+      "endFrame": 72,
+      "startMs": 2166.667,
+      "endMs": 2400.0,
+      "sourceStart": 3.23,
+      "sourceEnd": 3.45,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "and",
+      "startFrame": 72,
+      "endFrame": 85,
+      "startMs": 2400.0,
+      "endMs": 2833.333,
+      "sourceStart": 3.45,
+      "sourceEnd": 3.91,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "still",
+      "startFrame": 85,
+      "endFrame": 96,
+      "startMs": 2833.333,
+      "endMs": 3200.0,
+      "sourceStart": 3.91,
+      "sourceEnd": 4.25,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "miss",
+      "startFrame": 96,
+      "endFrame": 103,
+      "startMs": 3200.0,
+      "endMs": 3433.333,
+      "sourceStart": 4.25,
+      "sourceEnd": 4.49,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "out",
+      "startFrame": 103,
+      "endFrame": 108,
+      "startMs": 3433.333,
+      "endMs": 3600.0,
+      "sourceStart": 4.49,
+      "sourceEnd": 4.65,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "the",
+      "startFrame": 108,
+      "endFrame": 114,
+      "startMs": 3600.0,
+      "endMs": 3800.0,
+      "sourceStart": 4.65,
+      "sourceEnd": 4.85,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "story",
+      "startFrame": 114,
+      "endFrame": 125,
+      "startMs": 3800.0,
+      "endMs": 4166.667,
+      "sourceStart": 4.85,
+      "sourceEnd": 5.23,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "which",
+      "startFrame": 125,
+      "endFrame": 138,
+      "startMs": 4166.667,
+      "endMs": 4600.0,
+      "sourceStart": 5.23,
+      "sourceEnd": 5.65,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "parents",
+      "startFrame": 138,
+      "endFrame": 148,
+      "startMs": 4600.0,
+      "endMs": 4933.333,
+      "sourceStart": 5.65,
+      "sourceEnd": 6.01,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "ask",
+      "startFrame": 148,
+      "endFrame": 159,
+      "startMs": 4933.333,
+      "endMs": 5300.0,
+      "sourceStart": 6.01,
+      "sourceEnd": 6.37,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "for.",
+      "startFrame": 159,
+      "endFrame": 164,
+      "startMs": 5300.0,
+      "endMs": 5466.667,
+      "sourceStart": 6.37,
+      "sourceEnd": 6.55,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "A",
+      "startFrame": 174,
+      "endFrame": 178,
+      "startMs": 5800.0,
+      "endMs": 5933.333,
+      "sourceStart": 7.55,
+      "sourceEnd": 7.71,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "school",
+      "startFrame": 178,
+      "endFrame": 184,
+      "startMs": 5933.333,
+      "endMs": 6133.333,
+      "sourceStart": 7.71,
+      "sourceEnd": 7.91,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "isn't",
+      "startFrame": 184,
+      "endFrame": 193,
+      "startMs": 6133.333,
+      "endMs": 6433.333,
+      "sourceStart": 7.91,
+      "sourceEnd": 8.21,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "trying",
+      "startFrame": 193,
+      "endFrame": 201,
+      "startMs": 6433.333,
+      "endMs": 6700.0,
+      "sourceStart": 8.21,
+      "sourceEnd": 8.47,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "to",
+      "startFrame": 201,
+      "endFrame": 207,
+      "startMs": 6700.0,
+      "endMs": 6900.0,
+      "sourceStart": 8.47,
+      "sourceEnd": 8.65,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "win",
+      "startFrame": 207,
+      "endFrame": 211,
+      "startMs": 6900.0,
+      "endMs": 7033.333,
+      "sourceStart": 8.65,
+      "sourceEnd": 8.79,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "an",
+      "startFrame": 211,
+      "endFrame": 220,
+      "startMs": 7033.333,
+      "endMs": 7333.333,
+      "sourceStart": 8.79,
+      "sourceEnd": 9.09,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "editing",
+      "startFrame": 220,
+      "endFrame": 228,
+      "startMs": 7333.333,
+      "endMs": 7600.0,
+      "sourceStart": 9.09,
+      "sourceEnd": 9.35,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "competition,",
+      "startFrame": 228,
+      "endFrame": 249,
+      "startMs": 7600.0,
+      "endMs": 8300.0,
+      "sourceStart": 9.35,
+      "sourceEnd": 10.07,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "it's",
+      "startFrame": 255,
+      "endFrame": 261,
+      "startMs": 8500.0,
+      "endMs": 8700.0,
+      "sourceStart": 10.51,
+      "sourceEnd": 10.69,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "trying",
+      "startFrame": 261,
+      "endFrame": 270,
+      "startMs": 8700.0,
+      "endMs": 9000.0,
+      "sourceStart": 10.69,
+      "sourceEnd": 10.99,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "to",
+      "startFrame": 270,
+      "endFrame": 279,
+      "startMs": 9000.0,
+      "endMs": 9300.0,
+      "sourceStart": 10.99,
+      "sourceEnd": 11.29,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "help",
+      "startFrame": 279,
+      "endFrame": 285,
+      "startMs": 9300.0,
+      "endMs": 9500.0,
+      "sourceStart": 11.29,
+      "sourceEnd": 11.49,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "families",
+      "startFrame": 285,
+      "endFrame": 297,
+      "startMs": 9500.0,
+      "endMs": 9900.0,
+      "sourceStart": 11.49,
+      "sourceEnd": 11.89,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "understand",
+      "startFrame": 297,
+      "endFrame": 316,
+      "startMs": 9900.0,
+      "endMs": 10533.333,
+      "sourceStart": 11.89,
+      "sourceEnd": 12.55,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "what",
+      "startFrame": 316,
+      "endFrame": 328,
+      "startMs": 10533.333,
+      "endMs": 10933.333,
+      "sourceStart": 12.55,
+      "sourceEnd": 12.95,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "are",
+      "startFrame": 328,
+      "endFrame": 333,
+      "startMs": 10933.333,
+      "endMs": 11100.0,
+      "sourceStart": 12.95,
+      "sourceEnd": 13.11,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "their",
+      "startFrame": 333,
+      "endFrame": 340,
+      "startMs": 11100.0,
+      "endMs": 11333.333,
+      "sourceStart": 13.11,
+      "sourceEnd": 13.33,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "teachings,",
+      "startFrame": 340,
+      "endFrame": 354,
+      "startMs": 11333.333,
+      "endMs": 11800.0,
+      "sourceStart": 13.33,
+      "sourceEnd": 13.81,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "cultures",
+      "startFrame": 369,
+      "endFrame": 380,
+      "startMs": 12300.0,
+      "endMs": 12666.667,
+      "sourceStart": 14.29,
+      "sourceEnd": 14.65,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "and",
+      "startFrame": 380,
+      "endFrame": 393,
+      "startMs": 12666.667,
+      "endMs": 13100.0,
+      "sourceStart": 14.65,
+      "sourceEnd": 15.09,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "values.",
+      "startFrame": 393,
+      "endFrame": 411,
+      "startMs": 13100.0,
+      "endMs": 13700.0,
+      "sourceStart": 15.09,
+      "sourceEnd": 15.69,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "And",
+      "startFrame": 418,
+      "endFrame": 425,
+      "startMs": 13933.333,
+      "endMs": 14166.667,
+      "sourceStart": 16.59,
+      "sourceEnd": 16.83,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "as",
+      "startFrame": 425,
+      "endFrame": 434,
+      "startMs": 14166.667,
+      "endMs": 14466.667,
+      "sourceStart": 16.83,
+      "sourceEnd": 17.13,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "a",
+      "startFrame": 434,
+      "endFrame": 441,
+      "startMs": 14466.667,
+      "endMs": 14700.0,
+      "sourceStart": 17.13,
+      "sourceEnd": 17.37,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "growth",
+      "startFrame": 441,
+      "endFrame": 447,
+      "startMs": 14700.0,
+      "endMs": 14900.0,
+      "sourceStart": 17.37,
+      "sourceEnd": 17.57,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "partner,",
+      "startFrame": 447,
+      "endFrame": 462,
+      "startMs": 14900.0,
+      "endMs": 15400.0,
+      "sourceStart": 17.57,
+      "sourceEnd": 18.05,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "our",
+      "startFrame": 472,
+      "endFrame": 475,
+      "startMs": 15733.333,
+      "endMs": 15833.333,
+      "sourceStart": 18.41,
+      "sourceEnd": 18.49,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "goal",
+      "startFrame": 475,
+      "endFrame": 481,
+      "startMs": 15833.333,
+      "endMs": 16033.333,
+      "sourceStart": 18.49,
+      "sourceEnd": 18.71,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "is",
+      "startFrame": 481,
+      "endFrame": 488,
+      "startMs": 16033.333,
+      "endMs": 16266.667,
+      "sourceStart": 18.71,
+      "sourceEnd": 18.95,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "to",
+      "startFrame": 488,
+      "endFrame": 496,
+      "startMs": 16266.667,
+      "endMs": 16533.333,
+      "sourceStart": 18.95,
+      "sourceEnd": 19.19,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "align",
+      "startFrame": 496,
+      "endFrame": 508,
+      "startMs": 16533.333,
+      "endMs": 16933.333,
+      "sourceStart": 19.19,
+      "sourceEnd": 19.59,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "school's",
+      "startFrame": 508,
+      "endFrame": 528,
+      "startMs": 16933.333,
+      "endMs": 17600.0,
+      "sourceStart": 19.59,
+      "sourceEnd": 20.25,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "goal",
+      "startFrame": 528,
+      "endFrame": 535,
+      "startMs": 17600.0,
+      "endMs": 17833.333,
+      "sourceStart": 20.25,
+      "sourceEnd": 20.49,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "and",
+      "startFrame": 535,
+      "endFrame": 558,
+      "startMs": 17833.333,
+      "endMs": 18600.0,
+      "sourceStart": 20.49,
+      "sourceEnd": 21.25,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "parents'",
+      "startFrame": 558,
+      "endFrame": 572,
+      "startMs": 18600.0,
+      "endMs": 19066.667,
+      "sourceStart": 21.25,
+      "sourceEnd": 21.73,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "questions.",
+      "startFrame": 576,
+      "endFrame": 593,
+      "startMs": 19200.0,
+      "endMs": 19766.667,
+      "sourceStart": 21.85,
+      "sourceEnd": 22.43,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "Then",
+      "startFrame": 597,
+      "endFrame": 609,
+      "startMs": 19900.0,
+      "endMs": 20300.0,
+      "sourceStart": 23.43,
+      "sourceEnd": 23.83,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "we",
+      "startFrame": 609,
+      "endFrame": 622,
+      "startMs": 20300.0,
+      "endMs": 20733.333,
+      "sourceStart": 23.83,
+      "sourceEnd": 24.27,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "choose",
+      "startFrame": 622,
+      "endFrame": 632,
+      "startMs": 20733.333,
+      "endMs": 21066.667,
+      "sourceStart": 24.27,
+      "sourceEnd": 24.61,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "one",
+      "startFrame": 632,
+      "endFrame": 641,
+      "startMs": 21066.667,
+      "endMs": 21366.667,
+      "sourceStart": 24.61,
+      "sourceEnd": 24.91,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "learning",
+      "startFrame": 641,
+      "endFrame": 652,
+      "startMs": 21366.667,
+      "endMs": 21733.333,
+      "sourceStart": 24.91,
+      "sourceEnd": 25.27,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "story",
+      "startFrame": 652,
+      "endFrame": 665,
+      "startMs": 21733.333,
+      "endMs": 22166.667,
+      "sourceStart": 25.27,
+      "sourceEnd": 25.69,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "and",
+      "startFrame": 665,
+      "endFrame": 677,
+      "startMs": 22166.667,
+      "endMs": 22566.667,
+      "sourceStart": 25.69,
+      "sourceEnd": 26.09,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "what",
+      "startFrame": 677,
+      "endFrame": 683,
+      "startMs": 22566.667,
+      "endMs": 22766.667,
+      "sourceStart": 26.09,
+      "sourceEnd": 26.31,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "footage",
+      "startFrame": 683,
+      "endFrame": 694,
+      "startMs": 22766.667,
+      "endMs": 23133.333,
+      "sourceStart": 26.31,
+      "sourceEnd": 26.65,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "can",
+      "startFrame": 694,
+      "endFrame": 700,
+      "startMs": 23133.333,
+      "endMs": 23333.333,
+      "sourceStart": 26.65,
+      "sourceEnd": 26.87,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "make",
+      "startFrame": 700,
+      "endFrame": 707,
+      "startMs": 23333.333,
+      "endMs": 23566.667,
+      "sourceStart": 26.87,
+      "sourceEnd": 27.09,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "it",
+      "startFrame": 707,
+      "endFrame": 717,
+      "startMs": 23566.667,
+      "endMs": 23900.0,
+      "sourceStart": 27.09,
+      "sourceEnd": 27.43,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "all",
+      "startFrame": 717,
+      "endFrame": 726,
+      "startMs": 23900.0,
+      "endMs": 24200.0,
+      "sourceStart": 27.43,
+      "sourceEnd": 27.75,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "clear.",
+      "startFrame": 726,
+      "endFrame": 739,
+      "startMs": 24200.0,
+      "endMs": 24633.333,
+      "sourceStart": 27.75,
+      "sourceEnd": 28.23,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "The",
+      "startFrame": 742,
+      "endFrame": 748,
+      "startMs": 24733.333,
+      "endMs": 24933.333,
+      "sourceStart": 28.93,
+      "sourceEnd": 29.13,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "reel",
+      "startFrame": 748,
+      "endFrame": 754,
+      "startMs": 24933.333,
+      "endMs": 25133.333,
+      "sourceStart": 29.13,
+      "sourceEnd": 29.33,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "is",
+      "startFrame": 754,
+      "endFrame": 761,
+      "startMs": 25133.333,
+      "endMs": 25366.667,
+      "sourceStart": 29.33,
+      "sourceEnd": 29.57,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "one",
+      "startFrame": 761,
+      "endFrame": 769,
+      "startMs": 25366.667,
+      "endMs": 25633.333,
+      "sourceStart": 29.57,
+      "sourceEnd": 29.83,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "part,",
+      "startFrame": 769,
+      "endFrame": 780,
+      "startMs": 25633.333,
+      "endMs": 26000.0,
+      "sourceStart": 29.83,
+      "sourceEnd": 30.21,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "the",
+      "startFrame": 787,
+      "endFrame": 793,
+      "startMs": 26233.333,
+      "endMs": 26433.333,
+      "sourceStart": 30.67,
+      "sourceEnd": 30.85,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "caption,",
+      "startFrame": 793,
+      "endFrame": 805,
+      "startMs": 26433.333,
+      "endMs": 26833.333,
+      "sourceStart": 30.85,
+      "sourceEnd": 31.27,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "approval,",
+      "startFrame": 820,
+      "endFrame": 836,
+      "startMs": 27333.333,
+      "endMs": 27866.667,
+      "sourceStart": 31.75,
+      "sourceEnd": 32.29,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "answer",
+      "startFrame": 858,
+      "endFrame": 864,
+      "startMs": 28600.0,
+      "endMs": 28800.0,
+      "sourceStart": 33.03,
+      "sourceEnd": 33.23,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "to",
+      "startFrame": 864,
+      "endFrame": 872,
+      "startMs": 28800.0,
+      "endMs": 29066.667,
+      "sourceStart": 33.23,
+      "sourceEnd": 33.49,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "parents",
+      "startFrame": 872,
+      "endFrame": 880,
+      "startMs": 29066.667,
+      "endMs": 29333.333,
+      "sourceStart": 33.49,
+      "sourceEnd": 33.75,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "questions",
+      "startFrame": 880,
+      "endFrame": 899,
+      "startMs": 29333.333,
+      "endMs": 29966.667,
+      "sourceStart": 33.75,
+      "sourceEnd": 34.39,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "and",
+      "startFrame": 899,
+      "endFrame": 913,
+      "startMs": 29966.667,
+      "endMs": 30433.333,
+      "sourceStart": 34.39,
+      "sourceEnd": 34.87,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "the",
+      "startFrame": 913,
+      "endFrame": 918,
+      "startMs": 30433.333,
+      "endMs": 30600.0,
+      "sourceStart": 34.87,
+      "sourceEnd": 35.03,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "next",
+      "startFrame": 918,
+      "endFrame": 926,
+      "startMs": 30600.0,
+      "endMs": 30866.667,
+      "sourceStart": 35.03,
+      "sourceEnd": 35.31,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "campaigns",
+      "startFrame": 926,
+      "endFrame": 940,
+      "startMs": 30866.667,
+      "endMs": 31333.333,
+      "sourceStart": 35.31,
+      "sourceEnd": 35.75,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "matters",
+      "startFrame": 948,
+      "endFrame": 959,
+      "startMs": 31600.0,
+      "endMs": 31966.667,
+      "sourceStart": 36.02,
+      "sourceEnd": 36.39,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "too.",
+      "startFrame": 959,
+      "endFrame": 967,
+      "startMs": 31966.667,
+      "endMs": 32233.333,
+      "sourceStart": 36.39,
+      "sourceEnd": 36.67,
+      "source": "media/raw/atfro/atfro-04/IMG_5995.mov"
+    },
+    {
+      "text": "If",
+      "startFrame": 972,
+      "endFrame": 976,
+      "startMs": 32400.0,
+      "endMs": 32533.333,
+      "sourceStart": 0.78,
+      "sourceEnd": 0.91,
+      "source": "media/raw/atfro/atfro-04/IMG_5996.mov"
+    },
+    {
+      "text": "you",
+      "startFrame": 976,
+      "endFrame": 982,
+      "startMs": 32533.333,
+      "endMs": 32733.333,
+      "sourceStart": 0.91,
+      "sourceEnd": 1.11,
+      "source": "media/raw/atfro/atfro-04/IMG_5996.mov"
+    },
+    {
+      "text": "lead",
+      "startFrame": 982,
+      "endFrame": 986,
+      "startMs": 32733.333,
+      "endMs": 32866.667,
+      "sourceStart": 1.11,
+      "sourceEnd": 1.25,
+      "source": "media/raw/atfro/atfro-04/IMG_5996.mov"
+    },
+    {
+      "text": "a",
+      "startFrame": 986,
+      "endFrame": 993,
+      "startMs": 32866.667,
+      "endMs": 33100.0,
+      "sourceStart": 1.25,
+      "sourceEnd": 1.47,
+      "source": "media/raw/atfro/atfro-04/IMG_5996.mov"
+    },
+    {
+      "text": "school,",
+      "startFrame": 993,
+      "endFrame": 1003,
+      "startMs": 33100.0,
+      "endMs": 33433.333,
+      "sourceStart": 1.47,
+      "sourceEnd": 1.81,
+      "source": "media/raw/atfro/atfro-04/IMG_5996.mov"
+    },
+    {
+      "text": "DM",
+      "startFrame": 1012,
+      "endFrame": 1015,
+      "startMs": 33733.333,
+      "endMs": 33833.333,
+      "sourceStart": 2.09,
+      "sourceEnd": 2.19,
+      "source": "media/raw/atfro/atfro-04/IMG_5996.mov"
+    },
+    {
+      "text": "SCHOOL,",
+      "startFrame": 1015,
+      "endFrame": 1030,
+      "startMs": 33833.333,
+      "endMs": 34333.333,
+      "sourceStart": 2.19,
+      "sourceEnd": 2.71,
+      "source": "media/raw/atfro/atfro-04/IMG_5996.mov"
+    },
+    {
+      "text": "one",
+      "startFrame": 1041,
+      "endFrame": 1045,
+      "startMs": 34700.0,
+      "endMs": 34833.333,
+      "sourceStart": 3.07,
+      "sourceEnd": 3.21,
+      "source": "media/raw/atfro/atfro-04/IMG_5996.mov"
+    },
+    {
+      "text": "communication",
+      "startFrame": 1045,
+      "endFrame": 1062,
+      "startMs": 34833.333,
+      "endMs": 35400.0,
+      "sourceStart": 3.21,
+      "sourceEnd": 3.77,
+      "source": "media/raw/atfro/atfro-04/IMG_5996.mov"
+    },
+    {
+      "text": "bottleneck",
+      "startFrame": 1062,
+      "endFrame": 1081,
+      "startMs": 35400.0,
+      "endMs": 36033.333,
+      "sourceStart": 3.77,
+      "sourceEnd": 4.4,
+      "source": "media/raw/atfro/atfro-04/IMG_5996.mov"
+    },
+    {
+      "text": "with",
+      "startFrame": 1086,
+      "endFrame": 1092,
+      "startMs": 36200.0,
+      "endMs": 36400.0,
+      "sourceStart": 4.56,
+      "sourceEnd": 4.77,
+      "source": "media/raw/atfro/atfro-04/IMG_5996.mov"
+    },
+    {
+      "text": "communication",
+      "startFrame": 1092,
+      "endFrame": 1109,
+      "startMs": 36400.0,
+      "endMs": 36966.667,
+      "sourceStart": 4.77,
+      "sourceEnd": 5.33,
+      "source": "media/raw/atfro/atfro-04/IMG_5996.mov"
+    },
+    {
+      "text": "challenge",
+      "startFrame": 1109,
+      "endFrame": 1123,
+      "startMs": 36966.667,
+      "endMs": 37433.333,
+      "sourceStart": 5.33,
+      "sourceEnd": 5.79,
+      "source": "media/raw/atfro/atfro-04/IMG_5996.mov"
+    },
+    {
+      "text": "you're",
+      "startFrame": 1130,
+      "endFrame": 1134,
+      "startMs": 37666.667,
+      "endMs": 37800.0,
+      "sourceStart": 6.03,
+      "sourceEnd": 6.17,
+      "source": "media/raw/atfro/atfro-04/IMG_5996.mov"
+    },
+    {
+      "text": "trying",
+      "startFrame": 1134,
+      "endFrame": 1138,
+      "startMs": 37800.0,
+      "endMs": 37933.333,
+      "sourceStart": 6.17,
+      "sourceEnd": 6.3,
+      "source": "media/raw/atfro/atfro-04/IMG_5996.mov"
+    },
+    {
+      "text": "to",
+      "startFrame": 1138,
+      "endFrame": 1141,
+      "startMs": 37933.333,
+      "endMs": 38033.333,
+      "sourceStart": 6.3,
+      "sourceEnd": 6.41,
+      "source": "media/raw/atfro/atfro-04/IMG_5996.mov"
+    },
+    {
+      "text": "solve.",
+      "startFrame": 1141,
+      "endFrame": 1150,
+      "startMs": 38033.333,
+      "endMs": 38333.333,
+      "sourceStart": 6.41,
+      "sourceEnd": 6.7,
+      "source": "media/raw/atfro/atfro-04/IMG_5996.mov"
+    }
+  ]
+}

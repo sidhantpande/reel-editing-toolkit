@@ -1,0 +1,146 @@
+{
+  "objective": "Finish every remaining matched recorded reel one at a time; add restrained brand/keyword caption colors starting with reel 03.",
+  "scope": "14 recorded projects: 12 NioLearn and 2 ATFRO. Three approved recordings remain available, and the remaining eleven receive reviewed edits. Unmatched calendar scripts remain awaiting footage.",
+  "style": "Approved close camera framing, soft bottom shade, word-by-word captions, premium light paper motion, quiet original music and logo-only closing.",
+  "reels": [
+    {
+      "id": "niolearn-04",
+      "project": "projects/niolearn/niolearn-04",
+      "number": "01",
+      "workingName": "Parent_Questions",
+      "language": "hi",
+      "status": "approved",
+      "output": "deliverables/niolearn/NIOLEARN_01_Parent_Questions_v2.mp4"
+    },
+    {
+      "id": "niolearn-07",
+      "project": "projects/niolearn/niolearn-07",
+      "number": "02",
+      "workingName": "Preparation_System",
+      "language": "hi",
+      "status": "approved",
+      "output": "deliverables/niolearn/NIOLEARN_02_Preparation_System_v1.mp4"
+    },
+    {
+      "id": "niolearn-09",
+      "project": "projects/niolearn/niolearn-09",
+      "number": "03",
+      "workingName": "Entrance_Mistakes",
+      "language": "hi",
+      "status": "completed",
+      "output": "deliverables/niolearn/NIOLEARN_03_Entrance_Mistakes_v2.mp4",
+      "finalQA": "projects/niolearn/niolearn-09/analysis/final-qa.json",
+      "previousOutput": "deliverables/niolearn/NIOLEARN_03_Entrance_Mistakes_v1.mp4"
+    },
+    {
+      "id": "niolearn-12",
+      "project": "projects/niolearn/niolearn-12",
+      "number": "04",
+      "workingName": "Interview_Introduction",
+      "language": "hi",
+      "status": "completed",
+      "output": "deliverables/niolearn/NIOLEARN_04_Interview_Introduction_v1.mp4",
+      "finalQA": "projects/niolearn/niolearn-12/analysis/final-qa.json"
+    },
+    {
+      "id": "niolearn-15",
+      "project": "projects/niolearn/niolearn-15",
+      "number": "05",
+      "workingName": "Beyond_Marks",
+      "language": "hi",
+      "status": "completed",
+      "output": "deliverables/niolearn/NIOLEARN_05_Beyond_Marks_v1.mp4",
+      "finalQA": "projects/niolearn/niolearn-15/analysis/final-qa.json"
+    },
+    {
+      "id": "niolearn-16",
+      "project": "projects/niolearn/niolearn-16",
+      "number": "06",
+      "workingName": "Mock_Test_Teardown",
+      "language": "hi",
+      "status": "completed",
+      "output": "deliverables/niolearn/NIOLEARN_06_Mock_Test_Teardown_v1.mp4",
+      "finalQA": "projects/niolearn/niolearn-16/analysis/final-qa.json"
+    },
+    {
+      "id": "niolearn-19",
+      "project": "projects/niolearn/niolearn-19",
+      "number": "07",
+      "workingName": "Project_Answer",
+      "language": "hi",
+      "status": "completed",
+      "output": "deliverables/niolearn/NIOLEARN_07_Project_Answer_v1.mp4",
+      "finalQA": "projects/niolearn/niolearn-19/analysis/final-qa.json"
+    },
+    {
+      "id": "niolearn-11",
+      "project": "projects/niolearn/niolearn-11",
+      "number": "08",
+      "workingName": "Tell_Me_About_Yourself",
+      "language": "hi",
+      "status": "completed",
+      "output": "deliverables/niolearn/NIOLEARN_08_Tell_Me_About_Yourself_v1.mp4",
+      "finalQA": "projects/niolearn/niolearn-11/analysis/final-qa.json"
+    },
+    {
+      "id": "niolearn-20",
+      "project": "projects/niolearn/niolearn-20",
+      "number": "09",
+      "workingName": "School_Comparison",
+      "language": "hi",
+      "status": "completed",
+      "output": "deliverables/niolearn/NIOLEARN_09_School_Comparison_v1.mp4",
+      "finalQA": "projects/niolearn/niolearn-20/analysis/final-qa.json"
+    },
+    {
+      "id": "niolearn-recorded-brand-intro",
+      "project": "projects/niolearn/niolearn-recorded-brand-intro",
+      "number": "10",
+      "workingName": "Brand_Introduction",
+      "language": "en",
+      "status": "completed",
+      "output": "deliverables/niolearn/NIOLEARN_10_Brand_Introduction_v1.mp4",
+      "finalQA": "projects/niolearn/niolearn-recorded-brand-intro/analysis/final-qa.json"
+    },
+    {
+      "id": "niolearn-recorded-early-access",
+      "project": "projects/niolearn/niolearn-recorded-early-access",
+      "number": "11",
+      "workingName": "Early_Access",
+      "language": "en",
+      "status": "completed",
+      "output": "deliverables/niolearn/NIOLEARN_11_Early_Access_v1.mp4",
+      "finalQA": "projects/niolearn/niolearn-recorded-early-access/analysis/final-qa.json"
+    },
+    {
+      "id": "niolearn-recorded-admissions",
+      "project": "projects/niolearn/niolearn-recorded-admissions",
+      "number": "12",
+      "workingName": "Admissions",
+      "language": "en",
+      "status": "completed",
+      "output": "deliverables/niolearn/NIOLEARN_12_Admissions_v1.mp4",
+      "finalQA": "projects/niolearn/niolearn-recorded-admissions/analysis/final-qa.json"
+    },
+    {
+      "id": "atfro-01",
+      "project": "projects/atfro/atfro-01",
+      "number": "01",
+      "workingName": "Approved",
+      "language": "hi",
+      "status": "approved",
+      "output": "deliverables/atfro/ATFRO_01_reedit_v7.mp4"
+    },
+    {
+      "id": "atfro-04",
+      "project": "projects/atfro/atfro-04",
+      "number": "02",
+      "workingName": "School_Story",
+      "language": "en",
+      "status": "completed",
+      "output": "deliverables/atfro/ATFRO_02_School_Story_v1.mp4",
+      "finalQA": "projects/atfro/atfro-04/analysis/final-qa.json"
+    }
+  ],
+  "motionUpdate": "Re-study source B-roll movement; keep functional movement and depth changes beyond the opening reveal, with linked scenes for longer explanations. Revise NioLearn 03 to v2 as well."
+}

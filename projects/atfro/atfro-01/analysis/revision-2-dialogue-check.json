@@ -1,0 +1,763 @@
+[
+  {
+    "start": 0.0,
+    "end": 3.56,
+    "text": " Three months of silence from AdFro, you deserve to know what we have been doing.",
+    "words": [
+      {
+        "word": " Three",
+        "start": 0.0,
+        "end": 0.2,
+        "probability": 0.269330233335495
+      },
+      {
+        "word": " months",
+        "start": 0.2,
+        "end": 0.38,
+        "probability": 0.8790640830993652
+      },
+      {
+        "word": " of",
+        "start": 0.38,
+        "end": 0.54,
+        "probability": 0.9853447079658508
+      },
+      {
+        "word": " silence",
+        "start": 0.54,
+        "end": 0.82,
+        "probability": 0.9805068969726562
+      },
+      {
+        "word": " from",
+        "start": 0.82,
+        "end": 1.1,
+        "probability": 0.9016046524047852
+      },
+      {
+        "word": " AdFro,",
+        "start": 1.1,
+        "end": 1.48,
+        "probability": 0.35929610828558606
+      },
+      {
+        "word": " you",
+        "start": 1.76,
+        "end": 1.88,
+        "probability": 0.8518902659416199
+      },
+      {
+        "word": " deserve",
+        "start": 1.88,
+        "end": 2.16,
+        "probability": 0.9870840907096863
+      },
+      {
+        "word": " to",
+        "start": 2.16,
+        "end": 2.44,
+        "probability": 0.9938730001449585
+      },
+      {
+        "word": " know",
+        "start": 2.44,
+        "end": 2.56,
+        "probability": 0.9957457184791565
+      },
+      {
+        "word": " what",
+        "start": 2.56,
+        "end": 2.82,
+        "probability": 0.9441860914230347
+      },
+      {
+        "word": " we",
+        "start": 2.82,
+        "end": 3.04,
+        "probability": 0.9790549278259277
+      },
+      {
+        "word": " have",
+        "start": 3.04,
+        "end": 3.24,
+        "probability": 0.8793494701385498
+      },
+      {
+        "word": " been",
+        "start": 3.24,
+        "end": 3.4,
+        "probability": 0.9938255548477173
+      },
+      {
+        "word": " doing.",
+        "start": 3.4,
+        "end": 3.56,
+        "probability": 0.990687906742096
+      }
+    ]
+  },
+  {
+    "start": 4.0,
+    "end": 7.16,
+    "text": " We have been busy with client work without showing the process.",
+    "words": [
+      {
+        "word": " We",
+        "start": 4.0,
+        "end": 4.12,
+        "probability": 0.9812891483306885
+      },
+      {
+        "word": " have",
+        "start": 4.12,
+        "end": 4.3,
+        "probability": 0.9559454917907715
+      },
+      {
+        "word": " been",
+        "start": 4.3,
+        "end": 4.42,
+        "probability": 0.993945300579071
+      },
+      {
+        "word": " busy",
+        "start": 4.42,
+        "end": 4.74,
+        "probability": 0.999058187007904
+      },
+      {
+        "word": " with",
+        "start": 4.74,
+        "end": 5.02,
+        "probability": 0.9932565689086914
+      },
+      {
+        "word": " client",
+        "start": 5.02,
+        "end": 5.3,
+        "probability": 0.9873636364936829
+      },
+      {
+        "word": " work",
+        "start": 5.3,
+        "end": 5.68,
+        "probability": 0.9532606601715088
+      },
+      {
+        "word": " without",
+        "start": 5.68,
+        "end": 6.06,
+        "probability": 0.909785270690918
+      },
+      {
+        "word": " showing",
+        "start": 6.06,
+        "end": 6.5,
+        "probability": 0.9889031052589417
+      },
+      {
+        "word": " the",
+        "start": 6.5,
+        "end": 6.74,
+        "probability": 0.9703942537307739
+      },
+      {
+        "word": " process.",
+        "start": 6.74,
+        "end": 7.16,
+        "probability": 0.9929665327072144
+      }
+    ]
+  },
+  {
+    "start": 7.52,
+    "end": 10.94,
+    "text": " And this is a mistake which we are correcting, not dressing it up as a strategy.",
+    "words": [
+      {
+        "word": " And",
+        "start": 7.52,
+        "end": 7.58,
+        "probability": 0.7855507135391235
+      },
+      {
+        "word": " this",
+        "start": 7.58,
+        "end": 7.72,
+        "probability": 0.9730247855186462
+      },
+      {
+        "word": " is",
+        "start": 7.72,
+        "end": 7.82,
+        "probability": 0.9948975443840027
+      },
+      {
+        "word": " a",
+        "start": 7.82,
+        "end": 7.9,
+        "probability": 0.933026909828186
+      },
+      {
+        "word": " mistake",
+        "start": 7.9,
+        "end": 8.2,
+        "probability": 0.9975747466087341
+      },
+      {
+        "word": " which",
+        "start": 8.2,
+        "end": 8.46,
+        "probability": 0.8121177554130554
+      },
+      {
+        "word": " we",
+        "start": 8.46,
+        "end": 8.62,
+        "probability": 0.9959656000137329
+      },
+      {
+        "word": " are",
+        "start": 8.62,
+        "end": 8.74,
+        "probability": 0.9783819913864136
+      },
+      {
+        "word": " correcting,",
+        "start": 8.74,
+        "end": 9.08,
+        "probability": 0.9892879724502563
+      },
+      {
+        "word": " not",
+        "start": 9.36,
+        "end": 9.5,
+        "probability": 0.9802678823471069
+      },
+      {
+        "word": " dressing",
+        "start": 9.5,
+        "end": 9.82,
+        "probability": 0.9869430065155029
+      },
+      {
+        "word": " it",
+        "start": 9.82,
+        "end": 10.0,
+        "probability": 0.9798575043678284
+      },
+      {
+        "word": " up",
+        "start": 10.0,
+        "end": 10.12,
+        "probability": 0.9844245910644531
+      },
+      {
+        "word": " as",
+        "start": 10.12,
+        "end": 10.4,
+        "probability": 0.9946218729019165
+      },
+      {
+        "word": " a",
+        "start": 10.4,
+        "end": 10.52,
+        "probability": 0.9746062755584717
+      },
+      {
+        "word": " strategy.",
+        "start": 10.52,
+        "end": 10.94,
+        "probability": 0.9920387268066406
+      }
+    ]
+  },
+  {
+    "start": 11.26,
+    "end": 16.22,
+    "text": " We have dealt with school communications, doctor led content and practical software",
+    "words": [
+      {
+        "word": " We",
+        "start": 11.26,
+        "end": 11.36,
+        "probability": 0.9776903986930847
+      },
+      {
+        "word": " have",
+        "start": 11.36,
+        "end": 11.48,
+        "probability": 0.9748100638389587
+      },
+      {
+        "word": " dealt",
+        "start": 11.48,
+        "end": 11.66,
+        "probability": 0.9988786578178406
+      },
+      {
+        "word": " with",
+        "start": 11.66,
+        "end": 11.94,
+        "probability": 0.9984729886054993
+      },
+      {
+        "word": " school",
+        "start": 11.94,
+        "end": 12.58,
+        "probability": 0.947519063949585
+      },
+      {
+        "word": " communications,",
+        "start": 12.58,
+        "end": 13.46,
+        "probability": 0.7047023177146912
+      },
+      {
+        "word": " doctor",
+        "start": 13.8,
+        "end": 14.02,
+        "probability": 0.4785129129886627
+      },
+      {
+        "word": " led",
+        "start": 14.02,
+        "end": 14.22,
+        "probability": 0.5316215753555298
+      },
+      {
+        "word": " content",
+        "start": 14.22,
+        "end": 14.66,
+        "probability": 0.993742048740387
+      },
+      {
+        "word": " and",
+        "start": 14.66,
+        "end": 15.16,
+        "probability": 0.721085250377655
+      },
+      {
+        "word": " practical",
+        "start": 15.16,
+        "end": 15.7,
+        "probability": 0.9922727346420288
+      },
+      {
+        "word": " software",
+        "start": 15.7,
+        "end": 16.22,
+        "probability": 0.9940041899681091
+      }
+    ]
+  },
+  {
+    "start": 16.22,
+    "end": 16.76,
+    "text": " systems.",
+    "words": [
+      {
+        "word": " systems.",
+        "start": 16.22,
+        "end": 16.76,
+        "probability": 0.9903234243392944
+      }
+    ]
+  },
+  {
+    "start": 17.12,
+    "end": 19.46,
+    "text": " Different projects, still the same question.",
+    "words": [
+      {
+        "word": " Different",
+        "start": 17.12,
+        "end": 17.4,
+        "probability": 0.9850249886512756
+      },
+      {
+        "word": " projects,",
+        "start": 17.4,
+        "end": 17.84,
+        "probability": 0.9869268536567688
+      },
+      {
+        "word": " still",
+        "start": 18.18,
+        "end": 18.46,
+        "probability": 0.9843664169311523
+      },
+      {
+        "word": " the",
+        "start": 18.46,
+        "end": 18.68,
+        "probability": 0.9897688627243042
+      },
+      {
+        "word": " same",
+        "start": 18.68,
+        "end": 19.02,
+        "probability": 0.997972309589386
+      },
+      {
+        "word": " question.",
+        "start": 19.02,
+        "end": 19.46,
+        "probability": 0.966605007648468
+      }
+    ]
+  },
+  {
+    "start": 19.74,
+    "end": 21.8,
+    "text": " What's stopping this business from growing?",
+    "words": [
+      {
+        "word": " What's",
+        "start": 19.74,
+        "end": 20.04,
+        "probability": 0.8471963405609131
+      },
+      {
+        "word": " stopping",
+        "start": 20.04,
+        "end": 20.34,
+        "probability": 0.9959213733673096
+      },
+      {
+        "word": " this",
+        "start": 20.34,
+        "end": 20.72,
+        "probability": 0.9894706010818481
+      },
+      {
+        "word": " business",
+        "start": 20.72,
+        "end": 21.14,
+        "probability": 0.9948108196258545
+      },
+      {
+        "word": " from",
+        "start": 21.14,
+        "end": 21.5,
+        "probability": 0.994953453540802
+      },
+      {
+        "word": " growing?",
+        "start": 21.5,
+        "end": 21.8,
+        "probability": 0.9960131645202637
+      }
+    ]
+  },
+  {
+    "start": 22.06,
+    "end": 25.2,
+    "text": " That is what being a growth partner means to us.",
+    "words": [
+      {
+        "word": " That",
+        "start": 22.06,
+        "end": 22.24,
+        "probability": 0.979856550693512
+      },
+      {
+        "word": " is",
+        "start": 22.24,
+        "end": 22.4,
+        "probability": 0.9492899179458618
+      },
+      {
+        "word": " what",
+        "start": 22.4,
+        "end": 22.62,
+        "probability": 0.9875627756118774
+      },
+      {
+        "word": " being",
+        "start": 22.62,
+        "end": 23.08,
+        "probability": 0.9703353047370911
+      },
+      {
+        "word": " a",
+        "start": 23.08,
+        "end": 23.44,
+        "probability": 0.9932593703269958
+      },
+      {
+        "word": " growth",
+        "start": 23.44,
+        "end": 23.8,
+        "probability": 0.9927768707275391
+      },
+      {
+        "word": " partner",
+        "start": 23.8,
+        "end": 24.34,
+        "probability": 0.9930838346481323
+      },
+      {
+        "word": " means",
+        "start": 24.34,
+        "end": 24.72,
+        "probability": 0.9927005767822266
+      },
+      {
+        "word": " to",
+        "start": 24.72,
+        "end": 24.98,
+        "probability": 0.9967142343521118
+      },
+      {
+        "word": " us.",
+        "start": 24.98,
+        "end": 25.2,
+        "probability": 0.9989539384841919
+      }
+    ]
+  },
+  {
+    "start": 25.2,
+    "end": 30.54,
+    "text": " understand the problem, build what is useful and grow with the people who are",
+    "words": [
+      {
+        "word": " understand",
+        "start": 25.2,
+        "end": 25.78,
+        "probability": 0.4536941647529602
+      },
+      {
+        "word": " the",
+        "start": 25.78,
+        "end": 26.0,
+        "probability": 0.9697045683860779
+      },
+      {
+        "word": " problem,",
+        "start": 26.0,
+        "end": 26.48,
+        "probability": 0.9741151332855225
+      },
+      {
+        "word": " build",
+        "start": 26.8,
+        "end": 27.2,
+        "probability": 0.964005172252655
+      },
+      {
+        "word": " what",
+        "start": 27.2,
+        "end": 27.58,
+        "probability": 0.9865173697471619
+      },
+      {
+        "word": " is",
+        "start": 27.58,
+        "end": 28.0,
+        "probability": 0.9824156165122986
+      },
+      {
+        "word": " useful",
+        "start": 28.0,
+        "end": 28.58,
+        "probability": 0.988860011100769
+      },
+      {
+        "word": " and",
+        "start": 28.58,
+        "end": 29.14,
+        "probability": 0.7731022238731384
+      },
+      {
+        "word": " grow",
+        "start": 29.14,
+        "end": 29.52,
+        "probability": 0.9815194606781006
+      },
+      {
+        "word": " with",
+        "start": 29.52,
+        "end": 29.76,
+        "probability": 0.9934276938438416
+      },
+      {
+        "word": " the",
+        "start": 29.76,
+        "end": 29.86,
+        "probability": 0.9714152812957764
+      },
+      {
+        "word": " people",
+        "start": 29.86,
+        "end": 30.2,
+        "probability": 0.99683678150177
+      },
+      {
+        "word": " who",
+        "start": 30.2,
+        "end": 30.42,
+        "probability": 0.9326188564300537
+      },
+      {
+        "word": " are",
+        "start": 30.42,
+        "end": 30.54,
+        "probability": 0.9912009239196777
+      }
+    ]
+  },
+  {
+    "start": 30.54,
+    "end": 35.72,
+    "text": " running the business. So here we are back again to share the people, the work and",
+    "words": [
+      {
+        "word": " running",
+        "start": 30.54,
+        "end": 30.74,
+        "probability": 0.9947380423545837
+      },
+      {
+        "word": " the",
+        "start": 30.74,
+        "end": 30.92,
+        "probability": 0.9905219078063965
+      },
+      {
+        "word": " business.",
+        "start": 30.92,
+        "end": 31.3,
+        "probability": 0.9967041611671448
+      },
+      {
+        "word": " So",
+        "start": 31.6,
+        "end": 31.7,
+        "probability": 0.9453186988830566
+      },
+      {
+        "word": " here",
+        "start": 31.7,
+        "end": 31.96,
+        "probability": 0.8024071455001831
+      },
+      {
+        "word": " we",
+        "start": 31.96,
+        "end": 32.2,
+        "probability": 0.9926159381866455
+      },
+      {
+        "word": " are",
+        "start": 32.2,
+        "end": 32.46,
+        "probability": 0.9971835017204285
+      },
+      {
+        "word": " back",
+        "start": 32.46,
+        "end": 33.14,
+        "probability": 0.5222256779670715
+      },
+      {
+        "word": " again",
+        "start": 33.14,
+        "end": 33.5,
+        "probability": 0.991643488407135
+      },
+      {
+        "word": " to",
+        "start": 33.5,
+        "end": 33.82,
+        "probability": 0.9408791065216064
+      },
+      {
+        "word": " share",
+        "start": 33.82,
+        "end": 34.12,
+        "probability": 0.9899715185165405
+      },
+      {
+        "word": " the",
+        "start": 34.12,
+        "end": 34.3,
+        "probability": 0.8252221345901489
+      },
+      {
+        "word": " people,",
+        "start": 34.3,
+        "end": 34.62,
+        "probability": 0.9470258355140686
+      },
+      {
+        "word": " the",
+        "start": 34.84,
+        "end": 34.86,
+        "probability": 0.9403933882713318
+      },
+      {
+        "word": " work",
+        "start": 34.86,
+        "end": 35.24,
+        "probability": 0.9960928559303284
+      },
+      {
+        "word": " and",
+        "start": 35.24,
+        "end": 35.72,
+        "probability": 0.7620633840560913
+      }
+    ]
+  },
+  {
+    "start": 35.72,
+    "end": 37.78,
+    "text": " the lesson. Welcome to the real astro.",
+    "words": [
+      {
+        "word": " the",
+        "start": 35.72,
+        "end": 35.84,
+        "probability": 0.9961085915565491
+      },
+      {
+        "word": " lesson.",
+        "start": 35.84,
+        "end": 36.24,
+        "probability": 0.9827597141265869
+      },
+      {
+        "word": " Welcome",
+        "start": 36.46,
+        "end": 36.72,
+        "probability": 0.9757755994796753
+      },
+      {
+        "word": " to",
+        "start": 36.72,
+        "end": 37.0,
+        "probability": 0.9971555471420288
+      },
+      {
+        "word": " the",
+        "start": 37.0,
+        "end": 37.14,
+        "probability": 0.712977409362793
+      },
+      {
+        "word": " real",
+        "start": 37.14,
+        "end": 37.34,
+        "probability": 0.38413748145103455
+      },
+      {
+        "word": " astro.",
+        "start": 37.34,
+        "end": 37.78,
+        "probability": 0.5891086608171463
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "asset": "public/assets/projects/niolearn-04/nio-parents-authority-v1.webm",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "alphaMin": 0,
+    "alphaMax": 255
+  },
+  {
+    "asset": "public/assets/projects/niolearn-04/nio-parents-conversation-v1.webm",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "alphaMin": 0,
+    "alphaMax": 255
+  },
+  {
+    "asset": "public/assets/projects/niolearn-04/nio-parents-credential-v1.webm",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "alphaMin": 0,
+    "alphaMax": 255
+  },
+  {
+    "asset": "public/assets/projects/niolearn-04/nio-parents-fees-v1.webm",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "alphaMin": 0,
+    "alphaMax": 255
+  },
+  {
+    "asset": "public/assets/projects/niolearn-04/nio-parents-outcomes-v1.webm",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "alphaMin": 0,
+    "alphaMax": 255
+  }
+]

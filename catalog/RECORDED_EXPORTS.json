@@ -1,0 +1,147 @@
+{
+  "totalRecorded": 14,
+  "verified": 14,
+  "pending": [],
+  "reels": [
+    {
+      "brand": "niolearn",
+      "number": "01",
+      "title": "Parent Questions",
+      "file": "deliverables/niolearn/NIOLEARN_01_Parent_Questions_v2.mp4",
+      "durationSeconds": 46.7,
+      "sha256": "6441cc58df1a9209b0b60d9c138aeac5503dab81d1febcf8f37c4a7abe2159c3",
+      "status": "approved",
+      "finalQA": "projects/niolearn/niolearn-04/analysis/final-qa.json"
+    },
+    {
+      "brand": "niolearn",
+      "number": "02",
+      "title": "Preparation System",
+      "file": "deliverables/niolearn/NIOLEARN_02_Preparation_System_v1.mp4",
+      "durationSeconds": 40.233333333333334,
+      "sha256": "3f2708a555e1273ae10f3f0209c52c80a850d43e059536da36686176ef9f8fd8",
+      "status": "approved",
+      "finalQA": "projects/niolearn/niolearn-07/analysis/final-qa.json"
+    },
+    {
+      "brand": "niolearn",
+      "number": "03",
+      "title": "Entrance Mistakes",
+      "file": "deliverables/niolearn/NIOLEARN_03_Entrance_Mistakes_v2.mp4",
+      "durationSeconds": 36.06666666666667,
+      "sha256": "9416167f872b3c4a04d2d3ef087416d877a02181a21308f7b71870a09f833a2a",
+      "status": "completed",
+      "finalQA": "projects/niolearn/niolearn-09/analysis/final-qa.json"
+    },
+    {
+      "brand": "niolearn",
+      "number": "04",
+      "title": "Interview Introduction",
+      "file": "deliverables/niolearn/NIOLEARN_04_Interview_Introduction_v1.mp4",
+      "durationSeconds": 33.53333333333333,
+      "sha256": "a1e0752856ce1b1a3ad2a96bac6dbc646e473f0fe493068d0e89d7f46b2c4075",
+      "status": "completed",
+      "finalQA": "projects/niolearn/niolearn-12/analysis/final-qa.json"
+    },
+    {
+      "brand": "niolearn",
+      "number": "05",
+      "title": "Beyond Marks",
+      "file": "deliverables/niolearn/NIOLEARN_05_Beyond_Marks_v1.mp4",
+      "durationSeconds": 45.166666666666664,
+      "sha256": "8721a7d7e2b14f38a69316a90f75d98f316b97565daff4f86c69ce669b30abdf",
+      "status": "completed",
+      "finalQA": "projects/niolearn/niolearn-15/analysis/final-qa.json"
+    },
+    {
+      "brand": "niolearn",
+      "number": "06",
+      "title": "Mock Test Teardown",
+      "file": "deliverables/niolearn/NIOLEARN_06_Mock_Test_Teardown_v1.mp4",
+      "durationSeconds": 34.46666666666667,
+      "sha256": "6ed7de80ce52e948445effde35d6f4b88859a7c49c7a7278d988976d6f36e91c",
+      "status": "completed",
+      "finalQA": "projects/niolearn/niolearn-16/analysis/final-qa.json"
+    },
+    {
+      "brand": "niolearn",
+      "number": "07",
+      "title": "Project Answer",
+      "file": "deliverables/niolearn/NIOLEARN_07_Project_Answer_v1.mp4",
+      "durationSeconds": 41.2,
+      "sha256": "bd53b3520dd60722f33f9e66fe0296c7ae855cbbb2550c53267116e9ad35ab51",
+      "status": "completed",
+      "finalQA": "projects/niolearn/niolearn-19/analysis/final-qa.json"
+    },
+    {
+      "brand": "niolearn",
+      "number": "08",
+      "title": "Tell Me About Yourself",
+      "file": "deliverables/niolearn/NIOLEARN_08_Tell_Me_About_Yourself_v1.mp4",
+      "durationSeconds": 44.5,
+      "sha256": "00ddaae0a7744d80a3fc02078f9f9f9cbf077e6369c3d7fc9f733e90d89af146",
+      "status": "completed",
+      "finalQA": "projects/niolearn/niolearn-11/analysis/final-qa.json"
+    },
+    {
+      "brand": "niolearn",
+      "number": "09",
+      "title": "School Comparison",
+      "file": "deliverables/niolearn/NIOLEARN_09_School_Comparison_v1.mp4",
+      "durationSeconds": 47.43333333333333,
+      "sha256": "c421e15b33a972856443eec73ef9fefd40af7509c0623b5fd1375190e9a8a6b1",
+      "status": "completed",
+      "finalQA": "projects/niolearn/niolearn-20/analysis/final-qa.json"
+    },
+    {
+      "brand": "niolearn",
+      "number": "10",
+      "title": "Brand Introduction",
+      "file": "deliverables/niolearn/NIOLEARN_10_Brand_Introduction_v1.mp4",
+      "durationSeconds": 55.3,
+      "sha256": "e8dc3310c3d4adaac04e9fb895c562880fb9541b85e648925df7a6681573c43c",
+      "status": "completed",
+      "finalQA": "projects/niolearn/niolearn-recorded-brand-intro/analysis/final-qa.json"
+    },
+    {
+      "brand": "niolearn",
+      "number": "11",
+      "title": "Early Access",
+      "file": "deliverables/niolearn/NIOLEARN_11_Early_Access_v1.mp4",
+      "durationSeconds": 31.533333333333335,
+      "sha256": "ca6e4f56fa9b4eb8d6dc6ac57fa3eef3cdd5285ce06d1e4cd1f1357323eacca3",
+      "status": "completed",
+      "finalQA": "projects/niolearn/niolearn-recorded-early-access/analysis/final-qa.json"
+    },
+    {
+      "brand": "niolearn",
+      "number": "12",
+      "title": "Admissions",
+      "file": "deliverables/niolearn/NIOLEARN_12_Admissions_v1.mp4",
+      "durationSeconds": 33.36666666666667,
+      "sha256": "16d983ba83dfb3df19004eeafcf2d7b839a68bdd06ebf5e2cd8632cfa64536f2",
+      "status": "completed",
+      "finalQA": "projects/niolearn/niolearn-recorded-admissions/analysis/final-qa.json"
+    },
+    {
+      "brand": "atfro",
+      "number": "01",
+      "title": "Approved",
+      "file": "deliverables/atfro/ATFRO_01_reedit_v7.mp4",
+      "durationSeconds": 39.36666666666667,
+      "sha256": "20b758ca6bb1fb19f5e8cea1b9a0aec8ab4d8338bc839b1ed637e233499300dc",
+      "status": "approved",
+      "finalQA": "projects/atfro/atfro-01/analysis/final-qa.json"
+    },
+    {
+      "brand": "atfro",
+      "number": "02",
+      "title": "School Story",
+      "file": "deliverables/atfro/ATFRO_02_School_Story_v1.mp4",
+      "durationSeconds": 39.9,
+      "sha256": "95d98fb2cd1d709feff4935fa7267182658db578ddb12eaec517136be7fa9e9f",
+      "status": "completed",
+      "finalQA": "projects/atfro/atfro-04/analysis/final-qa.json"
+    }
+  ]
+}

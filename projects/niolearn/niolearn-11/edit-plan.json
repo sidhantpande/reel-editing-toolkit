@@ -1,0 +1,92 @@
+{
+  "id": "niolearn-11",
+  "brand": "niolearn",
+  "status": "edited-awaiting-user-review",
+  "sourceClips": [
+    "media/raw/niolearn/niolearn-11/IMG_5965.mov",
+    "media/raw/niolearn/niolearn-11/IMG_5966.mov"
+  ],
+  "format": "REEL",
+  "captionPreset": "reference",
+  "broll": [
+    {
+      "kind": "nio-project-structure",
+      "duration": 191,
+      "fadeFrames": 8,
+      "from": 360
+    },
+    {
+      "kind": "nio-story-profile",
+      "duration": 333,
+      "fadeFrames": 8,
+      "from": 619,
+      "beats": [
+        150
+      ]
+    }
+  ],
+  "notes": [
+    "Source script timings are estimates. Match recorded dialogue before final captions.",
+    "Review all fact placeholders before final export.",
+    "Probable pickup/false start based on opening and adjacent take. Keep for audit; use IMG_5966 as main.",
+    "Recorded formula is phrased differently from the written four-step structure."
+  ],
+  "takes": [
+    {
+      "project": "niolearn-11",
+      "brand": "niolearn",
+      "file": "IMG_5965.mov",
+      "path": "media/raw/niolearn/niolearn-11/IMG_5965.mov",
+      "role": "false-start",
+      "confidence": "medium",
+      "evidence": "Short aborted My name opening immediately preceding complete interview intro take.",
+      "edit_note": "Probable pickup/false start based on opening and adjacent take. Keep for audit; use IMG_5966 as main.",
+      "asr_draft": ".cache/transcripts-en/IMG_5965.json"
+    },
+    {
+      "project": "niolearn-11",
+      "brand": "niolearn",
+      "file": "IMG_5966.mov",
+      "path": "media/raw/niolearn/niolearn-11/IMG_5966.mov",
+      "role": "main",
+      "confidence": "high",
+      "evidence": "My name, Pune, 87 percent; resume-reading critique; proof, school choice and next goal.",
+      "edit_note": "Recorded formula is phrased differently from the written four-step structure.",
+      "asr_draft": ".cache/transcripts-en/IMG_5966.json"
+    }
+  ],
+  "captionBeats": [
+    "Weak intro",
+    "Show proof",
+    "Why this school",
+    "Next goal"
+  ],
+  "suggestedBroll": [
+    {
+      "spokenAnchor": "When the resume-style answer becomes a stronger structure",
+      "composition": "Broll-compare",
+      "asset": "public/assets/broll/niolearn-compare.webm",
+      "timingStatus": "Resolve against edited recording; no frame cue assigned"
+    }
+  ],
+  "soundDirection": {
+    "music": "calm-focus",
+    "voicePriority": true,
+    "sfx": [
+      "soft-whoosh at a major graphic reveal",
+      "soft-tick only for a real timer"
+    ],
+    "avoid": "A sound effect on every caption word"
+  },
+  "creativeNote": "Use IMG_5966 as main. Keep IMG_5965 as an archived false start.",
+  "visualDirection": "light-editorial-v3",
+  "preferredPremiumScene": {
+    "composition": "Premium-paper-possibilities",
+    "kind": "paper-possibilities",
+    "asset": "public/assets/broll/niolearn-premium-paper-possibilities-v3.webm",
+    "source": "src/premium/PaperScene.tsx",
+    "note": "Use opaque paper scenes for full B-roll; alpha versions are reusable overlays. Functional first-generation diagrams can be restyled as needed."
+  },
+  "output": "deliverables/niolearn/NIOLEARN_08_Tell_Me_About_Yourself_v1.mp4",
+  "finalQA": "analysis/final-qa.json"
+}

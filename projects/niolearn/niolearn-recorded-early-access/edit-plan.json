@@ -1,0 +1,102 @@
+{
+  "id": "niolearn-recorded-early-access",
+  "brand": "niolearn",
+  "status": "edited-awaiting-user-review",
+  "sourceClips": [
+    "media/raw/niolearn/niolearn-recorded-early-access/IMG_5980.mov",
+    "media/raw/niolearn/niolearn-recorded-early-access/IMG_5987.mov"
+  ],
+  "format": "RECORDED_REEL",
+  "captionPreset": "reference",
+  "broll": [
+    {
+      "kind": "nio-study-logic",
+      "duration": 208,
+      "fadeFrames": 8,
+      "from": 92
+    },
+    {
+      "kind": "nio-brand-services",
+      "duration": 233,
+      "fadeFrames": 8,
+      "from": 344,
+      "beats": [
+        91,
+        130
+      ],
+      "labels": [
+        "nio-system-prep",
+        "nio-parents-conversation",
+        "nio-system-interview"
+      ]
+    },
+    {
+      "kind": "nio-access-calendar",
+      "duration": 186,
+      "fadeFrames": 8,
+      "from": 640
+    }
+  ],
+  "notes": [
+    "Recorded English promotional opener, not an exact calendar-script match.",
+    "Time-sensitive October 22 claim. Confirm intended year, offer and live waitlist before editing a release."
+  ],
+  "takes": [
+    {
+      "project": "niolearn-recorded-early-access",
+      "brand": "niolearn",
+      "file": "IMG_5980.mov",
+      "path": "media/raw/niolearn/niolearn-recorded-early-access/IMG_5980.mov",
+      "role": "part-1",
+      "confidence": "high",
+      "evidence": "Planning for new generation tech colleges; structured live classes, mentorship, personalized interviews.",
+      "edit_note": "Recorded English promotional opener, not an exact calendar-script match.",
+      "asr_draft": ".cache/transcripts-en/IMG_5980.json"
+    },
+    {
+      "project": "niolearn-recorded-early-access",
+      "brand": "niolearn",
+      "file": "IMG_5987.mov",
+      "path": "media/raw/niolearn/niolearn-recorded-early-access/IMG_5987.mov",
+      "role": "part-2",
+      "confidence": "high",
+      "evidence": "Early access and waitlist by October 22; website CTA.",
+      "edit_note": "Time-sensitive October 22 claim. Confirm intended year, offer and live waitlist before editing a release.",
+      "asr_draft": ".cache/transcripts-en/IMG_5987.json"
+    }
+  ],
+  "captionLanguage": "English recording; review exact words",
+  "captionBeats": [
+    "Different entrances",
+    "One preparation system",
+    "Early access"
+  ],
+  "suggestedBroll": [
+    {
+      "spokenAnchor": "When different preparation routes are described",
+      "composition": "Broll-pathways",
+      "asset": "public/assets/broll/niolearn-pathways.webm",
+      "timingStatus": "Resolve against edited recording; no frame cue assigned"
+    }
+  ],
+  "soundDirection": {
+    "music": "calm-focus",
+    "voicePriority": true,
+    "sfx": [
+      "soft-whoosh at a major graphic reveal",
+      "soft-tick only for a real timer"
+    ],
+    "avoid": "A sound effect on every caption word"
+  },
+  "creativeNote": "Two parts in order. Confirm the October 22 offer/date before creating final CTA typography.",
+  "visualDirection": "light-editorial-v3",
+  "preferredPremiumScene": {
+    "composition": "Premium-paper-pathways",
+    "kind": "paper-pathways",
+    "asset": "public/assets/broll/niolearn-premium-paper-pathways-v3.webm",
+    "source": "src/premium/PaperScene.tsx",
+    "note": "Use opaque paper scenes for full B-roll; alpha versions are reusable overlays. Functional first-generation diagrams can be restyled as needed."
+  },
+  "output": "deliverables/niolearn/NIOLEARN_11_Early_Access_v1.mp4",
+  "finalQA": "analysis/final-qa.json"
+}

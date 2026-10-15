@@ -1,0 +1,94 @@
+{
+  "id": "niolearn-16",
+  "brand": "niolearn",
+  "status": "edited-awaiting-user-review",
+  "sourceClips": [
+    "media/raw/niolearn/niolearn-16/IMG_5961.mov",
+    "media/raw/niolearn/niolearn-16/IMG_5962.mov"
+  ],
+  "format": "REEL",
+  "captionPreset": "reference",
+  "broll": [
+    {
+      "kind": "nio-story-mock",
+      "from": 137,
+      "duration": 688,
+      "fadeFrames": 8,
+      "beats": [
+        169,
+        332,
+        483
+      ]
+    }
+  ],
+  "notes": [
+    "Source script timings are estimates. Match recorded dialogue before final captions.",
+    "Review all fact placeholders before final export.",
+    "Continues in IMG_5962. Do not treat as a complete reel.",
+    "Continuation of IMG_5961. Match the fourth-item lead-in at the cut."
+  ],
+  "takes": [
+    {
+      "project": "niolearn-16",
+      "brand": "niolearn",
+      "file": "IMG_5961.mov",
+      "path": "media/raw/niolearn/niolearn-16/IMG_5961.mov",
+      "role": "part-1",
+      "confidence": "high",
+      "evidence": "Mock mistakes: tough questions, missing NOT/EXCEPT, time on easy questions; stops at fourth item.",
+      "edit_note": "Continues in IMG_5962. Do not treat as a complete reel.",
+      "asr_draft": ".cache/transcripts-en/IMG_5961.json"
+    },
+    {
+      "project": "niolearn-16",
+      "brand": "niolearn",
+      "file": "IMG_5962.mov",
+      "path": "media/raw/niolearn/niolearn-16/IMG_5962.mov",
+      "role": "part-2",
+      "confidence": "high",
+      "evidence": "Blind guessing, elimination method, closing CTA.",
+      "edit_note": "Continuation of IMG_5961. Match the fourth-item lead-in at the cut.",
+      "asr_draft": ".cache/transcripts-en/IMG_5962.json"
+    }
+  ],
+  "captionBeats": [
+    "Question choice",
+    "Read carefully",
+    "Time leaks",
+    "Blind guessing"
+  ],
+  "suggestedBroll": [
+    {
+      "spokenAnchor": "On time being lost",
+      "composition": "Broll-countdown",
+      "asset": "public/assets/broll/niolearn-countdown.webm",
+      "timingStatus": "Resolve against edited recording; no frame cue assigned"
+    },
+    {
+      "spokenAnchor": "On elimination versus blind guessing",
+      "composition": "Broll-compare",
+      "asset": "public/assets/broll/niolearn-compare.webm",
+      "timingStatus": "Resolve against edited recording; no frame cue assigned"
+    }
+  ],
+  "soundDirection": {
+    "music": "calm-focus",
+    "voicePriority": true,
+    "sfx": [
+      "soft-whoosh at a major graphic reveal",
+      "soft-tick only for a real timer"
+    ],
+    "avoid": "A sound effect on every caption word"
+  },
+  "creativeNote": "Join IMG_5961 then IMG_5962. Set the actual timer duration to the spoken context, not a default 5-second countdown.",
+  "visualDirection": "light-editorial-v3",
+  "preferredPremiumScene": {
+    "composition": "Premium-paper-pathways",
+    "kind": "paper-pathways",
+    "asset": "public/assets/broll/niolearn-premium-paper-pathways-v3.webm",
+    "source": "src/premium/PaperScene.tsx",
+    "note": "Use opaque paper scenes for full B-roll; alpha versions are reusable overlays. Functional first-generation diagrams can be restyled as needed."
+  },
+  "output": "deliverables/niolearn/NIOLEARN_06_Mock_Test_Teardown_v1.mp4",
+  "finalQA": "analysis/final-qa.json"
+}

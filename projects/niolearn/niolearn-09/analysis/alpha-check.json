@@ -1,0 +1,20 @@
+[
+  {
+    "asset": "public/assets/projects/niolearn-09/nio-study-choice-v2.webm",
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "dimensions": [
+      1080,
+      1920
+    ]
+  },
+  {
+    "asset": "public/assets/projects/niolearn-09/nio-study-logic-v2.webm",
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "dimensions": [
+      1080,
+      1920
+    ]
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "project": "niolearn-20",
+  "sourceRecordings": [
+    "IMG_5967.mov",
+    "IMG_5971.mov"
+  ],
+  "review": "Chronological source contact sheets inspected; native-language word transcript reviewed alongside waveform pause log. Clean source takes selected; trailing screen looks and abandoned repeated lines excluded.",
+  "cutList": "cut-list.json",
+  "captionSource": "source-words.json",
+  "editorial": "editorial.json",
+  "contentReview": "Recorded script examples retained; no new factual claims added.",
+  "finalStatus": "Requires actual encoded visual, dialogue, motion and finish review before completion."
+}

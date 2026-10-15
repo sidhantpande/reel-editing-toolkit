@@ -1,0 +1,152 @@
+{
+  "id": "niolearn-12",
+  "fps": 30,
+  "dialogueFrames": 961,
+  "endHoldFrames": 45,
+  "totalFrames": 1006,
+  "cuts": [
+    {
+      "source": "media/raw/niolearn/niolearn-12/IMG_5956.mov",
+      "inFrame": 19,
+      "outFrame": 57,
+      "timelineFrom": 0,
+      "duration": 38,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Interview intro hook"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-12/IMG_5956.mov",
+      "inFrame": 62,
+      "outFrame": 87,
+      "timelineFrom": 38,
+      "duration": 25,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Hook question"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-12/IMG_5956.mov",
+      "inFrame": 93,
+      "outFrame": 186,
+      "timelineFrom": 63,
+      "duration": 93,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Three stronger openers"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-12/IMG_5956.mov",
+      "inFrame": 200,
+      "outFrame": 324,
+      "timelineFrom": 156,
+      "duration": 124,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Problem opener"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-12/IMG_5956.mov",
+      "inFrame": 331,
+      "outFrame": 410,
+      "timelineFrom": 280,
+      "duration": 79,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Reason for applying"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-12/IMG_5956.mov",
+      "inFrame": 426,
+      "outFrame": 487,
+      "timelineFrom": 359,
+      "duration": 61,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Project opener"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-12/IMG_5956.mov",
+      "inFrame": 492,
+      "outFrame": 598,
+      "timelineFrom": 420,
+      "duration": 106,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Complete English project example; preserve have done after English-language word check"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-12/IMG_5956.mov",
+      "inFrame": 606,
+      "outFrame": 648,
+      "timelineFrom": 526,
+      "duration": 42,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Builds interest"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-12/IMG_5956.mov",
+      "inFrame": 670,
+      "outFrame": 813,
+      "timelineFrom": 568,
+      "duration": 143,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Curiosity opener"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-12/IMG_5956.mov",
+      "inFrame": 817,
+      "outFrame": 904,
+      "timelineFrom": 711,
+      "duration": 87,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Interview curiosity explanation"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-12/IMG_5956.mov",
+      "inFrame": 922,
+      "outFrame": 959,
+      "timelineFrom": 798,
+      "duration": 37,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Save the reel"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-12/IMG_5956.mov",
+      "inFrame": 973,
+      "outFrame": 1017,
+      "timelineFrom": 835,
+      "duration": 44,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Your line in comments; omit apni restart"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-12/IMG_5956.mov",
+      "inFrame": 1022,
+      "outFrame": 1104,
+      "timelineFrom": 879,
+      "duration": 82,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Detailed preparation CTA"
+    }
+  ]
+}

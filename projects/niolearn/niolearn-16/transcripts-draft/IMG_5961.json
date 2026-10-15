@@ -1,0 +1,493 @@
+{
+  "source": "IMG_5961.wav",
+  "language": "en",
+  "status": "ASR_DRAFT_FOR_MATCHING_NOT_FINAL_CAPTIONS",
+  "segments": [
+    {
+      "start": 1.9800000000000018,
+      "end": 6.32,
+      "text": " The main difference is that the difference is not only in the marks but also in the 4 main mistakes.",
+      "words": [
+        {
+          "start": 1.9800000000000018,
+          "end": 2.94,
+          "text": " The",
+          "probability": 0.07663466036319733
+        },
+        {
+          "start": 2.94,
+          "end": 2.94,
+          "text": " main",
+          "probability": 0.034975096583366394
+        },
+        {
+          "start": 2.94,
+          "end": 2.94,
+          "text": " difference",
+          "probability": 0.19456513226032257
+        },
+        {
+          "start": 2.94,
+          "end": 2.94,
+          "text": " is",
+          "probability": 0.35056060552597046
+        },
+        {
+          "start": 2.94,
+          "end": 2.94,
+          "text": " that",
+          "probability": 0.2843131124973297
+        },
+        {
+          "start": 2.94,
+          "end": 2.94,
+          "text": " the",
+          "probability": 0.09936723113059998
+        },
+        {
+          "start": 2.94,
+          "end": 2.94,
+          "text": " difference",
+          "probability": 0.030322227627038956
+        },
+        {
+          "start": 2.94,
+          "end": 2.94,
+          "text": " is",
+          "probability": 0.3066082000732422
+        },
+        {
+          "start": 2.94,
+          "end": 2.94,
+          "text": " not",
+          "probability": 0.2667793333530426
+        },
+        {
+          "start": 2.94,
+          "end": 2.94,
+          "text": " only",
+          "probability": 0.4613996744155884
+        },
+        {
+          "start": 2.94,
+          "end": 2.94,
+          "text": " in",
+          "probability": 0.3172683119773865
+        },
+        {
+          "start": 2.94,
+          "end": 3.16,
+          "text": " the",
+          "probability": 0.5183979868888855
+        },
+        {
+          "start": 3.16,
+          "end": 3.16,
+          "text": " marks",
+          "probability": 0.08466839045286179
+        },
+        {
+          "start": 3.16,
+          "end": 4.98,
+          "text": " but",
+          "probability": 0.3601504862308502
+        },
+        {
+          "start": 4.98,
+          "end": 4.98,
+          "text": " also",
+          "probability": 0.641502320766449
+        },
+        {
+          "start": 4.98,
+          "end": 4.98,
+          "text": " in",
+          "probability": 0.48974740505218506
+        },
+        {
+          "start": 4.98,
+          "end": 5.38,
+          "text": " the",
+          "probability": 0.831070601940155
+        },
+        {
+          "start": 5.38,
+          "end": 5.44,
+          "text": " 4",
+          "probability": 0.079465351998806
+        },
+        {
+          "start": 5.44,
+          "end": 5.92,
+          "text": " main",
+          "probability": 0.9339872002601624
+        },
+        {
+          "start": 5.92,
+          "end": 6.32,
+          "text": " mistakes.",
+          "probability": 0.5346006155014038
+        }
+      ]
+    },
+    {
+      "start": 7.5,
+      "end": 12.28,
+      "text": " First, you should focus on the tough question to take the time to think about the easy questions.",
+      "words": [
+        {
+          "start": 7.5,
+          "end": 8.0,
+          "text": " First,",
+          "probability": 0.4810181260108948
+        },
+        {
+          "start": 8.46,
+          "end": 8.46,
+          "text": " you",
+          "probability": 0.08665686100721359
+        },
+        {
+          "start": 8.46,
+          "end": 8.46,
+          "text": " should",
+          "probability": 0.29622748494148254
+        },
+        {
+          "start": 8.46,
+          "end": 8.46,
+          "text": " focus",
+          "probability": 0.0641205757856369
+        },
+        {
+          "start": 8.46,
+          "end": 8.46,
+          "text": " on",
+          "probability": 0.7114371061325073
+        },
+        {
+          "start": 8.46,
+          "end": 8.56,
+          "text": " the",
+          "probability": 0.5232394337654114
+        },
+        {
+          "start": 8.56,
+          "end": 8.68,
+          "text": " tough",
+          "probability": 0.25160664319992065
+        },
+        {
+          "start": 8.68,
+          "end": 9.22,
+          "text": " question",
+          "probability": 0.7024401426315308
+        },
+        {
+          "start": 9.22,
+          "end": 9.74,
+          "text": " to",
+          "probability": 0.06731296330690384
+        },
+        {
+          "start": 9.74,
+          "end": 9.74,
+          "text": " take",
+          "probability": 0.036079078912734985
+        },
+        {
+          "start": 9.74,
+          "end": 10.14,
+          "text": " the",
+          "probability": 0.1649315506219864
+        },
+        {
+          "start": 10.14,
+          "end": 10.3,
+          "text": " time",
+          "probability": 0.18859854340553284
+        },
+        {
+          "start": 10.3,
+          "end": 11.24,
+          "text": " to",
+          "probability": 0.479092001914978
+        },
+        {
+          "start": 11.24,
+          "end": 11.24,
+          "text": " think",
+          "probability": 0.21391287446022034
+        },
+        {
+          "start": 11.24,
+          "end": 11.24,
+          "text": " about",
+          "probability": 0.5104451775550842
+        },
+        {
+          "start": 11.24,
+          "end": 11.54,
+          "text": " the",
+          "probability": 0.40463128685951233
+        },
+        {
+          "start": 11.54,
+          "end": 11.64,
+          "text": " easy",
+          "probability": 0.6236302852630615
+        },
+        {
+          "start": 11.64,
+          "end": 12.28,
+          "text": " questions.",
+          "probability": 0.6198914051055908
+        }
+      ]
+    },
+    {
+      "start": 13.6,
+      "end": 18.9,
+      "text": " Second, you should not focus on the question whether to read the words except for the words.",
+      "words": [
+        {
+          "start": 13.6,
+          "end": 14.46,
+          "text": " Second,",
+          "probability": 0.5496938228607178
+        },
+        {
+          "start": 14.94,
+          "end": 15.04,
+          "text": " you",
+          "probability": 0.24926690757274628
+        },
+        {
+          "start": 15.04,
+          "end": 15.04,
+          "text": " should",
+          "probability": 0.6402801275253296
+        },
+        {
+          "start": 15.04,
+          "end": 15.04,
+          "text": " not",
+          "probability": 0.6982829570770264
+        },
+        {
+          "start": 15.04,
+          "end": 15.04,
+          "text": " focus",
+          "probability": 0.1048831045627594
+        },
+        {
+          "start": 15.04,
+          "end": 15.04,
+          "text": " on",
+          "probability": 0.7637614607810974
+        },
+        {
+          "start": 15.04,
+          "end": 15.1,
+          "text": " the",
+          "probability": 0.43800264596939087
+        },
+        {
+          "start": 15.1,
+          "end": 15.48,
+          "text": " question",
+          "probability": 0.4290062189102173
+        },
+        {
+          "start": 15.48,
+          "end": 16.54,
+          "text": " whether",
+          "probability": 0.1853790134191513
+        },
+        {
+          "start": 16.54,
+          "end": 17.98,
+          "text": " to",
+          "probability": 0.4571687579154968
+        },
+        {
+          "start": 17.98,
+          "end": 17.98,
+          "text": " read",
+          "probability": 0.33650389313697815
+        },
+        {
+          "start": 17.98,
+          "end": 17.98,
+          "text": " the",
+          "probability": 0.24676023423671722
+        },
+        {
+          "start": 17.98,
+          "end": 17.98,
+          "text": " words",
+          "probability": 0.2559659779071808
+        },
+        {
+          "start": 17.98,
+          "end": 18.06,
+          "text": " except",
+          "probability": 0.21245674788951874
+        },
+        {
+          "start": 18.06,
+          "end": 18.72,
+          "text": " for",
+          "probability": 0.26401376724243164
+        },
+        {
+          "start": 18.72,
+          "end": 18.72,
+          "text": " the",
+          "probability": 0.4582870602607727
+        },
+        {
+          "start": 18.72,
+          "end": 18.9,
+          "text": " words.",
+          "probability": 0.8987565636634827
+        }
+      ]
+    },
+    {
+      "start": 20.340000000000003,
+      "end": 25.02,
+      "text": " Third, focus on the easy questions to take the time.",
+      "words": [
+        {
+          "start": 20.340000000000003,
+          "end": 21.3,
+          "text": " Third,",
+          "probability": 0.6831802129745483
+        },
+        {
+          "start": 22.8,
+          "end": 22.8,
+          "text": " focus",
+          "probability": 0.5065340995788574
+        },
+        {
+          "start": 22.8,
+          "end": 22.8,
+          "text": " on",
+          "probability": 0.6334526538848877
+        },
+        {
+          "start": 22.8,
+          "end": 23.02,
+          "text": " the",
+          "probability": 0.6894888877868652
+        },
+        {
+          "start": 23.02,
+          "end": 23.26,
+          "text": " easy",
+          "probability": 0.8040428757667542
+        },
+        {
+          "start": 23.26,
+          "end": 23.94,
+          "text": " questions",
+          "probability": 0.7996613383293152
+        },
+        {
+          "start": 23.94,
+          "end": 24.62,
+          "text": " to",
+          "probability": 0.47128134965896606
+        },
+        {
+          "start": 24.62,
+          "end": 24.62,
+          "text": " take",
+          "probability": 0.7637444138526917
+        },
+        {
+          "start": 24.62,
+          "end": 24.62,
+          "text": " the",
+          "probability": 0.3892636299133301
+        },
+        {
+          "start": 24.62,
+          "end": 25.02,
+          "text": " time.",
+          "probability": 0.9165149331092834
+        }
+      ]
+    },
+    {
+      "start": 25.02,
+      "end": 27.34,
+      "text": " This is also a leak.",
+      "words": [
+        {
+          "start": 25.02,
+          "end": 26.12,
+          "text": " This",
+          "probability": 0.11586801707744598
+        },
+        {
+          "start": 26.12,
+          "end": 26.36,
+          "text": " is",
+          "probability": 0.7902016043663025
+        },
+        {
+          "start": 26.36,
+          "end": 26.36,
+          "text": " also",
+          "probability": 0.8298911452293396
+        },
+        {
+          "start": 26.36,
+          "end": 26.86,
+          "text": " a",
+          "probability": 0.8238060474395752
+        },
+        {
+          "start": 26.86,
+          "end": 27.34,
+          "text": " leak.",
+          "probability": 0.591742992401123
+        }
+      ]
+    },
+    {
+      "start": 27.98,
+      "end": 30.18,
+      "text": " It was a leak.",
+      "words": [
+        {
+          "start": 27.98,
+          "end": 28.56,
+          "text": " It",
+          "probability": 0.10682187229394913
+        },
+        {
+          "start": 28.56,
+          "end": 28.56,
+          "text": " was",
+          "probability": 0.7626192569732666
+        },
+        {
+          "start": 28.56,
+          "end": 28.56,
+          "text": " a",
+          "probability": 0.41913843154907227
+        },
+        {
+          "start": 28.56,
+          "end": 30.18,
+          "text": " leak.",
+          "probability": 0.10612635314464569
+        }
+      ]
+    }
+  ]
+}

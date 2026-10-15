@@ -1,0 +1,246 @@
+{
+  "source": "IMG_5987.wav",
+  "language": "en",
+  "status": "ASR_DRAFT_FOR_MATCHING_NOT_FINAL_CAPTIONS",
+  "segments": [
+    {
+      "start": 0.6200000000000003,
+      "end": 3.22,
+      "text": " And here's your chance to get early access.",
+      "words": [
+        {
+          "start": 0.6200000000000003,
+          "end": 1.1,
+          "text": " And",
+          "probability": 0.534999668598175
+        },
+        {
+          "start": 1.1,
+          "end": 1.44,
+          "text": " here's",
+          "probability": 0.8237359821796417
+        },
+        {
+          "start": 1.44,
+          "end": 1.54,
+          "text": " your",
+          "probability": 0.9837771654129028
+        },
+        {
+          "start": 1.54,
+          "end": 1.82,
+          "text": " chance",
+          "probability": 0.995230495929718
+        },
+        {
+          "start": 1.82,
+          "end": 2.04,
+          "text": " to",
+          "probability": 0.9940859079360962
+        },
+        {
+          "start": 2.04,
+          "end": 2.2,
+          "text": " get",
+          "probability": 0.9945968389511108
+        },
+        {
+          "start": 2.2,
+          "end": 2.74,
+          "text": " early",
+          "probability": 0.7383614778518677
+        },
+        {
+          "start": 2.74,
+          "end": 3.22,
+          "text": " access.",
+          "probability": 0.7363266944885254
+        }
+      ]
+    },
+    {
+      "start": 3.72,
+      "end": 8.5,
+      "text": " Join the New Holland wait list by October 22nd through our website for early bird admission",
+      "words": [
+        {
+          "start": 3.72,
+          "end": 3.9,
+          "text": " Join",
+          "probability": 0.9850356578826904
+        },
+        {
+          "start": 3.9,
+          "end": 4.06,
+          "text": " the",
+          "probability": 0.9404378533363342
+        },
+        {
+          "start": 4.06,
+          "end": 4.18,
+          "text": " New",
+          "probability": 0.6941214203834534
+        },
+        {
+          "start": 4.18,
+          "end": 4.36,
+          "text": " Holland",
+          "probability": 0.1904306858778
+        },
+        {
+          "start": 4.36,
+          "end": 4.58,
+          "text": " wait",
+          "probability": 0.4712061583995819
+        },
+        {
+          "start": 4.58,
+          "end": 4.74,
+          "text": " list",
+          "probability": 0.6265711784362793
+        },
+        {
+          "start": 4.74,
+          "end": 4.9,
+          "text": " by",
+          "probability": 0.9746096730232239
+        },
+        {
+          "start": 4.9,
+          "end": 5.24,
+          "text": " October",
+          "probability": 0.9478926062583923
+        },
+        {
+          "start": 5.24,
+          "end": 6.0,
+          "text": " 22nd",
+          "probability": 0.9010539352893829
+        },
+        {
+          "start": 6.0,
+          "end": 6.18,
+          "text": " through",
+          "probability": 0.7187308669090271
+        },
+        {
+          "start": 6.18,
+          "end": 6.3,
+          "text": " our",
+          "probability": 0.9901185631752014
+        },
+        {
+          "start": 6.3,
+          "end": 6.72,
+          "text": " website",
+          "probability": 0.9849907755851746
+        },
+        {
+          "start": 6.72,
+          "end": 7.2,
+          "text": " for",
+          "probability": 0.9009415507316589
+        },
+        {
+          "start": 7.2,
+          "end": 7.7,
+          "text": " early",
+          "probability": 0.7557960748672485
+        },
+        {
+          "start": 7.7,
+          "end": 7.98,
+          "text": " bird",
+          "probability": 0.9388545155525208
+        },
+        {
+          "start": 7.98,
+          "end": 8.5,
+          "text": " admission",
+          "probability": 0.9799885749816895
+        }
+      ]
+    },
+    {
+      "start": 8.5,
+      "end": 9.02,
+      "text": " access.",
+      "words": [
+        {
+          "start": 8.5,
+          "end": 9.02,
+          "text": " access.",
+          "probability": 0.9145505428314209
+        }
+      ]
+    },
+    {
+      "start": 9.6,
+      "end": 10.3,
+      "text": " Don't miss this out.",
+      "words": [
+        {
+          "start": 9.6,
+          "end": 9.8,
+          "text": " Don't",
+          "probability": 0.9792245626449585
+        },
+        {
+          "start": 9.8,
+          "end": 9.98,
+          "text": " miss",
+          "probability": 0.9930593967437744
+        },
+        {
+          "start": 9.98,
+          "end": 10.16,
+          "text": " this",
+          "probability": 0.5911670923233032
+        },
+        {
+          "start": 10.16,
+          "end": 10.3,
+          "text": " out.",
+          "probability": 0.8561047911643982
+        }
+      ]
+    },
+    {
+      "start": 10.5,
+      "end": 12.18,
+      "text": " Your next opportunity starts here.",
+      "words": [
+        {
+          "start": 10.5,
+          "end": 10.6,
+          "text": " Your",
+          "probability": 0.9807410836219788
+        },
+        {
+          "start": 10.6,
+          "end": 10.78,
+          "text": " next",
+          "probability": 0.9945631623268127
+        },
+        {
+          "start": 10.78,
+          "end": 11.38,
+          "text": " opportunity",
+          "probability": 0.9918650984764099
+        },
+        {
+          "start": 11.38,
+          "end": 11.92,
+          "text": " starts",
+          "probability": 0.9677322506904602
+        },
+        {
+          "start": 11.92,
+          "end": 12.18,
+          "text": " here.",
+          "probability": 0.9975090026855469
+        }
+      ]
+    }
+  ]
+}

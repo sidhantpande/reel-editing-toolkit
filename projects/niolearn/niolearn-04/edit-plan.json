@@ -1,0 +1,105 @@
+{
+  "id": "niolearn-04",
+  "brand": "niolearn",
+  "status": "rendered-awaiting-user-review",
+  "sourceClips": [
+    "media/raw/niolearn/niolearn-04/IMG_5941.mov"
+  ],
+  "format": "REEL",
+  "captionPreset": "reference",
+  "broll": [
+    {
+      "kind": "nio-parents-authority",
+      "from": 106,
+      "duration": 95,
+      "fadeFrames": 8
+    },
+    {
+      "kind": "nio-parents-credential-fees",
+      "from": 270,
+      "duration": 280,
+      "beats": [
+        151
+      ],
+      "fadeFrames": 8
+    },
+    {
+      "kind": "nio-parents-outcomes",
+      "from": 716,
+      "duration": 123,
+      "fadeFrames": 8
+    },
+    {
+      "kind": "nio-parents-conversation",
+      "from": 948,
+      "duration": 182,
+      "fadeFrames": 8
+    }
+  ],
+  "notes": [
+    "Source script timings are estimates. Match recorded dialogue before final captions.",
+    "Review all fact placeholders before final export.",
+    "Longer than estimated script. Preserve all five points; tighten naturally.",
+    "First recorded NioLearn reel in camera-file order; source script 01 is a static graphic.",
+    "Approved ATFRO finish adapted to NioLearn light paper/teal, with camera-facing shots, larger animated Roman Hinglish captions, bottom gradient and logo-only ending.",
+    "All five parent questions retained. Source-word alignment and edited-dialogue transcription reviewed.",
+    "Camera-only reframe: remove upper wall space, tighter face crop near upper third; captions, B-roll scale and all edit timings preserved."
+  ],
+  "takes": [
+    {
+      "project": "niolearn-04",
+      "brand": "niolearn",
+      "file": "IMG_5941.mov",
+      "path": "media/raw/niolearn/niolearn-04/IMG_5941.mov",
+      "role": "main",
+      "confidence": "high",
+      "evidence": "Fee before paying; five parent questions: recognition, credential, fees, outcomes, students.",
+      "edit_note": "Longer than estimated script. Preserve all five points; tighten naturally.",
+      "asr_draft": ".cache/transcripts-en/IMG_5941.json"
+    }
+  ],
+  "captionBeats": [
+    "5 questions",
+    "Degree / recognition",
+    "Credential",
+    "Total fees",
+    "Outcomes",
+    "Talk to students"
+  ],
+  "suggestedBroll": [
+    {
+      "spokenAnchor": "On each numbered question",
+      "composition": "Broll-compare",
+      "asset": "public/assets/broll/niolearn-compare.webm",
+      "timingStatus": "Resolve against edited recording; no frame cue assigned"
+    },
+    {
+      "spokenAnchor": "On outcomes data",
+      "composition": "Broll-timeline",
+      "asset": "public/assets/broll/niolearn-timeline.webm",
+      "timingStatus": "Resolve against edited recording; no frame cue assigned"
+    }
+  ],
+  "soundDirection": {
+    "music": "calm-focus",
+    "voicePriority": true,
+    "sfx": [
+      "soft-whoosh at a major graphic reveal",
+      "soft-tick only for a real timer"
+    ],
+    "avoid": "A sound effect on every caption word"
+  },
+  "creativeNote": "Keep a calm pace. One short card per question; do not show fictional university credentials.",
+  "visualDirection": "light-editorial-v3",
+  "preferredPremiumScene": {
+    "composition": "Premium-paper-pathways",
+    "kind": "paper-pathways",
+    "asset": "public/assets/broll/niolearn-premium-paper-pathways-v3.webm",
+    "source": "src/premium/PaperScene.tsx",
+    "note": "Use opaque paper scenes for full B-roll; alpha versions are reusable overlays. Functional first-generation diagrams can be restyled as needed."
+  },
+  "finalExport": "deliverables/niolearn/NIOLEARN_01_Parent_Questions_v2.mp4",
+  "cutList": "projects/niolearn/niolearn-04/cut-list.json",
+  "productionPlan": "projects/niolearn/niolearn-04/production-plan.md",
+  "framingRevision": "face-upper-third-v2"
+}

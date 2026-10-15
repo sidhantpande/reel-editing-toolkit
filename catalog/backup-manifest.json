@@ -1,0 +1,4166 @@
+{
+  "purpose": "Reusable AI editing setup only; excludes raw/reference/final videos and caches.",
+  "created": "2026-10-16",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 436,
+      "sha256": "0e4b24cb0892a4dc8b4f17dfa93e31743b705fe7c9f660b9b06b5842e08322a8"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 550,
+      "sha256": "08cf217d995d241493130f8b789e5234fadd741554eeb816b1e2be0ad61f0805"
+    },
+    {
+      "path": ".nvmrc",
+      "bytes": 7,
+      "sha256": "068a0a6e1f02416d0c46e50a46a679eff53f1b748c8c3e559a2c64ef950cc781"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 5457,
+      "sha256": "bface369b4d1d65e384964e5c323ad4a7fd936a786826944391402550300ce5b"
+    },
+    {
+      "path": "Brewfile",
+      "bytes": 59,
+      "sha256": "ad81a7f7650dbfeeb704d7ff4014de04632d2685f0c0428916c9166374617238"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2522,
+      "sha256": "071d61a93435f3b62bbedf3e851e80f7fb6c1d5dd6d10ce336763cf21f69d670"
+    },
+    {
+      "path": "archive/README.md",
+      "bytes": 322,
+      "sha256": "c3804daddfd2f56be70747917b628fca206827a857af236661d6d92b72ab145d"
+    },
+    {
+      "path": "archive/generated-originals/exec-0243c25a-f4d4-4d85-9fb5-488eb1a670bf.png",
+      "bytes": 1769796,
+      "sha256": "e7d8c5ab714edd35b9e5aa8cf7b493f4c221b57c5008bf41fed5c97c034e6aa2"
+    },
+    {
+      "path": "archive/generated-originals/exec-39a6b03d-b896-443b-9ef3-7ec9931ef870.png",
+      "bytes": 1328209,
+      "sha256": "286e62c02242a446cb98a82b41a56f5a2a09185728aa8f6d01167667dbfc73f9"
+    },
+    {
+      "path": "archive/generated-originals/exec-4b12a913-3cc2-4da0-8da1-6a74d3b3e3d6.png",
+      "bytes": 1654180,
+      "sha256": "7cef04bc9f1ed434c30d6fcc8be3416a7fb2b99f3ee760ebfb9079e2a4970f0b"
+    },
+    {
+      "path": "archive/generated-originals/exec-5d96936a-9849-4bdd-b938-ad807ffc933c.png",
+      "bytes": 2312166,
+      "sha256": "3ace53830032aec3016584531e4fd4cc66d5767b7ee18a72f4dc07f953134851"
+    },
+    {
+      "path": "archive/generated-originals/exec-6602036b-229c-4185-92f4-6655cb856451.png",
+      "bytes": 592755,
+      "sha256": "858230eaa3a218da61b87a94378d2ae3b19ab054b147f08de51c2bca5969fea6"
+    },
+    {
+      "path": "archive/generated-originals/exec-ab70153f-5422-4c99-9b77-60585d22ab48.png",
+      "bytes": 1585340,
+      "sha256": "ed1728605a8661596d94c7b1b7cfadb4dd40851d525a35470d6f5b61de2bcc59"
+    },
+    {
+      "path": "archive/generated-originals/exec-afece405-9034-4dd2-b279-4a25e2717816.png",
+      "bytes": 1575412,
+      "sha256": "71d1e2a8a1a7b345619f7716ed3a888c10d9209beafb87b785dcd75d48ee9663"
+    },
+    {
+      "path": "archive/generated-originals/exec-dd77b296-040b-446a-a499-68b40e0840b2.png",
+      "bytes": 1682095,
+      "sha256": "ead56074e4dfc519d2a6453ad8df19f4baa8d37d853b9f775f06b3f1b569e654"
+    },
+    {
+      "path": "archive/generated-originals/exec-ef1c2bfb-8dd2-439d-98ce-b02911396be2.png",
+      "bytes": 1711100,
+      "sha256": "31e4b230daf05d0aef1f0cfd60a22b790e99a5d7120763e9ab38faac39569ac5"
+    },
+    {
+      "path": "archive/reusable-variants/README.md",
+      "bytes": 318,
+      "sha256": "e5aa633e195a127015428a4e6736df63989cb8f189daf90879ce5bba67df3966"
+    },
+    {
+      "path": "archive/reusable-variants/atfro-early/atfro-process.webm",
+      "bytes": 650016,
+      "sha256": "d0e88a80bb685186520c1ec3ac0263b480a6b0d525fc95f109b7738b8de09e51"
+    },
+    {
+      "path": "archive/reusable-variants/atfro-early/atfro-question.webm",
+      "bytes": 185913,
+      "sha256": "944c8dd140c33567454926712c2389024298e9cbf2c8baf28806593347439e45"
+    },
+    {
+      "path": "archive/reusable-variants/atfro-early/atfro-work.webm",
+      "bytes": 545932,
+      "sha256": "adb7060a371b555682ad9903a2fb691e3b51996270242309ad9dc51cdb3f325e"
+    },
+    {
+      "path": "archive/reusable-variants/paper-v2/assets/glass-person.png",
+      "bytes": 1654180,
+      "sha256": "7cef04bc9f1ed434c30d6fcc8be3416a7fb2b99f3ee760ebfb9079e2a4970f0b"
+    },
+    {
+      "path": "archive/reusable-variants/paper-v2/broll/atfro-premium-crowd-focus-v2.webm",
+      "bytes": 5849862,
+      "sha256": "567a021e517a856eea0ce28d0d69238b623660739235c3b6e3b2c9ad752f8a6f"
+    },
+    {
+      "path": "archive/reusable-variants/paper-v2/broll/atfro-premium-editorial-trust-v2.webm",
+      "bytes": 3195413,
+      "sha256": "e0461185f4335736cb816ae17fb0ee2add5f0636c1005117331ec720817b0d97"
+    },
+    {
+      "path": "archive/reusable-variants/paper-v2/broll/atfro-premium-glass-mentor-v2.webm",
+      "bytes": 3759573,
+      "sha256": "dbdb4a9268bf87e3565c27c47f5ec2fc62df730e873133e6942257e2105b548b"
+    },
+    {
+      "path": "archive/reusable-variants/paper-v2/broll/atfro-premium-glass-paths-v2.webm",
+      "bytes": 3278260,
+      "sha256": "3238061941efbc74e7d2c1c8ae5bd34fbeeebcff64b1a162567a395ba08f0888"
+    },
+    {
+      "path": "archive/reusable-variants/paper-v2/broll/niolearn-premium-crowd-focus-v2.webm",
+      "bytes": 5829676,
+      "sha256": "310a470e60eb7cca2bba6a816c3e9cf91bede6f7f7f95cae1d19f17cd1e9a2e8"
+    },
+    {
+      "path": "archive/reusable-variants/paper-v2/broll/niolearn-premium-editorial-trust-v2.webm",
+      "bytes": 3230053,
+      "sha256": "b13cda253bf9f937b49de1e19c861959a6b0852e5e29e0fd499858579c7260c3"
+    },
+    {
+      "path": "archive/reusable-variants/paper-v2/broll/niolearn-premium-glass-mentor-v2.webm",
+      "bytes": 3865123,
+      "sha256": "ba5283962a787724cffe9a5cc6d0315be4f371a6a96dbd649ca2321edcedd2e6"
+    },
+    {
+      "path": "archive/reusable-variants/paper-v2/broll/niolearn-premium-glass-paths-v2.webm",
+      "bytes": 3222146,
+      "sha256": "acb4ca8b3c4d2a0c1c1d0e7f0ff487979417bece621b9e60416015d1b6d11191"
+    },
+    {
+      "path": "archive/reusable-variants/paper-v2/src/PremiumScene.tsx",
+      "bytes": 10827,
+      "sha256": "c7882f4f6d3b3e257cf07f1d7abb2291edc5b4a306f895a5750566e46b6d5ffa"
+    },
+    {
+      "path": "archive/reusable-variants/paper-v2/src/PremiumShowcase.tsx",
+      "bytes": 1157,
+      "sha256": "0dc784ee8c4420a40701da5b5977a013e55c9ec15ca9d8be71e51952cdb4cc64"
+    },
+    {
+      "path": "archive/reusable-variants/study-early/nio-study-logic-v1.webm",
+      "bytes": 807740,
+      "sha256": "00f20a51386ce8599e27eee538bd44d1b7d3ce743d44e87c6e509ed63e31fdea"
+    },
+    {
+      "path": "catalog/ASSET_INDEX.md",
+      "bytes": 23792,
+      "sha256": "8d8b39ae7811c2fafe065f2e624503d8d5233e653ef5d01c2ddb0e1508ea0afe"
+    },
+    {
+      "path": "catalog/COMPLETION_AUDIT.json",
+      "bytes": 20079,
+      "sha256": "ad6a3c4e5162e82426f8b4a1d4901964b90438c58cfb7b06167ad7ac9776b234"
+    },
+    {
+      "path": "catalog/COMPLETION_AUDIT.md",
+      "bytes": 7623,
+      "sha256": "5c15b4176f243c68d7f190408af74478f41205829d44efc14851c102ddd36279"
+    },
+    {
+      "path": "catalog/FOOTAGE_MAP.md",
+      "bytes": 3860,
+      "sha256": "42b72ad64e1bc1abb0da7f3cd20ee0a9666e6122a27ab788fd19423d2d49d050"
+    },
+    {
+      "path": "catalog/RECORDED_EXPORTS.json",
+      "bytes": 5633,
+      "sha256": "a2b6ddb814b7b64a3e406d62aa7fab0612991078d35d60f5badc2661bfb1d780"
+    },
+    {
+      "path": "catalog/RECORDED_EXPORTS.md",
+      "bytes": 3084,
+      "sha256": "44333ff07f8f4183dbbca15416a460b3b866a9e9b494fc35dd683265d2590d41"
+    },
+    {
+      "path": "catalog/alpha-verification.json",
+      "bytes": 2537,
+      "sha256": "1e4c61f56b2f9c5dfa634ee757a38b8cb23471ecd2b222ade0ba6ffd71d0c848"
+    },
+    {
+      "path": "catalog/assets.json",
+      "bytes": 59836,
+      "sha256": "3a5ab7e9f6103ca22bfdc00cc9a4f189fede7e16f129793e3bf864cc05e29d45"
+    },
+    {
+      "path": "catalog/audio-verification.json",
+      "bytes": 388,
+      "sha256": "7494330ea6a967455a193f7bdab5576992cad9b20833070d00e883ce3e0f5d57"
+    },
+    {
+      "path": "catalog/ffmpeg-xfade.txt",
+      "bytes": 4536,
+      "sha256": "0147641aa9ab630d6b552847761785004dec98dd1318a51a95b06c6431110070"
+    },
+    {
+      "path": "catalog/fonts-lock.json",
+      "bytes": 510,
+      "sha256": "f5192c68f4ea9b247e891e81ad849c68e4a826e96d5dda8f715564a37b784163"
+    },
+    {
+      "path": "catalog/footage-map.json",
+      "bytes": 10210,
+      "sha256": "3f06dcd8c4fdc48bc5530ec1e13a513dd8d034aa89bd1f64d12d5cef9fcc5da3"
+    },
+    {
+      "path": "catalog/media-originals.json",
+      "bytes": 6314,
+      "sha256": "0075d241af14fcce33ac8e5c665726c3ff605950a95f85a823574ce905369783"
+    },
+    {
+      "path": "catalog/motion-scenes.json",
+      "bytes": 14240,
+      "sha256": "b35ed78d97300af5388fa0e42c7a87e7ed7e2465e8143ed1489e8d70d5317a4d"
+    },
+    {
+      "path": "catalog/npm-dependencies.json",
+      "bytes": 46313,
+      "sha256": "a0dccb6e35d1e8189bf26d49ff0ec6f00bca6bdf3a74ee709b6f125a4e3d35ba"
+    },
+    {
+      "path": "catalog/premium-v3-verification.json",
+      "bytes": 2641,
+      "sha256": "4dcf37cb13390f14b92cbad1b7682e506e3f0b31b1a24fa07b8928b8435afd5c"
+    },
+    {
+      "path": "catalog/python-dependencies.json",
+      "bytes": 7016,
+      "sha256": "481d25ab1116c325e70e852c12a5a90adbcc0680b24a650f21803ba3569d26ab"
+    },
+    {
+      "path": "catalog/scripts.json",
+      "bytes": 16389,
+      "sha256": "3ea1365a19a31dec71874be526b229dd15a6033f164c51d09ab4a99ddb27f5ed"
+    },
+    {
+      "path": "catalog/transitions.json",
+      "bytes": 1780,
+      "sha256": "1be8d70f1c46211791cf8393cbae748477a8d9be10efd6cf2c2bed5b717d7f76"
+    },
+    {
+      "path": "docs/AI_WORKFLOW.md",
+      "bytes": 3880,
+      "sha256": "d67e282e3c7ca39a239ea19e72f907407074dac9de8775c6fa50139e6eba5c42"
+    },
+    {
+      "path": "docs/GIT_AND_ASSETS.md",
+      "bytes": 1395,
+      "sha256": "20df9997828646ed7937478e78fb843bafc3b4338432711908550cacc0d6c21e"
+    },
+    {
+      "path": "docs/PREMIUM_ASSET_PROMPTS.json",
+      "bytes": 7161,
+      "sha256": "4e68080d7ed24d2424418cae8f50a2b6931f9c972cd53f5b0333e961c1ea16f7"
+    },
+    {
+      "path": "docs/PREMIUM_STYLE.md",
+      "bytes": 3100,
+      "sha256": "41ca1f6e3f4dc89272b9096c02c878480559473f54bb26b88ab9d773fe15cc80"
+    },
+    {
+      "path": "docs/REFERENCE_ANALYSIS.md",
+      "bytes": 5493,
+      "sha256": "3fec5de0cbc11910c660b7d131ca039e634706e9627f35ec227f958d1ecee126"
+    },
+    {
+      "path": "docs/THIRD_PARTY.md",
+      "bytes": 2250,
+      "sha256": "fcecb6042606c24baefa1ac6fe7971297529b6b636dd0d333aed986b5af7c90e"
+    },
+    {
+      "path": "docs/licenses/Remotion-LICENSE.md",
+      "bytes": 2823,
+      "sha256": "bd65083b940f61904f6ef298aade918a7cad72a3e35bc406e36fab365844b673"
+    },
+    {
+      "path": "docs/licenses/Remotion-THIRD-PARTY.md",
+      "bytes": 1255,
+      "sha256": "b643dd255291602f7c60cca4dbd203a1aaa2c2961227d23ab7a6a5e1de2c8a2b"
+    },
+    {
+      "path": "package-lock.json",
+      "bytes": 144610,
+      "sha256": "304a116aa9cfee64591b6b8a071e0e310cb0ac813282fb8e4de410206a553b8c"
+    },
+    {
+      "path": "package.json",
+      "bytes": 1554,
+      "sha256": "b6f0eaf4625b056fc4489794b88e7905ca8d9d97b70e2c5011573d5fa731c7a5"
+    },
+    {
+      "path": "projects/BATCH_PROGRESS.md",
+      "bytes": 1531,
+      "sha256": "e5e8620da00fa2fa4f30e1dcc7c35d348858aee49fb39769aa1be6583c591259"
+    },
+    {
+      "path": "projects/atfro/atfro-01/analysis/IMG_6001-alignment-draft.json",
+      "bytes": 26961,
+      "sha256": "9083bcc80f3a26ca6e3a8627c6410e367ee38479ced5bf96f643218487786dd9"
+    },
+    {
+      "path": "projects/atfro/atfro-01/analysis/edited-dialogue-check.json",
+      "bytes": 11416,
+      "sha256": "f8d79ba840da4af1164116b4873369d11d8a131ae4006263b1799c781bf562da"
+    },
+    {
+      "path": "projects/atfro/atfro-01/analysis/edited-dialogue-final-check.json",
+      "bytes": 10692,
+      "sha256": "97172b97de2872e963ef69e99cbd1fa56e431f98813da0b8589eaf8e0f3d8e1d"
+    },
+    {
+      "path": "projects/atfro/atfro-01/analysis/final-qa.json",
+      "bytes": 1342,
+      "sha256": "869b04e3075fa40cf3f13b8e6b5614720ee31900ced386db9f70397b2de90eb2"
+    },
+    {
+      "path": "projects/atfro/atfro-01/analysis/revision-2-dialogue-check.json",
+      "bytes": 16317,
+      "sha256": "a5776275820b477fb742649494a1b6ee14c9334b8d9f55c227cc575d7f861cb0"
+    },
+    {
+      "path": "projects/atfro/atfro-01/analysis/revision-4-caption-timing-check.json",
+      "bytes": 14315,
+      "sha256": "b6ab564794c3d79822c0bce388c5fdf25f904fd7f6b89d0ef007c76ac712f305"
+    },
+    {
+      "path": "projects/atfro/atfro-01/assets-provenance.json",
+      "bytes": 3726,
+      "sha256": "ffa31b0b794b1b82a45a9e21a9b70c623a059d145e4acc3b3822dd47fc703188"
+    },
+    {
+      "path": "projects/atfro/atfro-01/atfro-process-props.json",
+      "bytes": 93,
+      "sha256": "414c14cad884bbcde02a05d23704b4c8ae71377b32d9ea7863a2b8112fabc073"
+    },
+    {
+      "path": "projects/atfro/atfro-01/atfro-question-props.json",
+      "bytes": 70,
+      "sha256": "d13c7c2ffd2831f5602212c065f08c06ee603e2f47185aa76c12407c173d45d8"
+    },
+    {
+      "path": "projects/atfro/atfro-01/atfro-work-props.json",
+      "bytes": 91,
+      "sha256": "7dd12cd25113700052cca784d71877b86baa28bd3bae11b3364c998c9218dd20"
+    },
+    {
+      "path": "projects/atfro/atfro-01/captions-pages.json",
+      "bytes": 15786,
+      "sha256": "0626c22f2b4b447c7a8329471b3bc67fb60d395e4b0c9de2b9e73dbb354ba080"
+    },
+    {
+      "path": "projects/atfro/atfro-01/captions-words.json",
+      "bytes": 21410,
+      "sha256": "f216cf43106fc15034c4a02a08d8535ea79838f79563ab98f5ece78a8862a395"
+    },
+    {
+      "path": "projects/atfro/atfro-01/colour-grade.json",
+      "bytes": 196,
+      "sha256": "d7df98c9b291f24242238692f63967987cadf5d3963f1d0a86f8d8a14ea9e351"
+    },
+    {
+      "path": "projects/atfro/atfro-01/cut-list.json",
+      "bytes": 5371,
+      "sha256": "c5d8e3caf0f91aebf27d707a17b68e8d5ec769c3cf4689bb8a8adc7137ee94dc"
+    },
+    {
+      "path": "projects/atfro/atfro-01/cut-smoothing.json",
+      "bytes": 1028,
+      "sha256": "9b89271201b2bc1e10d38f5b89fca897825f509318ae1bfa5985b96c3df1a477"
+    },
+    {
+      "path": "projects/atfro/atfro-01/edit-brief.md",
+      "bytes": 742,
+      "sha256": "de70b8d8d891c5d2950218d7544d6a994fd604f507f64415c5731b974bb9e88f"
+    },
+    {
+      "path": "projects/atfro/atfro-01/edit-plan.json",
+      "bytes": 4014,
+      "sha256": "289e87877176b2af4242e8ccf83402d6ea12f6d9385e549f06f1e2c32d62dcce"
+    },
+    {
+      "path": "projects/atfro/atfro-01/production-plan.md",
+      "bytes": 4062,
+      "sha256": "be85c59deb1c9def4bea9b41a4343386e0707b31b16f003c62920435cde5fbca"
+    },
+    {
+      "path": "projects/atfro/atfro-01/reel.json",
+      "bytes": 19822,
+      "sha256": "44f7a90b4800a45e2b83ed3dade15abecd909a7318110164636d858b22d08d1d"
+    },
+    {
+      "path": "projects/atfro/atfro-01/revisions/v1-captions-pages.json",
+      "bytes": 15704,
+      "sha256": "d11c31c536eea2951441fc466d4b3cb07511bc07fba2b20033b317785cceb0f1"
+    },
+    {
+      "path": "projects/atfro/atfro-01/revisions/v1-captions-words.json",
+      "bytes": 21225,
+      "sha256": "057522ac6a362d3597c480873eed613ff99fc2ebf38bb77c2916bca8b9f4d93d"
+    },
+    {
+      "path": "projects/atfro/atfro-01/revisions/v1-cut-list.json",
+      "bytes": 4960,
+      "sha256": "1aa72131b2d6d5e5a84f4a345901d76757124b302a7d9e0a3a717e82f32a5d73"
+    },
+    {
+      "path": "projects/atfro/atfro-01/revisions/v1-reel.json",
+      "bytes": 18607,
+      "sha256": "fe6af016c5284df65c5a3660e02fb98e13a1936b2f0994bbe3ef6f41b4b2f51c"
+    },
+    {
+      "path": "projects/atfro/atfro-01/revisions/v2-captions-pages.json",
+      "bytes": 15786,
+      "sha256": "f6b2a52fdf4fad0d0df6a75b57455257b5cd61d750c1adada56207a742c0c3a3"
+    },
+    {
+      "path": "projects/atfro/atfro-01/revisions/v2-captions-words.json",
+      "bytes": 21410,
+      "sha256": "f216cf43106fc15034c4a02a08d8535ea79838f79563ab98f5ece78a8862a395"
+    },
+    {
+      "path": "projects/atfro/atfro-01/revisions/v2-reel.json",
+      "bytes": 18538,
+      "sha256": "ca7f804bf8ae37c1a9b1c13300a97319d456a7f97198cad402b1273eb50daffd"
+    },
+    {
+      "path": "projects/atfro/atfro-01/revisions/v5-captions-pages.json",
+      "bytes": 15786,
+      "sha256": "f6b2a52fdf4fad0d0df6a75b57455257b5cd61d750c1adada56207a742c0c3a3"
+    },
+    {
+      "path": "projects/atfro/atfro-01/revisions/v5-final-qa.json",
+      "bytes": 1000,
+      "sha256": "72fd6c34962a4080f1c203d2cc98594c9c8d3d2a3e5237e6c560d445f1bd8494"
+    },
+    {
+      "path": "projects/atfro/atfro-01/revisions/v5-reel.json",
+      "bytes": 18561,
+      "sha256": "3160b3d06f06a48201b4eeb4e927a4d84ec6cdb2dbe8fcefa970757df3e39edd"
+    },
+    {
+      "path": "projects/atfro/atfro-01/script.md",
+      "bytes": 1794,
+      "sha256": "6670c28ffa9147260f4f204636d8b67ba836d751df7cdb3bb028e20a7a840125"
+    },
+    {
+      "path": "projects/atfro/atfro-01/transcripts-draft/IMG_5999.json",
+      "bytes": 6912,
+      "sha256": "c2f3b664fc51d6a5862a965ef84738b51131880b3a2409212e9c5b43b98d220a"
+    },
+    {
+      "path": "projects/atfro/atfro-01/transcripts-draft/IMG_5999.txt",
+      "bytes": 293,
+      "sha256": "16b146e0fcd3f16550b7e977c0b3aaae0bc0ab7a2a60c0003609abf682f45e90"
+    },
+    {
+      "path": "projects/atfro/atfro-01/transcripts-draft/IMG_6001.json",
+      "bytes": 30767,
+      "sha256": "c24797fddd474ea5813f15179d784267aae5dc60e34d07655b20a1a9ded0523e"
+    },
+    {
+      "path": "projects/atfro/atfro-01/transcripts-draft/IMG_6001.txt",
+      "bytes": 1296,
+      "sha256": "075a603eacd2d6d5cb34eb834ac81adda7ca300766a367306cd53a5084e7823a"
+    },
+    {
+      "path": "projects/atfro/atfro-04/analysis/IMG_5995-medium-en.json",
+      "bytes": 10952,
+      "sha256": "922dab5e57fa9813b768be2a28159e9a3fdc969f3867f81081afb687454a7be7"
+    },
+    {
+      "path": "projects/atfro/atfro-04/analysis/IMG_5995-medium-hi.json",
+      "bytes": 16975,
+      "sha256": "9bf1d622091332b6b9093ec02880bc2e5a780c8471652810a040a5415ee4845d"
+    },
+    {
+      "path": "projects/atfro/atfro-04/analysis/IMG_5996-medium-en.json",
+      "bytes": 1836,
+      "sha256": "c14dc646ba661b568621065d8fbd30d42cc273e9a1dec0b71236e88c5e0b05b7"
+    },
+    {
+      "path": "projects/atfro/atfro-04/analysis/IMG_5996-medium-hi.json",
+      "bytes": 2529,
+      "sha256": "2da267b627499d73b14f006931bf5b7f95f5ca6a23bf5abff5d78c7593e643e0"
+    },
+    {
+      "path": "projects/atfro/atfro-04/analysis/alpha-all-frames.json",
+      "bytes": 409,
+      "sha256": "217987a27c057f1f9ea16766288384ece636cc32b03128b8f6d47a9ad0dcdc6b"
+    },
+    {
+      "path": "projects/atfro/atfro-04/analysis/alpha-check.json",
+      "bytes": 523,
+      "sha256": "996fa87198cd996dd41e90c5bbd4b6dd9df4a18fb55f216e07863b9f36aa454d"
+    },
+    {
+      "path": "projects/atfro/atfro-04/analysis/edited-dialogue-medium-check.json",
+      "bytes": 1165,
+      "sha256": "d8cb1bd6f980de5e313d7ce1b4ff835faf9e28a0d954c9e99e50aae54b95f712"
+    },
+    {
+      "path": "projects/atfro/atfro-04/analysis/encoded-evidence/captions/encoded-caption-check.json",
+      "bytes": 10176,
+      "sha256": "4892a68cdf08a0dffb784e9e4a6d1112af9ccb45cece1b38ddb7cd56deee2234"
+    },
+    {
+      "path": "projects/atfro/atfro-04/analysis/encoded-evidence/finish/finish-measurements.json",
+      "bytes": 365,
+      "sha256": "38f9b445ca7a5c66f6ff5435f2b6053a5278a6da39512b22d0f7b4f516a3801b"
+    },
+    {
+      "path": "projects/atfro/atfro-04/analysis/encoded-evidence/tile-scan/tile-scan.json",
+      "bytes": 2220,
+      "sha256": "3f0ec4544550e3d2a616fefaec2a28e48e3622851e100c8ab697e79a12253700"
+    },
+    {
+      "path": "projects/atfro/atfro-04/analysis/final-qa.json",
+      "bytes": 1220,
+      "sha256": "1dd638f7a6fb7da44d0cd83b2a817e6d1053c0879b982939f10d33f3898a23fb"
+    },
+    {
+      "path": "projects/atfro/atfro-04/analysis/motion-review.json",
+      "bytes": 4921,
+      "sha256": "26241bd94f6d9373fb65f01f3705d4fdb846927d273f2b1135ecaa40ca4fa259"
+    },
+    {
+      "path": "projects/atfro/atfro-04/analysis/source-review.json",
+      "bytes": 614,
+      "sha256": "8527fa346f52e91cc3bbb7e9841c4eada66c3d2b18e4b42b2449da33c4adc633"
+    },
+    {
+      "path": "projects/atfro/atfro-04/assets-provenance.json",
+      "bytes": 531,
+      "sha256": "32ffb6bccfa8602388565015c8928f2a683a1ebab1e5c5d9d1a8d69820129422"
+    },
+    {
+      "path": "projects/atfro/atfro-04/captions-pages.json",
+      "bytes": 15268,
+      "sha256": "6e204b31703239681e800d3a33d77cca642f7c37b8d2619496781bd68f5f8421"
+    },
+    {
+      "path": "projects/atfro/atfro-04/captions-words.json",
+      "bytes": 25529,
+      "sha256": "cf20b81502bdc2430e4a8e0d05f52ab2465aab1def58710e4d229ab5539306bf"
+    },
+    {
+      "path": "projects/atfro/atfro-04/colour-grade.json",
+      "bytes": 153,
+      "sha256": "40842e8192bb9b1ee17ea784fc7bc210abb5fc8e796dbc32e175b314615737b7"
+    },
+    {
+      "path": "projects/atfro/atfro-04/cut-list.json",
+      "bytes": 2319,
+      "sha256": "8338efdf7c5d2772eafbdc6805f7ce852ec81d1cb036ce5637a15a30dc68c799"
+    },
+    {
+      "path": "projects/atfro/atfro-04/cut-smoothing.json",
+      "bytes": 468,
+      "sha256": "79574b84a13f5b56e338a059608a788c45483139e7f2d02748d00643928b4a93"
+    },
+    {
+      "path": "projects/atfro/atfro-04/edit-brief.md",
+      "bytes": 851,
+      "sha256": "61329727904d43d9fe29d3db7c4908ca3ea4010de67b2a790652b1237bd4954d"
+    },
+    {
+      "path": "projects/atfro/atfro-04/edit-plan.json",
+      "bytes": 3351,
+      "sha256": "994de3f151ff03371906d4310e4c48938b5b1f4adae9f54dcc0f2ea68ee7dade"
+    },
+    {
+      "path": "projects/atfro/atfro-04/editorial.json",
+      "bytes": 1766,
+      "sha256": "75b6ad53160739831aa6b3fae0b9a00d3b4fcb4dd4badeebc7acf61f93af0777"
+    },
+    {
+      "path": "projects/atfro/atfro-04/production-plan.md",
+      "bytes": 998,
+      "sha256": "04fe4fc80cf51cbd770f2709d96561fc4e42c27b94a99bf13a3b76b17f8cb981"
+    },
+    {
+      "path": "projects/atfro/atfro-04/reel.json",
+      "bytes": 18689,
+      "sha256": "4bad08983aba542884c3ebcdce564d7f3100053fcd96233f670d5fff169834ef"
+    },
+    {
+      "path": "projects/atfro/atfro-04/script.md",
+      "bytes": 1809,
+      "sha256": "f6bb98d067f25222136b48b45d42cfdb4198657cbd19557bc106427cade1dd58"
+    },
+    {
+      "path": "projects/atfro/atfro-04/source-words.json",
+      "bytes": 10997,
+      "sha256": "bc2cbae4ee59b4b7d132388bf97152137321b24b4e6ad640d4839b710d2e9d96"
+    },
+    {
+      "path": "projects/atfro/atfro-04/transcripts-draft/IMG_5995.json",
+      "bytes": 16887,
+      "sha256": "36430da805917029b7b09ce2fa0883c659c9ae86c293562ed869f2df14fdbe67"
+    },
+    {
+      "path": "projects/atfro/atfro-04/transcripts-draft/IMG_5995.txt",
+      "bytes": 733,
+      "sha256": "d4bfe741a38fe31eb672f5d9ecfb6e7edd8dfc59cae3af46169e3ffc014c2809"
+    },
+    {
+      "path": "projects/atfro/atfro-04/transcripts-draft/IMG_5996.json",
+      "bytes": 2866,
+      "sha256": "3f3af0d9b7645364e26aab16431774287c4aa84d8226605a5e95cc44b85a4712"
+    },
+    {
+      "path": "projects/atfro/atfro-04/transcripts-draft/IMG_5996.txt",
+      "bytes": 128,
+      "sha256": "ecfdfce939f52ca94587f22d97e9dc9dd11f0842635a028d29a564aae6d9811b"
+    },
+    {
+      "path": "projects/atfro/atfro-06/edit-plan.json",
+      "bytes": 338,
+      "sha256": "f2ae91d2cd44d3cfef745bba2a9c3de3ce46ca2f8e41e7f08a15c16a12d23ac4"
+    },
+    {
+      "path": "projects/atfro/atfro-06/script.md",
+      "bytes": 1466,
+      "sha256": "c0b7c05440627e8ddd45eae78e13c5cdf91e675da8b2555f26febde80b567217"
+    },
+    {
+      "path": "projects/atfro/atfro-08/edit-plan.json",
+      "bytes": 338,
+      "sha256": "ada4aab4b9c782c6e49048d1433143f8de30cda6398cb379db0ced9518b738d3"
+    },
+    {
+      "path": "projects/atfro/atfro-08/script.md",
+      "bytes": 1573,
+      "sha256": "f3ac20155216fb3209d45a26defe95a3701ce2c5b372748f29a91f0da3556036"
+    },
+    {
+      "path": "projects/atfro/atfro-11/edit-plan.json",
+      "bytes": 338,
+      "sha256": "48a25edccabe6067c5e467874f175ea62cef5d356578002e4fd53d9e8e2395da"
+    },
+    {
+      "path": "projects/atfro/atfro-11/script.md",
+      "bytes": 1548,
+      "sha256": "26ad3ebb65a3252cd17e00bc3e0052bc31d2b711255b4585901642cb328e1806"
+    },
+    {
+      "path": "projects/atfro/atfro-13/edit-plan.json",
+      "bytes": 338,
+      "sha256": "ad6708951583d6ec18e5da9d4a40251f61f4500bbd61559e0f61082a341323d2"
+    },
+    {
+      "path": "projects/atfro/atfro-13/script.md",
+      "bytes": 1541,
+      "sha256": "9e3d92887277e58ad368f86eea33950915b9769f75360670603c46e81ae2206f"
+    },
+    {
+      "path": "projects/atfro/atfro-15/edit-plan.json",
+      "bytes": 338,
+      "sha256": "295d310db397f14eb442d0a196d432605b798e3dfb395335466c46fc46824723"
+    },
+    {
+      "path": "projects/atfro/atfro-15/script.md",
+      "bytes": 1541,
+      "sha256": "197b73177684785fee39eff223b60a7dd700cced41d280c20025640667723bce"
+    },
+    {
+      "path": "projects/atfro/atfro-18/edit-plan.json",
+      "bytes": 338,
+      "sha256": "05ff4442e4e87efba5678ba4fdc5035af078acac992207fed674e49b8d482703"
+    },
+    {
+      "path": "projects/atfro/atfro-18/script.md",
+      "bytes": 1759,
+      "sha256": "21ea25d5f1df71e0c6774bba41e6cb418e92db1980a822640cfdfa23625493d6"
+    },
+    {
+      "path": "projects/atfro/atfro-20/edit-plan.json",
+      "bytes": 338,
+      "sha256": "0ee255f151b5adba868daa81a4bda6ae51290d4de55365da7ec36905cdeafd0f"
+    },
+    {
+      "path": "projects/atfro/atfro-20/script.md",
+      "bytes": 1455,
+      "sha256": "ca24abaea01a71948ce1a91a8cd8cab4d62149cd4fc596360070443b25138eb8"
+    },
+    {
+      "path": "projects/atfro/atfro-22/edit-plan.json",
+      "bytes": 338,
+      "sha256": "b7185fbd2f832ddd47ccf73eea0eb9b999515ceece7323fa9540b8cdbfd25535"
+    },
+    {
+      "path": "projects/atfro/atfro-22/script.md",
+      "bytes": 1574,
+      "sha256": "ca5fc00dab79f58a85d3d59de4e9d5128209c55977174e98a1ed7a1d31aafb2d"
+    },
+    {
+      "path": "projects/atfro/atfro-25/edit-plan.json",
+      "bytes": 338,
+      "sha256": "b8a9bb462e3fae25d8b6195c961b9d4df5e2163330b123e31cfe1379d2671931"
+    },
+    {
+      "path": "projects/atfro/atfro-25/script.md",
+      "bytes": 1345,
+      "sha256": "b40d94628ecfa9ebc807d30ff732799e0d9068087916a60e2bb768e3cb179778"
+    },
+    {
+      "path": "projects/atfro/atfro-27/edit-plan.json",
+      "bytes": 338,
+      "sha256": "659a7894b34990cf3215c785a1b599d49500756509f94832139f90dabd7f07a4"
+    },
+    {
+      "path": "projects/atfro/atfro-27/script.md",
+      "bytes": 1579,
+      "sha256": "fcddc3499082ef89450c44e92398b87636608246244ba8f9ede466efcf33d507"
+    },
+    {
+      "path": "projects/atfro/atfro-29/edit-plan.json",
+      "bytes": 338,
+      "sha256": "58a92931049df153dc8d69267260aeb0a2f5eb3f20e09651c70b7682343bd588"
+    },
+    {
+      "path": "projects/atfro/atfro-29/script.md",
+      "bytes": 1372,
+      "sha256": "efb6af454b7521898cd32e7dc297d514126714d509304f0b870a46f7a4481419"
+    },
+    {
+      "path": "projects/atfro/atfro-30/edit-plan.json",
+      "bytes": 338,
+      "sha256": "cbb38383d7214d206c18690ea71c9a82676766edab98af301f2936683d6678f1"
+    },
+    {
+      "path": "projects/atfro/atfro-30/script.md",
+      "bytes": 1679,
+      "sha256": "2eeee16c83421af3c9bd20cf228dbfd4a97fc352d8c132a458ec856b7f6aa769"
+    },
+    {
+      "path": "projects/batch-queue.json",
+      "bytes": 5674,
+      "sha256": "0b5cce43f31d051a456b75118414a03dc599a6589129d0a3c781163639d74f00"
+    },
+    {
+      "path": "projects/niolearn/niolearn-01/edit-plan.json",
+      "bytes": 346,
+      "sha256": "f311a417e2bd76396e212c48ebc1cdefd758aa5c37298750d4df3163261d0b2a"
+    },
+    {
+      "path": "projects/niolearn/niolearn-01/script.md",
+      "bytes": 2054,
+      "sha256": "b61e77b05e74475167238f677ad34959d2b76e942fb924246f1272ddd0dd1738"
+    },
+    {
+      "path": "projects/niolearn/niolearn-02/edit-plan.json",
+      "bytes": 346,
+      "sha256": "397d898d261381c56e4eb27722d8127260a04a1493ffb6516100e16d19e65fc6"
+    },
+    {
+      "path": "projects/niolearn/niolearn-02/script.md",
+      "bytes": 1790,
+      "sha256": "c521b927df93ef99c7ff8bf6a443361a92dee7708def0a3bfcd6e516fa16025b"
+    },
+    {
+      "path": "projects/niolearn/niolearn-03/edit-plan.json",
+      "bytes": 344,
+      "sha256": "afcdb61835cb13ef00676dff722eb4cd4eb146ff0fe6c04839c8f0ef23628565"
+    },
+    {
+      "path": "projects/niolearn/niolearn-03/script.md",
+      "bytes": 3000,
+      "sha256": "98f26cee188e698b5e3d83d6572bfd1287d2e0c5a068daa4a8d8d04c4f67ef02"
+    },
+    {
+      "path": "projects/niolearn/niolearn-04/analysis/IMG_5941-medium-hi.json",
+      "bytes": 23738,
+      "sha256": "0a8a08d64b35ec3b1bab222552ff12957dbfd702b539b3870482c2ad71dba883"
+    },
+    {
+      "path": "projects/niolearn/niolearn-04/analysis/alpha-check.json",
+      "bytes": 896,
+      "sha256": "4f5b744b80a65c68306e78f4588a4c0ac769269aff57f3ae808333340712830b"
+    },
+    {
+      "path": "projects/niolearn/niolearn-04/analysis/edited-dialogue-check.json",
+      "bytes": 16443,
+      "sha256": "d108c157bf022d33b89690868dae95c0ad50449c918fb13ff85a87360ab9da3b"
+    },
+    {
+      "path": "projects/niolearn/niolearn-04/analysis/final-qa.json",
+      "bytes": 2021,
+      "sha256": "b07a3ae6e783f9e4f156730db40814ab79de5c96cfea40439a14eeb15770361d"
+    },
+    {
+      "path": "projects/niolearn/niolearn-04/analysis/reframe-caption-baseline.json",
+      "bytes": 191,
+      "sha256": "cf02e37d8bcf72dc7e6e6bc47bfe3527a5d5574b61ff7fbf9ec4e47eeeb9208f"
+    },
+    {
+      "path": "projects/niolearn/niolearn-04/assets-provenance.json",
+      "bytes": 3151,
+      "sha256": "40b711b20e2b11c8967a2267274b24b67c2cf40a6ab1c34e5e5e5dec9a66c5a2"
+    },
+    {
+      "path": "projects/niolearn/niolearn-04/captions-pages.json",
+      "bytes": 20276,
+      "sha256": "b8ef4b1bb841094e07888039492bb5611ce73fa103f0889ac98bbfb87254c49b"
+    },
+    {
+      "path": "projects/niolearn/niolearn-04/captions-words.json",
+      "bytes": 26919,
+      "sha256": "ecf18074659a9c42306b2c718bcfa50270b4e26db06e12a088fcd6d88f094cdc"
+    },
+    {
+      "path": "projects/niolearn/niolearn-04/colour-grade.json",
+      "bytes": 153,
+      "sha256": "40842e8192bb9b1ee17ea784fc7bc210abb5fc8e796dbc32e175b314615737b7"
+    },
+    {
+      "path": "projects/niolearn/niolearn-04/cut-list.json",
+      "bytes": 6662,
+      "sha256": "18c0c6c5cf00a5790b3912c60030aedfabddac17d58b10e6f252fe993b98960f"
+    },
+    {
+      "path": "projects/niolearn/niolearn-04/cut-smoothing.json",
+      "bytes": 965,
+      "sha256": "f2bcd5e7943e4792d1dafa91690e92850b852c972337a608d1d89f310703bffa"
+    },
+    {
+      "path": "projects/niolearn/niolearn-04/edit-brief.md",
+      "bytes": 797,
+      "sha256": "c918ca275b0ea44df0fd5ae38d006a46a6939aca892fee8392de30a49a32db9e"
+    },
+    {
+      "path": "projects/niolearn/niolearn-04/edit-plan.json",
+      "bytes": 3699,
+      "sha256": "710ac92891ba0ab89d2fd6043bb0108d070bc1ddde425cb1533308fb7f36610c"
+    },
+    {
+      "path": "projects/niolearn/niolearn-04/production-plan.md",
+      "bytes": 3732,
+      "sha256": "584c80a7222f9e7e61b11d13793db329d2390fdc1430c77321c330aae1e5b433"
+    },
+    {
+      "path": "projects/niolearn/niolearn-04/reel.json",
+      "bytes": 25127,
+      "sha256": "686f98d639d72579dcec24b583c655b013dc1a50c9c51fc9447ef9e6494a5bba"
+    },
+    {
+      "path": "projects/niolearn/niolearn-04/revisions/pre-edit-edit-plan.json",
+      "bytes": 2408,
+      "sha256": "254ba3059ba52d0a08ac65453d50d7298db07ee1f05faf7f5c216e0ab0a421f1"
+    },
+    {
+      "path": "projects/niolearn/niolearn-04/revisions/pre-edit-reel.json",
+      "bytes": 337,
+      "sha256": "c870f8b82a045771d830d9dc6d93dc8b6b5c29594bf8bf97c5ba41dac80b9983"
+    },
+    {
+      "path": "projects/niolearn/niolearn-04/revisions/v1-captions-pages.json",
+      "bytes": 20276,
+      "sha256": "b8ef4b1bb841094e07888039492bb5611ce73fa103f0889ac98bbfb87254c49b"
+    },
+    {
+      "path": "projects/niolearn/niolearn-04/revisions/v1-cut-list.json",
+      "bytes": 5569,
+      "sha256": "74540cb7026afb939c8404671bd50cc0f3da08e6f6a374ee737b4afa7aadad95"
+    },
+    {
+      "path": "projects/niolearn/niolearn-04/revisions/v1-final-qa.json",
+      "bytes": 1422,
+      "sha256": "677f47760f49f94a0b0b9e54a2ae15d4eedb0dace02330e804cb8eb0fa3fbe8c"
+    },
+    {
+      "path": "projects/niolearn/niolearn-04/revisions/v1-reel.json",
+      "bytes": 25127,
+      "sha256": "686f98d639d72579dcec24b583c655b013dc1a50c9c51fc9447ef9e6494a5bba"
+    },
+    {
+      "path": "projects/niolearn/niolearn-04/script.md",
+      "bytes": 3015,
+      "sha256": "3cfdf4cacefdbad1138a8083d4ba49194bfb0426383a0a3af46769508b99bf13"
+    },
+    {
+      "path": "projects/niolearn/niolearn-04/source-words.json",
+      "bytes": 22280,
+      "sha256": "67e6c9069549f15e7600145c167ea5e88146e17123ce23ad090258f2e97ab98d"
+    },
+    {
+      "path": "projects/niolearn/niolearn-04/transcripts-draft/IMG_5941.json",
+      "bytes": 8208,
+      "sha256": "d59e1822a1ae1028e4601139391ff3d51965adab42911d93c9669d564f6af482"
+    },
+    {
+      "path": "projects/niolearn/niolearn-04/transcripts-draft/IMG_5941.txt",
+      "bytes": 363,
+      "sha256": "d0d7f8759f8d5090b88f7cdd85786058212f956c5794cdbedcea3d16e0b3d116"
+    },
+    {
+      "path": "projects/niolearn/niolearn-05/edit-plan.json",
+      "bytes": 348,
+      "sha256": "81c0644a39f24e7cdbdad8ce1ed25a4974cbf2fe6d7581d18938d4623c7c8b6c"
+    },
+    {
+      "path": "projects/niolearn/niolearn-05/script.md",
+      "bytes": 1975,
+      "sha256": "4dd0d66810ef2b0928c1bc1f54f09480bd0f9107c2de1e547ef4820081ae349e"
+    },
+    {
+      "path": "projects/niolearn/niolearn-06/edit-plan.json",
+      "bytes": 344,
+      "sha256": "6b86f4212c45393abd147a10b63897972b743afbb97005e18da9221bbc33d5e8"
+    },
+    {
+      "path": "projects/niolearn/niolearn-06/script.md",
+      "bytes": 2284,
+      "sha256": "3eedb3a769c6489d300e29977494c1200f80adb8818ca6c04c51c52c40b6bf6d"
+    },
+    {
+      "path": "projects/niolearn/niolearn-07/analysis/IMG_5947-medium-hi.json",
+      "bytes": 17304,
+      "sha256": "4d82145a3378357ff74e97f42bf8ec759a0af0b7341661861031b00849758d06"
+    },
+    {
+      "path": "projects/niolearn/niolearn-07/analysis/IMG_5947-small-hi.json",
+      "bytes": 11157,
+      "sha256": "374c5d9a89a71b298b23278dac1057acc0d00f259d19eda4d49f9852b05f6d98"
+    },
+    {
+      "path": "projects/niolearn/niolearn-07/analysis/alignment-review.json",
+      "bytes": 1034,
+      "sha256": "969ee0b58aaa42d101d0a9fcca373835f47183017116fa9a255f6e185e3b97a7"
+    },
+    {
+      "path": "projects/niolearn/niolearn-07/analysis/alpha-check.json",
+      "bytes": 1189,
+      "sha256": "056e9dcb9b99195fbf35b0a6fab8a78531395dfb28191218243ce737ea9a5bc1"
+    },
+    {
+      "path": "projects/niolearn/niolearn-07/analysis/edited-dialogue-check.json",
+      "bytes": 1106,
+      "sha256": "13b73c39d7e32777dd1c7d85027b0140292b7fb10597bd1f99b34f6850c99dd9"
+    },
+    {
+      "path": "projects/niolearn/niolearn-07/analysis/edited-dialogue-medium-check.json",
+      "bytes": 1771,
+      "sha256": "ea5889489d013c7fae0aaea9349a53951be04afb7e794c97c56304688bc8149a"
+    },
+    {
+      "path": "projects/niolearn/niolearn-07/analysis/final-qa.json",
+      "bytes": 1906,
+      "sha256": "27e490809d37850fe52023352218661ce9e99a661a1afc99a06297bc1775c25e"
+    },
+    {
+      "path": "projects/niolearn/niolearn-07/assets-provenance.json",
+      "bytes": 1929,
+      "sha256": "0faa7d9ac0232d6182d27714ea307d25f383d494fda9285ea933317c720ea774"
+    },
+    {
+      "path": "projects/niolearn/niolearn-07/captions-pages.json",
+      "bytes": 16244,
+      "sha256": "4a76feaada18f43e4a64cb2ce755ae5e775b975b2cae01ea8f67d7cccc709af9"
+    },
+    {
+      "path": "projects/niolearn/niolearn-07/captions-words.json",
+      "bytes": 20830,
+      "sha256": "820f366af92d3eba171c1f4fd8233a23b93375d8f803274a25362377b4712f87"
+    },
+    {
+      "path": "projects/niolearn/niolearn-07/colour-grade.json",
+      "bytes": 153,
+      "sha256": "40842e8192bb9b1ee17ea784fc7bc210abb5fc8e796dbc32e175b314615737b7"
+    },
+    {
+      "path": "projects/niolearn/niolearn-07/cut-list.json",
+      "bytes": 4422,
+      "sha256": "67c87a2f8cc85f25f4854c7297c11a7546b9f8dda377419dada2a3e6508d6aff"
+    },
+    {
+      "path": "projects/niolearn/niolearn-07/cut-smoothing.json",
+      "bytes": 191,
+      "sha256": "7157df2c2401bb152211e66036ba5b179ea51bf54df7f811e84dffa3a5198990"
+    },
+    {
+      "path": "projects/niolearn/niolearn-07/edit-brief.md",
+      "bytes": 769,
+      "sha256": "27471dcc12435bf2ebf0214730046ecd6a9f4f939c83499fadff4da4f5b62295"
+    },
+    {
+      "path": "projects/niolearn/niolearn-07/edit-plan.json",
+      "bytes": 2753,
+      "sha256": "4fc95c45ed8020880da0a202ac51b6e8c069db5a49644ca7f81c204c5be7ac26"
+    },
+    {
+      "path": "projects/niolearn/niolearn-07/production-plan.md",
+      "bytes": 3503,
+      "sha256": "1300b57c1799cdfb2d49e30f3ae71aca09cbb99e3e3263e39e15e3b32f6b343e"
+    },
+    {
+      "path": "projects/niolearn/niolearn-07/reel.json",
+      "bytes": 19924,
+      "sha256": "9c20de474a841cbdc97b6fe95c591c3f1b84d25402b2a4699e22537c6951e55e"
+    },
+    {
+      "path": "projects/niolearn/niolearn-07/script.md",
+      "bytes": 2739,
+      "sha256": "ad7dcef88098ae372dc6eca219ecf6980a8c0f886bc0b6ccbb681a7ea41f2103"
+    },
+    {
+      "path": "projects/niolearn/niolearn-07/source-words.json",
+      "bytes": 8607,
+      "sha256": "2a82986b0a6506ac06b24e2932a6869942ce25abe07d1b08fe14b635dc3ec621"
+    },
+    {
+      "path": "projects/niolearn/niolearn-07/transcripts-draft/IMG_5947.json",
+      "bytes": 16798,
+      "sha256": "319996d67da7bde7ae1db7de25816829878437cfc9000a534f399c03ee0bee9e"
+    },
+    {
+      "path": "projects/niolearn/niolearn-07/transcripts-draft/IMG_5947.txt",
+      "bytes": 844,
+      "sha256": "66625cff7a3c8a2f676acb342efe095ce3b19dca0b848855fc832847d293f727"
+    },
+    {
+      "path": "projects/niolearn/niolearn-08/edit-plan.json",
+      "bytes": 344,
+      "sha256": "ae9d520a1a407d03af136cbb75576f4bed2fc5605f05052f37a6350840011468"
+    },
+    {
+      "path": "projects/niolearn/niolearn-08/script.md",
+      "bytes": 2504,
+      "sha256": "80011802a932dafd9bf9ae77fd4caae05fa1ff28aaa390eec0db02fd8b2d9260"
+    },
+    {
+      "path": "projects/niolearn/niolearn-09/analysis/IMG_5952-medium-hi.json",
+      "bytes": 17034,
+      "sha256": "81fc5ad5a9ddd0afc4b2cee2bcec1b2a1aacbf3a97ba8d9d1e29edf78c6ecbee"
+    },
+    {
+      "path": "projects/niolearn/niolearn-09/analysis/alpha-all-frames.json",
+      "bytes": 274,
+      "sha256": "76df1ba71c5cb5d24d697174fd563ee2930f28f11409498da29abc30f20bddf4"
+    },
+    {
+      "path": "projects/niolearn/niolearn-09/analysis/alpha-check.json",
+      "bytes": 350,
+      "sha256": "1a04b64f33300bede4ab3f801055c75ec79c90798eafb07d59b53c9c58d70428"
+    },
+    {
+      "path": "projects/niolearn/niolearn-09/analysis/edited-dialogue-medium-check.json",
+      "bytes": 1944,
+      "sha256": "2a8499b47d7daa2cf618a6dfe1418df25aa1d8269088c9c1aacbfaa5b678db89"
+    },
+    {
+      "path": "projects/niolearn/niolearn-09/analysis/encoded-evidence/captions/encoded-caption-check.json",
+      "bytes": 11047,
+      "sha256": "5609ae9da11d069adfc889917dfebb9a66fa5df57080e513dd5def036be70490"
+    },
+    {
+      "path": "projects/niolearn/niolearn-09/analysis/encoded-evidence/finish/finish-measurements.json",
+      "bytes": 375,
+      "sha256": "c3a5a1de83dd6394378de45264baca9caa47e59ce20d70358e64a6fadfcf44c3"
+    },
+    {
+      "path": "projects/niolearn/niolearn-09/analysis/encoded-evidence/tile-scan/tile-scan.json",
+      "bytes": 2232,
+      "sha256": "c67bfe03c634fc82488cd0b5abf1dc79b19bdecd0ab5d31e4f202ff4fdee34c6"
+    },
+    {
+      "path": "projects/niolearn/niolearn-09/analysis/final-qa.json",
+      "bytes": 1273,
+      "sha256": "b0157f1f74570e569f017c318c0a046f98c6cb1b29574b985861fbd257b37dd0"
+    },
+    {
+      "path": "projects/niolearn/niolearn-09/analysis/motion-review.json",
+      "bytes": 3998,
+      "sha256": "3aaa6654b84b3f04c3b3dd39ca18a918e824ebf1500e7ea510cfa6555b37b3b6"
+    },
+    {
+      "path": "projects/niolearn/niolearn-09/assets-provenance.json",
+      "bytes": 1213,
+      "sha256": "1a3c30c8d24e7b1e1db6950c32259149f94bc4fe55fff5741d9586c40cbac209"
+    },
+    {
+      "path": "projects/niolearn/niolearn-09/captions-pages.json",
+      "bytes": 15993,
+      "sha256": "c804a6ccb801639c7762fe7da15b79428cc0f4d747ebae6199c3a72ef5ec26d5"
+    },
+    {
+      "path": "projects/niolearn/niolearn-09/captions-words.json",
+      "bytes": 26708,
+      "sha256": "345dc3fd094b87ee5d9f75c6dcba9548aa55c5243f44279c4d9e2fa9e5e2ccf6"
+    },
+    {
+      "path": "projects/niolearn/niolearn-09/colour-grade.json",
+      "bytes": 153,
+      "sha256": "40842e8192bb9b1ee17ea784fc7bc210abb5fc8e796dbc32e175b314615737b7"
+    },
+    {
+      "path": "projects/niolearn/niolearn-09/cut-list.json",
+      "bytes": 4428,
+      "sha256": "57af994f5e5267e29c558e337830cf2e7c1ece0b9f63e6a6ae7655604a5bb378"
+    },
+    {
+      "path": "projects/niolearn/niolearn-09/cut-smoothing.json",
+      "bytes": 1057,
+      "sha256": "3f2d3b66c8eb4da964ff1d72c33ddf6e17ef03932627eb233a5932b6ffb2598f"
+    },
+    {
+      "path": "projects/niolearn/niolearn-09/edit-brief.md",
+      "bytes": 773,
+      "sha256": "77cc6cf0dc4711aefed60943a4c4f750a1e1a1d2ddd792b8d23dd54bc45d9709"
+    },
+    {
+      "path": "projects/niolearn/niolearn-09/edit-plan.json",
+      "bytes": 2803,
+      "sha256": "825deccd423a10ea2ee1189ff2ab10689a3ebf304a7d8644f1d2090380116267"
+    },
+    {
+      "path": "projects/niolearn/niolearn-09/editorial.json",
+      "bytes": 2156,
+      "sha256": "c7092f5716de869c9776b047ef03748438dca107a5e5ecb9250b91ad71b1da82"
+    },
+    {
+      "path": "projects/niolearn/niolearn-09/production-plan.md",
+      "bytes": 1545,
+      "sha256": "6eb2c74d2c62926197ebf4bfeb43919d6b8dabd78591dc02b55bb198008835bf"
+    },
+    {
+      "path": "projects/niolearn/niolearn-09/reel.json",
+      "bytes": 20157,
+      "sha256": "11ffb8f28957972752bdb6df99fc070bc284377fd5987930d651f0480c149058"
+    },
+    {
+      "path": "projects/niolearn/niolearn-09/revisions/v1-alpha-check.json",
+      "bytes": 350,
+      "sha256": "d6438b1ead65dfb5fb90ad967fd76bc9dc1f2cdd09c5d415d364fd1481d05515"
+    },
+    {
+      "path": "projects/niolearn/niolearn-09/revisions/v1-final-qa.json",
+      "bytes": 1273,
+      "sha256": "360500a2cce48bce69ed282520d9dfad26bae868d0a1079f1c993cf668aab07c"
+    },
+    {
+      "path": "projects/niolearn/niolearn-09/script.md",
+      "bytes": 2537,
+      "sha256": "62071ef5fb8fb9a263c816f58d70c2ccdf9ed369fc5a9fba2634e19ebab0d229"
+    },
+    {
+      "path": "projects/niolearn/niolearn-09/source-words.json",
+      "bytes": 8262,
+      "sha256": "542b0a67a38c6b8595e5a76ecac780bacc6209c30ad8e8b9002eac73d99e14b4"
+    },
+    {
+      "path": "projects/niolearn/niolearn-09/transcripts-draft/IMG_5952.json",
+      "bytes": 15114,
+      "sha256": "52ca5b169a4c187079060e9ac9b55b71c2d9908d234d2338ec3223d3b113a786"
+    },
+    {
+      "path": "projects/niolearn/niolearn-09/transcripts-draft/IMG_5952.txt",
+      "bytes": 721,
+      "sha256": "884751368af39f0ae62ac5a661d6d3210607d5049692ca519a4f7c79c05c2488"
+    },
+    {
+      "path": "projects/niolearn/niolearn-10/edit-plan.json",
+      "bytes": 348,
+      "sha256": "b71e6e9ee1889ffb4b1fa76ee4d753aaed352e0a34126eebd2ef6fdb44e9bb50"
+    },
+    {
+      "path": "projects/niolearn/niolearn-10/script.md",
+      "bytes": 1862,
+      "sha256": "0bb2fb852d5730526e4f785e37746199f167f832c6fa4806e21fb6a1ba2012b9"
+    },
+    {
+      "path": "projects/niolearn/niolearn-11/analysis/IMG_5966-medium-hi.json",
+      "bytes": 21899,
+      "sha256": "0f9dd6bb5104f41e65193e670534a3fc4098c938a3abaf4de3973d8041049ac5"
+    },
+    {
+      "path": "projects/niolearn/niolearn-11/analysis/alpha-all-frames.json",
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    {
+      "path": "projects/niolearn/niolearn-11/analysis/alpha-check.json",
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    {
+      "path": "projects/niolearn/niolearn-11/analysis/edited-dialogue-medium-check.json",
+      "bytes": 1935,
+      "sha256": "0a6e1889eced13daf2bd8e5ea3aae1267f43ff3e3cd5fc74501efc11de8776a9"
+    },
+    {
+      "path": "projects/niolearn/niolearn-11/analysis/encoded-evidence/captions/encoded-caption-check.json",
+      "bytes": 11465,
+      "sha256": "9ad6561035ba36b42026681507a3b2db716f32a33f1d35ac3fcde2ffeb5dc2b5"
+    },
+    {
+      "path": "projects/niolearn/niolearn-11/analysis/encoded-evidence/finish/finish-measurements.json",
+      "bytes": 378,
+      "sha256": "569842e3a189855e2fc6bc61c0fac3a52da753b4843901db5c7c45f31f21a83a"
+    },
+    {
+      "path": "projects/niolearn/niolearn-11/analysis/encoded-evidence/tile-scan/tile-scan.json",
+      "bytes": 2243,
+      "sha256": "efb31d232de56c34634afffbd314c37b40044286c24a56a757fc22e31d4f3dcd"
+    },
+    {
+      "path": "projects/niolearn/niolearn-11/analysis/example-english-check.json",
+      "bytes": 4205,
+      "sha256": "227da1a7c8abd6031eddabe77dd7b545ba2bbce56fe6cc4faf4e55e242bdd1b3"
+    },
+    {
+      "path": "projects/niolearn/niolearn-11/analysis/final-qa.json",
+      "bytes": 1276,
+      "sha256": "bd551f90fda39f5607631558ec57808ffc3d6a0e15db0509d55077cef6c2f109"
+    },
+    {
+      "path": "projects/niolearn/niolearn-11/analysis/motion-review.json",
+      "bytes": 4336,
+      "sha256": "68f54f7863ecfeca7911ed394fdaa3eb2bf74fb38e447557b3f50197ec5d9d0e"
+    },
+    {
+      "path": "projects/niolearn/niolearn-11/analysis/source-review.json",
+      "bytes": 597,
+      "sha256": "4e537737f5a18b2cc710e56ddfccec32c30280f63d082241b56cf88007f54c2a"
+    },
+    {
+      "path": "projects/niolearn/niolearn-11/assets-provenance.json",
+      "bytes": 431,
+      "sha256": "7725bb0106bc9745193e1da701ee465c7012b1d3e2efa29e3e838d0780e2f12f"
+    },
+    {
+      "path": "projects/niolearn/niolearn-11/captions-pages.json",
+      "bytes": 19612,
+      "sha256": "e02e2aebcf470340dc381f6ed5826807f0197094a975cf90000188f6e9a7e775"
+    },
+    {
+      "path": "projects/niolearn/niolearn-11/captions-words.json",
+      "bytes": 35796,
+      "sha256": "5eaf4ec84bfbf48e2f779b2a35a1566af07f824869040ce5105bd35e36262cff"
+    },
+    {
+      "path": "projects/niolearn/niolearn-11/colour-grade.json",
+      "bytes": 153,
+      "sha256": "40842e8192bb9b1ee17ea784fc7bc210abb5fc8e796dbc32e175b314615737b7"
+    },
+    {
+      "path": "projects/niolearn/niolearn-11/cut-list.json",
+      "bytes": 4181,
+      "sha256": "8b3a0f801112ef6733149f7f1e68704fb221d1a9f764c8b0ad6f54d49507a78c"
+    },
+    {
+      "path": "projects/niolearn/niolearn-11/cut-smoothing.json",
+      "bytes": 775,
+      "sha256": "3b85528c50d22ff55ce8f782416589fead4a6653dded3ff1f237987efc7057de"
+    },
+    {
+      "path": "projects/niolearn/niolearn-11/edit-brief.md",
+      "bytes": 665,
+      "sha256": "516ba9fcd3912b6e3b6ab8e29b1b44091cb632e37587478388623d59c99dba20"
+    },
+    {
+      "path": "projects/niolearn/niolearn-11/edit-plan.json",
+      "bytes": 3201,
+      "sha256": "a70f5b98e02c60d838342526ca09ceafb9637668a96e919bb2a88edabe1ae466"
+    },
+    {
+      "path": "projects/niolearn/niolearn-11/editorial.json",
+      "bytes": 2025,
+      "sha256": "2a14bfe513a2f40d7015c7f2f64bd74702e6b03f396e165f64712a7b767931ad"
+    },
+    {
+      "path": "projects/niolearn/niolearn-11/production-plan.md",
+      "bytes": 829,
+      "sha256": "36640302dda50d375b6f929fbcccb0a9ea62d91a93efc39651653306057f7558"
+    },
+    {
+      "path": "projects/niolearn/niolearn-11/reel.json",
+      "bytes": 23686,
+      "sha256": "c28ee772bf1f7bd417cfc452122c917421629636d3345ed2523d1b1668dcea28"
+    },
+    {
+      "path": "projects/niolearn/niolearn-11/script.md",
+      "bytes": 2686,
+      "sha256": "f7194707d4b2664ef120c1fd88bd8b2ecd69894e435b58f7ca8de8b541cb0c98"
+    },
+    {
+      "path": "projects/niolearn/niolearn-11/source-words.json",
+      "bytes": 10954,
+      "sha256": "6889c363fa7632cbee1b4149c163b85b4659c166b577bf7d66a5ddd2445d637c"
+    },
+    {
+      "path": "projects/niolearn/niolearn-11/transcripts-draft/IMG_5965.json",
+      "bytes": 970,
+      "sha256": "3bc078e584d6567d3da4c92d0b39d45ece7bffaec09bb703b2c3c40aa91cef0a"
+    },
+    {
+      "path": "projects/niolearn/niolearn-11/transcripts-draft/IMG_5965.txt",
+      "bytes": 35,
+      "sha256": "3c79e35329f14537f0006701dd35e31f63b9ce47aae38e6d562089f28adfd30e"
+    },
+    {
+      "path": "projects/niolearn/niolearn-11/transcripts-draft/IMG_5966.json",
+      "bytes": 21500,
+      "sha256": "ab2d69fc3919631d28cd4418d9ebc9420f84e6fa04143434f551a22d3a94436c"
+    },
+    {
+      "path": "projects/niolearn/niolearn-11/transcripts-draft/IMG_5966.txt",
+      "bytes": 858,
+      "sha256": "52d57381a801af42634c763bed013db221a5e5700fba4228a4d4aa9007ade9c6"
+    },
+    {
+      "path": "projects/niolearn/niolearn-12/analysis/IMG_5956-medium-hi.json",
+      "bytes": 17730,
+      "sha256": "7e3bb4e16afcc7a9ce88f4493558fdd0629327d168c760517fa4ccbd66b4f220"
+    },
+    {
+      "path": "projects/niolearn/niolearn-12/analysis/alpha-all-frames.json",
+      "bytes": 416,
+      "sha256": "674e58836898ab22fe5df01ec9a55167e1c9cacdc68b63b6e4ecf379a5f90a0d"
+    },
+    {
+      "path": "projects/niolearn/niolearn-12/analysis/alpha-check.json",
+      "bytes": 530,
+      "sha256": "805f49d2c9b45658761b548ee37fcf04688906aa8c12f5cbb750d19b4d156998"
+    },
+    {
+      "path": "projects/niolearn/niolearn-12/analysis/edited-dialogue-medium-check.json",
+      "bytes": 1946,
+      "sha256": "5c511ec9fc212fcdeddae75ed108787ad4d01b30ed6b3f54348fbe8149c9f2cb"
+    },
+    {
+      "path": "projects/niolearn/niolearn-12/analysis/encoded-evidence/captions/encoded-caption-check.json",
+      "bytes": 10428,
+      "sha256": "812520d6edfde04afcaf9de5a038b5b75a995862084986c2a346904a45847e0a"
+    },
+    {
+      "path": "projects/niolearn/niolearn-12/analysis/encoded-evidence/finish/finish-measurements.json",
+      "bytes": 378,
+      "sha256": "0a6c33bc2808eacdedaa02328c14b846d3d22525f2585b177f8e8cedcba297f0"
+    },
+    {
+      "path": "projects/niolearn/niolearn-12/analysis/encoded-evidence/motion-tile-scan/tile-scan.json",
+      "bytes": 2184,
+      "sha256": "0b24e78f3cb9d746867a739a86eeb233903a3d18bf0acea2353e608bf3740ca8"
+    },
+    {
+      "path": "projects/niolearn/niolearn-12/analysis/encoded-evidence/tile-scan/tile-scan.json",
+      "bytes": 2241,
+      "sha256": "49b09c3b24cecf41bd03cac32d5d824a8a2fbac9250bd20400afcd8805c309f9"
+    },
+    {
+      "path": "projects/niolearn/niolearn-12/analysis/final-qa.json",
+      "bytes": 1555,
+      "sha256": "0a8b611352f8ea442ae7ccf463bc64cd746a524a0d074c6d7f82ff95d598bdd3"
+    },
+    {
+      "path": "projects/niolearn/niolearn-12/analysis/motion-review.json",
+      "bytes": 4481,
+      "sha256": "ba0e496a58a548aa5e8871de62c23560537e74167761a688e8e15083cafff05d"
+    },
+    {
+      "path": "projects/niolearn/niolearn-12/analysis/project-line-en-check.json",
+      "bytes": 1380,
+      "sha256": "92170603889e2f1dfe9f5b9bfd46b6c3631db56c4740f2be6963f7e03944a29b"
+    },
+    {
+      "path": "projects/niolearn/niolearn-12/analysis/revisions/edited-dialogue-before-project-line-fix.json",
+      "bytes": 1956,
+      "sha256": "0f7d33b38baa06f0cb53066393b1b51f4549efb85e3414815f0b288c92f09372"
+    },
+    {
+      "path": "projects/niolearn/niolearn-12/assets-provenance.json",
+      "bytes": 1042,
+      "sha256": "126abab88f9dc2b24594ee41e28802beb8a4a7ccbe3f6b105acc23ec11e73ad3"
+    },
+    {
+      "path": "projects/niolearn/niolearn-12/captions-pages.json",
+      "bytes": 16180,
+      "sha256": "ab29c1e25cd082910307c9d4ca76f379ff341e54a5822c41a297cf6f23cb54ea"
+    },
+    {
+      "path": "projects/niolearn/niolearn-12/captions-words.json",
+      "bytes": 28540,
+      "sha256": "c8ea6afc616d2f81af14af0a6396a4c9281bd1e5394e19a2165a797420158564"
+    },
+    {
+      "path": "projects/niolearn/niolearn-12/colour-grade.json",
+      "bytes": 153,
+      "sha256": "40842e8192bb9b1ee17ea784fc7bc210abb5fc8e796dbc32e175b314615737b7"
+    },
+    {
+      "path": "projects/niolearn/niolearn-12/cut-list.json",
+      "bytes": 3682,
+      "sha256": "9daa3fd310723bdcafa4a8b626e0921e4590fb4bf68acab555129a840b7a651c"
+    },
+    {
+      "path": "projects/niolearn/niolearn-12/cut-smoothing.json",
+      "bytes": 767,
+      "sha256": "1068cbdd1977b5ea08c91092105f08bf702ee1531644366d938bb8370d1c9991"
+    },
+    {
+      "path": "projects/niolearn/niolearn-12/edit-brief.md",
+      "bytes": 630,
+      "sha256": "33db38e1f77ee24a3e4d5024cc12b42b9650ed13ad1492aadab21f2b45c792e5"
+    },
+    {
+      "path": "projects/niolearn/niolearn-12/edit-plan.json",
+      "bytes": 2488,
+      "sha256": "88fa67762c31bed43477145fc214c6299710162e37d1bc810670afbd4b15b7e2"
+    },
+    {
+      "path": "projects/niolearn/niolearn-12/editorial.json",
+      "bytes": 1681,
+      "sha256": "f098fff3d7fd4f5342becc858e7fabf067f22dc9c1921857ab44824457680a90"
+    },
+    {
+      "path": "projects/niolearn/niolearn-12/production-plan.md",
+      "bytes": 1463,
+      "sha256": "4212111bd835cdfd2634464e9f77458c9deef8be5136d86aa9d9400af6fc6d76"
+    },
+    {
+      "path": "projects/niolearn/niolearn-12/reel.json",
+      "bytes": 20049,
+      "sha256": "1653f06d572baa1cfa7642e05e575915b5867d7d989d6f5398654728135ebaf5"
+    },
+    {
+      "path": "projects/niolearn/niolearn-12/script.md",
+      "bytes": 2085,
+      "sha256": "6c102a5f5113c3f27cd0ebe8fbe74659358f465fe2ec8596b4b10323561d6eec"
+    },
+    {
+      "path": "projects/niolearn/niolearn-12/source-words.json",
+      "bytes": 8867,
+      "sha256": "dacbddb8ed97d2b533b8cb9b04176b296f58396d527185ccc680afc6216dae0d"
+    },
+    {
+      "path": "projects/niolearn/niolearn-12/transcripts-draft/IMG_5956.json",
+      "bytes": 16627,
+      "sha256": "5803c447f7fb053e4708d6979c7387d855a1ff00d18d3c02d6e36180f75d25a5"
+    },
+    {
+      "path": "projects/niolearn/niolearn-12/transcripts-draft/IMG_5956.txt",
+      "bytes": 763,
+      "sha256": "805c05474c05223485052f864b2d7c29786c345acc90e7a4ff8ae02aca410e77"
+    },
+    {
+      "path": "projects/niolearn/niolearn-13/edit-plan.json",
+      "bytes": 348,
+      "sha256": "246910718acb9b719311efb78ac78fca7a6949c046ae208663bed0e544ba9a21"
+    },
+    {
+      "path": "projects/niolearn/niolearn-13/script.md",
+      "bytes": 1428,
+      "sha256": "bac1133bb0c4bd484125f73bdb6e3416f895a95d166f4d847c7fae54b3fe056e"
+    },
+    {
+      "path": "projects/niolearn/niolearn-14/edit-plan.json",
+      "bytes": 344,
+      "sha256": "0b4cfa3365e621787d5c36dadb4e2347b1ab432e7e52e057b91d01c38e8b9628"
+    },
+    {
+      "path": "projects/niolearn/niolearn-14/script.md",
+      "bytes": 2382,
+      "sha256": "0cf6647f0a0b6d31919df23b21c63212df367e09593462df6e37bf5e46e989bf"
+    },
+    {
+      "path": "projects/niolearn/niolearn-15/analysis/IMG_5960-medium-hi.json",
+      "bytes": 20598,
+      "sha256": "b0d435e1f70a9f5d503be7089f2628f975ff3d27baa111dc9a4b3e2fec3a1712"
+    },
+    {
+      "path": "projects/niolearn/niolearn-15/analysis/alpha-all-frames.json",
+      "bytes": 140,
+      "sha256": "98d5c37f732e0296573bf7d568ebc00625ed2dde097ea1032bb75a6b26c339f5"
+    },
+    {
+      "path": "projects/niolearn/niolearn-15/analysis/alpha-check.json",
+      "bytes": 178,
+      "sha256": "12d46fa373b83b675578e94d8c01087b01b6df0b142a95eaf8c37d3993d93d0f"
+    },
+    {
+      "path": "projects/niolearn/niolearn-15/analysis/edited-dialogue-medium-check.json",
+      "bytes": 2703,
+      "sha256": "c39ede83261513642f620728fa1b6d70eac988204ea10f3390d5edad07e97163"
+    },
+    {
+      "path": "projects/niolearn/niolearn-15/analysis/encoded-evidence/captions/encoded-caption-check.json",
+      "bytes": 11740,
+      "sha256": "11016c6891529ed220e78263f0e5908393b64642784efd7d3e1713aa0e708535"
+    },
+    {
+      "path": "projects/niolearn/niolearn-15/analysis/encoded-evidence/finish/finish-measurements.json",
+      "bytes": 366,
+      "sha256": "14ac579ccce167c105941f58e8e74b31cf50a9a5f85e35b16e8f9c547e33cda6"
+    },
+    {
+      "path": "projects/niolearn/niolearn-15/analysis/encoded-evidence/tile-scan/tile-scan.json",
+      "bytes": 2231,
+      "sha256": "51c6d127b3efdccd7b094a93e060cf3df977641155766fb8fc4c7292cb779f06"
+    },
+    {
+      "path": "projects/niolearn/niolearn-15/analysis/final-qa.json",
+      "bytes": 1260,
+      "sha256": "02adf8cda20565db6aec5d155f5fcbe8f43fa6a41674ea4f15aa8b60669de04b"
+    },
+    {
+      "path": "projects/niolearn/niolearn-15/analysis/motion-review.json",
+      "bytes": 4310,
+      "sha256": "8c004eb34f7ce1b3db103343f0f8d059473b636ccbf56fa13c9b49d5de9d214b"
+    },
+    {
+      "path": "projects/niolearn/niolearn-15/assets-provenance.json",
+      "bytes": 1454,
+      "sha256": "5beb07ac9b4fd582abfea14891d8ed8ed4d127d1d422078b7e359bbd20b18f4b"
+    },
+    {
+      "path": "projects/niolearn/niolearn-15/captions-pages.json",
+      "bytes": 18711,
+      "sha256": "0a098cb2201cb9148bcd34b80601787468dbaa268cbcc08e5dff75da6c3d265b"
+    },
+    {
+      "path": "projects/niolearn/niolearn-15/captions-words.json",
+      "bytes": 32366,
+      "sha256": "6f5f6f06dbec4f0aac8fca44f2993333cf563ce047e710bcc829dc33fe6e1bd0"
+    },
+    {
+      "path": "projects/niolearn/niolearn-15/colour-grade.json",
+      "bytes": 153,
+      "sha256": "40842e8192bb9b1ee17ea784fc7bc210abb5fc8e796dbc32e175b314615737b7"
+    },
+    {
+      "path": "projects/niolearn/niolearn-15/cut-list.json",
+      "bytes": 3439,
+      "sha256": "5601ba567768a4331da31ddfaddf51109fe3afac1216641feede541598aabd5a"
+    },
+    {
+      "path": "projects/niolearn/niolearn-15/cut-smoothing.json",
+      "bytes": 775,
+      "sha256": "6b5686c85dc80ef44858ebae2f4586e3457b5311a7b3d758ec462848e181d10c"
+    },
+    {
+      "path": "projects/niolearn/niolearn-15/edit-brief.md",
+      "bytes": 802,
+      "sha256": "181fc241448efb56d1d415eba75024affca1e5bde7d243c1c4fedafef076ea21"
+    },
+    {
+      "path": "projects/niolearn/niolearn-15/edit-plan.json",
+      "bytes": 2903,
+      "sha256": "29f7deeb88e5e82e0997de76e107aa0163758aab62f00260917331b4ecfe49f0"
+    },
+    {
+      "path": "projects/niolearn/niolearn-15/editorial.json",
+      "bytes": 1988,
+      "sha256": "e54cfc5682ac76d123a931cba9609a6a9c2468e51c4ebb52f3ffda0e29a5efb5"
+    },
+    {
+      "path": "projects/niolearn/niolearn-15/production-plan.md",
+      "bytes": 1513,
+      "sha256": "5306efb429a9c48dc88e9d8861ccb9240546d4972f77c47d3dae8eedd11e4359"
+    },
+    {
+      "path": "projects/niolearn/niolearn-15/reel.json",
+      "bytes": 22903,
+      "sha256": "b77c70a410943d274325ab954d9e36776d01edc970d37e7c71655f5221a1dd67"
+    },
+    {
+      "path": "projects/niolearn/niolearn-15/script.md",
+      "bytes": 2392,
+      "sha256": "c059612d3c6cdab134b5fdac2cefcdbb1fad65d29942764005fc667d41f805d0"
+    },
+    {
+      "path": "projects/niolearn/niolearn-15/source-words.json",
+      "bytes": 9988,
+      "sha256": "68803ed450c69e5139fd5a35d0673b66732d91bffa95cc04afd81679dc500303"
+    },
+    {
+      "path": "projects/niolearn/niolearn-15/transcripts-draft/IMG_5960.json",
+      "bytes": 19924,
+      "sha256": "9fbc8423355b03ec10fd36b37eb6a304385544867d50e8777a9eca0dfc24aa88"
+    },
+    {
+      "path": "projects/niolearn/niolearn-15/transcripts-draft/IMG_5960.txt",
+      "bytes": 909,
+      "sha256": "db59ef492164d8a643b3f29048a455b4a636f62e9532f61c5cad48872fb442e8"
+    },
+    {
+      "path": "projects/niolearn/niolearn-16/analysis/IMG_5961-medium-hi.json",
+      "bytes": 10298,
+      "sha256": "b93c1d7f3ae54330fd09e04c46d50e2d83e1396e4db2fbeae87644e59b46b909"
+    },
+    {
+      "path": "projects/niolearn/niolearn-16/analysis/IMG_5962-medium-hi.json",
+      "bytes": 5771,
+      "sha256": "0fd0008c1a711b8bc39dd2840b44cbb04d41f7b78c3abb31fc6b64f37a8bda8a"
+    },
+    {
+      "path": "projects/niolearn/niolearn-16/analysis/alpha-all-frames.json",
+      "bytes": 408,
+      "sha256": "b883c09a001a8eee165a711d04193312e0c864fc3287e814d2300e0dc0c23cc6"
+    },
+    {
+      "path": "projects/niolearn/niolearn-16/analysis/alpha-check.json",
+      "bytes": 522,
+      "sha256": "a435cdf11bca45612be889a59e9aa74988ee94d9d0d3b151cd059b0d507c4525"
+    },
+    {
+      "path": "projects/niolearn/niolearn-16/analysis/edited-dialogue-medium-check.json",
+      "bytes": 1915,
+      "sha256": "d4211b3b7f47d55a40a41ad12c853515de18ad3efd14918e2e7cefcc4438053f"
+    },
+    {
+      "path": "projects/niolearn/niolearn-16/analysis/encoded-evidence/captions/encoded-caption-check.json",
+      "bytes": 9614,
+      "sha256": "8cbf98b932c568eb2858662d8d7d775bae23d8a754f52d4610c205e9b6e626cd"
+    },
+    {
+      "path": "projects/niolearn/niolearn-16/analysis/encoded-evidence/finish/finish-measurements.json",
+      "bytes": 377,
+      "sha256": "7ec0a654482a3c7d966f42ed692fbf9104a5d75c205c7fc901bb2b6f90f63592"
+    },
+    {
+      "path": "projects/niolearn/niolearn-16/analysis/encoded-evidence/tile-scan/tile-scan.json",
+      "bytes": 2244,
+      "sha256": "a0ed09b9ed25c59e30cb6143e5bdff6e696c4d14b27275a085d206827081f30e"
+    },
+    {
+      "path": "projects/niolearn/niolearn-16/analysis/final-qa.json",
+      "bytes": 1276,
+      "sha256": "4bb209dbc2520f93fc388da12474f46f1e07fe897c0484ff217073e7e6980d25"
+    },
+    {
+      "path": "projects/niolearn/niolearn-16/analysis/motion-review.json",
+      "bytes": 6343,
+      "sha256": "2be2571e82c020306c75b2a582d78d1db6091ca605515a36efd8f81cc8126133"
+    },
+    {
+      "path": "projects/niolearn/niolearn-16/assets-provenance.json",
+      "bytes": 1407,
+      "sha256": "5a9ff0d4f003a87cde6be377e64f71ab7d33a4c78de7b861e452ba06e84bcedd"
+    },
+    {
+      "path": "projects/niolearn/niolearn-16/captions-pages.json",
+      "bytes": 14456,
+      "sha256": "a11267543e94bcf634e67c0c87ae9e8dcf4d35d574189bca55a5f30c8270453b"
+    },
+    {
+      "path": "projects/niolearn/niolearn-16/captions-words.json",
+      "bytes": 25075,
+      "sha256": "fc3fd2e21b9d4634292e61e92b2d2b0ae85cd9bda6ba8256ee1879086ebf500b"
+    },
+    {
+      "path": "projects/niolearn/niolearn-16/colour-grade.json",
+      "bytes": 153,
+      "sha256": "40842e8192bb9b1ee17ea784fc7bc210abb5fc8e796dbc32e175b314615737b7"
+    },
+    {
+      "path": "projects/niolearn/niolearn-16/cut-list.json",
+      "bytes": 3656,
+      "sha256": "c1336bc83c4b209eeabd1053115635063db0c1e1cef8768b2001dc9d063c051f"
+    },
+    {
+      "path": "projects/niolearn/niolearn-16/cut-smoothing.json",
+      "bytes": 291,
+      "sha256": "9df507c21292f73f052b85277e1d238cfb302c8c3d18f1cd048bfff38ed60b8c"
+    },
+    {
+      "path": "projects/niolearn/niolearn-16/edit-brief.md",
+      "bytes": 807,
+      "sha256": "2acda45ac269658f21e265aa03ba67fb6e21c2d3d1065946b5eed4eab1d17a0d"
+    },
+    {
+      "path": "projects/niolearn/niolearn-16/edit-plan.json",
+      "bytes": 3227,
+      "sha256": "32d0a48d68d29e7ba42d02fad3863aa60bce5a83e02615da6e648933155521ba"
+    },
+    {
+      "path": "projects/niolearn/niolearn-16/editorial.json",
+      "bytes": 1857,
+      "sha256": "a397cbdaff019223bf41c9fb5c8919cca6d065467e26f769d1744d8c03e89633"
+    },
+    {
+      "path": "projects/niolearn/niolearn-16/production-plan.md",
+      "bytes": 1927,
+      "sha256": "5019832739499ed040e626564a683f9235ee4eba0161f6a909215c3959056c32"
+    },
+    {
+      "path": "projects/niolearn/niolearn-16/reel.json",
+      "bytes": 17234,
+      "sha256": "15771c8d31b124f78a5900f93512304a552b37f8e970e370dedb41a8d529c1e9"
+    },
+    {
+      "path": "projects/niolearn/niolearn-16/script.md",
+      "bytes": 2373,
+      "sha256": "1da0d09b8403f76427777fbbec02378828746e34718c0922ebaad9fc63dd8e67"
+    },
+    {
+      "path": "projects/niolearn/niolearn-16/source-words.json",
+      "bytes": 10490,
+      "sha256": "ac86b7acce021f0f8be77469a1b715cebe2719e77f7ea56ac14cdd84e1b8fe8c"
+    },
+    {
+      "path": "projects/niolearn/niolearn-16/transcripts-draft/IMG_5961.json",
+      "bytes": 11607,
+      "sha256": "7fb2443d003863e4c9c9aebf613e18ba350844eb3a2947e70bae0d505ff838e7"
+    },
+    {
+      "path": "projects/niolearn/niolearn-16/transcripts-draft/IMG_5961.txt",
+      "bytes": 467,
+      "sha256": "2e93392e8c90345f9de13f2a66885df4f2a56e78a741f2254f63d45cbbe38054"
+    },
+    {
+      "path": "projects/niolearn/niolearn-16/transcripts-draft/IMG_5962.json",
+      "bytes": 6445,
+      "sha256": "3ee8fe82013ff0bbccae14875e550981b78f30498c0dbf133c01ef258b344c51"
+    },
+    {
+      "path": "projects/niolearn/niolearn-16/transcripts-draft/IMG_5962.txt",
+      "bytes": 287,
+      "sha256": "49cea363a33148ca28a99b05e228534d76403e7908b54d57c135053d30f109a4"
+    },
+    {
+      "path": "projects/niolearn/niolearn-17/edit-plan.json",
+      "bytes": 348,
+      "sha256": "e47b48fc78ba1b144bccdb8e9e227c78b6f9b004ddf1b80d4341d3214a1c8da7"
+    },
+    {
+      "path": "projects/niolearn/niolearn-17/script.md",
+      "bytes": 1613,
+      "sha256": "3625d3ebea15e583ca0f6e31b3e4970e9fbddaf4effb1526784070f7e512286f"
+    },
+    {
+      "path": "projects/niolearn/niolearn-18/edit-plan.json",
+      "bytes": 344,
+      "sha256": "bb9e8bc7e5271ecadb0bcff939db5ca421362c9c072575f1184a6a6393987e05"
+    },
+    {
+      "path": "projects/niolearn/niolearn-18/script.md",
+      "bytes": 2351,
+      "sha256": "1b5c6494d5f3f6939eebca8d64af0cabc08b54cace82ca99a016938b5f6a459c"
+    },
+    {
+      "path": "projects/niolearn/niolearn-19/analysis/IMG_5963-medium-hi.json",
+      "bytes": 21835,
+      "sha256": "1057ce1b9e125d6301b286421bc42c919a83aba269cdc071a2613865cd1c6dec"
+    },
+    {
+      "path": "projects/niolearn/niolearn-19/analysis/alpha-all-frames.json",
+      "bytes": 422,
+      "sha256": "1c45a6daa56bb34aaaabe9231db39c9116182e6bb572b692f1e9a0041c47ff95"
+    },
+    {
+      "path": "projects/niolearn/niolearn-19/analysis/alpha-check.json",
+      "bytes": 537,
+      "sha256": "fe7e32e4ea1cdf4b52883aa168421b2d700c01fab84286ee6471b4de688c82e7"
+    },
+    {
+      "path": "projects/niolearn/niolearn-19/analysis/edited-dialogue-medium-check.json",
+      "bytes": 2395,
+      "sha256": "20a4b01be62db7116612a8422e884a7678934571fc417c42c7b81d15987551a4"
+    },
+    {
+      "path": "projects/niolearn/niolearn-19/analysis/encoded-evidence/captions/encoded-caption-check.json",
+      "bytes": 11873,
+      "sha256": "af12d7e99838f5d7b05f206ee6cc201c0c67678a997573c9fe3235f3f0b5ad6a"
+    },
+    {
+      "path": "projects/niolearn/niolearn-19/analysis/encoded-evidence/finish/finish-measurements.json",
+      "bytes": 370,
+      "sha256": "fadfee63f401077ed2fc942bb6de0d0c6c2a3bc89810e93914209b4fd1cfbf77"
+    },
+    {
+      "path": "projects/niolearn/niolearn-19/analysis/encoded-evidence/tile-scan/tile-scan.json",
+      "bytes": 2235,
+      "sha256": "9a8ee08f905fcbe21a8c58e40c17d430225259a091df4840ee5dc6435e811fda"
+    },
+    {
+      "path": "projects/niolearn/niolearn-19/analysis/final-qa.json",
+      "bytes": 1252,
+      "sha256": "2d5c1e0966ef35f1faed1f2a4d16f968cbc2af09f95841b01cf75444448344f4"
+    },
+    {
+      "path": "projects/niolearn/niolearn-19/analysis/motion-review.json",
+      "bytes": 4369,
+      "sha256": "9118a8cab9173aeb501d28a299b5446e50d4dd167b01516ed207e1ed44478d22"
+    },
+    {
+      "path": "projects/niolearn/niolearn-19/assets-provenance.json",
+      "bytes": 693,
+      "sha256": "9d2ea460a39fec80d690ef6ba41446ed51df5ac5c9100d823844739bab0969bb"
+    },
+    {
+      "path": "projects/niolearn/niolearn-19/captions-pages.json",
+      "bytes": 18812,
+      "sha256": "a942fd33c05e5993ec041027d41c24a6fba990a21527c68f86cab201c2f7e856"
+    },
+    {
+      "path": "projects/niolearn/niolearn-19/captions-words.json",
+      "bytes": 32977,
+      "sha256": "3e87494dfee99235e63a1c019759fec3a78a0d471cdbce0d51e9f029bb7cdf81"
+    },
+    {
+      "path": "projects/niolearn/niolearn-19/colour-grade.json",
+      "bytes": 153,
+      "sha256": "40842e8192bb9b1ee17ea784fc7bc210abb5fc8e796dbc32e175b314615737b7"
+    },
+    {
+      "path": "projects/niolearn/niolearn-19/cut-list.json",
+      "bytes": 4435,
+      "sha256": "bdc4bfce1cc7dd6a59e7502b9e34de728133fb4fc81086e0f4b86aedd7c68dec"
+    },
+    {
+      "path": "projects/niolearn/niolearn-19/cut-smoothing.json",
+      "bytes": 775,
+      "sha256": "0dd5df2570cdbd5a04129c0b79c79796f89d97930b31990c6641d3f69422e463"
+    },
+    {
+      "path": "projects/niolearn/niolearn-19/edit-brief.md",
+      "bytes": 791,
+      "sha256": "5355b1982d809ef388e49d8c10ab2b050e4aa148beb34d1d81e963e1eefef293"
+    },
+    {
+      "path": "projects/niolearn/niolearn-19/edit-plan.json",
+      "bytes": 2897,
+      "sha256": "981f25508dcbcd66871366ba5e104eec302cfd5b3692297b50c0cc5e79ea7c9f"
+    },
+    {
+      "path": "projects/niolearn/niolearn-19/editorial.json",
+      "bytes": 2141,
+      "sha256": "e75161f46b2988331d811fa39aef4f96c7b4f1b629cf8fffeacb05c7fd630afc"
+    },
+    {
+      "path": "projects/niolearn/niolearn-19/production-plan.md",
+      "bytes": 1098,
+      "sha256": "726eaecc89a09a95c01ee709faee1b6ede9fe5e7e45a21d4fbc977786de49dc7"
+    },
+    {
+      "path": "projects/niolearn/niolearn-19/reel.json",
+      "bytes": 22979,
+      "sha256": "2108526ac7243bde8b1ea238677884262847e14931e3b31e5e367cdadc7fe445"
+    },
+    {
+      "path": "projects/niolearn/niolearn-19/script.md",
+      "bytes": 2673,
+      "sha256": "f222070ae6082f87f20245060fbba287f2e7712a7705e11d48518c3a8312da17"
+    },
+    {
+      "path": "projects/niolearn/niolearn-19/source-words.json",
+      "bytes": 10183,
+      "sha256": "8cde948e2f9b8d5968f734e98ce27369c443a7605512cf3a4119940f667fa156"
+    },
+    {
+      "path": "projects/niolearn/niolearn-19/transcripts-draft/IMG_5963.json",
+      "bytes": 19300,
+      "sha256": "8a6262f417b066853cf2a444d2f1f76634110bb2ab394fffb599926777568477"
+    },
+    {
+      "path": "projects/niolearn/niolearn-19/transcripts-draft/IMG_5963.txt",
+      "bytes": 763,
+      "sha256": "2aadc4ce03b9fcfdb290346b17769772949da9b1e033ee96ef8cd65ff4b94d02"
+    },
+    {
+      "path": "projects/niolearn/niolearn-20/analysis/IMG_5967-medium-hi.json",
+      "bytes": 20030,
+      "sha256": "2ddf8c023bd9d2373116152406089251f4e1eb481414931ca52e6e61db5b5618"
+    },
+    {
+      "path": "projects/niolearn/niolearn-20/analysis/IMG_5971-medium-hi.json",
+      "bytes": 5681,
+      "sha256": "6472fe8fd1b16bc7b0970bfcf4dc97605794de368b62de010946396cb824e7b3"
+    },
+    {
+      "path": "projects/niolearn/niolearn-20/analysis/alpha-all-frames.json",
+      "bytes": 280,
+      "sha256": "db3ebb8d7c357ff879724ffeb3cf098ddcbdce40674e3f68b5feec2ee48c16c2"
+    },
+    {
+      "path": "projects/niolearn/niolearn-20/analysis/alpha-check.json",
+      "bytes": 356,
+      "sha256": "1741fd81c7c5a331e9093a5ce360986acab762dfc30d84547d305a8b845e6e81"
+    },
+    {
+      "path": "projects/niolearn/niolearn-20/analysis/edited-dialogue-medium-check.json",
+      "bytes": 2327,
+      "sha256": "17a6d039c19c069a8dc4f3b6c33a23633a6db3299af16762f1f718a8f4095f9a"
+    },
+    {
+      "path": "projects/niolearn/niolearn-20/analysis/encoded-evidence/captions/encoded-caption-check.json",
+      "bytes": 11284,
+      "sha256": "5d8e684b3772ada41fb0cd21400148b90c997c713dfe717464c91aab801438d4"
+    },
+    {
+      "path": "projects/niolearn/niolearn-20/analysis/encoded-evidence/finish/finish-measurements.json",
+      "bytes": 373,
+      "sha256": "192e5cc88f8ac668bdac33537b252dd162954ab046150f424d89341420d44658"
+    },
+    {
+      "path": "projects/niolearn/niolearn-20/analysis/encoded-evidence/tile-scan/tile-scan.json",
+      "bytes": 2253,
+      "sha256": "b05dedebad807aa118853f0adc41c34f4da1e7f11c7eef54d74419f589ec606a"
+    },
+    {
+      "path": "projects/niolearn/niolearn-20/analysis/final-qa.json",
+      "bytes": 1274,
+      "sha256": "974f281700119ce378d811d906ebb064d37e14f29c273034e70ba01b943d75d9"
+    },
+    {
+      "path": "projects/niolearn/niolearn-20/analysis/motion-review.json",
+      "bytes": 7990,
+      "sha256": "33169ae560e8ae58d3a47d18cce048b34ec80d80411ac8a764ee30bc55592f5a"
+    },
+    {
+      "path": "projects/niolearn/niolearn-20/analysis/source-review.json",
+      "bytes": 617,
+      "sha256": "7efa8ca07a94df9790c980a215aaf9d32971f05b9e4e94327c0c1803dd27aee8"
+    },
+    {
+      "path": "projects/niolearn/niolearn-20/assets-provenance.json",
+      "bytes": 642,
+      "sha256": "359741276c425c54c39797b3caeedec1260a694832ec48c86c858b570da2893c"
+    },
+    {
+      "path": "projects/niolearn/niolearn-20/captions-pages.json",
+      "bytes": 19029,
+      "sha256": "10d3f0c32e567ea0f74fd3ba1e19c31818de35e02f3241051d7ed00b1bd637ed"
+    },
+    {
+      "path": "projects/niolearn/niolearn-20/captions-words.json",
+      "bytes": 33748,
+      "sha256": "a32d8f481dbb512aa328eb3ca40644dd359636ff8628f7d6c42ba29d7ecb9ce5"
+    },
+    {
+      "path": "projects/niolearn/niolearn-20/colour-grade.json",
+      "bytes": 153,
+      "sha256": "40842e8192bb9b1ee17ea784fc7bc210abb5fc8e796dbc32e175b314615737b7"
+    },
+    {
+      "path": "projects/niolearn/niolearn-20/cut-list.json",
+      "bytes": 3605,
+      "sha256": "188adea09cb5c353d55c50a031495554478204c9b32fd79f198733e2b52f932f"
+    },
+    {
+      "path": "projects/niolearn/niolearn-20/cut-smoothing.json",
+      "bytes": 389,
+      "sha256": "fa3ef54556a912108b596d2f96e5d7407b36d8aa2f2331939a638d26bcf6bf9b"
+    },
+    {
+      "path": "projects/niolearn/niolearn-20/edit-brief.md",
+      "bytes": 694,
+      "sha256": "63570358ec7070205370141ee0ff68ce15dfbbe0ff18cb3da55795659db3e292"
+    },
+    {
+      "path": "projects/niolearn/niolearn-20/edit-plan.json",
+      "bytes": 3013,
+      "sha256": "e9d8e55204db14a5971a8d6b63f8f491ad1be6b602bd09e1fa6d21253ede5d2d"
+    },
+    {
+      "path": "projects/niolearn/niolearn-20/editorial.json",
+      "bytes": 2028,
+      "sha256": "4eec9872b3d26268372e086d7c915332da8714307ec5207af7319439d294aeda"
+    },
+    {
+      "path": "projects/niolearn/niolearn-20/production-plan.md",
+      "bytes": 1125,
+      "sha256": "27b33a8b79dbde73d5322bc12c4059d4edeea9af1b58577ed7525580594238e5"
+    },
+    {
+      "path": "projects/niolearn/niolearn-20/reel.json",
+      "bytes": 22457,
+      "sha256": "f51ee83220d4a721bd28031bf52c1305d6be50b0782e0e18c9674f1fc8fbbed6"
+    },
+    {
+      "path": "projects/niolearn/niolearn-20/script.md",
+      "bytes": 2505,
+      "sha256": "91175e9baabf07990e6080738c90c772049e3b87f1d430dde6176d5c38a970dc"
+    },
+    {
+      "path": "projects/niolearn/niolearn-20/source-words.json",
+      "bytes": 14085,
+      "sha256": "5d5a6226507580a6dc24302d19dae59486ade2f40ef0bd2a5a57c0b1021d5887"
+    },
+    {
+      "path": "projects/niolearn/niolearn-20/transcripts-draft/IMG_5967.json",
+      "bytes": 18071,
+      "sha256": "2d01a39c0de5bc67effb5083c3e4d2b2b39dda5f7b0bb402920d3c5099fb30b3"
+    },
+    {
+      "path": "projects/niolearn/niolearn-20/transcripts-draft/IMG_5967.txt",
+      "bytes": 814,
+      "sha256": "9c7fcd619b4e38f7abe2128fd99028195f0ce823b6563b5e62c7313ac0af6789"
+    },
+    {
+      "path": "projects/niolearn/niolearn-20/transcripts-draft/IMG_5971.json",
+      "bytes": 5378,
+      "sha256": "79c66e631d9eea6d600157f296a702eb00d49fd1e93ac9e6fb1e413259264d33"
+    },
+    {
+      "path": "projects/niolearn/niolearn-20/transcripts-draft/IMG_5971.txt",
+      "bytes": 222,
+      "sha256": "70d5766a66f4fb44619b7478b28e2803350500e9f4eddaa706fef8418b31721a"
+    },
+    {
+      "path": "projects/niolearn/niolearn-21/edit-plan.json",
+      "bytes": 348,
+      "sha256": "9929a85b4384fd41d02dadff12fca58858e195db183efc7295f1bccc774a2f9b"
+    },
+    {
+      "path": "projects/niolearn/niolearn-21/script.md",
+      "bytes": 1542,
+      "sha256": "ef9a37a7c847406e3a5f31ee74bb82910d018290191d73334c0cb5f47ecfa302"
+    },
+    {
+      "path": "projects/niolearn/niolearn-22/edit-plan.json",
+      "bytes": 344,
+      "sha256": "5fcd34dffed949095a4d144782104f7963a0cf582fb5ce75ef1ec99ee14f5fb0"
+    },
+    {
+      "path": "projects/niolearn/niolearn-22/script.md",
+      "bytes": 2018,
+      "sha256": "b98b0ae05b3f733aa62544ce3dce791bf014feb5b92a9ce6987381c7a13a35f3"
+    },
+    {
+      "path": "projects/niolearn/niolearn-23/edit-plan.json",
+      "bytes": 344,
+      "sha256": "8a1cbfe6e9ccfbd885cfc1490b2c558d1e31ae5a8d2013c511b4ebad4ec72d40"
+    },
+    {
+      "path": "projects/niolearn/niolearn-23/script.md",
+      "bytes": 1807,
+      "sha256": "a226590fe479c20a2101ec64e8f773cda99aafed066c6f71dd79eaccbd1dabad"
+    },
+    {
+      "path": "projects/niolearn/niolearn-24/edit-plan.json",
+      "bytes": 344,
+      "sha256": "e7b0fe5e7bfefb36dbddbfa1df53a56a462e456f89539742c14a3b9f28af9faf"
+    },
+    {
+      "path": "projects/niolearn/niolearn-24/script.md",
+      "bytes": 2854,
+      "sha256": "d9fe835b64f2454c9821ef12a217b4dfc432b74fd94b6558112fe082166df945"
+    },
+    {
+      "path": "projects/niolearn/niolearn-25/edit-plan.json",
+      "bytes": 344,
+      "sha256": "c6cc02f11838d25dbbc0316a200829fd857564f7a765abf8a5b0862be72f9091"
+    },
+    {
+      "path": "projects/niolearn/niolearn-25/script.md",
+      "bytes": 2186,
+      "sha256": "63cbdbb9d077ec044498966287e5b5178e51424bbfb9c8bad36ffbf2e72b8d95"
+    },
+    {
+      "path": "projects/niolearn/niolearn-26/edit-plan.json",
+      "bytes": 344,
+      "sha256": "cd4c4ddfd6f7df513808b10b95ec74c77782684805c46dbad50a1dcf0b25f58f"
+    },
+    {
+      "path": "projects/niolearn/niolearn-26/script.md",
+      "bytes": 1942,
+      "sha256": "98cc0c45ced646632045000ac1a93d59bb04c7bfc5953295ac4dcfa429d7357b"
+    },
+    {
+      "path": "projects/niolearn/niolearn-27/edit-plan.json",
+      "bytes": 344,
+      "sha256": "53ceacbc22bcce3e844cc08a8e04c03263ef09d6df2129dcb22d51c2445edb6b"
+    },
+    {
+      "path": "projects/niolearn/niolearn-27/script.md",
+      "bytes": 2136,
+      "sha256": "910ba1af55f608720795107dc035797aed68ef8c766bc350222ba9fa91be906f"
+    },
+    {
+      "path": "projects/niolearn/niolearn-28/edit-plan.json",
+      "bytes": 346,
+      "sha256": "8ca2b63983a382a531c68d9d38617aa65255d826a78a2f6e136c00d228e0ffd0"
+    },
+    {
+      "path": "projects/niolearn/niolearn-28/script.md",
+      "bytes": 1329,
+      "sha256": "2c59a8bbac02c46da8b6f74f820c1042ca9dcc66041838845f2b6e9d10a3f83b"
+    },
+    {
+      "path": "projects/niolearn/niolearn-29/edit-plan.json",
+      "bytes": 348,
+      "sha256": "04d25502ee73da3554f85d4f9c82485e99c59f2ef3b06ddaf9a52866e95bbfbb"
+    },
+    {
+      "path": "projects/niolearn/niolearn-29/script.md",
+      "bytes": 1374,
+      "sha256": "0aaf37fac3a49c592bd05340d01991d58ca326196c5aa4501c381fb974c8a607"
+    },
+    {
+      "path": "projects/niolearn/niolearn-30/edit-plan.json",
+      "bytes": 344,
+      "sha256": "6afa8a3ba0854801a2a089eb8593f3bd20df939eabad2d07affdbbe9ac6d19c7"
+    },
+    {
+      "path": "projects/niolearn/niolearn-30/script.md",
+      "bytes": 1764,
+      "sha256": "4729ab6190105de34034de8fbe747433bb896e934cdfd782c09f9bcff85f8091"
+    },
+    {
+      "path": "projects/niolearn/niolearn-31/edit-plan.json",
+      "bytes": 344,
+      "sha256": "a44e3a3350f15f0ec2477c80240181fc7bfb22179e8997716accf2e998b98359"
+    },
+    {
+      "path": "projects/niolearn/niolearn-31/script.md",
+      "bytes": 2115,
+      "sha256": "a029d63c0b5eba6aa4ed49f64647680d50c8410bd836088bfa8cb09c5fdb1c14"
+    },
+    {
+      "path": "projects/niolearn/niolearn-32/edit-plan.json",
+      "bytes": 344,
+      "sha256": "a7e9f6a13f53dee85dee7a6e21e47a3a48ada67c5b0b02fbd1caf38d70a329b5"
+    },
+    {
+      "path": "projects/niolearn/niolearn-32/script.md",
+      "bytes": 3604,
+      "sha256": "5ce826f8887f7faeda09f04bd481f03025da4cca0a6d82acef7572e5680cccae"
+    },
+    {
+      "path": "projects/niolearn/niolearn-33/edit-plan.json",
+      "bytes": 344,
+      "sha256": "7acd19425fd8dc27a95d25274b3dbb344dd016223dac0a0bd0a296652d0e35e8"
+    },
+    {
+      "path": "projects/niolearn/niolearn-33/script.md",
+      "bytes": 2166,
+      "sha256": "f8b535fd03dc51e3821e2cf185e699a801c45a46b84921ec894d3a33c941c8c2"
+    },
+    {
+      "path": "projects/niolearn/niolearn-34/edit-plan.json",
+      "bytes": 344,
+      "sha256": "6e49b5381360a7e305f0af9ba1d0a5082c31bfb0a5df4590ecd197f9a5725198"
+    },
+    {
+      "path": "projects/niolearn/niolearn-34/script.md",
+      "bytes": 2150,
+      "sha256": "214eaa8fafd7d481cbd2405484e4b30cf027808e0ac063725091ba5e5f2d6199"
+    },
+    {
+      "path": "projects/niolearn/niolearn-35/edit-plan.json",
+      "bytes": 344,
+      "sha256": "468d844ad8d948f2a25251d458d987f18a8c85958dd5e756d19aa945aed8d31d"
+    },
+    {
+      "path": "projects/niolearn/niolearn-35/script.md",
+      "bytes": 1978,
+      "sha256": "5c7287e63e2b208569e21a846b37b256689d5cfae82c56021271fab245d1d713"
+    },
+    {
+      "path": "projects/niolearn/niolearn-36/edit-plan.json",
+      "bytes": 348,
+      "sha256": "b61bc7a437d8a8c5cdfaae0c35091092a094aaad4891a749cb482b73c51ca106"
+    },
+    {
+      "path": "projects/niolearn/niolearn-36/script.md",
+      "bytes": 1545,
+      "sha256": "1d0bf4720a25187258d24c8013c5ef190662b3140f73dfc925de6435d56ea4b9"
+    },
+    {
+      "path": "projects/niolearn/niolearn-37/edit-plan.json",
+      "bytes": 348,
+      "sha256": "234ad745d0a8a2d6c100ac008646bb4fe1b889eb1721d42186e20473afca9d75"
+    },
+    {
+      "path": "projects/niolearn/niolearn-37/script.md",
+      "bytes": 1450,
+      "sha256": "7e6ff144fcc6c5a860abe273bd12aee020320cad0f5e00b5bbc1135e8466d73c"
+    },
+    {
+      "path": "projects/niolearn/niolearn-38/edit-plan.json",
+      "bytes": 344,
+      "sha256": "4b857c2c65387571f3d15e711abda494e15d695f73e89510face594c637766c5"
+    },
+    {
+      "path": "projects/niolearn/niolearn-38/script.md",
+      "bytes": 2108,
+      "sha256": "b4e19447a874f8ce862d8f3054d4e6233108198525c793afc7d07efa669489d0"
+    },
+    {
+      "path": "projects/niolearn/niolearn-39/edit-plan.json",
+      "bytes": 344,
+      "sha256": "a39c2b84dbdbc51c469708260655bed65dd57feda8942673995be5592945e296"
+    },
+    {
+      "path": "projects/niolearn/niolearn-39/script.md",
+      "bytes": 1911,
+      "sha256": "73e7a8f68c4bb3735e65651cf25ab8793ceb198c40d9f6415415a8e12d5b8270"
+    },
+    {
+      "path": "projects/niolearn/niolearn-40/edit-plan.json",
+      "bytes": 344,
+      "sha256": "ba3055cb3b0eb74a210036d6ee65a76528abe60ce842686439af40f3d3fc0c21"
+    },
+    {
+      "path": "projects/niolearn/niolearn-40/script.md",
+      "bytes": 2067,
+      "sha256": "ab0f8d96c316e3926f65a323dd8418ccb299be3e5dd2ecbce7061075f7b89773"
+    },
+    {
+      "path": "projects/niolearn/niolearn-41/edit-plan.json",
+      "bytes": 344,
+      "sha256": "6e0edaf25d3054337ccaa7d671dbdfedc91f0d5c37e98bfa7f3772e25af3eae9"
+    },
+    {
+      "path": "projects/niolearn/niolearn-41/script.md",
+      "bytes": 2064,
+      "sha256": "b665e60bd92522e09e528e0a36d9becb32b535402b672a4fded495706fdd3566"
+    },
+    {
+      "path": "projects/niolearn/niolearn-42/edit-plan.json",
+      "bytes": 344,
+      "sha256": "34480576c149b602ffbde396b03ce41c69d754fba21b2b745546acfe85497f12"
+    },
+    {
+      "path": "projects/niolearn/niolearn-42/script.md",
+      "bytes": 2330,
+      "sha256": "043965cf89486d9fab2308bbc013a3c1cea212e3f8de7cd2719896ba2680f7b5"
+    },
+    {
+      "path": "projects/niolearn/niolearn-43/edit-plan.json",
+      "bytes": 348,
+      "sha256": "b903f58cad4da38461ecfea5de135e71f8ea9cc422e30edac5da7c5351ed85dd"
+    },
+    {
+      "path": "projects/niolearn/niolearn-43/script.md",
+      "bytes": 1329,
+      "sha256": "b9ac7b4fe141a57c30fc49b6f23ad5787cf27bd6bf3dca4fd5fed13220c0254c"
+    },
+    {
+      "path": "projects/niolearn/niolearn-44/edit-plan.json",
+      "bytes": 344,
+      "sha256": "11192b55f159fa66f89078f29e2e349baeee105831f52acceaa31266ccd35e74"
+    },
+    {
+      "path": "projects/niolearn/niolearn-44/script.md",
+      "bytes": 1897,
+      "sha256": "67ce985744371d916e6c456486b5b677296ba9a409bfd74711bf9c8f17a524d9"
+    },
+    {
+      "path": "projects/niolearn/niolearn-45/edit-plan.json",
+      "bytes": 348,
+      "sha256": "477043f34eef4c077c4042c1ed7ceed14a9d6aaaf6c8940fde4aed58a5245c37"
+    },
+    {
+      "path": "projects/niolearn/niolearn-45/script.md",
+      "bytes": 1333,
+      "sha256": "7e9f89379b82dcd33ce7a29421591471fc8e88ac8d699cd5922caba1cd37f61f"
+    },
+    {
+      "path": "projects/niolearn/niolearn-46/edit-plan.json",
+      "bytes": 344,
+      "sha256": "8cfdd50ecb5ad74b56816d8d789a7272274111083a577428660c5eb34bb3b52f"
+    },
+    {
+      "path": "projects/niolearn/niolearn-46/script.md",
+      "bytes": 2339,
+      "sha256": "ca761a65ec78afa5d6fb4bc6104d3da562b2cd172cea7b02064e40ecd50e93e5"
+    },
+    {
+      "path": "projects/niolearn/niolearn-47/edit-plan.json",
+      "bytes": 348,
+      "sha256": "c2abd59e010c14e20936e7efa307193d74b7482b754a65bdea3931e7588ab90d"
+    },
+    {
+      "path": "projects/niolearn/niolearn-47/script.md",
+      "bytes": 1527,
+      "sha256": "95c98ec6d5407968ad9a765b6004b8f7b95f67e63b8e4dbebdd99b2e8ec8124c"
+    },
+    {
+      "path": "projects/niolearn/niolearn-48/edit-plan.json",
+      "bytes": 348,
+      "sha256": "94101a746e7d8459f553c35896c588fb33b5fc2d5caa1077ed83a81bd3a7b2b4"
+    },
+    {
+      "path": "projects/niolearn/niolearn-48/script.md",
+      "bytes": 1499,
+      "sha256": "416e77ffe859521738c4d0ef3620167c699a5395d86b107f353f17fc0a750643"
+    },
+    {
+      "path": "projects/niolearn/niolearn-49/edit-plan.json",
+      "bytes": 344,
+      "sha256": "1b10746b933684c311ad3a97ce2a72feee2b090f787d05d9476747d6cecfbe09"
+    },
+    {
+      "path": "projects/niolearn/niolearn-49/script.md",
+      "bytes": 2003,
+      "sha256": "8c10f2cb8bba548227a1821c638cd98f3fb6cc5ca6c0645c88f77e2695e7481b"
+    },
+    {
+      "path": "projects/niolearn/niolearn-50/edit-plan.json",
+      "bytes": 344,
+      "sha256": "0a12b612e3c22fba857f6a638fdbc554a3c71cd363bd6456565187155284b6d3"
+    },
+    {
+      "path": "projects/niolearn/niolearn-50/script.md",
+      "bytes": 1706,
+      "sha256": "17d7360d3d934b349e893f0bdfe5a02d5737f82c338f47a7e25376e35af7d6a2"
+    },
+    {
+      "path": "projects/niolearn/niolearn-51/edit-plan.json",
+      "bytes": 348,
+      "sha256": "f3627bcee511cd5171c3ce920e0d93b9eb2a22d5470db87873e7f87123e081f8"
+    },
+    {
+      "path": "projects/niolearn/niolearn-51/script.md",
+      "bytes": 1381,
+      "sha256": "818ca9b063c680a6fa59482e991a1ed66fe452ad0c5d20abfd7fde059c882b4d"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-admissions/analysis/IMG_5990-medium-en.json",
+      "bytes": 13382,
+      "sha256": "a136ec677bd07f98544187ea918905c67e411f2b21b7b39a33f5a6e4d361394f"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-admissions/analysis/alpha-all-frames.json",
+      "bytes": 158,
+      "sha256": "db78f04103219e0c0fb9c4d25d17c308a2794b0a770a58757ab66dce49c689ce"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-admissions/analysis/alpha-check.json",
+      "bytes": 196,
+      "sha256": "d6fba37beb2458a5b85a1c4f2c9fb310433db9f6d6c45716edafd14450e03081"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-admissions/analysis/edited-dialogue-medium-check.json",
+      "bytes": 1057,
+      "sha256": "a43127af72ca6ecfbb064a7b36ebc7b029bc14d97d6b2726b53211bf5f0a38ad"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-admissions/analysis/encoded-evidence/captions/encoded-caption-check.json",
+      "bytes": 8873,
+      "sha256": "41528e3ecc5f2df57380de56ea461698096a7b4af09e2736f243df0995d7fdaa"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-admissions/analysis/encoded-evidence/finish/finish-measurements.json",
+      "bytes": 369,
+      "sha256": "4ab4db3ffa66598ac4c720da4b406a99530901e9d1e185f8b18fc30a6fac7ad6"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-admissions/analysis/encoded-evidence/tile-scan/tile-scan.json",
+      "bytes": 2245,
+      "sha256": "e02b401e85f5daeea5b7626b0f49b62a83c4e6de2c413768327ebf5893c6ad6d"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-admissions/analysis/final-qa.json",
+      "bytes": 1268,
+      "sha256": "ee673ee9064e058bc15d7636ed6de74d9c6aeb3de1d461eb89c83495b6e9a7b2"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-admissions/analysis/motion-review.json",
+      "bytes": 3108,
+      "sha256": "24376866f6ffdc28dc82f8dd0945e3847d7988a726b992b2e7f70991ba9703ff"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-admissions/analysis/pre-tail-padding-dialogue-check.json",
+      "bytes": 1061,
+      "sha256": "f5b332d722cdba3fbfaa12ecf6d0cc1abf59d1e4cb28ba90a810bbeead62967a"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-admissions/analysis/source-review.json",
+      "bytes": 748,
+      "sha256": "5041426ddf47ffd6c02714c15c23ee7abf659c0cd09fd185b25a34d08dc1ec9e"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-admissions/assets-provenance.json",
+      "bytes": 889,
+      "sha256": "d510d03dc0736de06e60437740a744b3b31e078e1639abe3cec3dda127e8b483"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-admissions/captions-pages.json",
+      "bytes": 11799,
+      "sha256": "aea5c6d80b3ef7d9091f95b583cb570f6e8241fca85cd2687b4a48fec2108fff"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-admissions/captions-words.json",
+      "bytes": 22054,
+      "sha256": "6dfe88145aa667100179c6b8f6a4ba442dd2f36c83f81062aff792b1371a9d50"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-admissions/colour-grade.json",
+      "bytes": 153,
+      "sha256": "40842e8192bb9b1ee17ea784fc7bc210abb5fc8e796dbc32e175b314615737b7"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-admissions/cut-list.json",
+      "bytes": 2826,
+      "sha256": "a9b201641d3a81aebfa95f033c75e03afaed460b6647c62cc86d41c095dcf60b"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-admissions/cut-smoothing.json",
+      "bytes": 455,
+      "sha256": "acde95f588b16905277b5637e93e596b1cc8b2c50368df278bb621a11feeabe3"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-admissions/edit-brief.md",
+      "bytes": 697,
+      "sha256": "ca1f7bcfd2b4bc847d70283e6cbe60382e0e9c9ce223e57b0fd2d07b4ee9e729"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-admissions/edit-plan.json",
+      "bytes": 2681,
+      "sha256": "38389c34acdaf6d60504e950256a9d1927e8979fb573e778e2be06845c32e757"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-admissions/editorial.json",
+      "bytes": 2236,
+      "sha256": "7e848df52bed788daed93fdf0b48331dd42f7a4c48dede65e06d8205dc10441e"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-admissions/production-plan.md",
+      "bytes": 1129,
+      "sha256": "fa20afdf5a50e1fd09a5cf5f2f712b4588ca2634d5349cda324ba6928ddbaece"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-admissions/reel.json",
+      "bytes": 14722,
+      "sha256": "c01420b740f73fc96b0eb1e549bdf728c91d3a02601fe5d033ca0f2dcde49d64"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-admissions/script.md",
+      "bytes": 661,
+      "sha256": "2b0882605d75aaf79964dfc36537e4c66f50e278a4c47a71da4e4ff8e0042f02"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-admissions/source-words.json",
+      "bytes": 8735,
+      "sha256": "143d6d232483e5b18b5b0d2e0ddbd44b4b19cc1678a9e72310a87f34e2ea3774"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-admissions/transcripts-draft/IMG_5990.json",
+      "bytes": 14513,
+      "sha256": "4c8244cdaea0aaf53e8dac6c67f4b3cf147fd7f1dff0aefb94aaf507f9db2423"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-admissions/transcripts-draft/IMG_5990.txt",
+      "bytes": 683,
+      "sha256": "fa2c02e97606293748ef29179d538099ef9f55fad2eee8381f36af31da17655a"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-brand-intro/analysis/IMG_5974-medium-en.json",
+      "bytes": 8219,
+      "sha256": "3ed26aa2f1a77ddccc463f788959aac78bb727270e558dbed8012d00471671d4"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-brand-intro/analysis/IMG_5976-medium-en.json",
+      "bytes": 2391,
+      "sha256": "cba1b417626ec2db4192a294c123118151a6209eeba036e53900dd42c6aa4927"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-brand-intro/analysis/IMG_5978-medium-en.json",
+      "bytes": 8018,
+      "sha256": "fce3c969e2c3b0f88c0b61609dd19e573c1f7e4d12af0e0a590e7922a91e67e9"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-brand-intro/analysis/alpha-all-frames.json",
+      "bytes": 159,
+      "sha256": "a134dfad8a5926a03f008e43394642e94c560f92f42de3b6f17f94da1c9c20fd"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-brand-intro/analysis/alpha-check.json",
+      "bytes": 197,
+      "sha256": "42e7284457e42a9e92371d79038e5159dc9b66e340eeec5597583910156529a4"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-brand-intro/analysis/edited-dialogue-medium-check.json",
+      "bytes": 1637,
+      "sha256": "7175e70fe24cf0f3c3f718590d5ed59384eb939bbf5e9a4189fe2cd08ebcdc9d"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-brand-intro/analysis/encoded-evidence/captions/encoded-caption-check.json",
+      "bytes": 12256,
+      "sha256": "b95a9be60410ee66814f85e13b169b795e7ab6f18de48c64d7aff0f81ad6097a"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-brand-intro/analysis/encoded-evidence/finish/finish-measurements.json",
+      "bytes": 374,
+      "sha256": "1652075c54d1be435393564a8c82c5611a887f937ca53fe1164a66a79ca09177"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-brand-intro/analysis/encoded-evidence/tile-scan/tile-scan.json",
+      "bytes": 2244,
+      "sha256": "f9be77f6eb9cedda11eeccf57cd484bea544aae1236e4b61ad22eb6f63f4634d"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-brand-intro/analysis/final-qa.json",
+      "bytes": 1282,
+      "sha256": "803a7b96f5860cccadd79e4a80033bf462deb0d6c0ce63c462ce492ea38787ee"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-brand-intro/analysis/motion-review.json",
+      "bytes": 4372,
+      "sha256": "a257ace1f42fd1370fa2f69476d2f4ac933fa0b096c1d56bb63fd84087392833"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-brand-intro/analysis/source-review.json",
+      "bytes": 694,
+      "sha256": "223d90ade841be2724fa00358a337f728cdfe79c83f9542d3996058dd052f599"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-brand-intro/assets-provenance.json",
+      "bytes": 642,
+      "sha256": "8ab9104b70b87b79ecb2226f5dec74a7608fe878fa3405c26e3993a44e4cb433"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-brand-intro/captions-pages.json",
+      "bytes": 19225,
+      "sha256": "2d408157ed42a61c61777678bf2edfc08d2e242397625f90312ca6597cbbda57"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-brand-intro/captions-words.json",
+      "bytes": 34646,
+      "sha256": "49b71043b203f41c0029f594da1abc4ef35360932e3e74d980bdf77195e22307"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-brand-intro/colour-grade.json",
+      "bytes": 153,
+      "sha256": "40842e8192bb9b1ee17ea784fc7bc210abb5fc8e796dbc32e175b314615737b7"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-brand-intro/cut-list.json",
+      "bytes": 5508,
+      "sha256": "1362ceabc874bda0492035fe6203479b785e4de50cc388e828d46ec33b00b8f4"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-brand-intro/cut-smoothing.json",
+      "bytes": 1263,
+      "sha256": "8a2947fc58f8a3103c17aedb37643958a647e245fea0735a97ce91122e0f0aec"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-brand-intro/edit-brief.md",
+      "bytes": 841,
+      "sha256": "44c2d64906f57a1528bcc09bcc4c75336dc7e35a5789280a48db210179857616"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-brand-intro/edit-plan.json",
+      "bytes": 4727,
+      "sha256": "23c581a65ec2b7f90be4a0b469aa9d4c31720429e9df3b548243a4f3f47886dc"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-brand-intro/editorial.json",
+      "bytes": 3055,
+      "sha256": "60f8a66b456b6551559fe161482c3f8c8654686be5d454ab51622e7292ad4361"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-brand-intro/production-plan.md",
+      "bytes": 907,
+      "sha256": "558697922b274754e9b3ad768337ecc327782c32e07c1de6b093dd5708bd3573"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-brand-intro/reel.json",
+      "bytes": 24689,
+      "sha256": "dca4eb5d36ea1583c6fa274eb65c365f83f88927ef7cb2e426852ad93f6e67e5"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-brand-intro/script.md",
+      "bytes": 852,
+      "sha256": "77b25a4cf16a3e5ff5e0cbaad968f4206a99f03732cd77dbf01b7ba2768547a3"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-brand-intro/source-words.json",
+      "bytes": 13509,
+      "sha256": "1ec69c31d7fe5dec07b06689387eccc1dc6a84c64bfd08d0704837e26d847875"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-brand-intro/transcripts-draft/IMG_5974.json",
+      "bytes": 9046,
+      "sha256": "a9bbf91d72d953fdda907069fa7ec4a304b906205fa9f59b3cba00f1fc03c4d4"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-brand-intro/transcripts-draft/IMG_5974.txt",
+      "bytes": 407,
+      "sha256": "5e312e490b82756fffa813534548aada31ced89c733595ec1bc92af5f039c064"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-brand-intro/transcripts-draft/IMG_5976.json",
+      "bytes": 2868,
+      "sha256": "2a9d8306327365de5166ff06162280782b548389a174b967eadfda67b92fa76e"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-brand-intro/transcripts-draft/IMG_5976.txt",
+      "bytes": 126,
+      "sha256": "9ecef374662b42e0b8c193b8ad9520f0a4c461b821e950bd884407cbca0d5ab6"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-brand-intro/transcripts-draft/IMG_5978.json",
+      "bytes": 9236,
+      "sha256": "bbd73cdc417ef0f4f96c5a3c42949bf4aa93905c319a3cb1ddd8dcbdfd484c2d"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-brand-intro/transcripts-draft/IMG_5978.txt",
+      "bytes": 480,
+      "sha256": "cf5851edea55b896297cecd71d4b3b57fdda6816c8479c2f8a61f3e848e27f2c"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-early-access/analysis/IMG_5980-medium-en.json",
+      "bytes": 8143,
+      "sha256": "b58f831566095b6bd7358cb5d51a860dd645bca5a940a572a52e3f614e8da3cd"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-early-access/analysis/IMG_5987-medium-en.json",
+      "bytes": 4860,
+      "sha256": "b540cdae968e86ead27331a193d5dbd939191ed5d015678ac8e59fe06fe90af4"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-early-access/analysis/alpha-all-frames.json",
+      "bytes": 318,
+      "sha256": "64fb5502312e7a2de7d88480b4cdef23f24f0a07ebbf301e272b54d6aeee782a"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-early-access/analysis/alpha-check.json",
+      "bytes": 394,
+      "sha256": "2c5647bf3a1227b1de3b245c6973daca1e14cb8394bcc8ae22d1f135cffd9df6"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-early-access/analysis/edited-dialogue-medium-check.json",
+      "bytes": 1280,
+      "sha256": "70806e57d66c590b5b07e0ae9a0b95b0beadbe6e64a6f0dafbbbfecfea49d276"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-early-access/analysis/encoded-evidence/captions/encoded-caption-check.json",
+      "bytes": 8963,
+      "sha256": "eb6fa18178abf16db49ddef01370075e6eb2294564427a6a8fb57d75cf63359f"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-early-access/analysis/encoded-evidence/finish/finish-measurements.json",
+      "bytes": 367,
+      "sha256": "24008b99af2c206dc1477936e0257a2a4248b3e86aae4f81b4f4eb1b4a3f79f3"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-early-access/analysis/encoded-evidence/tile-scan/tile-scan.json",
+      "bytes": 2229,
+      "sha256": "71be4b445ad736e69e8476d5002458e8c94fd13d13ffa0bb57b795a8f3912a85"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-early-access/analysis/final-qa.json",
+      "bytes": 1276,
+      "sha256": "20e9251bb7f2a605d8d3c945916fba294e30586d5349fc8bc54e570135e8cce2"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-early-access/analysis/motion-review.json",
+      "bytes": 4776,
+      "sha256": "37a181a846842fe8a4def2a5d4dd068dc5d0912598ba84662a92f143474584ed"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-early-access/analysis/source-review.json",
+      "bytes": 768,
+      "sha256": "1e8a7c2a483ad09d35093311377389abb9247449a2e4b47ec6d7364cc6969ae4"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-early-access/assets-provenance.json",
+      "bytes": 877,
+      "sha256": "df9567cd1973a761e4ee3f8c14c790eab4adf0c32b9a217ea7bdaafadb0a8860"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-early-access/captions-pages.json",
+      "bytes": 12455,
+      "sha256": "13daec58ff99ace6d3f22d89c790d5b6a58050fabca51b5c19ac9440e5a25b71"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-early-access/captions-words.json",
+      "bytes": 23541,
+      "sha256": "3ae9b9da01113682a17eaf1aad886ce91bb0a4df9143055f66611c093f771485"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-early-access/colour-grade.json",
+      "bytes": 153,
+      "sha256": "40842e8192bb9b1ee17ea784fc7bc210abb5fc8e796dbc32e175b314615737b7"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-early-access/cut-list.json",
+      "bytes": 2994,
+      "sha256": "c328bfb999a13df558b3e8ee9ec02cdb2c0d91d60477b2cea90a5ff7a8b7c81d"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-early-access/cut-smoothing.json",
+      "bytes": 348,
+      "sha256": "e5d2253759b8a6148ebe829d2e0cff8ee402cbf7e66e4514384c71ef739a3a3e"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-early-access/edit-brief.md",
+      "bytes": 710,
+      "sha256": "8dfb6be2bad6e0065aaf8ee81936ed05ec3e6fa56fbbc2ca97bd61fd2f187095"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-early-access/edit-plan.json",
+      "bytes": 3475,
+      "sha256": "dbc7340e8fe7296eaef6862f13eaa3ab9b2a9f03609f406f8d97b40b216d3c4e"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-early-access/editorial.json",
+      "bytes": 2451,
+      "sha256": "332dd5de45b65d0d418f26d03fec70f29cfe9641095028024d5c3c5de941fb0f"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-early-access/production-plan.md",
+      "bytes": 1001,
+      "sha256": "914d7cdb2f5ca2ee4c4366c55e152ef4c1c4a414c779723d15a056da2d8b8ed8"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-early-access/reel.json",
+      "bytes": 15672,
+      "sha256": "54857275fae7642c934c541b1d7ffc987df3e26f95243c4f3d47fb81aab752be"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-early-access/script.md",
+      "bytes": 653,
+      "sha256": "56680620ab333001536a0e9bf4709a28a762843c80300f5b74c582a500ea161e"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-early-access/source-words.json",
+      "bytes": 9187,
+      "sha256": "26eec14478f056f8e222cab40d5b0621777b8a7f5ef75e8b9b5eb46f92ac19f4"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-early-access/transcripts-draft/IMG_5980.json",
+      "bytes": 9154,
+      "sha256": "5acbd859c347a698e93428ce743db66542d838cbb469e2df95f22a739660f3da"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-early-access/transcripts-draft/IMG_5980.txt",
+      "bytes": 459,
+      "sha256": "35a73e8ecb7e43e64d508703565c35f5bb0a73a8d89aae23ca37c16fafe3d82e"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-early-access/transcripts-draft/IMG_5987.json",
+      "bytes": 5601,
+      "sha256": "da4d374a6596012bbebbd58f335fae81eeabc355c8a9ff2c1b0c95123a47332f"
+    },
+    {
+      "path": "projects/niolearn/niolearn-recorded-early-access/transcripts-draft/IMG_5987.txt",
+      "bytes": 267,
+      "sha256": "8829cc24458c949cb5a9fba3cd55bc595d51b9dbe0e40aacfe26cf33b897c8fc"
+    },
+    {
+      "path": "public/assets/brands/atfro/original-wordmark.png",
+      "bytes": 231188,
+      "sha256": "bd05a417179be028cca643ae77a851e0fa1557709176c5e3c85b9306ddab8778"
+    },
+    {
+      "path": "public/assets/brands/niolearn/original-mark.png",
+      "bytes": 349704,
+      "sha256": "a8ef6c23b386c41dccd0224f408040af9693611ad85bc790687202c6da478b72"
+    },
+    {
+      "path": "public/assets/broll/atfro-compare.webm",
+      "bytes": 458105,
+      "sha256": "99bdb06e0b660500677a45c8cce8fe48d72f1ddece9cc026d4f2c707243d0d6a"
+    },
+    {
+      "path": "public/assets/broll/atfro-countdown.webm",
+      "bytes": 160195,
+      "sha256": "50f22e9f836b86ff6537abe632f6194e09e27eb8189b504c357c66efeedec669"
+    },
+    {
+      "path": "public/assets/broll/atfro-crowd.webm",
+      "bytes": 1481896,
+      "sha256": "4318e929d46bbb684508adce54bd1e24aa61ad732a118ff83f724beb91748e8c"
+    },
+    {
+      "path": "public/assets/broll/atfro-lead-flow.webm",
+      "bytes": 816153,
+      "sha256": "57b01b6501202d434fe7a0c6e1e36ed52ec1f2260c23dbd45428c532fadf0a1f"
+    },
+    {
+      "path": "public/assets/broll/atfro-pathways.webm",
+      "bytes": 562728,
+      "sha256": "74fa3e8a6ff6061bbb8e94e39ab707659b06c7927378fd823acce350f5d9086d"
+    },
+    {
+      "path": "public/assets/broll/atfro-premium-paper-crowd-v3.webm",
+      "bytes": 4602848,
+      "sha256": "34cba7351fcf996ef2cba2f11adc8f383b7e285549e7b8fd7de725f9cf403571"
+    },
+    {
+      "path": "public/assets/broll/atfro-premium-paper-partnership-v3.webm",
+      "bytes": 2606846,
+      "sha256": "67a90691808bc0b7e45ac6bf5fc3e0011200db927914fe5b161a55d4739986a2"
+    },
+    {
+      "path": "public/assets/broll/atfro-premium-paper-pathways-v3.webm",
+      "bytes": 1554459,
+      "sha256": "09adaed34864613636f4091fa0dfce85b240963ec4a71f810ed15d3dcc81d3d9"
+    },
+    {
+      "path": "public/assets/broll/atfro-premium-paper-possibilities-v3.webm",
+      "bytes": 1914063,
+      "sha256": "62471ae31a5ea5d74fdfac758747a679db1dcb7e96312c13206f68d5ee09b6ea"
+    },
+    {
+      "path": "public/assets/broll/atfro-timeline.webm",
+      "bytes": 177279,
+      "sha256": "0435913ac8e3a0a92f1be8ddf7a64dcd5d6f30ba07c6cdd570a0cb530b693581"
+    },
+    {
+      "path": "public/assets/broll/niolearn-compare.webm",
+      "bytes": 396547,
+      "sha256": "22cc25deed0302612a7cfd2bc7aabf2ad32407a7df7bb0aa60f165f6bf1e8466"
+    },
+    {
+      "path": "public/assets/broll/niolearn-countdown.webm",
+      "bytes": 200070,
+      "sha256": "b1ac45109ad56d18b9d8950e996de7fefca923cf891709d03a06ac0f8d7b20a6"
+    },
+    {
+      "path": "public/assets/broll/niolearn-crowd.webm",
+      "bytes": 1209275,
+      "sha256": "4029b3a7860efca2fa67fe2c19ac8c38d28ad8db1561c5dbf5b4282568ece9f1"
+    },
+    {
+      "path": "public/assets/broll/niolearn-lead-flow.webm",
+      "bytes": 414176,
+      "sha256": "c37c19e90660380658fc947b618f510d3639ebeced2823515a6585164d7f93f0"
+    },
+    {
+      "path": "public/assets/broll/niolearn-pathways.webm",
+      "bytes": 309555,
+      "sha256": "4a5c095a8c9593fded20311b163dd5df908899d7daa4339cb0042c17b11512a6"
+    },
+    {
+      "path": "public/assets/broll/niolearn-premium-paper-crowd-v3.webm",
+      "bytes": 5230041,
+      "sha256": "24c2b9d3505936fa9703f26f15b8befa3639a687971c00714dfd35ba5f35fad2"
+    },
+    {
+      "path": "public/assets/broll/niolearn-premium-paper-partnership-v3.webm",
+      "bytes": 2723400,
+      "sha256": "6cc98235c05e90ebcc52320710665640b9d0e6d0657aa6692cf28826f0e718fc"
+    },
+    {
+      "path": "public/assets/broll/niolearn-premium-paper-pathways-v3.webm",
+      "bytes": 1568439,
+      "sha256": "e5a1bc4f133049c074a014a15d2f3b6d345803b4d49644d70287bc345388cbc7"
+    },
+    {
+      "path": "public/assets/broll/niolearn-premium-paper-possibilities-v3.webm",
+      "bytes": 1965148,
+      "sha256": "c9ceee9e5725db041ef84add800af297d73d3de4849cb83c673441361dbddfa7"
+    },
+    {
+      "path": "public/assets/broll/niolearn-timeline.webm",
+      "bytes": 174768,
+      "sha256": "54a8b7297fb12e4594291619a195dc69cb805803a18a83232884b4cfe1e3d897"
+    },
+    {
+      "path": "public/assets/elements/arrow-forward-lime.svg",
+      "bytes": 209,
+      "sha256": "a79c206efcaed54440008c18c6f73a22400f1aa69c8fb43114e4e8f380491a02"
+    },
+    {
+      "path": "public/assets/elements/arrow-forward-teal.svg",
+      "bytes": 209,
+      "sha256": "6f4101895aa62da7bd931ead5ba4a6963ad8f54f2e57a8b14981ac381fe6986b"
+    },
+    {
+      "path": "public/assets/elements/arrow-forward-white.svg",
+      "bytes": 209,
+      "sha256": "5bad3d9540b5d3b56ba601c7acaaeb43d3b5345ff69a0f6f2555caf13e0a4d27"
+    },
+    {
+      "path": "public/assets/elements/book-open-lime.svg",
+      "bytes": 260,
+      "sha256": "e9339242f9705a9f606b3ed71cc712d0fb7a2794a4e4e29a92c08287007bd3d0"
+    },
+    {
+      "path": "public/assets/elements/book-open-teal.svg",
+      "bytes": 260,
+      "sha256": "3c5bbc79fd1151809dbae8189698040ed6e8ea51d26d259e3a05eac72423aaf3"
+    },
+    {
+      "path": "public/assets/elements/book-open-white.svg",
+      "bytes": 260,
+      "sha256": "2cfc9f3efe0747d7ecf08be9940e61af7e30eb071a118e4a17487831cf677238"
+    },
+    {
+      "path": "public/assets/elements/briefcase-lime.svg",
+      "bytes": 279,
+      "sha256": "1184c7c2a19a715e5546fd4a424511a1eb0ef29c8af9a975be7dde02bc7bbb4e"
+    },
+    {
+      "path": "public/assets/elements/briefcase-teal.svg",
+      "bytes": 279,
+      "sha256": "b87e3bdf8bb2a33d0b95d87751a044817a215eb91fc0ed470b126cbed999734d"
+    },
+    {
+      "path": "public/assets/elements/briefcase-white.svg",
+      "bytes": 279,
+      "sha256": "e99225d199281a991ace06996249d1ed7c017b00b9a5a08f648303b634e7d3ff"
+    },
+    {
+      "path": "public/assets/elements/calendar-lime.svg",
+      "bytes": 295,
+      "sha256": "a79a1de97de05e412c078fbf24d60d5619c264e58fbdc9092f042357a2f5e5b0"
+    },
+    {
+      "path": "public/assets/elements/calendar-teal.svg",
+      "bytes": 295,
+      "sha256": "e4442dfb9816f9fa102a33b808caac47e5638064f5d0d7d93e45959dcb8d16ac"
+    },
+    {
+      "path": "public/assets/elements/calendar-white.svg",
+      "bytes": 295,
+      "sha256": "bc6854e8ba5e6af23cb07a0f7dbb50fce92f94242403b1b0e763d8d729f95a83"
+    },
+    {
+      "path": "public/assets/elements/chat-lime.svg",
+      "bytes": 236,
+      "sha256": "53cfbf683b28a4f4452db2e5cd548e6fb700272bb83dd300f5a4a1d8c4caa25a"
+    },
+    {
+      "path": "public/assets/elements/chat-teal.svg",
+      "bytes": 236,
+      "sha256": "f3e089070944e533f906970df1d2b28ef4701b86db13aec6aa2f4ecef6bbfe1e"
+    },
+    {
+      "path": "public/assets/elements/chat-white.svg",
+      "bytes": 236,
+      "sha256": "a41ed93edeb19032cb28c1acbdcadd11feaacdbc3fe46cc184eca736650ae1d2"
+    },
+    {
+      "path": "public/assets/elements/check-ring-lime.svg",
+      "bytes": 231,
+      "sha256": "e4b810461e76301c2f0e9170dad0ed9219394bc6dc2e8f4d8101220d7da73c9e"
+    },
+    {
+      "path": "public/assets/elements/check-ring-teal.svg",
+      "bytes": 231,
+      "sha256": "4cfab4410e647878e8c2eb1026382d8de9c61fba614187196310c4a5547a15c6"
+    },
+    {
+      "path": "public/assets/elements/check-ring-white.svg",
+      "bytes": 231,
+      "sha256": "cfc5128c7d188cc0121d1a289c5ab835f83a1ee0c8a8a42eb3f1cd01f7cca803"
+    },
+    {
+      "path": "public/assets/elements/clock-lime.svg",
+      "bytes": 228,
+      "sha256": "3675bb2a48c93a153ecf0d4aef6e979d5ab80ada29c96f84e638a7d8d767abc9"
+    },
+    {
+      "path": "public/assets/elements/clock-teal.svg",
+      "bytes": 228,
+      "sha256": "ddb8ed6cdf764f8fef459380dc5c54055873d633a8f87a0287b5f58c90fdde19"
+    },
+    {
+      "path": "public/assets/elements/clock-white.svg",
+      "bytes": 228,
+      "sha256": "bc1bc83a0e54d34a294d5913b7dced563871e857882933cb99f1ea59daa41c84"
+    },
+    {
+      "path": "public/assets/elements/compass-route-lime.svg",
+      "bytes": 240,
+      "sha256": "3db32afcbc9635ee0233acd8cfa388c673b0ad680e81c27e1d153a545c730aeb"
+    },
+    {
+      "path": "public/assets/elements/compass-route-teal.svg",
+      "bytes": 240,
+      "sha256": "247ab202eb662897abe9f57e28e0c80279ebaf29ef6431cefcae717322d64a57"
+    },
+    {
+      "path": "public/assets/elements/compass-route-white.svg",
+      "bytes": 240,
+      "sha256": "41730f281de389344d1ef9f8203f843464dbcdae1fb76384a065716f9bb6aeea"
+    },
+    {
+      "path": "public/assets/elements/cursor-lime.svg",
+      "bytes": 218,
+      "sha256": "3af4fd95dcefe27460b60427bff7b5269d1e2723643ac293fc79901f4910cd94"
+    },
+    {
+      "path": "public/assets/elements/cursor-teal.svg",
+      "bytes": 218,
+      "sha256": "b17324c2c2ae4c0be504fb2e4a2fa250dc1b64a052151ca00ff6fefe2a7ee0b0"
+    },
+    {
+      "path": "public/assets/elements/cursor-white.svg",
+      "bytes": 218,
+      "sha256": "64dbe26bf6fa03b0acaad663768b2adfffb6ab17d714834a19e2137353d4e0c8"
+    },
+    {
+      "path": "public/assets/elements/glass-person-lime.png",
+      "bytes": 7376,
+      "sha256": "4b59c60409eddcc9cf645eb016bc9e877befa5e3db3b564e6967f5f0521a3a38"
+    },
+    {
+      "path": "public/assets/elements/glass-person-navy.png",
+      "bytes": 7377,
+      "sha256": "6e78c36f163df559a4f514893920f950fdd192f10112d001bc68ce738eb148fb"
+    },
+    {
+      "path": "public/assets/elements/glass-person-teal.png",
+      "bytes": 7374,
+      "sha256": "b3c681a590256d5e4014462bdc2bff3e9082718bd3fb1701bcfa8f42a264a182"
+    },
+    {
+      "path": "public/assets/elements/glass-person-white.png",
+      "bytes": 7370,
+      "sha256": "086589ecd1cedfc2dbfc0aca0612ba03cb77eaeebeeeb234713e4131cd937d95"
+    },
+    {
+      "path": "public/assets/elements/glow-ring-lime.png",
+      "bytes": 123470,
+      "sha256": "cec8aa89d43ff244ee45dd76564cf30620b52408dc126568352968164b3b450c"
+    },
+    {
+      "path": "public/assets/elements/glow-ring-navy.png",
+      "bytes": 80745,
+      "sha256": "294dbbc14371420903d530d23a9149fcfc09fbd595b43c0cebbc8e6e84196267"
+    },
+    {
+      "path": "public/assets/elements/glow-ring-teal.png",
+      "bytes": 111453,
+      "sha256": "e22f5c6b6a15f3c29c203d0dca48036189e40835770b60a36c71704cef31253c"
+    },
+    {
+      "path": "public/assets/elements/glow-ring-white.png",
+      "bytes": 119478,
+      "sha256": "6f3fd4e1357914f92ec78fcae877f77d4f02436c1cef017d15c27ad15993e856"
+    },
+    {
+      "path": "public/assets/elements/growth-chart-lime.svg",
+      "bytes": 233,
+      "sha256": "42bd779d976a38ce866638016a851cee022c5b0333025e787ffc34a840834246"
+    },
+    {
+      "path": "public/assets/elements/growth-chart-teal.svg",
+      "bytes": 233,
+      "sha256": "3a098a63723dad06e8db950edd1c12acc51a4a9348ba605beade80001465261a"
+    },
+    {
+      "path": "public/assets/elements/growth-chart-white.svg",
+      "bytes": 233,
+      "sha256": "3e1c39fa3557e3a0c6d6f972aa4a19000775c5585fcea6b89f005478a9a12304"
+    },
+    {
+      "path": "public/assets/elements/lightbulb-lime.svg",
+      "bytes": 263,
+      "sha256": "89e71f28a46ffa0caed9f93ff4e84dc3e65f0ed8568d23cb2e835809a51ce3e1"
+    },
+    {
+      "path": "public/assets/elements/lightbulb-teal.svg",
+      "bytes": 263,
+      "sha256": "5baa0244cfcf6482d0056385355df2e9c183818c36c0c27e13dbfb5c8dc55c25"
+    },
+    {
+      "path": "public/assets/elements/lightbulb-white.svg",
+      "bytes": 263,
+      "sha256": "9ddd62ddf2595b5e19de7b57c45d4f0dba341026c34fcc6742d67721be397b1b"
+    },
+    {
+      "path": "public/assets/elements/microphone-lime.svg",
+      "bytes": 285,
+      "sha256": "f2b356c4c141ce6a486e6f22867265e4a7348c1a749e9d82abf5c43dc5f420a6"
+    },
+    {
+      "path": "public/assets/elements/microphone-teal.svg",
+      "bytes": 285,
+      "sha256": "eb7c8deb061de1f2baf675b0b863bac60ec9bd2aed1b09062f5b1754488944ae"
+    },
+    {
+      "path": "public/assets/elements/microphone-white.svg",
+      "bytes": 285,
+      "sha256": "501e59294f389b55b97a4bb88affc8f1e0b3589446a96dce225cb32cc551f270"
+    },
+    {
+      "path": "public/assets/elements/network-lime.svg",
+      "bytes": 404,
+      "sha256": "5e8e114a29f128e5cb420e867ab06414d320cf557c466a882dea6139d639ef43"
+    },
+    {
+      "path": "public/assets/elements/network-teal.svg",
+      "bytes": 404,
+      "sha256": "481c20e0c93b85e7b546757197a5e313bd2e3d37ba6a50e45a11396246f24b6f"
+    },
+    {
+      "path": "public/assets/elements/network-white.svg",
+      "bytes": 404,
+      "sha256": "ae7380cfce5844235d8b659e6aef10bfa6fb266be75dab7f0eb117e8d4e3e072"
+    },
+    {
+      "path": "public/assets/elements/person-lime.svg",
+      "bytes": 242,
+      "sha256": "686e557a3a6724e6ab1d3f6b106642699656fc581f06807d88fa0cf4f5868849"
+    },
+    {
+      "path": "public/assets/elements/person-teal.svg",
+      "bytes": 242,
+      "sha256": "52aa9c41ec36610cf736a47c9524cb9ec85659f572e6246010e52776ff1882d1"
+    },
+    {
+      "path": "public/assets/elements/person-white.svg",
+      "bytes": 242,
+      "sha256": "bd9fb5d3fc653ef963f38654d30cfa5fc11a3168b10855dda110c7ff8579d4b8"
+    },
+    {
+      "path": "public/assets/elements/silhouette-lime.png",
+      "bytes": 5870,
+      "sha256": "0c2a0c2f06648775ba7dc0e23046d9c07f7af3997c69bdb042b6099837dcf9cd"
+    },
+    {
+      "path": "public/assets/elements/silhouette-navy.png",
+      "bytes": 5870,
+      "sha256": "b97b2b182b16a4c96a13a39cd7ec85388e1934738180fcc202f3f9ac34d107d9"
+    },
+    {
+      "path": "public/assets/elements/silhouette-teal.png",
+      "bytes": 5870,
+      "sha256": "09268059a1fc2702a0a099c1451c1d1589af856897d7362ea4b85ce2b53ed3a1"
+    },
+    {
+      "path": "public/assets/elements/silhouette-white.png",
+      "bytes": 5865,
+      "sha256": "0fe920e6d20ee7c387678d2fd5621e48a33f62ab9b91491efcf00d60e19ca3d1"
+    },
+    {
+      "path": "public/assets/elements/soft-shadow-lime.png",
+      "bytes": 16245,
+      "sha256": "a213bce1966fea75c5144c0e3ed91e0d0f22684e115d2bd51d2813521287ec70"
+    },
+    {
+      "path": "public/assets/elements/soft-shadow-navy.png",
+      "bytes": 16245,
+      "sha256": "a213bce1966fea75c5144c0e3ed91e0d0f22684e115d2bd51d2813521287ec70"
+    },
+    {
+      "path": "public/assets/elements/soft-shadow-teal.png",
+      "bytes": 16245,
+      "sha256": "a213bce1966fea75c5144c0e3ed91e0d0f22684e115d2bd51d2813521287ec70"
+    },
+    {
+      "path": "public/assets/elements/soft-shadow-white.png",
+      "bytes": 16245,
+      "sha256": "a213bce1966fea75c5144c0e3ed91e0d0f22684e115d2bd51d2813521287ec70"
+    },
+    {
+      "path": "public/assets/elements/sparkle-lime.svg",
+      "bytes": 231,
+      "sha256": "bf9e596cdf78777c5853ae6e9c8a4af06940d772771470af5f6bbd6e7574279e"
+    },
+    {
+      "path": "public/assets/elements/sparkle-teal.svg",
+      "bytes": 231,
+      "sha256": "82c8860ec2e1e92b849ef628e5c40a3e72e8cd57ac161c274fc96180c470c55a"
+    },
+    {
+      "path": "public/assets/elements/sparkle-white.svg",
+      "bytes": 231,
+      "sha256": "3da9997d9cf386a6ccf70cfe0a692b6770bc7267d11ae78703163eff5639692f"
+    },
+    {
+      "path": "public/assets/elements/website-lime.svg",
+      "bytes": 328,
+      "sha256": "2d6c1f65e04a440c02ba2c77b78524316be1d0258da33dade3402ad5c6b8df80"
+    },
+    {
+      "path": "public/assets/elements/website-teal.svg",
+      "bytes": 328,
+      "sha256": "30f81fe5fbe64d5b78850491e85da57c202b3d99bcdbf64aae50619b94517a39"
+    },
+    {
+      "path": "public/assets/elements/website-white.svg",
+      "bytes": 328,
+      "sha256": "bc3d64b33a241d24792d1336cb5cc9f191be5d1137b20caf3f65d8edec82d5ab"
+    },
+    {
+      "path": "public/assets/fonts/Inter-OFL.txt",
+      "bytes": 4377,
+      "sha256": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57"
+    },
+    {
+      "path": "public/assets/fonts/Inter.ttf",
+      "bytes": 876576,
+      "sha256": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031"
+    },
+    {
+      "path": "public/assets/fonts/Sora-OFL.txt",
+      "bytes": 4385,
+      "sha256": "ba0b9729c9428ba79a0459ab8ec575791b51509dbec213e383d0316d37fec299"
+    },
+    {
+      "path": "public/assets/fonts/Sora.ttf",
+      "bytes": 111400,
+      "sha256": "84ff7096ae3ec6c8be47d906d1a0ba4de7f2ce78c615275c77301964a316e16c"
+    },
+    {
+      "path": "public/assets/music/atfro-01-bed-v6.wav",
+      "bytes": 6048102,
+      "sha256": "eff30aa3290c34261ed695c4a560de00a95326a532a93cf4d5fe9040b54fdd9a"
+    },
+    {
+      "path": "public/assets/music/atfro-01-bed.wav",
+      "bytes": 3072078,
+      "sha256": "33f74ca095f6f1e7c108e88c45a4434fd49474540c9a410c476fc5b81ad492b0"
+    },
+    {
+      "path": "public/assets/music/atfro-04-bed.wav",
+      "bytes": 6033702,
+      "sha256": "1958063efd8dd63c18ff85e9bce55db9c46ef4c00586a150534b91050e03ccc6"
+    },
+    {
+      "path": "public/assets/music/calm-focus.wav",
+      "bytes": 3072044,
+      "sha256": "00ac26fce2dd74b862aa566138886655c06c3e24a0b4247589583c304ecd2bd4"
+    },
+    {
+      "path": "public/assets/music/niolearn-04-bed.wav",
+      "bytes": 7012902,
+      "sha256": "342c993bb2e650782b02f9042e3c5e2cf97e439f66a4ce6cfe1a44fcb99ad4c2"
+    },
+    {
+      "path": "public/assets/music/niolearn-07-bed.wav",
+      "bytes": 6081702,
+      "sha256": "50a3f1757cd357933d46bbd5480e0c8d0984a5b6185f7b37416bae49c6159c3a"
+    },
+    {
+      "path": "public/assets/music/niolearn-09-bed.wav",
+      "bytes": 5481702,
+      "sha256": "9df4b609af861a71026e0b275a888161d1f786a1804e057292e56ee801483772"
+    },
+    {
+      "path": "public/assets/music/niolearn-11-bed.wav",
+      "bytes": 6696102,
+      "sha256": "3f45c8a4202a2153b279adf6d85b5fa70a10932cf6f939ab7ed479cd6d86960c"
+    },
+    {
+      "path": "public/assets/music/niolearn-12-bed.wav",
+      "bytes": 5116902,
+      "sha256": "fab13e062d119d80bd807990317ec1d79d6c00e42f5534c40c98db89f89f0ce0"
+    },
+    {
+      "path": "public/assets/music/niolearn-15-bed.wav",
+      "bytes": 6792102,
+      "sha256": "dea853a7579925667ba424465a9914d88b7c4c760a17a9666d05cd76e2734cc5"
+    },
+    {
+      "path": "public/assets/music/niolearn-16-bed.wav",
+      "bytes": 5251302,
+      "sha256": "808d2ae8294ac525f13ef7c15c065abc4313cf5d2ff53059c091a26e8afb23e5"
+    },
+    {
+      "path": "public/assets/music/niolearn-19-bed.wav",
+      "bytes": 6220902,
+      "sha256": "3a9bf50e69b0a372d36a004b640274dcabd5be97cd2edb866ec6e7ddfc131a9d"
+    },
+    {
+      "path": "public/assets/music/niolearn-20-bed.wav",
+      "bytes": 7118502,
+      "sha256": "1895684718db1e6dd9a54fa3f37e681564a5401d0ee4fb9840bcfde25dbdf04f"
+    },
+    {
+      "path": "public/assets/music/niolearn-recorded-admissions-bed.wav",
+      "bytes": 5092902,
+      "sha256": "b7bc60b4400d7fc551a652ef8040c2506af0a2177b64bb5476371992fe736cb1"
+    },
+    {
+      "path": "public/assets/music/niolearn-recorded-brand-intro-bed.wav",
+      "bytes": 8251302,
+      "sha256": "583d71361b8c9102b3bfe44e6886aad9debedbdde2cfb5e706ab2e5e313a7d44"
+    },
+    {
+      "path": "public/assets/music/niolearn-recorded-early-access-bed.wav",
+      "bytes": 4828902,
+      "sha256": "9a8d6827ade6cd9c53e19da79b89e6f199bd34d5ba5045b012a533e21084acc3"
+    },
+    {
+      "path": "public/assets/music/soft-momentum.wav",
+      "bytes": 3072044,
+      "sha256": "608d2f7f4f260ca56b88f3f98e5ca176049ef2d33a5b72f9f357ae9819028066"
+    },
+    {
+      "path": "public/assets/premium/cutouts/compass.png",
+      "bytes": 1769796,
+      "sha256": "e7d8c5ab714edd35b9e5aa8cf7b493f4c221b57c5008bf41fed5c97c034e6aa2"
+    },
+    {
+      "path": "public/assets/premium/cutouts/editorial-person.png",
+      "bytes": 1585340,
+      "sha256": "ed1728605a8661596d94c7b1b7cfadb4dd40851d525a35470d6f5b61de2bcc59"
+    },
+    {
+      "path": "public/assets/premium/cutouts/handshake.png",
+      "bytes": 1682095,
+      "sha256": "ead56074e4dfc519d2a6453ad8df19f4baa8d37d853b9f775f06b3f1b569e654"
+    },
+    {
+      "path": "public/assets/premium/cutouts/open-book.png",
+      "bytes": 1328209,
+      "sha256": "286e62c02242a446cb98a82b41a56f5a2a09185728aa8f6d01167667dbfc73f9"
+    },
+    {
+      "path": "public/assets/premium/cutouts/paper-student.png",
+      "bytes": 1575412,
+      "sha256": "71d1e2a8a1a7b345619f7716ed3a888c10d9209beafb87b785dcd75d48ee9663"
+    },
+    {
+      "path": "public/assets/premium/textures/grain.svg",
+      "bytes": 258,
+      "sha256": "127003cfd46f7abd76b6b26cd7d81d9898743d882f9029b000798d267213166e"
+    },
+    {
+      "path": "public/assets/projects/atfro-01/atfro-process-v2-props.json",
+      "bytes": 147,
+      "sha256": "9cb2b480cd75538805f54cfdf27d5d4823577cd9b5c15465da467afea8532dd8"
+    },
+    {
+      "path": "public/assets/projects/atfro-01/atfro-process-v2.webm",
+      "bytes": 1225511,
+      "sha256": "630264090afdb94d5c7c315cb21b3fdba92030d57c63835ee8817a6b21a384ec"
+    },
+    {
+      "path": "public/assets/projects/atfro-01/atfro-work-v2-props.json",
+      "bytes": 145,
+      "sha256": "e512af5d6c1a4ba04edd7e6f8dde7fe4c01981d91915f9206f6dc4d578c556d1"
+    },
+    {
+      "path": "public/assets/projects/atfro-01/atfro-work-v2.webm",
+      "bytes": 1230477,
+      "sha256": "6a725bb34e74d09b3b767ec9460319da6d5605539e14b627b153be30ee5d7b80"
+    },
+    {
+      "path": "public/assets/projects/atfro-01/software-window.svg",
+      "bytes": 1096,
+      "sha256": "239331a5463203c530239442dfb7298378320e04f8cfe0b92d552f87db791789"
+    },
+    {
+      "path": "public/assets/projects/atfro-01/stethoscope.png",
+      "bytes": 592755,
+      "sha256": "858230eaa3a218da61b87a94378d2ae3b19ab054b147f08de51c2bca5969fea6"
+    },
+    {
+      "path": "public/assets/projects/atfro-04/atfro-school-film-v1-props.json",
+      "bytes": 76,
+      "sha256": "a4c7e9fe6d44b0cfa5d82d9174cd478f48881dab4c5a48eb1cafc18f01604743"
+    },
+    {
+      "path": "public/assets/projects/atfro-04/atfro-school-film-v1.webm",
+      "bytes": 693818,
+      "sha256": "b22a6669dd8578c59f1b543b6f4a8cce8f62503bea0f07c7dccda30bbf621e2e"
+    },
+    {
+      "path": "public/assets/projects/atfro-04/atfro-school-plan-v1-props.json",
+      "bytes": 76,
+      "sha256": "64cb21505cf54ca98194ec5d203c16001e4cb4a31f0cd70b7f5721c151f3eb1c"
+    },
+    {
+      "path": "public/assets/projects/atfro-04/atfro-school-plan-v1.webm",
+      "bytes": 824548,
+      "sha256": "da8def75ff22ef38af837807faebe04e5358170ec0cebff88c52493e87ccb514"
+    },
+    {
+      "path": "public/assets/projects/atfro-04/atfro-school-workflow-v1-props.json",
+      "bytes": 80,
+      "sha256": "d3ffc44b0a755b8fb8de25dcb6a50000b548e91598a8f9600f3efdbaca9234e4"
+    },
+    {
+      "path": "public/assets/projects/atfro-04/atfro-school-workflow-v1.webm",
+      "bytes": 660461,
+      "sha256": "1e18597cf8a91f103079b0ab48a3ce83f0829744ff8bc6a8218d7d94b7dddba3"
+    },
+    {
+      "path": "public/assets/projects/niolearn-04/campus.png",
+      "bytes": 1711100,
+      "sha256": "31e4b230daf05d0aef1f0cfd60a22b790e99a5d7120763e9ab38faac39569ac5"
+    },
+    {
+      "path": "public/assets/projects/niolearn-04/credential.png",
+      "bytes": 2312166,
+      "sha256": "3ace53830032aec3016584531e4fd4cc66d5767b7ee18a72f4dc07f953134851"
+    },
+    {
+      "path": "public/assets/projects/niolearn-04/nio-parents-authority-v1-props.json",
+      "bytes": 79,
+      "sha256": "172637cf05b733274b473b3d806767e290f242fb496cf6a45910d70c402d69c2"
+    },
+    {
+      "path": "public/assets/projects/niolearn-04/nio-parents-authority-v1.webm",
+      "bytes": 818937,
+      "sha256": "56e021638f2fa006a9b7eb7ff9b43dae764e24720d19aec6b101daca5a37aa56"
+    },
+    {
+      "path": "public/assets/projects/niolearn-04/nio-parents-conversation-v1-props.json",
+      "bytes": 83,
+      "sha256": "10c21849b72440a8a2b2fa881b5a54951f32f238d4e9155e3c52554d92bd96cd"
+    },
+    {
+      "path": "public/assets/projects/niolearn-04/nio-parents-conversation-v1.webm",
+      "bytes": 493259,
+      "sha256": "83868cf021f60be3c4745f7424f49982f241ccc2c6c7caa068f27a0db7069424"
+    },
+    {
+      "path": "public/assets/projects/niolearn-04/nio-parents-credential-v1-props.json",
+      "bytes": 81,
+      "sha256": "52b655fe11de909ac519a1d09654a09f46ac7f4e840d243efbe2d90613abaf6e"
+    },
+    {
+      "path": "public/assets/projects/niolearn-04/nio-parents-credential-v1.webm",
+      "bytes": 1477553,
+      "sha256": "39da350e35adb7fb35bbb3d38e642f3de8960a37cccedf409ca0201850545377"
+    },
+    {
+      "path": "public/assets/projects/niolearn-04/nio-parents-fees-v1-props.json",
+      "bytes": 75,
+      "sha256": "87df46b9381b2f70ad3a6e1e55dd41f58744d43e170c4b17ef844aa6af90d008"
+    },
+    {
+      "path": "public/assets/projects/niolearn-04/nio-parents-fees-v1.webm",
+      "bytes": 365703,
+      "sha256": "80f9b13cacf9d08adafca5c83828eba64e09ddaa7a45c34ecbae9a50966fe734"
+    },
+    {
+      "path": "public/assets/projects/niolearn-04/nio-parents-outcomes-v1-props.json",
+      "bytes": 79,
+      "sha256": "2a29142debc9abcbb5f6cf81e663409b2441557218fb616933c354a9b2d77082"
+    },
+    {
+      "path": "public/assets/projects/niolearn-04/nio-parents-outcomes-v1.webm",
+      "bytes": 315459,
+      "sha256": "8eb1abbccae4ae79cd4b6baf52b32dbf94284108abbc9486a81c09b120f7d7b9"
+    },
+    {
+      "path": "public/assets/projects/niolearn-07/nio-system-diagnostic-v1-props.json",
+      "bytes": 80,
+      "sha256": "0bacfc67fd164f5d3a99addb66c9656d636d230a3e0b17e9be77bcf644108280"
+    },
+    {
+      "path": "public/assets/projects/niolearn-07/nio-system-diagnostic-v1.webm",
+      "bytes": 417074,
+      "sha256": "50d8ba2bbb139524a53ae7770663e9e0e61f4a38e1a4e68fbf0c1ce4575af11b"
+    },
+    {
+      "path": "public/assets/projects/niolearn-07/nio-system-interview-v1-props.json",
+      "bytes": 79,
+      "sha256": "8ac788b12ec33fb4d17feb48a1530b081fdd177532d326b7a97495b9fab6af0e"
+    },
+    {
+      "path": "public/assets/projects/niolearn-07/nio-system-interview-v1.webm",
+      "bytes": 662494,
+      "sha256": "1599041ed77beb84fee7142f03913c344e516a28adcf99faa9abfa60e88b89ea"
+    },
+    {
+      "path": "public/assets/projects/niolearn-07/nio-system-path-v1-props.json",
+      "bytes": 74,
+      "sha256": "23edf4c027862505d1bbdb33540c0f3ce13fbc032c01f41b4091dbea1bec3a62"
+    },
+    {
+      "path": "public/assets/projects/niolearn-07/nio-system-path-v1.webm",
+      "bytes": 435703,
+      "sha256": "e3151dd23e2314f4d069e6aec074223db5258c090a6727adf5c6ec15bead4046"
+    },
+    {
+      "path": "public/assets/projects/niolearn-07/nio-system-prep-v1-props.json",
+      "bytes": 74,
+      "sha256": "824747c8435cf151a06e8a82c4afa30068874a9484efad928fbd46bf05d41b9e"
+    },
+    {
+      "path": "public/assets/projects/niolearn-07/nio-system-prep-v1.webm",
+      "bytes": 443148,
+      "sha256": "82ce8dbc171548aa5916272e2e7f19806c675d94adb6b9c1825dea46e305eda8"
+    },
+    {
+      "path": "public/assets/projects/niolearn-07/nio-system-review-v1-props.json",
+      "bytes": 76,
+      "sha256": "9dcdc410b969cd93097b64fc169c22223f2803332a3b6eb57b7b64d18f4b034f"
+    },
+    {
+      "path": "public/assets/projects/niolearn-07/nio-system-review-v1.webm",
+      "bytes": 430186,
+      "sha256": "a9b2571ccbfeeac571b93ca053204e8ee3876d3f84dca06b1e331d0b3474d9ac"
+    },
+    {
+      "path": "public/assets/projects/niolearn-09/nio-study-choice-v2-props.json",
+      "bytes": 75,
+      "sha256": "6172709f1d4c2925e045d45e12efaf45e9fd449911aef750bca30e728d149b6d"
+    },
+    {
+      "path": "public/assets/projects/niolearn-09/nio-study-choice-v2.webm",
+      "bytes": 580930,
+      "sha256": "6c194ccb73a8700fd5a5b416c3f72bf8918b443f5cd079ca28fa68ad9c547348"
+    },
+    {
+      "path": "public/assets/projects/niolearn-09/nio-study-logic-v2-props.json",
+      "bytes": 74,
+      "sha256": "36eff2adc9c705732b945ec5ce5d520a4cedca195b9c0dcc862461e3ad33eb12"
+    },
+    {
+      "path": "public/assets/projects/niolearn-09/nio-study-logic-v2.webm",
+      "bytes": 1464335,
+      "sha256": "1a6a48aac24fe650f356829599e4a174a9082af9a2e9b6ce753b9c02eb59817a"
+    },
+    {
+      "path": "public/assets/projects/niolearn-12/nio-intro-curiosity-v1-props.json",
+      "bytes": 78,
+      "sha256": "6d76b4bd4875786434dfe4fec73f2e0ccf0ee02b862ac4141a8d15d71c939bf8"
+    },
+    {
+      "path": "public/assets/projects/niolearn-12/nio-intro-curiosity-v1.webm",
+      "bytes": 1261110,
+      "sha256": "e71206b60176d83bb6ff163d15483971c5d79e0ffd646041f0ba7700bbfbb748"
+    },
+    {
+      "path": "public/assets/projects/niolearn-12/nio-intro-problem-v1-props.json",
+      "bytes": 76,
+      "sha256": "08ba8f37942e42666dd46f2afd32a6426c76bf928245876fb266e18440adcd93"
+    },
+    {
+      "path": "public/assets/projects/niolearn-12/nio-intro-problem-v1.webm",
+      "bytes": 1363545,
+      "sha256": "8e09e81b27f43e2cf68973fd60c17f91d21842af818de3dcd3148d31875bd477"
+    },
+    {
+      "path": "public/assets/projects/niolearn-12/nio-intro-project-v1-props.json",
+      "bytes": 76,
+      "sha256": "066a4138c727e884fd3c24d319a027273839d998751d4be7579d9c7363df115f"
+    },
+    {
+      "path": "public/assets/projects/niolearn-12/nio-intro-project-v1.webm",
+      "bytes": 469783,
+      "sha256": "95995be74b6ca7dc00f4dca7c004c861bde1783aff31cd7ea1e858af4bd9f5dc"
+    },
+    {
+      "path": "public/assets/projects/niolearn-15/nio-story-profile-v1-props.json",
+      "bytes": 102,
+      "sha256": "e5b4f4de98f56abdb0e63e74370eeae7e0bbe0fc5938d5bcb4ad74fee28b70a5"
+    },
+    {
+      "path": "public/assets/projects/niolearn-15/nio-story-profile-v1.webm",
+      "bytes": 1179484,
+      "sha256": "836609491bbbd50fc2c2caf944befe457e349b0b07c493424e33f22b3c3a3e34"
+    },
+    {
+      "path": "public/assets/projects/niolearn-16/nio-mock-eliminate-v1-props.json",
+      "bytes": 77,
+      "sha256": "6ac95f68e4a768bfef236710573c0a467af4fb396f8672fe4a8c6951181ac3f7"
+    },
+    {
+      "path": "public/assets/projects/niolearn-16/nio-mock-eliminate-v1.webm",
+      "bytes": 1236243,
+      "sha256": "c47852ba151e8521144b85479d9256eed4a3f702e3a16b06434bd2e4d8a87dca"
+    },
+    {
+      "path": "public/assets/projects/niolearn-16/nio-mock-read-v1-props.json",
+      "bytes": 72,
+      "sha256": "5683c1e2c20e1972b52e6217bab551047b9782875abce38fb3d6aa44795c37f0"
+    },
+    {
+      "path": "public/assets/projects/niolearn-16/nio-mock-read-v1.webm",
+      "bytes": 590860,
+      "sha256": "bc073050f4ba564cda2e1ebe117dc7f3deea948b47ebfd767a7b3a4eb1aa1579"
+    },
+    {
+      "path": "public/assets/projects/niolearn-16/nio-story-mock-v1-props.json",
+      "bytes": 117,
+      "sha256": "6dc44bbf110567b89f6c448084cb372f0c1910a9d68dba9d473006ff7382b1d2"
+    },
+    {
+      "path": "public/assets/projects/niolearn-16/nio-story-mock-v1.webm",
+      "bytes": 3204980,
+      "sha256": "bcccc6f7bd34ecbfc9a6bd40425ab0c6788e51ff2c2409fe940ca75100b3c393"
+    },
+    {
+      "path": "public/assets/projects/niolearn-19/nio-project-attendance-v1-props.json",
+      "bytes": 81,
+      "sha256": "3404c15cf3a16809bf7fac876458a572350218892ff7fe43771dbf58fed5eaa8"
+    },
+    {
+      "path": "public/assets/projects/niolearn-19/nio-project-attendance-v1.webm",
+      "bytes": 1136324,
+      "sha256": "78db2e002fbaa74697a476030f8fd021d0d500f6363de8678c28fe4dfdf36efa"
+    },
+    {
+      "path": "public/assets/projects/niolearn-19/nio-project-phone-v1-props.json",
+      "bytes": 75,
+      "sha256": "9937047cf0205229d8b02cf52c43437d9a56c457db4bff41f4ee0bfdfab45194"
+    },
+    {
+      "path": "public/assets/projects/niolearn-19/nio-project-phone-v1.webm",
+      "bytes": 361568,
+      "sha256": "54c2c274d5e2d85bdcc7a6cfda549ee40fd7aa0cb307ac789eda52257bcf4786"
+    },
+    {
+      "path": "public/assets/projects/niolearn-19/nio-project-structure-v1-props.json",
+      "bytes": 80,
+      "sha256": "7cd6799d95e538588142e986dd3932f796f67b5c7bd74397330e41e5c1f18f98"
+    },
+    {
+      "path": "public/assets/projects/niolearn-19/nio-project-structure-v1.webm",
+      "bytes": 753764,
+      "sha256": "177252f6be193d7df0c1e35f0222112aff5b05d4939efa6ab0d984e8a1893598"
+    },
+    {
+      "path": "public/assets/projects/niolearn-20/nio-compare-board-v1-props.json",
+      "bytes": 76,
+      "sha256": "33d9b65bbaeb7a07cfc7b05a6bb58c66aba1aba61225ab370246ad3509345d04"
+    },
+    {
+      "path": "public/assets/projects/niolearn-20/nio-compare-board-v1.webm",
+      "bytes": 695009,
+      "sha256": "10c15359656d3ab6a7869dc704129887b8b3a0fd3b75c92f7c1927f446da8433"
+    },
+    {
+      "path": "public/assets/projects/niolearn-20/nio-story-comparison-v1-props.json",
+      "bytes": 149,
+      "sha256": "028ce88f5f7edfe69186853b087720a5297ebd24a52bd45a7e9090d5ba0894b6"
+    },
+    {
+      "path": "public/assets/projects/niolearn-20/nio-story-comparison-v1.webm",
+      "bytes": 6801226,
+      "sha256": "b269c3622144297850bb61fc18f946c9a6e8eed8df4c52a538517f21529694ad"
+    },
+    {
+      "path": "public/assets/projects/niolearn-recorded-admissions/nio-brand-services-v1-props.json",
+      "bytes": 270,
+      "sha256": "40084e18bb8619e7914e01777534da669ec129b9360211a895634b0f113b8ab6"
+    },
+    {
+      "path": "public/assets/projects/niolearn-recorded-admissions/nio-brand-services-v1.webm",
+      "bytes": 3558247,
+      "sha256": "eb642ef5b43a1adfc8f6903492ee47b22e41f66b1eef7af588f6a31da0292744"
+    },
+    {
+      "path": "public/assets/projects/niolearn-recorded-brand-intro/nio-brand-services-v1-props.json",
+      "bytes": 279,
+      "sha256": "f24444c58f6abb64343ef8568077a6330b6f4b009468971b144dd1555956e330"
+    },
+    {
+      "path": "public/assets/projects/niolearn-recorded-brand-intro/nio-brand-services-v1.webm",
+      "bytes": 2651713,
+      "sha256": "689350b3446bf5080ea41b23865b11b73fce6b19806d140843c68a4cc5f5eede"
+    },
+    {
+      "path": "public/assets/projects/niolearn-recorded-early-access/nio-access-calendar-v1-props.json",
+      "bytes": 78,
+      "sha256": "90088d1b69330b92b29a2335f765bb4d6b4e8a477cbdd56fb0af8d6aa371dc18"
+    },
+    {
+      "path": "public/assets/projects/niolearn-recorded-early-access/nio-access-calendar-v1.webm",
+      "bytes": 567650,
+      "sha256": "f2400456c358b3f501023c3a85dc3f850ce03eeb128ff71190d222d2d7177ae9"
+    },
+    {
+      "path": "public/assets/projects/niolearn-recorded-early-access/nio-brand-services-v1-props.json",
+      "bytes": 212,
+      "sha256": "dc6a5f9611044c675f0b34911c7d8795a362946f8c13f311837ff64f0c37b68d"
+    },
+    {
+      "path": "public/assets/projects/niolearn-recorded-early-access/nio-brand-services-v1.webm",
+      "bytes": 2558453,
+      "sha256": "6ee00572a0c0dab31ab67480bd799cdde0e3c5129b7c8cd76acb322f9e13840c"
+    },
+    {
+      "path": "public/assets/sfx/caption-pop.wav",
+      "bytes": 11564,
+      "sha256": "7db80ed3db132cfbf30c5fe0938ad3abdd976fa8f68c5ffdda198531aeba2377"
+    },
+    {
+      "path": "public/assets/sfx/low-impact.wav",
+      "bytes": 67244,
+      "sha256": "585bb33a0eec2ca59dc5f25c4d0aa0b7371d54e49c0439bc54a4a86cb11654d6"
+    },
+    {
+      "path": "public/assets/sfx/notification.wav",
+      "bytes": 48044,
+      "sha256": "2054c2dab7456ff421a04df7f7d0103728daceb6f8b04d6410ff19324352a99d"
+    },
+    {
+      "path": "public/assets/sfx/page-turn.wav",
+      "bytes": 28844,
+      "sha256": "191045fa6d7b688a5d6ce7fdda7c84054ca9556e2a53997f36596071a79c10ed"
+    },
+    {
+      "path": "public/assets/sfx/reverse-whoosh.wav",
+      "bytes": 62444,
+      "sha256": "c87ba5a48ba9790ab3c35fb5d47362092446010ee3b70e1d089ab2c402e24ba3"
+    },
+    {
+      "path": "public/assets/sfx/riser.wav",
+      "bytes": 115244,
+      "sha256": "b0784158153a603958f86d79a5a0ddbbeec66d85e00101cf38bb0b7f7aaf2cc2"
+    },
+    {
+      "path": "public/assets/sfx/soft-tick.wav",
+      "bytes": 4844,
+      "sha256": "36f8ee5acd9a2dd3017d8ea99fb27ac73d1d5d8f5e4ac8b353e4c6fef0567f84"
+    },
+    {
+      "path": "public/assets/sfx/soft-whoosh.wav",
+      "bytes": 48044,
+      "sha256": "3b4cbc9c34c1dc16f33488170d61dd99300520132528770628e9eda79659eaaa"
+    },
+    {
+      "path": "public/assets/sfx/sparkle.wav",
+      "bytes": 67244,
+      "sha256": "d6b2cc4755fb8f24b5379bd6cbe0553354b8606cffa951dd0145cb5779f47cb0"
+    },
+    {
+      "path": "public/assets/sfx/transition-air.wav",
+      "bytes": 43244,
+      "sha256": "f541b257d86f2c1ebf4d7ae97198de386ebc8df60489bacc0a620067cf3c5151"
+    },
+    {
+      "path": "public/assets/sfx/ui-click.wav",
+      "bytes": 6764,
+      "sha256": "3452e38ebbf2169ee2121d4c6a0c9610e6c983d3b229b993dc240a483180e3fb"
+    },
+    {
+      "path": "public/assets/sfx/whip.wav",
+      "bytes": 22124,
+      "sha256": "f78b3e94aa563ba1ba77943f6dbe6e47f1a733e175a34bf2bd01b018992bde3d"
+    },
+    {
+      "path": "remotion.config.ts",
+      "bytes": 278,
+      "sha256": "0bfdce2a39e7a43a034823e49deeea6e5a117164c60dd4aadf10b7a072ba8ba5"
+    },
+    {
+      "path": "requirements.lock",
+      "bytes": 398,
+      "sha256": "e52e26cb9c7d72624ae56eb1c3a9cbdba186f9d9c289148c4343cf527772f918"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 50,
+      "sha256": "92c7bf8ee5de97033a9698af6fa2ace2c310f84b5bfb958fa639e8f1dce60d20"
+    },
+    {
+      "path": "scripts/source/atfro-scriptbook.md",
+      "bytes": 55461,
+      "sha256": "996cbd36e3c0543efbe83b87d8c7542efeeb1fe17a90c2a81605dff2519f32f5"
+    },
+    {
+      "path": "scripts/source/niolearn-original.docx",
+      "bytes": 1137806,
+      "sha256": "66b8575c9dbe92a938b101928f5186480ffc41704335b6090e7fc4169e385279"
+    },
+    {
+      "path": "scripts/source/niolearn-scriptbook.md",
+      "bytes": 118953,
+      "sha256": "07af69baead2ff7e14ff4f21df191064cd0371bf86cc47e0b8a25d0cde4d9ece"
+    },
+    {
+      "path": "src/Broll.tsx",
+      "bytes": 6884,
+      "sha256": "64005d00896ff31b9154db13acb374551696dfeaf16a085c79fe11bff23bb91a"
+    },
+    {
+      "path": "src/Captions.tsx",
+      "bytes": 3651,
+      "sha256": "7c5e938921f149b4670e1de6daaf11a53d7055b641e3a258706d0109ee065314"
+    },
+    {
+      "path": "src/Fonts.tsx",
+      "bytes": 658,
+      "sha256": "7e5ef839e6fd76bb6e5f3cdc3baa8310f948c3fac1c057aa675f229b1e9df6c5"
+    },
+    {
+      "path": "src/Reel.tsx",
+      "bytes": 4812,
+      "sha256": "d663e4366774d1554e92e2326b4e852f107ef362453fc6ad130f45d18205c0cb"
+    },
+    {
+      "path": "src/Root.tsx",
+      "bytes": 5486,
+      "sha256": "a0f47050cdf0fbfa12f3beab1cb1612e816bab19aeb39190943fa49e590c1c97"
+    },
+    {
+      "path": "src/StillBlend.tsx",
+      "bytes": 1464,
+      "sha256": "f23460d0207acfcf624a3856b861fec3e52a72a381f4190dfec4259a238d9567"
+    },
+    {
+      "path": "src/StyleLab.tsx",
+      "bytes": 2064,
+      "sha256": "01c755a5a3014409e565f35cecad8a410035768e804e5daecee0caf1aa12b76f"
+    },
+    {
+      "path": "src/Transitions.tsx",
+      "bytes": 1613,
+      "sha256": "8605d9b15a790f806214bff5615a98ef6526d56194f4a3cbffaf58b20455e761"
+    },
+    {
+      "path": "src/brand.ts",
+      "bytes": 710,
+      "sha256": "8f4f48acb2d8f66c53bdf8d33ea1988957bd9dbfd356d8faebc27f5d717e6cb6"
+    },
+    {
+      "path": "src/index.ts",
+      "bytes": 88,
+      "sha256": "2e0e358282a1b998a65387c653b97c2bb2eb7aae94cf200fc0b8d919f7be73a6"
+    },
+    {
+      "path": "src/premium/PaperScene.tsx",
+      "bytes": 9558,
+      "sha256": "fcec1de695554bcab35330a25d01defb9b7d46242a9395653d74cf8982910d1c"
+    },
+    {
+      "path": "src/premium/PaperShowcase.tsx",
+      "bytes": 1168,
+      "sha256": "148c8734141376304615d45fc5427ce5a980fc82fa179aa4e619fc26933062ca"
+    },
+    {
+      "path": "src/projects/Atfro01Broll.tsx",
+      "bytes": 3602,
+      "sha256": "05be6d1daedbac1dcc69d252060f0e57186c74ba0450ee52f4056a26de2d6c09"
+    },
+    {
+      "path": "src/projects/Atfro01Canvas.tsx",
+      "bytes": 4252,
+      "sha256": "ba19c6a71959cf1e21834efcfba595a403617683fc8115c0540b243fd75ec136"
+    },
+    {
+      "path": "src/projects/ComparisonBroll.tsx",
+      "bytes": 5559,
+      "sha256": "3f850d7ffbf31b45b6c60a939a84b8a99085bde3bc4449db39619eb1348f6627"
+    },
+    {
+      "path": "src/projects/Nio04Broll.tsx",
+      "bytes": 7104,
+      "sha256": "20aa09266d0d74a432e55a780b23f1513737b8144bf2b9fa6d424a7d07b88aad"
+    },
+    {
+      "path": "src/projects/Nio07Broll.tsx",
+      "bytes": 8882,
+      "sha256": "6cad035164a2d10ea9829ea85cb2a3a2c21c39de55618a5a93a3eefa7e250f44"
+    },
+    {
+      "path": "src/projects/ProjectBroll.tsx",
+      "bytes": 5160,
+      "sha256": "90e3947cc04cc4728d230cb3f25a9ecdd5f0d237139af73dc537a4cdc2520cd2"
+    },
+    {
+      "path": "src/projects/SchoolBroll.tsx",
+      "bytes": 5450,
+      "sha256": "f227939c77196717983b5b68e3997a33633bd6ff56e9704818ad0fb84bbf2a8e"
+    },
+    {
+      "path": "src/projects/StudyBroll.tsx",
+      "bytes": 10426,
+      "sha256": "f29a301ce8dfccb0a4614c1e115d21bcc03910d5dca9e32cb6dd201c1f368576"
+    },
+    {
+      "path": "src/types.ts",
+      "bytes": 1996,
+      "sha256": "5e9d667f4d908b64c27f940f597e6c1aa69cb74780f30409990103abf4c1fe04"
+    },
+    {
+      "path": "templates/README.md",
+      "bytes": 1803,
+      "sha256": "38e9a7963533651bac6677678b1e2ada32bc47a92137aa283e0589073732fbf9"
+    },
+    {
+      "path": "templates/ai-edit/README.md",
+      "bytes": 1427,
+      "sha256": "7c162a5fd9fb11f85e53594781a12e044fde621c227daaf928e0537fc12d9c34"
+    },
+    {
+      "path": "templates/ai-edit/cut-list.example.json",
+      "bytes": 312,
+      "sha256": "5f84d80c8b2d02574d81d00880953bcd61176ae3c230b914fc3888a1c4ce18f4"
+    },
+    {
+      "path": "templates/ai-edit/source-words.example.json",
+      "bytes": 175,
+      "sha256": "33d1c3503efca1fd036313a39c4fd7d382aff4727fc8f6053d3e20e1736bc542"
+    },
+    {
+      "path": "templates/reviewed-words.example.json",
+      "bytes": 267,
+      "sha256": "2e8614beb7dfbfc0224f7fe308ab7ae155774c94d76525e5e7570815e88c2f80"
+    },
+    {
+      "path": "tests/test_reelctl.py",
+      "bytes": 2593,
+      "sha256": "b2b24a680542e616f613efe4c61e251b6ec70184010fc9ff3e93a9c8d0fc3669"
+    },
+    {
+      "path": "tools/README.md",
+      "bytes": 2049,
+      "sha256": "175e1f3cebf63abc7b58a9d18a5ff4a65570220ca09c96982104c00229fac4cb"
+    },
+    {
+      "path": "tools/analyse_batch_sources.py",
+      "bytes": 1235,
+      "sha256": "f99d7606700f7dfdf0ddbafd6806fa1a49dcffccdc628cd32f3e823bfe0e9587"
+    },
+    {
+      "path": "tools/apply_footage_map.py",
+      "bytes": 11359,
+      "sha256": "7c653f07a365bb1c878ba3dd8f8e90d9d6381bd518055aa9105b8c2c8e919270"
+    },
+    {
+      "path": "tools/assemble_atfro01.py",
+      "bytes": 2000,
+      "sha256": "d8066b2ec3575c9c3522a246763f3e8c35cd91882bacb48ecc3a5557924ac625"
+    },
+    {
+      "path": "tools/assemble_reel.py",
+      "bytes": 2082,
+      "sha256": "5da6f3ee8826584fd700c03417a1573bd47c786af5828c54af89cbbb83bf1f3a"
+    },
+    {
+      "path": "tools/audio_finish.py",
+      "bytes": 1172,
+      "sha256": "a9131722779bfba82ce13411d7fe5165418256678ef8df5359fb3ea7ae156f10"
+    },
+    {
+      "path": "tools/audit_alpha_assets.py",
+      "bytes": 1047,
+      "sha256": "23d97b9daca45b3ca55ef13b8967e9c8c4ec7c1e72cf5b5003ed2ea5f6981999"
+    },
+    {
+      "path": "tools/audit_recorded_batch.py",
+      "bytes": 4410,
+      "sha256": "07fbcdcc88ba1fc7f85ee7f1fb11878153ee1b7ad264f0f35c504af82df99786"
+    },
+    {
+      "path": "tools/bootstrap.sh",
+      "bytes": 1363,
+      "sha256": "da4f9bb9534a437ed796b06857fb1818389f0187f1434901fab8b3f1cc3a1613"
+    },
+    {
+      "path": "tools/build_assets.py",
+      "bytes": 7928,
+      "sha256": "d8c30c05ece8781267d38eb8bcd83821ec9e7a25e6a9de8f9219901ce334dc1a"
+    },
+    {
+      "path": "tools/build_atfro01_timeline.py",
+      "bytes": 6105,
+      "sha256": "aac208ee43466fca6dd8be3dd52ce5397ec1c83cb9e307e072ca11973283009b"
+    },
+    {
+      "path": "tools/build_niolearn04_timeline.py",
+      "bytes": 4376,
+      "sha256": "bb0893a869140a5661243024fd468d35acd8638d91779cbdb87b8833c1fc8967"
+    },
+    {
+      "path": "tools/build_niolearn07_timeline.py",
+      "bytes": 4991,
+      "sha256": "924674bcdf543f9f7d505248e1f5b0889494f3e9f2d604370a56fd54f7ad0efc"
+    },
+    {
+      "path": "tools/build_reviewed_timeline.py",
+      "bytes": 5409,
+      "sha256": "01522c8c81c194cd87213bc1b8a5df3d2bd490b5a5a190adfb37880626afccd2"
+    },
+    {
+      "path": "tools/captions.py",
+      "bytes": 1108,
+      "sha256": "8f8dc9bb2c6bb0c30016ae04cfa24b5d34ba46b29169694d880176b7d4a01a69"
+    },
+    {
+      "path": "tools/catalog.py",
+      "bytes": 2433,
+      "sha256": "32c381e754ba5107232f3720b0bf76a2d4623b75d9160378d466f84a99f56b6e"
+    },
+    {
+      "path": "tools/clean_cache.py",
+      "bytes": 664,
+      "sha256": "b7c5940b9c37a58ee77041a420de1aaef8f357e3a39117d1df252fa1dec1e59d"
+    },
+    {
+      "path": "tools/doctor.py",
+      "bytes": 832,
+      "sha256": "5e8556d4f158741150b78b3b2741df97e6f511073fd2a810411f0a9c9e870832"
+    },
+    {
+      "path": "tools/enrich_plans.py",
+      "bytes": 5513,
+      "sha256": "de309338350da7a3c62215c0baa2678c9d6ca543e40e087f56125613d0b96762"
+    },
+    {
+      "path": "tools/export_atfro01.py",
+      "bytes": 876,
+      "sha256": "2cdc8f475aadca335704ce90c6e64cb6468af1a1a811947649434495fbc1bd85"
+    },
+    {
+      "path": "tools/export_broll.py",
+      "bytes": 991,
+      "sha256": "61e28e7bb5fb34d3fabbe7b91e53d361a12ca30a91c2b6b4990e8d6d1a947b52"
+    },
+    {
+      "path": "tools/export_niolearn04.py",
+      "bytes": 906,
+      "sha256": "180830a8d123c656f1058377b98cccb9f313de35a5f935b369b94e37f4292d84"
+    },
+    {
+      "path": "tools/export_niolearn07.py",
+      "bytes": 868,
+      "sha256": "08ae2d4c496ac0ddb8eca8f78c2b59ce89705f3d6024e3efff7e29b6ea3a8f57"
+    },
+    {
+      "path": "tools/export_premium.py",
+      "bytes": 918,
+      "sha256": "40c8b20197a9f7d5370c3214bb25a7965e80b5b2661e0360ca3f02d92867f9cf"
+    },
+    {
+      "path": "tools/export_reviewed_assets.py",
+      "bytes": 1801,
+      "sha256": "f76fa876b842c3f74010b2c2645d67907f06e22de72f9ca41942f7952576e303"
+    },
+    {
+      "path": "tools/finish_reviewed_reel.sh",
+      "bytes": 862,
+      "sha256": "d99d544869e926c38da06541537dffcb692bcfd673de32c6b64d33843c68d1ac"
+    },
+    {
+      "path": "tools/git_audit.py",
+      "bytes": 1004,
+      "sha256": "c303060e08668fcdd5f67880ba7d5b28d3791669f044f61f43ca51de45e599a9"
+    },
+    {
+      "path": "tools/guide_voice.py",
+      "bytes": 677,
+      "sha256": "e2c103ec45fbbd861a612ffe90eb7bb76bf308447152b71a01671de46673450e"
+    },
+    {
+      "path": "tools/inspect_motion.py",
+      "bytes": 1441,
+      "sha256": "1db71054ee6a9e5d9bd60505da01348798884fc69f9419dd60945d16c8b9af11"
+    },
+    {
+      "path": "tools/inspect_reel_finish.py",
+      "bytes": 2547,
+      "sha256": "c85ba3e6ab6ec72fdf606fdcdd7d209f43b794a73a89866c9e07b3cdcc7c6e3b"
+    },
+    {
+      "path": "tools/link_media.py",
+      "bytes": 429,
+      "sha256": "5fc0666c0aaaab1ab76a1f7ba5226858b2e3decadfee149609736f4869acad7b"
+    },
+    {
+      "path": "tools/organize.py",
+      "bytes": 3371,
+      "sha256": "523b93c7c0caf588c2ff35a8471bcec74353adbaf6f69ae22df0d7f2a59745b4"
+    },
+    {
+      "path": "tools/prepare_atfro01_finish.py",
+      "bytes": 1681,
+      "sha256": "544bbe96039112013cbdff2705870976eda4a3d86c4d3ce6b8dffea80ce915bc"
+    },
+    {
+      "path": "tools/prepare_reel.py",
+      "bytes": 1724,
+      "sha256": "b8e5b49b04fe71c930b698089e3efb6ebabf66fa63b5a99402c299e1b4c02e2f"
+    },
+    {
+      "path": "tools/prepare_reel_finish.py",
+      "bytes": 2171,
+      "sha256": "c13e3109b12e3e49b1e8614f6e329be0275a33d767cbf7c134229626e42df493"
+    },
+    {
+      "path": "tools/proxy.py",
+      "bytes": 1184,
+      "sha256": "0784533322375addd28bdde38b8ae0c36fc3f0791b57bab46e18f2e328a7c9f1"
+    },
+    {
+      "path": "tools/qa_atfro01.py",
+      "bytes": 2054,
+      "sha256": "981b778144b8cfe014221005088f2678f052be80c86a0dca63f585e62f8f6920"
+    },
+    {
+      "path": "tools/qa_reel.py",
+      "bytes": 2317,
+      "sha256": "399f03314421b56670f5f8655f6ae67cf1482be502f4af2b3f98332114b82b91"
+    },
+    {
+      "path": "tools/record_finished_reel.py",
+      "bytes": 4498,
+      "sha256": "6ed47874fc3caab9f9f07dd627e5d72b3f0cf84dea5962efb71e03115cb9cfa4"
+    },
+    {
+      "path": "tools/reelctl.py",
+      "bytes": 13343,
+      "sha256": "42757661d739290b2ec9a9fae922294b124cafafa0aa34a56926c4d66e0318a6"
+    },
+    {
+      "path": "tools/render.mjs",
+      "bytes": 1217,
+      "sha256": "0db6aa890c873fd6106474b4acc43bf36589650d1e0077542f3c8856dd676c19"
+    },
+    {
+      "path": "tools/render_atfro01.sh",
+      "bytes": 713,
+      "sha256": "90919a948016ffae6ef29ac25f836261bccec47afb2f2d61fb444070e2ae5f3e"
+    },
+    {
+      "path": "tools/render_niolearn04.sh",
+      "bytes": 910,
+      "sha256": "d2ed14788c73c690f93c50c9db5aacc5fd899d5a9c581adfb534e5cae9a14e8e"
+    },
+    {
+      "path": "tools/render_niolearn07.sh",
+      "bytes": 1091,
+      "sha256": "38512d286ac4210e073c13200c99b2f03199c0a7f77072a96b1eb0ad842d2fba"
+    },
+    {
+      "path": "tools/render_recorded_queue.py",
+      "bytes": 1322,
+      "sha256": "47140453db369062b20b739cb8f03a79213611310e85cd0018c01e0359f61263"
+    },
+    {
+      "path": "tools/render_reviewed_reel.sh",
+      "bytes": 498,
+      "sha256": "f8a79576ccde9a5f0b889b690a4590250aaff568c4f66159bc96134229818348"
+    },
+    {
+      "path": "tools/scan_reel_frames.py",
+      "bytes": 2775,
+      "sha256": "608544af064796530e826b70e7794486fa9acb1738ac0a8d73ba562376f18d09"
+    },
+    {
+      "path": "tools/transcribe.py",
+      "bytes": 1563,
+      "sha256": "36d7596e33fad716b710cee343da1b72e14b820d367cd78a82eff4de803ec4d7"
+    },
+    {
+      "path": "tools/transcribe_batch.py",
+      "bytes": 1496,
+      "sha256": "06320ef36b156a3b56073fe7c92c5a284f0c9ac05e5b7db45e0025ef1f1520e0"
+    },
+    {
+      "path": "tools/transcribe_reviewed_dialogue.py",
+      "bytes": 1019,
+      "sha256": "5451f8e2dcc38de379deab20723c5fef5f7e994d2abe29015ff4ef950a2a59cc"
+    },
+    {
+      "path": "tools/transition.py",
+      "bytes": 1827,
+      "sha256": "63c1c3f2be8830c8426967488cd89e8d9ffc7a47cb299593efe65c82aea4a47b"
+    },
+    {
+      "path": "tools/validate.py",
+      "bytes": 1823,
+      "sha256": "639097059a2694f68529ae8c90eddf21ea611a01d2fe042dacfa2fae19127e71"
+    },
+    {
+      "path": "tools/verify_backup.py",
+      "bytes": 1029,
+      "sha256": "0be017400f12d52caf6bb7ff0389285db3fab3d5a8590b166893c833153d362a"
+    },
+    {
+      "path": "tsconfig.json",
+      "bytes": 242,
+      "sha256": "b6eacefea7a3aba6e79ee5116642d17afd09df77312972c40a66d7f93da6bd14"
+    }
+  ]
+}

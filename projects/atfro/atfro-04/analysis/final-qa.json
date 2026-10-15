@@ -1,0 +1,32 @@
+{
+  "export": "deliverables/atfro/ATFRO_02_School_Story_v1.mp4",
+  "title": "School_Story",
+  "order": "02",
+  "sha256": "95d98fb2cd1d709feff4935fa7267182658db578ddb12eaec517136be7fa9e9f",
+  "bytes": 23050547,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "frames": 1197,
+  "durationSeconds": 39.9,
+  "dialogueFrames": 1152,
+  "captions": {
+    "words": 104,
+    "groups": 35,
+    "color": "Opt-in lime on camera and dark olive on ivory. One main keyword per phrase; brand/domain always colored.",
+    "visualReview": "Every caption group and encoded transition-boundary contact inspected.",
+    "sourceAlignment": "Reviewed source-language medium word transcript, manually corrected names/English terms and pause overhangs, mapped through exact 30fps source cuts."
+  },
+  "boundaryEvents": 14,
+  "audioLUFS": -14.03,
+  "audioTruePeakDBTP": -1.61,
+  "fullDecode": "passed",
+  "blackFramesDetected": false,
+  "reusableAlphaScenes": 3,
+  "alphaCheck": "analysis/alpha-check.json",
+  "ending": "Original brand logo only on ivory; no additional text.",
+  "status": "awaiting-user-review",
+  "rebuild": "bash tools/render_reviewed_reel.sh projects/atfro/atfro-04 deliverables/atfro/ATFRO_02_School_Story_v1.mp4"
+}

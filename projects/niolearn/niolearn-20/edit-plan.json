@@ -1,0 +1,93 @@
+{
+  "id": "niolearn-20",
+  "brand": "niolearn",
+  "status": "edited-awaiting-user-review",
+  "sourceClips": [
+    "media/raw/niolearn/niolearn-20/IMG_5967.mov",
+    "media/raw/niolearn/niolearn-20/IMG_5971.mov"
+  ],
+  "format": "REEL",
+  "captionPreset": "reference",
+  "broll": [
+    {
+      "kind": "nio-story-comparison",
+      "from": 145,
+      "duration": 860,
+      "fadeFrames": 8,
+      "beats": [
+        78,
+        152,
+        250,
+        359,
+        486,
+        574
+      ]
+    }
+  ],
+  "notes": [
+    "Source script timings are estimates. Match recorded dialogue before final captions.",
+    "Review all fact placeholders before final export.",
+    "Review end against replacement CTA in IMG_5971.",
+    "Replacement ending for IMG_5967, not a separate reel."
+  ],
+  "takes": [
+    {
+      "project": "niolearn-20",
+      "brand": "niolearn",
+      "file": "IMG_5967.mov",
+      "path": "media/raw/niolearn/niolearn-20/IMG_5967.mov",
+      "role": "main",
+      "confidence": "high",
+      "evidence": "Brochures look alike; compare recognition, total fee, selection, curriculum, mentors/exposure and outcomes.",
+      "edit_note": "Review end against replacement CTA in IMG_5971.",
+      "asr_draft": ".cache/transcripts-en/IMG_5967.json"
+    },
+    {
+      "project": "niolearn-20",
+      "brand": "niolearn",
+      "file": "IMG_5971.mov",
+      "path": "media/raw/niolearn/niolearn-20/IMG_5971.mov",
+      "role": "cta-pickup",
+      "confidence": "high",
+      "evidence": "Comment SHEET for college comparison cheat sheet; NioLearn CTA.",
+      "edit_note": "Replacement ending for IMG_5967, not a separate reel.",
+      "asr_draft": ".cache/transcripts-en/IMG_5971.json"
+    }
+  ],
+  "captionBeats": [
+    "Recognition",
+    "Total cost",
+    "Selection",
+    "Curriculum",
+    "Mentors",
+    "Outcomes"
+  ],
+  "suggestedBroll": [
+    {
+      "spokenAnchor": "When comparison criteria are introduced",
+      "composition": "Broll-compare",
+      "asset": "public/assets/broll/niolearn-compare.webm",
+      "timingStatus": "Resolve against edited recording; no frame cue assigned"
+    }
+  ],
+  "soundDirection": {
+    "music": "calm-focus",
+    "voicePriority": true,
+    "sfx": [
+      "soft-whoosh at a major graphic reveal",
+      "soft-tick only for a real timer"
+    ],
+    "avoid": "A sound effect on every caption word"
+  },
+  "creativeNote": "Use a structured checklist. Include IMG_5971 only as a replacement CTA, not a second closing.",
+  "visualDirection": "light-editorial-v3",
+  "preferredPremiumScene": {
+    "composition": "Premium-paper-pathways",
+    "kind": "paper-pathways",
+    "asset": "public/assets/broll/niolearn-premium-paper-pathways-v3.webm",
+    "source": "src/premium/PaperScene.tsx",
+    "note": "Use opaque paper scenes for full B-roll; alpha versions are reusable overlays. Functional first-generation diagrams can be restyled as needed."
+  },
+  "output": "deliverables/niolearn/NIOLEARN_09_School_Comparison_v1.mp4",
+  "finalQA": "analysis/final-qa.json"
+}

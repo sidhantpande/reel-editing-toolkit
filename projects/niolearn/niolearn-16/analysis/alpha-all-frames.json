@@ -1,0 +1,17 @@
+[
+  {
+    "asset": "public/assets/projects/niolearn-16/nio-mock-eliminate-v1.webm",
+    "frames": 205,
+    "unexpectedEmptyFrames": []
+  },
+  {
+    "asset": "public/assets/projects/niolearn-16/nio-mock-read-v1.webm",
+    "frames": 159,
+    "unexpectedEmptyFrames": []
+  },
+  {
+    "asset": "public/assets/projects/niolearn-16/nio-story-mock-v1.webm",
+    "frames": 688,
+    "unexpectedEmptyFrames": []
+  }
+]

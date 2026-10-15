@@ -1,0 +1,468 @@
+{
+  "video": "/Users/sidhant/Desktop/NioLearn-Reels/deliverables/niolearn/NIOLEARN_08_Tell_Me_About_Yourself_v1.mp4",
+  "probe": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "mime_codec_string": "avc1.640028",
+        "width": 1080,
+        "height": 1920,
+        "coded_width": 1080,
+        "coded_height": 1920,
+        "has_b_frames": 2,
+        "pix_fmt": "yuv420p",
+        "level": 40,
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "time_base": "1/90000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 4005000,
+        "duration": "44.500000",
+        "bit_rate": "5165104",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "1335",
+        "extradata_size": 47,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "encoder": "Lavc61.19.100 libx264"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "mime_codec_string": "mp4a.40.2",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "initial_padding": 1024,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 2136048,
+        "duration": "44.501000",
+        "bit_rate": "191086",
+        "nb_frames": "2087",
+        "extradata_size": 5,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler"
+        }
+      }
+    ],
+    "format": {
+      "filename": "deliverables/niolearn/NIOLEARN_08_Tell_Me_About_Yourself_v1.mp4",
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "44.501000",
+      "size": "29844589",
+      "bit_rate": "5365198",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf63.1.102",
+        "comment": "Made with Remotion 4.0.535"
+      }
+    }
+  },
+  "captions": [
+    {
+      "page": 0,
+      "sampleFrame": 30,
+      "expected": "My name is Navneet,",
+      "ocr": "My name is Navneet,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 1,
+      "sampleFrame": 60,
+      "expected": "I am from Pune",
+      "ocr": "lam from Pune",
+      "similarity": 0.909,
+      "review": false
+    },
+    {
+      "page": 2,
+      "sampleFrame": 81,
+      "expected": "and I have scored",
+      "ocr": "=\u2019 \u00a5 \\\\)\nFy and! have scored",
+      "similarity": 0.897,
+      "review": false
+    },
+    {
+      "page": 3,
+      "sampleFrame": 110,
+      "expected": "87 percent.",
+      "ocr": "~ on o AW\nNita \"4 mw W\na S \u201com\n& - .",
+      "similarity": 0.154,
+      "review": true
+    },
+    {
+      "page": 4,
+      "sampleFrame": 164,
+      "expected": "Aur itna bolte hi",
+      "ocr": "Aur itna bolte hi",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 5,
+      "sampleFrame": 199,
+      "expected": "interviewer aapko rokega",
+      "ocr": "interviewer aapko\nrokega",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 6,
+      "sampleFrame": 252,
+      "expected": "bolega bhai interview nahi",
+      "ocr": "bolega bhai interview\nnahi\u2019 ~",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 7,
+      "sampleFrame": 282,
+      "expected": "resume reading hai.",
+      "ocr": "resume reading hai.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 8,
+      "sampleFrame": 327,
+      "expected": "Aapka strong answer",
+      "ocr": "Aapka strong answer",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 9,
+      "sampleFrame": 345,
+      "expected": "teen cheez pe",
+      "ocr": ".._ teen cheez},,2 ic",
+      "similarity": 0.783,
+      "review": false
+    },
+    {
+      "page": 10,
+      "sampleFrame": 366,
+      "expected": "depend karta hai.",
+      "ocr": "depend karta hai.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 11,
+      "sampleFrame": 395,
+      "expected": "Aapki hook,",
+      "ocr": "Aapki hook,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 12,
+      "sampleFrame": 436,
+      "expected": "aapne kya kiya hai,",
+      "ocr": "aapne kya kiya hai,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 13,
+      "sampleFrame": 468,
+      "expected": "aap kyun is college",
+      "ocr": "aap kyun is college",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 14,
+      "sampleFrame": 502,
+      "expected": "ko choose kar rahe ho,",
+      "ocr": "ko choose kar rahe ho,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 15,
+      "sampleFrame": 530,
+      "expected": "aur aapka next goal",
+      "ocr": "aur aapka next goal",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 16,
+      "sampleFrame": 540,
+      "expected": "kya hai.",
+      "ocr": "kya hai.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 17,
+      "sampleFrame": 559,
+      "expected": "You should frame",
+      "ocr": "You should frame",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 18,
+      "sampleFrame": 594,
+      "expected": "your introduction like this,",
+      "ocr": "-your introduction Hike",
+      "similarity": 0.864,
+      "review": false
+    },
+    {
+      "page": 19,
+      "sampleFrame": 648,
+      "expected": "ki, myself Navneet Singh",
+      "ocr": "ki, myself Navneet Singh",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 20,
+      "sampleFrame": 678,
+      "expected": "I worked with",
+      "ocr": "| worked with",
+      "similarity": 0.952,
+      "review": false
+    },
+    {
+      "page": 21,
+      "sampleFrame": 729,
+      "expected": "this project in class 11",
+      "ocr": "this project in class T1",
+      "similarity": 0.95,
+      "review": false
+    },
+    {
+      "page": 22,
+      "sampleFrame": 749,
+      "expected": "and I have solved",
+      "ocr": "and I have solved",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 23,
+      "sampleFrame": 769,
+      "expected": "this problem",
+      "ocr": "this problem",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 24,
+      "sampleFrame": 805,
+      "expected": "and I believe that",
+      "ocr": "and I| believe that",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 25,
+      "sampleFrame": 835,
+      "expected": "this college can",
+      "ocr": "this college can",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 26,
+      "sampleFrame": 881,
+      "expected": "give me that opportunity",
+      "ocr": "give me that\nopportunity",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 27,
+      "sampleFrame": 911,
+      "expected": "and my goal is",
+      "ocr": "and my goal is",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 28,
+      "sampleFrame": 941,
+      "expected": "to make this project.",
+      "ocr": "to make this project.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 29,
+      "sampleFrame": 990,
+      "expected": "Dekha, 10 second mein hi",
+      "ocr": "}Dekha, 10 soca \u2014\n, a a",
+      "similarity": 0.562,
+      "review": true
+    },
+    {
+      "page": 30,
+      "sampleFrame": 1008,
+      "expected": "interviewer ko realise",
+      "ocr": "interviewer ko realise",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 31,
+      "sampleFrame": 1026,
+      "expected": "ho jaayega ki",
+      "ocr": "ho jaayega ki",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 32,
+      "sampleFrame": 1075,
+      "expected": "aapko kya-kya aata hai",
+      "ocr": "aapko kya-kya aata| EL",
+      "similarity": 0.857,
+      "review": false
+    },
+    {
+      "page": 33,
+      "sampleFrame": 1101,
+      "expected": "aur aap kya-kya",
+      "ocr": "aur aap kya-kya",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 34,
+      "sampleFrame": 1121,
+      "expected": "kar sakte ho.",
+      "ocr": "kar sakte ho.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 35,
+      "sampleFrame": 1160,
+      "expected": "Aise aur tips ke liye",
+      "ocr": "Aise aur tips ke liye",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 36,
+      "sampleFrame": 1191,
+      "expected": "follow karein humein",
+      "ocr": "follow karein humein\u2019",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 37,
+      "sampleFrame": 1211,
+      "expected": "aur agar aapko",
+      "ocr": "aur agar aapko",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 38,
+      "sampleFrame": 1234,
+      "expected": "improve karna hai",
+      "ocr": "A - 2 ple \"i; i .\n\n\u00ab_ Improve karna\u2019 =\n\u2018el Urp a ; SR ciecurr |\n\u201c Ps, \u2014",
+      "similarity": 0.549,
+      "review": true
+    },
+    {
+      "page": 39,
+      "sampleFrame": 1259,
+      "expected": "toh please go on",
+      "ocr": "toh please go on",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 40,
+      "sampleFrame": 1288,
+      "expected": "niolearn.com",
+      "ocr": "\u00ab hniolearn.com ,",
+      "similarity": 0.957,
+      "review": false
+    }
+  ]
+}

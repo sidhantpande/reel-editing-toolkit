@@ -1,0 +1,91 @@
+{
+  "id": "niolearn-15",
+  "brand": "niolearn",
+  "status": "edited-awaiting-user-review",
+  "sourceClips": [
+    "media/raw/niolearn/niolearn-15/IMG_5960.mov"
+  ],
+  "format": "REEL",
+  "captionPreset": "reference",
+  "broll": [
+    {
+      "kind": "nio-intro-problem",
+      "duration": 165,
+      "fadeFrames": 8,
+      "from": 222
+    },
+    {
+      "kind": "nio-system-interview",
+      "duration": 175,
+      "fadeFrames": 8,
+      "from": 420
+    },
+    {
+      "kind": "nio-story-profile",
+      "duration": 239,
+      "fadeFrames": 8,
+      "from": 651,
+      "beats": [
+        110
+      ]
+    }
+  ],
+  "notes": [
+    "Source script timings are estimates. Match recorded dialogue before final captions.",
+    "Review all fact placeholders before final export.",
+    "Selection criteria are contextual; keep the spoken verify-each-college qualification."
+  ],
+  "takes": [
+    {
+      "project": "niolearn-15",
+      "brand": "niolearn",
+      "file": "IMG_5960.mov",
+      "path": "media/raw/niolearn/niolearn-15/IMG_5960.mov",
+      "role": "main",
+      "confidence": "high",
+      "evidence": "Marks do not guarantee selection; problem-solving, communication, projects and curiosity.",
+      "edit_note": "Selection criteria are contextual; keep the spoken verify-each-college qualification.",
+      "asr_draft": ".cache/transcripts-en/IMG_5960.json"
+    }
+  ],
+  "captionBeats": [
+    "Beyond marks",
+    "Problem solving",
+    "Communication",
+    "Projects + curiosity"
+  ],
+  "suggestedBroll": [
+    {
+      "spokenAnchor": "When the three qualities are listed",
+      "composition": "Broll-pathways",
+      "asset": "public/assets/broll/niolearn-pathways.webm",
+      "timingStatus": "Resolve against edited recording; no frame cue assigned"
+    },
+    {
+      "spokenAnchor": "At the idea of an individual profile",
+      "composition": "Broll-crowd",
+      "asset": "public/assets/broll/niolearn-crowd.webm",
+      "timingStatus": "Resolve against edited recording; no frame cue assigned"
+    }
+  ],
+  "soundDirection": {
+    "music": "calm-focus",
+    "voicePriority": true,
+    "sfx": [
+      "soft-whoosh at a major graphic reveal",
+      "soft-tick only for a real timer"
+    ],
+    "avoid": "A sound effect on every caption word"
+  },
+  "creativeNote": "Keep the caveat that every college weighs criteria differently. No invented scoring weights.",
+  "visualDirection": "light-editorial-v3",
+  "preferredPremiumScene": {
+    "composition": "Premium-paper-crowd",
+    "kind": "paper-crowd",
+    "asset": "public/assets/broll/niolearn-premium-paper-crowd-v3.webm",
+    "source": "src/premium/PaperScene.tsx",
+    "note": "Use opaque paper scenes for full B-roll; alpha versions are reusable overlays. Functional first-generation diagrams can be restyled as needed."
+  },
+  "output": "deliverables/niolearn/NIOLEARN_05_Beyond_Marks_v1.mp4",
+  "finalQA": "analysis/final-qa.json"
+}

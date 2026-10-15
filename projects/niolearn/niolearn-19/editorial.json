@@ -1,0 +1,101 @@
+{
+  "phrases": [
+    "Maine ek attendance",
+    "app banaya,",
+    "jismein login tha,",
+    "database tha,",
+    "aur buttons the.",
+    "Aur itne bolne pe hi,",
+    "mentor aapko rok ke",
+    "bolega, arre bhai,",
+    "soch kahaan hai?",
+    "Ek better answer",
+    "ka approach hota hai.",
+    "Apna problem batana,",
+    "approach batana,",
+    "decision batana,",
+    "aur outcome batana.",
+    "Agar aap is answer ko",
+    "aise frame karo ki",
+    "Attendance kaagaz pe",
+    "hoti thi jiske kaaran",
+    "15 minute waste",
+    "ho jaata tha,",
+    "isliye maine ek",
+    "app banaya jiske",
+    "through teacher ek",
+    "tap mein attendance",
+    "le sakta hai,",
+    "ab hamaara 5 minute",
+    "bach jaata hai.",
+    "Ab is se sunne",
+    "waale ko bhi",
+    "clarity hai.",
+    "Aur sunne waala",
+    "yeh samajh jaayega",
+    "ki is mein aapki",
+    "soch kahaan lie",
+    "karti hai.",
+    "Aap apne project",
+    "ka answer comments",
+    "mein likhein.",
+    "Aur agar aapko",
+    "improve karna hai",
+    "toh go on niolearn.com"
+  ],
+  "accentWords": [
+    "attendance",
+    "app",
+    "login",
+    "database",
+    "buttons",
+    "mentor",
+    "soch",
+    "better",
+    "answer",
+    "approach",
+    "problem",
+    "decision",
+    "outcome",
+    "frame",
+    "kaagaz",
+    "15",
+    "waste",
+    "teacher",
+    "tap",
+    "5",
+    "clarity",
+    "project",
+    "comments",
+    "improve"
+  ],
+  "broll": [
+    {
+      "kind": "nio-project-phone",
+      "source": "IMG_5963",
+      "start": 3.57,
+      "end": 6.3
+    },
+    {
+      "kind": "nio-project-structure",
+      "source": "IMG_5963",
+      "start": 13.4,
+      "end": 18.8
+    },
+    {
+      "kind": "nio-project-attendance",
+      "source": "IMG_5963",
+      "start": 24.67,
+      "end": 35.83
+    }
+  ],
+  "alphaExports": [
+    "nio-project-phone",
+    "nio-project-structure",
+    "nio-project-attendance"
+  ],
+  "notes": [
+    "New scene implementation is pending registration before rendering; do not render placeholder compositions.",
+    "The spoken example uses 15 and 5 minutes; show them only as quoted speech captions, not verified outcome claims."
+  ]
+}

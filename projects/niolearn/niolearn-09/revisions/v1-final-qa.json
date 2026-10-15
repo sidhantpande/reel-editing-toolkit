@@ -1,0 +1,32 @@
+{
+  "export": "deliverables/niolearn/NIOLEARN_03_Entrance_Mistakes_v1.mp4",
+  "title": "Entrance_Mistakes",
+  "order": "03",
+  "sha256": "7495f64b66775b8ebb9cbb538ead97ede5e8e75bd94763a535909671ba832a02",
+  "bytes": 22701866,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "frames": 1082,
+  "durationSeconds": 36.06666666666667,
+  "dialogueFrames": 1037,
+  "captions": {
+    "words": 106,
+    "groups": 39,
+    "color": "Opt-in bright teal on camera and darker teal on ivory; one main keyword per phrase; brand/domain always colored.",
+    "visualReview": "Every caption group and encoded transition-boundary contact inspected.",
+    "sourceAlignment": "Reviewed source-language medium word transcript, manually corrected names/English terms and pause overhangs, mapped through exact 30fps source cuts."
+  },
+  "boundaryEvents": 22,
+  "audioLUFS": -14.0,
+  "audioTruePeakDBTP": -1.96,
+  "fullDecode": "passed",
+  "blackFramesDetected": false,
+  "reusableAlphaScenes": 2,
+  "alphaCheck": "analysis/alpha-check.json",
+  "ending": "Original brand logo only on ivory; no additional text.",
+  "status": "awaiting-user-review",
+  "rebuild": "bash tools/render_reviewed_reel.sh projects/niolearn/niolearn-09 deliverables/niolearn/NIOLEARN_03_Entrance_Mistakes_v1.mp4"
+}

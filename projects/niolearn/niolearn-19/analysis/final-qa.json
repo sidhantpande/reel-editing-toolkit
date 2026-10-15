@@ -1,0 +1,32 @@
+{
+  "export": "deliverables/niolearn/NIOLEARN_07_Project_Answer_v1.mp4",
+  "title": "Project_Answer",
+  "order": "07",
+  "sha256": "bd53b3520dd60722f33f9e66fe0296c7ae855cbbb2550c53267116e9ad35ab51",
+  "bytes": 24694862,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "frames": 1236,
+  "durationSeconds": 41.2,
+  "dialogueFrames": 1191,
+  "captions": {
+    "words": 131,
+    "groups": 42,
+    "color": "Opt-in bright teal on camera and darker teal on ivory; one main keyword per phrase; brand/domain always colored.",
+    "visualReview": "Every caption group and encoded transition-boundary contact inspected.",
+    "sourceAlignment": "Reviewed source-language medium word transcript, manually corrected names/English terms and pause overhangs, mapped through exact 30fps source cuts."
+  },
+  "boundaryEvents": 22,
+  "audioLUFS": -14.02,
+  "audioTruePeakDBTP": -1.56,
+  "fullDecode": "passed",
+  "blackFramesDetected": false,
+  "reusableAlphaScenes": 3,
+  "alphaCheck": "analysis/alpha-check.json",
+  "ending": "Original brand logo only on ivory; no additional text.",
+  "status": "awaiting-user-review",
+  "rebuild": "bash tools/render_reviewed_reel.sh projects/niolearn/niolearn-19 deliverables/niolearn/NIOLEARN_07_Project_Answer_v1.mp4"
+}

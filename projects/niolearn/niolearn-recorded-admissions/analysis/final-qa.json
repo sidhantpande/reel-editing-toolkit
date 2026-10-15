@@ -1,0 +1,32 @@
+{
+  "export": "deliverables/niolearn/NIOLEARN_12_Admissions_v1.mp4",
+  "title": "Admissions",
+  "order": "12",
+  "sha256": "16d983ba83dfb3df19004eeafcf2d7b839a68bdd06ebf5e2cd8632cfa64536f2",
+  "bytes": 22438389,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "frames": 1001,
+  "durationSeconds": 33.36666666666667,
+  "dialogueFrames": 956,
+  "captions": {
+    "words": 82,
+    "groups": 28,
+    "color": "Opt-in bright teal on camera and darker teal on ivory. One main keyword per phrase; brand/domain always colored.",
+    "visualReview": "Every caption group and encoded transition-boundary contact inspected.",
+    "sourceAlignment": "Reviewed source-language medium word transcript, manually corrected names/English terms and pause overhangs, mapped through exact 30fps source cuts."
+  },
+  "boundaryEvents": 11,
+  "audioLUFS": -14.01,
+  "audioTruePeakDBTP": -2.58,
+  "fullDecode": "passed",
+  "blackFramesDetected": false,
+  "reusableAlphaScenes": 1,
+  "alphaCheck": "analysis/alpha-check.json",
+  "ending": "Original brand logo only on ivory; no additional text.",
+  "status": "awaiting-user-review",
+  "rebuild": "bash tools/render_reviewed_reel.sh projects/niolearn/niolearn-recorded-admissions deliverables/niolearn/NIOLEARN_12_Admissions_v1.mp4"
+}

@@ -1,0 +1,364 @@
+{
+  "video": "/Users/sidhant/Desktop/NioLearn-Reels/deliverables/niolearn/NIOLEARN_11_Early_Access_v1.mp4",
+  "probe": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "mime_codec_string": "avc1.640028",
+        "width": 1080,
+        "height": 1920,
+        "coded_width": 1080,
+        "coded_height": 1920,
+        "has_b_frames": 2,
+        "pix_fmt": "yuv420p",
+        "level": 40,
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "time_base": "1/90000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 2838000,
+        "duration": "31.533333",
+        "bit_rate": "3512003",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "946",
+        "extradata_size": 47,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "encoder": "Lavc61.19.100 libx264"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "mime_codec_string": "mp4a.40.2",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "initial_padding": 1024,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 1514496,
+        "duration": "31.552000",
+        "bit_rate": "190370",
+        "nb_frames": "1480",
+        "extradata_size": 5,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler"
+        }
+      }
+    ],
+    "format": {
+      "filename": "deliverables/niolearn/NIOLEARN_11_Early_Access_v1.mp4",
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "31.552000",
+      "size": "14630372",
+      "bit_rate": "3709526",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf63.1.102",
+        "comment": "Made with Remotion 4.0.535"
+      }
+    }
+  },
+  "captions": [
+    {
+      "page": 0,
+      "sampleFrame": 23,
+      "expected": "Planning to get into",
+      "ocr": "Planning to get into",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 1,
+      "sampleFrame": 49,
+      "expected": "a new generation tech",
+      "ocr": "a new generation tech",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 2,
+      "sampleFrame": 64,
+      "expected": "college,",
+      "ocr": "college,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 3,
+      "sampleFrame": 98,
+      "expected": "this is for you.",
+      "ocr": "this is for you.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 4,
+      "sampleFrame": 132,
+      "expected": "Different examination,",
+      "ocr": "Different examination,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 5,
+      "sampleFrame": 184,
+      "expected": "different criteria and",
+      "ocr": "different criteria and",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 6,
+      "sampleFrame": 206,
+      "expected": "interviews,",
+      "ocr": "interviews,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 7,
+      "sampleFrame": 248,
+      "expected": "preparing for all of",
+      "ocr": "preparing for all of",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 8,
+      "sampleFrame": 268,
+      "expected": "them can get a",
+      "ocr": "them can get",
+      "similarity": 0.952,
+      "review": false
+    },
+    {
+      "page": 9,
+      "sampleFrame": 288,
+      "expected": "bit confusing.",
+      "ocr": "bit confusing.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 10,
+      "sampleFrame": 329,
+      "expected": "That's where NioLearn comes",
+      "ocr": "That's where NioLearn\ncomes",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 11,
+      "sampleFrame": 352,
+      "expected": "into action.",
+      "ocr": "into action.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 12,
+      "sampleFrame": 375,
+      "expected": "We help you prepare",
+      "ocr": "We help you prepare",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 13,
+      "sampleFrame": 385,
+      "expected": "with",
+      "ocr": "with",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 14,
+      "sampleFrame": 431,
+      "expected": "structured live classes,",
+      "ocr": "structured live classes,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 15,
+      "sampleFrame": 469,
+      "expected": "expert mentorship",
+      "ocr": "expert mentorship",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 16,
+      "sampleFrame": 511,
+      "expected": "and personalized interview",
+      "ocr": "and personalized\ninterview",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 17,
+      "sampleFrame": 530,
+      "expected": "so that you can",
+      "ocr": "so that you can",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 18,
+      "sampleFrame": 563,
+      "expected": "prepare with confidence.",
+      "ocr": "prepare with\nconfidence.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 19,
+      "sampleFrame": 597,
+      "expected": "And here's your chance",
+      "ocr": "And here's your chance",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 20,
+      "sampleFrame": 645,
+      "expected": "to get early access.",
+      "ocr": "to get early access.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 21,
+      "sampleFrame": 681,
+      "expected": "Join the NioLearn waitlist",
+      "ocr": "Join the NioLearn\nwaitlist",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 22,
+      "sampleFrame": 724,
+      "expected": "by October 22nd through",
+      "ocr": "by October 22nd\nthrough",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 23,
+      "sampleFrame": 772,
+      "expected": "our website for early",
+      "ocr": "our website for early",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 24,
+      "sampleFrame": 814,
+      "expected": "bird admission access.",
+      "ocr": "bird admission access.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 25,
+      "sampleFrame": 845,
+      "expected": "Don't miss this out.",
+      "ocr": "Don't miss this out.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 26,
+      "sampleFrame": 879,
+      "expected": "Your next opportunity",
+      "ocr": "Your next opportunity",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 27,
+      "sampleFrame": 901,
+      "expected": "starts here.",
+      "ocr": "f Mii |",
+      "similarity": 0.0,
+      "review": true
+    }
+  ]
+}

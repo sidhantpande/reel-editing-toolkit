@@ -1,0 +1,26 @@
+{
+  "project": "niolearn-07",
+  "style": "Approved light paper, ivory, teal and navy details",
+  "newMotion": {
+    "source": "src/projects/Nio07Broll.tsx",
+    "method": "Original deterministic Canvas geometry and Remotion animation",
+    "scenes": ["nio-system-diagnostic", "nio-system-prep", "nio-system-review", "nio-system-interview", "nio-system-path"],
+    "reusableExports": "public/assets/projects/niolearn-07/*-v1.webm",
+    "background": "True alpha for reusable versions; ivory for reel inserts",
+    "claims": "Abstract illustrative diagrams, no fabricated student metrics or results"
+  },
+  "reusedCutouts": [
+    {"file": "public/assets/premium/cutouts/open-book.png", "source": "Existing original ImageGen paper-cutout library", "provenance": "docs/PREMIUM_ASSET_PROMPTS.json"},
+    {"file": "public/assets/premium/cutouts/paper-student.png", "source": "Existing original ImageGen paper-cutout library", "provenance": "docs/PREMIUM_ASSET_PROMPTS.json"},
+    {"file": "public/assets/premium/cutouts/editorial-person.png", "source": "Existing original ImageGen paper-cutout library", "provenance": "docs/PREMIUM_ASSET_PROMPTS.json"}
+  ],
+  "music": {
+    "file": "public/assets/music/niolearn-07-bed.wav",
+    "source": "public/assets/music/calm-focus.wav",
+    "creation": "Original deterministic project synthesis; no external music",
+    "processing": "Four-second equal-power overlap joining; highpass 55 Hz; lowpass 5500 Hz; 1.2 s fade-in; trimmed to reel length plus 2 s; -27 LUFS bed preparation",
+    "mix": "Continuous low dialogue-bed gain; smooth 36-frame introduction and 65-frame ending; final export measured and normalized"
+  },
+  "sfx": {"file": "public/assets/sfx/transition-air.wav", "source": "Original deterministic project synthesis", "use": "Quiet graphics entrances only"},
+  "logo": {"source": "Original user-supplied NioLearn mark", "treatment": "Unmodified, centered on ivory end card"}
+}

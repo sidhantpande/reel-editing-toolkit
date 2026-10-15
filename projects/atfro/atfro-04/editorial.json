@@ -1,0 +1,92 @@
+{
+  "phrases": [
+    "You can film every",
+    "event at a school",
+    "and still miss out",
+    "the story which parents",
+    "ask for.",
+    "A school isn't trying",
+    "to win an editing",
+    "competition,",
+    "it's trying to help",
+    "families understand what",
+    "are their teachings,",
+    "cultures and values.",
+    "And as a growth",
+    "partner,",
+    "our goal is to",
+    "align school's goal and",
+    "parents' questions.",
+    "Then we choose one",
+    "learning story and what",
+    "footage can make it",
+    "all clear.",
+    "The reel is one",
+    "part,",
+    "the caption,",
+    "approval,",
+    "answer to parents questions",
+    "and the next campaigns",
+    "matters too.",
+    "If you lead a",
+    "school,",
+    "DM SCHOOL,",
+    "one communication",
+    "bottleneck with",
+    "communication challenge",
+    "you're trying to solve."
+  ],
+  "accentWords": [
+    "school",
+    "event",
+    "story",
+    "parents",
+    "competition",
+    "families",
+    "teachings",
+    "cultures",
+    "values",
+    "growth",
+    "partner",
+    "goal",
+    "align",
+    "questions",
+    "learning",
+    "footage",
+    "clear",
+    "reel",
+    "caption",
+    "approval",
+    "answer",
+    "campaigns",
+    "dm",
+    "communication",
+    "bottleneck",
+    "challenge"
+  ],
+  "broll": [
+    {
+      "kind": "atfro-school-film",
+      "source": "IMG_5995",
+      "start": 2.45,
+      "end": 6.63
+    },
+    {
+      "kind": "atfro-school-plan",
+      "source": "IMG_5995",
+      "start": 18.41,
+      "end": 28.17
+    },
+    {
+      "kind": "atfro-school-workflow",
+      "source": "IMG_5995",
+      "start": 30.47,
+      "end": 36.77
+    }
+  ],
+  "alphaExports": [
+    "atfro-school-film",
+    "atfro-school-plan",
+    "atfro-school-workflow"
+  ]
+}

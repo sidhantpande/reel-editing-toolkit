@@ -1,0 +1,185 @@
+{
+  "id": "niolearn-19",
+  "fps": 30,
+  "dialogueFrames": 1191,
+  "endHoldFrames": 45,
+  "totalFrames": 1236,
+  "cuts": [
+    {
+      "source": "media/raw/niolearn/niolearn-19/IMG_5963.mov",
+      "inFrame": 55,
+      "outFrame": 189,
+      "timelineFrom": 0,
+      "duration": 134,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Weak feature-list answer"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-19/IMG_5963.mov",
+      "inFrame": 193,
+      "outFrame": 288,
+      "timelineFrom": 134,
+      "duration": 95,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Mentor interruption"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-19/IMG_5963.mov",
+      "inFrame": 296,
+      "outFrame": 322,
+      "timelineFrom": 229,
+      "duration": 26,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Where is the thinking"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-19/IMG_5963.mov",
+      "inFrame": 341,
+      "outFrame": 395,
+      "timelineFrom": 255,
+      "duration": 54,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Better approach"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-19/IMG_5963.mov",
+      "inFrame": 402,
+      "outFrame": 445,
+      "timelineFrom": 309,
+      "duration": 43,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Problem"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-19/IMG_5963.mov",
+      "inFrame": 452,
+      "outFrame": 485,
+      "timelineFrom": 352,
+      "duration": 33,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Approach"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-19/IMG_5963.mov",
+      "inFrame": 491,
+      "outFrame": 523,
+      "timelineFrom": 385,
+      "duration": 32,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Decision"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-19/IMG_5963.mov",
+      "inFrame": 538,
+      "outFrame": 564,
+      "timelineFrom": 417,
+      "duration": 26,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Outcome"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-19/IMG_5963.mov",
+      "inFrame": 585,
+      "outFrame": 661,
+      "timelineFrom": 443,
+      "duration": 76,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Frame the answer"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-19/IMG_5963.mov",
+      "inFrame": 740,
+      "outFrame": 854,
+      "timelineFrom": 519,
+      "duration": 114,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Paper attendance problem; omit unclear repeated preface"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-19/IMG_5963.mov",
+      "inFrame": 865,
+      "outFrame": 995,
+      "timelineFrom": 633,
+      "duration": 130,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "One-tap app approach"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-19/IMG_5963.mov",
+      "inFrame": 1001,
+      "outFrame": 1075,
+      "timelineFrom": 763,
+      "duration": 74,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Spoken illustrative time outcome"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-19/IMG_5963.mov",
+      "inFrame": 1095,
+      "outFrame": 1174,
+      "timelineFrom": 837,
+      "duration": 79,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Clarity for the listener"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-19/IMG_5963.mov",
+      "inFrame": 1177,
+      "outFrame": 1279,
+      "timelineFrom": 916,
+      "duration": 102,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Show your thinking"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-19/IMG_5963.mov",
+      "inFrame": 1297,
+      "outFrame": 1379,
+      "timelineFrom": 1018,
+      "duration": 82,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Comment project answer"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-19/IMG_5963.mov",
+      "inFrame": 1380,
+      "outFrame": 1471,
+      "timelineFrom": 1100,
+      "duration": 91,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Improve website CTA"
+    }
+  ]
+}

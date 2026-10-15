@@ -1,0 +1,96 @@
+{
+  "phrases": [
+    "Mocks mein marks sirf",
+    "galat answer se nahi,",
+    "in chaar main galtiyon",
+    "se bhi katta hai.",
+    "Pehla,",
+    "tough question pe hi",
+    "apna poora time",
+    "laga dena,",
+    "ki easy questions pe",
+    "dhyaan hi nahi gaya.",
+    "Doosra,",
+    "question ko dhang se",
+    "read nahi karna,",
+    "NOT ya phir EXCEPT",
+    "jaise words miss",
+    "kar dena.",
+    "Teesra,",
+    "easy questions pe",
+    "zyada time laga dena,",
+    "yeh bhi ek leak hai.",
+    "Chautha,",
+    "Blind guessing.",
+    "Elimination method ka",
+    "use karke guessing",
+    "karoge toh chance",
+    "zyada banega answer",
+    "sahi hone ka.",
+    "Aapka kaun sa leak hai?",
+    "Please comment mein bataayein",
+    "aur baaki ka improvement",
+    "ke liye go on",
+    "niolearn.com"
+  ],
+  "accentWords": [
+    "mocks",
+    "marks",
+    "galat",
+    "galtiyon",
+    "tough",
+    "question",
+    "time",
+    "easy",
+    "questions",
+    "dhyaan",
+    "read",
+    "not",
+    "except",
+    "miss",
+    "leak",
+    "blind",
+    "guessing",
+    "elimination",
+    "chance",
+    "sahi",
+    "comment",
+    "improvement"
+  ],
+  "broll": [
+    {
+      "kind": "nio-story-mock",
+      "from": 137,
+      "duration": 688,
+      "fadeFrames": 8,
+      "beats": [
+        169,
+        332,
+        483
+      ]
+    }
+  ],
+  "alphaExports": [
+    {
+      "kind": "nio-mock-read",
+      "duration": 159
+    },
+    {
+      "kind": "nio-mock-eliminate",
+      "duration": 205
+    },
+    {
+      "kind": "nio-story-mock",
+      "duration": 688,
+      "beats": [
+        169,
+        332,
+        483
+      ]
+    }
+  ],
+  "notes": [
+    "Join the Chautha lead-in in part 1 to the blind-guessing explanation in part 2; hide the recording join with the elimination scene.",
+    "Three/four order follows the recording, not the calendar estimates."
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "id": "atfro-01",
+  "fps": 30,
+  "sourceDuration": 90.478333,
+  "dialogueFrames": 1117,
+  "endHoldFrames": 45,
+  "totalFrames": 1162,
+  "cuts": [
+    {
+      "source": "media/raw/atfro/atfro-01/IMG_6001.mov",
+      "inFrame": 27,
+      "outFrame": 75,
+      "timelineFrom": 0,
+      "duration": 48,
+      "zoom": 1.06,
+      "reason": "Hook"
+    },
+    {
+      "source": "media/raw/atfro/atfro-01/IMG_6001.mov",
+      "inFrame": 81,
+      "outFrame": 110,
+      "timelineFrom": 48,
+      "duration": 29,
+      "zoom": 1.06,
+      "reason": "You deserve to know \u2014 omit filler that"
+    },
+    {
+      "source": "media/raw/atfro/atfro-01/IMG_6001.mov",
+      "inFrame": 116,
+      "outFrame": 149,
+      "timelineFrom": 77,
+      "duration": 33,
+      "zoom": 1.06,
+      "reason": "What we have been doing"
+    },
+    {
+      "source": "media/raw/atfro/atfro-01/IMG_6001.mov",
+      "inFrame": 163,
+      "outFrame": 274,
+      "timelineFrom": 110,
+      "duration": 111,
+      "zoom": 1.0,
+      "reason": "Client work"
+    },
+    {
+      "source": "media/raw/atfro/atfro-01/IMG_6001.mov",
+      "inFrame": 284,
+      "outFrame": 339,
+      "timelineFrom": 221,
+      "duration": 55,
+      "zoom": 1.05,
+      "reason": "Correcting the mistake"
+    },
+    {
+      "source": "media/raw/atfro/atfro-01/IMG_6001.mov",
+      "inFrame": 350,
+      "outFrame": 405,
+      "timelineFrom": 276,
+      "duration": 55,
+      "zoom": 1.05,
+      "reason": "Not a strategy"
+    },
+    {
+      "source": "media/raw/atfro/atfro-01/IMG_6001.mov",
+      "inFrame": 429,
+      "outFrame": 508,
+      "timelineFrom": 331,
+      "duration": 79,
+      "zoom": 1.0,
+      "reason": "School communications"
+    },
+    {
+      "source": "media/raw/atfro/atfro-01/IMG_6001.mov",
+      "inFrame": 515,
+      "outFrame": 553,
+      "timelineFrom": 410,
+      "duration": 38,
+      "zoom": 1.0,
+      "reason": "Doctor-led content"
+    },
+    {
+      "source": "media/raw/atfro/atfro-01/IMG_6001.mov",
+      "inFrame": 556,
+      "outFrame": 614,
+      "timelineFrom": 448,
+      "duration": 58,
+      "zoom": 1.0,
+      "reason": "Software systems"
+    },
+    {
+      "source": "media/raw/atfro/atfro-01/IMG_6001.mov",
+      "inFrame": 643,
+      "outFrame": 724,
+      "timelineFrom": 506,
+      "duration": 81,
+      "zoom": 1.07,
+      "reason": "Different projects"
+    },
+    {
+      "source": "media/raw/atfro/atfro-01/IMG_6001.mov",
+      "inFrame": 740,
+      "outFrame": 811,
+      "timelineFrom": 587,
+      "duration": 71,
+      "zoom": 1.07,
+      "reason": "Business question \u2014 omit filler that"
+    },
+    {
+      "source": "media/raw/atfro/atfro-01/IMG_6001.mov",
+      "inFrame": 1035,
+      "outFrame": 1103,
+      "timelineFrom": 658,
+      "duration": 68,
+      "zoom": 1.0,
+      "reason": "Clean growth-partner sentence"
+    },
+    {
+      "source": "media/raw/atfro/atfro-01/IMG_6001.mov",
+      "inFrame": 2146,
+      "outFrame": 2186,
+      "timelineFrom": 726,
+      "duration": 40,
+      "zoom": 1.0,
+      "reason": "Understand the problem"
+    },
+    {
+      "source": "media/raw/atfro/atfro-01/IMG_6001.mov",
+      "inFrame": 2197,
+      "outFrame": 2237,
+      "timelineFrom": 766,
+      "duration": 40,
+      "zoom": 1.0,
+      "reason": "Build what is \u2014 remove corrected false phrase"
+    },
+    {
+      "source": "media/raw/atfro/atfro-01/IMG_6001.mov",
+      "inFrame": 2271,
+      "outFrame": 2297,
+      "timelineFrom": 806,
+      "duration": 26,
+      "zoom": 1.0,
+      "reason": "Useful and \u2014 clean continuation"
+    },
+    {
+      "source": "media/raw/atfro/atfro-01/IMG_6001.mov",
+      "inFrame": 2312,
+      "outFrame": 2393,
+      "timelineFrom": 832,
+      "duration": 81,
+      "zoom": 1.0,
+      "reason": "Grow with people; So"
+    },
+    {
+      "source": "media/raw/atfro/atfro-01/IMG_6001.mov",
+      "inFrame": 2407,
+      "outFrame": 2437,
+      "timelineFrom": 913,
+      "duration": 30,
+      "zoom": 1.05,
+      "reason": "Here we are"
+    },
+    {
+      "source": "media/raw/atfro/atfro-01/IMG_6001.mov",
+      "inFrame": 2443,
+      "outFrame": 2489,
+      "timelineFrom": 943,
+      "duration": 46,
+      "zoom": 1.05,
+      "reason": "Back again to share \u2014 omit redundant you"
+    },
+    {
+      "source": "media/raw/atfro/atfro-01/IMG_6001.mov",
+      "inFrame": 2494,
+      "outFrame": 2577,
+      "timelineFrom": 989,
+      "duration": 83,
+      "zoom": 1.05,
+      "reason": "The people, work and lesson"
+    },
+    {
+      "source": "media/raw/atfro/atfro-01/IMG_6001.mov",
+      "inFrame": 2602,
+      "outFrame": 2647,
+      "timelineFrom": 1072,
+      "duration": 45,
+      "zoom": 1.05,
+      "reason": "Welcome to ATFRO"
+    }
+  ],
+  "status": "editorial-selected-frame-quantized",
+  "notes": [
+    "Raw source is untouched. Boundaries retain speech while shortening pauses.",
+    "Clean growth-partner sentence uses the earlier complete take; process/close use the later pickup."
+  ]
+}

@@ -1,0 +1,420 @@
+{
+  "video": "/Users/sidhant/Desktop/NioLearn-Reels/deliverables/atfro/ATFRO_02_School_Story_v1.mp4",
+  "probe": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "mime_codec_string": "avc1.640028",
+        "width": 1080,
+        "height": 1920,
+        "coded_width": 1080,
+        "coded_height": 1920,
+        "has_b_frames": 2,
+        "pix_fmt": "yuv420p",
+        "level": 40,
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "time_base": "1/90000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 3591000,
+        "duration": "39.900000",
+        "bit_rate": "4421915",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "1197",
+        "extradata_size": 47,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "encoder": "Lavc61.19.100 libx264"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "mime_codec_string": "mp4a.40.2",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "initial_padding": 1024,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 1915904,
+        "duration": "39.914667",
+        "bit_rate": "190523",
+        "nb_frames": "1872",
+        "extradata_size": 5,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler"
+        }
+      }
+    ],
+    "format": {
+      "filename": "deliverables/atfro/ATFRO_02_School_Story_v1.mp4",
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "39.914667",
+      "size": "23050547",
+      "bit_rate": "4619965",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf63.1.102",
+        "comment": "Made with Remotion 4.0.535"
+      }
+    }
+  },
+  "captions": [
+    {
+      "page": 0,
+      "sampleFrame": 39,
+      "expected": "You can film every",
+      "ocr": "You can film every",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 1,
+      "sampleFrame": 69,
+      "expected": "event at a school",
+      "ocr": "event ata school",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 2,
+      "sampleFrame": 105,
+      "expected": "and still miss out",
+      "ocr": "and still miss out",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 3,
+      "sampleFrame": 145,
+      "expected": "the story which parents",
+      "ocr": "the story which parents",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 4,
+      "sampleFrame": 164,
+      "expected": "ask for.",
+      "ocr": "ask for.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 5,
+      "sampleFrame": 198,
+      "expected": "A school isn't trying",
+      "ocr": "Aschoolisn't trying",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 6,
+      "sampleFrame": 225,
+      "expected": "to win an editing",
+      "ocr": "to win an editing",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 7,
+      "sampleFrame": 249,
+      "expected": "competition,",
+      "ocr": "",
+      "similarity": 0.0,
+      "review": true
+    },
+    {
+      "page": 8,
+      "sampleFrame": 282,
+      "expected": "it's trying to help",
+      "ocr": "it's trying to help",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 9,
+      "sampleFrame": 325,
+      "expected": "families understand what",
+      "ocr": "families understand\nwhat",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 10,
+      "sampleFrame": 354,
+      "expected": "are their teachings,",
+      "ocr": "are their teachings;",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 11,
+      "sampleFrame": 411,
+      "expected": "cultures and values.",
+      "ocr": "cultures and values:",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 12,
+      "sampleFrame": 444,
+      "expected": "And as a growth",
+      "ocr": "Andasa growth",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 13,
+      "sampleFrame": 462,
+      "expected": "partner,",
+      "ocr": "Dartn\u00e9r cc cece\n4 } \\ \u2018 = Po aS\n' ere \u2018tn\n\u2018 4\ntt: + i 7 int\nAtti i 1]\nWi i, \\e \\\\\\)",
+      "similarity": 0.255,
+      "review": true
+    },
+    {
+      "page": 14,
+      "sampleFrame": 493,
+      "expected": "our goal is to",
+      "ocr": "our goal is to",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 15,
+      "sampleFrame": 555,
+      "expected": "align school's goal and",
+      "ocr": "align school's goal and",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 16,
+      "sampleFrame": 593,
+      "expected": "parents' questions.",
+      "ocr": "parents\u2019 questions.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 17,
+      "sampleFrame": 638,
+      "expected": "Then we choose one",
+      "ocr": "Then we choose one",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 18,
+      "sampleFrame": 680,
+      "expected": "learning story and what",
+      "ocr": "learning story and what",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 19,
+      "sampleFrame": 714,
+      "expected": "footage can make it",
+      "ocr": "footage can make it",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 20,
+      "sampleFrame": 739,
+      "expected": "all clear.",
+      "ocr": "all clear.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 21,
+      "sampleFrame": 766,
+      "expected": "The reel is one",
+      "ocr": "The reel is one",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 22,
+      "sampleFrame": 780,
+      "expected": "part,",
+      "ocr": "part,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 23,
+      "sampleFrame": 805,
+      "expected": "the caption,",
+      "ocr": "the caption,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 24,
+      "sampleFrame": 836,
+      "expected": "approval,",
+      "ocr": "approval,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 25,
+      "sampleFrame": 896,
+      "expected": "answer to parents questions",
+      "ocr": "answer to parents\nquestions",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 26,
+      "sampleFrame": 940,
+      "expected": "and the next campaigns",
+      "ocr": "and the next\ncampaigns",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 27,
+      "sampleFrame": 967,
+      "expected": "matters too.",
+      "ocr": "matters too.",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 28,
+      "sampleFrame": 990,
+      "expected": "If you lead a",
+      "ocr": "",
+      "similarity": 0.0,
+      "review": true
+    },
+    {
+      "page": 29,
+      "sampleFrame": 1003,
+      "expected": "school,",
+      "ocr": ": : Fatt\n> Wi\n\\\u00ae \\\\\\i",
+      "similarity": 0.0,
+      "review": true
+    },
+    {
+      "page": 30,
+      "sampleFrame": 1030,
+      "expected": "DM SCHOOL,",
+      "ocr": "DM SCHOOL,",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 31,
+      "sampleFrame": 1059,
+      "expected": "one communication",
+      "ocr": "one communication",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 32,
+      "sampleFrame": 1089,
+      "expected": "bottleneck with",
+      "ocr": "bottleneck with",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 33,
+      "sampleFrame": 1123,
+      "expected": "communication challenge",
+      "ocr": "communication\nchallenge",
+      "similarity": 1.0,
+      "review": false
+    },
+    {
+      "page": 34,
+      "sampleFrame": 1150,
+      "expected": "you're trying to solve.",
+      "ocr": "you're trying to solve:",
+      "similarity": 1.0,
+      "review": false
+    }
+  ]
+}

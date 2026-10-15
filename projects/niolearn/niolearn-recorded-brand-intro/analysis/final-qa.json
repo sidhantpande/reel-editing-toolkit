@@ -1,0 +1,32 @@
+{
+  "export": "deliverables/niolearn/NIOLEARN_10_Brand_Introduction_v1.mp4",
+  "title": "Brand_Introduction",
+  "order": "10",
+  "sha256": "e8dc3310c3d4adaac04e9fb895c562880fb9541b85e648925df7a6681573c43c",
+  "bytes": 36086103,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "frames": 1659,
+  "durationSeconds": 55.3,
+  "dialogueFrames": 1614,
+  "captions": {
+    "words": 128,
+    "groups": 45,
+    "color": "Opt-in bright teal on camera and darker teal on ivory. One main keyword per phrase; brand/domain always colored.",
+    "visualReview": "Every caption group and encoded transition-boundary contact inspected.",
+    "sourceAlignment": "Reviewed source-language medium word transcript, manually corrected names/English terms and pause overhangs, mapped through exact 30fps source cuts."
+  },
+  "boundaryEvents": 29,
+  "audioLUFS": -14.01,
+  "audioTruePeakDBTP": -1.91,
+  "fullDecode": "passed",
+  "blackFramesDetected": false,
+  "reusableAlphaScenes": 1,
+  "alphaCheck": "analysis/alpha-check.json",
+  "ending": "Original brand logo only on ivory; no additional text.",
+  "status": "awaiting-user-review",
+  "rebuild": "bash tools/render_reviewed_reel.sh projects/niolearn/niolearn-recorded-brand-intro deliverables/niolearn/NIOLEARN_10_Brand_Introduction_v1.mp4"
+}

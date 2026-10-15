@@ -1,0 +1,18 @@
+{
+  "brand": "niolearn",
+  "durationInFrames": 1789,
+  "clips": [
+    {
+      "src": "raw/niolearn/niolearn-04/IMG_5941.mov",
+      "from": 0,
+      "duration": 1729,
+      "trimBefore": 0,
+      "volume": 1
+    }
+  ],
+  "captions": [],
+  "broll": [],
+  "endCard": true,
+  "music": "assets/music/calm-focus.wav",
+  "musicVolume": 0.12
+}

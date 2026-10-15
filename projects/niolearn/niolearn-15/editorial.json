@@ -1,0 +1,100 @@
+{
+  "phrases": [
+    "Marks achhe hain,",
+    "lekin selection pakka nahi,",
+    "kyun,",
+    "kyunki college bahut",
+    "saari cheezein dekhta hai.",
+    "Pehla,",
+    "problem solving,",
+    "aap naye questions",
+    "ko kaise approach",
+    "karte ho,",
+    "yeh kaafi zyada",
+    "aapki thinking ke",
+    "baare bata deta hai.",
+    "Doosra,",
+    "communication.",
+    "Aapki baat rakhne mein",
+    "kitni clarity aur",
+    "kitna confidence hai,",
+    "yeh kaafi zyada",
+    "matter karta hai.",
+    "Teesra,",
+    "projects aur curiosity.",
+    "Aapne apni marzi se",
+    "koi project kiya",
+    "hai ki nahi,",
+    "aur aapne apne",
+    "interest ke within",
+    "kiya hai ki nahi,",
+    "yeh kaafi zyada",
+    "dekha jaata hai.",
+    "Har college ka",
+    "weightage alag hota hai,",
+    "toh please verify",
+    "criteria of each college.",
+    "Isliye preparation complete",
+    "honi chahiye,",
+    "sirf marks ke",
+    "basis pe nahi.",
+    "Aap apni profile pe",
+    "kaunsi cheezein improve",
+    "karna chahte ho?",
+    "Comments mein batao.",
+    "For more diagnostic,",
+    "go on niolearn.com"
+  ],
+  "accentWords": [
+    "marks",
+    "selection",
+    "college",
+    "problem",
+    "solving",
+    "questions",
+    "approach",
+    "thinking",
+    "communication",
+    "clarity",
+    "confidence",
+    "projects",
+    "curiosity",
+    "project",
+    "interest",
+    "weightage",
+    "verify",
+    "criteria",
+    "preparation",
+    "complete",
+    "profile",
+    "improve",
+    "comments",
+    "diagnostic"
+  ],
+  "broll": [
+    {
+      "kind": "nio-intro-problem",
+      "source": "IMG_5960",
+      "start": 12.13,
+      "end": 17.1
+    },
+    {
+      "kind": "nio-system-interview",
+      "source": "IMG_5960",
+      "start": 19.73,
+      "end": 25.03
+    },
+    {
+      "kind": "nio-story-profile",
+      "source": "IMG_5960",
+      "start": 28.13,
+      "end": 35.57,
+      "beats": [
+        110
+      ]
+    }
+  ],
+  "alphaExports": [
+    "nio-story-profile"
+  ]
+}

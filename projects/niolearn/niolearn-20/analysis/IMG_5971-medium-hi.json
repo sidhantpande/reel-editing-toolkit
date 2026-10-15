@@ -1,0 +1,251 @@
+[
+  {
+    "start": 0.59,
+    "end": 6.39,
+    "text": " और याद रटना, जो college सवालों का सीदा जवाब दे, वही त्रब्स के लाएक होता है।",
+    "words": [
+      {
+        "text": " और",
+        "start": 0.59,
+        "end": 1.17,
+        "probability": 0.8729308247566223
+      },
+      {
+        "text": " याद",
+        "start": 1.17,
+        "end": 1.51,
+        "probability": 0.9410638213157654
+      },
+      {
+        "text": " रटना,",
+        "start": 1.51,
+        "end": 1.97,
+        "probability": 0.7212765067815781
+      },
+      {
+        "text": " जो",
+        "start": 2.11,
+        "end": 2.27,
+        "probability": 0.9524792035420736
+      },
+      {
+        "text": " college",
+        "start": 2.27,
+        "end": 2.61,
+        "probability": 0.8925231099128723
+      },
+      {
+        "text": " सवालों",
+        "start": 2.61,
+        "end": 3.13,
+        "probability": 0.877585449389049
+      },
+      {
+        "text": " का",
+        "start": 3.13,
+        "end": 3.25,
+        "probability": 0.9204010963439941
+      },
+      {
+        "text": " सीदा",
+        "start": 3.25,
+        "end": 3.59,
+        "probability": 0.8554551243782044
+      },
+      {
+        "text": " जवाब",
+        "start": 3.59,
+        "end": 3.99,
+        "probability": 0.8924251879964556
+      },
+      {
+        "text": " दे,",
+        "start": 3.99,
+        "end": 4.21,
+        "probability": 0.9689643184343973
+      },
+      {
+        "text": " वही",
+        "start": 4.49,
+        "end": 4.79,
+        "probability": 0.9696754068136215
+      },
+      {
+        "text": " त्रब्स",
+        "start": 4.79,
+        "end": 5.15,
+        "probability": 0.6515287570655346
+      },
+      {
+        "text": " के",
+        "start": 5.15,
+        "end": 5.25,
+        "probability": 0.9120908379554749
+      },
+      {
+        "text": " लाएक",
+        "start": 5.25,
+        "end": 5.53,
+        "probability": 0.8584847946961721
+      },
+      {
+        "text": " होता",
+        "start": 5.53,
+        "end": 5.81,
+        "probability": 0.9115990847349167
+      },
+      {
+        "text": " है।",
+        "start": 5.81,
+        "end": 6.39,
+        "probability": 0.881863608956337
+      }
+    ]
+  },
+  {
+    "start": 6.39,
+    "end": 11.25,
+    "text": " अगर आपको college की comparison sheet चाहिए, तो comments में sheet लिखो।",
+    "words": [
+      {
+        "text": " अगर",
+        "start": 6.39,
+        "end": 7.03,
+        "probability": 0.8688879132270813
+      },
+      {
+        "text": " आपको",
+        "start": 7.03,
+        "end": 7.31,
+        "probability": 0.8929200371106466
+      },
+      {
+        "text": " college",
+        "start": 7.31,
+        "end": 7.67,
+        "probability": 0.9910234212875366
+      },
+      {
+        "text": " की",
+        "start": 7.67,
+        "end": 7.83,
+        "probability": 0.9341894686222076
+      },
+      {
+        "text": " comparison",
+        "start": 7.83,
+        "end": 8.25,
+        "probability": 0.38449540734291077
+      },
+      {
+        "text": " sheet",
+        "start": 8.25,
+        "end": 8.57,
+        "probability": 0.8746143579483032
+      },
+      {
+        "text": " चाहिए,",
+        "start": 8.57,
+        "end": 9.13,
+        "probability": 0.7471773156097957
+      },
+      {
+        "text": " तो",
+        "start": 9.25,
+        "end": 9.37,
+        "probability": 0.9659114877382914
+      },
+      {
+        "text": " comments",
+        "start": 9.37,
+        "end": 9.65,
+        "probability": 0.7401871681213379
+      },
+      {
+        "text": " में",
+        "start": 9.65,
+        "end": 9.93,
+        "probability": 0.9196540911992391
+      },
+      {
+        "text": " sheet",
+        "start": 9.93,
+        "end": 10.27,
+        "probability": 0.8259567022323608
+      },
+      {
+        "text": " लिखो।",
+        "start": 10.27,
+        "end": 11.25,
+        "probability": 0.8323166146874428
+      }
+    ]
+  },
+  {
+    "start": 11.25,
+    "end": 14.41,
+    "text": " बाकी ऐसे और tips के लिए go on neoland.com",
+    "words": [
+      {
+        "text": " बाकी",
+        "start": 11.25,
+        "end": 11.75,
+        "probability": 0.8663601398468017
+      },
+      {
+        "text": " ऐसे",
+        "start": 11.75,
+        "end": 12.07,
+        "probability": 0.8109425604343414
+      },
+      {
+        "text": " और",
+        "start": 12.07,
+        "end": 12.19,
+        "probability": 0.8861863414446512
+      },
+      {
+        "text": " tips",
+        "start": 12.19,
+        "end": 12.43,
+        "probability": 0.7415304183959961
+      },
+      {
+        "text": " के",
+        "start": 12.43,
+        "end": 12.69,
+        "probability": 0.9555949866771698
+      },
+      {
+        "text": " लिए",
+        "start": 12.69,
+        "end": 12.93,
+        "probability": 0.8979077577590943
+      },
+      {
+        "text": " go",
+        "start": 12.93,
+        "end": 13.21,
+        "probability": 0.7696710824966431
+      },
+      {
+        "text": " on",
+        "start": 13.21,
+        "end": 13.51,
+        "probability": 0.851146399974823
+      },
+      {
+        "text": " neoland",
+        "start": 13.51,
+        "end": 13.89,
+        "probability": 0.33892516791820526
+      },
+      {
+        "text": ".com",
+        "start": 13.89,
+        "end": 14.41,
+        "probability": 0.9941147863864899
+      }
+    ]
+  }
+]

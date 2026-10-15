@@ -1,0 +1,35 @@
+node_modules/
+.venv/
+.cache/
+__pycache__/
+.DS_Store
+.env
+.env.*
+!.env.example
+media/
+public/raw/
+public/proxies/
+public/reference/
+exports/
+*.log
+*.tsbuildinfo
+
+# New camera imports should be organised before Git can see them.
+/*.mov
+/*.MOV
+/*.mp4
+/*.MP4
+/incoming/
+
+# Rejected visual experiments retained locally.
+design-explorations/
+
+# User requested an assets/setup-only private repository.
+deliverables/
+Final Content/
+qa/encoded/
+
+# Ignore media symlinks themselves, including on a fresh checkout.
+/public/raw
+/public/reference
+/public/proxies

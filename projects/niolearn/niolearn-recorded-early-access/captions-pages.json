@@ -1,0 +1,692 @@
+[
+  {
+    "startMs": 66.667,
+    "endMs": 866.667,
+    "words": [
+      {
+        "text": "Planning",
+        "startMs": 66.667,
+        "endMs": 333.333
+      },
+      {
+        "text": "to",
+        "startMs": 333.333,
+        "endMs": 466.667
+      },
+      {
+        "text": "get",
+        "startMs": 466.667,
+        "endMs": 666.667
+      },
+      {
+        "text": "into",
+        "startMs": 666.667,
+        "endMs": 866.667
+      }
+    ],
+    "top": 1240,
+    "fontSize": 84
+  },
+  {
+    "startMs": 866.667,
+    "endMs": 1733.333,
+    "words": [
+      {
+        "text": "a",
+        "startMs": 866.667,
+        "endMs": 1000.0
+      },
+      {
+        "text": "new",
+        "startMs": 1000.0,
+        "endMs": 1133.333
+      },
+      {
+        "text": "generation",
+        "startMs": 1133.333,
+        "endMs": 1466.667
+      },
+      {
+        "text": "tech",
+        "startMs": 1466.667,
+        "endMs": 1733.333,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1240,
+    "fontSize": 84
+  },
+  {
+    "startMs": 1733.333,
+    "endMs": 2233.333,
+    "words": [
+      {
+        "text": "college,",
+        "startMs": 1733.333,
+        "endMs": 2133.333
+      }
+    ],
+    "top": 1240,
+    "fontSize": 84
+  },
+  {
+    "startMs": 2666.667,
+    "endMs": 3366.667,
+    "words": [
+      {
+        "text": "this",
+        "startMs": 2666.667,
+        "endMs": 2700.0
+      },
+      {
+        "text": "is",
+        "startMs": 2666.667,
+        "endMs": 2866.667
+      },
+      {
+        "text": "for",
+        "startMs": 2866.667,
+        "endMs": 3033.333
+      },
+      {
+        "text": "you.",
+        "startMs": 3033.333,
+        "endMs": 3266.667
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 3466.667,
+    "endMs": 4500.0,
+    "words": [
+      {
+        "text": "Different",
+        "startMs": 3466.667,
+        "endMs": 3766.667
+      },
+      {
+        "text": "examination,",
+        "startMs": 3766.667,
+        "endMs": 4400.0
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 4966.667,
+    "endMs": 6233.333,
+    "words": [
+      {
+        "text": "different",
+        "startMs": 4966.667,
+        "endMs": 5266.667
+      },
+      {
+        "text": "criteria",
+        "startMs": 5266.667,
+        "endMs": 5600.0,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "and",
+        "startMs": 5600.0,
+        "endMs": 6233.333
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 6233.333,
+    "endMs": 6966.667,
+    "words": [
+      {
+        "text": "interviews,",
+        "startMs": 6233.333,
+        "endMs": 6866.667,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 7066.667,
+    "endMs": 8366.667,
+    "words": [
+      {
+        "text": "preparing",
+        "startMs": 7066.667,
+        "endMs": 7400.0
+      },
+      {
+        "text": "for",
+        "startMs": 7400.0,
+        "endMs": 7800.0
+      },
+      {
+        "text": "all",
+        "startMs": 7800.0,
+        "endMs": 8166.667
+      },
+      {
+        "text": "of",
+        "startMs": 8166.667,
+        "endMs": 8366.667
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 8366.667,
+    "endMs": 8966.667,
+    "words": [
+      {
+        "text": "them",
+        "startMs": 8366.667,
+        "endMs": 8466.667
+      },
+      {
+        "text": "can",
+        "startMs": 8466.667,
+        "endMs": 8700.0
+      },
+      {
+        "text": "get",
+        "startMs": 8700.0,
+        "endMs": 8900.0
+      },
+      {
+        "text": "a",
+        "startMs": 8900.0,
+        "endMs": 8966.667
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 8966.667,
+    "endMs": 9700.0,
+    "words": [
+      {
+        "text": "bit",
+        "startMs": 8966.667,
+        "endMs": 9100.0
+      },
+      {
+        "text": "confusing.",
+        "startMs": 9100.0,
+        "endMs": 9600.0
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 9833.333,
+    "endMs": 11066.667,
+    "words": [
+      {
+        "text": "That's",
+        "startMs": 9833.333,
+        "endMs": 10200.0
+      },
+      {
+        "text": "where",
+        "startMs": 10200.0,
+        "endMs": 10366.667
+      },
+      {
+        "text": "NioLearn",
+        "startMs": 10366.667,
+        "endMs": 10866.667,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "comes",
+        "startMs": 10866.667,
+        "endMs": 11066.667
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 11066.667,
+    "endMs": 11833.333,
+    "words": [
+      {
+        "text": "into",
+        "startMs": 11066.667,
+        "endMs": 11366.667
+      },
+      {
+        "text": "action.",
+        "startMs": 11366.667,
+        "endMs": 11733.333
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 11866.667,
+    "endMs": 12600.0,
+    "words": [
+      {
+        "text": "We",
+        "startMs": 11866.667,
+        "endMs": 12066.667
+      },
+      {
+        "text": "help",
+        "startMs": 12066.667,
+        "endMs": 12166.667
+      },
+      {
+        "text": "you",
+        "startMs": 12166.667,
+        "endMs": 12433.333
+      },
+      {
+        "text": "prepare",
+        "startMs": 12433.333,
+        "endMs": 12600.0,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 12600.0,
+    "endMs": 12933.333,
+    "words": [
+      {
+        "text": "with",
+        "startMs": 12600.0,
+        "endMs": 12833.333
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 13233.333,
+    "endMs": 14466.667,
+    "words": [
+      {
+        "text": "structured",
+        "startMs": 13233.333,
+        "endMs": 13633.333
+      },
+      {
+        "text": "live",
+        "startMs": 13633.333,
+        "endMs": 13966.667
+      },
+      {
+        "text": "classes,",
+        "startMs": 13966.667,
+        "endMs": 14366.667,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 14566.667,
+    "endMs": 15733.333,
+    "words": [
+      {
+        "text": "expert",
+        "startMs": 14566.667,
+        "endMs": 15066.667
+      },
+      {
+        "text": "mentorship",
+        "startMs": 15066.667,
+        "endMs": 15633.333,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 15866.667,
+    "endMs": 17133.333,
+    "words": [
+      {
+        "text": "and",
+        "startMs": 15866.667,
+        "endMs": 16100.0
+      },
+      {
+        "text": "personalized",
+        "startMs": 16100.0,
+        "endMs": 16666.667,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "interview",
+        "startMs": 16666.667,
+        "endMs": 17133.333
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 17133.333,
+    "endMs": 17766.667,
+    "words": [
+      {
+        "text": "so",
+        "startMs": 17133.333,
+        "endMs": 17333.333
+      },
+      {
+        "text": "that",
+        "startMs": 17333.333,
+        "endMs": 17466.667
+      },
+      {
+        "text": "you",
+        "startMs": 17466.667,
+        "endMs": 17566.667
+      },
+      {
+        "text": "can",
+        "startMs": 17566.667,
+        "endMs": 17766.667
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 17766.667,
+    "endMs": 18866.667,
+    "words": [
+      {
+        "text": "prepare",
+        "startMs": 17766.667,
+        "endMs": 17966.667
+      },
+      {
+        "text": "with",
+        "startMs": 17966.667,
+        "endMs": 18300.0
+      },
+      {
+        "text": "confidence.",
+        "startMs": 18300.0,
+        "endMs": 18766.667,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 19033.333,
+    "endMs": 20000.0,
+    "words": [
+      {
+        "text": "And",
+        "startMs": 19033.333,
+        "endMs": 19200.0
+      },
+      {
+        "text": "here's",
+        "startMs": 19200.0,
+        "endMs": 19566.667
+      },
+      {
+        "text": "your",
+        "startMs": 19566.667,
+        "endMs": 19766.667
+      },
+      {
+        "text": "chance",
+        "startMs": 19766.667,
+        "endMs": 20000.0
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 20000.0,
+    "endMs": 21600.0,
+    "words": [
+      {
+        "text": "to",
+        "startMs": 20000.0,
+        "endMs": 20233.333
+      },
+      {
+        "text": "get",
+        "startMs": 20233.333,
+        "endMs": 20533.333
+      },
+      {
+        "text": "early",
+        "startMs": 20533.333,
+        "endMs": 21066.667
+      },
+      {
+        "text": "access.",
+        "startMs": 21066.667,
+        "endMs": 21500.0,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 21800.0,
+    "endMs": 22800.0,
+    "words": [
+      {
+        "text": "Join",
+        "startMs": 21800.0,
+        "endMs": 21933.333
+      },
+      {
+        "text": "the",
+        "startMs": 21933.333,
+        "endMs": 22133.333
+      },
+      {
+        "text": "NioLearn",
+        "startMs": 22133.333,
+        "endMs": 22433.333,
+        "accent": true
+      },
+      {
+        "text": "waitlist",
+        "startMs": 22433.333,
+        "endMs": 22800.0,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 22800.0,
+    "endMs": 24233.333,
+    "words": [
+      {
+        "text": "by",
+        "startMs": 22800.0,
+        "endMs": 23066.667
+      },
+      {
+        "text": "October",
+        "startMs": 23066.667,
+        "endMs": 23366.667
+      },
+      {
+        "text": "22nd",
+        "startMs": 23366.667,
+        "endMs": 24066.667,
+        "accent": true,
+        "emphasis": true
+      },
+      {
+        "text": "through",
+        "startMs": 24066.667,
+        "endMs": 24233.333
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 24233.333,
+    "endMs": 25833.333,
+    "words": [
+      {
+        "text": "our",
+        "startMs": 24233.333,
+        "endMs": 24400.0
+      },
+      {
+        "text": "website",
+        "startMs": 24400.0,
+        "endMs": 24833.333
+      },
+      {
+        "text": "for",
+        "startMs": 24833.333,
+        "endMs": 25500.0
+      },
+      {
+        "text": "early",
+        "startMs": 25500.0,
+        "endMs": 25833.333,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 25833.333,
+    "endMs": 27233.333,
+    "words": [
+      {
+        "text": "bird",
+        "startMs": 25833.333,
+        "endMs": 26166.667
+      },
+      {
+        "text": "admission",
+        "startMs": 26166.667,
+        "endMs": 26700.0
+      },
+      {
+        "text": "access.",
+        "startMs": 26700.0,
+        "endMs": 27133.333,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 27466.667,
+    "endMs": 28266.667,
+    "words": [
+      {
+        "text": "Don't",
+        "startMs": 27466.667,
+        "endMs": 27700.0
+      },
+      {
+        "text": "miss",
+        "startMs": 27700.0,
+        "endMs": 27833.333
+      },
+      {
+        "text": "this",
+        "startMs": 27833.333,
+        "endMs": 28033.333
+      },
+      {
+        "text": "out.",
+        "startMs": 28033.333,
+        "endMs": 28166.667
+      }
+    ],
+    "top": 1340,
+    "fontSize": 77
+  },
+  {
+    "startMs": 28400.0,
+    "endMs": 29400.0,
+    "words": [
+      {
+        "text": "Your",
+        "startMs": 28400.0,
+        "endMs": 28533.333
+      },
+      {
+        "text": "next",
+        "startMs": 28533.333,
+        "endMs": 28700.0
+      },
+      {
+        "text": "opportunity",
+        "startMs": 28700.0,
+        "endMs": 29400.0,
+        "accent": true,
+        "emphasis": true
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  },
+  {
+    "startMs": 29400.0,
+    "endMs": 30133.333,
+    "words": [
+      {
+        "text": "starts",
+        "startMs": 29400.0,
+        "endMs": 29766.667
+      },
+      {
+        "text": "here.",
+        "startMs": 29766.667,
+        "endMs": 30033.333
+      }
+    ],
+    "top": 1240,
+    "fontSize": 75
+  }
+]

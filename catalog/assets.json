@@ -1,0 +1,1988 @@
+[
+  {
+    "id": "arrow-forward-teal",
+    "file": "assets/elements/arrow-forward-teal.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "arrow-forward",
+      "teal"
+    ],
+    "bytes": 209,
+    "sha256": "6f4101895aa62da7bd931ead5ba4a6963ad8f54f2e57a8b14981ac381fe6986b"
+  },
+  {
+    "id": "compass-route-teal",
+    "file": "assets/elements/compass-route-teal.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "compass-route",
+      "teal"
+    ],
+    "bytes": 240,
+    "sha256": "247ab202eb662897abe9f57e28e0c80279ebaf29ef6431cefcae717322d64a57"
+  },
+  {
+    "id": "book-open-teal",
+    "file": "assets/elements/book-open-teal.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "book-open",
+      "teal"
+    ],
+    "bytes": 260,
+    "sha256": "3c5bbc79fd1151809dbae8189698040ed6e8ea51d26d259e3a05eac72423aaf3"
+  },
+  {
+    "id": "clock-teal",
+    "file": "assets/elements/clock-teal.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "clock",
+      "teal"
+    ],
+    "bytes": 228,
+    "sha256": "ddb8ed6cdf764f8fef459380dc5c54055873d633a8f87a0287b5f58c90fdde19"
+  },
+  {
+    "id": "check-ring-teal",
+    "file": "assets/elements/check-ring-teal.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "check-ring",
+      "teal"
+    ],
+    "bytes": 231,
+    "sha256": "4cfab4410e647878e8c2eb1026382d8de9c61fba614187196310c4a5547a15c6"
+  },
+  {
+    "id": "cursor-teal",
+    "file": "assets/elements/cursor-teal.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "cursor",
+      "teal"
+    ],
+    "bytes": 218,
+    "sha256": "b17324c2c2ae4c0be504fb2e4a2fa250dc1b64a052151ca00ff6fefe2a7ee0b0"
+  },
+  {
+    "id": "chat-teal",
+    "file": "assets/elements/chat-teal.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "chat",
+      "teal"
+    ],
+    "bytes": 236,
+    "sha256": "f3e089070944e533f906970df1d2b28ef4701b86db13aec6aa2f4ecef6bbfe1e"
+  },
+  {
+    "id": "calendar-teal",
+    "file": "assets/elements/calendar-teal.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "calendar",
+      "teal"
+    ],
+    "bytes": 295,
+    "sha256": "e4442dfb9816f9fa102a33b808caac47e5638064f5d0d7d93e45959dcb8d16ac"
+  },
+  {
+    "id": "growth-chart-teal",
+    "file": "assets/elements/growth-chart-teal.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "growth-chart",
+      "teal"
+    ],
+    "bytes": 233,
+    "sha256": "3a098a63723dad06e8db950edd1c12acc51a4a9348ba605beade80001465261a"
+  },
+  {
+    "id": "person-teal",
+    "file": "assets/elements/person-teal.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "person",
+      "teal"
+    ],
+    "bytes": 242,
+    "sha256": "52aa9c41ec36610cf736a47c9524cb9ec85659f572e6246010e52776ff1882d1"
+  },
+  {
+    "id": "briefcase-teal",
+    "file": "assets/elements/briefcase-teal.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "briefcase",
+      "teal"
+    ],
+    "bytes": 279,
+    "sha256": "b87e3bdf8bb2a33d0b95d87751a044817a215eb91fc0ed470b126cbed999734d"
+  },
+  {
+    "id": "lightbulb-teal",
+    "file": "assets/elements/lightbulb-teal.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "lightbulb",
+      "teal"
+    ],
+    "bytes": 263,
+    "sha256": "5baa0244cfcf6482d0056385355df2e9c183818c36c0c27e13dbfb5c8dc55c25"
+  },
+  {
+    "id": "network-teal",
+    "file": "assets/elements/network-teal.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "network",
+      "teal"
+    ],
+    "bytes": 404,
+    "sha256": "481c20e0c93b85e7b546757197a5e313bd2e3d37ba6a50e45a11396246f24b6f"
+  },
+  {
+    "id": "website-teal",
+    "file": "assets/elements/website-teal.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "website",
+      "teal"
+    ],
+    "bytes": 328,
+    "sha256": "30f81fe5fbe64d5b78850491e85da57c202b3d99bcdbf64aae50619b94517a39"
+  },
+  {
+    "id": "microphone-teal",
+    "file": "assets/elements/microphone-teal.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "microphone",
+      "teal"
+    ],
+    "bytes": 285,
+    "sha256": "eb7c8deb061de1f2baf675b0b863bac60ec9bd2aed1b09062f5b1754488944ae"
+  },
+  {
+    "id": "sparkle-teal",
+    "file": "assets/elements/sparkle-teal.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "sparkle",
+      "teal"
+    ],
+    "bytes": 231,
+    "sha256": "82c8860ec2e1e92b849ef628e5c40a3e72e8cd57ac161c274fc96180c470c55a"
+  },
+  {
+    "id": "arrow-forward-lime",
+    "file": "assets/elements/arrow-forward-lime.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "arrow-forward",
+      "lime"
+    ],
+    "bytes": 209,
+    "sha256": "a79c206efcaed54440008c18c6f73a22400f1aa69c8fb43114e4e8f380491a02"
+  },
+  {
+    "id": "compass-route-lime",
+    "file": "assets/elements/compass-route-lime.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "compass-route",
+      "lime"
+    ],
+    "bytes": 240,
+    "sha256": "3db32afcbc9635ee0233acd8cfa388c673b0ad680e81c27e1d153a545c730aeb"
+  },
+  {
+    "id": "book-open-lime",
+    "file": "assets/elements/book-open-lime.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "book-open",
+      "lime"
+    ],
+    "bytes": 260,
+    "sha256": "e9339242f9705a9f606b3ed71cc712d0fb7a2794a4e4e29a92c08287007bd3d0"
+  },
+  {
+    "id": "clock-lime",
+    "file": "assets/elements/clock-lime.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "clock",
+      "lime"
+    ],
+    "bytes": 228,
+    "sha256": "3675bb2a48c93a153ecf0d4aef6e979d5ab80ada29c96f84e638a7d8d767abc9"
+  },
+  {
+    "id": "check-ring-lime",
+    "file": "assets/elements/check-ring-lime.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "check-ring",
+      "lime"
+    ],
+    "bytes": 231,
+    "sha256": "e4b810461e76301c2f0e9170dad0ed9219394bc6dc2e8f4d8101220d7da73c9e"
+  },
+  {
+    "id": "cursor-lime",
+    "file": "assets/elements/cursor-lime.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "cursor",
+      "lime"
+    ],
+    "bytes": 218,
+    "sha256": "3af4fd95dcefe27460b60427bff7b5269d1e2723643ac293fc79901f4910cd94"
+  },
+  {
+    "id": "chat-lime",
+    "file": "assets/elements/chat-lime.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "chat",
+      "lime"
+    ],
+    "bytes": 236,
+    "sha256": "53cfbf683b28a4f4452db2e5cd548e6fb700272bb83dd300f5a4a1d8c4caa25a"
+  },
+  {
+    "id": "calendar-lime",
+    "file": "assets/elements/calendar-lime.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "calendar",
+      "lime"
+    ],
+    "bytes": 295,
+    "sha256": "a79a1de97de05e412c078fbf24d60d5619c264e58fbdc9092f042357a2f5e5b0"
+  },
+  {
+    "id": "growth-chart-lime",
+    "file": "assets/elements/growth-chart-lime.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "growth-chart",
+      "lime"
+    ],
+    "bytes": 233,
+    "sha256": "42bd779d976a38ce866638016a851cee022c5b0333025e787ffc34a840834246"
+  },
+  {
+    "id": "person-lime",
+    "file": "assets/elements/person-lime.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "person",
+      "lime"
+    ],
+    "bytes": 242,
+    "sha256": "686e557a3a6724e6ab1d3f6b106642699656fc581f06807d88fa0cf4f5868849"
+  },
+  {
+    "id": "briefcase-lime",
+    "file": "assets/elements/briefcase-lime.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "briefcase",
+      "lime"
+    ],
+    "bytes": 279,
+    "sha256": "1184c7c2a19a715e5546fd4a424511a1eb0ef29c8af9a975be7dde02bc7bbb4e"
+  },
+  {
+    "id": "lightbulb-lime",
+    "file": "assets/elements/lightbulb-lime.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "lightbulb",
+      "lime"
+    ],
+    "bytes": 263,
+    "sha256": "89e71f28a46ffa0caed9f93ff4e84dc3e65f0ed8568d23cb2e835809a51ce3e1"
+  },
+  {
+    "id": "network-lime",
+    "file": "assets/elements/network-lime.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "network",
+      "lime"
+    ],
+    "bytes": 404,
+    "sha256": "5e8e114a29f128e5cb420e867ab06414d320cf557c466a882dea6139d639ef43"
+  },
+  {
+    "id": "website-lime",
+    "file": "assets/elements/website-lime.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "website",
+      "lime"
+    ],
+    "bytes": 328,
+    "sha256": "2d6c1f65e04a440c02ba2c77b78524316be1d0258da33dade3402ad5c6b8df80"
+  },
+  {
+    "id": "microphone-lime",
+    "file": "assets/elements/microphone-lime.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "microphone",
+      "lime"
+    ],
+    "bytes": 285,
+    "sha256": "f2b356c4c141ce6a486e6f22867265e4a7348c1a749e9d82abf5c43dc5f420a6"
+  },
+  {
+    "id": "sparkle-lime",
+    "file": "assets/elements/sparkle-lime.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "sparkle",
+      "lime"
+    ],
+    "bytes": 231,
+    "sha256": "bf9e596cdf78777c5853ae6e9c8a4af06940d772771470af5f6bbd6e7574279e"
+  },
+  {
+    "id": "arrow-forward-white",
+    "file": "assets/elements/arrow-forward-white.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "arrow-forward",
+      "white"
+    ],
+    "bytes": 209,
+    "sha256": "5bad3d9540b5d3b56ba601c7acaaeb43d3b5345ff69a0f6f2555caf13e0a4d27"
+  },
+  {
+    "id": "compass-route-white",
+    "file": "assets/elements/compass-route-white.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "compass-route",
+      "white"
+    ],
+    "bytes": 240,
+    "sha256": "41730f281de389344d1ef9f8203f843464dbcdae1fb76384a065716f9bb6aeea"
+  },
+  {
+    "id": "book-open-white",
+    "file": "assets/elements/book-open-white.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "book-open",
+      "white"
+    ],
+    "bytes": 260,
+    "sha256": "2cfc9f3efe0747d7ecf08be9940e61af7e30eb071a118e4a17487831cf677238"
+  },
+  {
+    "id": "clock-white",
+    "file": "assets/elements/clock-white.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "clock",
+      "white"
+    ],
+    "bytes": 228,
+    "sha256": "bc1bc83a0e54d34a294d5913b7dced563871e857882933cb99f1ea59daa41c84"
+  },
+  {
+    "id": "check-ring-white",
+    "file": "assets/elements/check-ring-white.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "check-ring",
+      "white"
+    ],
+    "bytes": 231,
+    "sha256": "cfc5128c7d188cc0121d1a289c5ab835f83a1ee0c8a8a42eb3f1cd01f7cca803"
+  },
+  {
+    "id": "cursor-white",
+    "file": "assets/elements/cursor-white.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "cursor",
+      "white"
+    ],
+    "bytes": 218,
+    "sha256": "64dbe26bf6fa03b0acaad663768b2adfffb6ab17d714834a19e2137353d4e0c8"
+  },
+  {
+    "id": "chat-white",
+    "file": "assets/elements/chat-white.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "chat",
+      "white"
+    ],
+    "bytes": 236,
+    "sha256": "a41ed93edeb19032cb28c1acbdcadd11feaacdbc3fe46cc184eca736650ae1d2"
+  },
+  {
+    "id": "calendar-white",
+    "file": "assets/elements/calendar-white.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "calendar",
+      "white"
+    ],
+    "bytes": 295,
+    "sha256": "bc6854e8ba5e6af23cb07a0f7dbb50fce92f94242403b1b0e763d8d729f95a83"
+  },
+  {
+    "id": "growth-chart-white",
+    "file": "assets/elements/growth-chart-white.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "growth-chart",
+      "white"
+    ],
+    "bytes": 233,
+    "sha256": "3e1c39fa3557e3a0c6d6f972aa4a19000775c5585fcea6b89f005478a9a12304"
+  },
+  {
+    "id": "person-white",
+    "file": "assets/elements/person-white.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "person",
+      "white"
+    ],
+    "bytes": 242,
+    "sha256": "bd9fb5d3fc653ef963f38654d30cfa5fc11a3168b10855dda110c7ff8579d4b8"
+  },
+  {
+    "id": "briefcase-white",
+    "file": "assets/elements/briefcase-white.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "briefcase",
+      "white"
+    ],
+    "bytes": 279,
+    "sha256": "e99225d199281a991ace06996249d1ed7c017b00b9a5a08f648303b634e7d3ff"
+  },
+  {
+    "id": "lightbulb-white",
+    "file": "assets/elements/lightbulb-white.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "lightbulb",
+      "white"
+    ],
+    "bytes": 263,
+    "sha256": "9ddd62ddf2595b5e19de7b57c45d4f0dba341026c34fcc6742d67721be397b1b"
+  },
+  {
+    "id": "network-white",
+    "file": "assets/elements/network-white.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "network",
+      "white"
+    ],
+    "bytes": 404,
+    "sha256": "ae7380cfce5844235d8b659e6aef10bfa6fb266be75dab7f0eb117e8d4e3e072"
+  },
+  {
+    "id": "website-white",
+    "file": "assets/elements/website-white.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "website",
+      "white"
+    ],
+    "bytes": 328,
+    "sha256": "bc3d64b33a241d24792d1336cb5cc9f191be5d1137b20caf3f65d8edec82d5ab"
+  },
+  {
+    "id": "microphone-white",
+    "file": "assets/elements/microphone-white.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "microphone",
+      "white"
+    ],
+    "bytes": 285,
+    "sha256": "501e59294f389b55b97a4bb88affc8f1e0b3589446a96dce225cb32cc551f270"
+  },
+  {
+    "id": "sparkle-white",
+    "file": "assets/elements/sparkle-white.svg",
+    "kind": "transparent-svg",
+    "source": "Original project geometry",
+    "tags": [
+      "sparkle",
+      "white"
+    ],
+    "bytes": 231,
+    "sha256": "3da9997d9cf386a6ccf70cfe0a692b6770bc7267d11ae78703163eff5639692f"
+  },
+  {
+    "id": "glass-person-navy",
+    "file": "assets/elements/glass-person-navy.png",
+    "kind": "transparent-png",
+    "source": "Original procedural artwork",
+    "tags": [
+      "glass-person",
+      "navy"
+    ],
+    "bytes": 7377,
+    "sha256": "6e78c36f163df559a4f514893920f950fdd192f10112d001bc68ce738eb148fb"
+  },
+  {
+    "id": "silhouette-navy",
+    "file": "assets/elements/silhouette-navy.png",
+    "kind": "transparent-png",
+    "source": "Original procedural artwork",
+    "tags": [
+      "silhouette",
+      "navy"
+    ],
+    "bytes": 5870,
+    "sha256": "b97b2b182b16a4c96a13a39cd7ec85388e1934738180fcc202f3f9ac34d107d9"
+  },
+  {
+    "id": "glow-ring-navy",
+    "file": "assets/elements/glow-ring-navy.png",
+    "kind": "transparent-png",
+    "source": "Original procedural artwork",
+    "tags": [
+      "glow-ring",
+      "navy"
+    ],
+    "bytes": 80745,
+    "sha256": "294dbbc14371420903d530d23a9149fcfc09fbd595b43c0cebbc8e6e84196267"
+  },
+  {
+    "id": "soft-shadow-navy",
+    "file": "assets/elements/soft-shadow-navy.png",
+    "kind": "transparent-png",
+    "source": "Original procedural artwork",
+    "tags": [
+      "soft-shadow",
+      "navy"
+    ],
+    "bytes": 16245,
+    "sha256": "a213bce1966fea75c5144c0e3ed91e0d0f22684e115d2bd51d2813521287ec70"
+  },
+  {
+    "id": "glass-person-teal",
+    "file": "assets/elements/glass-person-teal.png",
+    "kind": "transparent-png",
+    "source": "Original procedural artwork",
+    "tags": [
+      "glass-person",
+      "teal"
+    ],
+    "bytes": 7374,
+    "sha256": "b3c681a590256d5e4014462bdc2bff3e9082718bd3fb1701bcfa8f42a264a182"
+  },
+  {
+    "id": "silhouette-teal",
+    "file": "assets/elements/silhouette-teal.png",
+    "kind": "transparent-png",
+    "source": "Original procedural artwork",
+    "tags": [
+      "silhouette",
+      "teal"
+    ],
+    "bytes": 5870,
+    "sha256": "09268059a1fc2702a0a099c1451c1d1589af856897d7362ea4b85ce2b53ed3a1"
+  },
+  {
+    "id": "glow-ring-teal",
+    "file": "assets/elements/glow-ring-teal.png",
+    "kind": "transparent-png",
+    "source": "Original procedural artwork",
+    "tags": [
+      "glow-ring",
+      "teal"
+    ],
+    "bytes": 111453,
+    "sha256": "e22f5c6b6a15f3c29c203d0dca48036189e40835770b60a36c71704cef31253c"
+  },
+  {
+    "id": "soft-shadow-teal",
+    "file": "assets/elements/soft-shadow-teal.png",
+    "kind": "transparent-png",
+    "source": "Original procedural artwork",
+    "tags": [
+      "soft-shadow",
+      "teal"
+    ],
+    "bytes": 16245,
+    "sha256": "a213bce1966fea75c5144c0e3ed91e0d0f22684e115d2bd51d2813521287ec70"
+  },
+  {
+    "id": "glass-person-lime",
+    "file": "assets/elements/glass-person-lime.png",
+    "kind": "transparent-png",
+    "source": "Original procedural artwork",
+    "tags": [
+      "glass-person",
+      "lime"
+    ],
+    "bytes": 7376,
+    "sha256": "4b59c60409eddcc9cf645eb016bc9e877befa5e3db3b564e6967f5f0521a3a38"
+  },
+  {
+    "id": "silhouette-lime",
+    "file": "assets/elements/silhouette-lime.png",
+    "kind": "transparent-png",
+    "source": "Original procedural artwork",
+    "tags": [
+      "silhouette",
+      "lime"
+    ],
+    "bytes": 5870,
+    "sha256": "0c2a0c2f06648775ba7dc0e23046d9c07f7af3997c69bdb042b6099837dcf9cd"
+  },
+  {
+    "id": "glow-ring-lime",
+    "file": "assets/elements/glow-ring-lime.png",
+    "kind": "transparent-png",
+    "source": "Original procedural artwork",
+    "tags": [
+      "glow-ring",
+      "lime"
+    ],
+    "bytes": 123470,
+    "sha256": "cec8aa89d43ff244ee45dd76564cf30620b52408dc126568352968164b3b450c"
+  },
+  {
+    "id": "soft-shadow-lime",
+    "file": "assets/elements/soft-shadow-lime.png",
+    "kind": "transparent-png",
+    "source": "Original procedural artwork",
+    "tags": [
+      "soft-shadow",
+      "lime"
+    ],
+    "bytes": 16245,
+    "sha256": "a213bce1966fea75c5144c0e3ed91e0d0f22684e115d2bd51d2813521287ec70"
+  },
+  {
+    "id": "glass-person-white",
+    "file": "assets/elements/glass-person-white.png",
+    "kind": "transparent-png",
+    "source": "Original procedural artwork",
+    "tags": [
+      "glass-person",
+      "white"
+    ],
+    "bytes": 7370,
+    "sha256": "086589ecd1cedfc2dbfc0aca0612ba03cb77eaeebeeeb234713e4131cd937d95"
+  },
+  {
+    "id": "silhouette-white",
+    "file": "assets/elements/silhouette-white.png",
+    "kind": "transparent-png",
+    "source": "Original procedural artwork",
+    "tags": [
+      "silhouette",
+      "white"
+    ],
+    "bytes": 5865,
+    "sha256": "0fe920e6d20ee7c387678d2fd5621e48a33f62ab9b91491efcf00d60e19ca3d1"
+  },
+  {
+    "id": "glow-ring-white",
+    "file": "assets/elements/glow-ring-white.png",
+    "kind": "transparent-png",
+    "source": "Original procedural artwork",
+    "tags": [
+      "glow-ring",
+      "white"
+    ],
+    "bytes": 119478,
+    "sha256": "6f3fd4e1357914f92ec78fcae877f77d4f02436c1cef017d15c27ad15993e856"
+  },
+  {
+    "id": "soft-shadow-white",
+    "file": "assets/elements/soft-shadow-white.png",
+    "kind": "transparent-png",
+    "source": "Original procedural artwork",
+    "tags": [
+      "soft-shadow",
+      "white"
+    ],
+    "bytes": 16245,
+    "sha256": "a213bce1966fea75c5144c0e3ed91e0d0f22684e115d2bd51d2813521287ec70"
+  },
+  {
+    "id": "soft-whoosh",
+    "file": "assets/sfx/soft-whoosh.wav",
+    "kind": "original-synth-audio",
+    "source": "Deterministic numpy synthesis",
+    "peak_dbfs": -13.15,
+    "bytes": 48044,
+    "sha256": "3b4cbc9c34c1dc16f33488170d61dd99300520132528770628e9eda79659eaaa"
+  },
+  {
+    "id": "reverse-whoosh",
+    "file": "assets/sfx/reverse-whoosh.wav",
+    "kind": "original-synth-audio",
+    "source": "Deterministic numpy synthesis",
+    "peak_dbfs": -13.15,
+    "bytes": 62444,
+    "sha256": "c87ba5a48ba9790ab3c35fb5d47362092446010ee3b70e1d089ab2c402e24ba3"
+  },
+  {
+    "id": "whip",
+    "file": "assets/sfx/whip.wav",
+    "kind": "original-synth-audio",
+    "source": "Deterministic numpy synthesis",
+    "peak_dbfs": -13.15,
+    "bytes": 22124,
+    "sha256": "f78b3e94aa563ba1ba77943f6dbe6e47f1a733e175a34bf2bd01b018992bde3d"
+  },
+  {
+    "id": "low-impact",
+    "file": "assets/sfx/low-impact.wav",
+    "kind": "original-synth-audio",
+    "source": "Deterministic numpy synthesis",
+    "peak_dbfs": -13.15,
+    "bytes": 67244,
+    "sha256": "585bb33a0eec2ca59dc5f25c4d0aa0b7371d54e49c0439bc54a4a86cb11654d6"
+  },
+  {
+    "id": "caption-pop",
+    "file": "assets/sfx/caption-pop.wav",
+    "kind": "original-synth-audio",
+    "source": "Deterministic numpy synthesis",
+    "peak_dbfs": -13.15,
+    "bytes": 11564,
+    "sha256": "7db80ed3db132cfbf30c5fe0938ad3abdd976fa8f68c5ffdda198531aeba2377"
+  },
+  {
+    "id": "ui-click",
+    "file": "assets/sfx/ui-click.wav",
+    "kind": "original-synth-audio",
+    "source": "Deterministic numpy synthesis",
+    "peak_dbfs": -13.15,
+    "bytes": 6764,
+    "sha256": "3452e38ebbf2169ee2121d4c6a0c9610e6c983d3b229b993dc240a483180e3fb"
+  },
+  {
+    "id": "soft-tick",
+    "file": "assets/sfx/soft-tick.wav",
+    "kind": "original-synth-audio",
+    "source": "Deterministic numpy synthesis",
+    "peak_dbfs": -13.15,
+    "bytes": 4844,
+    "sha256": "36f8ee5acd9a2dd3017d8ea99fb27ac73d1d5d8f5e4ac8b353e4c6fef0567f84"
+  },
+  {
+    "id": "sparkle",
+    "file": "assets/sfx/sparkle.wav",
+    "kind": "original-synth-audio",
+    "source": "Deterministic numpy synthesis",
+    "peak_dbfs": -13.15,
+    "bytes": 67244,
+    "sha256": "d6b2cc4755fb8f24b5379bd6cbe0553354b8606cffa951dd0145cb5779f47cb0"
+  },
+  {
+    "id": "riser",
+    "file": "assets/sfx/riser.wav",
+    "kind": "original-synth-audio",
+    "source": "Deterministic numpy synthesis",
+    "peak_dbfs": -13.15,
+    "bytes": 115244,
+    "sha256": "b0784158153a603958f86d79a5a0ddbbeec66d85e00101cf38bb0b7f7aaf2cc2"
+  },
+  {
+    "id": "transition-air",
+    "file": "assets/sfx/transition-air.wav",
+    "kind": "original-synth-audio",
+    "source": "Deterministic numpy synthesis",
+    "peak_dbfs": -13.15,
+    "bytes": 43244,
+    "sha256": "f541b257d86f2c1ebf4d7ae97198de386ebc8df60489bacc0a620067cf3c5151"
+  },
+  {
+    "id": "notification",
+    "file": "assets/sfx/notification.wav",
+    "kind": "original-synth-audio",
+    "source": "Deterministic numpy synthesis",
+    "peak_dbfs": -13.15,
+    "bytes": 48044,
+    "sha256": "2054c2dab7456ff421a04df7f7d0103728daceb6f8b04d6410ff19324352a99d"
+  },
+  {
+    "id": "page-turn",
+    "file": "assets/sfx/page-turn.wav",
+    "kind": "original-synth-audio",
+    "source": "Deterministic numpy synthesis",
+    "peak_dbfs": -13.15,
+    "bytes": 28844,
+    "sha256": "191045fa6d7b688a5d6ce7fdda7c84054ca9556e2a53997f36596071a79c10ed"
+  },
+  {
+    "id": "calm-focus",
+    "file": "assets/music/calm-focus.wav",
+    "kind": "original-synth-audio",
+    "source": "Deterministic numpy synthesis",
+    "peak_dbfs": -27.05,
+    "bytes": 3072044,
+    "sha256": "00ac26fce2dd74b862aa566138886655c06c3e24a0b4247589583c304ecd2bd4"
+  },
+  {
+    "id": "soft-momentum",
+    "file": "assets/music/soft-momentum.wav",
+    "kind": "original-synth-audio",
+    "source": "Deterministic numpy synthesis",
+    "peak_dbfs": -27.1,
+    "bytes": 3072044,
+    "sha256": "608d2f7f4f260ca56b88f3f98e5ca176049ef2d33a5b72f9f357ae9819028066"
+  },
+  {
+    "id": "atfro-compare",
+    "file": "assets/broll/atfro-compare.webm",
+    "kind": "transparent-video",
+    "source": "Original src/Broll.tsx rendered via Remotion",
+    "tags": [
+      "broll",
+      "alpha",
+      "atfro"
+    ],
+    "bytes": 458105,
+    "sha256": "99bdb06e0b660500677a45c8cce8fe48d72f1ddece9cc026d4f2c707243d0d6a"
+  },
+  {
+    "id": "atfro-countdown",
+    "file": "assets/broll/atfro-countdown.webm",
+    "kind": "transparent-video",
+    "source": "Original src/Broll.tsx rendered via Remotion",
+    "tags": [
+      "broll",
+      "alpha",
+      "atfro"
+    ],
+    "bytes": 160195,
+    "sha256": "50f22e9f836b86ff6537abe632f6194e09e27eb8189b504c357c66efeedec669"
+  },
+  {
+    "id": "atfro-crowd",
+    "file": "assets/broll/atfro-crowd.webm",
+    "kind": "transparent-video",
+    "source": "Original src/Broll.tsx rendered via Remotion",
+    "tags": [
+      "broll",
+      "alpha",
+      "atfro"
+    ],
+    "bytes": 1481896,
+    "sha256": "4318e929d46bbb684508adce54bd1e24aa61ad732a118ff83f724beb91748e8c"
+  },
+  {
+    "id": "atfro-lead-flow",
+    "file": "assets/broll/atfro-lead-flow.webm",
+    "kind": "transparent-video",
+    "source": "Original src/Broll.tsx rendered via Remotion",
+    "tags": [
+      "broll",
+      "alpha",
+      "atfro"
+    ],
+    "bytes": 816153,
+    "sha256": "57b01b6501202d434fe7a0c6e1e36ed52ec1f2260c23dbd45428c532fadf0a1f"
+  },
+  {
+    "id": "atfro-pathways",
+    "file": "assets/broll/atfro-pathways.webm",
+    "kind": "transparent-video",
+    "source": "Original src/Broll.tsx rendered via Remotion",
+    "tags": [
+      "broll",
+      "alpha",
+      "atfro"
+    ],
+    "bytes": 562728,
+    "sha256": "74fa3e8a6ff6061bbb8e94e39ab707659b06c7927378fd823acce350f5d9086d"
+  },
+  {
+    "id": "atfro-premium-paper-crowd-v3",
+    "file": "assets/broll/atfro-premium-paper-crowd-v3.webm",
+    "kind": "transparent-video",
+    "source": "Original src/Broll.tsx rendered via Remotion",
+    "tags": [
+      "broll",
+      "alpha",
+      "atfro"
+    ],
+    "bytes": 4602848,
+    "sha256": "34cba7351fcf996ef2cba2f11adc8f383b7e285549e7b8fd7de725f9cf403571"
+  },
+  {
+    "id": "atfro-premium-paper-partnership-v3",
+    "file": "assets/broll/atfro-premium-paper-partnership-v3.webm",
+    "kind": "transparent-video",
+    "source": "Original src/Broll.tsx rendered via Remotion",
+    "tags": [
+      "broll",
+      "alpha",
+      "atfro"
+    ],
+    "bytes": 2606846,
+    "sha256": "67a90691808bc0b7e45ac6bf5fc3e0011200db927914fe5b161a55d4739986a2"
+  },
+  {
+    "id": "atfro-premium-paper-pathways-v3",
+    "file": "assets/broll/atfro-premium-paper-pathways-v3.webm",
+    "kind": "transparent-video",
+    "source": "Original src/Broll.tsx rendered via Remotion",
+    "tags": [
+      "broll",
+      "alpha",
+      "atfro"
+    ],
+    "bytes": 1554459,
+    "sha256": "09adaed34864613636f4091fa0dfce85b240963ec4a71f810ed15d3dcc81d3d9"
+  },
+  {
+    "id": "atfro-premium-paper-possibilities-v3",
+    "file": "assets/broll/atfro-premium-paper-possibilities-v3.webm",
+    "kind": "transparent-video",
+    "source": "Original src/Broll.tsx rendered via Remotion",
+    "tags": [
+      "broll",
+      "alpha",
+      "atfro"
+    ],
+    "bytes": 1914063,
+    "sha256": "62471ae31a5ea5d74fdfac758747a679db1dcb7e96312c13206f68d5ee09b6ea"
+  },
+  {
+    "id": "atfro-timeline",
+    "file": "assets/broll/atfro-timeline.webm",
+    "kind": "transparent-video",
+    "source": "Original src/Broll.tsx rendered via Remotion",
+    "tags": [
+      "broll",
+      "alpha",
+      "atfro"
+    ],
+    "bytes": 177279,
+    "sha256": "0435913ac8e3a0a92f1be8ddf7a64dcd5d6f30ba07c6cdd570a0cb530b693581"
+  },
+  {
+    "id": "niolearn-compare",
+    "file": "assets/broll/niolearn-compare.webm",
+    "kind": "transparent-video",
+    "source": "Original src/Broll.tsx rendered via Remotion",
+    "tags": [
+      "broll",
+      "alpha",
+      "niolearn"
+    ],
+    "bytes": 396547,
+    "sha256": "22cc25deed0302612a7cfd2bc7aabf2ad32407a7df7bb0aa60f165f6bf1e8466"
+  },
+  {
+    "id": "niolearn-countdown",
+    "file": "assets/broll/niolearn-countdown.webm",
+    "kind": "transparent-video",
+    "source": "Original src/Broll.tsx rendered via Remotion",
+    "tags": [
+      "broll",
+      "alpha",
+      "niolearn"
+    ],
+    "bytes": 200070,
+    "sha256": "b1ac45109ad56d18b9d8950e996de7fefca923cf891709d03a06ac0f8d7b20a6"
+  },
+  {
+    "id": "niolearn-crowd",
+    "file": "assets/broll/niolearn-crowd.webm",
+    "kind": "transparent-video",
+    "source": "Original src/Broll.tsx rendered via Remotion",
+    "tags": [
+      "broll",
+      "alpha",
+      "niolearn"
+    ],
+    "bytes": 1209275,
+    "sha256": "4029b3a7860efca2fa67fe2c19ac8c38d28ad8db1561c5dbf5b4282568ece9f1"
+  },
+  {
+    "id": "niolearn-lead-flow",
+    "file": "assets/broll/niolearn-lead-flow.webm",
+    "kind": "transparent-video",
+    "source": "Original src/Broll.tsx rendered via Remotion",
+    "tags": [
+      "broll",
+      "alpha",
+      "niolearn"
+    ],
+    "bytes": 414176,
+    "sha256": "c37c19e90660380658fc947b618f510d3639ebeced2823515a6585164d7f93f0"
+  },
+  {
+    "id": "niolearn-pathways",
+    "file": "assets/broll/niolearn-pathways.webm",
+    "kind": "transparent-video",
+    "source": "Original src/Broll.tsx rendered via Remotion",
+    "tags": [
+      "broll",
+      "alpha",
+      "niolearn"
+    ],
+    "bytes": 309555,
+    "sha256": "4a5c095a8c9593fded20311b163dd5df908899d7daa4339cb0042c17b11512a6"
+  },
+  {
+    "id": "niolearn-premium-paper-crowd-v3",
+    "file": "assets/broll/niolearn-premium-paper-crowd-v3.webm",
+    "kind": "transparent-video",
+    "source": "Original src/Broll.tsx rendered via Remotion",
+    "tags": [
+      "broll",
+      "alpha",
+      "niolearn"
+    ],
+    "bytes": 5230041,
+    "sha256": "24c2b9d3505936fa9703f26f15b8befa3639a687971c00714dfd35ba5f35fad2"
+  },
+  {
+    "id": "niolearn-premium-paper-partnership-v3",
+    "file": "assets/broll/niolearn-premium-paper-partnership-v3.webm",
+    "kind": "transparent-video",
+    "source": "Original src/Broll.tsx rendered via Remotion",
+    "tags": [
+      "broll",
+      "alpha",
+      "niolearn"
+    ],
+    "bytes": 2723400,
+    "sha256": "6cc98235c05e90ebcc52320710665640b9d0e6d0657aa6692cf28826f0e718fc"
+  },
+  {
+    "id": "niolearn-premium-paper-pathways-v3",
+    "file": "assets/broll/niolearn-premium-paper-pathways-v3.webm",
+    "kind": "transparent-video",
+    "source": "Original src/Broll.tsx rendered via Remotion",
+    "tags": [
+      "broll",
+      "alpha",
+      "niolearn"
+    ],
+    "bytes": 1568439,
+    "sha256": "e5a1bc4f133049c074a014a15d2f3b6d345803b4d49644d70287bc345388cbc7"
+  },
+  {
+    "id": "niolearn-premium-paper-possibilities-v3",
+    "file": "assets/broll/niolearn-premium-paper-possibilities-v3.webm",
+    "kind": "transparent-video",
+    "source": "Original src/Broll.tsx rendered via Remotion",
+    "tags": [
+      "broll",
+      "alpha",
+      "niolearn"
+    ],
+    "bytes": 1965148,
+    "sha256": "c9ceee9e5725db041ef84add800af297d73d3de4849cb83c673441361dbddfa7"
+  },
+  {
+    "id": "niolearn-timeline",
+    "file": "assets/broll/niolearn-timeline.webm",
+    "kind": "transparent-video",
+    "source": "Original src/Broll.tsx rendered via Remotion",
+    "tags": [
+      "broll",
+      "alpha",
+      "niolearn"
+    ],
+    "bytes": 174768,
+    "sha256": "54a8b7297fb12e4594291619a195dc69cb805803a18a83232884b4cfe1e3d897"
+  },
+  {
+    "id": "premium-compass",
+    "file": "assets/premium/cutouts/compass.png",
+    "kind": "transparent-generated",
+    "source": "Original text-to-image asset via built-in ImageGen",
+    "promptFile": "docs/PREMIUM_ASSET_PROMPTS.json",
+    "tags": [
+      "premium",
+      "paper",
+      "cutout"
+    ],
+    "bytes": 1769796,
+    "sha256": "e7d8c5ab714edd35b9e5aa8cf7b493f4c221b57c5008bf41fed5c97c034e6aa2"
+  },
+  {
+    "id": "premium-editorial-person",
+    "file": "assets/premium/cutouts/editorial-person.png",
+    "kind": "transparent-generated",
+    "source": "Original text-to-image asset via built-in ImageGen",
+    "promptFile": "docs/PREMIUM_ASSET_PROMPTS.json",
+    "tags": [
+      "premium",
+      "paper",
+      "cutout"
+    ],
+    "bytes": 1585340,
+    "sha256": "ed1728605a8661596d94c7b1b7cfadb4dd40851d525a35470d6f5b61de2bcc59"
+  },
+  {
+    "id": "premium-handshake",
+    "file": "assets/premium/cutouts/handshake.png",
+    "kind": "transparent-generated",
+    "source": "Original text-to-image asset via built-in ImageGen",
+    "promptFile": "docs/PREMIUM_ASSET_PROMPTS.json",
+    "tags": [
+      "premium",
+      "paper",
+      "cutout"
+    ],
+    "bytes": 1682095,
+    "sha256": "ead56074e4dfc519d2a6453ad8df19f4baa8d37d853b9f775f06b3f1b569e654"
+  },
+  {
+    "id": "premium-open-book",
+    "file": "assets/premium/cutouts/open-book.png",
+    "kind": "transparent-generated",
+    "source": "Original text-to-image asset via built-in ImageGen",
+    "promptFile": "docs/PREMIUM_ASSET_PROMPTS.json",
+    "tags": [
+      "premium",
+      "paper",
+      "cutout"
+    ],
+    "bytes": 1328209,
+    "sha256": "286e62c02242a446cb98a82b41a56f5a2a09185728aa8f6d01167667dbfc73f9"
+  },
+  {
+    "id": "premium-paper-student",
+    "file": "assets/premium/cutouts/paper-student.png",
+    "kind": "transparent-generated",
+    "source": "Original text-to-image asset via built-in ImageGen",
+    "promptFile": "docs/PREMIUM_ASSET_PROMPTS.json",
+    "tags": [
+      "premium",
+      "paper",
+      "cutout"
+    ],
+    "bytes": 1575412,
+    "sha256": "71d1e2a8a1a7b345619f7716ed3a888c10d9209beafb87b785dcd75d48ee9663"
+  },
+  {
+    "id": "premium-grain",
+    "file": "assets/premium/textures/grain.svg",
+    "kind": "transparent-svg",
+    "source": "Original procedural texture",
+    "tags": [
+      "premium",
+      "texture"
+    ],
+    "bytes": 258,
+    "sha256": "127003cfd46f7abd76b6b26cd7d81d9898743d882f9029b000798d267213166e"
+  },
+  {
+    "id": "atfro-01-atfro-process-v2",
+    "file": "assets/projects/atfro-01/atfro-process-v2.webm",
+    "kind": "transparent-video",
+    "source": "Original reel-specific Canvas/SVG motion and project-generated cutouts",
+    "promptFile": "projects/atfro/atfro-01/assets-provenance.json",
+    "tags": [
+      "atfro",
+      "premium",
+      "reel-specific",
+      "canvas"
+    ],
+    "bytes": 1225511,
+    "sha256": "630264090afdb94d5c7c315cb21b3fdba92030d57c63835ee8817a6b21a384ec"
+  },
+  {
+    "id": "atfro-01-atfro-work-v2",
+    "file": "assets/projects/atfro-01/atfro-work-v2.webm",
+    "kind": "transparent-video",
+    "source": "Original reel-specific Canvas/SVG motion and project-generated cutouts",
+    "promptFile": "projects/atfro/atfro-01/assets-provenance.json",
+    "tags": [
+      "atfro",
+      "premium",
+      "reel-specific",
+      "canvas"
+    ],
+    "bytes": 1230477,
+    "sha256": "6a725bb34e74d09b3b767ec9460319da6d5605539e14b627b153be30ee5d7b80"
+  },
+  {
+    "id": "atfro-01-software-window",
+    "file": "assets/projects/atfro-01/software-window.svg",
+    "kind": "transparent-svg",
+    "source": "Original reel-specific Canvas/SVG motion and project-generated cutouts",
+    "promptFile": "projects/atfro/atfro-01/assets-provenance.json",
+    "tags": [
+      "atfro",
+      "premium",
+      "reel-specific",
+      "cutout"
+    ],
+    "bytes": 1096,
+    "sha256": "239331a5463203c530239442dfb7298378320e04f8cfe0b92d552f87db791789"
+  },
+  {
+    "id": "atfro-01-stethoscope",
+    "file": "assets/projects/atfro-01/stethoscope.png",
+    "kind": "transparent-generated",
+    "source": "Original reel-specific Canvas/SVG motion and project-generated cutouts",
+    "promptFile": "projects/atfro/atfro-01/assets-provenance.json",
+    "tags": [
+      "atfro",
+      "premium",
+      "reel-specific",
+      "cutout"
+    ],
+    "bytes": 592755,
+    "sha256": "858230eaa3a218da61b87a94378d2ae3b19ab054b147f08de51c2bca5969fea6"
+  },
+  {
+    "id": "atfro-04-atfro-school-film-v1",
+    "file": "assets/projects/atfro-04/atfro-school-film-v1.webm",
+    "kind": "transparent-video",
+    "source": "Original reel-specific Canvas/SVG motion and project-generated cutouts",
+    "promptFile": "projects/atfro/atfro-04/assets-provenance.json",
+    "tags": [
+      "atfro",
+      "premium",
+      "reel-specific",
+      "canvas"
+    ],
+    "bytes": 693818,
+    "sha256": "b22a6669dd8578c59f1b543b6f4a8cce8f62503bea0f07c7dccda30bbf621e2e"
+  },
+  {
+    "id": "atfro-04-atfro-school-plan-v1",
+    "file": "assets/projects/atfro-04/atfro-school-plan-v1.webm",
+    "kind": "transparent-video",
+    "source": "Original reel-specific Canvas/SVG motion and project-generated cutouts",
+    "promptFile": "projects/atfro/atfro-04/assets-provenance.json",
+    "tags": [
+      "atfro",
+      "premium",
+      "reel-specific",
+      "canvas"
+    ],
+    "bytes": 824548,
+    "sha256": "da8def75ff22ef38af837807faebe04e5358170ec0cebff88c52493e87ccb514"
+  },
+  {
+    "id": "atfro-04-atfro-school-workflow-v1",
+    "file": "assets/projects/atfro-04/atfro-school-workflow-v1.webm",
+    "kind": "transparent-video",
+    "source": "Original reel-specific Canvas/SVG motion and project-generated cutouts",
+    "promptFile": "projects/atfro/atfro-04/assets-provenance.json",
+    "tags": [
+      "atfro",
+      "premium",
+      "reel-specific",
+      "canvas"
+    ],
+    "bytes": 660461,
+    "sha256": "1e18597cf8a91f103079b0ab48a3ce83f0829744ff8bc6a8218d7d94b7dddba3"
+  },
+  {
+    "id": "niolearn-04-campus",
+    "file": "assets/projects/niolearn-04/campus.png",
+    "kind": "transparent-generated",
+    "source": "Original reel-specific Canvas/SVG motion and project-generated cutouts",
+    "promptFile": "projects/niolearn/niolearn-04/assets-provenance.json",
+    "tags": [
+      "niolearn",
+      "premium",
+      "reel-specific",
+      "cutout"
+    ],
+    "bytes": 1711100,
+    "sha256": "31e4b230daf05d0aef1f0cfd60a22b790e99a5d7120763e9ab38faac39569ac5"
+  },
+  {
+    "id": "niolearn-04-credential",
+    "file": "assets/projects/niolearn-04/credential.png",
+    "kind": "transparent-generated",
+    "source": "Original reel-specific Canvas/SVG motion and project-generated cutouts",
+    "promptFile": "projects/niolearn/niolearn-04/assets-provenance.json",
+    "tags": [
+      "niolearn",
+      "premium",
+      "reel-specific",
+      "cutout"
+    ],
+    "bytes": 2312166,
+    "sha256": "3ace53830032aec3016584531e4fd4cc66d5767b7ee18a72f4dc07f953134851"
+  },
+  {
+    "id": "niolearn-04-nio-parents-authority-v1",
+    "file": "assets/projects/niolearn-04/nio-parents-authority-v1.webm",
+    "kind": "transparent-video",
+    "source": "Original reel-specific Canvas/SVG motion and project-generated cutouts",
+    "promptFile": "projects/niolearn/niolearn-04/assets-provenance.json",
+    "tags": [
+      "niolearn",
+      "premium",
+      "reel-specific",
+      "canvas"
+    ],
+    "bytes": 818937,
+    "sha256": "56e021638f2fa006a9b7eb7ff9b43dae764e24720d19aec6b101daca5a37aa56"
+  },
+  {
+    "id": "niolearn-04-nio-parents-conversation-v1",
+    "file": "assets/projects/niolearn-04/nio-parents-conversation-v1.webm",
+    "kind": "transparent-video",
+    "source": "Original reel-specific Canvas/SVG motion and project-generated cutouts",
+    "promptFile": "projects/niolearn/niolearn-04/assets-provenance.json",
+    "tags": [
+      "niolearn",
+      "premium",
+      "reel-specific",
+      "canvas"
+    ],
+    "bytes": 493259,
+    "sha256": "83868cf021f60be3c4745f7424f49982f241ccc2c6c7caa068f27a0db7069424"
+  },
+  {
+    "id": "niolearn-04-nio-parents-credential-v1",
+    "file": "assets/projects/niolearn-04/nio-parents-credential-v1.webm",
+    "kind": "transparent-video",
+    "source": "Original reel-specific Canvas/SVG motion and project-generated cutouts",
+    "promptFile": "projects/niolearn/niolearn-04/assets-provenance.json",
+    "tags": [
+      "niolearn",
+      "premium",
+      "reel-specific",
+      "canvas"
+    ],
+    "bytes": 1477553,
+    "sha256": "39da350e35adb7fb35bbb3d38e642f3de8960a37cccedf409ca0201850545377"
+  },
+  {
+    "id": "niolearn-04-nio-parents-fees-v1",
+    "file": "assets/projects/niolearn-04/nio-parents-fees-v1.webm",
+    "kind": "transparent-video",
+    "source": "Original reel-specific Canvas/SVG motion and project-generated cutouts",
+    "promptFile": "projects/niolearn/niolearn-04/assets-provenance.json",
+    "tags": [
+      "niolearn",
+      "premium",
+      "reel-specific",
+      "canvas"
+    ],
+    "bytes": 365703,
+    "sha256": "80f9b13cacf9d08adafca5c83828eba64e09ddaa7a45c34ecbae9a50966fe734"
+  },
+  {
+    "id": "niolearn-04-nio-parents-outcomes-v1",
+    "file": "assets/projects/niolearn-04/nio-parents-outcomes-v1.webm",
+    "kind": "transparent-video",
+    "source": "Original reel-specific Canvas/SVG motion and project-generated cutouts",
+    "promptFile": "projects/niolearn/niolearn-04/assets-provenance.json",
+    "tags": [
+      "niolearn",
+      "premium",
+      "reel-specific",
+      "canvas"
+    ],
+    "bytes": 315459,
+    "sha256": "8eb1abbccae4ae79cd4b6baf52b32dbf94284108abbc9486a81c09b120f7d7b9"
+  },
+  {
+    "id": "niolearn-07-nio-system-diagnostic-v1",
+    "file": "assets/projects/niolearn-07/nio-system-diagnostic-v1.webm",
+    "kind": "transparent-video",
+    "source": "Original reel-specific Canvas/SVG motion and project-generated cutouts",
+    "promptFile": "projects/niolearn/niolearn-07/assets-provenance.json",
+    "tags": [
+      "niolearn",
+      "premium",
+      "reel-specific",
+      "canvas"
+    ],
+    "bytes": 417074,
+    "sha256": "50d8ba2bbb139524a53ae7770663e9e0e61f4a38e1a4e68fbf0c1ce4575af11b"
+  },
+  {
+    "id": "niolearn-07-nio-system-interview-v1",
+    "file": "assets/projects/niolearn-07/nio-system-interview-v1.webm",
+    "kind": "transparent-video",
+    "source": "Original reel-specific Canvas/SVG motion and project-generated cutouts",
+    "promptFile": "projects/niolearn/niolearn-07/assets-provenance.json",
+    "tags": [
+      "niolearn",
+      "premium",
+      "reel-specific",
+      "canvas"
+    ],
+    "bytes": 662494,
+    "sha256": "1599041ed77beb84fee7142f03913c344e516a28adcf99faa9abfa60e88b89ea"
+  },
+  {
+    "id": "niolearn-07-nio-system-path-v1",
+    "file": "assets/projects/niolearn-07/nio-system-path-v1.webm",
+    "kind": "transparent-video",
+    "source": "Original reel-specific Canvas/SVG motion and project-generated cutouts",
+    "promptFile": "projects/niolearn/niolearn-07/assets-provenance.json",
+    "tags": [
+      "niolearn",
+      "premium",
+      "reel-specific",
+      "canvas"
+    ],
+    "bytes": 435703,
+    "sha256": "e3151dd23e2314f4d069e6aec074223db5258c090a6727adf5c6ec15bead4046"
+  },
+  {
+    "id": "niolearn-07-nio-system-prep-v1",
+    "file": "assets/projects/niolearn-07/nio-system-prep-v1.webm",
+    "kind": "transparent-video",
+    "source": "Original reel-specific Canvas/SVG motion and project-generated cutouts",
+    "promptFile": "projects/niolearn/niolearn-07/assets-provenance.json",
+    "tags": [
+      "niolearn",
+      "premium",
+      "reel-specific",
+      "canvas"
+    ],
+    "bytes": 443148,
+    "sha256": "82ce8dbc171548aa5916272e2e7f19806c675d94adb6b9c1825dea46e305eda8"
+  },
+  {
+    "id": "niolearn-07-nio-system-review-v1",
+    "file": "assets/projects/niolearn-07/nio-system-review-v1.webm",
+    "kind": "transparent-video",
+    "source": "Original reel-specific Canvas/SVG motion and project-generated cutouts",
+    "promptFile": "projects/niolearn/niolearn-07/assets-provenance.json",
+    "tags": [
+      "niolearn",
+      "premium",
+      "reel-specific",
+      "canvas"
+    ],
+    "bytes": 430186,
+    "sha256": "a9b2571ccbfeeac571b93ca053204e8ee3876d3f84dca06b1e331d0b3474d9ac"
+  },
+  {
+    "id": "niolearn-09-nio-study-choice-v2",
+    "file": "assets/projects/niolearn-09/nio-study-choice-v2.webm",
+    "kind": "transparent-video",
+    "source": "Original reel-specific Canvas/SVG motion and project-generated cutouts",
+    "promptFile": "projects/niolearn/niolearn-09/assets-provenance.json",
+    "tags": [
+      "niolearn",
+      "premium",
+      "reel-specific",
+      "canvas"
+    ],
+    "bytes": 580930,
+    "sha256": "6c194ccb73a8700fd5a5b416c3f72bf8918b443f5cd079ca28fa68ad9c547348"
+  },
+  {
+    "id": "niolearn-09-nio-study-logic-v2",
+    "file": "assets/projects/niolearn-09/nio-study-logic-v2.webm",
+    "kind": "transparent-video",
+    "source": "Original reel-specific Canvas/SVG motion and project-generated cutouts",
+    "promptFile": "projects/niolearn/niolearn-09/assets-provenance.json",
+    "tags": [
+      "niolearn",
+      "premium",
+      "reel-specific",
+      "canvas"
+    ],
+    "bytes": 1464335,
+    "sha256": "1a6a48aac24fe650f356829599e4a174a9082af9a2e9b6ce753b9c02eb59817a"
+  },
+  {
+    "id": "niolearn-12-nio-intro-curiosity-v1",
+    "file": "assets/projects/niolearn-12/nio-intro-curiosity-v1.webm",
+    "kind": "transparent-video",
+    "source": "Original reel-specific Canvas/SVG motion and project-generated cutouts",
+    "promptFile": "projects/niolearn/niolearn-12/assets-provenance.json",
+    "tags": [
+      "niolearn",
+      "premium",
+      "reel-specific",
+      "canvas"
+    ],
+    "bytes": 1261110,
+    "sha256": "e71206b60176d83bb6ff163d15483971c5d79e0ffd646041f0ba7700bbfbb748"
+  },
+  {
+    "id": "niolearn-12-nio-intro-problem-v1",
+    "file": "assets/projects/niolearn-12/nio-intro-problem-v1.webm",
+    "kind": "transparent-video",
+    "source": "Original reel-specific Canvas/SVG motion and project-generated cutouts",
+    "promptFile": "projects/niolearn/niolearn-12/assets-provenance.json",
+    "tags": [
+      "niolearn",
+      "premium",
+      "reel-specific",
+      "canvas"
+    ],
+    "bytes": 1363545,
+    "sha256": "8e09e81b27f43e2cf68973fd60c17f91d21842af818de3dcd3148d31875bd477"
+  },
+  {
+    "id": "niolearn-12-nio-intro-project-v1",
+    "file": "assets/projects/niolearn-12/nio-intro-project-v1.webm",
+    "kind": "transparent-video",
+    "source": "Original reel-specific Canvas/SVG motion and project-generated cutouts",
+    "promptFile": "projects/niolearn/niolearn-12/assets-provenance.json",
+    "tags": [
+      "niolearn",
+      "premium",
+      "reel-specific",
+      "canvas"
+    ],
+    "bytes": 469783,
+    "sha256": "95995be74b6ca7dc00f4dca7c004c861bde1783aff31cd7ea1e858af4bd9f5dc"
+  },
+  {
+    "id": "niolearn-15-nio-story-profile-v1",
+    "file": "assets/projects/niolearn-15/nio-story-profile-v1.webm",
+    "kind": "transparent-video",
+    "source": "Original reel-specific Canvas/SVG motion and project-generated cutouts",
+    "promptFile": "projects/niolearn/niolearn-15/assets-provenance.json",
+    "tags": [
+      "niolearn",
+      "premium",
+      "reel-specific",
+      "canvas"
+    ],
+    "bytes": 1179484,
+    "sha256": "836609491bbbd50fc2c2caf944befe457e349b0b07c493424e33f22b3c3a3e34"
+  },
+  {
+    "id": "niolearn-16-nio-mock-eliminate-v1",
+    "file": "assets/projects/niolearn-16/nio-mock-eliminate-v1.webm",
+    "kind": "transparent-video",
+    "source": "Original reel-specific Canvas/SVG motion and project-generated cutouts",
+    "promptFile": "projects/niolearn/niolearn-16/assets-provenance.json",
+    "tags": [
+      "niolearn",
+      "premium",
+      "reel-specific",
+      "canvas"
+    ],
+    "bytes": 1236243,
+    "sha256": "c47852ba151e8521144b85479d9256eed4a3f702e3a16b06434bd2e4d8a87dca"
+  },
+  {
+    "id": "niolearn-16-nio-mock-read-v1",
+    "file": "assets/projects/niolearn-16/nio-mock-read-v1.webm",
+    "kind": "transparent-video",
+    "source": "Original reel-specific Canvas/SVG motion and project-generated cutouts",
+    "promptFile": "projects/niolearn/niolearn-16/assets-provenance.json",
+    "tags": [
+      "niolearn",
+      "premium",
+      "reel-specific",
+      "canvas"
+    ],
+    "bytes": 590860,
+    "sha256": "bc073050f4ba564cda2e1ebe117dc7f3deea948b47ebfd767a7b3a4eb1aa1579"
+  },
+  {
+    "id": "niolearn-16-nio-story-mock-v1",
+    "file": "assets/projects/niolearn-16/nio-story-mock-v1.webm",
+    "kind": "transparent-video",
+    "source": "Original reel-specific Canvas/SVG motion and project-generated cutouts",
+    "promptFile": "projects/niolearn/niolearn-16/assets-provenance.json",
+    "tags": [
+      "niolearn",
+      "premium",
+      "reel-specific",
+      "canvas"
+    ],
+    "bytes": 3204980,
+    "sha256": "bcccc6f7bd34ecbfc9a6bd40425ab0c6788e51ff2c2409fe940ca75100b3c393"
+  },
+  {
+    "id": "niolearn-19-nio-project-attendance-v1",
+    "file": "assets/projects/niolearn-19/nio-project-attendance-v1.webm",
+    "kind": "transparent-video",
+    "source": "Original reel-specific Canvas/SVG motion and project-generated cutouts",
+    "promptFile": "projects/niolearn/niolearn-19/assets-provenance.json",
+    "tags": [
+      "niolearn",
+      "premium",
+      "reel-specific",
+      "canvas"
+    ],
+    "bytes": 1136324,
+    "sha256": "78db2e002fbaa74697a476030f8fd021d0d500f6363de8678c28fe4dfdf36efa"
+  },
+  {
+    "id": "niolearn-19-nio-project-phone-v1",
+    "file": "assets/projects/niolearn-19/nio-project-phone-v1.webm",
+    "kind": "transparent-video",
+    "source": "Original reel-specific Canvas/SVG motion and project-generated cutouts",
+    "promptFile": "projects/niolearn/niolearn-19/assets-provenance.json",
+    "tags": [
+      "niolearn",
+      "premium",
+      "reel-specific",
+      "canvas"
+    ],
+    "bytes": 361568,
+    "sha256": "54c2c274d5e2d85bdcc7a6cfda549ee40fd7aa0cb307ac789eda52257bcf4786"
+  },
+  {
+    "id": "niolearn-19-nio-project-structure-v1",
+    "file": "assets/projects/niolearn-19/nio-project-structure-v1.webm",
+    "kind": "transparent-video",
+    "source": "Original reel-specific Canvas/SVG motion and project-generated cutouts",
+    "promptFile": "projects/niolearn/niolearn-19/assets-provenance.json",
+    "tags": [
+      "niolearn",
+      "premium",
+      "reel-specific",
+      "canvas"
+    ],
+    "bytes": 753764,
+    "sha256": "177252f6be193d7df0c1e35f0222112aff5b05d4939efa6ab0d984e8a1893598"
+  },
+  {
+    "id": "niolearn-20-nio-compare-board-v1",
+    "file": "assets/projects/niolearn-20/nio-compare-board-v1.webm",
+    "kind": "transparent-video",
+    "source": "Original reel-specific Canvas/SVG motion and project-generated cutouts",
+    "promptFile": "projects/niolearn/niolearn-20/assets-provenance.json",
+    "tags": [
+      "niolearn",
+      "premium",
+      "reel-specific",
+      "canvas"
+    ],
+    "bytes": 695009,
+    "sha256": "10c15359656d3ab6a7869dc704129887b8b3a0fd3b75c92f7c1927f446da8433"
+  },
+  {
+    "id": "niolearn-20-nio-story-comparison-v1",
+    "file": "assets/projects/niolearn-20/nio-story-comparison-v1.webm",
+    "kind": "transparent-video",
+    "source": "Original reel-specific Canvas/SVG motion and project-generated cutouts",
+    "promptFile": "projects/niolearn/niolearn-20/assets-provenance.json",
+    "tags": [
+      "niolearn",
+      "premium",
+      "reel-specific",
+      "canvas"
+    ],
+    "bytes": 6801226,
+    "sha256": "b269c3622144297850bb61fc18f946c9a6e8eed8df4c52a538517f21529694ad"
+  },
+  {
+    "id": "niolearn-recorded-admissions-nio-brand-services-v1",
+    "file": "assets/projects/niolearn-recorded-admissions/nio-brand-services-v1.webm",
+    "kind": "transparent-video",
+    "source": "Original reel-specific Canvas/SVG motion and project-generated cutouts",
+    "promptFile": "projects/niolearn/niolearn-recorded-admissions/assets-provenance.json",
+    "tags": [
+      "niolearn",
+      "premium",
+      "reel-specific",
+      "canvas"
+    ],
+    "bytes": 3558247,
+    "sha256": "eb642ef5b43a1adfc8f6903492ee47b22e41f66b1eef7af588f6a31da0292744"
+  },
+  {
+    "id": "niolearn-recorded-brand-intro-nio-brand-services-v1",
+    "file": "assets/projects/niolearn-recorded-brand-intro/nio-brand-services-v1.webm",
+    "kind": "transparent-video",
+    "source": "Original reel-specific Canvas/SVG motion and project-generated cutouts",
+    "promptFile": "projects/niolearn/niolearn-recorded-brand-intro/assets-provenance.json",
+    "tags": [
+      "niolearn",
+      "premium",
+      "reel-specific",
+      "canvas"
+    ],
+    "bytes": 2651713,
+    "sha256": "689350b3446bf5080ea41b23865b11b73fce6b19806d140843c68a4cc5f5eede"
+  },
+  {
+    "id": "niolearn-recorded-early-access-nio-access-calendar-v1",
+    "file": "assets/projects/niolearn-recorded-early-access/nio-access-calendar-v1.webm",
+    "kind": "transparent-video",
+    "source": "Original reel-specific Canvas/SVG motion and project-generated cutouts",
+    "promptFile": "projects/niolearn/niolearn-recorded-early-access/assets-provenance.json",
+    "tags": [
+      "niolearn",
+      "premium",
+      "reel-specific",
+      "canvas"
+    ],
+    "bytes": 567650,
+    "sha256": "f2400456c358b3f501023c3a85dc3f850ce03eeb128ff71190d222d2d7177ae9"
+  },
+  {
+    "id": "niolearn-recorded-early-access-nio-brand-services-v1",
+    "file": "assets/projects/niolearn-recorded-early-access/nio-brand-services-v1.webm",
+    "kind": "transparent-video",
+    "source": "Original reel-specific Canvas/SVG motion and project-generated cutouts",
+    "promptFile": "projects/niolearn/niolearn-recorded-early-access/assets-provenance.json",
+    "tags": [
+      "niolearn",
+      "premium",
+      "reel-specific",
+      "canvas"
+    ],
+    "bytes": 2558453,
+    "sha256": "6ee00572a0c0dab31ab67480bd799cdde0e3c5129b7c8cd76acb322f9e13840c"
+  },
+  {
+    "id": "atfro-01-bed-v6",
+    "file": "assets/music/atfro-01-bed-v6.wav",
+    "kind": "original-synth-audio",
+    "source": "Original project synthesized composition; per-reel provenance records continuous joining, filtering and dialogue-bed normalization",
+    "tags": [
+      "music",
+      "atfro",
+      "dialogue-bed"
+    ],
+    "bytes": 6048102,
+    "sha256": "eff30aa3290c34261ed695c4a560de00a95326a532a93cf4d5fe9040b54fdd9a"
+  },
+  {
+    "id": "atfro-01-bed",
+    "file": "assets/music/atfro-01-bed.wav",
+    "kind": "original-synth-audio",
+    "source": "Original project synthesized composition; per-reel provenance records continuous joining, filtering and dialogue-bed normalization",
+    "tags": [
+      "music",
+      "atfro",
+      "dialogue-bed"
+    ],
+    "bytes": 3072078,
+    "sha256": "33f74ca095f6f1e7c108e88c45a4434fd49474540c9a410c476fc5b81ad492b0"
+  },
+  {
+    "id": "atfro-04-bed",
+    "file": "assets/music/atfro-04-bed.wav",
+    "kind": "original-synth-audio",
+    "source": "Original project synthesized composition; per-reel provenance records continuous joining, filtering and dialogue-bed normalization",
+    "tags": [
+      "music",
+      "atfro",
+      "dialogue-bed"
+    ],
+    "bytes": 6033702,
+    "sha256": "1958063efd8dd63c18ff85e9bce55db9c46ef4c00586a150534b91050e03ccc6"
+  },
+  {
+    "id": "niolearn-04-bed",
+    "file": "assets/music/niolearn-04-bed.wav",
+    "kind": "original-synth-audio",
+    "source": "Original project synthesized composition; per-reel provenance records continuous joining, filtering and dialogue-bed normalization",
+    "tags": [
+      "music",
+      "niolearn",
+      "dialogue-bed"
+    ],
+    "bytes": 7012902,
+    "sha256": "342c993bb2e650782b02f9042e3c5e2cf97e439f66a4ce6cfe1a44fcb99ad4c2"
+  },
+  {
+    "id": "niolearn-07-bed",
+    "file": "assets/music/niolearn-07-bed.wav",
+    "kind": "original-synth-audio",
+    "source": "Original project synthesized composition; per-reel provenance records continuous joining, filtering and dialogue-bed normalization",
+    "tags": [
+      "music",
+      "niolearn",
+      "dialogue-bed"
+    ],
+    "bytes": 6081702,
+    "sha256": "50a3f1757cd357933d46bbd5480e0c8d0984a5b6185f7b37416bae49c6159c3a"
+  },
+  {
+    "id": "niolearn-09-bed",
+    "file": "assets/music/niolearn-09-bed.wav",
+    "kind": "original-synth-audio",
+    "source": "Original project synthesized composition; per-reel provenance records continuous joining, filtering and dialogue-bed normalization",
+    "tags": [
+      "music",
+      "niolearn",
+      "dialogue-bed"
+    ],
+    "bytes": 5481702,
+    "sha256": "9df4b609af861a71026e0b275a888161d1f786a1804e057292e56ee801483772"
+  },
+  {
+    "id": "niolearn-11-bed",
+    "file": "assets/music/niolearn-11-bed.wav",
+    "kind": "original-synth-audio",
+    "source": "Original project synthesized composition; per-reel provenance records continuous joining, filtering and dialogue-bed normalization",
+    "tags": [
+      "music",
+      "niolearn",
+      "dialogue-bed"
+    ],
+    "bytes": 6696102,
+    "sha256": "3f45c8a4202a2153b279adf6d85b5fa70a10932cf6f939ab7ed479cd6d86960c"
+  },
+  {
+    "id": "niolearn-12-bed",
+    "file": "assets/music/niolearn-12-bed.wav",
+    "kind": "original-synth-audio",
+    "source": "Original project synthesized composition; per-reel provenance records continuous joining, filtering and dialogue-bed normalization",
+    "tags": [
+      "music",
+      "niolearn",
+      "dialogue-bed"
+    ],
+    "bytes": 5116902,
+    "sha256": "fab13e062d119d80bd807990317ec1d79d6c00e42f5534c40c98db89f89f0ce0"
+  },
+  {
+    "id": "niolearn-15-bed",
+    "file": "assets/music/niolearn-15-bed.wav",
+    "kind": "original-synth-audio",
+    "source": "Original project synthesized composition; per-reel provenance records continuous joining, filtering and dialogue-bed normalization",
+    "tags": [
+      "music",
+      "niolearn",
+      "dialogue-bed"
+    ],
+    "bytes": 6792102,
+    "sha256": "dea853a7579925667ba424465a9914d88b7c4c760a17a9666d05cd76e2734cc5"
+  },
+  {
+    "id": "niolearn-16-bed",
+    "file": "assets/music/niolearn-16-bed.wav",
+    "kind": "original-synth-audio",
+    "source": "Original project synthesized composition; per-reel provenance records continuous joining, filtering and dialogue-bed normalization",
+    "tags": [
+      "music",
+      "niolearn",
+      "dialogue-bed"
+    ],
+    "bytes": 5251302,
+    "sha256": "808d2ae8294ac525f13ef7c15c065abc4313cf5d2ff53059c091a26e8afb23e5"
+  },
+  {
+    "id": "niolearn-19-bed",
+    "file": "assets/music/niolearn-19-bed.wav",
+    "kind": "original-synth-audio",
+    "source": "Original project synthesized composition; per-reel provenance records continuous joining, filtering and dialogue-bed normalization",
+    "tags": [
+      "music",
+      "niolearn",
+      "dialogue-bed"
+    ],
+    "bytes": 6220902,
+    "sha256": "3a9bf50e69b0a372d36a004b640274dcabd5be97cd2edb866ec6e7ddfc131a9d"
+  },
+  {
+    "id": "niolearn-20-bed",
+    "file": "assets/music/niolearn-20-bed.wav",
+    "kind": "original-synth-audio",
+    "source": "Original project synthesized composition; per-reel provenance records continuous joining, filtering and dialogue-bed normalization",
+    "tags": [
+      "music",
+      "niolearn",
+      "dialogue-bed"
+    ],
+    "bytes": 7118502,
+    "sha256": "1895684718db1e6dd9a54fa3f37e681564a5401d0ee4fb9840bcfde25dbdf04f"
+  },
+  {
+    "id": "niolearn-recorded-admissions-bed",
+    "file": "assets/music/niolearn-recorded-admissions-bed.wav",
+    "kind": "original-synth-audio",
+    "source": "Original project synthesized composition; per-reel provenance records continuous joining, filtering and dialogue-bed normalization",
+    "tags": [
+      "music",
+      "niolearn",
+      "dialogue-bed"
+    ],
+    "bytes": 5092902,
+    "sha256": "b7bc60b4400d7fc551a652ef8040c2506af0a2177b64bb5476371992fe736cb1"
+  },
+  {
+    "id": "niolearn-recorded-brand-intro-bed",
+    "file": "assets/music/niolearn-recorded-brand-intro-bed.wav",
+    "kind": "original-synth-audio",
+    "source": "Original project synthesized composition; per-reel provenance records continuous joining, filtering and dialogue-bed normalization",
+    "tags": [
+      "music",
+      "niolearn",
+      "dialogue-bed"
+    ],
+    "bytes": 8251302,
+    "sha256": "583d71361b8c9102b3bfe44e6886aad9debedbdde2cfb5e706ab2e5e313a7d44"
+  },
+  {
+    "id": "niolearn-recorded-early-access-bed",
+    "file": "assets/music/niolearn-recorded-early-access-bed.wav",
+    "kind": "original-synth-audio",
+    "source": "Original project synthesized composition; per-reel provenance records continuous joining, filtering and dialogue-bed normalization",
+    "tags": [
+      "music",
+      "niolearn",
+      "dialogue-bed"
+    ],
+    "bytes": 4828902,
+    "sha256": "9a8d6827ade6cd9c53e19da79b89e6f199bd34d5ba5045b012a533e21084acc3"
+  }
+]

@@ -1,0 +1,1284 @@
+{
+  "fps": 30,
+  "status": "reviewed-source-aligned-Roman-Hinglish",
+  "words": [
+    {
+      "text": "Fee",
+      "startFrame": 1,
+      "endFrame": 6,
+      "startMs": 33.333,
+      "endMs": 200.0,
+      "sourceStart": 1.74,
+      "sourceEnd": 1.91
+    },
+    {
+      "text": "bharne",
+      "startFrame": 6,
+      "endFrame": 17,
+      "startMs": 200.0,
+      "endMs": 566.667,
+      "sourceStart": 1.91,
+      "sourceEnd": 2.27
+    },
+    {
+      "text": "se",
+      "startFrame": 17,
+      "endFrame": 21,
+      "startMs": 566.667,
+      "endMs": 700.0,
+      "sourceStart": 2.27,
+      "sourceEnd": 2.39
+    },
+    {
+      "text": "pehle",
+      "startFrame": 21,
+      "endFrame": 33,
+      "startMs": 700.0,
+      "endMs": 1100.0,
+      "sourceStart": 2.39,
+      "sourceEnd": 2.79
+    },
+    {
+      "text": "ye",
+      "startFrame": 33,
+      "endFrame": 39,
+      "startMs": 1100.0,
+      "endMs": 1300.0,
+      "sourceStart": 2.79,
+      "sourceEnd": 2.99
+    },
+    {
+      "text": "5",
+      "startFrame": 39,
+      "endFrame": 45,
+      "startMs": 1300.0,
+      "endMs": 1500.0,
+      "sourceStart": 2.99,
+      "sourceEnd": 3.21
+    },
+    {
+      "text": "sawaal",
+      "startFrame": 45,
+      "endFrame": 58,
+      "startMs": 1500.0,
+      "endMs": 1933.333,
+      "sourceStart": 3.21,
+      "sourceEnd": 3.65
+    },
+    {
+      "text": "zaroor",
+      "startFrame": 58,
+      "endFrame": 70,
+      "startMs": 1933.333,
+      "endMs": 2333.333,
+      "sourceStart": 3.65,
+      "sourceEnd": 4.03
+    },
+    {
+      "text": "poochhiye.",
+      "startFrame": 70,
+      "endFrame": 76,
+      "startMs": 2333.333,
+      "endMs": 2533.333,
+      "sourceStart": 4.03,
+      "sourceEnd": 4.25
+    },
+    {
+      "text": "Pehla,",
+      "startFrame": 79,
+      "endFrame": 86,
+      "startMs": 2633.333,
+      "endMs": 2866.667,
+      "sourceStart": 4.86,
+      "sourceEnd": 5.1
+    },
+    {
+      "text": "degree",
+      "startFrame": 89,
+      "endFrame": 97,
+      "startMs": 2966.667,
+      "endMs": 3233.333,
+      "sourceStart": 5.69,
+      "sourceEnd": 5.97
+    },
+    {
+      "text": "kis",
+      "startFrame": 97,
+      "endFrame": 107,
+      "startMs": 3233.333,
+      "endMs": 3566.667,
+      "sourceStart": 5.97,
+      "sourceEnd": 6.31
+    },
+    {
+      "text": "body",
+      "startFrame": 107,
+      "endFrame": 119,
+      "startMs": 3566.667,
+      "endMs": 3966.667,
+      "sourceStart": 6.31,
+      "sourceEnd": 6.71
+    },
+    {
+      "text": "ya",
+      "startFrame": 119,
+      "endFrame": 127,
+      "startMs": 3966.667,
+      "endMs": 4233.333,
+      "sourceStart": 6.71,
+      "sourceEnd": 6.97
+    },
+    {
+      "text": "phir",
+      "startFrame": 127,
+      "endFrame": 132,
+      "startMs": 4233.333,
+      "endMs": 4400.0,
+      "sourceStart": 6.97,
+      "sourceEnd": 7.15
+    },
+    {
+      "text": "college",
+      "startFrame": 132,
+      "endFrame": 142,
+      "startMs": 4400.0,
+      "endMs": 4733.333,
+      "sourceStart": 7.15,
+      "sourceEnd": 7.47
+    },
+    {
+      "text": "ka",
+      "startFrame": 142,
+      "endFrame": 149,
+      "startMs": 4733.333,
+      "endMs": 4966.667,
+      "sourceStart": 7.47,
+      "sourceEnd": 7.69
+    },
+    {
+      "text": "hai",
+      "startFrame": 149,
+      "endFrame": 152,
+      "startMs": 4966.667,
+      "endMs": 5066.667,
+      "sourceStart": 7.69,
+      "sourceEnd": 7.81
+    },
+    {
+      "text": "aur",
+      "startFrame": 152,
+      "endFrame": 162,
+      "startMs": 5066.667,
+      "endMs": 5400.0,
+      "sourceStart": 7.81,
+      "sourceEnd": 8.13
+    },
+    {
+      "text": "uska",
+      "startFrame": 162,
+      "endFrame": 171,
+      "startMs": 5400.0,
+      "endMs": 5700.0,
+      "sourceStart": 8.13,
+      "sourceEnd": 8.43
+    },
+    {
+      "text": "recognition",
+      "startFrame": 171,
+      "endFrame": 190,
+      "startMs": 5700.0,
+      "endMs": 6333.333,
+      "sourceStart": 8.43,
+      "sourceEnd": 9.05
+    },
+    {
+      "text": "kya",
+      "startFrame": 190,
+      "endFrame": 194,
+      "startMs": 6333.333,
+      "endMs": 6466.667,
+      "sourceStart": 9.05,
+      "sourceEnd": 9.21
+    },
+    {
+      "text": "hai?",
+      "startFrame": 194,
+      "endFrame": 199,
+      "startMs": 6466.667,
+      "endMs": 6633.333,
+      "sourceStart": 9.21,
+      "sourceEnd": 9.36
+    },
+    {
+      "text": "Doosra,",
+      "startFrame": 204,
+      "endFrame": 216,
+      "startMs": 6800.0,
+      "endMs": 7200.0,
+      "sourceStart": 10.19,
+      "sourceEnd": 10.59
+    },
+    {
+      "text": "final",
+      "startFrame": 219,
+      "endFrame": 231,
+      "startMs": 7300.0,
+      "endMs": 7700.0,
+      "sourceStart": 11.11,
+      "sourceEnd": 11.51
+    },
+    {
+      "text": "mein",
+      "startFrame": 231,
+      "endFrame": 236,
+      "startMs": 7700.0,
+      "endMs": 7866.667,
+      "sourceStart": 11.51,
+      "sourceEnd": 11.67
+    },
+    {
+      "text": "mujhe",
+      "startFrame": 236,
+      "endFrame": 246,
+      "startMs": 7866.667,
+      "endMs": 8200.0,
+      "sourceStart": 11.67,
+      "sourceEnd": 11.99
+    },
+    {
+      "text": "kya",
+      "startFrame": 246,
+      "endFrame": 253,
+      "startMs": 8200.0,
+      "endMs": 8433.333,
+      "sourceStart": 11.99,
+      "sourceEnd": 12.23
+    },
+    {
+      "text": "milega?",
+      "startFrame": 253,
+      "endFrame": 267,
+      "startMs": 8433.333,
+      "endMs": 8900.0,
+      "sourceStart": 12.23,
+      "sourceEnd": 12.69
+    },
+    {
+      "text": "Degree,",
+      "startFrame": 270,
+      "endFrame": 288,
+      "startMs": 9000.0,
+      "endMs": 9600.0,
+      "sourceStart": 12.81,
+      "sourceEnd": 13.41
+    },
+    {
+      "text": "certification",
+      "startFrame": 291,
+      "endFrame": 318,
+      "startMs": 9700.0,
+      "endMs": 10600.0,
+      "sourceStart": 13.49,
+      "sourceEnd": 14.39
+    },
+    {
+      "text": "ya",
+      "startFrame": 318,
+      "endFrame": 325,
+      "startMs": 10600.0,
+      "endMs": 10833.333,
+      "sourceStart": 14.39,
+      "sourceEnd": 14.63
+    },
+    {
+      "text": "phir",
+      "startFrame": 325,
+      "endFrame": 330,
+      "startMs": 10833.333,
+      "endMs": 11000.0,
+      "sourceStart": 14.63,
+      "sourceEnd": 14.81
+    },
+    {
+      "text": "partner",
+      "startFrame": 330,
+      "endFrame": 342,
+      "startMs": 11000.0,
+      "endMs": 11400.0,
+      "sourceStart": 14.81,
+      "sourceEnd": 15.19
+    },
+    {
+      "text": "university",
+      "startFrame": 342,
+      "endFrame": 353,
+      "startMs": 11400.0,
+      "endMs": 11766.667,
+      "sourceStart": 15.19,
+      "sourceEnd": 15.57
+    },
+    {
+      "text": "ka",
+      "startFrame": 353,
+      "endFrame": 356,
+      "startMs": 11766.667,
+      "endMs": 11866.667,
+      "sourceStart": 15.57,
+      "sourceEnd": 15.67
+    },
+    {
+      "text": "credential?",
+      "startFrame": 356,
+      "endFrame": 372,
+      "startMs": 11866.667,
+      "endMs": 12400.0,
+      "sourceStart": 15.67,
+      "sourceEnd": 16.2
+    },
+    {
+      "text": "Ye",
+      "startFrame": 374,
+      "endFrame": 382,
+      "startMs": 12466.667,
+      "endMs": 12733.333,
+      "sourceStart": 16.55,
+      "sourceEnd": 16.79
+    },
+    {
+      "text": "written",
+      "startFrame": 382,
+      "endFrame": 398,
+      "startMs": 12733.333,
+      "endMs": 13266.667,
+      "sourceStart": 16.79,
+      "sourceEnd": 17.35
+    },
+    {
+      "text": "mein",
+      "startFrame": 398,
+      "endFrame": 404,
+      "startMs": 13266.667,
+      "endMs": 13466.667,
+      "sourceStart": 17.35,
+      "sourceEnd": 17.53
+    },
+    {
+      "text": "poochhiyega.",
+      "startFrame": 404,
+      "endFrame": 418,
+      "startMs": 13466.667,
+      "endMs": 13933.333,
+      "sourceStart": 17.53,
+      "sourceEnd": 17.99
+    },
+    {
+      "text": "Teesra,",
+      "startFrame": 422,
+      "endFrame": 434,
+      "startMs": 14066.667,
+      "endMs": 14466.667,
+      "sourceStart": 18.66,
+      "sourceEnd": 19.08
+    },
+    {
+      "text": "Total",
+      "startFrame": 436,
+      "endFrame": 451,
+      "startMs": 14533.333,
+      "endMs": 15033.333,
+      "sourceStart": 20.61,
+      "sourceEnd": 21.11
+    },
+    {
+      "text": "fees",
+      "startFrame": 451,
+      "endFrame": 458,
+      "startMs": 15033.333,
+      "endMs": 15266.667,
+      "sourceStart": 21.11,
+      "sourceEnd": 21.35
+    },
+    {
+      "text": "kya",
+      "startFrame": 458,
+      "endFrame": 462,
+      "startMs": 15266.667,
+      "endMs": 15400.0,
+      "sourceStart": 21.35,
+      "sourceEnd": 21.48
+    },
+    {
+      "text": "hai?",
+      "startFrame": 462,
+      "endFrame": 466,
+      "startMs": 15400.0,
+      "endMs": 15533.333,
+      "sourceStart": 21.48,
+      "sourceEnd": 21.61
+    },
+    {
+      "text": "Hidden",
+      "startFrame": 469,
+      "endFrame": 484,
+      "startMs": 15633.333,
+      "endMs": 16133.333,
+      "sourceStart": 21.93,
+      "sourceEnd": 22.45
+    },
+    {
+      "text": "deposits",
+      "startFrame": 484,
+      "endFrame": 510,
+      "startMs": 16133.333,
+      "endMs": 17000.0,
+      "sourceStart": 22.45,
+      "sourceEnd": 23.29
+    },
+    {
+      "text": "aur",
+      "startFrame": 510,
+      "endFrame": 515,
+      "startMs": 17000.0,
+      "endMs": 17166.667,
+      "sourceStart": 23.55,
+      "sourceEnd": 23.71
+    },
+    {
+      "text": "security",
+      "startFrame": 515,
+      "endFrame": 529,
+      "startMs": 17166.667,
+      "endMs": 17633.333,
+      "sourceStart": 23.71,
+      "sourceEnd": 24.17
+    },
+    {
+      "text": "deposits",
+      "startFrame": 529,
+      "endFrame": 549,
+      "startMs": 17633.333,
+      "endMs": 18300.0,
+      "sourceStart": 24.17,
+      "sourceEnd": 24.84
+    },
+    {
+      "text": "aur",
+      "startFrame": 552,
+      "endFrame": 557,
+      "startMs": 18400.0,
+      "endMs": 18566.667,
+      "sourceStart": 25.12,
+      "sourceEnd": 25.29
+    },
+    {
+      "text": "jo",
+      "startFrame": 557,
+      "endFrame": 562,
+      "startMs": 18566.667,
+      "endMs": 18733.333,
+      "sourceStart": 25.29,
+      "sourceEnd": 25.45
+    },
+    {
+      "text": "bhi",
+      "startFrame": 562,
+      "endFrame": 568,
+      "startMs": 18733.333,
+      "endMs": 18933.333,
+      "sourceStart": 25.45,
+      "sourceEnd": 25.67
+    },
+    {
+      "text": "cheezein",
+      "startFrame": 568,
+      "endFrame": 577,
+      "startMs": 18933.333,
+      "endMs": 19233.333,
+      "sourceStart": 25.67,
+      "sourceEnd": 25.97
+    },
+    {
+      "text": "hain",
+      "startFrame": 577,
+      "endFrame": 584,
+      "startMs": 19233.333,
+      "endMs": 19466.667,
+      "sourceStart": 25.97,
+      "sourceEnd": 26.19
+    },
+    {
+      "text": "unka",
+      "startFrame": 584,
+      "endFrame": 594,
+      "startMs": 19466.667,
+      "endMs": 19800.0,
+      "sourceStart": 26.19,
+      "sourceEnd": 26.55
+    },
+    {
+      "text": "proper",
+      "startFrame": 594,
+      "endFrame": 604,
+      "startMs": 19800.0,
+      "endMs": 20133.333,
+      "sourceStart": 26.55,
+      "sourceEnd": 26.87
+    },
+    {
+      "text": "breakdown",
+      "startFrame": 604,
+      "endFrame": 616,
+      "startMs": 20133.333,
+      "endMs": 20533.333,
+      "sourceStart": 26.87,
+      "sourceEnd": 27.27
+    },
+    {
+      "text": "aapke",
+      "startFrame": 616,
+      "endFrame": 626,
+      "startMs": 20533.333,
+      "endMs": 20866.667,
+      "sourceStart": 27.27,
+      "sourceEnd": 27.61
+    },
+    {
+      "text": "paas",
+      "startFrame": 626,
+      "endFrame": 633,
+      "startMs": 20866.667,
+      "endMs": 21100.0,
+      "sourceStart": 27.61,
+      "sourceEnd": 27.83
+    },
+    {
+      "text": "hona",
+      "startFrame": 633,
+      "endFrame": 647,
+      "startMs": 21100.0,
+      "endMs": 21566.667,
+      "sourceStart": 27.83,
+      "sourceEnd": 28.29
+    },
+    {
+      "text": "chahiye.",
+      "startFrame": 647,
+      "endFrame": 651,
+      "startMs": 21566.667,
+      "endMs": 21700.0,
+      "sourceStart": 28.29,
+      "sourceEnd": 28.43
+    },
+    {
+      "text": "Chautha,",
+      "startFrame": 653,
+      "endFrame": 665,
+      "startMs": 21766.667,
+      "endMs": 22166.667,
+      "sourceStart": 28.97,
+      "sourceEnd": 29.37
+    },
+    {
+      "text": "outcome",
+      "startFrame": 668,
+      "endFrame": 681,
+      "startMs": 22266.667,
+      "endMs": 22700.0,
+      "sourceStart": 29.91,
+      "sourceEnd": 30.33
+    },
+    {
+      "text": "kaise",
+      "startFrame": 681,
+      "endFrame": 692,
+      "startMs": 22700.0,
+      "endMs": 23066.667,
+      "sourceStart": 30.33,
+      "sourceEnd": 30.69
+    },
+    {
+      "text": "calculate",
+      "startFrame": 692,
+      "endFrame": 702,
+      "startMs": 23066.667,
+      "endMs": 23400.0,
+      "sourceStart": 30.69,
+      "sourceEnd": 31.05
+    },
+    {
+      "text": "hota",
+      "startFrame": 702,
+      "endFrame": 710,
+      "startMs": 23400.0,
+      "endMs": 23666.667,
+      "sourceStart": 31.05,
+      "sourceEnd": 31.29
+    },
+    {
+      "text": "hai?",
+      "startFrame": 710,
+      "endFrame": 714,
+      "startMs": 23666.667,
+      "endMs": 23800.0,
+      "sourceStart": 31.29,
+      "sourceEnd": 31.59
+    },
+    {
+      "text": "Kis",
+      "startFrame": 716,
+      "endFrame": 733,
+      "startMs": 23866.667,
+      "endMs": 24433.333,
+      "sourceStart": 31.75,
+      "sourceEnd": 32.33
+    },
+    {
+      "text": "batch",
+      "startFrame": 733,
+      "endFrame": 739,
+      "startMs": 24433.333,
+      "endMs": 24633.333,
+      "sourceStart": 32.33,
+      "sourceEnd": 32.55
+    },
+    {
+      "text": "ki,",
+      "startFrame": 739,
+      "endFrame": 751,
+      "startMs": 24633.333,
+      "endMs": 25033.333,
+      "sourceStart": 32.55,
+      "sourceEnd": 32.93
+    },
+    {
+      "text": "kya",
+      "startFrame": 754,
+      "endFrame": 760,
+      "startMs": 25133.333,
+      "endMs": 25333.333,
+      "sourceStart": 33.05,
+      "sourceEnd": 33.23
+    },
+    {
+      "text": "strength",
+      "startFrame": 760,
+      "endFrame": 772,
+      "startMs": 25333.333,
+      "endMs": 25733.333,
+      "sourceStart": 33.23,
+      "sourceEnd": 33.63
+    },
+    {
+      "text": "hai",
+      "startFrame": 772,
+      "endFrame": 777,
+      "startMs": 25733.333,
+      "endMs": 25900.0,
+      "sourceStart": 33.63,
+      "sourceEnd": 33.81
+    },
+    {
+      "text": "aur",
+      "startFrame": 783,
+      "endFrame": 791,
+      "startMs": 26100.0,
+      "endMs": 26366.667,
+      "sourceStart": 34.01,
+      "sourceEnd": 34.27
+    },
+    {
+      "text": "kya",
+      "startFrame": 791,
+      "endFrame": 797,
+      "startMs": 26366.667,
+      "endMs": 26566.667,
+      "sourceStart": 34.27,
+      "sourceEnd": 34.47
+    },
+    {
+      "text": "roles",
+      "startFrame": 797,
+      "endFrame": 807,
+      "startMs": 26566.667,
+      "endMs": 26900.0,
+      "sourceStart": 34.47,
+      "sourceEnd": 34.79
+    },
+    {
+      "text": "ke",
+      "startFrame": 807,
+      "endFrame": 809,
+      "startMs": 26900.0,
+      "endMs": 26966.667,
+      "sourceStart": 34.79,
+      "sourceEnd": 34.87
+    },
+    {
+      "text": "basis",
+      "startFrame": 809,
+      "endFrame": 819,
+      "startMs": 26966.667,
+      "endMs": 27300.0,
+      "sourceStart": 34.87,
+      "sourceEnd": 35.21
+    },
+    {
+      "text": "pe",
+      "startFrame": 819,
+      "endFrame": 820,
+      "startMs": 27300.0,
+      "endMs": 27333.333,
+      "sourceStart": 35.21,
+      "sourceEnd": 35.25
+    },
+    {
+      "text": "outcomes",
+      "startFrame": 820,
+      "endFrame": 837,
+      "startMs": 27333.333,
+      "endMs": 27900.0,
+      "sourceStart": 35.25,
+      "sourceEnd": 35.79
+    },
+    {
+      "text": "hain?",
+      "startFrame": 837,
+      "endFrame": 839,
+      "startMs": 27900.0,
+      "endMs": 27966.667,
+      "sourceStart": 35.79,
+      "sourceEnd": 36.01
+    },
+    {
+      "text": "Ye",
+      "startFrame": 841,
+      "endFrame": 844,
+      "startMs": 28033.333,
+      "endMs": 28133.333,
+      "sourceStart": 36.15,
+      "sourceEnd": 36.25
+    },
+    {
+      "text": "jaanna",
+      "startFrame": 844,
+      "endFrame": 858,
+      "startMs": 28133.333,
+      "endMs": 28600.0,
+      "sourceStart": 36.25,
+      "sourceEnd": 36.69
+    },
+    {
+      "text": "kaafi",
+      "startFrame": 858,
+      "endFrame": 866,
+      "startMs": 28600.0,
+      "endMs": 28866.667,
+      "sourceStart": 36.69,
+      "sourceEnd": 36.97
+    },
+    {
+      "text": "zaroori",
+      "startFrame": 866,
+      "endFrame": 876,
+      "startMs": 28866.667,
+      "endMs": 29200.0,
+      "sourceStart": 36.97,
+      "sourceEnd": 37.29
+    },
+    {
+      "text": "hota",
+      "startFrame": 876,
+      "endFrame": 879,
+      "startMs": 29200.0,
+      "endMs": 29300.0,
+      "sourceStart": 37.29,
+      "sourceEnd": 37.4
+    },
+    {
+      "text": "hai.",
+      "startFrame": 879,
+      "endFrame": 883,
+      "startMs": 29300.0,
+      "endMs": 29433.333,
+      "sourceStart": 37.4,
+      "sourceEnd": 37.52
+    },
+    {
+      "text": "Paanchva,",
+      "startFrame": 885,
+      "endFrame": 897,
+      "startMs": 29500.0,
+      "endMs": 29900.0,
+      "sourceStart": 38.01,
+      "sourceEnd": 38.4
+    },
+    {
+      "text": "kya",
+      "startFrame": 901,
+      "endFrame": 917,
+      "startMs": 30033.333,
+      "endMs": 30566.667,
+      "sourceStart": 39.01,
+      "sourceEnd": 39.53
+    },
+    {
+      "text": "aap",
+      "startFrame": 917,
+      "endFrame": 925,
+      "startMs": 30566.667,
+      "endMs": 30833.333,
+      "sourceStart": 39.53,
+      "sourceEnd": 39.79
+    },
+    {
+      "text": "kisi",
+      "startFrame": 925,
+      "endFrame": 948,
+      "startMs": 30833.333,
+      "endMs": 31600.0,
+      "sourceStart": 39.79,
+      "sourceEnd": 40.55
+    },
+    {
+      "text": "alumni",
+      "startFrame": 948,
+      "endFrame": 967,
+      "startMs": 31600.0,
+      "endMs": 32233.333,
+      "sourceStart": 40.55,
+      "sourceEnd": 41.21
+    },
+    {
+      "text": "ya",
+      "startFrame": 967,
+      "endFrame": 973,
+      "startMs": 32233.333,
+      "endMs": 32433.333,
+      "sourceStart": 41.21,
+      "sourceEnd": 41.39
+    },
+    {
+      "text": "phir",
+      "startFrame": 973,
+      "endFrame": 979,
+      "startMs": 32433.333,
+      "endMs": 32633.333,
+      "sourceStart": 41.39,
+      "sourceEnd": 41.59
+    },
+    {
+      "text": "current",
+      "startFrame": 979,
+      "endFrame": 988,
+      "startMs": 32633.333,
+      "endMs": 32933.333,
+      "sourceStart": 41.59,
+      "sourceEnd": 41.89
+    },
+    {
+      "text": "student",
+      "startFrame": 988,
+      "endFrame": 998,
+      "startMs": 32933.333,
+      "endMs": 33266.667,
+      "sourceStart": 41.89,
+      "sourceEnd": 42.22
+    },
+    {
+      "text": "se",
+      "startFrame": 998,
+      "endFrame": 1003,
+      "startMs": 33266.667,
+      "endMs": 33433.333,
+      "sourceStart": 42.22,
+      "sourceEnd": 42.39
+    },
+    {
+      "text": "connect",
+      "startFrame": 1003,
+      "endFrame": 1010,
+      "startMs": 33433.333,
+      "endMs": 33666.667,
+      "sourceStart": 42.39,
+      "sourceEnd": 42.65
+    },
+    {
+      "text": "kar",
+      "startFrame": 1010,
+      "endFrame": 1017,
+      "startMs": 33666.667,
+      "endMs": 33900.0,
+      "sourceStart": 42.65,
+      "sourceEnd": 42.87
+    },
+    {
+      "text": "sakte",
+      "startFrame": 1017,
+      "endFrame": 1026,
+      "startMs": 33900.0,
+      "endMs": 34200.0,
+      "sourceStart": 42.87,
+      "sourceEnd": 43.17
+    },
+    {
+      "text": "hain?",
+      "startFrame": 1026,
+      "endFrame": 1029,
+      "startMs": 34200.0,
+      "endMs": 34300.0,
+      "sourceStart": 43.17,
+      "sourceEnd": 43.49
+    },
+    {
+      "text": "Agar",
+      "startFrame": 1029,
+      "endFrame": 1040,
+      "startMs": 34300.0,
+      "endMs": 34666.667,
+      "sourceStart": 43.49,
+      "sourceEnd": 43.85
+    },
+    {
+      "text": "koi",
+      "startFrame": 1040,
+      "endFrame": 1048,
+      "startMs": 34666.667,
+      "endMs": 34933.333,
+      "sourceStart": 43.85,
+      "sourceEnd": 44.13
+    },
+    {
+      "text": "college",
+      "startFrame": 1048,
+      "endFrame": 1058,
+      "startMs": 34933.333,
+      "endMs": 35266.667,
+      "sourceStart": 44.13,
+      "sourceEnd": 44.45
+    },
+    {
+      "text": "aapko",
+      "startFrame": 1058,
+      "endFrame": 1072,
+      "startMs": 35266.667,
+      "endMs": 35733.333,
+      "sourceStart": 44.45,
+      "sourceEnd": 44.93
+    },
+    {
+      "text": "saamne",
+      "startFrame": 1072,
+      "endFrame": 1087,
+      "startMs": 35733.333,
+      "endMs": 36233.333,
+      "sourceStart": 44.93,
+      "sourceEnd": 45.43
+    },
+    {
+      "text": "se",
+      "startFrame": 1087,
+      "endFrame": 1089,
+      "startMs": 36233.333,
+      "endMs": 36300.0,
+      "sourceStart": 45.43,
+      "sourceEnd": 45.51
+    },
+    {
+      "text": "hi",
+      "startFrame": 1089,
+      "endFrame": 1092,
+      "startMs": 36300.0,
+      "endMs": 36400.0,
+      "sourceStart": 45.51,
+      "sourceEnd": 45.59
+    },
+    {
+      "text": "connect",
+      "startFrame": 1092,
+      "endFrame": 1101,
+      "startMs": 36400.0,
+      "endMs": 36700.0,
+      "sourceStart": 45.59,
+      "sourceEnd": 45.91
+    },
+    {
+      "text": "karne",
+      "startFrame": 1101,
+      "endFrame": 1110,
+      "startMs": 36700.0,
+      "endMs": 37000.0,
+      "sourceStart": 45.91,
+      "sourceEnd": 46.21
+    },
+    {
+      "text": "ko",
+      "startFrame": 1110,
+      "endFrame": 1113,
+      "startMs": 37000.0,
+      "endMs": 37100.0,
+      "sourceStart": 46.21,
+      "sourceEnd": 46.31
+    },
+    {
+      "text": "bol",
+      "startFrame": 1113,
+      "endFrame": 1120,
+      "startMs": 37100.0,
+      "endMs": 37333.333,
+      "sourceStart": 46.31,
+      "sourceEnd": 46.53
+    },
+    {
+      "text": "raha",
+      "startFrame": 1120,
+      "endFrame": 1128,
+      "startMs": 37333.333,
+      "endMs": 37600.0,
+      "sourceStart": 46.53,
+      "sourceEnd": 46.79
+    },
+    {
+      "text": "hai,",
+      "startFrame": 1128,
+      "endFrame": 1130,
+      "startMs": 37600.0,
+      "endMs": 37666.667,
+      "sourceStart": 46.79,
+      "sourceEnd": 46.85
+    },
+    {
+      "text": "to",
+      "startFrame": 1132,
+      "endFrame": 1135,
+      "startMs": 37733.333,
+      "endMs": 37833.333,
+      "sourceStart": 47.17,
+      "sourceEnd": 47.27
+    },
+    {
+      "text": "woh",
+      "startFrame": 1135,
+      "endFrame": 1140,
+      "startMs": 37833.333,
+      "endMs": 38000.0,
+      "sourceStart": 47.27,
+      "sourceEnd": 47.45
+    },
+    {
+      "text": "ek",
+      "startFrame": 1140,
+      "endFrame": 1146,
+      "startMs": 38000.0,
+      "endMs": 38200.0,
+      "sourceStart": 47.45,
+      "sourceEnd": 47.65
+    },
+    {
+      "text": "achhi",
+      "startFrame": 1146,
+      "endFrame": 1156,
+      "startMs": 38200.0,
+      "endMs": 38533.333,
+      "sourceStart": 47.65,
+      "sourceEnd": 47.95
+    },
+    {
+      "text": "nishani",
+      "startFrame": 1156,
+      "endFrame": 1172,
+      "startMs": 38533.333,
+      "endMs": 39066.667,
+      "sourceStart": 47.95,
+      "sourceEnd": 48.49
+    },
+    {
+      "text": "hai.",
+      "startFrame": 1172,
+      "endFrame": 1178,
+      "startMs": 39066.667,
+      "endMs": 39266.667,
+      "sourceStart": 48.49,
+      "sourceEnd": 48.69
+    },
+    {
+      "text": "Ye",
+      "startFrame": 1179,
+      "endFrame": 1183,
+      "startMs": 39300.0,
+      "endMs": 39433.333,
+      "sourceStart": 50.57,
+      "sourceEnd": 50.71
+    },
+    {
+      "text": "reel",
+      "startFrame": 1183,
+      "endFrame": 1189,
+      "startMs": 39433.333,
+      "endMs": 39633.333,
+      "sourceStart": 50.71,
+      "sourceEnd": 50.91
+    },
+    {
+      "text": "ko",
+      "startFrame": 1189,
+      "endFrame": 1195,
+      "startMs": 39633.333,
+      "endMs": 39833.333,
+      "sourceStart": 50.91,
+      "sourceEnd": 51.09
+    },
+    {
+      "text": "save",
+      "startFrame": 1195,
+      "endFrame": 1204,
+      "startMs": 39833.333,
+      "endMs": 40133.333,
+      "sourceStart": 51.09,
+      "sourceEnd": 51.41
+    },
+    {
+      "text": "kar",
+      "startFrame": 1204,
+      "endFrame": 1211,
+      "startMs": 40133.333,
+      "endMs": 40366.667,
+      "sourceStart": 51.41,
+      "sourceEnd": 51.63
+    },
+    {
+      "text": "lo.",
+      "startFrame": 1211,
+      "endFrame": 1218,
+      "startMs": 40366.667,
+      "endMs": 40600.0,
+      "sourceStart": 51.63,
+      "sourceEnd": 51.88
+    },
+    {
+      "text": "Brochure",
+      "startFrame": 1220,
+      "endFrame": 1230,
+      "startMs": 40666.667,
+      "endMs": 41000.0,
+      "sourceStart": 52.15,
+      "sourceEnd": 52.49
+    },
+    {
+      "text": "ke",
+      "startFrame": 1230,
+      "endFrame": 1233,
+      "startMs": 41000.0,
+      "endMs": 41100.0,
+      "sourceStart": 52.49,
+      "sourceEnd": 52.59
+    },
+    {
+      "text": "pehle",
+      "startFrame": 1233,
+      "endFrame": 1240,
+      "startMs": 41100.0,
+      "endMs": 41333.333,
+      "sourceStart": 52.59,
+      "sourceEnd": 52.85
+    },
+    {
+      "text": "ye",
+      "startFrame": 1240,
+      "endFrame": 1245,
+      "startMs": 41333.333,
+      "endMs": 41500.0,
+      "sourceStart": 52.85,
+      "sourceEnd": 52.99
+    },
+    {
+      "text": "5",
+      "startFrame": 1245,
+      "endFrame": 1252,
+      "startMs": 41500.0,
+      "endMs": 41733.333,
+      "sourceStart": 52.99,
+      "sourceEnd": 53.23
+    },
+    {
+      "text": "sawaal",
+      "startFrame": 1252,
+      "endFrame": 1260,
+      "startMs": 41733.333,
+      "endMs": 42000.0,
+      "sourceStart": 53.23,
+      "sourceEnd": 53.49
+    },
+    {
+      "text": "zaroor",
+      "startFrame": 1260,
+      "endFrame": 1270,
+      "startMs": 42000.0,
+      "endMs": 42333.333,
+      "sourceStart": 53.49,
+      "sourceEnd": 53.83
+    },
+    {
+      "text": "poochhna,",
+      "startFrame": 1270,
+      "endFrame": 1285,
+      "startMs": 42333.333,
+      "endMs": 42833.333,
+      "sourceStart": 53.83,
+      "sourceEnd": 54.33
+    },
+    {
+      "text": "aur",
+      "startFrame": 1287,
+      "endFrame": 1290,
+      "startMs": 42900.0,
+      "endMs": 43000.0,
+      "sourceStart": 54.65,
+      "sourceEnd": 54.75
+    },
+    {
+      "text": "poora",
+      "startFrame": 1290,
+      "endFrame": 1301,
+      "startMs": 43000.0,
+      "endMs": 43366.667,
+      "sourceStart": 54.75,
+      "sourceEnd": 55.09
+    },
+    {
+      "text": "parent",
+      "startFrame": 1301,
+      "endFrame": 1306,
+      "startMs": 43366.667,
+      "endMs": 43533.333,
+      "sourceStart": 55.09,
+      "sourceEnd": 55.27
+    },
+    {
+      "text": "checklist",
+      "startFrame": 1306,
+      "endFrame": 1320,
+      "startMs": 43533.333,
+      "endMs": 44000.0,
+      "sourceStart": 55.27,
+      "sourceEnd": 55.73
+    },
+    {
+      "text": "niolearn.com",
+      "startFrame": 1320,
+      "endFrame": 1350,
+      "startMs": 44000.0,
+      "endMs": 45000.0,
+      "sourceStart": 55.73,
+      "sourceEnd": 56.73
+    },
+    {
+      "text": "pe.",
+      "startFrame": 1350,
+      "endFrame": 1354,
+      "startMs": 45000.0,
+      "endMs": 45133.333,
+      "sourceStart": 56.73,
+      "sourceEnd": 56.87
+    }
+  ]
+}

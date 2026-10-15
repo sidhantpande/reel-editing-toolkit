@@ -1,0 +1,23 @@
+{
+  "project": "niolearn-09",
+  "source": "src/projects/StudyBroll.tsx",
+  "newMotion": [
+    "nio-study-choice",
+    "nio-study-logic"
+  ],
+  "creation": "Original Canvas geometry, drawn question-choice checks, clock and tactile pattern puzzle. Deterministic Remotion animation, no external stock.",
+  "reuse": [
+    {
+      "kind": "nio-system-review",
+      "source": "src/projects/Nio07Broll.tsx",
+      "asset": "public/assets/projects/niolearn-07/nio-system-review-v1.webm"
+    }
+  ],
+  "alphaExports": "public/assets/projects/niolearn-09",
+  "music": "Original project calm-focus synthesis; continuous joined quiet bed created by prepare_reel_finish.py",
+  "captions": "Opt-in brand/keyword accent: #46DECA on camera, darker #087F70 on ivory. Previous approved caption data does not enable accents.",
+  "motionRevision": "v2 adds continuing clock, art-camera drift and post-entry pattern motion following the source-reference re-study.",
+  "referenceStudy": "docs/REFERENCE_ANALYSIS.md#motion-re-study--batch-revision",
+  "activeAlphaVersion": 2,
+  "priorAlphaArchive": "Local-only design-explorations/niolearn-09/prior-alpha-v1; superseded exports preserved, including the older choice capture defect."
+}

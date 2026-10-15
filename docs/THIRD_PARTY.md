@@ -1,0 +1,11 @@
+# Sources and attribution
+
+- Remotion and @remotion packages: version 4.0.535, installed via npm; original upstream authors and notices retained. Exact installed licence copied to `docs/licenses/Remotion-LICENSE.md`. Official source: https://github.com/remotion-dev/remotion . The current licence permits individuals, eligible small organisations (up to 3 employees), non-profits and evaluation; larger for-profit organisations require a company licence before commercial use. No paid plan was purchased by this setup. See https://www.remotion.dev/docs/license .
+- FFmpeg: system executable, not bundled. Build and applicable notices: run `ffmpeg -L`; https://ffmpeg.org/legal.html .
+- Faster Whisper: Python package, MIT; https://github.com/SYSTRAN/faster-whisper . Whisper model use follows the source model licence; https://github.com/openai/whisper . Cached models are not copied to Git.
+- Inter and Sora: Google Fonts distribution, SIL Open Font License; font files and original OFL text included in `public/assets/fonts/`. https://github.com/google/fonts/tree/main/ofl/inter and https://github.com/google/fonts/tree/main/ofl/sora . Bundled SHA-256 values are in `catalog/fonts-lock.json`; future setup uses these exact included files.
+- React, TypeScript and transitive npm/Python dependencies retain their package licences. `catalog/npm-dependencies.json` and `catalog/python-dependencies.json` record installed versions and licence metadata. `package-lock.json` includes npm download integrity hashes.
+
+Original geometry, vector icons, procedural RGBA elements and synthesized sound files are generated from `tools/build_assets.py`. Premium paper-style cutouts are original text-to-image generations produced with the built-in ImageGen tool and stored with their prompt set in `docs/PREMIUM_ASSET_PROMPTS.json`. They are bundled as exact PNGs, not regenerated during setup. Motion scenes are original project code. No stock asset subscription, paid transition pack, downloaded reference artwork, cloned voice or copyrighted song has been bundled.
+
+Both supplied logos are used as provided. ATFRO palette is inferred from the logo; NioLearn palette and font direction come from the supplied scriptbook. No broader legal ownership is inferred.

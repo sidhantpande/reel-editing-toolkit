@@ -1,0 +1,645 @@
+{
+  "status": "Reviewed medium source words and pause boundaries; corrected brand, English terms and zero/overhanging timestamps; retain each-college qualification",
+  "words": [
+    {
+      "text": "Marks",
+      "start": 3.37,
+      "end": 3.72
+    },
+    {
+      "text": "achhe",
+      "start": 3.72,
+      "end": 3.98
+    },
+    {
+      "text": "hain,",
+      "start": 3.98,
+      "end": 4.44
+    },
+    {
+      "text": "lekin",
+      "start": 4.48,
+      "end": 4.74
+    },
+    {
+      "text": "selection",
+      "start": 4.74,
+      "end": 5.14
+    },
+    {
+      "text": "pakka",
+      "start": 5.14,
+      "end": 5.52
+    },
+    {
+      "text": "nahi,",
+      "start": 5.52,
+      "end": 5.73
+    },
+    {
+      "text": "kyun,",
+      "start": 6.19,
+      "end": 6.46
+    },
+    {
+      "text": "kyunki",
+      "start": 6.86,
+      "end": 7.12
+    },
+    {
+      "text": "college",
+      "start": 7.12,
+      "end": 7.72
+    },
+    {
+      "text": "bahut",
+      "start": 7.72,
+      "end": 8.4
+    },
+    {
+      "text": "saari",
+      "start": 8.4,
+      "end": 8.62
+    },
+    {
+      "text": "cheezein",
+      "start": 8.62,
+      "end": 8.96
+    },
+    {
+      "text": "dekhta",
+      "start": 8.96,
+      "end": 9.36
+    },
+    {
+      "text": "hai.",
+      "start": 9.17,
+      "end": 9.35
+    },
+    {
+      "text": "Pehla,",
+      "start": 10.1,
+      "end": 10.46
+    },
+    {
+      "text": "problem",
+      "start": 11.04,
+      "end": 11.5
+    },
+    {
+      "text": "solving,",
+      "start": 11.5,
+      "end": 11.87
+    },
+    {
+      "text": "aap",
+      "start": 12.21,
+      "end": 12.44
+    },
+    {
+      "text": "naye",
+      "start": 12.44,
+      "end": 12.72
+    },
+    {
+      "text": "questions",
+      "start": 12.72,
+      "end": 13.24
+    },
+    {
+      "text": "ko",
+      "start": 13.24,
+      "end": 13.42
+    },
+    {
+      "text": "kaise",
+      "start": 13.42,
+      "end": 13.76
+    },
+    {
+      "text": "approach",
+      "start": 13.76,
+      "end": 14.04
+    },
+    {
+      "text": "karte",
+      "start": 14.04,
+      "end": 14.46
+    },
+    {
+      "text": "ho,",
+      "start": 14.46,
+      "end": 14.65
+    },
+    {
+      "text": "yeh",
+      "start": 14.84,
+      "end": 15.02
+    },
+    {
+      "text": "kaafi",
+      "start": 15.02,
+      "end": 15.4
+    },
+    {
+      "text": "zyada",
+      "start": 15.4,
+      "end": 15.64
+    },
+    {
+      "text": "aapki",
+      "start": 15.64,
+      "end": 15.9
+    },
+    {
+      "text": "thinking",
+      "start": 15.9,
+      "end": 16.31
+    },
+    {
+      "text": "ke",
+      "start": 16.31,
+      "end": 16.39
+    },
+    {
+      "text": "baare",
+      "start": 16.39,
+      "end": 16.53
+    },
+    {
+      "text": "bata",
+      "start": 16.53,
+      "end": 16.72
+    },
+    {
+      "text": "deta",
+      "start": 16.72,
+      "end": 16.88
+    },
+    {
+      "text": "hai.",
+      "start": 16.88,
+      "end": 17.06
+    },
+    {
+      "text": "Doosra,",
+      "start": 17.9,
+      "end": 18.28
+    },
+    {
+      "text": "communication.",
+      "start": 18.64,
+      "end": 19.37
+    },
+    {
+      "text": "Aapki",
+      "start": 19.79,
+      "end": 20.32
+    },
+    {
+      "text": "baat",
+      "start": 20.32,
+      "end": 20.7
+    },
+    {
+      "text": "rakhne",
+      "start": 20.7,
+      "end": 21.12
+    },
+    {
+      "text": "mein",
+      "start": 21.12,
+      "end": 21.26
+    },
+    {
+      "text": "kitni",
+      "start": 21.26,
+      "end": 21.68
+    },
+    {
+      "text": "clarity",
+      "start": 21.68,
+      "end": 22.18
+    },
+    {
+      "text": "aur",
+      "start": 22.18,
+      "end": 22.3
+    },
+    {
+      "text": "kitna",
+      "start": 22.3,
+      "end": 22.64
+    },
+    {
+      "text": "confidence",
+      "start": 22.64,
+      "end": 23.2
+    },
+    {
+      "text": "hai,",
+      "start": 23.2,
+      "end": 23.38
+    },
+    {
+      "text": "yeh",
+      "start": 23.38,
+      "end": 23.68
+    },
+    {
+      "text": "kaafi",
+      "start": 23.68,
+      "end": 24.16
+    },
+    {
+      "text": "zyada",
+      "start": 24.16,
+      "end": 24.5
+    },
+    {
+      "text": "matter",
+      "start": 24.43,
+      "end": 24.63
+    },
+    {
+      "text": "karta",
+      "start": 24.63,
+      "end": 24.79
+    },
+    {
+      "text": "hai.",
+      "start": 24.79,
+      "end": 24.97
+    },
+    {
+      "text": "Teesra,",
+      "start": 25.61,
+      "end": 26.02
+    },
+    {
+      "text": "projects",
+      "start": 26.38,
+      "end": 27.1
+    },
+    {
+      "text": "aur",
+      "start": 27.1,
+      "end": 27.24
+    },
+    {
+      "text": "curiosity.",
+      "start": 27.24,
+      "end": 27.88
+    },
+    {
+      "text": "Aapne",
+      "start": 28.2,
+      "end": 28.66
+    },
+    {
+      "text": "apni",
+      "start": 28.66,
+      "end": 29.12
+    },
+    {
+      "text": "marzi",
+      "start": 29.12,
+      "end": 29.44
+    },
+    {
+      "text": "se",
+      "start": 29.44,
+      "end": 29.6
+    },
+    {
+      "text": "koi",
+      "start": 29.6,
+      "end": 29.76
+    },
+    {
+      "text": "project",
+      "start": 29.76,
+      "end": 29.94
+    },
+    {
+      "text": "kiya",
+      "start": 29.94,
+      "end": 30.42
+    },
+    {
+      "text": "hai",
+      "start": 30.42,
+      "end": 30.58
+    },
+    {
+      "text": "ki",
+      "start": 30.58,
+      "end": 30.72
+    },
+    {
+      "text": "nahi,",
+      "start": 30.72,
+      "end": 31.01
+    },
+    {
+      "text": "aur",
+      "start": 31.12,
+      "end": 31.32
+    },
+    {
+      "text": "aapne",
+      "start": 31.32,
+      "end": 31.68
+    },
+    {
+      "text": "apne",
+      "start": 31.68,
+      "end": 31.96
+    },
+    {
+      "text": "interest",
+      "start": 31.96,
+      "end": 32.62
+    },
+    {
+      "text": "ke",
+      "start": 32.62,
+      "end": 32.76
+    },
+    {
+      "text": "within",
+      "start": 32.76,
+      "end": 33.14
+    },
+    {
+      "text": "kiya",
+      "start": 33.14,
+      "end": 33.44
+    },
+    {
+      "text": "hai",
+      "start": 33.44,
+      "end": 33.54
+    },
+    {
+      "text": "ki",
+      "start": 33.54,
+      "end": 33.62
+    },
+    {
+      "text": "nahi,",
+      "start": 33.62,
+      "end": 34.0
+    },
+    {
+      "text": "yeh",
+      "start": 34.08,
+      "end": 34.22
+    },
+    {
+      "text": "kaafi",
+      "start": 34.22,
+      "end": 34.54
+    },
+    {
+      "text": "zyada",
+      "start": 34.54,
+      "end": 34.86
+    },
+    {
+      "text": "dekha",
+      "start": 34.86,
+      "end": 35.18
+    },
+    {
+      "text": "jaata",
+      "start": 35.18,
+      "end": 35.35
+    },
+    {
+      "text": "hai.",
+      "start": 35.35,
+      "end": 35.51
+    },
+    {
+      "text": "Har",
+      "start": 36.99,
+      "end": 37.22
+    },
+    {
+      "text": "college",
+      "start": 37.22,
+      "end": 37.56
+    },
+    {
+      "text": "ka",
+      "start": 37.56,
+      "end": 37.78
+    },
+    {
+      "text": "weightage",
+      "start": 37.78,
+      "end": 38.22
+    },
+    {
+      "text": "alag",
+      "start": 38.22,
+      "end": 38.54
+    },
+    {
+      "text": "hota",
+      "start": 38.54,
+      "end": 38.78
+    },
+    {
+      "text": "hai,",
+      "start": 38.78,
+      "end": 38.88
+    },
+    {
+      "text": "toh",
+      "start": 38.94,
+      "end": 39.18
+    },
+    {
+      "text": "please",
+      "start": 39.18,
+      "end": 39.58
+    },
+    {
+      "text": "verify",
+      "start": 39.58,
+      "end": 40.2
+    },
+    {
+      "text": "criteria",
+      "start": 40.2,
+      "end": 40.7
+    },
+    {
+      "text": "of",
+      "start": 40.7,
+      "end": 41.06
+    },
+    {
+      "text": "each",
+      "start": 41.06,
+      "end": 41.4
+    },
+    {
+      "text": "college.",
+      "start": 41.4,
+      "end": 41.78
+    },
+    {
+      "text": "Isliye",
+      "start": 41.98,
+      "end": 42.18
+    },
+    {
+      "text": "preparation",
+      "start": 42.18,
+      "end": 42.68
+    },
+    {
+      "text": "complete",
+      "start": 42.68,
+      "end": 43.12
+    },
+    {
+      "text": "honi",
+      "start": 43.12,
+      "end": 43.4
+    },
+    {
+      "text": "chahiye,",
+      "start": 43.4,
+      "end": 43.64
+    },
+    {
+      "text": "sirf",
+      "start": 43.9,
+      "end": 44.26
+    },
+    {
+      "text": "marks",
+      "start": 44.26,
+      "end": 44.58
+    },
+    {
+      "text": "ke",
+      "start": 44.58,
+      "end": 44.7
+    },
+    {
+      "text": "basis",
+      "start": 44.7,
+      "end": 44.94
+    },
+    {
+      "text": "pe",
+      "start": 44.94,
+      "end": 45.0
+    },
+    {
+      "text": "nahi.",
+      "start": 45.0,
+      "end": 45.13
+    },
+    {
+      "text": "Aap",
+      "start": 45.87,
+      "end": 46.1
+    },
+    {
+      "text": "apni",
+      "start": 46.1,
+      "end": 46.26
+    },
+    {
+      "text": "profile",
+      "start": 46.26,
+      "end": 46.68
+    },
+    {
+      "text": "pe",
+      "start": 46.68,
+      "end": 46.88
+    },
+    {
+      "text": "kaunsi",
+      "start": 46.88,
+      "end": 47.22
+    },
+    {
+      "text": "cheezein",
+      "start": 47.22,
+      "end": 47.4
+    },
+    {
+      "text": "improve",
+      "start": 47.4,
+      "end": 47.68
+    },
+    {
+      "text": "karna",
+      "start": 47.68,
+      "end": 47.9
+    },
+    {
+      "text": "chahte",
+      "start": 47.9,
+      "end": 48.16
+    },
+    {
+      "text": "ho?",
+      "start": 48.15,
+      "end": 48.31
+    },
+    {
+      "text": "Comments",
+      "start": 48.66,
+      "end": 48.84
+    },
+    {
+      "text": "mein",
+      "start": 48.84,
+      "end": 48.92
+    },
+    {
+      "text": "batao.",
+      "start": 48.92,
+      "end": 49.31
+    },
+    {
+      "text": "For",
+      "start": 49.64,
+      "end": 49.76
+    },
+    {
+      "text": "more",
+      "start": 49.76,
+      "end": 49.98
+    },
+    {
+      "text": "diagnostic,",
+      "start": 49.98,
+      "end": 50.57
+    },
+    {
+      "text": "go",
+      "start": 51.02,
+      "end": 51.12
+    },
+    {
+      "text": "on",
+      "start": 51.12,
+      "end": 51.3
+    },
+    {
+      "text": "niolearn.com",
+      "start": 51.3,
+      "end": 51.99
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "video": "/Users/sidhant/Desktop/NioLearn-Reels/deliverables/niolearn/NIOLEARN_08_Tell_Me_About_Yourself_v1.mp4",
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "frames": 1335,
+  "fps": "30/1",
+  "durationSeconds": 44.501,
+  "fullDecode": "passed",
+  "audioLUFS": -14.01,
+  "audioTruePeakDBTP": -2.02,
+  "loudnessRangeLU": 4.4,
+  "blackIntervals": [],
+  "boundaryEvents": 19
+}

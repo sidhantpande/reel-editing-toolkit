@@ -1,0 +1,663 @@
+[
+  {
+    "kind": "atfro-school-film",
+    "composition": "School-atfro-school-film",
+    "brand": "atfro",
+    "source": "src/projects/SchoolBroll.tsx",
+    "defaultDurationFrames": 240,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "transparentSupported": true,
+    "tags": [
+      "atfro",
+      "school",
+      "film"
+    ]
+  },
+  {
+    "kind": "atfro-school-plan",
+    "composition": "School-atfro-school-plan",
+    "brand": "atfro",
+    "source": "src/projects/SchoolBroll.tsx",
+    "defaultDurationFrames": 240,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "transparentSupported": true,
+    "tags": [
+      "atfro",
+      "school",
+      "plan"
+    ]
+  },
+  {
+    "kind": "atfro-school-workflow",
+    "composition": "School-atfro-school-workflow",
+    "brand": "atfro",
+    "source": "src/projects/SchoolBroll.tsx",
+    "defaultDurationFrames": 240,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "transparentSupported": true,
+    "tags": [
+      "atfro",
+      "school",
+      "workflow"
+    ]
+  },
+  {
+    "kind": "nio-story-comparison",
+    "composition": "Compare-nio-story-comparison",
+    "brand": "niolearn",
+    "source": "src/projects/ComparisonBroll.tsx",
+    "defaultDurationFrames": 600,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "transparentSupported": true,
+    "tags": [
+      "nio",
+      "story",
+      "comparison"
+    ]
+  },
+  {
+    "kind": "nio-compare-board",
+    "composition": "Compare-nio-compare-board",
+    "brand": "niolearn",
+    "source": "src/projects/ComparisonBroll.tsx",
+    "defaultDurationFrames": 600,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "transparentSupported": true,
+    "tags": [
+      "nio",
+      "compare",
+      "board"
+    ]
+  },
+  {
+    "kind": "nio-brand-services",
+    "composition": "Compare-nio-brand-services",
+    "brand": "niolearn",
+    "source": "src/projects/ComparisonBroll.tsx",
+    "defaultDurationFrames": 600,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "transparentSupported": true,
+    "tags": [
+      "nio",
+      "brand",
+      "services"
+    ]
+  },
+  {
+    "kind": "nio-access-calendar",
+    "composition": "Compare-nio-access-calendar",
+    "brand": "niolearn",
+    "source": "src/projects/ComparisonBroll.tsx",
+    "defaultDurationFrames": 600,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "transparentSupported": true,
+    "tags": [
+      "nio",
+      "access",
+      "calendar"
+    ]
+  },
+  {
+    "kind": "nio-project-phone",
+    "composition": "Project-nio-project-phone",
+    "brand": "niolearn",
+    "source": "src/projects/ProjectBroll.tsx",
+    "defaultDurationFrames": 240,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "transparentSupported": true,
+    "tags": [
+      "nio",
+      "project",
+      "phone"
+    ]
+  },
+  {
+    "kind": "nio-project-structure",
+    "composition": "Project-nio-project-structure",
+    "brand": "niolearn",
+    "source": "src/projects/ProjectBroll.tsx",
+    "defaultDurationFrames": 240,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "transparentSupported": true,
+    "tags": [
+      "nio",
+      "project",
+      "structure"
+    ]
+  },
+  {
+    "kind": "nio-project-attendance",
+    "composition": "Project-nio-project-attendance",
+    "brand": "niolearn",
+    "source": "src/projects/ProjectBroll.tsx",
+    "defaultDurationFrames": 240,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "transparentSupported": true,
+    "tags": [
+      "nio",
+      "project",
+      "attendance"
+    ]
+  },
+  {
+    "kind": "nio-mock-read",
+    "composition": "Study-nio-mock-read",
+    "brand": "niolearn",
+    "source": "src/projects/StudyBroll.tsx",
+    "defaultDurationFrames": 180,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "transparentSupported": true,
+    "tags": [
+      "nio",
+      "mock",
+      "read"
+    ]
+  },
+  {
+    "kind": "nio-mock-eliminate",
+    "composition": "Study-nio-mock-eliminate",
+    "brand": "niolearn",
+    "source": "src/projects/StudyBroll.tsx",
+    "defaultDurationFrames": 180,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "transparentSupported": true,
+    "tags": [
+      "nio",
+      "mock",
+      "eliminate"
+    ]
+  },
+  {
+    "kind": "nio-story-profile",
+    "composition": "Study-nio-story-profile",
+    "brand": "niolearn",
+    "source": "src/projects/StudyBroll.tsx",
+    "defaultDurationFrames": 239,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "transparentSupported": true,
+    "tags": [
+      "nio",
+      "story",
+      "profile"
+    ]
+  },
+  {
+    "kind": "nio-story-mock",
+    "composition": "Study-nio-story-mock",
+    "brand": "niolearn",
+    "source": "src/projects/StudyBroll.tsx",
+    "defaultDurationFrames": 688,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "transparentSupported": true,
+    "tags": [
+      "nio",
+      "story",
+      "mock"
+    ]
+  },
+  {
+    "kind": "nio-study-choice",
+    "composition": "Study-nio-study-choice",
+    "brand": "niolearn",
+    "source": "src/projects/StudyBroll.tsx",
+    "defaultDurationFrames": 180,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "transparentSupported": true,
+    "tags": [
+      "nio",
+      "study",
+      "choice"
+    ]
+  },
+  {
+    "kind": "nio-study-logic",
+    "composition": "Study-nio-study-logic",
+    "brand": "niolearn",
+    "source": "src/projects/StudyBroll.tsx",
+    "defaultDurationFrames": 180,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "transparentSupported": true,
+    "tags": [
+      "nio",
+      "study",
+      "logic"
+    ]
+  },
+  {
+    "kind": "nio-intro-problem",
+    "composition": "Study-nio-intro-problem",
+    "brand": "niolearn",
+    "source": "src/projects/StudyBroll.tsx",
+    "defaultDurationFrames": 180,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "transparentSupported": true,
+    "tags": [
+      "nio",
+      "intro",
+      "problem"
+    ]
+  },
+  {
+    "kind": "nio-intro-project",
+    "composition": "Study-nio-intro-project",
+    "brand": "niolearn",
+    "source": "src/projects/StudyBroll.tsx",
+    "defaultDurationFrames": 180,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "transparentSupported": true,
+    "tags": [
+      "nio",
+      "intro",
+      "project"
+    ]
+  },
+  {
+    "kind": "nio-intro-curiosity",
+    "composition": "Study-nio-intro-curiosity",
+    "brand": "niolearn",
+    "source": "src/projects/StudyBroll.tsx",
+    "defaultDurationFrames": 180,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "transparentSupported": true,
+    "tags": [
+      "nio",
+      "intro",
+      "curiosity"
+    ]
+  },
+  {
+    "kind": "nio-system-diagnostic",
+    "composition": "Nio07-nio-system-diagnostic",
+    "brand": "niolearn",
+    "source": "src/projects/Nio07Broll.tsx",
+    "defaultDurationFrames": 180,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "transparentSupported": true,
+    "tags": [
+      "nio",
+      "system",
+      "diagnostic"
+    ]
+  },
+  {
+    "kind": "nio-system-prep",
+    "composition": "Nio07-nio-system-prep",
+    "brand": "niolearn",
+    "source": "src/projects/Nio07Broll.tsx",
+    "defaultDurationFrames": 180,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "transparentSupported": true,
+    "tags": [
+      "nio",
+      "system",
+      "prep"
+    ]
+  },
+  {
+    "kind": "nio-system-review",
+    "composition": "Nio07-nio-system-review",
+    "brand": "niolearn",
+    "source": "src/projects/Nio07Broll.tsx",
+    "defaultDurationFrames": 180,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "transparentSupported": true,
+    "tags": [
+      "nio",
+      "system",
+      "review"
+    ]
+  },
+  {
+    "kind": "nio-system-interview",
+    "composition": "Nio07-nio-system-interview",
+    "brand": "niolearn",
+    "source": "src/projects/Nio07Broll.tsx",
+    "defaultDurationFrames": 180,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "transparentSupported": true,
+    "tags": [
+      "nio",
+      "system",
+      "interview"
+    ]
+  },
+  {
+    "kind": "nio-system-path",
+    "composition": "Nio07-nio-system-path",
+    "brand": "niolearn",
+    "source": "src/projects/Nio07Broll.tsx",
+    "defaultDurationFrames": 180,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "transparentSupported": true,
+    "tags": [
+      "nio",
+      "system",
+      "path"
+    ]
+  },
+  {
+    "kind": "nio-parents-credential-fees",
+    "composition": "Nio04-nio-parents-credential-fees",
+    "brand": "niolearn",
+    "source": "src/projects/Nio04Broll.tsx",
+    "defaultDurationFrames": 180,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "transparentSupported": true,
+    "tags": [
+      "nio",
+      "parents",
+      "credential",
+      "fees"
+    ]
+  },
+  {
+    "kind": "nio-parents-authority",
+    "composition": "Nio04-nio-parents-authority",
+    "brand": "niolearn",
+    "source": "src/projects/Nio04Broll.tsx",
+    "defaultDurationFrames": 180,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "transparentSupported": true,
+    "tags": [
+      "nio",
+      "parents",
+      "authority"
+    ]
+  },
+  {
+    "kind": "nio-parents-credential",
+    "composition": "Nio04-nio-parents-credential",
+    "brand": "niolearn",
+    "source": "src/projects/Nio04Broll.tsx",
+    "defaultDurationFrames": 180,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "transparentSupported": true,
+    "tags": [
+      "nio",
+      "parents",
+      "credential"
+    ]
+  },
+  {
+    "kind": "nio-parents-fees",
+    "composition": "Nio04-nio-parents-fees",
+    "brand": "niolearn",
+    "source": "src/projects/Nio04Broll.tsx",
+    "defaultDurationFrames": 180,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "transparentSupported": true,
+    "tags": [
+      "nio",
+      "parents",
+      "fees"
+    ]
+  },
+  {
+    "kind": "nio-parents-outcomes",
+    "composition": "Nio04-nio-parents-outcomes",
+    "brand": "niolearn",
+    "source": "src/projects/Nio04Broll.tsx",
+    "defaultDurationFrames": 180,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "transparentSupported": true,
+    "tags": [
+      "nio",
+      "parents",
+      "outcomes"
+    ]
+  },
+  {
+    "kind": "nio-parents-conversation",
+    "composition": "Nio04-nio-parents-conversation",
+    "brand": "niolearn",
+    "source": "src/projects/Nio04Broll.tsx",
+    "defaultDurationFrames": 180,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "transparentSupported": true,
+    "tags": [
+      "nio",
+      "parents",
+      "conversation"
+    ]
+  },
+  {
+    "kind": "atfro-work",
+    "composition": "Atfro01-atfro-work",
+    "brand": "atfro",
+    "source": "src/projects/Atfro01Broll.tsx",
+    "defaultDurationFrames": 180,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "transparentSupported": true,
+    "tags": [
+      "atfro",
+      "work"
+    ]
+  },
+  {
+    "kind": "atfro-process",
+    "composition": "Atfro01-atfro-process",
+    "brand": "atfro",
+    "source": "src/projects/Atfro01Broll.tsx",
+    "defaultDurationFrames": 180,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "transparentSupported": true,
+    "tags": [
+      "atfro",
+      "process"
+    ]
+  },
+  {
+    "kind": "paper-possibilities",
+    "composition": "Premium-paper-possibilities",
+    "brand": "shared",
+    "source": "src/premium/PaperScene.tsx",
+    "defaultDurationFrames": 180,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "transparentSupported": true,
+    "tags": [
+      "paper",
+      "possibilities"
+    ]
+  },
+  {
+    "kind": "paper-pathways",
+    "composition": "Premium-paper-pathways",
+    "brand": "shared",
+    "source": "src/premium/PaperScene.tsx",
+    "defaultDurationFrames": 180,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "transparentSupported": true,
+    "tags": [
+      "paper",
+      "pathways"
+    ]
+  },
+  {
+    "kind": "paper-crowd",
+    "composition": "Premium-paper-crowd",
+    "brand": "shared",
+    "source": "src/premium/PaperScene.tsx",
+    "defaultDurationFrames": 180,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "transparentSupported": true,
+    "tags": [
+      "paper",
+      "crowd"
+    ]
+  },
+  {
+    "kind": "paper-partnership",
+    "composition": "Premium-paper-partnership",
+    "brand": "shared",
+    "source": "src/premium/PaperScene.tsx",
+    "defaultDurationFrames": 180,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "transparentSupported": true,
+    "tags": [
+      "paper",
+      "partnership"
+    ]
+  },
+  {
+    "kind": "crowd",
+    "composition": "Broll-crowd",
+    "brand": "shared",
+    "source": "src/Broll.tsx",
+    "defaultDurationFrames": 180,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "transparentSupported": true,
+    "tags": [
+      "crowd",
+      "legacy"
+    ]
+  },
+  {
+    "kind": "pathways",
+    "composition": "Broll-pathways",
+    "brand": "shared",
+    "source": "src/Broll.tsx",
+    "defaultDurationFrames": 180,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "transparentSupported": true,
+    "tags": [
+      "pathways",
+      "legacy"
+    ]
+  },
+  {
+    "kind": "lead-flow",
+    "composition": "Broll-lead-flow",
+    "brand": "shared",
+    "source": "src/Broll.tsx",
+    "defaultDurationFrames": 180,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "transparentSupported": true,
+    "tags": [
+      "lead-flow",
+      "legacy"
+    ]
+  },
+  {
+    "kind": "timeline",
+    "composition": "Broll-timeline",
+    "brand": "shared",
+    "source": "src/Broll.tsx",
+    "defaultDurationFrames": 180,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "transparentSupported": true,
+    "tags": [
+      "timeline",
+      "legacy"
+    ]
+  },
+  {
+    "kind": "compare",
+    "composition": "Broll-compare",
+    "brand": "shared",
+    "source": "src/Broll.tsx",
+    "defaultDurationFrames": 180,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "transparentSupported": true,
+    "tags": [
+      "compare",
+      "legacy"
+    ]
+  },
+  {
+    "kind": "countdown",
+    "composition": "Broll-countdown",
+    "brand": "shared",
+    "source": "src/Broll.tsx",
+    "defaultDurationFrames": 180,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "transparentSupported": true,
+    "tags": [
+      "countdown",
+      "legacy"
+    ]
+  }
+]

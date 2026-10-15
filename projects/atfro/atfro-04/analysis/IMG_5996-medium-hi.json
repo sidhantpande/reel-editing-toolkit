@@ -1,0 +1,117 @@
+[
+  {
+    "start": 0.37,
+    "end": 6.89,
+    "text": " If you lead a school, DM school, one communication bottleneck with communication challenge you are trying to solve.",
+    "words": [
+      {
+        "text": " If",
+        "start": 0.37,
+        "end": 0.89,
+        "probability": 0.08548305928707123
+      },
+      {
+        "text": " you",
+        "start": 0.89,
+        "end": 1.11,
+        "probability": 0.9744005799293518
+      },
+      {
+        "text": " lead",
+        "start": 1.11,
+        "end": 1.25,
+        "probability": 0.9840373992919922
+      },
+      {
+        "text": " a",
+        "start": 1.25,
+        "end": 1.47,
+        "probability": 0.9738990068435669
+      },
+      {
+        "text": " school,",
+        "start": 1.47,
+        "end": 1.81,
+        "probability": 0.978762149810791
+      },
+      {
+        "text": " DM",
+        "start": 2.05,
+        "end": 2.19,
+        "probability": 0.9522480368614197
+      },
+      {
+        "text": " school,",
+        "start": 2.19,
+        "end": 2.71,
+        "probability": 0.4768187403678894
+      },
+      {
+        "text": " one",
+        "start": 2.97,
+        "end": 3.21,
+        "probability": 0.789254367351532
+      },
+      {
+        "text": " communication",
+        "start": 3.21,
+        "end": 3.77,
+        "probability": 0.9482386112213135
+      },
+      {
+        "text": " bottleneck",
+        "start": 3.77,
+        "end": 4.53,
+        "probability": 0.9736784100532532
+      },
+      {
+        "text": " with",
+        "start": 4.53,
+        "end": 4.79,
+        "probability": 0.5508072972297668
+      },
+      {
+        "text": " communication",
+        "start": 4.79,
+        "end": 5.35,
+        "probability": 0.9475654363632202
+      },
+      {
+        "text": " challenge",
+        "start": 5.35,
+        "end": 5.81,
+        "probability": 0.9488845467567444
+      },
+      {
+        "text": " you",
+        "start": 5.81,
+        "end": 6.17,
+        "probability": 0.6140962243080139
+      },
+      {
+        "text": " are",
+        "start": 6.17,
+        "end": 6.23,
+        "probability": 0.8222606778144836
+      },
+      {
+        "text": " trying",
+        "start": 6.23,
+        "end": 6.43,
+        "probability": 0.9912336468696594
+      },
+      {
+        "text": " to",
+        "start": 6.43,
+        "end": 6.65,
+        "probability": 0.9806795120239258
+      },
+      {
+        "text": " solve.",
+        "start": 6.65,
+        "end": 6.89,
+        "probability": 0.9962473511695862
+      }
+    ]
+  }
+]

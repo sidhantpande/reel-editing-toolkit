@@ -1,0 +1,1066 @@
+{
+  "fps": 30,
+  "status": "reviewed-source-aligned",
+  "words": [
+    {
+      "text": "Maths",
+      "startFrame": 1,
+      "endFrame": 10,
+      "startMs": 33.333,
+      "endMs": 333.333,
+      "sourceStart": 1.48,
+      "sourceEnd": 1.76,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "mein",
+      "startFrame": 10,
+      "endFrame": 13,
+      "startMs": 333.333,
+      "endMs": 433.333,
+      "sourceStart": 1.76,
+      "sourceEnd": 1.88,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "90",
+      "startFrame": 13,
+      "endFrame": 22,
+      "startMs": 433.333,
+      "endMs": 733.333,
+      "sourceStart": 1.88,
+      "sourceEnd": 2.16,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "aaye,",
+      "startFrame": 22,
+      "endFrame": 32,
+      "startMs": 733.333,
+      "endMs": 1066.667,
+      "sourceStart": 2.16,
+      "sourceEnd": 2.5,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "par",
+      "startFrame": 42,
+      "endFrame": 45,
+      "startMs": 1400.0,
+      "endMs": 1500.0,
+      "sourceStart": 2.84,
+      "sourceEnd": 2.94,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "abhi",
+      "startFrame": 45,
+      "endFrame": 51,
+      "startMs": 1500.0,
+      "endMs": 1700.0,
+      "sourceStart": 2.94,
+      "sourceEnd": 3.12,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "bhi",
+      "startFrame": 51,
+      "endFrame": 54,
+      "startMs": 1700.0,
+      "endMs": 1800.0,
+      "sourceStart": 3.12,
+      "sourceEnd": 3.24,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "entrance",
+      "startFrame": 54,
+      "endFrame": 62,
+      "startMs": 1800.0,
+      "endMs": 2066.667,
+      "sourceStart": 3.24,
+      "sourceEnd": 3.5,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "tough",
+      "startFrame": 62,
+      "endFrame": 69,
+      "startMs": 2066.667,
+      "endMs": 2300.0,
+      "sourceStart": 3.5,
+      "sourceEnd": 3.72,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "lag",
+      "startFrame": 69,
+      "endFrame": 72,
+      "startMs": 2300.0,
+      "endMs": 2400.0,
+      "sourceStart": 3.72,
+      "sourceEnd": 3.84,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "raha",
+      "startFrame": 72,
+      "endFrame": 76,
+      "startMs": 2400.0,
+      "endMs": 2533.333,
+      "sourceStart": 3.84,
+      "sourceEnd": 3.95,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "hai?",
+      "startFrame": 76,
+      "endFrame": 78,
+      "startMs": 2533.333,
+      "endMs": 2600.0,
+      "sourceStart": 3.95,
+      "sourceEnd": 4.05,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "Main",
+      "startFrame": 83,
+      "endFrame": 85,
+      "startMs": 2766.667,
+      "endMs": 2833.333,
+      "sourceStart": 4.42,
+      "sourceEnd": 4.51,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "batata",
+      "startFrame": 85,
+      "endFrame": 91,
+      "startMs": 2833.333,
+      "endMs": 3033.333,
+      "sourceStart": 4.51,
+      "sourceEnd": 4.7,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "hoon",
+      "startFrame": 91,
+      "endFrame": 93,
+      "startMs": 3033.333,
+      "endMs": 3100.0,
+      "sourceStart": 4.7,
+      "sourceEnd": 4.77,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "kyun.",
+      "startFrame": 93,
+      "endFrame": 97,
+      "startMs": 3100.0,
+      "endMs": 3233.333,
+      "sourceStart": 4.77,
+      "sourceEnd": 4.91,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "Pehla,",
+      "startFrame": 104,
+      "endFrame": 121,
+      "startMs": 3466.667,
+      "endMs": 4033.333,
+      "sourceStart": 5.69,
+      "sourceEnd": 6.25,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "saare",
+      "startFrame": 125,
+      "endFrame": 137,
+      "startMs": 4166.667,
+      "endMs": 4566.667,
+      "sourceStart": 6.39,
+      "sourceEnd": 6.79,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "questions",
+      "startFrame": 137,
+      "endFrame": 153,
+      "startMs": 4566.667,
+      "endMs": 5100.0,
+      "sourceStart": 6.79,
+      "sourceEnd": 7.33,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "karne",
+      "startFrame": 153,
+      "endFrame": 162,
+      "startMs": 5100.0,
+      "endMs": 5400.0,
+      "sourceStart": 7.33,
+      "sourceEnd": 7.63,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "ki",
+      "startFrame": 162,
+      "endFrame": 167,
+      "startMs": 5400.0,
+      "endMs": 5566.667,
+      "sourceStart": 7.63,
+      "sourceEnd": 7.81,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "zid",
+      "startFrame": 167,
+      "endFrame": 176,
+      "startMs": 5566.667,
+      "endMs": 5866.667,
+      "sourceStart": 7.81,
+      "sourceEnd": 8.11,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "rakhna,",
+      "startFrame": 176,
+      "endFrame": 183,
+      "startMs": 5866.667,
+      "endMs": 6100.0,
+      "sourceStart": 8.11,
+      "sourceEnd": 8.32,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "time",
+      "startFrame": 187,
+      "endFrame": 196,
+      "startMs": 6233.333,
+      "endMs": 6533.333,
+      "sourceStart": 9.39,
+      "sourceEnd": 9.69,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "limited",
+      "startFrame": 196,
+      "endFrame": 206,
+      "startMs": 6533.333,
+      "endMs": 6866.667,
+      "sourceStart": 9.69,
+      "sourceEnd": 10.05,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "hota",
+      "startFrame": 206,
+      "endFrame": 215,
+      "startMs": 6866.667,
+      "endMs": 7166.667,
+      "sourceStart": 10.05,
+      "sourceEnd": 10.33,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "hai,",
+      "startFrame": 215,
+      "endFrame": 221,
+      "startMs": 7166.667,
+      "endMs": 7366.667,
+      "sourceStart": 10.33,
+      "sourceEnd": 10.53,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "smart",
+      "startFrame": 228,
+      "endFrame": 240,
+      "startMs": 7600.0,
+      "endMs": 8000.0,
+      "sourceStart": 10.75,
+      "sourceEnd": 11.15,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "choice",
+      "startFrame": 240,
+      "endFrame": 249,
+      "startMs": 8000.0,
+      "endMs": 8300.0,
+      "sourceStart": 11.15,
+      "sourceEnd": 11.47,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "bhi",
+      "startFrame": 249,
+      "endFrame": 252,
+      "startMs": 8300.0,
+      "endMs": 8400.0,
+      "sourceStart": 11.47,
+      "sourceEnd": 11.57,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "ek",
+      "startFrame": 252,
+      "endFrame": 259,
+      "startMs": 8400.0,
+      "endMs": 8633.333,
+      "sourceStart": 11.57,
+      "sourceEnd": 11.79,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "skill",
+      "startFrame": 259,
+      "endFrame": 265,
+      "startMs": 8633.333,
+      "endMs": 8833.333,
+      "sourceStart": 11.79,
+      "sourceEnd": 12.01,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "hai.",
+      "startFrame": 265,
+      "endFrame": 268,
+      "startMs": 8833.333,
+      "endMs": 8933.333,
+      "sourceStart": 12.01,
+      "sourceEnd": 12.11,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "Doosra,",
+      "startFrame": 274,
+      "endFrame": 284,
+      "startMs": 9133.333,
+      "endMs": 9466.667,
+      "sourceStart": 12.83,
+      "sourceEnd": 13.18,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "formulas",
+      "startFrame": 302,
+      "endFrame": 320,
+      "startMs": 10066.667,
+      "endMs": 10666.667,
+      "sourceStart": 13.75,
+      "sourceEnd": 14.35,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "ratna,",
+      "startFrame": 320,
+      "endFrame": 330,
+      "startMs": 10666.667,
+      "endMs": 11000.0,
+      "sourceStart": 14.35,
+      "sourceEnd": 14.69,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "entrance",
+      "startFrame": 336,
+      "endFrame": 347,
+      "startMs": 11200.0,
+      "endMs": 11566.667,
+      "sourceStart": 15.09,
+      "sourceEnd": 15.47,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "mein",
+      "startFrame": 347,
+      "endFrame": 351,
+      "startMs": 11566.667,
+      "endMs": 11700.0,
+      "sourceStart": 15.47,
+      "sourceEnd": 15.59,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "khaali",
+      "startFrame": 351,
+      "endFrame": 358,
+      "startMs": 11700.0,
+      "endMs": 11933.333,
+      "sourceStart": 15.59,
+      "sourceEnd": 15.83,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "maths",
+      "startFrame": 358,
+      "endFrame": 367,
+      "startMs": 11933.333,
+      "endMs": 12233.333,
+      "sourceStart": 15.83,
+      "sourceEnd": 16.13,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "nahi,",
+      "startFrame": 367,
+      "endFrame": 374,
+      "startMs": 12233.333,
+      "endMs": 12466.667,
+      "sourceStart": 16.13,
+      "sourceEnd": 16.38,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "reasoning",
+      "startFrame": 380,
+      "endFrame": 392,
+      "startMs": 12666.667,
+      "endMs": 13066.667,
+      "sourceStart": 16.77,
+      "sourceEnd": 17.17,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "bhi",
+      "startFrame": 392,
+      "endFrame": 397,
+      "startMs": 13066.667,
+      "endMs": 13233.333,
+      "sourceStart": 17.17,
+      "sourceEnd": 17.33,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "aati",
+      "startFrame": 397,
+      "endFrame": 403,
+      "startMs": 13233.333,
+      "endMs": 13433.333,
+      "sourceStart": 17.33,
+      "sourceEnd": 17.53,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "jahaan",
+      "startFrame": 403,
+      "endFrame": 412,
+      "startMs": 13433.333,
+      "endMs": 13733.333,
+      "sourceStart": 17.53,
+      "sourceEnd": 17.85,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "pe",
+      "startFrame": 412,
+      "endFrame": 415,
+      "startMs": 13733.333,
+      "endMs": 13833.333,
+      "sourceStart": 17.85,
+      "sourceEnd": 17.95,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "logic",
+      "startFrame": 415,
+      "endFrame": 429,
+      "startMs": 13833.333,
+      "endMs": 14300.0,
+      "sourceStart": 17.95,
+      "sourceEnd": 18.41,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "aur",
+      "startFrame": 429,
+      "endFrame": 436,
+      "startMs": 14300.0,
+      "endMs": 14533.333,
+      "sourceStart": 18.41,
+      "sourceEnd": 18.65,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "pattern",
+      "startFrame": 436,
+      "endFrame": 445,
+      "startMs": 14533.333,
+      "endMs": 14833.333,
+      "sourceStart": 18.65,
+      "sourceEnd": 18.95,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "lagta",
+      "startFrame": 445,
+      "endFrame": 456,
+      "startMs": 14833.333,
+      "endMs": 15200.0,
+      "sourceStart": 18.95,
+      "sourceEnd": 19.31,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "hai,",
+      "startFrame": 456,
+      "endFrame": 462,
+      "startMs": 15200.0,
+      "endMs": 15400.0,
+      "sourceStart": 19.31,
+      "sourceEnd": 19.49,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "ratta",
+      "startFrame": 463,
+      "endFrame": 477,
+      "startMs": 15433.333,
+      "endMs": 15900.0,
+      "sourceStart": 19.53,
+      "sourceEnd": 19.99,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "nahi.",
+      "startFrame": 471,
+      "endFrame": 477,
+      "startMs": 15700.0,
+      "endMs": 15900.0,
+      "sourceStart": 19.8,
+      "sourceEnd": 20.01,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "Teesra,",
+      "startFrame": 482,
+      "endFrame": 497,
+      "startMs": 16066.667,
+      "endMs": 16566.667,
+      "sourceStart": 20.75,
+      "sourceEnd": 21.23,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "mocks",
+      "startFrame": 510,
+      "endFrame": 522,
+      "startMs": 17000.0,
+      "endMs": 17400.0,
+      "sourceStart": 21.67,
+      "sourceEnd": 22.05,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "dena,",
+      "startFrame": 522,
+      "endFrame": 541,
+      "startMs": 17400.0,
+      "endMs": 18033.333,
+      "sourceStart": 22.05,
+      "sourceEnd": 22.69,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "marks",
+      "startFrame": 545,
+      "endFrame": 556,
+      "startMs": 18166.667,
+      "endMs": 18533.333,
+      "sourceStart": 22.83,
+      "sourceEnd": 23.19,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "dekhna,",
+      "startFrame": 556,
+      "endFrame": 571,
+      "startMs": 18533.333,
+      "endMs": 19033.333,
+      "sourceStart": 23.19,
+      "sourceEnd": 23.71,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "lekin",
+      "startFrame": 573,
+      "endFrame": 584,
+      "startMs": 19100.0,
+      "endMs": 19466.667,
+      "sourceStart": 23.77,
+      "sourceEnd": 24.13,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "analyse",
+      "startFrame": 584,
+      "endFrame": 598,
+      "startMs": 19466.667,
+      "endMs": 19933.333,
+      "sourceStart": 24.13,
+      "sourceEnd": 24.61,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "nahi",
+      "startFrame": 598,
+      "endFrame": 603,
+      "startMs": 19933.333,
+      "endMs": 20100.0,
+      "sourceStart": 24.61,
+      "sourceEnd": 24.77,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "karna,",
+      "startFrame": 603,
+      "endFrame": 607,
+      "startMs": 20100.0,
+      "endMs": 20233.333,
+      "sourceStart": 24.77,
+      "sourceEnd": 24.91,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "analyse",
+      "startFrame": 613,
+      "endFrame": 630,
+      "startMs": 20433.333,
+      "endMs": 21000.0,
+      "sourceStart": 25.39,
+      "sourceEnd": 25.97,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "karna",
+      "startFrame": 630,
+      "endFrame": 642,
+      "startMs": 21000.0,
+      "endMs": 21400.0,
+      "sourceStart": 25.97,
+      "sourceEnd": 26.37,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "hi",
+      "startFrame": 642,
+      "endFrame": 644,
+      "startMs": 21400.0,
+      "endMs": 21466.667,
+      "sourceStart": 26.37,
+      "sourceEnd": 26.43,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "sabse",
+      "startFrame": 644,
+      "endFrame": 654,
+      "startMs": 21466.667,
+      "endMs": 21800.0,
+      "sourceStart": 26.43,
+      "sourceEnd": 26.77,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "zyada",
+      "startFrame": 654,
+      "endFrame": 662,
+      "startMs": 21800.0,
+      "endMs": 22066.667,
+      "sourceStart": 26.77,
+      "sourceEnd": 27.03,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "important",
+      "startFrame": 662,
+      "endFrame": 680,
+      "startMs": 22066.667,
+      "endMs": 22666.667,
+      "sourceStart": 27.03,
+      "sourceEnd": 27.65,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "hai.",
+      "startFrame": 674,
+      "endFrame": 679,
+      "startMs": 22466.667,
+      "endMs": 22633.333,
+      "sourceStart": 27.45,
+      "sourceEnd": 27.59,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "Entrance",
+      "startFrame": 687,
+      "endFrame": 698,
+      "startMs": 22900.0,
+      "endMs": 23266.667,
+      "sourceStart": 29.03,
+      "sourceEnd": 29.41,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "sirf",
+      "startFrame": 698,
+      "endFrame": 707,
+      "startMs": 23266.667,
+      "endMs": 23566.667,
+      "sourceStart": 29.41,
+      "sourceEnd": 29.69,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "maths",
+      "startFrame": 707,
+      "endFrame": 716,
+      "startMs": 23566.667,
+      "endMs": 23866.667,
+      "sourceStart": 29.69,
+      "sourceEnd": 30.01,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "nahi",
+      "startFrame": 716,
+      "endFrame": 721,
+      "startMs": 23866.667,
+      "endMs": 24033.333,
+      "sourceStart": 30.01,
+      "sourceEnd": 30.17,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "hota,",
+      "startFrame": 721,
+      "endFrame": 729,
+      "startMs": 24033.333,
+      "endMs": 24300.0,
+      "sourceStart": 30.17,
+      "sourceEnd": 30.44,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "strategy,",
+      "startFrame": 734,
+      "endFrame": 755,
+      "startMs": 24466.667,
+      "endMs": 25166.667,
+      "sourceStart": 30.72,
+      "sourceEnd": 31.42,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "reasoning",
+      "startFrame": 759,
+      "endFrame": 778,
+      "startMs": 25300.0,
+      "endMs": 25933.333,
+      "sourceStart": 31.89,
+      "sourceEnd": 32.54,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "aur",
+      "startFrame": 783,
+      "endFrame": 793,
+      "startMs": 26100.0,
+      "endMs": 26433.333,
+      "sourceStart": 32.69,
+      "sourceEnd": 33.05,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "review,",
+      "startFrame": 793,
+      "endFrame": 807,
+      "startMs": 26433.333,
+      "endMs": 26900.0,
+      "sourceStart": 33.05,
+      "sourceEnd": 33.49,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "yeh",
+      "startFrame": 813,
+      "endFrame": 818,
+      "startMs": 27100.0,
+      "endMs": 27266.667,
+      "sourceStart": 33.95,
+      "sourceEnd": 34.13,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "teeno",
+      "startFrame": 818,
+      "endFrame": 826,
+      "startMs": 27266.667,
+      "endMs": 27533.333,
+      "sourceStart": 34.13,
+      "sourceEnd": 34.39,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "cheezein",
+      "startFrame": 826,
+      "endFrame": 835,
+      "startMs": 27533.333,
+      "endMs": 27833.333,
+      "sourceStart": 34.39,
+      "sourceEnd": 34.71,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "bhi",
+      "startFrame": 835,
+      "endFrame": 841,
+      "startMs": 27833.333,
+      "endMs": 28033.333,
+      "sourceStart": 34.71,
+      "sourceEnd": 34.91,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "kaafi",
+      "startFrame": 841,
+      "endFrame": 853,
+      "startMs": 28033.333,
+      "endMs": 28433.333,
+      "sourceStart": 34.91,
+      "sourceEnd": 35.31,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "zyada",
+      "startFrame": 853,
+      "endFrame": 865,
+      "startMs": 28433.333,
+      "endMs": 28833.333,
+      "sourceStart": 35.31,
+      "sourceEnd": 35.69,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "farak",
+      "startFrame": 865,
+      "endFrame": 873,
+      "startMs": 28833.333,
+      "endMs": 29100.0,
+      "sourceStart": 35.69,
+      "sourceEnd": 35.97,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "laati",
+      "startFrame": 869,
+      "endFrame": 875,
+      "startMs": 28966.667,
+      "endMs": 29166.667,
+      "sourceStart": 35.82,
+      "sourceEnd": 36.03,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "hain.",
+      "startFrame": 875,
+      "endFrame": 878,
+      "startMs": 29166.667,
+      "endMs": 29266.667,
+      "sourceStart": 36.03,
+      "sourceEnd": 36.14,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "Aap",
+      "startFrame": 884,
+      "endFrame": 891,
+      "startMs": 29466.667,
+      "endMs": 29700.0,
+      "sourceStart": 37.12,
+      "sourceEnd": 37.37,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "kaunsi",
+      "startFrame": 891,
+      "endFrame": 900,
+      "startMs": 29700.0,
+      "endMs": 30000.0,
+      "sourceStart": 37.37,
+      "sourceEnd": 37.65,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "galti",
+      "startFrame": 900,
+      "endFrame": 907,
+      "startMs": 30000.0,
+      "endMs": 30233.333,
+      "sourceStart": 37.65,
+      "sourceEnd": 37.89,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "kar",
+      "startFrame": 907,
+      "endFrame": 913,
+      "startMs": 30233.333,
+      "endMs": 30433.333,
+      "sourceStart": 37.89,
+      "sourceEnd": 38.09,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "rahe",
+      "startFrame": 913,
+      "endFrame": 918,
+      "startMs": 30433.333,
+      "endMs": 30600.0,
+      "sourceStart": 38.09,
+      "sourceEnd": 38.25,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "ho?",
+      "startFrame": 918,
+      "endFrame": 919,
+      "startMs": 30600.0,
+      "endMs": 30633.333,
+      "sourceStart": 38.25,
+      "sourceEnd": 38.29,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "Comments",
+      "startFrame": 922,
+      "endFrame": 929,
+      "startMs": 30733.333,
+      "endMs": 30966.667,
+      "sourceStart": 38.39,
+      "sourceEnd": 38.63,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "mein",
+      "startFrame": 929,
+      "endFrame": 932,
+      "startMs": 30966.667,
+      "endMs": 31066.667,
+      "sourceStart": 38.63,
+      "sourceEnd": 38.73,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "batao",
+      "startFrame": 932,
+      "endFrame": 945,
+      "startMs": 31066.667,
+      "endMs": 31500.0,
+      "sourceStart": 38.73,
+      "sourceEnd": 39.18,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "aur",
+      "startFrame": 950,
+      "endFrame": 955,
+      "startMs": 31666.667,
+      "endMs": 31833.333,
+      "sourceStart": 39.54,
+      "sourceEnd": 39.69,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "agar",
+      "startFrame": 955,
+      "endFrame": 961,
+      "startMs": 31833.333,
+      "endMs": 32033.333,
+      "sourceStart": 39.71,
+      "sourceEnd": 39.91,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "aapko",
+      "startFrame": 961,
+      "endFrame": 968,
+      "startMs": 32033.333,
+      "endMs": 32266.667,
+      "sourceStart": 39.91,
+      "sourceEnd": 40.13,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "apni",
+      "startFrame": 968,
+      "endFrame": 973,
+      "startMs": 32266.667,
+      "endMs": 32433.333,
+      "sourceStart": 40.13,
+      "sourceEnd": 40.31,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "galti",
+      "startFrame": 973,
+      "endFrame": 980,
+      "startMs": 32433.333,
+      "endMs": 32666.667,
+      "sourceStart": 40.31,
+      "sourceEnd": 40.55,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "sudhaarna",
+      "startFrame": 980,
+      "endFrame": 990,
+      "startMs": 32666.667,
+      "endMs": 33000.0,
+      "sourceStart": 40.55,
+      "sourceEnd": 40.87,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "hai,",
+      "startFrame": 990,
+      "endFrame": 995,
+      "startMs": 33000.0,
+      "endMs": 33166.667,
+      "sourceStart": 40.87,
+      "sourceEnd": 41.04,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "go",
+      "startFrame": 998,
+      "endFrame": 1006,
+      "startMs": 33266.667,
+      "endMs": 33533.333,
+      "sourceStart": 41.05,
+      "sourceEnd": 41.71,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "on",
+      "startFrame": 1006,
+      "endFrame": 1012,
+      "startMs": 33533.333,
+      "endMs": 33733.333,
+      "sourceStart": 41.71,
+      "sourceEnd": 41.91,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    },
+    {
+      "text": "niolearn.com",
+      "startFrame": 1012,
+      "endFrame": 1033,
+      "startMs": 33733.333,
+      "endMs": 34433.333,
+      "sourceStart": 41.91,
+      "sourceEnd": 42.6,
+      "source": "media/raw/niolearn/niolearn-09/IMG_5952.mov"
+    }
+  ]
+}

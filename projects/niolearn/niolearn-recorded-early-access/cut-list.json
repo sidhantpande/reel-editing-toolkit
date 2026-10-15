@@ -1,0 +1,119 @@
+{
+  "id": "niolearn-recorded-early-access",
+  "fps": 30,
+  "dialogueFrames": 901,
+  "endHoldFrames": 45,
+  "totalFrames": 946,
+  "cuts": [
+    {
+      "source": "media/raw/niolearn/niolearn-recorded-early-access/IMG_5980.mov",
+      "inFrame": 36,
+      "outFrame": 136,
+      "timelineFrom": 0,
+      "duration": 100,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Planning hook"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-recorded-early-access/IMG_5980.mov",
+      "inFrame": 157,
+      "outFrame": 266,
+      "timelineFrom": 100,
+      "duration": 109,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Different criteria"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-recorded-early-access/IMG_5980.mov",
+      "inFrame": 280,
+      "outFrame": 363,
+      "timelineFrom": 209,
+      "duration": 83,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Preparation confusion"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-recorded-early-access/IMG_5980.mov",
+      "inFrame": 382,
+      "outFrame": 442,
+      "timelineFrom": 292,
+      "duration": 60,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "NioLearn"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-recorded-early-access/IMG_5980.mov",
+      "inFrame": 460,
+      "outFrame": 543,
+      "timelineFrom": 352,
+      "duration": 83,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Structured classes"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-recorded-early-access/IMG_5980.mov",
+      "inFrame": 547,
+      "outFrame": 586,
+      "timelineFrom": 435,
+      "duration": 39,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Mentorship"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-recorded-early-access/IMG_5980.mov",
+      "inFrame": 593,
+      "outFrame": 688,
+      "timelineFrom": 474,
+      "duration": 95,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Interview and confidence"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-recorded-early-access/IMG_5987.mov",
+      "inFrame": 27,
+      "outFrame": 106,
+      "timelineFrom": 569,
+      "duration": 79,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Early access"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-recorded-early-access/IMG_5987.mov",
+      "inFrame": 109,
+      "outFrame": 279,
+      "timelineFrom": 648,
+      "duration": 170,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Recorded October 22 waitlist CTA"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-recorded-early-access/IMG_5987.mov",
+      "inFrame": 285,
+      "outFrame": 368,
+      "timelineFrom": 818,
+      "duration": 83,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Opportunity closing"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "niolearn-12",
+  "brand": "niolearn",
+  "status": "edited-awaiting-user-review",
+  "sourceClips": [
+    "media/raw/niolearn/niolearn-12/IMG_5956.mov"
+  ],
+  "format": "REEL",
+  "captionPreset": "reference",
+  "broll": [
+    {
+      "kind": "nio-intro-problem",
+      "duration": 194,
+      "fadeFrames": 8,
+      "from": 173
+    },
+    {
+      "kind": "nio-intro-project",
+      "duration": 164,
+      "fadeFrames": 8,
+      "from": 412
+    },
+    {
+      "kind": "nio-intro-curiosity",
+      "duration": 218,
+      "fadeFrames": 8,
+      "from": 588
+    }
+  ],
+  "notes": [
+    "Source script timings are estimates. Match recorded dialogue before final captions.",
+    "Review all fact placeholders before final export.",
+    "Version B openers, not the longer My name is interview scene."
+  ],
+  "takes": [
+    {
+      "project": "niolearn-12",
+      "brand": "niolearn",
+      "file": "IMG_5956.mov",
+      "path": "media/raw/niolearn/niolearn-12/IMG_5956.mov",
+      "role": "main",
+      "confidence": "high",
+      "evidence": "Three better intro openers: problem, project, curiosity.",
+      "edit_note": "Version B openers, not the longer My name is interview scene.",
+      "asr_draft": ".cache/transcripts-en/IMG_5956.json"
+    }
+  ],
+  "captionBeats": [
+    "Problem",
+    "Project",
+    "Curiosity"
+  ],
+  "suggestedBroll": [
+    {
+      "spokenAnchor": "As each opener is demonstrated",
+      "composition": "Broll-pathways",
+      "asset": "public/assets/broll/niolearn-pathways.webm",
+      "timingStatus": "Resolve against edited recording; no frame cue assigned"
+    }
+  ],
+  "soundDirection": {
+    "music": "calm-focus",
+    "voicePriority": true,
+    "sfx": [
+      "soft-whoosh at a major graphic reveal",
+      "soft-tick only for a real timer"
+    ],
+    "avoid": "A sound effect on every caption word"
+  },
+  "creativeNote": "Three simple text cards are enough. Do not confuse with the longer script 11.",
+  "visualDirection": "light-editorial-v3",
+  "preferredPremiumScene": {
+    "composition": "Premium-paper-pathways",
+    "kind": "paper-pathways",
+    "asset": "public/assets/broll/niolearn-premium-paper-pathways-v3.webm",
+    "source": "src/premium/PaperScene.tsx",
+    "note": "Use opaque paper scenes for full B-roll; alpha versions are reusable overlays. Functional first-generation diagrams can be restyled as needed."
+  },
+  "output": "deliverables/niolearn/NIOLEARN_04_Interview_Introduction_v1.mp4",
+  "finalQA": "analysis/final-qa.json"
+}

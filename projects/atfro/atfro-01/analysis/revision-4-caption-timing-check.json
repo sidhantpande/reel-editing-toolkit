@@ -1,0 +1,698 @@
+{
+  "method": "Compare corrected source-to-edit word alignment to independent small-model transcription of the assembled dialogue. ASR is a cross-check, not frame-exact ground truth.",
+  "fps": 30,
+  "matchingWords": 113,
+  "transcriptDifferences": [],
+  "largeDifferences": [
+    {
+      "word": "Understand",
+      "captionFrame": 762,
+      "audioCheckFrame": 756,
+      "differenceFrames": -6
+    }
+  ],
+  "manualReview": [
+    "Understand: edited ASR absorbs preceding pause; retain source-aligned 71.60-second onset.",
+    "Correct leading-pause overhangs for We, still, Not, What's, That/is and So; preserve brand spelling ATFRO."
+  ],
+  "words": [
+    {
+      "word": "Three",
+      "captionFrame": 1,
+      "audioCheckFrame": 0,
+      "differenceFrames": -1
+    },
+    {
+      "word": "months",
+      "captionFrame": 5,
+      "audioCheckFrame": 6,
+      "differenceFrames": 1
+    },
+    {
+      "word": "of",
+      "captionFrame": 11,
+      "audioCheckFrame": 11,
+      "differenceFrames": 0
+    },
+    {
+      "word": "silence",
+      "captionFrame": 15,
+      "audioCheckFrame": 16,
+      "differenceFrames": 1
+    },
+    {
+      "word": "from",
+      "captionFrame": 24,
+      "audioCheckFrame": 25,
+      "differenceFrames": 1
+    },
+    {
+      "word": "ATFRO.",
+      "captionFrame": 32,
+      "audioCheckFrame": 33,
+      "differenceFrames": 1
+    },
+    {
+      "word": "You",
+      "captionFrame": 50,
+      "audioCheckFrame": 53,
+      "differenceFrames": 3
+    },
+    {
+      "word": "deserve",
+      "captionFrame": 55,
+      "audioCheckFrame": 56,
+      "differenceFrames": 1
+    },
+    {
+      "word": "to",
+      "captionFrame": 64,
+      "audioCheckFrame": 65,
+      "differenceFrames": 1
+    },
+    {
+      "word": "know",
+      "captionFrame": 72,
+      "audioCheckFrame": 73,
+      "differenceFrames": 1
+    },
+    {
+      "word": "what",
+      "captionFrame": 77,
+      "audioCheckFrame": 77,
+      "differenceFrames": 0
+    },
+    {
+      "word": "we",
+      "captionFrame": 83,
+      "audioCheckFrame": 85,
+      "differenceFrames": 2
+    },
+    {
+      "word": "have",
+      "captionFrame": 90,
+      "audioCheckFrame": 91,
+      "differenceFrames": 1
+    },
+    {
+      "word": "been",
+      "captionFrame": 97,
+      "audioCheckFrame": 97,
+      "differenceFrames": 0
+    },
+    {
+      "word": "doing.",
+      "captionFrame": 101,
+      "audioCheckFrame": 102,
+      "differenceFrames": 1
+    },
+    {
+      "word": "We",
+      "captionFrame": 120,
+      "audioCheckFrame": 120,
+      "differenceFrames": 0
+    },
+    {
+      "word": "have",
+      "captionFrame": 123,
+      "audioCheckFrame": 124,
+      "differenceFrames": 1
+    },
+    {
+      "word": "been",
+      "captionFrame": 128,
+      "audioCheckFrame": 129,
+      "differenceFrames": 1
+    },
+    {
+      "word": "busy",
+      "captionFrame": 132,
+      "audioCheckFrame": 133,
+      "differenceFrames": 1
+    },
+    {
+      "word": "with",
+      "captionFrame": 141,
+      "audioCheckFrame": 142,
+      "differenceFrames": 1
+    },
+    {
+      "word": "client",
+      "captionFrame": 150,
+      "audioCheckFrame": 151,
+      "differenceFrames": 1
+    },
+    {
+      "word": "work",
+      "captionFrame": 158,
+      "audioCheckFrame": 159,
+      "differenceFrames": 1
+    },
+    {
+      "word": "without",
+      "captionFrame": 170,
+      "audioCheckFrame": 170,
+      "differenceFrames": 0
+    },
+    {
+      "word": "showing",
+      "captionFrame": 181,
+      "audioCheckFrame": 182,
+      "differenceFrames": 1
+    },
+    {
+      "word": "the",
+      "captionFrame": 194,
+      "audioCheckFrame": 195,
+      "differenceFrames": 1
+    },
+    {
+      "word": "process.",
+      "captionFrame": 201,
+      "audioCheckFrame": 202,
+      "differenceFrames": 1
+    },
+    {
+      "word": "And",
+      "captionFrame": 221,
+      "audioCheckFrame": 226,
+      "differenceFrames": 5
+    },
+    {
+      "word": "this",
+      "captionFrame": 226,
+      "audioCheckFrame": 227,
+      "differenceFrames": 1
+    },
+    {
+      "word": "is",
+      "captionFrame": 231,
+      "audioCheckFrame": 232,
+      "differenceFrames": 1
+    },
+    {
+      "word": "a",
+      "captionFrame": 234,
+      "audioCheckFrame": 235,
+      "differenceFrames": 1
+    },
+    {
+      "word": "mistake",
+      "captionFrame": 236,
+      "audioCheckFrame": 237,
+      "differenceFrames": 1
+    },
+    {
+      "word": "which",
+      "captionFrame": 245,
+      "audioCheckFrame": 246,
+      "differenceFrames": 1
+    },
+    {
+      "word": "we",
+      "captionFrame": 253,
+      "audioCheckFrame": 254,
+      "differenceFrames": 1
+    },
+    {
+      "word": "are",
+      "captionFrame": 258,
+      "audioCheckFrame": 259,
+      "differenceFrames": 1
+    },
+    {
+      "word": "correcting,",
+      "captionFrame": 261,
+      "audioCheckFrame": 262,
+      "differenceFrames": 1
+    },
+    {
+      "word": "Not",
+      "captionFrame": 279,
+      "audioCheckFrame": 281,
+      "differenceFrames": 2
+    },
+    {
+      "word": "dressing",
+      "captionFrame": 284,
+      "audioCheckFrame": 285,
+      "differenceFrames": 1
+    },
+    {
+      "word": "it",
+      "captionFrame": 293,
+      "audioCheckFrame": 295,
+      "differenceFrames": 2
+    },
+    {
+      "word": "up",
+      "captionFrame": 299,
+      "audioCheckFrame": 300,
+      "differenceFrames": 1
+    },
+    {
+      "word": "as",
+      "captionFrame": 303,
+      "audioCheckFrame": 304,
+      "differenceFrames": 1
+    },
+    {
+      "word": "a",
+      "captionFrame": 311,
+      "audioCheckFrame": 312,
+      "differenceFrames": 1
+    },
+    {
+      "word": "strategy.",
+      "captionFrame": 315,
+      "audioCheckFrame": 316,
+      "differenceFrames": 1
+    },
+    {
+      "word": "We",
+      "captionFrame": 334,
+      "audioCheckFrame": 338,
+      "differenceFrames": 4
+    },
+    {
+      "word": "have",
+      "captionFrame": 340,
+      "audioCheckFrame": 341,
+      "differenceFrames": 1
+    },
+    {
+      "word": "dealt",
+      "captionFrame": 343,
+      "audioCheckFrame": 344,
+      "differenceFrames": 1
+    },
+    {
+      "word": "with",
+      "captionFrame": 348,
+      "audioCheckFrame": 350,
+      "differenceFrames": 2
+    },
+    {
+      "word": "school",
+      "captionFrame": 357,
+      "audioCheckFrame": 358,
+      "differenceFrames": 1
+    },
+    {
+      "word": "communications,",
+      "captionFrame": 377,
+      "audioCheckFrame": 377,
+      "differenceFrames": 0
+    },
+    {
+      "word": "doctor-led",
+      "captionFrame": 414,
+      "audioCheckFrame": 414,
+      "differenceFrames": 0
+    },
+    {
+      "word": "content",
+      "captionFrame": 425,
+      "audioCheckFrame": 427,
+      "differenceFrames": 2
+    },
+    {
+      "word": "and",
+      "captionFrame": 439,
+      "audioCheckFrame": 440,
+      "differenceFrames": 1
+    },
+    {
+      "word": "practical",
+      "captionFrame": 454,
+      "audioCheckFrame": 455,
+      "differenceFrames": 1
+    },
+    {
+      "word": "software",
+      "captionFrame": 470,
+      "audioCheckFrame": 471,
+      "differenceFrames": 1
+    },
+    {
+      "word": "systems.",
+      "captionFrame": 486,
+      "audioCheckFrame": 487,
+      "differenceFrames": 1
+    },
+    {
+      "word": "Different",
+      "captionFrame": 509,
+      "audioCheckFrame": 514,
+      "differenceFrames": 5
+    },
+    {
+      "word": "projects",
+      "captionFrame": 521,
+      "audioCheckFrame": 522,
+      "differenceFrames": 1
+    },
+    {
+      "word": "still",
+      "captionFrame": 546,
+      "audioCheckFrame": 545,
+      "differenceFrames": -1
+    },
+    {
+      "word": "the",
+      "captionFrame": 553,
+      "audioCheckFrame": 554,
+      "differenceFrames": 1
+    },
+    {
+      "word": "same",
+      "captionFrame": 560,
+      "audioCheckFrame": 560,
+      "differenceFrames": 0
+    },
+    {
+      "word": "question,",
+      "captionFrame": 571,
+      "audioCheckFrame": 571,
+      "differenceFrames": 0
+    },
+    {
+      "word": "What's",
+      "captionFrame": 592,
+      "audioCheckFrame": 592,
+      "differenceFrames": 0
+    },
+    {
+      "word": "stopping",
+      "captionFrame": 601,
+      "audioCheckFrame": 601,
+      "differenceFrames": 0
+    },
+    {
+      "word": "this",
+      "captionFrame": 610,
+      "audioCheckFrame": 610,
+      "differenceFrames": 0
+    },
+    {
+      "word": "business",
+      "captionFrame": 621,
+      "audioCheckFrame": 622,
+      "differenceFrames": 1
+    },
+    {
+      "word": "from",
+      "captionFrame": 634,
+      "audioCheckFrame": 634,
+      "differenceFrames": 0
+    },
+    {
+      "word": "growing?",
+      "captionFrame": 644,
+      "audioCheckFrame": 645,
+      "differenceFrames": 1
+    },
+    {
+      "word": "That",
+      "captionFrame": 660,
+      "audioCheckFrame": 662,
+      "differenceFrames": 2
+    },
+    {
+      "word": "is",
+      "captionFrame": 666,
+      "audioCheckFrame": 667,
+      "differenceFrames": 1
+    },
+    {
+      "word": "what",
+      "captionFrame": 671,
+      "audioCheckFrame": 672,
+      "differenceFrames": 1
+    },
+    {
+      "word": "being",
+      "captionFrame": 678,
+      "audioCheckFrame": 679,
+      "differenceFrames": 1
+    },
+    {
+      "word": "a",
+      "captionFrame": 693,
+      "audioCheckFrame": 692,
+      "differenceFrames": -1
+    },
+    {
+      "word": "growth",
+      "captionFrame": 703,
+      "audioCheckFrame": 703,
+      "differenceFrames": 0
+    },
+    {
+      "word": "partner",
+      "captionFrame": 713,
+      "audioCheckFrame": 714,
+      "differenceFrames": 1
+    },
+    {
+      "word": "means",
+      "captionFrame": 729,
+      "audioCheckFrame": 730,
+      "differenceFrames": 1
+    },
+    {
+      "word": "to",
+      "captionFrame": 741,
+      "audioCheckFrame": 742,
+      "differenceFrames": 1
+    },
+    {
+      "word": "us.",
+      "captionFrame": 749,
+      "audioCheckFrame": 749,
+      "differenceFrames": 0
+    },
+    {
+      "word": "Understand",
+      "captionFrame": 762,
+      "audioCheckFrame": 756,
+      "differenceFrames": -6
+    },
+    {
+      "word": "the",
+      "captionFrame": 772,
+      "audioCheckFrame": 773,
+      "differenceFrames": 1
+    },
+    {
+      "word": "problem,",
+      "captionFrame": 779,
+      "audioCheckFrame": 780,
+      "differenceFrames": 1
+    },
+    {
+      "word": "build",
+      "captionFrame": 802,
+      "audioCheckFrame": 804,
+      "differenceFrames": 2
+    },
+    {
+      "word": "what",
+      "captionFrame": 815,
+      "audioCheckFrame": 816,
+      "differenceFrames": 1
+    },
+    {
+      "word": "is",
+      "captionFrame": 827,
+      "audioCheckFrame": 827,
+      "differenceFrames": 0
+    },
+    {
+      "word": "useful",
+      "captionFrame": 841,
+      "audioCheckFrame": 840,
+      "differenceFrames": -1
+    },
+    {
+      "word": "and",
+      "captionFrame": 857,
+      "audioCheckFrame": 857,
+      "differenceFrames": 0
+    },
+    {
+      "word": "grow",
+      "captionFrame": 874,
+      "audioCheckFrame": 874,
+      "differenceFrames": 0
+    },
+    {
+      "word": "with",
+      "captionFrame": 885,
+      "audioCheckFrame": 886,
+      "differenceFrames": 1
+    },
+    {
+      "word": "the",
+      "captionFrame": 892,
+      "audioCheckFrame": 893,
+      "differenceFrames": 1
+    },
+    {
+      "word": "people",
+      "captionFrame": 895,
+      "audioCheckFrame": 896,
+      "differenceFrames": 1
+    },
+    {
+      "word": "who",
+      "captionFrame": 905,
+      "audioCheckFrame": 906,
+      "differenceFrames": 1
+    },
+    {
+      "word": "are",
+      "captionFrame": 913,
+      "audioCheckFrame": 913,
+      "differenceFrames": 0
+    },
+    {
+      "word": "running",
+      "captionFrame": 916,
+      "audioCheckFrame": 916,
+      "differenceFrames": 0
+    },
+    {
+      "word": "the",
+      "captionFrame": 922,
+      "audioCheckFrame": 922,
+      "differenceFrames": 0
+    },
+    {
+      "word": "business.",
+      "captionFrame": 926,
+      "audioCheckFrame": 928,
+      "differenceFrames": 2
+    },
+    {
+      "word": "So",
+      "captionFrame": 948,
+      "audioCheckFrame": 948,
+      "differenceFrames": 0
+    },
+    {
+      "word": "here",
+      "captionFrame": 950,
+      "audioCheckFrame": 951,
+      "differenceFrames": 1
+    },
+    {
+      "word": "we",
+      "captionFrame": 959,
+      "audioCheckFrame": 959,
+      "differenceFrames": 0
+    },
+    {
+      "word": "are,",
+      "captionFrame": 966,
+      "audioCheckFrame": 966,
+      "differenceFrames": 0
+    },
+    {
+      "word": "back",
+      "captionFrame": 978,
+      "audioCheckFrame": 974,
+      "differenceFrames": -4
+    },
+    {
+      "word": "again",
+      "captionFrame": 995,
+      "audioCheckFrame": 994,
+      "differenceFrames": -1
+    },
+    {
+      "word": "to",
+      "captionFrame": 1005,
+      "audioCheckFrame": 1005,
+      "differenceFrames": 0
+    },
+    {
+      "word": "share",
+      "captionFrame": 1014,
+      "audioCheckFrame": 1015,
+      "differenceFrames": 1
+    },
+    {
+      "word": "the",
+      "captionFrame": 1023,
+      "audioCheckFrame": 1024,
+      "differenceFrames": 1
+    },
+    {
+      "word": "people,",
+      "captionFrame": 1026,
+      "audioCheckFrame": 1029,
+      "differenceFrames": 3
+    },
+    {
+      "word": "the",
+      "captionFrame": 1044,
+      "audioCheckFrame": 1045,
+      "differenceFrames": 1
+    },
+    {
+      "word": "work",
+      "captionFrame": 1044,
+      "audioCheckFrame": 1046,
+      "differenceFrames": 2
+    },
+    {
+      "word": "and",
+      "captionFrame": 1056,
+      "audioCheckFrame": 1057,
+      "differenceFrames": 1
+    },
+    {
+      "word": "the",
+      "captionFrame": 1071,
+      "audioCheckFrame": 1072,
+      "differenceFrames": 1
+    },
+    {
+      "word": "lesson.",
+      "captionFrame": 1075,
+      "audioCheckFrame": 1075,
+      "differenceFrames": 0
+    },
+    {
+      "word": "Welcome",
+      "captionFrame": 1091,
+      "audioCheckFrame": 1094,
+      "differenceFrames": 3
+    },
+    {
+      "word": "to",
+      "captionFrame": 1100,
+      "audioCheckFrame": 1102,
+      "differenceFrames": 2
+    },
+    {
+      "word": "the",
+      "captionFrame": 1109,
+      "audioCheckFrame": 1110,
+      "differenceFrames": 1
+    },
+    {
+      "word": "real",
+      "captionFrame": 1113,
+      "audioCheckFrame": 1114,
+      "differenceFrames": 1
+    },
+    {
+      "word": "ATFRO.",
+      "captionFrame": 1119,
+      "audioCheckFrame": 1120,
+      "differenceFrames": 1
+    }
+  ]
+}

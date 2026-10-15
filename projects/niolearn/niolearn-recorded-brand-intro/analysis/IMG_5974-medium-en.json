@@ -1,0 +1,386 @@
+[
+  {
+    "start": 0.34,
+    "end": 4.12,
+    "text": " What if J wasn't your only option?",
+    "words": [
+      {
+        "text": " What",
+        "start": 0.34,
+        "end": 1.64,
+        "probability": 0.7530192136764526
+      },
+      {
+        "text": " if",
+        "start": 1.64,
+        "end": 2.2,
+        "probability": 0.9816330671310425
+      },
+      {
+        "text": " J",
+        "start": 2.2,
+        "end": 2.54,
+        "probability": 0.5326991081237793
+      },
+      {
+        "text": " wasn't",
+        "start": 2.54,
+        "end": 3.12,
+        "probability": 0.7964265942573547
+      },
+      {
+        "text": " your",
+        "start": 3.12,
+        "end": 3.38,
+        "probability": 0.9799764156341553
+      },
+      {
+        "text": " only",
+        "start": 3.38,
+        "end": 3.64,
+        "probability": 0.997491717338562
+      },
+      {
+        "text": " option?",
+        "start": 3.64,
+        "end": 4.12,
+        "probability": 0.9962413311004639
+      }
+    ]
+  },
+  {
+    "start": 5.2,
+    "end": 10.2,
+    "text": " Today, a new generation of tech colleges are changing the way a student learns.",
+    "words": [
+      {
+        "text": " Today,",
+        "start": 5.2,
+        "end": 5.58,
+        "probability": 0.9813542366027832
+      },
+      {
+        "text": " a",
+        "start": 5.84,
+        "end": 6.0,
+        "probability": 0.96138596534729
+      },
+      {
+        "text": " new",
+        "start": 6.0,
+        "end": 6.16,
+        "probability": 0.9964009523391724
+      },
+      {
+        "text": " generation",
+        "start": 6.16,
+        "end": 6.54,
+        "probability": 0.9954597353935242
+      },
+      {
+        "text": " of",
+        "start": 6.54,
+        "end": 6.84,
+        "probability": 0.9983874559402466
+      },
+      {
+        "text": " tech",
+        "start": 6.84,
+        "end": 7.02,
+        "probability": 0.8666375875473022
+      },
+      {
+        "text": " colleges",
+        "start": 7.02,
+        "end": 7.32,
+        "probability": 0.9845563173294067
+      },
+      {
+        "text": " are",
+        "start": 7.32,
+        "end": 7.58,
+        "probability": 0.9767007231712341
+      },
+      {
+        "text": " changing",
+        "start": 7.58,
+        "end": 8.06,
+        "probability": 0.9966692328453064
+      },
+      {
+        "text": " the",
+        "start": 8.06,
+        "end": 8.38,
+        "probability": 0.9952574372291565
+      },
+      {
+        "text": " way",
+        "start": 8.38,
+        "end": 8.94,
+        "probability": 0.993524432182312
+      },
+      {
+        "text": " a",
+        "start": 8.94,
+        "end": 9.24,
+        "probability": 0.9385496973991394
+      },
+      {
+        "text": " student",
+        "start": 9.24,
+        "end": 9.56,
+        "probability": 0.9930723309516907
+      },
+      {
+        "text": " learns.",
+        "start": 9.56,
+        "end": 10.2,
+        "probability": 0.9900410771369934
+      }
+    ]
+  },
+  {
+    "start": 10.96,
+    "end": 15.42,
+    "text": " But all of them have different types of examinations.",
+    "words": [
+      {
+        "text": " But",
+        "start": 10.96,
+        "end": 11.14,
+        "probability": 0.9800454378128052
+      },
+      {
+        "text": " all",
+        "start": 11.14,
+        "end": 11.64,
+        "probability": 0.9014638662338257
+      },
+      {
+        "text": " of",
+        "start": 11.64,
+        "end": 11.82,
+        "probability": 0.9912537932395935
+      },
+      {
+        "text": " them",
+        "start": 11.82,
+        "end": 12.0,
+        "probability": 0.9979099631309509
+      },
+      {
+        "text": " have",
+        "start": 12.0,
+        "end": 12.4,
+        "probability": 0.9946544170379639
+      },
+      {
+        "text": " different",
+        "start": 12.4,
+        "end": 13.16,
+        "probability": 0.961769700050354
+      },
+      {
+        "text": " types",
+        "start": 13.16,
+        "end": 13.72,
+        "probability": 0.5507931113243103
+      },
+      {
+        "text": " of",
+        "start": 13.72,
+        "end": 14.62,
+        "probability": 0.9981635212898254
+      },
+      {
+        "text": " examinations.",
+        "start": 14.62,
+        "end": 15.42,
+        "probability": 0.9628942608833313
+      }
+    ]
+  },
+  {
+    "start": 15.94,
+    "end": 20.9,
+    "text": " Some focus on logical reasoning and aptitude, while some focus on coding and problem solving",
+    "words": [
+      {
+        "text": " Some",
+        "start": 15.94,
+        "end": 16.2,
+        "probability": 0.9958615899085999
+      },
+      {
+        "text": " focus",
+        "start": 16.2,
+        "end": 16.58,
+        "probability": 0.9901759028434753
+      },
+      {
+        "text": " on",
+        "start": 16.58,
+        "end": 16.9,
+        "probability": 0.9966896772384644
+      },
+      {
+        "text": " logical",
+        "start": 16.9,
+        "end": 17.34,
+        "probability": 0.9866849780082703
+      },
+      {
+        "text": " reasoning",
+        "start": 17.34,
+        "end": 17.64,
+        "probability": 0.9952793121337891
+      },
+      {
+        "text": " and",
+        "start": 17.64,
+        "end": 17.86,
+        "probability": 0.9615596532821655
+      },
+      {
+        "text": " aptitude,",
+        "start": 17.86,
+        "end": 18.38,
+        "probability": 0.9948024749755859
+      },
+      {
+        "text": " while",
+        "start": 18.66,
+        "end": 18.74,
+        "probability": 0.9668976664543152
+      },
+      {
+        "text": " some",
+        "start": 18.74,
+        "end": 18.94,
+        "probability": 0.9727963805198669
+      },
+      {
+        "text": " focus",
+        "start": 18.94,
+        "end": 19.22,
+        "probability": 0.9861080050468445
+      },
+      {
+        "text": " on",
+        "start": 19.22,
+        "end": 19.46,
+        "probability": 0.9783047437667847
+      },
+      {
+        "text": " coding",
+        "start": 19.46,
+        "end": 19.8,
+        "probability": 0.997276246547699
+      },
+      {
+        "text": " and",
+        "start": 19.8,
+        "end": 20.2,
+        "probability": 0.7784602046012878
+      },
+      {
+        "text": " problem",
+        "start": 20.2,
+        "end": 20.44,
+        "probability": 0.99016273021698
+      },
+      {
+        "text": " solving",
+        "start": 20.44,
+        "end": 20.9,
+        "probability": 0.666303813457489
+      }
+    ]
+  },
+  {
+    "start": 20.9,
+    "end": 21.98,
+    "text": " and interviews.",
+    "words": [
+      {
+        "text": " and",
+        "start": 20.9,
+        "end": 21.52,
+        "probability": 0.6256281137466431
+      },
+      {
+        "text": " interviews.",
+        "start": 21.52,
+        "end": 21.98,
+        "probability": 0.9929226636886597
+      }
+    ]
+  },
+  {
+    "start": 21.98,
+    "end": 25.42,
+    "text": " and that's the part which often makes a student confused.",
+    "words": [
+      {
+        "text": " and",
+        "start": 21.98,
+        "end": 22.6,
+        "probability": 0.4906550645828247
+      },
+      {
+        "text": " that's",
+        "start": 22.6,
+        "end": 23.12,
+        "probability": 0.9804815948009491
+      },
+      {
+        "text": " the",
+        "start": 23.12,
+        "end": 23.28,
+        "probability": 0.9980983138084412
+      },
+      {
+        "text": " part",
+        "start": 23.28,
+        "end": 23.48,
+        "probability": 0.9993213415145874
+      },
+      {
+        "text": " which",
+        "start": 23.48,
+        "end": 23.86,
+        "probability": 0.9528107643127441
+      },
+      {
+        "text": " often",
+        "start": 23.86,
+        "end": 24.18,
+        "probability": 0.9950915575027466
+      },
+      {
+        "text": " makes",
+        "start": 24.18,
+        "end": 24.52,
+        "probability": 0.9900377988815308
+      },
+      {
+        "text": " a",
+        "start": 24.52,
+        "end": 24.66,
+        "probability": 0.7964639067649841
+      },
+      {
+        "text": " student",
+        "start": 24.66,
+        "end": 24.84,
+        "probability": 0.9967142343521118
+      },
+      {
+        "text": " confused.",
+        "start": 24.84,
+        "end": 25.42,
+        "probability": 0.9983905553817749
+      }
+    ]
+  }
+]

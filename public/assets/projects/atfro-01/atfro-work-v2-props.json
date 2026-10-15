@@ -1,0 +1,12 @@
+{
+  "from": 331,
+  "duration": 175,
+  "kind": "atfro-work",
+  "beats": [
+    26,
+    83,
+    139
+  ],
+  "fadeFrames": 5,
+  "transparent": true
+}

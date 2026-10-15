@@ -1,0 +1,33 @@
+{
+  "export": "deliverables/niolearn/NIOLEARN_01_Parent_Questions_v1.mp4",
+  "title": "5 questions parents should ask before choosing a new-age tech school",
+  "order": "First recorded NioLearn reel; calendar script 04. Calendar script 01 is STATIC.",
+  "sha256": "4fb7e55bca3f22e2b6e92154fe10f83d19300669f12e5cb1d9804dbcf4ae3049",
+  "bytes": 33504347,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "frames": 1401,
+  "durationSeconds": 46.7,
+  "dialogueFrames": 1356,
+  "sourceDurationSeconds": 57.606667,
+  "captions": {
+    "words": 142,
+    "groups": 52,
+    "language": "Roman Hinglish",
+    "alignment": "Reviewed medium-model source word timing, pause-overhang corrections and independent small-model transcription of edited dialogue.",
+    "visualReview": "All 52 groups reviewed from final encoded export; no missing captions or artwork overlap."
+  },
+  "transitions": "Reviewed all source cut boundaries, ten three-frame Canvas blends, four B-roll fades, internal credential-to-fee transition and logo dissolve.",
+  "gaze": "Full chronological source sheet inspected; side-glance passages shown only as relevant B-roll.",
+  "audioLUFS": -14.02,
+  "audioTruePeakDBTP": -2.03,
+  "fullDecode": "passed",
+  "blackFramesDetected": false,
+  "reusableAlphaScenes": 5,
+  "alphaCheck": "analysis/alpha-check.json",
+  "ending": "Only original NioLearn mark on light ivory.",
+  "status": "awaiting-user-review"
+}

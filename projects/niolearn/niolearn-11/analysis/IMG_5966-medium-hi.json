@@ -1,0 +1,946 @@
+[
+  {
+    "start": 0.11,
+    "end": 4.45,
+    "text": " My name is Navneet, I am from Pune and I have scored 87%",
+    "words": [
+      {
+        "text": " My",
+        "start": 0.11,
+        "end": 0.63,
+        "probability": 0.018314311280846596
+      },
+      {
+        "text": " name",
+        "start": 0.63,
+        "end": 0.91,
+        "probability": 0.7933579683303833
+      },
+      {
+        "text": " is",
+        "start": 0.91,
+        "end": 1.05,
+        "probability": 0.9939708709716797
+      },
+      {
+        "text": " Navneet,",
+        "start": 1.05,
+        "end": 1.55,
+        "probability": 0.8002928793430328
+      },
+      {
+        "text": " I",
+        "start": 1.77,
+        "end": 1.87,
+        "probability": 0.9376543164253235
+      },
+      {
+        "text": " am",
+        "start": 1.87,
+        "end": 1.95,
+        "probability": 0.8094078898429871
+      },
+      {
+        "text": " from",
+        "start": 1.95,
+        "end": 2.17,
+        "probability": 0.988020122051239
+      },
+      {
+        "text": " Pune",
+        "start": 2.17,
+        "end": 2.55,
+        "probability": 0.9813185334205627
+      },
+      {
+        "text": " and",
+        "start": 2.55,
+        "end": 2.81,
+        "probability": 0.635486364364624
+      },
+      {
+        "text": " I",
+        "start": 2.81,
+        "end": 2.99,
+        "probability": 0.9661967158317566
+      },
+      {
+        "text": " have",
+        "start": 2.99,
+        "end": 3.07,
+        "probability": 0.9154384136199951
+      },
+      {
+        "text": " scored",
+        "start": 3.07,
+        "end": 3.23,
+        "probability": 0.9925172328948975
+      },
+      {
+        "text": " 87",
+        "start": 3.23,
+        "end": 3.61,
+        "probability": 0.9570949673652649
+      },
+      {
+        "text": "%",
+        "start": 3.61,
+        "end": 4.45,
+        "probability": 0.7623648047447205
+      }
+    ]
+  },
+  {
+    "start": 4.45,
+    "end": 10.37,
+    "text": " और इतने पोलते ही इंटर्वेज आपको रोकेगा बोलेगा भाई इंटर्वेज नहीं रेजूमे रीडिंग हैं।",
+    "words": [
+      {
+        "text": " और",
+        "start": 4.45,
+        "end": 4.61,
+        "probability": 0.9351033767064413
+      },
+      {
+        "text": " इतने",
+        "start": 4.61,
+        "end": 5.03,
+        "probability": 0.9014130234718323
+      },
+      {
+        "text": " पोलते",
+        "start": 5.03,
+        "end": 5.67,
+        "probability": 0.8710349599520365
+      },
+      {
+        "text": " ही",
+        "start": 5.67,
+        "end": 6.19,
+        "probability": 0.9310391843318939
+      },
+      {
+        "text": " इंटर्वेज",
+        "start": 6.19,
+        "end": 6.69,
+        "probability": 0.6335928676029047
+      },
+      {
+        "text": " आपको",
+        "start": 6.69,
+        "end": 6.91,
+        "probability": 0.9225455522537231
+      },
+      {
+        "text": " रोकेगा",
+        "start": 6.91,
+        "end": 7.35,
+        "probability": 0.8487297296524048
+      },
+      {
+        "text": " बोलेगा",
+        "start": 7.35,
+        "end": 7.77,
+        "probability": 0.893256388604641
+      },
+      {
+        "text": " भाई",
+        "start": 7.77,
+        "end": 8.05,
+        "probability": 0.719904899597168
+      },
+      {
+        "text": " इंटर्वेज",
+        "start": 8.05,
+        "end": 8.59,
+        "probability": 0.7363620549440384
+      },
+      {
+        "text": " नहीं",
+        "start": 8.59,
+        "end": 9.13,
+        "probability": 0.9674182534217834
+      },
+      {
+        "text": " रेजूमे",
+        "start": 9.13,
+        "end": 9.69,
+        "probability": 0.6533535387780931
+      },
+      {
+        "text": " रीडिंग",
+        "start": 9.69,
+        "end": 10.01,
+        "probability": 0.8799118399620056
+      },
+      {
+        "text": " हैं।",
+        "start": 10.01,
+        "end": 10.37,
+        "probability": 0.70790593624115
+      }
+    ]
+  },
+  {
+    "start": 10.77,
+    "end": 14.03,
+    "text": " आपका स्ट्रॉंग आंसर तीन चीस पे ड़ेपेंट करता हैं।",
+    "words": [
+      {
+        "text": " आपका",
+        "start": 10.77,
+        "end": 11.19,
+        "probability": 0.9472224414348602
+      },
+      {
+        "text": " स्ट्रॉंग",
+        "start": 11.19,
+        "end": 11.67,
+        "probability": 0.7627697180617939
+      },
+      {
+        "text": " आंसर",
+        "start": 11.67,
+        "end": 12.47,
+        "probability": 0.84011310338974
+      },
+      {
+        "text": " तीन",
+        "start": 12.47,
+        "end": 12.91,
+        "probability": 0.7719983905553818
+      },
+      {
+        "text": " चीस",
+        "start": 12.91,
+        "end": 13.05,
+        "probability": 0.7756139039993286
+      },
+      {
+        "text": " पे",
+        "start": 13.05,
+        "end": 13.15,
+        "probability": 0.4478265841801961
+      },
+      {
+        "text": " ड़ेपेंट",
+        "start": 13.15,
+        "end": 13.39,
+        "probability": 0.6294945668090474
+      },
+      {
+        "text": " करता",
+        "start": 13.39,
+        "end": 13.73,
+        "probability": 0.9362825751304626
+      },
+      {
+        "text": " हैं।",
+        "start": 13.73,
+        "end": 14.03,
+        "probability": 0.8368024706840516
+      }
+    ]
+  },
+  {
+    "start": 14.03,
+    "end": 21.25,
+    "text": " आपकी हुक, आपने क्या किया है, आप क्यों इस college को चूस कर रहे हो, और आपका next goal क्या है।",
+    "words": [
+      {
+        "text": " आपकी",
+        "start": 14.03,
+        "end": 14.33,
+        "probability": 0.7082972824573517
+      },
+      {
+        "text": " हुक,",
+        "start": 14.33,
+        "end": 15.23,
+        "probability": 0.7098598480224609
+      },
+      {
+        "text": " आपने",
+        "start": 15.39,
+        "end": 15.75,
+        "probability": 0.9755665361881256
+      },
+      {
+        "text": " क्या",
+        "start": 15.75,
+        "end": 16.11,
+        "probability": 0.9772688001394272
+      },
+      {
+        "text": " किया",
+        "start": 16.11,
+        "end": 16.63,
+        "probability": 0.9247908294200897
+      },
+      {
+        "text": " है,",
+        "start": 16.63,
+        "end": 16.91,
+        "probability": 0.9777038097381592
+      },
+      {
+        "text": " आप",
+        "start": 17.05,
+        "end": 17.29,
+        "probability": 0.9933516830205917
+      },
+      {
+        "text": " क्यों",
+        "start": 17.29,
+        "end": 17.61,
+        "probability": 0.8404989123344422
+      },
+      {
+        "text": " इस",
+        "start": 17.61,
+        "end": 17.81,
+        "probability": 0.9782144824663798
+      },
+      {
+        "text": " college",
+        "start": 17.81,
+        "end": 18.05,
+        "probability": 0.9479142427444458
+      },
+      {
+        "text": " को",
+        "start": 18.05,
+        "end": 18.27,
+        "probability": 0.897593766450882
+      },
+      {
+        "text": " चूस",
+        "start": 18.27,
+        "end": 18.53,
+        "probability": 0.6821549415588379
+      },
+      {
+        "text": " कर",
+        "start": 18.53,
+        "end": 18.81,
+        "probability": 0.7374836057424545
+      },
+      {
+        "text": " रहे",
+        "start": 18.81,
+        "end": 18.99,
+        "probability": 0.8581672757863998
+      },
+      {
+        "text": " हो,",
+        "start": 18.99,
+        "end": 19.19,
+        "probability": 0.782299667596817
+      },
+      {
+        "text": " और",
+        "start": 19.29,
+        "end": 19.49,
+        "probability": 0.9887474973996481
+      },
+      {
+        "text": " आपका",
+        "start": 19.49,
+        "end": 19.77,
+        "probability": 0.9721923569838206
+      },
+      {
+        "text": " next",
+        "start": 19.77,
+        "end": 20.07,
+        "probability": 0.6151302456855774
+      },
+      {
+        "text": " goal",
+        "start": 20.07,
+        "end": 20.31,
+        "probability": 0.9859333634376526
+      },
+      {
+        "text": " क्या",
+        "start": 20.31,
+        "end": 20.55,
+        "probability": 0.9465567767620087
+      },
+      {
+        "text": " है।",
+        "start": 20.55,
+        "end": 21.25,
+        "probability": 0.7645783200860023
+      }
+    ]
+  },
+  {
+    "start": 21.25,
+    "end": 29.33,
+    "text": " You should frame your introduction like this, कि, मैं सेर ममनीत सिंग आप work with this project in class 11th and I have solved this problem",
+    "words": [
+      {
+        "text": " You",
+        "start": 21.25,
+        "end": 21.25,
+        "probability": 0.014104106463491917
+      },
+      {
+        "text": " should",
+        "start": 21.25,
+        "end": 21.45,
+        "probability": 0.9658184051513672
+      },
+      {
+        "text": " frame",
+        "start": 21.45,
+        "end": 21.73,
+        "probability": 0.9834508895874023
+      },
+      {
+        "text": " your",
+        "start": 21.73,
+        "end": 21.93,
+        "probability": 0.8009932041168213
+      },
+      {
+        "text": " introduction",
+        "start": 21.93,
+        "end": 22.19,
+        "probability": 0.8389725685119629
+      },
+      {
+        "text": " like",
+        "start": 22.19,
+        "end": 22.45,
+        "probability": 0.9420609474182129
+      },
+      {
+        "text": " this,",
+        "start": 22.45,
+        "end": 22.81,
+        "probability": 0.9330155253410339
+      },
+      {
+        "text": " कि,",
+        "start": 24.31,
+        "end": 24.31,
+        "probability": 0.7736309170722961
+      },
+      {
+        "text": " मैं",
+        "start": 24.49,
+        "end": 24.69,
+        "probability": 0.35741332670052844
+      },
+      {
+        "text": " सेर",
+        "start": 24.69,
+        "end": 24.81,
+        "probability": 0.5127432147661845
+      },
+      {
+        "text": " ममनीत",
+        "start": 24.81,
+        "end": 25.09,
+        "probability": 0.5430661737918854
+      },
+      {
+        "text": " सिंग",
+        "start": 25.09,
+        "end": 25.31,
+        "probability": 0.7893442034721374
+      },
+      {
+        "text": " आप",
+        "start": 25.31,
+        "end": 25.45,
+        "probability": 0.5789937600493431
+      },
+      {
+        "text": " work",
+        "start": 25.45,
+        "end": 25.79,
+        "probability": 0.5511971116065979
+      },
+      {
+        "text": " with",
+        "start": 25.79,
+        "end": 26.31,
+        "probability": 0.6569356918334961
+      },
+      {
+        "text": " this",
+        "start": 26.31,
+        "end": 26.61,
+        "probability": 0.9315555095672607
+      },
+      {
+        "text": " project",
+        "start": 26.61,
+        "end": 26.93,
+        "probability": 0.9940778017044067
+      },
+      {
+        "text": " in",
+        "start": 26.93,
+        "end": 27.21,
+        "probability": 0.9526694416999817
+      },
+      {
+        "text": " class",
+        "start": 27.21,
+        "end": 27.53,
+        "probability": 0.9034779071807861
+      },
+      {
+        "text": " 11th",
+        "start": 27.53,
+        "end": 28.01,
+        "probability": 0.7772565484046936
+      },
+      {
+        "text": " and",
+        "start": 28.01,
+        "end": 28.07,
+        "probability": 0.2695331871509552
+      },
+      {
+        "text": " I",
+        "start": 28.07,
+        "end": 28.29,
+        "probability": 0.8218686580657959
+      },
+      {
+        "text": " have",
+        "start": 28.29,
+        "end": 28.37,
+        "probability": 0.6261167526245117
+      },
+      {
+        "text": " solved",
+        "start": 28.37,
+        "end": 28.65,
+        "probability": 0.9671147465705872
+      },
+      {
+        "text": " this",
+        "start": 28.65,
+        "end": 28.89,
+        "probability": 0.9900977611541748
+      },
+      {
+        "text": " problem",
+        "start": 28.89,
+        "end": 29.33,
+        "probability": 0.9933165311813354
+      }
+    ]
+  },
+  {
+    "start": 29.33,
+    "end": 35.65,
+    "text": " and I believe that this college can give me that opportunity and my goal is to make this project.",
+    "words": [
+      {
+        "text": " and",
+        "start": 29.33,
+        "end": 29.69,
+        "probability": 0.36537009477615356
+      },
+      {
+        "text": " I",
+        "start": 29.69,
+        "end": 29.97,
+        "probability": 0.9680222868919373
+      },
+      {
+        "text": " believe",
+        "start": 29.97,
+        "end": 30.33,
+        "probability": 0.9836663007736206
+      },
+      {
+        "text": " that",
+        "start": 30.33,
+        "end": 30.71,
+        "probability": 0.9363632798194885
+      },
+      {
+        "text": " this",
+        "start": 30.71,
+        "end": 30.95,
+        "probability": 0.9468317031860352
+      },
+      {
+        "text": " college",
+        "start": 30.95,
+        "end": 31.33,
+        "probability": 0.9815534353256226
+      },
+      {
+        "text": " can",
+        "start": 31.33,
+        "end": 31.69,
+        "probability": 0.9779573082923889
+      },
+      {
+        "text": " give",
+        "start": 31.69,
+        "end": 31.95,
+        "probability": 0.99006187915802
+      },
+      {
+        "text": " me",
+        "start": 31.95,
+        "end": 32.19,
+        "probability": 0.9937201738357544
+      },
+      {
+        "text": " that",
+        "start": 32.19,
+        "end": 32.49,
+        "probability": 0.9738150238990784
+      },
+      {
+        "text": " opportunity",
+        "start": 32.49,
+        "end": 33.15,
+        "probability": 0.9906731247901917
+      },
+      {
+        "text": " and",
+        "start": 33.15,
+        "end": 33.85,
+        "probability": 0.5795157551765442
+      },
+      {
+        "text": " my",
+        "start": 33.85,
+        "end": 34.09,
+        "probability": 0.9926556348800659
+      },
+      {
+        "text": " goal",
+        "start": 34.09,
+        "end": 34.37,
+        "probability": 0.9950242638587952
+      },
+      {
+        "text": " is",
+        "start": 34.37,
+        "end": 34.65,
+        "probability": 0.991111695766449
+      },
+      {
+        "text": " to",
+        "start": 34.65,
+        "end": 34.79,
+        "probability": 0.9857790470123291
+      },
+      {
+        "text": " make",
+        "start": 34.79,
+        "end": 34.97,
+        "probability": 0.9962838292121887
+      },
+      {
+        "text": " this",
+        "start": 34.97,
+        "end": 35.19,
+        "probability": 0.993198037147522
+      },
+      {
+        "text": " project.",
+        "start": 35.19,
+        "end": 35.65,
+        "probability": 0.9966660141944885
+      }
+    ]
+  },
+  {
+    "start": 36.25,
+    "end": 42.29,
+    "text": " देखा, दस सेकेंट में ही इंटर्वियों को रिलाइस हो जाएगा कि आपको क्या-क्या आता है और आप क्या-क्या कर सकते हूँ.",
+    "words": [
+      {
+        "text": " देखा,",
+        "start": 36.25,
+        "end": 36.73,
+        "probability": 0.8019955158233643
+      },
+      {
+        "text": " दस",
+        "start": 36.87,
+        "end": 37.09,
+        "probability": 0.6799187064170837
+      },
+      {
+        "text": " सेकेंट",
+        "start": 37.09,
+        "end": 37.47,
+        "probability": 0.6113864481449127
+      },
+      {
+        "text": " में",
+        "start": 37.47,
+        "end": 37.57,
+        "probability": 0.9174816012382507
+      },
+      {
+        "text": " ही",
+        "start": 37.57,
+        "end": 37.67,
+        "probability": 0.9010314345359802
+      },
+      {
+        "text": " इंटर्वियों",
+        "start": 37.67,
+        "end": 38.05,
+        "probability": 0.7087100446224213
+      },
+      {
+        "text": " को",
+        "start": 38.05,
+        "end": 38.07,
+        "probability": 0.8474671840667725
+      },
+      {
+        "text": " रिलाइस",
+        "start": 38.07,
+        "end": 38.33,
+        "probability": 0.7901252061128616
+      },
+      {
+        "text": " हो",
+        "start": 38.33,
+        "end": 38.47,
+        "probability": 0.6838375627994537
+      },
+      {
+        "text": " जाएगा",
+        "start": 38.47,
+        "end": 38.63,
+        "probability": 0.7558946870267391
+      },
+      {
+        "text": " कि",
+        "start": 38.63,
+        "end": 38.93,
+        "probability": 0.6750224828720093
+      },
+      {
+        "text": " आपको",
+        "start": 38.93,
+        "end": 39.47,
+        "probability": 0.9453297555446625
+      },
+      {
+        "text": " क्या",
+        "start": 39.47,
+        "end": 39.81,
+        "probability": 0.9762541055679321
+      },
+      {
+        "text": "-क्या",
+        "start": 39.81,
+        "end": 40.05,
+        "probability": 0.8207248955965042
+      },
+      {
+        "text": " आता",
+        "start": 40.05,
+        "end": 40.35,
+        "probability": 0.9588648825883865
+      },
+      {
+        "text": " है",
+        "start": 40.35,
+        "end": 40.57,
+        "probability": 0.9804872274398804
+      },
+      {
+        "text": " और",
+        "start": 40.57,
+        "end": 40.77,
+        "probability": 0.9056720534960429
+      },
+      {
+        "text": " आप",
+        "start": 40.77,
+        "end": 40.95,
+        "probability": 0.9809995889663696
+      },
+      {
+        "text": " क्या",
+        "start": 40.95,
+        "end": 41.25,
+        "probability": 0.9732289016246796
+      },
+      {
+        "text": "-क्या",
+        "start": 41.25,
+        "end": 41.45,
+        "probability": 0.9703646659851074
+      },
+      {
+        "text": " कर",
+        "start": 41.45,
+        "end": 41.59,
+        "probability": 0.9653564095497131
+      },
+      {
+        "text": " सकते",
+        "start": 41.59,
+        "end": 41.91,
+        "probability": 0.9640354961156845
+      },
+      {
+        "text": " हूँ.",
+        "start": 41.91,
+        "end": 42.29,
+        "probability": 0.637661737203598
+      }
+    ]
+  },
+  {
+    "start": 42.37,
+    "end": 48.07,
+    "text": " ऐसे और टिफ्स के लिए फॉलो करें हमें और अगर आपको इंप्रूफ करना है तो प्लीस गो आँ नियो लेन्ड डौट कौम.",
+    "words": [
+      {
+        "text": " ऐसे",
+        "start": 42.37,
+        "end": 42.61,
+        "probability": 0.8018242791295052
+      },
+      {
+        "text": " और",
+        "start": 42.61,
+        "end": 42.73,
+        "probability": 0.8579709728558859
+      },
+      {
+        "text": " टिफ्स",
+        "start": 42.73,
+        "end": 42.99,
+        "probability": 0.704320707491466
+      },
+      {
+        "text": " के",
+        "start": 42.99,
+        "end": 43.17,
+        "probability": 0.9561509788036346
+      },
+      {
+        "text": " लिए",
+        "start": 43.17,
+        "end": 43.59,
+        "probability": 0.8415147662162781
+      },
+      {
+        "text": " फॉलो",
+        "start": 43.59,
+        "end": 43.93,
+        "probability": 0.7954475233952204
+      },
+      {
+        "text": " करें",
+        "start": 43.93,
+        "end": 44.17,
+        "probability": 0.7341857142746449
+      },
+      {
+        "text": " हमें",
+        "start": 44.17,
+        "end": 44.81,
+        "probability": 0.9554552137851715
+      },
+      {
+        "text": " और",
+        "start": 44.81,
+        "end": 45.07,
+        "probability": 0.8933650453885397
+      },
+      {
+        "text": " अगर",
+        "start": 45.07,
+        "end": 45.25,
+        "probability": 0.9636243343353271
+      },
+      {
+        "text": " आपको",
+        "start": 45.25,
+        "end": 45.45,
+        "probability": 0.8822169105211893
+      },
+      {
+        "text": " इंप्रूफ",
+        "start": 45.45,
+        "end": 45.85,
+        "probability": 0.8534598784013228
+      },
+      {
+        "text": " करना",
+        "start": 45.85,
+        "end": 46.13,
+        "probability": 0.9209751039743423
+      },
+      {
+        "text": " है",
+        "start": 46.13,
+        "end": 46.15,
+        "probability": 0.7326658666133881
+      },
+      {
+        "text": " तो",
+        "start": 46.15,
+        "end": 46.29,
+        "probability": 0.8696050445238749
+      },
+      {
+        "text": " प्लीस",
+        "start": 46.29,
+        "end": 46.57,
+        "probability": 0.8000227411588033
+      },
+      {
+        "text": " गो",
+        "start": 46.57,
+        "end": 46.79,
+        "probability": 0.8193953434626261
+      },
+      {
+        "text": " आँ",
+        "start": 46.79,
+        "end": 47.05,
+        "probability": 0.60281141102314
+      },
+      {
+        "text": " नियो",
+        "start": 47.05,
+        "end": 47.37,
+        "probability": 0.6425847768783569
+      },
+      {
+        "text": " लेन्ड",
+        "start": 47.37,
+        "end": 47.63,
+        "probability": 0.6828901554856982
+      },
+      {
+        "text": " डौट",
+        "start": 47.63,
+        "end": 47.83,
+        "probability": 0.6641360223293304
+      },
+      {
+        "text": " कौम.",
+        "start": 47.83,
+        "end": 48.07,
+        "probability": 0.5027985274791718
+      }
+    ]
+  }
+]

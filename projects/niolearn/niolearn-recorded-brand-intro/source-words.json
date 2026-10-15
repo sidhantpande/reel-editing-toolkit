@@ -1,0 +1,773 @@
+{
+  "status": "Reviewed original English word timing and pause boundaries; brand/live/JEE corrections; audio source unchanged",
+  "words": [
+    {
+      "text": "What",
+      "start": 1.44,
+      "end": 1.64,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "if",
+      "start": 1.64,
+      "end": 2.2,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "JEE",
+      "start": 2.2,
+      "end": 2.54,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "wasn't",
+      "start": 2.54,
+      "end": 3.12,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "your",
+      "start": 3.12,
+      "end": 3.38,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "only",
+      "start": 3.38,
+      "end": 3.64,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "option?",
+      "start": 3.64,
+      "end": 4.12,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "Today,",
+      "start": 5.2,
+      "end": 5.58,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "a",
+      "start": 5.84,
+      "end": 6.0,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "new",
+      "start": 6.0,
+      "end": 6.16,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "generation",
+      "start": 6.16,
+      "end": 6.54,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "of",
+      "start": 6.54,
+      "end": 6.84,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "tech",
+      "start": 6.84,
+      "end": 7.02,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "colleges",
+      "start": 7.02,
+      "end": 7.32,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "are",
+      "start": 7.32,
+      "end": 7.58,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "changing",
+      "start": 7.58,
+      "end": 8.06,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "the",
+      "start": 8.06,
+      "end": 8.38,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "way",
+      "start": 8.38,
+      "end": 8.94,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "a",
+      "start": 8.94,
+      "end": 9.24,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "student",
+      "start": 9.24,
+      "end": 9.56,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "learns.",
+      "start": 9.56,
+      "end": 10.2,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "But",
+      "start": 10.96,
+      "end": 11.14,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "all",
+      "start": 11.14,
+      "end": 11.64,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "of",
+      "start": 11.64,
+      "end": 11.82,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "them",
+      "start": 11.82,
+      "end": 12.0,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "have",
+      "start": 12.0,
+      "end": 12.4,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "different",
+      "start": 12.4,
+      "end": 13.16,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "types",
+      "start": 13.16,
+      "end": 13.72,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "of",
+      "start": 13.72,
+      "end": 14.62,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "examinations.",
+      "start": 14.34,
+      "end": 15.06,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "Some",
+      "start": 15.94,
+      "end": 16.2,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "focus",
+      "start": 16.2,
+      "end": 16.58,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "on",
+      "start": 16.58,
+      "end": 16.9,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "logical",
+      "start": 16.9,
+      "end": 17.34,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "reasoning",
+      "start": 17.34,
+      "end": 17.64,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "and",
+      "start": 17.64,
+      "end": 17.86,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "aptitude,",
+      "start": 17.86,
+      "end": 18.38,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "while",
+      "start": 18.66,
+      "end": 18.74,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "some",
+      "start": 18.74,
+      "end": 18.94,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "focus",
+      "start": 18.94,
+      "end": 19.22,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "on",
+      "start": 19.22,
+      "end": 19.46,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "coding",
+      "start": 19.46,
+      "end": 19.8,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "and",
+      "start": 19.8,
+      "end": 20.2,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "problem",
+      "start": 20.2,
+      "end": 20.44,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "solving",
+      "start": 20.44,
+      "end": 20.9,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "and",
+      "start": 20.9,
+      "end": 21.52,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "interviews.",
+      "start": 21.52,
+      "end": 21.98,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "and",
+      "start": 22.5,
+      "end": 22.6,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "that's",
+      "start": 22.6,
+      "end": 23.12,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "the",
+      "start": 23.12,
+      "end": 23.28,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "part",
+      "start": 23.28,
+      "end": 23.48,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "which",
+      "start": 23.48,
+      "end": 23.86,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "often",
+      "start": 23.86,
+      "end": 24.18,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "makes",
+      "start": 24.18,
+      "end": 24.52,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "a",
+      "start": 24.52,
+      "end": 24.66,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "student",
+      "start": 24.66,
+      "end": 24.84,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "confused.",
+      "start": 24.84,
+      "end": 25.42,
+      "source": "IMG_5974"
+    },
+    {
+      "text": "And",
+      "start": 0.79,
+      "end": 1.02,
+      "source": "IMG_5976"
+    },
+    {
+      "text": "that's",
+      "start": 1.02,
+      "end": 1.5,
+      "source": "IMG_5976"
+    },
+    {
+      "text": "exactly",
+      "start": 1.5,
+      "end": 1.86,
+      "source": "IMG_5976"
+    },
+    {
+      "text": "why",
+      "start": 1.86,
+      "end": 2.24,
+      "source": "IMG_5976"
+    },
+    {
+      "text": "we",
+      "start": 2.24,
+      "end": 2.58,
+      "source": "IMG_5976"
+    },
+    {
+      "text": "started",
+      "start": 2.58,
+      "end": 2.96,
+      "source": "IMG_5976"
+    },
+    {
+      "text": "NioLearn,",
+      "start": 2.96,
+      "end": 3.73,
+      "source": "IMG_5976"
+    },
+    {
+      "text": "to",
+      "start": 4.06,
+      "end": 4.34,
+      "source": "IMG_5976"
+    },
+    {
+      "text": "make",
+      "start": 4.34,
+      "end": 4.58,
+      "source": "IMG_5976"
+    },
+    {
+      "text": "opportunities",
+      "start": 4.58,
+      "end": 5.32,
+      "source": "IMG_5976"
+    },
+    {
+      "text": "easier",
+      "start": 5.32,
+      "end": 6.0,
+      "source": "IMG_5976"
+    },
+    {
+      "text": "to",
+      "start": 6.0,
+      "end": 6.4,
+      "source": "IMG_5976"
+    },
+    {
+      "text": "discover,",
+      "start": 6.4,
+      "end": 6.9,
+      "source": "IMG_5976"
+    },
+    {
+      "text": "understand,",
+      "start": 7.16,
+      "end": 7.9,
+      "source": "IMG_5976"
+    },
+    {
+      "text": "and",
+      "start": 8.28,
+      "end": 8.56,
+      "source": "IMG_5976"
+    },
+    {
+      "text": "prepare",
+      "start": 8.56,
+      "end": 8.8,
+      "source": "IMG_5976"
+    },
+    {
+      "text": "for.",
+      "start": 8.8,
+      "end": 9.06,
+      "source": "IMG_5976"
+    },
+    {
+      "text": "NioLearn",
+      "start": 0.87,
+      "end": 1.34,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "is",
+      "start": 1.34,
+      "end": 1.56,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "a",
+      "start": 1.56,
+      "end": 1.7,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "modern",
+      "start": 1.7,
+      "end": 2.16,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "tech",
+      "start": 2.16,
+      "end": 2.52,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "admission",
+      "start": 2.52,
+      "end": 3.32,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "platform,",
+      "start": 3.32,
+      "end": 3.98,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "which",
+      "start": 4.58,
+      "end": 4.72,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "offers",
+      "start": 4.72,
+      "end": 5.35,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "structured",
+      "start": 5.94,
+      "end": 6.46,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "live",
+      "start": 6.46,
+      "end": 6.82,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "classes,",
+      "start": 6.82,
+      "end": 7.38,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "mocks,",
+      "start": 7.87,
+      "end": 8.52,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "interviews,",
+      "start": 9.26,
+      "end": 10.05,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "personalized",
+      "start": 10.58,
+      "end": 10.88,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "feedback,",
+      "start": 10.88,
+      "end": 11.52,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "and",
+      "start": 12.18,
+      "end": 12.36,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "mentorship,",
+      "start": 12.36,
+      "end": 13.0,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "all",
+      "start": 13.48,
+      "end": 13.9,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "in",
+      "start": 13.9,
+      "end": 14.14,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "one",
+      "start": 14.14,
+      "end": 14.42,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "place.",
+      "start": 14.42,
+      "end": 14.61,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "Our",
+      "start": 15.18,
+      "end": 15.46,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "vision",
+      "start": 15.46,
+      "end": 15.78,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "goes",
+      "start": 15.78,
+      "end": 16.2,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "beyond",
+      "start": 16.2,
+      "end": 16.56,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "the",
+      "start": 16.56,
+      "end": 16.82,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "examination,",
+      "start": 16.82,
+      "end": 17.4,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "we",
+      "start": 17.9,
+      "end": 18.12,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "want",
+      "start": 18.12,
+      "end": 18.34,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "the",
+      "start": 18.34,
+      "end": 18.54,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "students",
+      "start": 18.54,
+      "end": 18.74,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "to",
+      "start": 18.74,
+      "end": 18.94,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "understand",
+      "start": 18.94,
+      "end": 19.3,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "their",
+      "start": 19.3,
+      "end": 19.5,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "opportunities",
+      "start": 19.5,
+      "end": 20.2,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "and",
+      "start": 20.52,
+      "end": 20.76,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "make",
+      "start": 20.76,
+      "end": 21.14,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "informed",
+      "start": 21.14,
+      "end": 21.62,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "decisions",
+      "start": 21.62,
+      "end": 22.26,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "about",
+      "start": 22.26,
+      "end": 22.88,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "their",
+      "start": 22.88,
+      "end": 23.16,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "future,",
+      "start": 23.16,
+      "end": 23.62,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "because",
+      "start": 23.98,
+      "end": 24.36,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "one",
+      "start": 24.36,
+      "end": 24.76,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "exam",
+      "start": 24.76,
+      "end": 25.28,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "shouldn't",
+      "start": 25.28,
+      "end": 26.06,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "define",
+      "start": 26.06,
+      "end": 26.54,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "your",
+      "start": 26.54,
+      "end": 26.84,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "future.",
+      "start": 26.84,
+      "end": 27.05,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "NioLearn,",
+      "start": 27.79,
+      "end": 28.3,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "navigate",
+      "start": 28.59,
+      "end": 29.12,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "more",
+      "start": 29.12,
+      "end": 29.42,
+      "source": "IMG_5978"
+    },
+    {
+      "text": "possibilities.",
+      "start": 29.42,
+      "end": 29.8,
+      "source": "IMG_5978"
+    }
+  ]
+}

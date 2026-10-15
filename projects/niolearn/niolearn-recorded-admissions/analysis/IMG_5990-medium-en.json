@@ -1,0 +1,624 @@
+[
+  {
+    "start": 1.55,
+    "end": 5.15,
+    "text": " Planning to join a new-gen technology college in 2027?",
+    "words": [
+      {
+        "text": " Planning",
+        "start": 1.55,
+        "end": 2.23,
+        "probability": 0.462420791387558
+      },
+      {
+        "text": " to",
+        "start": 2.23,
+        "end": 2.43,
+        "probability": 0.991405725479126
+      },
+      {
+        "text": " join",
+        "start": 2.43,
+        "end": 2.65,
+        "probability": 0.9645752310752869
+      },
+      {
+        "text": " a",
+        "start": 2.65,
+        "end": 2.89,
+        "probability": 0.8717440962791443
+      },
+      {
+        "text": " new",
+        "start": 2.89,
+        "end": 3.07,
+        "probability": 0.782472550868988
+      },
+      {
+        "text": "-gen",
+        "start": 3.07,
+        "end": 3.19,
+        "probability": 0.5687751919031143
+      },
+      {
+        "text": " technology",
+        "start": 3.19,
+        "end": 3.69,
+        "probability": 0.9508506655693054
+      },
+      {
+        "text": " college",
+        "start": 3.69,
+        "end": 4.07,
+        "probability": 0.9780758023262024
+      },
+      {
+        "text": " in",
+        "start": 4.07,
+        "end": 4.37,
+        "probability": 0.9924815893173218
+      },
+      {
+        "text": " 2027?",
+        "start": 4.37,
+        "end": 5.15,
+        "probability": 0.8854295611381531
+      }
+    ]
+  },
+  {
+    "start": 5.53,
+    "end": 6.83,
+    "text": " This video is for you.",
+    "words": [
+      {
+        "text": " This",
+        "start": 5.53,
+        "end": 5.65,
+        "probability": 0.7194071412086487
+      },
+      {
+        "text": " video",
+        "start": 5.65,
+        "end": 5.77,
+        "probability": 0.543849527835846
+      },
+      {
+        "text": " is",
+        "start": 5.77,
+        "end": 5.87,
+        "probability": 0.9716625809669495
+      },
+      {
+        "text": " for",
+        "start": 5.87,
+        "end": 6.07,
+        "probability": 0.9966629147529602
+      },
+      {
+        "text": " you.",
+        "start": 6.07,
+        "end": 6.83,
+        "probability": 0.9897614121437073
+      }
+    ]
+  },
+  {
+    "start": 7.23,
+    "end": 11.67,
+    "text": " Admissions are officially open for New Orleans' first cohort for the students who are targeting",
+    "words": [
+      {
+        "text": " Admissions",
+        "start": 7.23,
+        "end": 7.33,
+        "probability": 0.9836174547672272
+      },
+      {
+        "text": " are",
+        "start": 7.33,
+        "end": 7.59,
+        "probability": 0.9951298236846924
+      },
+      {
+        "text": " officially",
+        "start": 7.59,
+        "end": 7.93,
+        "probability": 0.9882601499557495
+      },
+      {
+        "text": " open",
+        "start": 7.93,
+        "end": 8.23,
+        "probability": 0.9787367582321167
+      },
+      {
+        "text": " for",
+        "start": 8.23,
+        "end": 8.47,
+        "probability": 0.9915340542793274
+      },
+      {
+        "text": " New",
+        "start": 8.47,
+        "end": 8.61,
+        "probability": 0.7394953966140747
+      },
+      {
+        "text": " Orleans'",
+        "start": 8.61,
+        "end": 8.83,
+        "probability": 0.7558162212371826
+      },
+      {
+        "text": " first",
+        "start": 9.35,
+        "end": 9.59,
+        "probability": 0.9207254648208618
+      },
+      {
+        "text": " cohort",
+        "start": 9.59,
+        "end": 9.95,
+        "probability": 0.9931623935699463
+      },
+      {
+        "text": " for",
+        "start": 9.95,
+        "end": 10.23,
+        "probability": 0.9283992648124695
+      },
+      {
+        "text": " the",
+        "start": 10.23,
+        "end": 10.39,
+        "probability": 0.9193800091743469
+      },
+      {
+        "text": " students",
+        "start": 10.39,
+        "end": 10.79,
+        "probability": 0.9965092539787292
+      },
+      {
+        "text": " who",
+        "start": 10.79,
+        "end": 11.19,
+        "probability": 0.8533646464347839
+      },
+      {
+        "text": " are",
+        "start": 11.19,
+        "end": 11.31,
+        "probability": 0.9796893000602722
+      },
+      {
+        "text": " targeting",
+        "start": 11.31,
+        "end": 11.67,
+        "probability": 0.9909911155700684
+      }
+    ]
+  },
+  {
+    "start": 11.67,
+    "end": 13.91,
+    "text": " the 2027 admissions cycle.",
+    "words": [
+      {
+        "text": " the",
+        "start": 11.67,
+        "end": 11.77,
+        "probability": 0.4437248110771179
+      },
+      {
+        "text": " 2027",
+        "start": 11.77,
+        "end": 12.77,
+        "probability": 0.9383085072040558
+      },
+      {
+        "text": " admissions",
+        "start": 12.77,
+        "end": 13.41,
+        "probability": 0.6344889998435974
+      },
+      {
+        "text": " cycle.",
+        "start": 13.41,
+        "end": 13.91,
+        "probability": 0.9948927164077759
+      }
+    ]
+  },
+  {
+    "start": 14.37,
+    "end": 19.97,
+    "text": " In this, you will be provided with life classes, personalized mentorship, mock interviews,",
+    "words": [
+      {
+        "text": " In",
+        "start": 14.37,
+        "end": 14.51,
+        "probability": 0.9798449873924255
+      },
+      {
+        "text": " this,",
+        "start": 14.51,
+        "end": 14.75,
+        "probability": 0.9963791966438293
+      },
+      {
+        "text": " you",
+        "start": 14.83,
+        "end": 14.93,
+        "probability": 0.9939437508583069
+      },
+      {
+        "text": " will",
+        "start": 14.93,
+        "end": 15.05,
+        "probability": 0.5313614010810852
+      },
+      {
+        "text": " be",
+        "start": 15.05,
+        "end": 15.25,
+        "probability": 0.9952301979064941
+      },
+      {
+        "text": " provided",
+        "start": 15.25,
+        "end": 15.43,
+        "probability": 0.997767448425293
+      },
+      {
+        "text": " with",
+        "start": 15.43,
+        "end": 16.27,
+        "probability": 0.9882879853248596
+      },
+      {
+        "text": " life",
+        "start": 16.27,
+        "end": 16.53,
+        "probability": 0.7096742987632751
+      },
+      {
+        "text": " classes,",
+        "start": 16.53,
+        "end": 17.15,
+        "probability": 0.9617844223976135
+      },
+      {
+        "text": " personalized",
+        "start": 17.83,
+        "end": 18.05,
+        "probability": 0.9215947389602661
+      },
+      {
+        "text": " mentorship,",
+        "start": 18.05,
+        "end": 18.71,
+        "probability": 0.9890440702438354
+      },
+      {
+        "text": " mock",
+        "start": 19.27,
+        "end": 19.39,
+        "probability": 0.9832725524902344
+      },
+      {
+        "text": " interviews,",
+        "start": 19.39,
+        "end": 19.97,
+        "probability": 0.9927005767822266
+      }
+    ]
+  },
+  {
+    "start": 20.51,
+    "end": 26.13,
+    "text": " mock lectures, mock tests and expert guidance, all in one place.",
+    "words": [
+      {
+        "text": " mock",
+        "start": 20.51,
+        "end": 20.67,
+        "probability": 0.9952629804611206
+      },
+      {
+        "text": " lectures,",
+        "start": 20.67,
+        "end": 21.25,
+        "probability": 0.992820680141449
+      },
+      {
+        "text": " mock",
+        "start": 21.77,
+        "end": 21.95,
+        "probability": 0.9970495700836182
+      },
+      {
+        "text": " tests",
+        "start": 21.95,
+        "end": 22.47,
+        "probability": 0.9019830226898193
+      },
+      {
+        "text": " and",
+        "start": 22.47,
+        "end": 23.25,
+        "probability": 0.5456857085227966
+      },
+      {
+        "text": " expert",
+        "start": 23.25,
+        "end": 23.85,
+        "probability": 0.9882583022117615
+      },
+      {
+        "text": " guidance,",
+        "start": 23.85,
+        "end": 24.41,
+        "probability": 0.9976268410682678
+      },
+      {
+        "text": " all",
+        "start": 24.79,
+        "end": 25.17,
+        "probability": 0.9872681498527527
+      },
+      {
+        "text": " in",
+        "start": 25.17,
+        "end": 25.47,
+        "probability": 0.9898054599761963
+      },
+      {
+        "text": " one",
+        "start": 25.47,
+        "end": 25.75,
+        "probability": 0.992319643497467
+      },
+      {
+        "text": " place.",
+        "start": 25.75,
+        "end": 26.13,
+        "probability": 0.9970381259918213
+      }
+    ]
+  },
+  {
+    "start": 26.13,
+    "end": 34.81,
+    "text": " Don't wait for the exams to come around, don't wait until the entrance exams are around",
+    "words": [
+      {
+        "text": " Don't",
+        "start": 26.13,
+        "end": 26.89,
+        "probability": 0.8411478102207184
+      },
+      {
+        "text": " wait",
+        "start": 26.89,
+        "end": 27.03,
+        "probability": 0.9900867342948914
+      },
+      {
+        "text": " for",
+        "start": 27.03,
+        "end": 27.23,
+        "probability": 0.7650388479232788
+      },
+      {
+        "text": " the",
+        "start": 27.23,
+        "end": 27.55,
+        "probability": 0.956544041633606
+      },
+      {
+        "text": " exams",
+        "start": 27.55,
+        "end": 27.75,
+        "probability": 0.9115713834762573
+      },
+      {
+        "text": " to",
+        "start": 27.75,
+        "end": 27.97,
+        "probability": 0.942737340927124
+      },
+      {
+        "text": " come",
+        "start": 27.97,
+        "end": 28.49,
+        "probability": 0.8489316701889038
+      },
+      {
+        "text": " around,",
+        "start": 28.49,
+        "end": 28.83,
+        "probability": 0.9600074887275696
+      },
+      {
+        "text": " don't",
+        "start": 29.03,
+        "end": 32.71,
+        "probability": 0.6808001548051834
+      },
+      {
+        "text": " wait",
+        "start": 32.71,
+        "end": 33.01,
+        "probability": 0.9953593611717224
+      },
+      {
+        "text": " until",
+        "start": 33.01,
+        "end": 33.37,
+        "probability": 0.9516488909721375
+      },
+      {
+        "text": " the",
+        "start": 33.37,
+        "end": 33.75,
+        "probability": 0.9715784192085266
+      },
+      {
+        "text": " entrance",
+        "start": 33.75,
+        "end": 33.97,
+        "probability": 0.9944437146186829
+      },
+      {
+        "text": " exams",
+        "start": 33.97,
+        "end": 34.37,
+        "probability": 0.9796937108039856
+      },
+      {
+        "text": " are",
+        "start": 34.37,
+        "end": 34.61,
+        "probability": 0.9727000594139099
+      },
+      {
+        "text": " around",
+        "start": 34.61,
+        "end": 34.81,
+        "probability": 0.9586211442947388
+      }
+    ]
+  },
+  {
+    "start": 34.81,
+    "end": 35.37,
+    "text": " the corner.",
+    "words": [
+      {
+        "text": " the",
+        "start": 34.81,
+        "end": 35.05,
+        "probability": 0.9910508394241333
+      },
+      {
+        "text": " corner.",
+        "start": 35.05,
+        "end": 35.37,
+        "probability": 0.9973194003105164
+      }
+    ]
+  },
+  {
+    "start": 35.89,
+    "end": 39.71,
+    "text": " Visit the Neolarn website and register for the first cohort right now.",
+    "words": [
+      {
+        "text": " Visit",
+        "start": 35.89,
+        "end": 35.91,
+        "probability": 0.9651281237602234
+      },
+      {
+        "text": " the",
+        "start": 35.91,
+        "end": 36.15,
+        "probability": 0.9842883348464966
+      },
+      {
+        "text": " Neolarn",
+        "start": 36.15,
+        "end": 36.43,
+        "probability": 0.41782500843207043
+      },
+      {
+        "text": " website",
+        "start": 36.43,
+        "end": 36.89,
+        "probability": 0.950050950050354
+      },
+      {
+        "text": " and",
+        "start": 36.89,
+        "end": 37.33,
+        "probability": 0.9517202377319336
+      },
+      {
+        "text": " register",
+        "start": 37.33,
+        "end": 37.69,
+        "probability": 0.9954125285148621
+      },
+      {
+        "text": " for",
+        "start": 37.69,
+        "end": 37.99,
+        "probability": 0.9919971823692322
+      },
+      {
+        "text": " the",
+        "start": 37.99,
+        "end": 38.17,
+        "probability": 0.9847780466079712
+      },
+      {
+        "text": " first",
+        "start": 38.17,
+        "end": 38.45,
+        "probability": 0.9541807174682617
+      },
+      {
+        "text": " cohort",
+        "start": 38.45,
+        "end": 38.75,
+        "probability": 0.9943431615829468
+      },
+      {
+        "text": " right",
+        "start": 38.75,
+        "end": 39.37,
+        "probability": 0.826179027557373
+      },
+      {
+        "text": " now.",
+        "start": 39.37,
+        "end": 39.71,
+        "probability": 0.99570232629776
+      }
+    ]
+  },
+  {
+    "start": 39.93,
+    "end": 41.61,
+    "text": " Your opportunity starts here.",
+    "words": [
+      {
+        "text": " Your",
+        "start": 39.93,
+        "end": 40.13,
+        "probability": 0.986072301864624
+      },
+      {
+        "text": " opportunity",
+        "start": 40.13,
+        "end": 40.85,
+        "probability": 0.9691851735115051
+      },
+      {
+        "text": " starts",
+        "start": 40.85,
+        "end": 41.31,
+        "probability": 0.9887296557426453
+      },
+      {
+        "text": " here.",
+        "start": 41.31,
+        "end": 41.61,
+        "probability": 0.9862527251243591
+      }
+    ]
+  }
+]

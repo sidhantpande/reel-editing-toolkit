@@ -1,0 +1,14 @@
+{
+  "project": "niolearn-recorded-brand-intro",
+  "sourceRecordings": [
+    "IMG_5974.mov",
+    "IMG_5976.mov",
+    "IMG_5978.mov"
+  ],
+  "review": "Chronological source contact sheets inspected; native-language word transcript reviewed alongside waveform pause log. Clean source takes selected; trailing screen looks and abandoned repeated lines excluded.",
+  "cutList": "cut-list.json",
+  "captionSource": "source-words.json",
+  "editorial": "editorial.json",
+  "contentReview": "Recorded platform/service description; do not add unspoken accreditation, guarantee or outcome claims.",
+  "finalStatus": "Requires actual encoded visual, dialogue, motion and finish review before completion."
+}

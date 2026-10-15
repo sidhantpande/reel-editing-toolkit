@@ -1,0 +1,32 @@
+{
+  "export": "deliverables/niolearn/NIOLEARN_11_Early_Access_v1.mp4",
+  "title": "Early_Access",
+  "order": "11",
+  "sha256": "ca6e4f56fa9b4eb8d6dc6ac57fa3eef3cdd5285ce06d1e4cd1f1357323eacca3",
+  "bytes": 14630372,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "frames": 946,
+  "durationSeconds": 31.533333333333335,
+  "dialogueFrames": 901,
+  "captions": {
+    "words": 87,
+    "groups": 28,
+    "color": "Opt-in bright teal on camera and darker teal on ivory. One main keyword per phrase; brand/domain always colored.",
+    "visualReview": "Every caption group and encoded transition-boundary contact inspected.",
+    "sourceAlignment": "Reviewed source-language medium word transcript, manually corrected names/English terms and pause overhangs, mapped through exact 30fps source cuts."
+  },
+  "boundaryEvents": 16,
+  "audioLUFS": -14.01,
+  "audioTruePeakDBTP": -2.57,
+  "fullDecode": "passed",
+  "blackFramesDetected": false,
+  "reusableAlphaScenes": 2,
+  "alphaCheck": "analysis/alpha-check.json",
+  "ending": "Original brand logo only on ivory; no additional text.",
+  "status": "awaiting-user-review",
+  "rebuild": "bash tools/render_reviewed_reel.sh projects/niolearn/niolearn-recorded-early-access deliverables/niolearn/NIOLEARN_11_Early_Access_v1.mp4"
+}

@@ -1,0 +1,13 @@
+{
+  "project": "niolearn-recorded-early-access",
+  "sourceRecordings": [
+    "IMG_5980.mov",
+    "IMG_5987.mov"
+  ],
+  "review": "Chronological source contact sheets inspected; native-language word transcript reviewed alongside waveform pause log. Clean source takes selected; trailing screen looks and abandoned repeated lines excluded.",
+  "cutList": "cut-list.json",
+  "captionSource": "source-words.json",
+  "editorial": "editorial.json",
+  "contentReview": "Retain recorded October 22 waitlist offer for user review; recording does not say a deadline year. Do not add a year, a live-countdown, an offer price or claim the waitlist is currently verified.",
+  "finalStatus": "Requires actual encoded visual, dialogue, motion and finish review before completion."
+}

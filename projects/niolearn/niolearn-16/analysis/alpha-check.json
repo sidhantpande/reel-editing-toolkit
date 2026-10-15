@@ -1,0 +1,29 @@
+[
+  {
+    "asset": "public/assets/projects/niolearn-16/nio-mock-read-v1.webm",
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "dimensions": [
+      1080,
+      1920
+    ]
+  },
+  {
+    "asset": "public/assets/projects/niolearn-16/nio-mock-eliminate-v1.webm",
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "dimensions": [
+      1080,
+      1920
+    ]
+  },
+  {
+    "asset": "public/assets/projects/niolearn-16/nio-story-mock-v1.webm",
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "dimensions": [
+      1080,
+      1920
+    ]
+  }
+]

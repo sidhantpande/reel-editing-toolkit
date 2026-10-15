@@ -1,0 +1,821 @@
+{
+  "source": "IMG_5963.wav",
+  "language": "en",
+  "status": "ASR_DRAFT_FOR_MATCHING_NOT_FINAL_CAPTIONS",
+  "segments": [
+    {
+      "start": 1.2199999999999993,
+      "end": 6.02,
+      "text": " I made an app called Login, Database and Buttons.",
+      "words": [
+        {
+          "start": 1.2199999999999993,
+          "end": 2.02,
+          "text": " I",
+          "probability": 0.21615377068519592
+        },
+        {
+          "start": 2.02,
+          "end": 2.18,
+          "text": " made",
+          "probability": 0.3036702573299408
+        },
+        {
+          "start": 2.18,
+          "end": 2.3,
+          "text": " an",
+          "probability": 0.440940260887146
+        },
+        {
+          "start": 2.3,
+          "end": 2.94,
+          "text": " app",
+          "probability": 0.8162745833396912
+        },
+        {
+          "start": 2.94,
+          "end": 3.66,
+          "text": " called",
+          "probability": 0.2527153491973877
+        },
+        {
+          "start": 3.66,
+          "end": 4.22,
+          "text": " Login,",
+          "probability": 0.5247665494680405
+        },
+        {
+          "start": 4.4,
+          "end": 5.0,
+          "text": " Database",
+          "probability": 0.7250688225030899
+        },
+        {
+          "start": 5.0,
+          "end": 5.58,
+          "text": " and",
+          "probability": 0.6241428852081299
+        },
+        {
+          "start": 5.58,
+          "end": 6.02,
+          "text": " Buttons.",
+          "probability": 0.7197505086660385
+        }
+      ]
+    },
+    {
+      "start": 6.64,
+      "end": 9.94,
+      "text": " I told you to stop the mentor and asked him where he is.",
+      "words": [
+        {
+          "start": 6.64,
+          "end": 6.84,
+          "text": " I",
+          "probability": 0.20587047934532166
+        },
+        {
+          "start": 6.84,
+          "end": 7.14,
+          "text": " told",
+          "probability": 0.0483231320977211
+        },
+        {
+          "start": 7.14,
+          "end": 7.54,
+          "text": " you",
+          "probability": 0.5184023976325989
+        },
+        {
+          "start": 7.54,
+          "end": 7.78,
+          "text": " to",
+          "probability": 0.09988350421190262
+        },
+        {
+          "start": 7.78,
+          "end": 7.78,
+          "text": " stop",
+          "probability": 0.10553281754255295
+        },
+        {
+          "start": 7.78,
+          "end": 7.82,
+          "text": " the",
+          "probability": 0.1839803159236908
+        },
+        {
+          "start": 7.82,
+          "end": 8.0,
+          "text": " mentor",
+          "probability": 0.11876695603132248
+        },
+        {
+          "start": 8.0,
+          "end": 8.64,
+          "text": " and",
+          "probability": 0.2063777893781662
+        },
+        {
+          "start": 8.64,
+          "end": 8.78,
+          "text": " asked",
+          "probability": 0.30908069014549255
+        },
+        {
+          "start": 8.78,
+          "end": 9.32,
+          "text": " him",
+          "probability": 0.35852694511413574
+        },
+        {
+          "start": 9.32,
+          "end": 9.34,
+          "text": " where",
+          "probability": 0.5472391843795776
+        },
+        {
+          "start": 9.34,
+          "end": 9.44,
+          "text": " he",
+          "probability": 0.5554001331329346
+        },
+        {
+          "start": 9.44,
+          "end": 9.94,
+          "text": " is.",
+          "probability": 0.6432546377182007
+        }
+      ]
+    },
+    {
+      "start": 10.8,
+      "end": 18.36,
+      "text": " It is a better answer approach, to tell your problem, approach, decision, and outcome.",
+      "words": [
+        {
+          "start": 10.8,
+          "end": 11.48,
+          "text": " It",
+          "probability": 0.10762689262628555
+        },
+        {
+          "start": 11.48,
+          "end": 11.48,
+          "text": " is",
+          "probability": 0.5179855823516846
+        },
+        {
+          "start": 11.48,
+          "end": 11.54,
+          "text": " a",
+          "probability": 0.5066695213317871
+        },
+        {
+          "start": 11.54,
+          "end": 11.82,
+          "text": " better",
+          "probability": 0.9884729981422424
+        },
+        {
+          "start": 11.82,
+          "end": 12.18,
+          "text": " answer",
+          "probability": 0.8452340364456177
+        },
+        {
+          "start": 12.18,
+          "end": 12.58,
+          "text": " approach,",
+          "probability": 0.20054017007350922
+        },
+        {
+          "start": 13.18,
+          "end": 13.6,
+          "text": " to",
+          "probability": 0.22341012954711914
+        },
+        {
+          "start": 13.6,
+          "end": 13.6,
+          "text": " tell",
+          "probability": 0.2940700948238373
+        },
+        {
+          "start": 13.6,
+          "end": 13.62,
+          "text": " your",
+          "probability": 0.7386597990989685
+        },
+        {
+          "start": 13.62,
+          "end": 14.12,
+          "text": " problem,",
+          "probability": 0.5521570444107056
+        },
+        {
+          "start": 15.1,
+          "end": 15.52,
+          "text": " approach,",
+          "probability": 0.40374118089675903
+        },
+        {
+          "start": 16.22,
+          "end": 16.78,
+          "text": " decision,",
+          "probability": 0.8942129611968994
+        },
+        {
+          "start": 17.5,
+          "end": 18.08,
+          "text": " and",
+          "probability": 0.440079927444458
+        },
+        {
+          "start": 18.08,
+          "end": 18.36,
+          "text": " outcome.",
+          "probability": 0.3682662546634674
+        }
+      ]
+    },
+    {
+      "start": 19.44,
+      "end": 24.36,
+      "text": " If you have a chance to frame this, my school was very strict.",
+      "words": [
+        {
+          "start": 19.44,
+          "end": 19.72,
+          "text": " If",
+          "probability": 0.6936032772064209
+        },
+        {
+          "start": 19.72,
+          "end": 20.22,
+          "text": " you",
+          "probability": 0.892473578453064
+        },
+        {
+          "start": 20.22,
+          "end": 20.32,
+          "text": " have",
+          "probability": 0.1535566747188568
+        },
+        {
+          "start": 20.32,
+          "end": 20.32,
+          "text": " a",
+          "probability": 0.27028316259384155
+        },
+        {
+          "start": 20.32,
+          "end": 20.36,
+          "text": " chance",
+          "probability": 0.14332440495491028
+        },
+        {
+          "start": 20.36,
+          "end": 20.68,
+          "text": " to",
+          "probability": 0.7484620213508606
+        },
+        {
+          "start": 20.68,
+          "end": 20.86,
+          "text": " frame",
+          "probability": 0.14438895881175995
+        },
+        {
+          "start": 20.86,
+          "end": 20.92,
+          "text": " this,",
+          "probability": 0.2383352667093277
+        },
+        {
+          "start": 21.52,
+          "end": 22.8,
+          "text": " my",
+          "probability": 0.20259800553321838
+        },
+        {
+          "start": 22.8,
+          "end": 23.04,
+          "text": " school",
+          "probability": 0.7902305722236633
+        },
+        {
+          "start": 23.04,
+          "end": 23.2,
+          "text": " was",
+          "probability": 0.14902175962924957
+        },
+        {
+          "start": 23.2,
+          "end": 23.28,
+          "text": " very",
+          "probability": 0.3449339270591736
+        },
+        {
+          "start": 23.28,
+          "end": 24.36,
+          "text": " strict.",
+          "probability": 0.1712649017572403
+        }
+      ]
+    },
+    {
+      "start": 24.36,
+      "end": 25.86,
+      "text": " It was a very difficult experience.",
+      "words": [
+        {
+          "start": 24.36,
+          "end": 24.88,
+          "text": " It",
+          "probability": 0.38116639852523804
+        },
+        {
+          "start": 24.88,
+          "end": 25.12,
+          "text": " was",
+          "probability": 0.7406435608863831
+        },
+        {
+          "start": 25.12,
+          "end": 25.12,
+          "text": " a",
+          "probability": 0.08195122331380844
+        },
+        {
+          "start": 25.12,
+          "end": 25.36,
+          "text": " very",
+          "probability": 0.050255659967660904
+        },
+        {
+          "start": 25.36,
+          "end": 25.62,
+          "text": " difficult",
+          "probability": 0.08816581964492798
+        },
+        {
+          "start": 25.62,
+          "end": 25.86,
+          "text": " experience.",
+          "probability": 0.3956105411052704
+        }
+      ]
+    },
+    {
+      "start": 26.14,
+      "end": 27.72,
+      "text": " It was 15 minutes away.",
+      "words": [
+        {
+          "start": 26.14,
+          "end": 26.94,
+          "text": " It",
+          "probability": 0.19471946358680725
+        },
+        {
+          "start": 26.94,
+          "end": 26.94,
+          "text": " was",
+          "probability": 0.4811559319496155
+        },
+        {
+          "start": 26.94,
+          "end": 26.94,
+          "text": " 15",
+          "probability": 0.19468694925308228
+        },
+        {
+          "start": 26.94,
+          "end": 27.32,
+          "text": " minutes",
+          "probability": 0.9050287008285522
+        },
+        {
+          "start": 27.32,
+          "end": 27.72,
+          "text": " away.",
+          "probability": 0.17347075045108795
+        }
+      ]
+    },
+    {
+      "start": 27.72,
+      "end": 33.1,
+      "text": " So I made an app that can be used in one tap through which you can get a touch of it.",
+      "words": [
+        {
+          "start": 27.72,
+          "end": 29.08,
+          "text": " So",
+          "probability": 0.08453195542097092
+        },
+        {
+          "start": 29.08,
+          "end": 29.32,
+          "text": " I",
+          "probability": 0.5353739261627197
+        },
+        {
+          "start": 29.32,
+          "end": 29.44,
+          "text": " made",
+          "probability": 0.37964585423469543
+        },
+        {
+          "start": 29.44,
+          "end": 29.74,
+          "text": " an",
+          "probability": 0.7413530945777893
+        },
+        {
+          "start": 29.74,
+          "end": 29.92,
+          "text": " app",
+          "probability": 0.967056393623352
+        },
+        {
+          "start": 29.92,
+          "end": 30.6,
+          "text": " that",
+          "probability": 0.30659613013267517
+        },
+        {
+          "start": 30.6,
+          "end": 30.96,
+          "text": " can",
+          "probability": 0.4046981632709503
+        },
+        {
+          "start": 30.96,
+          "end": 30.96,
+          "text": " be",
+          "probability": 0.4442022740840912
+        },
+        {
+          "start": 30.96,
+          "end": 30.96,
+          "text": " used",
+          "probability": 0.16735541820526123
+        },
+        {
+          "start": 30.96,
+          "end": 31.48,
+          "text": " in",
+          "probability": 0.43003031611442566
+        },
+        {
+          "start": 31.48,
+          "end": 31.56,
+          "text": " one",
+          "probability": 0.3811958134174347
+        },
+        {
+          "start": 31.56,
+          "end": 31.96,
+          "text": " tap",
+          "probability": 0.3577783703804016
+        },
+        {
+          "start": 31.96,
+          "end": 32.08,
+          "text": " through",
+          "probability": 0.2806694507598877
+        },
+        {
+          "start": 32.08,
+          "end": 32.08,
+          "text": " which",
+          "probability": 0.736470103263855
+        },
+        {
+          "start": 32.08,
+          "end": 32.08,
+          "text": " you",
+          "probability": 0.29749760031700134
+        },
+        {
+          "start": 32.08,
+          "end": 32.08,
+          "text": " can",
+          "probability": 0.8804673552513123
+        },
+        {
+          "start": 32.08,
+          "end": 32.16,
+          "text": " get",
+          "probability": 0.08219441026449203
+        },
+        {
+          "start": 32.16,
+          "end": 32.22,
+          "text": " a",
+          "probability": 0.13584701716899872
+        },
+        {
+          "start": 32.22,
+          "end": 32.3,
+          "text": " touch",
+          "probability": 0.03892825171351433
+        },
+        {
+          "start": 32.3,
+          "end": 33.1,
+          "text": " of",
+          "probability": 0.2859575152397156
+        },
+        {
+          "start": 33.1,
+          "end": 33.1,
+          "text": " it.",
+          "probability": 0.12202710658311844
+        }
+      ]
+    },
+    {
+      "start": 33.1,
+      "end": 35.64,
+      "text": " Now we have 5 minutes left.",
+      "words": [
+        {
+          "start": 33.1,
+          "end": 33.56,
+          "text": " Now",
+          "probability": 0.49751344323158264
+        },
+        {
+          "start": 33.56,
+          "end": 33.84,
+          "text": " we",
+          "probability": 0.22460368275642395
+        },
+        {
+          "start": 33.84,
+          "end": 34.2,
+          "text": " have",
+          "probability": 0.5204542875289917
+        },
+        {
+          "start": 34.2,
+          "end": 34.52,
+          "text": " 5",
+          "probability": 0.4514208734035492
+        },
+        {
+          "start": 34.52,
+          "end": 34.98,
+          "text": " minutes",
+          "probability": 0.9440732002258301
+        },
+        {
+          "start": 34.98,
+          "end": 35.64,
+          "text": " left.",
+          "probability": 0.8192819356918335
+        }
+      ]
+    },
+    {
+      "start": 36.26,
+      "end": 42.34,
+      "text": " Now listen to this clarity and understand that you can find your thoughts in it.",
+      "words": [
+        {
+          "start": 36.26,
+          "end": 36.72,
+          "text": " Now",
+          "probability": 0.5209747552871704
+        },
+        {
+          "start": 36.72,
+          "end": 37.58,
+          "text": " listen",
+          "probability": 0.18271152675151825
+        },
+        {
+          "start": 37.58,
+          "end": 37.96,
+          "text": " to",
+          "probability": 0.9203775525093079
+        },
+        {
+          "start": 37.96,
+          "end": 37.96,
+          "text": " this",
+          "probability": 0.22571076452732086
+        },
+        {
+          "start": 37.96,
+          "end": 38.16,
+          "text": " clarity",
+          "probability": 0.5167841911315918
+        },
+        {
+          "start": 38.16,
+          "end": 39.28,
+          "text": " and",
+          "probability": 0.3429746925830841
+        },
+        {
+          "start": 39.28,
+          "end": 39.54,
+          "text": " understand",
+          "probability": 0.1527474820613861
+        },
+        {
+          "start": 39.54,
+          "end": 40.76,
+          "text": " that",
+          "probability": 0.767265796661377
+        },
+        {
+          "start": 40.76,
+          "end": 41.12,
+          "text": " you",
+          "probability": 0.37107717990875244
+        },
+        {
+          "start": 41.12,
+          "end": 41.12,
+          "text": " can",
+          "probability": 0.34344345331192017
+        },
+        {
+          "start": 41.12,
+          "end": 41.12,
+          "text": " find",
+          "probability": 0.1349366307258606
+        },
+        {
+          "start": 41.12,
+          "end": 41.28,
+          "text": " your",
+          "probability": 0.378460168838501
+        },
+        {
+          "start": 41.28,
+          "end": 41.64,
+          "text": " thoughts",
+          "probability": 0.9559870958328247
+        },
+        {
+          "start": 41.64,
+          "end": 42.34,
+          "text": " in",
+          "probability": 0.5958181023597717
+        },
+        {
+          "start": 42.34,
+          "end": 42.34,
+          "text": " it.",
+          "probability": 0.4901318848133087
+        }
+      ]
+    },
+    {
+      "start": 42.86,
+      "end": 48.96,
+      "text": " You can write your budget answer in the comments and if you want to improve it then go on to NewLand.com.",
+      "words": [
+        {
+          "start": 42.86,
+          "end": 43.58,
+          "text": " You",
+          "probability": 0.6326417326927185
+        },
+        {
+          "start": 43.58,
+          "end": 43.76,
+          "text": " can",
+          "probability": 0.7536752820014954
+        },
+        {
+          "start": 43.76,
+          "end": 43.76,
+          "text": " write",
+          "probability": 0.5034454464912415
+        },
+        {
+          "start": 43.76,
+          "end": 43.92,
+          "text": " your",
+          "probability": 0.8845466375350952
+        },
+        {
+          "start": 43.92,
+          "end": 44.26,
+          "text": " budget",
+          "probability": 0.09531789273023605
+        },
+        {
+          "start": 44.26,
+          "end": 44.74,
+          "text": " answer",
+          "probability": 0.5447673797607422
+        },
+        {
+          "start": 44.74,
+          "end": 45.12,
+          "text": " in",
+          "probability": 0.9145148396492004
+        },
+        {
+          "start": 45.12,
+          "end": 45.58,
+          "text": " the",
+          "probability": 0.9172730445861816
+        },
+        {
+          "start": 45.58,
+          "end": 45.58,
+          "text": " comments",
+          "probability": 0.9589554071426392
+        },
+        {
+          "start": 45.58,
+          "end": 46.12,
+          "text": " and",
+          "probability": 0.2648560404777527
+        },
+        {
+          "start": 46.12,
+          "end": 46.28,
+          "text": " if",
+          "probability": 0.7338933944702148
+        },
+        {
+          "start": 46.28,
+          "end": 46.54,
+          "text": " you",
+          "probability": 0.987880289554596
+        },
+        {
+          "start": 46.54,
+          "end": 46.58,
+          "text": " want",
+          "probability": 0.85591059923172
+        },
+        {
+          "start": 46.58,
+          "end": 46.58,
+          "text": " to",
+          "probability": 0.9861413240432739
+        },
+        {
+          "start": 46.58,
+          "end": 46.82,
+          "text": " improve",
+          "probability": 0.8691712617874146
+        },
+        {
+          "start": 46.82,
+          "end": 47.02,
+          "text": " it",
+          "probability": 0.3871925175189972
+        },
+        {
+          "start": 47.02,
+          "end": 47.42,
+          "text": " then",
+          "probability": 0.3447416126728058
+        },
+        {
+          "start": 47.42,
+          "end": 47.58,
+          "text": " go",
+          "probability": 0.9624209403991699
+        },
+        {
+          "start": 47.58,
+          "end": 47.84,
+          "text": " on",
+          "probability": 0.9536552429199219
+        },
+        {
+          "start": 47.84,
+          "end": 48.2,
+          "text": " to",
+          "probability": 0.7650066614151001
+        },
+        {
+          "start": 48.2,
+          "end": 48.54,
+          "text": " NewLand",
+          "probability": 0.48694323499997455
+        },
+        {
+          "start": 48.54,
+          "end": 48.96,
+          "text": ".com.",
+          "probability": 0.9771219193935394
+        }
+      ]
+    }
+  ]
+}

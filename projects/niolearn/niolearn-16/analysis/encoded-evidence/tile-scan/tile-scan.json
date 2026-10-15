@@ -1,0 +1,94 @@
+{
+  "firstClosingFrameBrightnessRatio": 1.0006323487716227,
+  "video": "deliverables/niolearn/NIOLEARN_06_Mock_Test_Teardown_v1.mp4",
+  "decodedFrames": 1034,
+  "checkedCameraFrames": 317,
+  "detector": "Observed artifact repeats a 756x413 viewport inside an expected 1080x1920 frame. Detect correlated vertical/horizontal repeats on reduced encoded frames; opaque paper and logo holds excluded.",
+  "suspectedTiles": [],
+  "lowestVerticalDelta": [
+    {
+      "frame": 817,
+      "seconds": 27.233,
+      "verticalDelta": 6.101,
+      "horizontalDelta": 3.517,
+      "correlation": -0.01772
+    },
+    {
+      "frame": 144,
+      "seconds": 4.8,
+      "verticalDelta": 9.245,
+      "horizontalDelta": 5.422,
+      "correlation": 0.40056
+    },
+    {
+      "frame": 818,
+      "seconds": 27.267,
+      "verticalDelta": 9.573,
+      "horizontalDelta": 5.654,
+      "correlation": 0.36252
+    },
+    {
+      "frame": 819,
+      "seconds": 27.3,
+      "verticalDelta": 16.303,
+      "horizontalDelta": 9.943,
+      "correlation": 0.54522
+    },
+    {
+      "frame": 143,
+      "seconds": 4.767,
+      "verticalDelta": 16.833,
+      "horizontalDelta": 10.502,
+      "correlation": 0.48818
+    },
+    {
+      "frame": 820,
+      "seconds": 27.333,
+      "verticalDelta": 23.665,
+      "horizontalDelta": 15.411,
+      "correlation": 0.58117
+    },
+    {
+      "frame": 142,
+      "seconds": 4.733,
+      "verticalDelta": 24.239,
+      "horizontalDelta": 15.662,
+      "correlation": 0.55532
+    },
+    {
+      "frame": 821,
+      "seconds": 27.367,
+      "verticalDelta": 30.647,
+      "horizontalDelta": 20.237,
+      "correlation": 0.59799
+    },
+    {
+      "frame": 141,
+      "seconds": 4.7,
+      "verticalDelta": 31.217,
+      "horizontalDelta": 20.791,
+      "correlation": 0.58955
+    },
+    {
+      "frame": 822,
+      "seconds": 27.4,
+      "verticalDelta": 38.662,
+      "horizontalDelta": 25.81,
+      "correlation": 0.58493
+    },
+    {
+      "frame": 140,
+      "seconds": 4.667,
+      "verticalDelta": 38.954,
+      "horizontalDelta": 26.27,
+      "correlation": 0.5892
+    },
+    {
+      "frame": 823,
+      "seconds": 27.433,
+      "verticalDelta": 46.352,
+      "horizontalDelta": 30.703,
+      "correlation": 0.58431
+    }
+  ]
+}

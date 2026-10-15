@@ -1,0 +1,58 @@
+{
+  "assets": [
+    {
+      "file": "public/assets/projects/atfro-01/stethoscope.png",
+      "source": "Built-in ImageGen, transparent background",
+      "prompt": "Use case: stylized-concept. Asset type: one isolated transparent premium editorial medical cutout for a bright ivory paper-style business reel. Subject: a single elegant modern stethoscope, dark charcoal soft rubber tubing arranged in a graceful loose U curve, brushed stainless steel earpieces and a polished circular diaphragm. Entire instrument clearly visible, centered with ample padding in a square composition, slightly turned three-quarter view. Premium product photography mixed with refined tactile 3D editorial sculpture, physically convincing metal, subtle paper-like matte surface quality, soft neutral daylight from upper left and delicate natural shading within the object. Understated monochrome charcoal, silver and ivory only, no bright colours. Realistic correct instrument construction, no floating separate pieces. TRUE transparent background with clean antialiased alpha, no backdrop, no floor, no surrounding glow, no halo, no scene, no text, no logo, no watermark, no additional objects. Will be animated alongside an ivory open book and a minimal software window to represent school communication, doctor-led content and practical software systems."
+    },
+    {
+      "file": "public/assets/projects/atfro-01/software-window.svg",
+      "source": "Original vector geometry authored for this reel"
+    }
+  ],
+  "reused": [
+    "public/assets/premium/cutouts/open-book.png",
+    "public/assets/premium/cutouts/handshake.png",
+    "public/assets/premium/cutouts/editorial-person.png",
+    "public/assets/premium/cutouts/compass.png"
+  ],
+  "revision2": {
+    "animationSources": [
+      "src/projects/Atfro01Canvas.tsx",
+      "src/projects/Atfro01Broll.tsx"
+    ],
+    "renderer": "Remotion 4.0.535 + HTML Canvas 2D + SVG",
+    "artwork": "Original project geometry, existing project-generated cutouts; no stock animation or external client material",
+    "exports": [
+      "public/assets/projects/atfro-01/atfro-work-v2.webm",
+      "public/assets/projects/atfro-01/atfro-process-v2.webm"
+    ],
+    "captionSafeArea": {
+      "artworkBottom": 1220,
+      "captionTop": 1340
+    }
+  },
+  "captionRenderer": {
+    "source": "src/Captions.tsx",
+    "method": "Frame-deterministic Canvas 2D typography, bundled Inter font, soft upward easing and shadow",
+    "reason": "Avoid intermittent HTML span compositing loss in encoded video"
+  },
+  "finish": {
+    "colourGrade": "projects/atfro/atfro-01/colour-grade.json",
+    "bottomGradient": "Feathered black opacity from bottom, 18-frame entrance on presenter shots",
+    "brollDissolveFrames": 5
+  },
+  "revision6": {
+    "visualCutBlends": "11 three-frame blends from approved outgoing A-roll frames; no dialogue retiming",
+    "brollFadeFrames": 8,
+    "bottomGradient": "1220 px feathered black field, up from 1050 px",
+    "captions": "75 px presenter / 84 px opening / 77 px B-roll, 920 px centered line width, mic-to-lower-chest placement",
+    "endCard": "Original ATFRO wordmark only, centered; 10-frame dissolve over last approved camera frame",
+    "music": {
+      "file": "public/assets/music/atfro-01-bed-v6.wav",
+      "recipe": "Original bed repeated with 4-second equal-power overlap, 55 Hz high-pass and 5500 Hz low-pass; continuous 42-second file; lower constant speech-level mix and smooth 1.2-second fade-in / 2.17-second fade-out, without end-card gain jump"
+    },
+    "rebuild": "tools/prepare_atfro01_finish.py",
+    "transitionRenderer": "src/StillBlend.tsx: complete image decode, then frame-deterministic Canvas blending to avoid partial JPEG compositing"
+  }
+}

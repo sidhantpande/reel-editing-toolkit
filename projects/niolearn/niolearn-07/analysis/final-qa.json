@@ -1,0 +1,44 @@
+{
+  "export": "deliverables/niolearn/NIOLEARN_02_Preparation_System_v1.mp4",
+  "title": "How NioLearn prepares you: diagnostic → prep → mocks → interview",
+  "order": "Second recorded NioLearn reel; calendar 07; IMG_5947",
+  "sha256": "3f2708a555e1273ae10f3f0209c52c80a850d43e059536da36686176ef9f8fd8",
+  "bytes": 24724399,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "frames": 1207,
+  "durationSeconds": 40.233333333333334,
+  "dialogueFrames": 1162,
+  "sourceDurationSeconds": 44.805,
+  "captions": {
+    "words": 110,
+    "groups": 42,
+    "language": "Roman Hinglish",
+    "alignment": "Medium and small source word timings, manually corrected spellings and silence overhangs; mapped through exact source cuts. Edited medium transcription confirms all dialogue sections.",
+    "visualReview": "All 42 groups inspected in the final encoded 1080p export."
+  },
+  "transitions": "24 encoded boundary events inspected: source cuts, 8-frame B-roll dissolves and logo entrance; 2 exposed camera cuts use 3-frame Canvas blends. Graphic dissolves cover the remaining camera cuts.",
+  "gaze": "Full chronological source contact inspected; setup and trailing camera look omitted.",
+  "audioLUFS": -14.0,
+  "audioTruePeakDBTP": -1.81,
+  "fullDecode": "passed",
+  "blackFramesDetected": false,
+  "reusableAlphaScenes": 5,
+  "alphaCheck": "analysis/alpha-check.json",
+  "ending": "Original NioLearn mark only, on light ivory; 45-frame closing hold.",
+  "status": "awaiting-user-review",
+  "framing": {
+    "zoomRange": [
+      1.6,
+      1.62
+    ],
+    "cropX": 0.4,
+    "cropY": 0.9,
+    "application": "Camera footage only; same upper-third face framing as approved first reel.",
+    "captionLayout": "Presenter y=1240; paper y=1340; approved font sizes and animation preserved."
+  },
+  "checks": "TypeScript, catalogue checksums, media links, caption bounds and Git exclusion audit passed."
+}

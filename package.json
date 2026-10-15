@@ -1,0 +1,40 @@
+{
+  "name": "atfro-niolearn-reel-studio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "typecheck": "tsc --noEmit",
+    "render:demo": "node tools/render.mjs PremiumNiolearnV3 exports/niolearn-light-final-v3.mp4 --scale=0.5",
+    "assets:build": ".venv/bin/python tools/build_assets.py",
+    "doctor": "python3 tools/doctor.py",
+    "check": "npm run typecheck && python3 tools/validate.py",
+    "render:transitions": "node tools/render.mjs TransitionLab exports/transitions.mp4 --scale=0.5",
+    "setup": "bash tools/bootstrap.sh",
+    "render:atfro": "node tools/render.mjs PremiumAtfroV3 exports/atfro-light-final-v3.mp4 --scale=0.5",
+    "assets:premium": ".venv/bin/python tools/export_premium.py",
+    "check:media": "npm run typecheck && python3 tools/validate.py --require-media",
+    "test": "python3 -m unittest discover -s tests",
+    "assets:find": "python3 tools/reelctl.py assets",
+    "catalog": "python3 tools/catalog.py"
+  },
+  "dependencies": {
+    "remotion": "4.0.535",
+    "@remotion/cli": "4.0.535",
+    "@remotion/transitions": "4.0.535",
+    "@remotion/captions": "4.0.535",
+    "@remotion/media": "4.0.535",
+    "@remotion/motion-blur": "4.0.535",
+    "@remotion/shapes": "4.0.535",
+    "@remotion/paths": "4.0.535",
+    "@remotion/noise": "4.0.535",
+    "@remotion/animation-utils": "4.0.535",
+    "react": "19.2.0",
+    "react-dom": "19.2.0"
+  },
+  "devDependencies": {
+    "typescript": "5.9.3",
+    "@types/react": "19.2.2",
+    "@types/react-dom": "19.2.2"
+  }
+}

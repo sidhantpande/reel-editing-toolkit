@@ -1,0 +1,40 @@
+{
+  "tool": "Built-in ImageGen",
+  "prompts": [
+    {
+      "key": "niolearn-campus",
+      "prompt": "Use case: stylized-concept. A reusable isolated transparent 3D editorial paper sculpture: one exquisite generic miniature academic institution, contemporary ivory folded-paper hall, broad stepped entrance, four clean sculptural columns and shallow pediment, slight three-quarter view showing right side. Convincing thick paper layers, delicate realistic edge shadows, matte cream/ivory/pale warm-grey palette, one tiny muted teal detail at entrance. Premium tactile paper sculpture photographed in soft neutral daylight, full single object centered, generous padding, square canvas. TRUE transparent alpha background. No name, crest, readable text, letters, numbers, people, logos, watermark, scenery, floor or background. Not a real college or accreditation claim. Refined premium dimensional editorial craft, not a flat icon or toy."
+    },
+    {
+      "key": "niolearn-credential",
+      "prompt": "Use case: stylized-concept. A reusable isolated transparent premium editorial diploma cutout: a single elegant blank ivory diploma certificate, floating slightly at three-quarter perspective, subtly curled paper corners, thick cotton-paper texture, restrained thin embossed border, one small muted teal paper rosette seal at lower right with two short cream/teal ribbon tails. Only a few faint short grey embossed horizontal rules, absolutely no readable writing. Sophisticated tactile paper sculpture photographed in soft neutral daylight, exquisite realistic dimensional material and occlusion, full document centered with ample padding in square composition. Ivory, pale warm grey, subtle navy details and muted teal seal. TRUE transparent background with clean alpha. No backdrop, floor, shadow rectangle, glow, logos, institution names, signatures, letters, numbers, watermark or other objects. Generic illustration, not an actual diploma. Premium craft, not flat clipart."
+    }
+  ],
+  "assets": [
+    {
+      "file": "public/assets/projects/niolearn-04/campus.png",
+      "promptKey": "niolearn-campus"
+    },
+    {
+      "file": "public/assets/projects/niolearn-04/credential.png",
+      "promptKey": "niolearn-credential"
+    }
+  ],
+  "reused": [
+    "public/assets/premium/cutouts/paper-student.png",
+    "public/assets/premium/textures/grain.svg"
+  ],
+  "constraints": "Generic illustrative objects only; no real school, credential, fees or placement results.",
+  "editableMotion": "src/projects/Nio04Broll.tsx",
+  "reusableAnimations": [
+    "public/assets/projects/niolearn-04/nio-parents-authority-v1.webm",
+    "public/assets/projects/niolearn-04/nio-parents-credential-v1.webm",
+    "public/assets/projects/niolearn-04/nio-parents-fees-v1.webm",
+    "public/assets/projects/niolearn-04/nio-parents-outcomes-v1.webm",
+    "public/assets/projects/niolearn-04/nio-parents-conversation-v1.webm"
+  ],
+  "music": {
+    "file": "public/assets/music/niolearn-04-bed.wav",
+    "source": "Original calm-focus synthesis, four-second equal-power join, gentle filtering and -27 LUFS bed normalization; quiet continuous speech-level mix"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "phrases": [
+    "Brochures sab ek",
+    "jaise lagte hain.",
+    "Compare karna hai toh",
+    "in 6 cheezon ke",
+    "basis pe kar lo.",
+    "Pehla, degree aur recognition.",
+    "Doosra, total fees",
+    "kitni lagegi.",
+    "Teesra, selection process",
+    "kya hai us college ka.",
+    "Chautha, curriculum kya hai",
+    "aur kya provide",
+    "kar paayega.",
+    "Paanchva, mentors kaise hain",
+    "aur industry exposure",
+    "kya hai us college ka.",
+    "Aur chhatha, outcomes ki",
+    "transparency kitni hai.",
+    "In 6 cheezon ke",
+    "basis pe tum college",
+    "ko categorize karo",
+    "aur score karo",
+    "on the scale of",
+    "1 to 5",
+    "aur phir total",
+    "karne ke baad hi",
+    "decision lo",
+    "hype pe mat jaao.",
+    "Aur yaad rakhna,",
+    "jo college sawaalon ka",
+    "seedha jawaab de,",
+    "wahi trust ke",
+    "laayak hota hai.",
+    "Agar aapko college ki",
+    "comparison sheet chahiye,",
+    "toh comments mein",
+    "SHEET likho.",
+    "Baaki aise aur tips",
+    "ke liye go on",
+    "niolearn.com"
+  ],
+  "accentWords": [
+    "brochures",
+    "compare",
+    "6",
+    "degree",
+    "recognition",
+    "total",
+    "fees",
+    "selection",
+    "process",
+    "college",
+    "curriculum",
+    "provide",
+    "mentors",
+    "industry",
+    "exposure",
+    "outcomes",
+    "transparency",
+    "categorize",
+    "score",
+    "1",
+    "5",
+    "decision",
+    "hype",
+    "sawaalon",
+    "jawaab",
+    "trust",
+    "comparison",
+    "sheet",
+    "tips"
+  ],
+  "broll": [
+    {
+      "kind": "nio-story-comparison",
+      "from": 145,
+      "duration": 860,
+      "fadeFrames": 8,
+      "beats": [
+        78,
+        152,
+        250,
+        359,
+        486,
+        574
+      ]
+    }
+  ],
+  "alphaExports": [
+    "nio-story-comparison",
+    {
+      "kind": "nio-compare-board",
+      "duration": 294
+    }
+  ],
+  "notes": [
+    "Six factors and replacement CTA aligned across two camera takes.",
+    "Board is an abstract anonymous comparison; no invented school rankings."
+  ]
+}

@@ -1,0 +1,367 @@
+[
+  {
+    "start": 0.46,
+    "end": 9.06,
+    "text": " NeoLearn is a modern tech admission platform, which offers structured life classes, mocks,",
+    "words": [
+      {
+        "text": " NeoLearn",
+        "start": 0.46,
+        "end": 1.34,
+        "probability": 0.735466718673706
+      },
+      {
+        "text": " is",
+        "start": 1.34,
+        "end": 1.56,
+        "probability": 0.9854159951210022
+      },
+      {
+        "text": " a",
+        "start": 1.56,
+        "end": 1.7,
+        "probability": 0.9913655519485474
+      },
+      {
+        "text": " modern",
+        "start": 1.7,
+        "end": 2.16,
+        "probability": 0.9950673580169678
+      },
+      {
+        "text": " tech",
+        "start": 2.16,
+        "end": 2.52,
+        "probability": 0.8418574929237366
+      },
+      {
+        "text": " admission",
+        "start": 2.52,
+        "end": 3.32,
+        "probability": 0.8372141718864441
+      },
+      {
+        "text": " platform,",
+        "start": 3.32,
+        "end": 3.98,
+        "probability": 0.9952019453048706
+      },
+      {
+        "text": " which",
+        "start": 4.58,
+        "end": 4.72,
+        "probability": 0.9920071363449097
+      },
+      {
+        "text": " offers",
+        "start": 4.72,
+        "end": 5.78,
+        "probability": 0.9949501752853394
+      },
+      {
+        "text": " structured",
+        "start": 5.78,
+        "end": 6.46,
+        "probability": 0.9358978867530823
+      },
+      {
+        "text": " life",
+        "start": 6.46,
+        "end": 6.82,
+        "probability": 0.93394935131073
+      },
+      {
+        "text": " classes,",
+        "start": 6.82,
+        "end": 7.62,
+        "probability": 0.9567113518714905
+      },
+      {
+        "text": " mocks,",
+        "start": 8.02,
+        "end": 9.06,
+        "probability": 0.8794253468513489
+      }
+    ]
+  },
+  {
+    "start": 9.68,
+    "end": 14.76,
+    "text": " interviews, personalized feedback, and mentorship, all in one place.",
+    "words": [
+      {
+        "text": " interviews,",
+        "start": 9.68,
+        "end": 9.96,
+        "probability": 0.9910854697227478
+      },
+      {
+        "text": " personalized",
+        "start": 10.58,
+        "end": 10.88,
+        "probability": 0.9351615905761719
+      },
+      {
+        "text": " feedback,",
+        "start": 10.88,
+        "end": 11.52,
+        "probability": 0.9929792284965515
+      },
+      {
+        "text": " and",
+        "start": 12.18,
+        "end": 12.36,
+        "probability": 0.9926974177360535
+      },
+      {
+        "text": " mentorship,",
+        "start": 12.36,
+        "end": 13.0,
+        "probability": 0.987548828125
+      },
+      {
+        "text": " all",
+        "start": 13.48,
+        "end": 13.9,
+        "probability": 0.9934790134429932
+      },
+      {
+        "text": " in",
+        "start": 13.9,
+        "end": 14.14,
+        "probability": 0.9955240488052368
+      },
+      {
+        "text": " one",
+        "start": 14.14,
+        "end": 14.42,
+        "probability": 0.9959958791732788
+      },
+      {
+        "text": " place.",
+        "start": 14.42,
+        "end": 14.76,
+        "probability": 0.9971522092819214
+      }
+    ]
+  },
+  {
+    "start": 15.18,
+    "end": 20.2,
+    "text": " Our vision goes beyond the examination, we want the students to understand their opportunities",
+    "words": [
+      {
+        "text": " Our",
+        "start": 15.18,
+        "end": 15.46,
+        "probability": 0.9959691762924194
+      },
+      {
+        "text": " vision",
+        "start": 15.46,
+        "end": 15.78,
+        "probability": 0.9983189702033997
+      },
+      {
+        "text": " goes",
+        "start": 15.78,
+        "end": 16.2,
+        "probability": 0.9979514479637146
+      },
+      {
+        "text": " beyond",
+        "start": 16.2,
+        "end": 16.56,
+        "probability": 0.9994513392448425
+      },
+      {
+        "text": " the",
+        "start": 16.56,
+        "end": 16.82,
+        "probability": 0.8897078037261963
+      },
+      {
+        "text": " examination,",
+        "start": 16.82,
+        "end": 17.4,
+        "probability": 0.9833136200904846
+      },
+      {
+        "text": " we",
+        "start": 17.9,
+        "end": 18.12,
+        "probability": 0.9760296940803528
+      },
+      {
+        "text": " want",
+        "start": 18.12,
+        "end": 18.34,
+        "probability": 0.9929491281509399
+      },
+      {
+        "text": " the",
+        "start": 18.34,
+        "end": 18.54,
+        "probability": 0.8872248530387878
+      },
+      {
+        "text": " students",
+        "start": 18.54,
+        "end": 18.74,
+        "probability": 0.9903523325920105
+      },
+      {
+        "text": " to",
+        "start": 18.74,
+        "end": 18.94,
+        "probability": 0.9088253378868103
+      },
+      {
+        "text": " understand",
+        "start": 18.94,
+        "end": 19.3,
+        "probability": 0.997663140296936
+      },
+      {
+        "text": " their",
+        "start": 19.3,
+        "end": 19.5,
+        "probability": 0.9804884195327759
+      },
+      {
+        "text": " opportunities",
+        "start": 19.5,
+        "end": 20.2,
+        "probability": 0.9934826493263245
+      }
+    ]
+  },
+  {
+    "start": 20.2,
+    "end": 27.3,
+    "text": " and make informed decisions about their future, because one exam shouldn't define your future.",
+    "words": [
+      {
+        "text": " and",
+        "start": 20.2,
+        "end": 20.76,
+        "probability": 0.8272138237953186
+      },
+      {
+        "text": " make",
+        "start": 20.76,
+        "end": 21.14,
+        "probability": 0.9955333471298218
+      },
+      {
+        "text": " informed",
+        "start": 21.14,
+        "end": 21.62,
+        "probability": 0.9924801588058472
+      },
+      {
+        "text": " decisions",
+        "start": 21.62,
+        "end": 22.26,
+        "probability": 0.5230967998504639
+      },
+      {
+        "text": " about",
+        "start": 22.26,
+        "end": 22.88,
+        "probability": 0.9933302998542786
+      },
+      {
+        "text": " their",
+        "start": 22.88,
+        "end": 23.16,
+        "probability": 0.9917460083961487
+      },
+      {
+        "text": " future,",
+        "start": 23.16,
+        "end": 23.62,
+        "probability": 0.9923932552337646
+      },
+      {
+        "text": " because",
+        "start": 23.98,
+        "end": 24.36,
+        "probability": 0.9916634559631348
+      },
+      {
+        "text": " one",
+        "start": 24.36,
+        "end": 24.76,
+        "probability": 0.9718070030212402
+      },
+      {
+        "text": " exam",
+        "start": 24.76,
+        "end": 25.28,
+        "probability": 0.9686558246612549
+      },
+      {
+        "text": " shouldn't",
+        "start": 25.28,
+        "end": 26.06,
+        "probability": 0.9750765264034271
+      },
+      {
+        "text": " define",
+        "start": 26.06,
+        "end": 26.54,
+        "probability": 0.9985750913619995
+      },
+      {
+        "text": " your",
+        "start": 26.54,
+        "end": 26.84,
+        "probability": 0.9920657277107239
+      },
+      {
+        "text": " future.",
+        "start": 26.84,
+        "end": 27.3,
+        "probability": 0.9984734654426575
+      }
+    ]
+  },
+  {
+    "start": 27.3,
+    "end": 29.96,
+    "text": " Neo-learned, navigate more possibilities.",
+    "words": [
+      {
+        "text": " Neo",
+        "start": 27.3,
+        "end": 28.06,
+        "probability": 0.49089425802230835
+      },
+      {
+        "text": "-learned,",
+        "start": 28.06,
+        "end": 28.66,
+        "probability": 0.6913429796695709
+      },
+      {
+        "text": " navigate",
+        "start": 28.72,
+        "end": 29.12,
+        "probability": 0.8796093463897705
+      },
+      {
+        "text": " more",
+        "start": 29.12,
+        "end": 29.42,
+        "probability": 0.9774664044380188
+      },
+      {
+        "text": " possibilities.",
+        "start": 29.42,
+        "end": 29.96,
+        "probability": 0.9894281029701233
+      }
+    ]
+  }
+]

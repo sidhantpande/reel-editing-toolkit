@@ -1,0 +1,108 @@
+[
+  {
+    "start": 0.37,
+    "end": 2.71,
+    "text": " If you lead a school, DM school,",
+    "words": [
+      {
+        "text": " If",
+        "start": 0.37,
+        "end": 0.91
+      },
+      {
+        "text": " you",
+        "start": 0.91,
+        "end": 1.11
+      },
+      {
+        "text": " lead",
+        "start": 1.11,
+        "end": 1.25
+      },
+      {
+        "text": " a",
+        "start": 1.25,
+        "end": 1.47
+      },
+      {
+        "text": " school,",
+        "start": 1.47,
+        "end": 1.81
+      },
+      {
+        "text": " DM",
+        "start": 2.09,
+        "end": 2.19
+      },
+      {
+        "text": " school,",
+        "start": 2.19,
+        "end": 2.71
+      }
+    ]
+  },
+  {
+    "start": 3.07,
+    "end": 4.77,
+    "text": " one communication bottleneck with",
+    "words": [
+      {
+        "text": " one",
+        "start": 3.07,
+        "end": 3.21
+      },
+      {
+        "text": " communication",
+        "start": 3.21,
+        "end": 3.77
+      },
+      {
+        "text": " bottleneck",
+        "start": 3.77,
+        "end": 4.55
+      },
+      {
+        "text": " with",
+        "start": 4.55,
+        "end": 4.77
+      }
+    ]
+  },
+  {
+    "start": 4.77,
+    "end": 6.87,
+    "text": " communication challenge you're trying to solve.",
+    "words": [
+      {
+        "text": " communication",
+        "start": 4.77,
+        "end": 5.33
+      },
+      {
+        "text": " challenge",
+        "start": 5.33,
+        "end": 5.79
+      },
+      {
+        "text": " you're",
+        "start": 5.79,
+        "end": 6.25
+      },
+      {
+        "text": " trying",
+        "start": 6.25,
+        "end": 6.43
+      },
+      {
+        "text": " to",
+        "start": 6.43,
+        "end": 6.65
+      },
+      {
+        "text": " solve.",
+        "start": 6.65,
+        "end": 6.87
+      }
+    ]
+  }
+]

@@ -1,0 +1,660 @@
+{
+  "status": "Reviewed actual weak/strong attendance-app examples; remove unclear redundant setup before paper-attendance problem; preserve spoken 15/5-minute illustrative example without inventing results",
+  "words": [
+    {
+      "text": "Maine",
+      "start": 1.89,
+      "end": 2.21
+    },
+    {
+      "text": "ek",
+      "start": 2.21,
+      "end": 2.33
+    },
+    {
+      "text": "attendance",
+      "start": 2.33,
+      "end": 2.83
+    },
+    {
+      "text": "app",
+      "start": 2.83,
+      "end": 3.01
+    },
+    {
+      "text": "banaya,",
+      "start": 3.01,
+      "end": 3.37
+    },
+    {
+      "text": "jismein",
+      "start": 3.55,
+      "end": 3.85
+    },
+    {
+      "text": "login",
+      "start": 3.85,
+      "end": 4.25
+    },
+    {
+      "text": "tha,",
+      "start": 4.25,
+      "end": 4.49
+    },
+    {
+      "text": "database",
+      "start": 4.55,
+      "end": 5.07
+    },
+    {
+      "text": "tha,",
+      "start": 5.07,
+      "end": 5.41
+    },
+    {
+      "text": "aur",
+      "start": 5.53,
+      "end": 5.67
+    },
+    {
+      "text": "buttons",
+      "start": 5.67,
+      "end": 6.05
+    },
+    {
+      "text": "the.",
+      "start": 6.05,
+      "end": 6.24
+    },
+    {
+      "text": "Aur",
+      "start": 6.45,
+      "end": 6.77
+    },
+    {
+      "text": "itne",
+      "start": 6.77,
+      "end": 7.07
+    },
+    {
+      "text": "bolne",
+      "start": 7.07,
+      "end": 7.59
+    },
+    {
+      "text": "pe",
+      "start": 7.59,
+      "end": 7.69
+    },
+    {
+      "text": "hi,",
+      "start": 7.69,
+      "end": 7.73
+    },
+    {
+      "text": "mentor",
+      "start": 7.81,
+      "end": 8.09
+    },
+    {
+      "text": "aapko",
+      "start": 8.09,
+      "end": 8.33
+    },
+    {
+      "text": "rok",
+      "start": 8.33,
+      "end": 8.55
+    },
+    {
+      "text": "ke",
+      "start": 8.55,
+      "end": 8.63
+    },
+    {
+      "text": "bolega,",
+      "start": 8.63,
+      "end": 9.01
+    },
+    {
+      "text": "arre",
+      "start": 9.07,
+      "end": 9.29
+    },
+    {
+      "text": "bhai,",
+      "start": 9.29,
+      "end": 9.83
+    },
+    {
+      "text": "soch",
+      "start": 9.95,
+      "end": 10.17
+    },
+    {
+      "text": "kahaan",
+      "start": 10.17,
+      "end": 10.43
+    },
+    {
+      "text": "hai?",
+      "start": 10.43,
+      "end": 10.63
+    },
+    {
+      "text": "Ek",
+      "start": 11.43,
+      "end": 11.59
+    },
+    {
+      "text": "better",
+      "start": 11.59,
+      "end": 11.97
+    },
+    {
+      "text": "answer",
+      "start": 11.97,
+      "end": 12.23
+    },
+    {
+      "text": "ka",
+      "start": 12.23,
+      "end": 12.39
+    },
+    {
+      "text": "approach",
+      "start": 12.39,
+      "end": 12.61
+    },
+    {
+      "text": "hota",
+      "start": 12.61,
+      "end": 12.91
+    },
+    {
+      "text": "hai.",
+      "start": 12.88,
+      "end": 13.1
+    },
+    {
+      "text": "Apna",
+      "start": 13.47,
+      "end": 13.81
+    },
+    {
+      "text": "problem",
+      "start": 13.81,
+      "end": 14.19
+    },
+    {
+      "text": "batana,",
+      "start": 14.19,
+      "end": 14.75
+    },
+    {
+      "text": "approach",
+      "start": 15.11,
+      "end": 15.59
+    },
+    {
+      "text": "batana,",
+      "start": 15.59,
+      "end": 16.1
+    },
+    {
+      "text": "decision",
+      "start": 16.35,
+      "end": 16.87
+    },
+    {
+      "text": "batana,",
+      "start": 16.87,
+      "end": 17.36
+    },
+    {
+      "text": "aur",
+      "start": 17.99,
+      "end": 18.14
+    },
+    {
+      "text": "outcome",
+      "start": 18.14,
+      "end": 18.39
+    },
+    {
+      "text": "batana.",
+      "start": 18.39,
+      "end": 18.72
+    },
+    {
+      "text": "Agar",
+      "start": 19.57,
+      "end": 19.91
+    },
+    {
+      "text": "aap",
+      "start": 19.91,
+      "end": 20.13
+    },
+    {
+      "text": "is",
+      "start": 20.13,
+      "end": 20.31
+    },
+    {
+      "text": "answer",
+      "start": 20.31,
+      "end": 20.61
+    },
+    {
+      "text": "ko",
+      "start": 20.61,
+      "end": 20.79
+    },
+    {
+      "text": "aise",
+      "start": 20.79,
+      "end": 21.15
+    },
+    {
+      "text": "frame",
+      "start": 21.15,
+      "end": 21.33
+    },
+    {
+      "text": "karo",
+      "start": 21.33,
+      "end": 21.67
+    },
+    {
+      "text": "ki",
+      "start": 21.67,
+      "end": 21.94
+    },
+    {
+      "text": "Attendance",
+      "start": 24.74,
+      "end": 25.22
+    },
+    {
+      "text": "kaagaz",
+      "start": 25.22,
+      "end": 25.62
+    },
+    {
+      "text": "pe",
+      "start": 25.62,
+      "end": 25.74
+    },
+    {
+      "text": "hoti",
+      "start": 25.74,
+      "end": 25.96
+    },
+    {
+      "text": "thi",
+      "start": 25.96,
+      "end": 26.08
+    },
+    {
+      "text": "jiske",
+      "start": 26.08,
+      "end": 26.46
+    },
+    {
+      "text": "kaaran",
+      "start": 26.46,
+      "end": 26.7
+    },
+    {
+      "text": "15",
+      "start": 26.7,
+      "end": 27.2
+    },
+    {
+      "text": "minute",
+      "start": 27.2,
+      "end": 27.46
+    },
+    {
+      "text": "waste",
+      "start": 27.46,
+      "end": 27.88
+    },
+    {
+      "text": "ho",
+      "start": 27.88,
+      "end": 28.12
+    },
+    {
+      "text": "jaata",
+      "start": 28.12,
+      "end": 28.26
+    },
+    {
+      "text": "tha,",
+      "start": 28.26,
+      "end": 28.4
+    },
+    {
+      "text": "isliye",
+      "start": 28.94,
+      "end": 29.24
+    },
+    {
+      "text": "maine",
+      "start": 29.24,
+      "end": 29.36
+    },
+    {
+      "text": "ek",
+      "start": 29.36,
+      "end": 29.7
+    },
+    {
+      "text": "app",
+      "start": 29.7,
+      "end": 29.98
+    },
+    {
+      "text": "banaya",
+      "start": 29.98,
+      "end": 30.5
+    },
+    {
+      "text": "jiske",
+      "start": 30.5,
+      "end": 30.92
+    },
+    {
+      "text": "through",
+      "start": 30.92,
+      "end": 31.02
+    },
+    {
+      "text": "teacher",
+      "start": 31.02,
+      "end": 31.42
+    },
+    {
+      "text": "ek",
+      "start": 31.42,
+      "end": 31.74
+    },
+    {
+      "text": "tap",
+      "start": 31.74,
+      "end": 31.96
+    },
+    {
+      "text": "mein",
+      "start": 31.96,
+      "end": 32.18
+    },
+    {
+      "text": "attendance",
+      "start": 32.18,
+      "end": 32.62
+    },
+    {
+      "text": "le",
+      "start": 32.62,
+      "end": 32.72
+    },
+    {
+      "text": "sakta",
+      "start": 32.72,
+      "end": 32.87
+    },
+    {
+      "text": "hai,",
+      "start": 32.87,
+      "end": 33.1
+    },
+    {
+      "text": "ab",
+      "start": 33.44,
+      "end": 33.64
+    },
+    {
+      "text": "hamaara",
+      "start": 33.64,
+      "end": 34.1
+    },
+    {
+      "text": "5",
+      "start": 34.32,
+      "end": 34.64
+    },
+    {
+      "text": "minute",
+      "start": 34.64,
+      "end": 34.95
+    },
+    {
+      "text": "bach",
+      "start": 34.95,
+      "end": 35.17
+    },
+    {
+      "text": "jaata",
+      "start": 35.17,
+      "end": 35.4
+    },
+    {
+      "text": "hai.",
+      "start": 35.4,
+      "end": 35.77
+    },
+    {
+      "text": "Ab",
+      "start": 36.57,
+      "end": 36.86
+    },
+    {
+      "text": "is",
+      "start": 36.86,
+      "end": 37.14
+    },
+    {
+      "text": "se",
+      "start": 37.14,
+      "end": 37.46
+    },
+    {
+      "text": "sunne",
+      "start": 37.46,
+      "end": 37.98
+    },
+    {
+      "text": "waale",
+      "start": 37.98,
+      "end": 38.2
+    },
+    {
+      "text": "ko",
+      "start": 38.2,
+      "end": 38.34
+    },
+    {
+      "text": "bhi",
+      "start": 38.34,
+      "end": 38.44
+    },
+    {
+      "text": "clarity",
+      "start": 38.44,
+      "end": 38.88
+    },
+    {
+      "text": "hai.",
+      "start": 38.88,
+      "end": 39.02
+    },
+    {
+      "text": "Aur",
+      "start": 39.02,
+      "end": 39.42
+    },
+    {
+      "text": "sunne",
+      "start": 39.42,
+      "end": 39.84
+    },
+    {
+      "text": "waala",
+      "start": 39.84,
+      "end": 40.1
+    },
+    {
+      "text": "yeh",
+      "start": 40.1,
+      "end": 40.26
+    },
+    {
+      "text": "samajh",
+      "start": 40.26,
+      "end": 40.52
+    },
+    {
+      "text": "jaayega",
+      "start": 40.52,
+      "end": 40.72
+    },
+    {
+      "text": "ki",
+      "start": 40.72,
+      "end": 40.84
+    },
+    {
+      "text": "is",
+      "start": 40.84,
+      "end": 41.04
+    },
+    {
+      "text": "mein",
+      "start": 41.04,
+      "end": 41.14
+    },
+    {
+      "text": "aapki",
+      "start": 41.14,
+      "end": 41.44
+    },
+    {
+      "text": "soch",
+      "start": 41.44,
+      "end": 41.74
+    },
+    {
+      "text": "kahaan",
+      "start": 41.74,
+      "end": 42.0
+    },
+    {
+      "text": "lie",
+      "start": 41.96,
+      "end": 42.1
+    },
+    {
+      "text": "karti",
+      "start": 42.1,
+      "end": 42.21
+    },
+    {
+      "text": "hai.",
+      "start": 42.21,
+      "end": 42.55
+    },
+    {
+      "text": "Aap",
+      "start": 43.31,
+      "end": 43.76
+    },
+    {
+      "text": "apne",
+      "start": 43.76,
+      "end": 44.04
+    },
+    {
+      "text": "project",
+      "start": 44.04,
+      "end": 44.38
+    },
+    {
+      "text": "ka",
+      "start": 44.38,
+      "end": 44.66
+    },
+    {
+      "text": "answer",
+      "start": 44.66,
+      "end": 45.02
+    },
+    {
+      "text": "comments",
+      "start": 45.02,
+      "end": 45.32
+    },
+    {
+      "text": "mein",
+      "start": 45.32,
+      "end": 45.4
+    },
+    {
+      "text": "likhein.",
+      "start": 45.4,
+      "end": 45.88
+    },
+    {
+      "text": "Aur",
+      "start": 46.08,
+      "end": 46.22
+    },
+    {
+      "text": "agar",
+      "start": 46.22,
+      "end": 46.4
+    },
+    {
+      "text": "aapko",
+      "start": 46.4,
+      "end": 46.6
+    },
+    {
+      "text": "improve",
+      "start": 46.6,
+      "end": 46.94
+    },
+    {
+      "text": "karna",
+      "start": 46.94,
+      "end": 47.22
+    },
+    {
+      "text": "hai",
+      "start": 47.22,
+      "end": 47.44
+    },
+    {
+      "text": "toh",
+      "start": 47.44,
+      "end": 47.5
+    },
+    {
+      "text": "go",
+      "start": 47.5,
+      "end": 47.72
+    },
+    {
+      "text": "on",
+      "start": 47.64,
+      "end": 47.86
+    },
+    {
+      "text": "niolearn.com",
+      "start": 48.19,
+      "end": 48.98
+    }
+  ]
+}

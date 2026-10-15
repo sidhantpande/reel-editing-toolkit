@@ -1,0 +1,88 @@
+{
+  "id": "niolearn-19",
+  "brand": "niolearn",
+  "status": "edited-awaiting-user-review",
+  "sourceClips": [
+    "media/raw/niolearn/niolearn-19/IMG_5963.mov"
+  ],
+  "format": "REEL",
+  "captionPreset": "reference",
+  "broll": [
+    {
+      "kind": "nio-project-phone",
+      "duration": 98,
+      "fadeFrames": 8,
+      "from": 44
+    },
+    {
+      "kind": "nio-project-structure",
+      "duration": 150,
+      "fadeFrames": 8,
+      "from": 301
+    },
+    {
+      "kind": "nio-project-attendance",
+      "duration": 334,
+      "fadeFrames": 8,
+      "from": 511
+    }
+  ],
+  "notes": [
+    "Source script timings are estimates. Match recorded dialogue before final captions.",
+    "Review all fact placeholders before final export.",
+    "Same broad theme also appears in script 46; this take matches script 19 scene details."
+  ],
+  "takes": [
+    {
+      "project": "niolearn-19",
+      "brand": "niolearn",
+      "file": "IMG_5963.mov",
+      "path": "media/raw/niolearn/niolearn-19/IMG_5963.mov",
+      "role": "main",
+      "confidence": "high",
+      "evidence": "Weak app answer lists login/database/buttons; better problem, approach, decision, outcome; school register example.",
+      "edit_note": "Same broad theme also appears in script 46; this take matches script 19 scene details.",
+      "asr_draft": ".cache/transcripts-en/IMG_5963.json"
+    }
+  ],
+  "captionBeats": [
+    "Problem",
+    "Approach",
+    "Decision",
+    "Outcome"
+  ],
+  "suggestedBroll": [
+    {
+      "spokenAnchor": "When weak and stronger answers are contrasted",
+      "composition": "Broll-compare",
+      "asset": "public/assets/broll/niolearn-compare.webm",
+      "timingStatus": "Resolve against edited recording; no frame cue assigned"
+    },
+    {
+      "spokenAnchor": "On a more efficient school workflow",
+      "composition": "Broll-lead-flow",
+      "asset": "public/assets/broll/niolearn-lead-flow.webm",
+      "timingStatus": "Resolve against edited recording; no frame cue assigned"
+    }
+  ],
+  "soundDirection": {
+    "music": "calm-focus",
+    "voicePriority": true,
+    "sfx": [
+      "soft-whoosh at a major graphic reveal",
+      "soft-tick only for a real timer"
+    ],
+    "avoid": "A sound effect on every caption word"
+  },
+  "creativeNote": "Any app demo is illustrative. Avoid presenting the example timing as a verified student outcome.",
+  "visualDirection": "light-editorial-v3",
+  "preferredPremiumScene": {
+    "composition": "Premium-paper-pathways",
+    "kind": "paper-pathways",
+    "asset": "public/assets/broll/niolearn-premium-paper-pathways-v3.webm",
+    "source": "src/premium/PaperScene.tsx",
+    "note": "Use opaque paper scenes for full B-roll; alpha versions are reusable overlays. Functional first-generation diagrams can be restyled as needed."
+  },
+  "output": "deliverables/niolearn/NIOLEARN_07_Project_Answer_v1.mp4",
+  "finalQA": "analysis/final-qa.json"
+}

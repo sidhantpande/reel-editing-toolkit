@@ -1,0 +1,570 @@
+{
+  "status": "Reviewed source with independent English-language alignment of complete project example; preserve have done uncut",
+  "words": [
+    {
+      "text": "Interview",
+      "start": 0.69,
+      "end": 1.17
+    },
+    {
+      "text": "ke",
+      "start": 1.17,
+      "end": 1.27
+    },
+    {
+      "text": "intro",
+      "start": 1.27,
+      "end": 1.47
+    },
+    {
+      "text": "mein",
+      "start": 1.47,
+      "end": 1.79
+    },
+    {
+      "text": "kya",
+      "start": 2.09,
+      "end": 2.39
+    },
+    {
+      "text": "bolna",
+      "start": 2.39,
+      "end": 2.69
+    },
+    {
+      "text": "hai?",
+      "start": 2.69,
+      "end": 2.79
+    },
+    {
+      "text": "Teen",
+      "start": 3.15,
+      "end": 3.39
+    },
+    {
+      "text": "aise",
+      "start": 3.39,
+      "end": 3.67
+    },
+    {
+      "text": "openers",
+      "start": 3.67,
+      "end": 4.13
+    },
+    {
+      "text": "jo",
+      "start": 4.13,
+      "end": 4.23
+    },
+    {
+      "text": "ki",
+      "start": 4.23,
+      "end": 4.43
+    },
+    {
+      "text": "My",
+      "start": 4.43,
+      "end": 4.77
+    },
+    {
+      "text": "name",
+      "start": 4.77,
+      "end": 4.93
+    },
+    {
+      "text": "is",
+      "start": 4.93,
+      "end": 5.09
+    },
+    {
+      "text": "se",
+      "start": 5.09,
+      "end": 5.55
+    },
+    {
+      "text": "zyada",
+      "start": 5.55,
+      "end": 5.85
+    },
+    {
+      "text": "strong",
+      "start": 5.85,
+      "end": 6.04
+    },
+    {
+      "text": "hain.",
+      "start": 6.04,
+      "end": 6.12
+    },
+    {
+      "text": "Pehla,",
+      "start": 6.75,
+      "end": 7.09
+    },
+    {
+      "text": "apni",
+      "start": 7.47,
+      "end": 7.81
+    },
+    {
+      "text": "problem",
+      "start": 7.81,
+      "end": 8.17
+    },
+    {
+      "text": "batao,",
+      "start": 8.17,
+      "end": 8.54
+    },
+    {
+      "text": "ki",
+      "start": 8.73,
+      "end": 8.97
+    },
+    {
+      "text": "mujhe",
+      "start": 8.97,
+      "end": 9.23
+    },
+    {
+      "text": "hamesha",
+      "start": 9.23,
+      "end": 9.71
+    },
+    {
+      "text": "se",
+      "start": 9.71,
+      "end": 9.77
+    },
+    {
+      "text": "yeh",
+      "start": 9.77,
+      "end": 9.91
+    },
+    {
+      "text": "problem",
+      "start": 9.91,
+      "end": 10.23
+    },
+    {
+      "text": "aati",
+      "start": 10.23,
+      "end": 10.45
+    },
+    {
+      "text": "rahi",
+      "start": 10.45,
+      "end": 10.69
+    },
+    {
+      "text": "hai,",
+      "start": 10.69,
+      "end": 11.07
+    },
+    {
+      "text": "Taaki",
+      "start": 11.07,
+      "end": 11.31
+    },
+    {
+      "text": "interviewer",
+      "start": 11.31,
+      "end": 11.81
+    },
+    {
+      "text": "ko",
+      "start": 11.81,
+      "end": 11.85
+    },
+    {
+      "text": "samajh",
+      "start": 11.85,
+      "end": 12.02
+    },
+    {
+      "text": "aaye",
+      "start": 12.02,
+      "end": 12.17
+    },
+    {
+      "text": "ki",
+      "start": 12.17,
+      "end": 12.33
+    },
+    {
+      "text": "tumne",
+      "start": 12.33,
+      "end": 12.63
+    },
+    {
+      "text": "yahaan",
+      "start": 12.63,
+      "end": 12.93
+    },
+    {
+      "text": "pe",
+      "start": 12.93,
+      "end": 13.09
+    },
+    {
+      "text": "kyun",
+      "start": 13.09,
+      "end": 13.33
+    },
+    {
+      "text": "apply",
+      "start": 13.33,
+      "end": 13.71
+    },
+    {
+      "text": "kiya.",
+      "start": 13.33,
+      "end": 13.61
+    },
+    {
+      "text": "Doosra,",
+      "start": 14.27,
+      "end": 14.63
+    },
+    {
+      "text": "apne",
+      "start": 14.93,
+      "end": 15.15
+    },
+    {
+      "text": "kisi",
+      "start": 15.15,
+      "end": 15.39
+    },
+    {
+      "text": "project",
+      "start": 15.39,
+      "end": 15.73
+    },
+    {
+      "text": "ke",
+      "start": 15.73,
+      "end": 15.87
+    },
+    {
+      "text": "baare",
+      "start": 15.87,
+      "end": 16.09
+    },
+    {
+      "text": "batao,",
+      "start": 16.09,
+      "end": 16.19
+    },
+    {
+      "text": "ki",
+      "start": 16.43,
+      "end": 16.63
+    },
+    {
+      "text": "you",
+      "start": 16.630000000000003,
+      "end": 16.75
+    },
+    {
+      "text": "are",
+      "start": 16.75,
+      "end": 16.87
+    },
+    {
+      "text": "working",
+      "start": 16.87,
+      "end": 17.270000000000003
+    },
+    {
+      "text": "on",
+      "start": 17.270000000000003,
+      "end": 17.89
+    },
+    {
+      "text": "this",
+      "start": 17.89,
+      "end": 18.130000000000003
+    },
+    {
+      "text": "project",
+      "start": 18.130000000000003,
+      "end": 18.51
+    },
+    {
+      "text": "aur",
+      "start": 18.51,
+      "end": 18.810000000000002
+    },
+    {
+      "text": "you",
+      "start": 18.810000000000002,
+      "end": 18.950000000000003
+    },
+    {
+      "text": "have",
+      "start": 18.950000000000003,
+      "end": 19.17
+    },
+    {
+      "text": "done",
+      "start": 19.17,
+      "end": 19.37
+    },
+    {
+      "text": "this",
+      "start": 19.37,
+      "end": 19.61
+    },
+    {
+      "text": "project.",
+      "start": 19.61,
+      "end": 19.91
+    },
+    {
+      "text": "This",
+      "start": 20.28,
+      "end": 20.39
+    },
+    {
+      "text": "builds",
+      "start": 20.39,
+      "end": 20.77
+    },
+    {
+      "text": "your",
+      "start": 20.77,
+      "end": 21.17
+    },
+    {
+      "text": "interest.",
+      "start": 21.17,
+      "end": 21.54
+    },
+    {
+      "text": "Teesra,",
+      "start": 22.39,
+      "end": 22.81
+    },
+    {
+      "text": "curiosity",
+      "start": 23.23,
+      "end": 23.73
+    },
+    {
+      "text": "develop",
+      "start": 23.73,
+      "end": 23.95
+    },
+    {
+      "text": "karo,",
+      "start": 23.95,
+      "end": 24.35
+    },
+    {
+      "text": "ki",
+      "start": 24.57,
+      "end": 24.71
+    },
+    {
+      "text": "mujhe",
+      "start": 24.71,
+      "end": 25.07
+    },
+    {
+      "text": "jaanna",
+      "start": 25.07,
+      "end": 25.47
+    },
+    {
+      "text": "tha",
+      "start": 25.47,
+      "end": 25.61
+    },
+    {
+      "text": "ki",
+      "start": 25.61,
+      "end": 25.75
+    },
+    {
+      "text": "yeh",
+      "start": 25.75,
+      "end": 25.87
+    },
+    {
+      "text": "cheezein",
+      "start": 25.87,
+      "end": 26.17
+    },
+    {
+      "text": "kaise",
+      "start": 26.17,
+      "end": 26.49
+    },
+    {
+      "text": "kaam",
+      "start": 26.49,
+      "end": 26.69
+    },
+    {
+      "text": "karti",
+      "start": 26.69,
+      "end": 26.97
+    },
+    {
+      "text": "hain,",
+      "start": 26.97,
+      "end": 27.31
+    },
+    {
+      "text": "taaki",
+      "start": 27.31,
+      "end": 27.51
+    },
+    {
+      "text": "interviewer",
+      "start": 27.51,
+      "end": 27.89
+    },
+    {
+      "text": "ko",
+      "start": 27.89,
+      "end": 28.01
+    },
+    {
+      "text": "realise",
+      "start": 28.01,
+      "end": 28.35
+    },
+    {
+      "text": "ho,",
+      "start": 28.35,
+      "end": 28.47
+    },
+    {
+      "text": "ki",
+      "start": 28.47,
+      "end": 28.61
+    },
+    {
+      "text": "haan",
+      "start": 28.61,
+      "end": 29.15
+    },
+    {
+      "text": "kuch",
+      "start": 29.15,
+      "end": 29.33
+    },
+    {
+      "text": "jaanne",
+      "start": 29.33,
+      "end": 29.73
+    },
+    {
+      "text": "ke",
+      "start": 29.73,
+      "end": 29.83
+    },
+    {
+      "text": "liye",
+      "start": 29.83,
+      "end": 30.03
+    },
+    {
+      "text": "ho.",
+      "start": 30.03,
+      "end": 30.14
+    },
+    {
+      "text": "Save",
+      "start": 30.8,
+      "end": 31.09
+    },
+    {
+      "text": "karo",
+      "start": 31.09,
+      "end": 31.29
+    },
+    {
+      "text": "is",
+      "start": 31.29,
+      "end": 31.45
+    },
+    {
+      "text": "reel",
+      "start": 31.45,
+      "end": 31.65
+    },
+    {
+      "text": "ko",
+      "start": 31.65,
+      "end": 31.85
+    },
+    {
+      "text": "aur",
+      "start": 31.85,
+      "end": 32.07
+    },
+    {
+      "text": "apna",
+      "start": 32.45,
+      "end": 32.83
+    },
+    {
+      "text": "line",
+      "start": 32.83,
+      "end": 33.15
+    },
+    {
+      "text": "comment",
+      "start": 33.15,
+      "end": 33.47
+    },
+    {
+      "text": "mein",
+      "start": 33.47,
+      "end": 33.53
+    },
+    {
+      "text": "likho.",
+      "start": 33.53,
+      "end": 33.88
+    },
+    {
+      "text": "For",
+      "start": 34.13,
+      "end": 34.29
+    },
+    {
+      "text": "more",
+      "start": 34.29,
+      "end": 34.53
+    },
+    {
+      "text": "detailed",
+      "start": 34.53,
+      "end": 34.87
+    },
+    {
+      "text": "preparation,",
+      "start": 34.87,
+      "end": 35.48
+    },
+    {
+      "text": "go",
+      "start": 35.79,
+      "end": 35.97
+    },
+    {
+      "text": "on",
+      "start": 35.97,
+      "end": 36.19
+    },
+    {
+      "text": "niolearn.com",
+      "start": 36.19,
+      "end": 36.78
+    }
+  ]
+}

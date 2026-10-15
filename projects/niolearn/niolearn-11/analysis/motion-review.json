@@ -1,0 +1,180 @@
+[
+  {
+    "kind": "nio-project-structure",
+    "fromSeconds": 12.0,
+    "toSeconds": 18.366666666666667,
+    "lateFramePairs": [
+      {
+        "fromSeconds": 13.5,
+        "toSeconds": 14.0,
+        "meanPixelChange": 0.1862,
+        "changedPixelFraction": 0.01178
+      },
+      {
+        "fromSeconds": 14.0,
+        "toSeconds": 14.5,
+        "meanPixelChange": 0.1468,
+        "changedPixelFraction": 0.00958
+      },
+      {
+        "fromSeconds": 14.5,
+        "toSeconds": 15.0,
+        "meanPixelChange": 0.1433,
+        "changedPixelFraction": 0.01066
+      },
+      {
+        "fromSeconds": 15.0,
+        "toSeconds": 15.5,
+        "meanPixelChange": 0.1596,
+        "changedPixelFraction": 0.0107
+      },
+      {
+        "fromSeconds": 15.5,
+        "toSeconds": 16.0,
+        "meanPixelChange": 0.1865,
+        "changedPixelFraction": 0.01184
+      },
+      {
+        "fromSeconds": 16.0,
+        "toSeconds": 16.5,
+        "meanPixelChange": 0.3472,
+        "changedPixelFraction": 0.01353
+      },
+      {
+        "fromSeconds": 16.5,
+        "toSeconds": 17.0,
+        "meanPixelChange": 0.2905,
+        "changedPixelFraction": 0.01481
+      },
+      {
+        "fromSeconds": 17.0,
+        "toSeconds": 17.5,
+        "meanPixelChange": 0.3376,
+        "changedPixelFraction": 0.01607
+      },
+      {
+        "fromSeconds": 17.5,
+        "toSeconds": 18.0,
+        "meanPixelChange": 39.5853,
+        "changedPixelFraction": 0.92668
+      }
+    ],
+    "staticLatePairs": []
+  },
+  {
+    "kind": "nio-story-profile",
+    "fromSeconds": 20.633333333333333,
+    "toSeconds": 31.733333333333334,
+    "lateFramePairs": [
+      {
+        "fromSeconds": 22.0,
+        "toSeconds": 22.5,
+        "meanPixelChange": 0.5136,
+        "changedPixelFraction": 0.04562
+      },
+      {
+        "fromSeconds": 22.5,
+        "toSeconds": 23.0,
+        "meanPixelChange": 0.4988,
+        "changedPixelFraction": 0.04124
+      },
+      {
+        "fromSeconds": 23.0,
+        "toSeconds": 23.5,
+        "meanPixelChange": 0.4608,
+        "changedPixelFraction": 0.03785
+      },
+      {
+        "fromSeconds": 23.5,
+        "toSeconds": 24.0,
+        "meanPixelChange": 0.2574,
+        "changedPixelFraction": 0.02817
+      },
+      {
+        "fromSeconds": 24.0,
+        "toSeconds": 24.5,
+        "meanPixelChange": 0.4567,
+        "changedPixelFraction": 0.03734
+      },
+      {
+        "fromSeconds": 24.5,
+        "toSeconds": 25.0,
+        "meanPixelChange": 0.5018,
+        "changedPixelFraction": 0.04013
+      },
+      {
+        "fromSeconds": 25.0,
+        "toSeconds": 25.5,
+        "meanPixelChange": 2.7156,
+        "changedPixelFraction": 0.29871
+      },
+      {
+        "fromSeconds": 25.5,
+        "toSeconds": 26.0,
+        "meanPixelChange": 2.6769,
+        "changedPixelFraction": 0.29348
+      },
+      {
+        "fromSeconds": 26.0,
+        "toSeconds": 26.5,
+        "meanPixelChange": 1.0242,
+        "changedPixelFraction": 0.03694
+      },
+      {
+        "fromSeconds": 26.5,
+        "toSeconds": 27.0,
+        "meanPixelChange": 2.2338,
+        "changedPixelFraction": 0.04942
+      },
+      {
+        "fromSeconds": 27.0,
+        "toSeconds": 27.5,
+        "meanPixelChange": 2.3453,
+        "changedPixelFraction": 0.04278
+      },
+      {
+        "fromSeconds": 27.5,
+        "toSeconds": 28.0,
+        "meanPixelChange": 2.8188,
+        "changedPixelFraction": 0.04676
+      },
+      {
+        "fromSeconds": 28.0,
+        "toSeconds": 28.5,
+        "meanPixelChange": 2.6179,
+        "changedPixelFraction": 0.04327
+      },
+      {
+        "fromSeconds": 28.5,
+        "toSeconds": 29.0,
+        "meanPixelChange": 2.3438,
+        "changedPixelFraction": 0.03868
+      },
+      {
+        "fromSeconds": 29.0,
+        "toSeconds": 29.5,
+        "meanPixelChange": 1.9745,
+        "changedPixelFraction": 0.03743
+      },
+      {
+        "fromSeconds": 29.5,
+        "toSeconds": 30.0,
+        "meanPixelChange": 1.9952,
+        "changedPixelFraction": 0.0416
+      },
+      {
+        "fromSeconds": 30.0,
+        "toSeconds": 30.5,
+        "meanPixelChange": 2.4498,
+        "changedPixelFraction": 0.04686
+      },
+      {
+        "fromSeconds": 30.5,
+        "toSeconds": 31.0,
+        "meanPixelChange": 2.7475,
+        "changedPixelFraction": 0.05015
+      }
+    ],
+    "staticLatePairs": []
+  }
+]

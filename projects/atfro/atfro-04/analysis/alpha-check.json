@@ -1,0 +1,29 @@
+[
+  {
+    "asset": "public/assets/projects/atfro-04/atfro-school-film-v1.webm",
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "dimensions": [
+      1080,
+      1920
+    ]
+  },
+  {
+    "asset": "public/assets/projects/atfro-04/atfro-school-plan-v1.webm",
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "dimensions": [
+      1080,
+      1920
+    ]
+  },
+  {
+    "asset": "public/assets/projects/atfro-04/atfro-school-workflow-v1.webm",
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "dimensions": [
+      1080,
+      1920
+    ]
+  }
+]

@@ -1,0 +1,108 @@
+{
+  "id": "niolearn-recorded-admissions",
+  "fps": 30,
+  "dialogueFrames": 956,
+  "endHoldFrames": 45,
+  "totalFrames": 1001,
+  "cuts": [
+    {
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov",
+      "inFrame": 56,
+      "outFrame": 188,
+      "timelineFrom": 0,
+      "duration": 132,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "2027 hook and for-you line"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov",
+      "inFrame": 203,
+      "outFrame": 418,
+      "timelineFrom": 132,
+      "duration": 215,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Recorded cohort announcement"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov",
+      "inFrame": 426,
+      "outFrame": 518,
+      "timelineFrom": 347,
+      "duration": 92,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Live classes"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov",
+      "inFrame": 523,
+      "outFrame": 603,
+      "timelineFrom": 439,
+      "duration": 80,
+      "zoom": 1.6,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Mentorship and interviews"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov",
+      "inFrame": 609,
+      "outFrame": 677,
+      "timelineFrom": 519,
+      "duration": 68,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Mock lectures and tests"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov",
+      "inFrame": 682,
+      "outFrame": 786,
+      "timelineFrom": 587,
+      "duration": 104,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Expert guidance"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov",
+      "inFrame": 969,
+      "outFrame": 1064,
+      "timelineFrom": 691,
+      "duration": 95,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Use complete replacement dont-wait line; omit earlier repeated version"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov",
+      "inFrame": 1074,
+      "outFrame": 1187,
+      "timelineFrom": 786,
+      "duration": 113,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Website register CTA"
+    },
+    {
+      "source": "media/raw/niolearn/niolearn-recorded-admissions/IMG_5990.mov",
+      "inFrame": 1195,
+      "outFrame": 1252,
+      "timelineFrom": 899,
+      "duration": 57,
+      "zoom": 1.62,
+      "cropX": 0.4,
+      "cropY": 0.9,
+      "reason": "Opportunity closing; retain a short tail after the final spoken word"
+    }
+  ]
+}

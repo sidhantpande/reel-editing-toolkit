@@ -1,0 +1,5 @@
+{
+  "revision": 3,
+  "filter": "eq=contrast=1.04:saturation=0.98:gamma=1.015:brightness=-0.008",
+  "intent": "Subtle contrast and midtone balance, natural skin and neutral ivory. No heavy LUT."
+}

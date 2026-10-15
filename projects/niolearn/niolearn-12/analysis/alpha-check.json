@@ -1,0 +1,29 @@
+[
+  {
+    "asset": "public/assets/projects/niolearn-12/nio-intro-problem-v1.webm",
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "dimensions": [
+      1080,
+      1920
+    ]
+  },
+  {
+    "asset": "public/assets/projects/niolearn-12/nio-intro-project-v1.webm",
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "dimensions": [
+      1080,
+      1920
+    ]
+  },
+  {
+    "asset": "public/assets/projects/niolearn-12/nio-intro-curiosity-v1.webm",
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "dimensions": [
+      1080,
+      1920
+    ]
+  }
+]
