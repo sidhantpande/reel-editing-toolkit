@@ -3934,8 +3934,8 @@
     },
     {
       "path": "tools/bootstrap.sh",
-      "bytes": 1363,
-      "sha256": "da4f9bb9534a437ed796b06857fb1818389f0187f1434901fab8b3f1cc3a1613"
+      "bytes": 1430,
+      "sha256": "d514757d96944f4d9fe9736bbfd6a607810230adf9586ec01c3fe335415907fd"
     },
     {
       "path": "tools/build_assets.py",

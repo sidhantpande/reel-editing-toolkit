@@ -18,4 +18,4 @@ python3 -m venv .venv
 # Download the compatible headless runtime only when no desktop Chrome is present.
 if [ ! -x '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome' ]; then npx remotion browser ensure; fi
 .venv/bin/python tools/doctor.py
-printf '\nReady: npm run studio\nRaw media is local; restore separately using catalog/media-originals.json.\n'
+printf '\nReady: python3 tools/reelctl.py assets --query clock\nAI workflow: docs/AI_WORKFLOW.md\nRaw/final client media is excluded; supply new recordings with reelctl init.\n'
