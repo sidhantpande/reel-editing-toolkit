@@ -1,0 +1,1929 @@
+{
+  "status": "PAUSE_TRIMMED_WORD_ALIGNMENT_REVIEW",
+  "fps": 30,
+  "duration_seconds": 50.0,
+  "previous_duration": 59.4,
+  "removed_seconds": 9.4,
+  "segments": [
+    {
+      "id": "opening",
+      "clip_id": "clip-9b1ffa3f52e95593",
+      "source": "/Users/sidhant/Desktop/Editing/Reel-07/DJI_20261004204739_0093_D.MP4",
+      "source_in": 2.0069999999999997,
+      "source_out": 2.7736666666666663,
+      "timeline_in": 0,
+      "timeline_out": 0.7666666666666667,
+      "crop_xywh": {
+        "x": 270,
+        "y": 520,
+        "width": 1188,
+        "height": 2112
+      },
+      "note": "Kaalratri / darkness and fear reference",
+      "source_id": "0093"
+    },
+    {
+      "id": "opening",
+      "clip_id": "clip-9b1ffa3f52e95593",
+      "source": "/Users/sidhant/Desktop/Editing/Reel-07/DJI_20261004204739_0093_D.MP4",
+      "source_in": 3.5749999999999997,
+      "source_out": 4.641666666666667,
+      "timeline_in": 0.7666666666666667,
+      "timeline_out": 1.8333333333333335,
+      "crop_xywh": {
+        "x": 270,
+        "y": 520,
+        "width": 1188,
+        "height": 2112
+      },
+      "note": "Kaalratri / darkness and fear reference",
+      "source_id": "0093"
+    },
+    {
+      "id": "opening",
+      "clip_id": "clip-9b1ffa3f52e95593",
+      "source": "/Users/sidhant/Desktop/Editing/Reel-07/DJI_20261004204739_0093_D.MP4",
+      "source_in": 5.4944999999999995,
+      "source_out": 6.927833333333333,
+      "timeline_in": 1.8333333333333335,
+      "timeline_out": 3.2666666666666666,
+      "crop_xywh": {
+        "x": 270,
+        "y": 520,
+        "width": 1188,
+        "height": 2112
+      },
+      "note": "Kaalratri / darkness and fear reference",
+      "source_id": "0093"
+    },
+    {
+      "id": "opening",
+      "clip_id": "clip-9b1ffa3f52e95593",
+      "source": "/Users/sidhant/Desktop/Editing/Reel-07/DJI_20261004204739_0093_D.MP4",
+      "source_in": 7.927,
+      "source_out": 10.893666666666666,
+      "timeline_in": 3.2666666666666666,
+      "timeline_out": 6.233333333333333,
+      "crop_xywh": {
+        "x": 270,
+        "y": 520,
+        "width": 1188,
+        "height": 2112
+      },
+      "note": "Kaalratri / darkness and fear reference",
+      "source_id": "0093"
+    },
+    {
+      "id": "opening",
+      "clip_id": "clip-9b1ffa3f52e95593",
+      "source": "/Users/sidhant/Desktop/Editing/Reel-07/DJI_20261004204739_0093_D.MP4",
+      "source_in": 11.639,
+      "source_out": 14.005666666666666,
+      "timeline_in": 6.233333333333333,
+      "timeline_out": 8.6,
+      "crop_xywh": {
+        "x": 270,
+        "y": 520,
+        "width": 1188,
+        "height": 2112
+      },
+      "note": "Kaalratri / darkness and fear reference",
+      "source_id": "0093"
+    },
+    {
+      "id": "missing-tooth-hook",
+      "clip_id": "clip-9b1ffa3f52e95593",
+      "source": "/Users/sidhant/Desktop/Editing/Reel-07/DJI_20261004204739_0093_D.MP4",
+      "source_in": 15.543,
+      "source_out": 16.609666666666666,
+      "timeline_in": 8.6,
+      "timeline_out": 9.666666666666666,
+      "crop_xywh": {
+        "x": 270,
+        "y": 520,
+        "width": 1188,
+        "height": 2112
+      },
+      "note": "Missing tooth does not mean the story is over",
+      "source_id": "0093"
+    },
+    {
+      "id": "missing-tooth-hook",
+      "clip_id": "clip-9b1ffa3f52e95593",
+      "source": "/Users/sidhant/Desktop/Editing/Reel-07/DJI_20261004204739_0093_D.MP4",
+      "source_in": 16.951,
+      "source_out": 18.284333333333333,
+      "timeline_in": 9.666666666666666,
+      "timeline_out": 11.0,
+      "crop_xywh": {
+        "x": 270,
+        "y": 520,
+        "width": 1188,
+        "height": 2112
+      },
+      "note": "Missing tooth does not mean the story is over",
+      "source_id": "0093"
+    },
+    {
+      "id": "missing-tooth-hook",
+      "clip_id": "clip-9b1ffa3f52e95593",
+      "source": "/Users/sidhant/Desktop/Editing/Reel-07/DJI_20261004204739_0093_D.MP4",
+      "source_in": 18.861875,
+      "source_out": 20.02854166666667,
+      "timeline_in": 11.0,
+      "timeline_out": 12.166666666666666,
+      "crop_xywh": {
+        "x": 270,
+        "y": 520,
+        "width": 1188,
+        "height": 2112
+      },
+      "note": "Missing tooth does not mean the story is over",
+      "source_id": "0093"
+    },
+    {
+      "id": "missing-tooth-hook",
+      "clip_id": "clip-9b1ffa3f52e95593",
+      "source": "/Users/sidhant/Desktop/Editing/Reel-07/DJI_20261004204739_0093_D.MP4",
+      "source_in": 20.887,
+      "source_out": 22.520333333333333,
+      "timeline_in": 12.166666666666666,
+      "timeline_out": 13.799999999999999,
+      "crop_xywh": {
+        "x": 270,
+        "y": 520,
+        "width": 1188,
+        "height": 2112
+      },
+      "note": "Missing tooth does not mean the story is over",
+      "source_id": "0093"
+    },
+    {
+      "id": "implant",
+      "clip_id": "clip-d2ae4e83f489f13d",
+      "source": "/Users/sidhant/Desktop/Editing/Reel-07/DJI_20261004205445_0096_D.MP4",
+      "source_in": 0.0,
+      "source_out": 0.3,
+      "timeline_in": 13.799999999999999,
+      "timeline_out": 14.1,
+      "crop_xywh": {
+        "x": 249,
+        "y": 1344,
+        "width": 972,
+        "height": 1728
+      },
+      "note": "Implant explanation",
+      "source_id": "0096"
+    },
+    {
+      "id": "implant",
+      "clip_id": "clip-d2ae4e83f489f13d",
+      "source": "/Users/sidhant/Desktop/Editing/Reel-07/DJI_20261004205445_0096_D.MP4",
+      "source_in": 0.599,
+      "source_out": 10.132333333333333,
+      "timeline_in": 14.1,
+      "timeline_out": 23.633333333333333,
+      "crop_xywh": {
+        "x": 249,
+        "y": 1344,
+        "width": 972,
+        "height": 1728
+      },
+      "note": "Implant explanation",
+      "source_id": "0096"
+    },
+    {
+      "id": "bridge",
+      "clip_id": "clip-d2ae4e83f489f13d",
+      "source": "/Users/sidhant/Desktop/Editing/Reel-07/DJI_20261004205445_0096_D.MP4",
+      "source_in": 10.55,
+      "source_out": 24.25,
+      "timeline_in": 23.633333333333333,
+      "timeline_out": 37.33333333333333,
+      "crop_xywh": {
+        "x": 249,
+        "y": 1344,
+        "width": 972,
+        "height": 1728
+      },
+      "note": "Bridge explanation; retain the multiple-bridge qualification",
+      "source_id": "0096"
+    },
+    {
+      "id": "removable",
+      "clip_id": "clip-d2ae4e83f489f13d",
+      "source": "/Users/sidhant/Desktop/Editing/Reel-07/DJI_20261004205445_0096_D.MP4",
+      "source_in": 25.5,
+      "source_out": 29.433333333333334,
+      "timeline_in": 37.33333333333333,
+      "timeline_out": 41.26666666666666,
+      "crop_xywh": {
+        "x": 249,
+        "y": 1344,
+        "width": 972,
+        "height": 1728
+      },
+      "note": "Removable option qualification",
+      "source_id": "0096"
+    },
+    {
+      "id": "removable",
+      "clip_id": "clip-d2ae4e83f489f13d",
+      "source": "/Users/sidhant/Desktop/Editing/Reel-07/DJI_20261004205445_0096_D.MP4",
+      "source_in": 29.719,
+      "source_out": 31.052333333333333,
+      "timeline_in": 41.26666666666666,
+      "timeline_out": 42.599999999999994,
+      "crop_xywh": {
+        "x": 249,
+        "y": 1344,
+        "width": 972,
+        "height": 1728
+      },
+      "note": "Removable option qualification",
+      "source_id": "0096"
+    },
+    {
+      "id": "closing",
+      "clip_id": "clip-66fccec784f24470",
+      "source": "/Users/sidhant/Desktop/Editing/Reel-07/DJI_20261004205533_0097_D.MP4",
+      "source_in": 0.0,
+      "source_out": 0.7333333333333333,
+      "timeline_in": 42.599999999999994,
+      "timeline_out": 43.33333333333333,
+      "crop_xywh": {
+        "x": 249,
+        "y": 1344,
+        "width": 972,
+        "height": 1728
+      },
+      "note": "Instagram versus clinical condition closing",
+      "source_id": "0097"
+    },
+    {
+      "id": "closing",
+      "clip_id": "clip-66fccec784f24470",
+      "source": "/Users/sidhant/Desktop/Editing/Reel-07/DJI_20261004205533_0097_D.MP4",
+      "source_in": 1.655,
+      "source_out": 2.6550000000000002,
+      "timeline_in": 43.33333333333333,
+      "timeline_out": 44.33333333333333,
+      "crop_xywh": {
+        "x": 249,
+        "y": 1344,
+        "width": 972,
+        "height": 1728
+      },
+      "note": "Instagram versus clinical condition closing",
+      "source_id": "0097"
+    },
+    {
+      "id": "closing",
+      "clip_id": "clip-66fccec784f24470",
+      "source": "/Users/sidhant/Desktop/Editing/Reel-07/DJI_20261004205533_0097_D.MP4",
+      "source_in": 3.447,
+      "source_out": 9.113666666666667,
+      "timeline_in": 44.33333333333333,
+      "timeline_out": 49.99999999999999,
+      "crop_xywh": {
+        "x": 249,
+        "y": 1344,
+        "width": 972,
+        "height": 1728
+      },
+      "note": "Instagram versus clinical condition closing",
+      "source_id": "0097"
+    }
+  ],
+  "words": [
+    {
+      "text": "कालरात्रि",
+      "phrase_id": 0,
+      "source_id": "0093",
+      "source_start": 1.6,
+      "source_end": 4.4399999999999995,
+      "alignment_probability": 0.5736285073475705,
+      "start": 0,
+      "end": 1.6317
+    },
+    {
+      "text": "सबसे",
+      "phrase_id": 1,
+      "source_id": "0093",
+      "source_start": 5.449999999999999,
+      "source_end": 6.1,
+      "alignment_probability": 0.7737573564052582,
+      "start": 1.8333,
+      "end": 2.4388
+    },
+    {
+      "text": "fierce",
+      "phrase_id": 1,
+      "source_id": "0093",
+      "source_start": 6.1,
+      "source_end": 6.359999999999999,
+      "alignment_probability": 0.0002578012063167989,
+      "start": 2.4388,
+      "end": 2.6988
+    },
+    {
+      "text": "रूप",
+      "phrase_id": 1,
+      "source_id": "0093",
+      "source_start": 6.359999999999999,
+      "source_end": 6.84,
+      "alignment_probability": 0.4571967857967441,
+      "start": 2.6988,
+      "end": 3.1788
+    },
+    {
+      "text": "उनका",
+      "phrase_id": 2,
+      "source_id": "0093",
+      "source_start": 7.45,
+      "source_end": 8.35,
+      "alignment_probability": 0.6950321435928345,
+      "start": 3.2667,
+      "end": 3.6897
+    },
+    {
+      "text": "काम",
+      "phrase_id": 2,
+      "source_id": "0093",
+      "source_start": 8.35,
+      "source_end": 8.71,
+      "alignment_probability": 0.8814673026402792,
+      "start": 3.6897,
+      "end": 4.0497
+    },
+    {
+      "text": "है",
+      "phrase_id": 2,
+      "source_id": "0093",
+      "source_start": 8.71,
+      "source_end": 8.91,
+      "alignment_probability": 0.9464582204818726,
+      "start": 4.0497,
+      "end": 4.2497
+    },
+    {
+      "text": "अंधेरा",
+      "phrase_id": 3,
+      "source_id": "0093",
+      "source_start": 8.91,
+      "source_end": 9.65,
+      "alignment_probability": 0.5785801289603114,
+      "start": 4.2497,
+      "end": 4.9897
+    },
+    {
+      "text": "और",
+      "phrase_id": 3,
+      "source_id": "0093",
+      "source_start": 9.65,
+      "source_end": 10.17,
+      "alignment_probability": 0.6198584834734598,
+      "start": 4.9897,
+      "end": 5.5097
+    },
+    {
+      "text": "डर",
+      "phrase_id": 3,
+      "source_id": "0093",
+      "source_start": 10.17,
+      "source_end": 10.25,
+      "alignment_probability": 0.13013300175468126,
+      "start": 5.5097,
+      "end": 5.5897
+    },
+    {
+      "text": "मिटाना",
+      "phrase_id": 3,
+      "source_id": "0093",
+      "source_start": 10.25,
+      "source_end": 10.73,
+      "alignment_probability": 0.7275949759142739,
+      "start": 5.5897,
+      "end": 6.0697
+    },
+    {
+      "text": "आज",
+      "phrase_id": 4,
+      "source_id": "0093",
+      "source_start": 11.38,
+      "source_end": 12.030000000000001,
+      "alignment_probability": 0.5885446071624756,
+      "start": 6.2333,
+      "end": 6.6243
+    },
+    {
+      "text": "हम",
+      "phrase_id": 4,
+      "source_id": "0093",
+      "source_start": 12.030000000000001,
+      "source_end": 12.350000000000001,
+      "alignment_probability": 0.7023734450340271,
+      "start": 6.6243,
+      "end": 6.9443
+    },
+    {
+      "text": "एक",
+      "phrase_id": 5,
+      "source_id": "0093",
+      "source_start": 12.350000000000001,
+      "source_end": 12.73,
+      "alignment_probability": 0.8558986385663351,
+      "start": 6.9443,
+      "end": 7.3243
+    },
+    {
+      "text": "डर",
+      "phrase_id": 5,
+      "source_id": "0093",
+      "source_start": 12.73,
+      "source_end": 13.11,
+      "alignment_probability": 0.6236756119251368,
+      "start": 7.3243,
+      "end": 7.7043
+    },
+    {
+      "text": "मिटाते",
+      "phrase_id": 5,
+      "source_id": "0093",
+      "source_start": 13.11,
+      "source_end": 13.65,
+      "alignment_probability": 0.9154449105262756,
+      "start": 7.7043,
+      "end": 8.2443
+    },
+    {
+      "text": "हैं",
+      "phrase_id": 5,
+      "source_id": "0093",
+      "source_start": 13.65,
+      "source_end": 13.91,
+      "alignment_probability": 0.8914759953816732,
+      "start": 8.2443,
+      "end": 8.5043
+    },
+    {
+      "text": "दाँत",
+      "phrase_id": 6,
+      "source_id": "0093",
+      "source_start": 15.37,
+      "source_end": 16.02,
+      "alignment_probability": 0.511194002329527,
+      "start": 8.6,
+      "end": 9.077
+    },
+    {
+      "text": "नहीं",
+      "phrase_id": 6,
+      "source_id": "0093",
+      "source_start": 16.35,
+      "source_end": 17.0,
+      "alignment_probability": 0.9322357892990112,
+      "start": 9.407,
+      "end": 9.7157
+    },
+    {
+      "text": "मतलब",
+      "phrase_id": 7,
+      "source_id": "0093",
+      "source_start": 17.0,
+      "source_end": 17.36,
+      "alignment_probability": 0.3958626314997673,
+      "start": 9.7157,
+      "end": 10.0757
+    },
+    {
+      "text": "कहानी",
+      "phrase_id": 7,
+      "source_id": "0093",
+      "source_start": 17.36,
+      "source_end": 17.72,
+      "alignment_probability": 0.8000567197799683,
+      "start": 10.0757,
+      "end": 10.4357
+    },
+    {
+      "text": "खत्म",
+      "phrase_id": 7,
+      "source_id": "0093",
+      "source_start": 17.72,
+      "source_end": 18.060000000000002,
+      "alignment_probability": 0.48148255348205565,
+      "start": 10.4357,
+      "end": 10.7757
+    },
+    {
+      "text": "ऐसा",
+      "phrase_id": 8,
+      "source_id": "0093",
+      "source_start": 18.630000000000003,
+      "source_end": 19.28,
+      "alignment_probability": 0.4948101006448269,
+      "start": 11.0,
+      "end": 11.4181
+    },
+    {
+      "text": "नहीं",
+      "phrase_id": 8,
+      "source_id": "0093",
+      "source_start": 19.28,
+      "source_end": 20.2,
+      "alignment_probability": 0.9610267758369446,
+      "start": 11.4181,
+      "end": 12.1667
+    },
+    {
+      "text": "है",
+      "phrase_id": 8,
+      "source_id": "0093",
+      "source_start": 20.2,
+      "source_end": 20.2,
+      "alignment_probability": 0.9525733292102814,
+      "start": 12.1667,
+      "end": 12.2017
+    },
+    {
+      "text": "उसके",
+      "phrase_id": 9,
+      "source_id": "0093",
+      "source_start": 20.57,
+      "source_end": 21.22,
+      "alignment_probability": 0.7139781713485718,
+      "start": 12.2017,
+      "end": 12.4997
+    },
+    {
+      "text": "solutions",
+      "phrase_id": 9,
+      "source_id": "0093",
+      "source_start": 21.22,
+      "source_end": 21.6,
+      "alignment_probability": 0.0024674597661942244,
+      "start": 12.4997,
+      "end": 12.8797
+    },
+    {
+      "text": "भी",
+      "phrase_id": 9,
+      "source_id": "0093",
+      "source_start": 21.6,
+      "source_end": 22.04,
+      "alignment_probability": 0.8893111944198608,
+      "start": 12.8797,
+      "end": 13.3197
+    },
+    {
+      "text": "हैं",
+      "phrase_id": 9,
+      "source_id": "0093",
+      "source_start": 22.04,
+      "source_end": 22.48,
+      "alignment_probability": 0.8174505035082499,
+      "start": 13.3197,
+      "end": 13.7597
+    },
+    {
+      "text": "एक",
+      "phrase_id": 10,
+      "source_id": "0096",
+      "source_start": 0.0,
+      "source_end": 0.9,
+      "alignment_probability": 0.6269194434086481,
+      "start": 13.8,
+      "end": 14.401
+    },
+    {
+      "text": "option",
+      "phrase_id": 10,
+      "source_id": "0096",
+      "source_start": 0.9,
+      "source_end": 1.14,
+      "alignment_probability": 0.30776503682136536,
+      "start": 14.401,
+      "end": 14.641
+    },
+    {
+      "text": "होता",
+      "phrase_id": 10,
+      "source_id": "0096",
+      "source_start": 1.14,
+      "source_end": 1.52,
+      "alignment_probability": 0.7299242168664932,
+      "start": 14.641,
+      "end": 15.021
+    },
+    {
+      "text": "है",
+      "phrase_id": 10,
+      "source_id": "0096",
+      "source_start": 1.52,
+      "source_end": 1.62,
+      "alignment_probability": 0.9093978106975555,
+      "start": 15.021,
+      "end": 15.121
+    },
+    {
+      "text": "implant",
+      "phrase_id": 11,
+      "source_id": "0096",
+      "source_start": 1.62,
+      "source_end": 1.92,
+      "alignment_probability": 0.000690740009304136,
+      "start": 15.121,
+      "end": 15.421
+    },
+    {
+      "text": "implant",
+      "phrase_id": 12,
+      "source_id": "0096",
+      "source_start": 1.92,
+      "source_end": 2.8,
+      "alignment_probability": 0.3487391173839569,
+      "start": 15.421,
+      "end": 16.301
+    },
+    {
+      "text": "को",
+      "phrase_id": 12,
+      "source_id": "0096",
+      "source_start": 2.8,
+      "source_end": 3.32,
+      "alignment_probability": 0.6340721696615219,
+      "start": 16.301,
+      "end": 16.821
+    },
+    {
+      "text": "हम",
+      "phrase_id": 12,
+      "source_id": "0096",
+      "source_start": 3.32,
+      "source_end": 3.54,
+      "alignment_probability": 0.6341623365879059,
+      "start": 16.821,
+      "end": 17.041
+    },
+    {
+      "text": "उसके",
+      "phrase_id": 13,
+      "source_id": "0096",
+      "source_start": 3.54,
+      "source_end": 3.84,
+      "alignment_probability": 0.8653234362602233,
+      "start": 17.041,
+      "end": 17.341
+    },
+    {
+      "text": "neighbouring",
+      "phrase_id": 13,
+      "source_id": "0096",
+      "source_start": 3.84,
+      "source_end": 4.26,
+      "alignment_probability": 0.5219263881444931,
+      "start": 17.341,
+      "end": 17.761
+    },
+    {
+      "text": "tooth",
+      "phrase_id": 13,
+      "source_id": "0096",
+      "source_start": 4.26,
+      "source_end": 4.56,
+      "alignment_probability": 0.2980170039459911,
+      "start": 17.761,
+      "end": 18.061
+    },
+    {
+      "text": "को",
+      "phrase_id": 13,
+      "source_id": "0096",
+      "source_start": 4.56,
+      "source_end": 4.84,
+      "alignment_probability": 0.8956553637981415,
+      "start": 18.061,
+      "end": 18.341
+    },
+    {
+      "text": "disturb",
+      "phrase_id": 14,
+      "source_id": "0096",
+      "source_start": 4.84,
+      "source_end": 5.4,
+      "alignment_probability": 0.6093186736106873,
+      "start": 18.341,
+      "end": 18.901
+    },
+    {
+      "text": "किए",
+      "phrase_id": 14,
+      "source_id": "0096",
+      "source_start": 5.4,
+      "source_end": 5.8,
+      "alignment_probability": 0.36960322223603725,
+      "start": 18.901,
+      "end": 19.301
+    },
+    {
+      "text": "बिना",
+      "phrase_id": 14,
+      "source_id": "0096",
+      "source_start": 5.8,
+      "source_end": 6.12,
+      "alignment_probability": 0.7845527946949005,
+      "start": 19.301,
+      "end": 19.621
+    },
+    {
+      "text": "independently",
+      "phrase_id": 15,
+      "source_id": "0096",
+      "source_start": 6.12,
+      "source_end": 6.74,
+      "alignment_probability": 0.9589318037033081,
+      "start": 19.621,
+      "end": 20.241
+    },
+    {
+      "text": "implant",
+      "phrase_id": 16,
+      "source_id": "0096",
+      "source_start": 6.74,
+      "source_end": 7.36,
+      "alignment_probability": 0.9820271134376526,
+      "start": 20.241,
+      "end": 20.861
+    },
+    {
+      "text": "place",
+      "phrase_id": 16,
+      "source_id": "0096",
+      "source_start": 7.36,
+      "source_end": 7.7,
+      "alignment_probability": 0.7009133100509644,
+      "start": 20.861,
+      "end": 21.201
+    },
+    {
+      "text": "करके",
+      "phrase_id": 16,
+      "source_id": "0096",
+      "source_start": 7.7,
+      "source_end": 8.12,
+      "alignment_probability": 0.731455460190773,
+      "start": 21.201,
+      "end": 21.621
+    },
+    {
+      "text": "उसके",
+      "phrase_id": 17,
+      "source_id": "0096",
+      "source_start": 8.12,
+      "source_end": 8.44,
+      "alignment_probability": 0.7283267319202423,
+      "start": 21.621,
+      "end": 21.941
+    },
+    {
+      "text": "ऊपर",
+      "phrase_id": 17,
+      "source_id": "0096",
+      "source_start": 8.44,
+      "source_end": 8.74,
+      "alignment_probability": 0.524596297449898,
+      "start": 21.941,
+      "end": 22.241
+    },
+    {
+      "text": "हम",
+      "phrase_id": 17,
+      "source_id": "0096",
+      "source_start": 8.74,
+      "source_end": 8.92,
+      "alignment_probability": 0.4781222976744175,
+      "start": 22.241,
+      "end": 22.421
+    },
+    {
+      "text": "दाँत",
+      "phrase_id": 18,
+      "source_id": "0096",
+      "source_start": 8.92,
+      "source_end": 9.18,
+      "alignment_probability": 0.5791469989732528,
+      "start": 22.421,
+      "end": 22.681
+    },
+    {
+      "text": "लगा",
+      "phrase_id": 18,
+      "source_id": "0096",
+      "source_start": 9.18,
+      "source_end": 9.42,
+      "alignment_probability": 0.9265417933464051,
+      "start": 22.681,
+      "end": 22.921
+    },
+    {
+      "text": "सकते",
+      "phrase_id": 18,
+      "source_id": "0096",
+      "source_start": 9.42,
+      "source_end": 9.82,
+      "alignment_probability": 0.8844847828149796,
+      "start": 22.921,
+      "end": 23.321
+    },
+    {
+      "text": "हैं",
+      "phrase_id": 18,
+      "source_id": "0096",
+      "source_start": 9.82,
+      "source_end": 10.04,
+      "alignment_probability": 0.6681875735521317,
+      "start": 23.321,
+      "end": 23.541
+    },
+    {
+      "text": "उसके",
+      "phrase_id": 19,
+      "source_id": "0096",
+      "source_start": 10.55,
+      "source_end": 11.17,
+      "alignment_probability": 0.574103718996048,
+      "start": 23.6333,
+      "end": 24.2533
+    },
+    {
+      "text": "बाद",
+      "phrase_id": 19,
+      "source_id": "0096",
+      "source_start": 11.17,
+      "source_end": 11.350000000000001,
+      "alignment_probability": 0.592449215054512,
+      "start": 24.2533,
+      "end": 24.4333
+    },
+    {
+      "text": "second",
+      "phrase_id": 20,
+      "source_id": "0096",
+      "source_start": 11.350000000000001,
+      "source_end": 11.57,
+      "alignment_probability": 0.006499830167740583,
+      "start": 24.4333,
+      "end": 24.6533
+    },
+    {
+      "text": "option",
+      "phrase_id": 20,
+      "source_id": "0096",
+      "source_start": 11.57,
+      "source_end": 11.89,
+      "alignment_probability": 0.9376593232154846,
+      "start": 24.6533,
+      "end": 24.9733
+    },
+    {
+      "text": "होता",
+      "phrase_id": 20,
+      "source_id": "0096",
+      "source_start": 11.89,
+      "source_end": 12.25,
+      "alignment_probability": 0.5208646655082703,
+      "start": 24.9733,
+      "end": 25.3333
+    },
+    {
+      "text": "है",
+      "phrase_id": 20,
+      "source_id": "0096",
+      "source_start": 12.25,
+      "source_end": 12.41,
+      "alignment_probability": 0.869513064622879,
+      "start": 25.3333,
+      "end": 25.4933
+    },
+    {
+      "text": "bridge",
+      "phrase_id": 21,
+      "source_id": "0096",
+      "source_start": 12.41,
+      "source_end": 12.690000000000001,
+      "alignment_probability": 0.010399692691862583,
+      "start": 25.4933,
+      "end": 25.7733
+    },
+    {
+      "text": "bridge",
+      "phrase_id": 22,
+      "source_id": "0096",
+      "source_start": 12.690000000000001,
+      "source_end": 13.43,
+      "alignment_probability": 0.07247921824455261,
+      "start": 25.7733,
+      "end": 26.5133
+    },
+    {
+      "text": "में",
+      "phrase_id": 22,
+      "source_id": "0096",
+      "source_start": 13.43,
+      "source_end": 13.65,
+      "alignment_probability": 0.8656228184700012,
+      "start": 26.5133,
+      "end": 26.7333
+    },
+    {
+      "text": "हम",
+      "phrase_id": 22,
+      "source_id": "0096",
+      "source_start": 13.65,
+      "source_end": 13.790000000000001,
+      "alignment_probability": 0.8133938312530518,
+      "start": 26.7333,
+      "end": 26.8733
+    },
+    {
+      "text": "क्या",
+      "phrase_id": 23,
+      "source_id": "0096",
+      "source_start": 13.790000000000001,
+      "source_end": 13.950000000000001,
+      "alignment_probability": 0.8477167785167694,
+      "start": 26.8733,
+      "end": 27.0333
+    },
+    {
+      "text": "करते",
+      "phrase_id": 23,
+      "source_id": "0096",
+      "source_start": 13.950000000000001,
+      "source_end": 14.270000000000001,
+      "alignment_probability": 0.7277119606733322,
+      "start": 27.0333,
+      "end": 27.3533
+    },
+    {
+      "text": "हैं",
+      "phrase_id": 23,
+      "source_id": "0096",
+      "source_start": 14.270000000000001,
+      "source_end": 14.450000000000001,
+      "alignment_probability": 0.6530986179908117,
+      "start": 27.3533,
+      "end": 27.5333
+    },
+    {
+      "text": "उसके",
+      "phrase_id": 24,
+      "source_id": "0096",
+      "source_start": 14.450000000000001,
+      "source_end": 14.73,
+      "alignment_probability": 0.786875656247139,
+      "start": 27.5333,
+      "end": 27.8133
+    },
+    {
+      "text": "आजू",
+      "phrase_id": 24,
+      "source_id": "0096",
+      "source_start": 14.73,
+      "source_end": 15.07,
+      "alignment_probability": 0.734992661823829,
+      "start": 27.8133,
+      "end": 28.1533
+    },
+    {
+      "text": "बाजू",
+      "phrase_id": 24,
+      "source_id": "0096",
+      "source_start": 15.07,
+      "source_end": 15.31,
+      "alignment_probability": 0.5302751724209104,
+      "start": 28.1533,
+      "end": 28.3933
+    },
+    {
+      "text": "के",
+      "phrase_id": 24,
+      "source_id": "0096",
+      "source_start": 15.31,
+      "source_end": 15.450000000000001,
+      "alignment_probability": 0.9340003430843353,
+      "start": 28.3933,
+      "end": 28.5333
+    },
+    {
+      "text": "दोनों",
+      "phrase_id": 25,
+      "source_id": "0096",
+      "source_start": 15.450000000000001,
+      "source_end": 15.77,
+      "alignment_probability": 0.5911311738503476,
+      "start": 28.5333,
+      "end": 28.8533
+    },
+    {
+      "text": "दाँत",
+      "phrase_id": 25,
+      "source_id": "0096",
+      "source_start": 15.77,
+      "source_end": 16.05,
+      "alignment_probability": 0.6315524882884347,
+      "start": 28.8533,
+      "end": 29.1333
+    },
+    {
+      "text": "को",
+      "phrase_id": 25,
+      "source_id": "0096",
+      "source_start": 16.05,
+      "source_end": 16.21,
+      "alignment_probability": 0.9458086788654327,
+      "start": 29.1333,
+      "end": 29.2933
+    },
+    {
+      "text": "use",
+      "phrase_id": 26,
+      "source_id": "0096",
+      "source_start": 16.21,
+      "source_end": 16.450000000000003,
+      "alignment_probability": 0.3233829736709595,
+      "start": 29.2933,
+      "end": 29.5333
+    },
+    {
+      "text": "करके",
+      "phrase_id": 26,
+      "source_id": "0096",
+      "source_start": 16.450000000000003,
+      "source_end": 17.07,
+      "alignment_probability": 0.772771991789341,
+      "start": 29.5333,
+      "end": 30.1533
+    },
+    {
+      "text": "या",
+      "phrase_id": 27,
+      "source_id": "0096",
+      "source_start": 17.07,
+      "source_end": 17.59,
+      "alignment_probability": 0.6668660640716553,
+      "start": 30.1533,
+      "end": 30.6733
+    },
+    {
+      "text": "तीनों",
+      "phrase_id": 27,
+      "source_id": "0096",
+      "source_start": 17.59,
+      "source_end": 17.91,
+      "alignment_probability": 0.5906511638313532,
+      "start": 30.6733,
+      "end": 30.9933
+    },
+    {
+      "text": "दाँत",
+      "phrase_id": 27,
+      "source_id": "0096",
+      "source_start": 17.91,
+      "source_end": 18.17,
+      "alignment_probability": 0.7702920213341713,
+      "start": 30.9933,
+      "end": 31.2533
+    },
+    {
+      "text": "को",
+      "phrase_id": 27,
+      "source_id": "0096",
+      "source_start": 18.17,
+      "source_end": 18.29,
+      "alignment_probability": 0.9638094902038574,
+      "start": 31.2533,
+      "end": 31.3733
+    },
+    {
+      "text": "multiple",
+      "phrase_id": 28,
+      "source_id": "0096",
+      "source_start": 18.29,
+      "source_end": 18.53,
+      "alignment_probability": 0.9660842418670654,
+      "start": 31.3733,
+      "end": 31.6133
+    },
+    {
+      "text": "bridges",
+      "phrase_id": 28,
+      "source_id": "0096",
+      "source_start": 18.53,
+      "source_end": 19.41,
+      "alignment_probability": 0.9392666220664978,
+      "start": 31.6133,
+      "end": 32.4933
+    },
+    {
+      "text": "भी",
+      "phrase_id": 28,
+      "source_id": "0096",
+      "source_start": 19.41,
+      "source_end": 19.67,
+      "alignment_probability": 0.7729254762331644,
+      "start": 32.4933,
+      "end": 32.7533
+    },
+    {
+      "text": "हो",
+      "phrase_id": 29,
+      "source_id": "0096",
+      "source_start": 19.67,
+      "source_end": 19.770000000000003,
+      "alignment_probability": 0.80110764503479,
+      "start": 32.7533,
+      "end": 32.8533
+    },
+    {
+      "text": "सकते",
+      "phrase_id": 29,
+      "source_id": "0096",
+      "source_start": 19.770000000000003,
+      "source_end": 20.17,
+      "alignment_probability": 0.7750172689557076,
+      "start": 32.8533,
+      "end": 33.2533
+    },
+    {
+      "text": "हैं",
+      "phrase_id": 29,
+      "source_id": "0096",
+      "source_start": 20.17,
+      "source_end": 20.51,
+      "alignment_probability": 0.7567611734072367,
+      "start": 33.2533,
+      "end": 33.5933
+    },
+    {
+      "text": "आजू",
+      "phrase_id": 30,
+      "source_id": "0096",
+      "source_start": 20.51,
+      "source_end": 20.83,
+      "alignment_probability": 0.8955918153127035,
+      "start": 33.5933,
+      "end": 33.9133
+    },
+    {
+      "text": "बाजू",
+      "phrase_id": 30,
+      "source_id": "0096",
+      "source_start": 20.83,
+      "source_end": 21.07,
+      "alignment_probability": 0.8948795965739659,
+      "start": 33.9133,
+      "end": 34.1533
+    },
+    {
+      "text": "के",
+      "phrase_id": 30,
+      "source_id": "0096",
+      "source_start": 21.07,
+      "source_end": 21.19,
+      "alignment_probability": 0.9652188718318939,
+      "start": 34.1533,
+      "end": 34.2733
+    },
+    {
+      "text": "दाँत",
+      "phrase_id": 30,
+      "source_id": "0096",
+      "source_start": 21.19,
+      "source_end": 21.450000000000003,
+      "alignment_probability": 0.8267136812210083,
+      "start": 34.2733,
+      "end": 34.5333
+    },
+    {
+      "text": "को",
+      "phrase_id": 30,
+      "source_id": "0096",
+      "source_start": 21.450000000000003,
+      "source_end": 21.59,
+      "alignment_probability": 0.9638873338699341,
+      "start": 34.5333,
+      "end": 34.6733
+    },
+    {
+      "text": "जब",
+      "phrase_id": 31,
+      "source_id": "0096",
+      "source_start": 21.59,
+      "source_end": 21.87,
+      "alignment_probability": 0.4136235676705837,
+      "start": 34.6733,
+      "end": 34.9533
+    },
+    {
+      "text": "हम",
+      "phrase_id": 31,
+      "source_id": "0096",
+      "source_start": 21.87,
+      "source_end": 21.97,
+      "alignment_probability": 0.5513468459248543,
+      "start": 34.9533,
+      "end": 35.0533
+    },
+    {
+      "text": "use",
+      "phrase_id": 31,
+      "source_id": "0096",
+      "source_start": 21.97,
+      "source_end": 22.17,
+      "alignment_probability": 0.9550648927688599,
+      "start": 35.0533,
+      "end": 35.2533
+    },
+    {
+      "text": "करते",
+      "phrase_id": 31,
+      "source_id": "0096",
+      "source_start": 22.17,
+      "source_end": 22.61,
+      "alignment_probability": 0.9607200622558594,
+      "start": 35.2533,
+      "end": 35.6933
+    },
+    {
+      "text": "हैं",
+      "phrase_id": 31,
+      "source_id": "0096",
+      "source_start": 22.61,
+      "source_end": 22.71,
+      "alignment_probability": 0.9402154088020325,
+      "start": 35.6933,
+      "end": 35.7933
+    },
+    {
+      "text": "उसको",
+      "phrase_id": 32,
+      "source_id": "0096",
+      "source_start": 22.71,
+      "source_end": 22.990000000000002,
+      "alignment_probability": 0.8329643726348877,
+      "start": 35.7933,
+      "end": 36.0733
+    },
+    {
+      "text": "हम",
+      "phrase_id": 32,
+      "source_id": "0096",
+      "source_start": 22.990000000000002,
+      "source_end": 23.15,
+      "alignment_probability": 0.9130568504333496,
+      "start": 36.0733,
+      "end": 36.2333
+    },
+    {
+      "text": "bridges",
+      "phrase_id": 33,
+      "source_id": "0096",
+      "source_start": 23.15,
+      "source_end": 23.450000000000003,
+      "alignment_probability": 0.9576948285102844,
+      "start": 36.2333,
+      "end": 36.5333
+    },
+    {
+      "text": "बोलते",
+      "phrase_id": 33,
+      "source_id": "0096",
+      "source_start": 23.450000000000003,
+      "source_end": 23.990000000000002,
+      "alignment_probability": 0.6341284898420175,
+      "start": 36.5333,
+      "end": 37.0733
+    },
+    {
+      "text": "हैं",
+      "phrase_id": 33,
+      "source_id": "0096",
+      "source_start": 23.990000000000002,
+      "source_end": 24.25,
+      "alignment_probability": 0.9714354077974955,
+      "start": 37.0733,
+      "end": 37.3333
+    },
+    {
+      "text": "removable",
+      "phrase_id": 34,
+      "source_id": "0096",
+      "source_start": 25.5,
+      "source_end": 26.04,
+      "alignment_probability": 2.2359914510161616e-05,
+      "start": 37.3333,
+      "end": 37.8733
+    },
+    {
+      "text": "ये",
+      "phrase_id": 35,
+      "source_id": "0096",
+      "source_start": 26.04,
+      "source_end": 26.38,
+      "alignment_probability": 0.42566343365858,
+      "start": 37.8733,
+      "end": 38.2133
+    },
+    {
+      "text": "third",
+      "phrase_id": 35,
+      "source_id": "0096",
+      "source_start": 26.38,
+      "source_end": 26.58,
+      "alignment_probability": 0.0006211520085344091,
+      "start": 38.2133,
+      "end": 38.4133
+    },
+    {
+      "text": "option",
+      "phrase_id": 35,
+      "source_id": "0096",
+      "source_start": 26.58,
+      "source_end": 26.92,
+      "alignment_probability": 0.9738697409629822,
+      "start": 38.4133,
+      "end": 38.7533
+    },
+    {
+      "text": "भी",
+      "phrase_id": 35,
+      "source_id": "0096",
+      "source_start": 26.92,
+      "source_end": 27.14,
+      "alignment_probability": 0.695523868004481,
+      "start": 38.7533,
+      "end": 38.9733
+    },
+    {
+      "text": "हो",
+      "phrase_id": 36,
+      "source_id": "0096",
+      "source_start": 27.14,
+      "source_end": 27.34,
+      "alignment_probability": 0.804069846868515,
+      "start": 38.9733,
+      "end": 39.1733
+    },
+    {
+      "text": "सकता",
+      "phrase_id": 36,
+      "source_id": "0096",
+      "source_start": 27.34,
+      "source_end": 27.68,
+      "alignment_probability": 0.8157989978790283,
+      "start": 39.1733,
+      "end": 39.5133
+    },
+    {
+      "text": "है",
+      "phrase_id": 36,
+      "source_id": "0096",
+      "source_start": 27.68,
+      "source_end": 27.759999999999998,
+      "alignment_probability": 0.9119317531585693,
+      "start": 39.5133,
+      "end": 39.5933
+    },
+    {
+      "text": "कहीं",
+      "phrase_id": 37,
+      "source_id": "0096",
+      "source_start": 27.759999999999998,
+      "source_end": 28.1,
+      "alignment_probability": 0.44863574183546007,
+      "start": 39.5933,
+      "end": 39.9333
+    },
+    {
+      "text": "कहीं",
+      "phrase_id": 37,
+      "source_id": "0096",
+      "source_start": 28.1,
+      "source_end": 28.38,
+      "alignment_probability": 0.8011102378368378,
+      "start": 39.9333,
+      "end": 40.2133
+    },
+    {
+      "text": "पे",
+      "phrase_id": 37,
+      "source_id": "0096",
+      "source_start": 28.38,
+      "source_end": 28.42,
+      "alignment_probability": 0.45797095199426013,
+      "start": 40.2133,
+      "end": 40.2533
+    },
+    {
+      "text": "वो",
+      "phrase_id": 38,
+      "source_id": "0096",
+      "source_start": 28.42,
+      "source_end": 28.64,
+      "alignment_probability": 0.7046871582667033,
+      "start": 40.2533,
+      "end": 40.4733
+    },
+    {
+      "text": "भी",
+      "phrase_id": 38,
+      "source_id": "0096",
+      "source_start": 28.64,
+      "source_end": 28.96,
+      "alignment_probability": 0.8465820749600729,
+      "start": 40.4733,
+      "end": 40.7933
+    },
+    {
+      "text": "permissible",
+      "phrase_id": 38,
+      "source_id": "0096",
+      "source_start": 29.71,
+      "source_end": 30.36,
+      "alignment_probability": 0.7491501271724701,
+      "start": 41.2667,
+      "end": 41.9077
+    },
+    {
+      "text": "होता",
+      "phrase_id": 39,
+      "source_id": "0096",
+      "source_start": 30.36,
+      "source_end": 30.68,
+      "alignment_probability": 0.8887835890054703,
+      "start": 41.9077,
+      "end": 42.2277
+    },
+    {
+      "text": "है",
+      "phrase_id": 39,
+      "source_id": "0096",
+      "source_start": 30.68,
+      "source_end": 30.84,
+      "alignment_probability": 0.9780952632427216,
+      "start": 42.2277,
+      "end": 42.3877
+    },
+    {
+      "text": "तो",
+      "phrase_id": 40,
+      "source_id": "0097",
+      "source_start": 0.0,
+      "source_end": 0.42,
+      "alignment_probability": 0.21552610273162523,
+      "start": 42.6,
+      "end": 43.02
+    },
+    {
+      "text": "कौन",
+      "phrase_id": 41,
+      "source_id": "0097",
+      "source_start": 1.25,
+      "source_end": 1.9,
+      "alignment_probability": 0.1967204106040299,
+      "start": 43.3333,
+      "end": 43.5783
+    },
+    {
+      "text": "सा",
+      "phrase_id": 41,
+      "source_id": "0097",
+      "source_start": 1.9,
+      "source_end": 2.08,
+      "alignment_probability": 0.4432767927646637,
+      "start": 43.5783,
+      "end": 43.7583
+    },
+    {
+      "text": "best",
+      "phrase_id": 41,
+      "source_id": "0097",
+      "source_start": 2.08,
+      "source_end": 2.24,
+      "alignment_probability": 0.0020311782136559486,
+      "start": 43.7583,
+      "end": 43.9183
+    },
+    {
+      "text": "है",
+      "phrase_id": 41,
+      "source_id": "0097",
+      "source_start": 2.24,
+      "source_end": 2.46,
+      "alignment_probability": 0.32915734965354204,
+      "start": 43.9183,
+      "end": 44.1383
+    },
+    {
+      "text": "ये",
+      "phrase_id": 42,
+      "source_id": "0097",
+      "source_start": 3.0700000000000003,
+      "source_end": 3.72,
+      "alignment_probability": 0.32535503307978314,
+      "start": 44.3333,
+      "end": 44.6063
+    },
+    {
+      "text": "आपका",
+      "phrase_id": 42,
+      "source_id": "0097",
+      "source_start": 3.72,
+      "source_end": 4.08,
+      "alignment_probability": 0.7769032518068949,
+      "start": 44.6063,
+      "end": 44.9663
+    },
+    {
+      "text": "Instagram",
+      "phrase_id": 43,
+      "source_id": "0097",
+      "source_start": 4.08,
+      "source_end": 4.32,
+      "alignment_probability": 0.06836802512407303,
+      "start": 44.9663,
+      "end": 45.2063
+    },
+    {
+      "text": "decide",
+      "phrase_id": 44,
+      "source_id": "0097",
+      "source_start": 4.77,
+      "source_end": 5.42,
+      "alignment_probability": 0.009516335092484951,
+      "start": 45.6563,
+      "end": 46.3063
+    },
+    {
+      "text": "नहीं",
+      "phrase_id": 44,
+      "source_id": "0097",
+      "source_start": 5.42,
+      "source_end": 5.8,
+      "alignment_probability": 0.8155641794204712,
+      "start": 46.3063,
+      "end": 46.6863
+    },
+    {
+      "text": "करेगा",
+      "phrase_id": 44,
+      "source_id": "0097",
+      "source_start": 5.8,
+      "source_end": 6.24,
+      "alignment_probability": 0.911357710758845,
+      "start": 46.6863,
+      "end": 47.1263
+    },
+    {
+      "text": "आपकी",
+      "phrase_id": 45,
+      "source_id": "0097",
+      "source_start": 6.24,
+      "source_end": 7.0,
+      "alignment_probability": 0.81082816918691,
+      "start": 47.1263,
+      "end": 47.8863
+    },
+    {
+      "text": "clinical",
+      "phrase_id": 45,
+      "source_id": "0097",
+      "source_start": 7.0,
+      "source_end": 7.36,
+      "alignment_probability": 0.7708718180656433,
+      "start": 47.8863,
+      "end": 48.2463
+    },
+    {
+      "text": "condition",
+      "phrase_id": 45,
+      "source_id": "0097",
+      "source_start": 7.36,
+      "source_end": 8.04,
+      "alignment_probability": 0.8490765690803528,
+      "start": 48.2463,
+      "end": 48.9263
+    },
+    {
+      "text": "decide",
+      "phrase_id": 46,
+      "source_id": "0097",
+      "source_start": 8.04,
+      "source_end": 8.44,
+      "alignment_probability": 0.47283193469047546,
+      "start": 48.9263,
+      "end": 49.3263
+    },
+    {
+      "text": "करेगी",
+      "phrase_id": 46,
+      "source_id": "0097",
+      "source_start": 8.44,
+      "source_end": 8.96,
+      "alignment_probability": 0.9382505814234415,
+      "start": 49.3263,
+      "end": 49.8463
+    }
+  ],
+  "broll_slots": [
+    {
+      "id": "B01",
+      "file": "reel-07_B01_implant_v01.mp4",
+      "source": "0096",
+      "source_in": 3.2,
+      "source_out": 8.7,
+      "timeline_in": 16.701,
+      "timeline_out": 22.201
+    },
+    {
+      "id": "B02",
+      "file": "reel-07_B02_bridge_v01.mp4",
+      "source": "0096",
+      "source_in": 13.3,
+      "source_out": 18.8,
+      "timeline_in": 26.383333333333333,
+      "timeline_out": 31.883333333333333
+    }
+  ],
+  "source_detection": {
+    "0093": {
+      "source": "/Users/sidhant/Desktop/Editing/Reel-07/DJI_20261004204739_0093_D.MP4",
+      "speech": [
+        [
+          2.042,
+          2.726
+        ],
+        [
+          3.61,
+          4.614
+        ],
+        [
+          5.658,
+          6.886
+        ],
+        [
+          7.962,
+          10.854
+        ],
+        [
+          11.674,
+          13.958
+        ],
+        [
+          15.578,
+          16.582
+        ],
+        [
+          16.986,
+          18.246
+        ],
+        [
+          18.97,
+          20.006
+        ],
+        [
+          20.922,
+          22.502
+        ]
+      ],
+      "energy_silences": [
+        [
+          0.0,
+          2.147125
+        ],
+        [
+          2.518938,
+          3.682875
+        ],
+        [
+          4.509,
+          5.5295
+        ],
+        [
+          6.747813,
+          8.015375
+        ],
+        [
+          10.7615,
+          11.738625
+        ],
+        [
+          13.823813,
+          15.629062
+        ],
+        [
+          16.458125,
+          17.06625
+        ],
+        [
+          18.133813,
+          18.896875
+        ],
+        [
+          19.889,
+          20.975
+        ],
+        [
+          22.358688,
+          24.362687
+        ]
+      ],
+      "cuts": [
+        [
+          0.035,
+          2.0069999999999997
+        ],
+        [
+          2.761,
+          3.5749999999999997
+        ],
+        [
+          4.649,
+          5.4944999999999995
+        ],
+        [
+          6.921,
+          7.927
+        ],
+        [
+          10.889,
+          11.639
+        ],
+        [
+          13.993,
+          15.543
+        ],
+        [
+          16.617,
+          16.951
+        ],
+        [
+          18.281,
+          18.861875
+        ],
+        [
+          20.041,
+          20.887
+        ],
+        [
+          22.537,
+          24.327687
+        ]
+      ],
+      "duration": 24.3626875
+    },
+    "0096": {
+      "source": "/Users/sidhant/Desktop/Editing/Reel-07/DJI_20261004205445_0096_D.MP4",
+      "speech": [
+        [
+          0.634,
+          2.342
+        ],
+        [
+          2.49,
+          10.086
+        ],
+        [
+          10.522,
+          18.982
+        ],
+        [
+          19.162,
+          24.23
+        ],
+        [
+          25.466,
+          29.414
+        ],
+        [
+          29.754,
+          31.014
+        ]
+      ],
+      "energy_silences": [
+        [
+          0.253375,
+          0.72025
+        ],
+        [
+          2.214437,
+          2.563125
+        ],
+        [
+          9.98125,
+          10.971
+        ],
+        [
+          20.256875,
+          20.570438
+        ],
+        [
+          24.11425,
+          25.552437
+        ],
+        [
+          29.234875,
+          29.82
+        ],
+        [
+          30.92625,
+          32.64
+        ]
+      ],
+      "cuts": [
+        [
+          0.28837500000000005,
+          0.599
+        ],
+        [
+          10.121,
+          10.487
+        ],
+        [
+          24.265,
+          25.431
+        ],
+        [
+          29.449,
+          29.719
+        ],
+        [
+          31.049,
+          32.605000000000004
+        ]
+      ],
+      "duration": 32.64
+    },
+    "0097": {
+      "source": "/Users/sidhant/Desktop/Editing/Reel-07/DJI_20261004205533_0097_D.MP4",
+      "speech": [
+        [
+          0.186,
+          0.71
+        ],
+        [
+          1.69,
+          2.63
+        ],
+        [
+          3.482,
+          6.406
+        ],
+        [
+          6.586,
+          9.094
+        ]
+      ],
+      "energy_silences": [
+        [
+          0.0,
+          0.25075
+        ],
+        [
+          0.540063,
+          1.7435
+        ],
+        [
+          2.476875,
+          3.547312
+        ],
+        [
+          6.290188,
+          6.660938
+        ],
+        [
+          8.98175,
+          9.941313
+        ]
+      ],
+      "cuts": [
+        [
+          0.745,
+          1.655
+        ],
+        [
+          2.665,
+          3.447
+        ],
+        [
+          9.129,
+          9.9063125
+        ]
+      ],
+      "duration": 9.9413125
+    }
+  },
+  "alignment_method": "Whisper cross-attention forced alignment against corrected ASR text; not human listening verification"
+}

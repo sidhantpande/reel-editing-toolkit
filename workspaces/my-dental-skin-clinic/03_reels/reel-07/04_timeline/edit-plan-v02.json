@@ -1,0 +1,137 @@
+{
+  "status": "REFERENCE_REVISION_V02_WITH_SUPPLIED_BROLL_REVIEW",
+  "fps": 30,
+  "canvas": [
+    1080,
+    1920
+  ],
+  "duration_seconds": 59.4,
+  "transcript_status": "ASR draft; no human-listening verification available in this session",
+  "segments": [
+    {
+      "id": "opening",
+      "clip_id": "clip-9b1ffa3f52e95593",
+      "source": "/Users/sidhant/Desktop/Editing/Reel-07/DJI_20261004204739_0093_D.MP4",
+      "source_in": 1.6,
+      "source_out": 14.4,
+      "timeline_in": 0,
+      "timeline_out": 12.8,
+      "crop_xywh": {
+        "x": 270,
+        "y": 520,
+        "width": 1188,
+        "height": 2112
+      },
+      "note": "Kaalratri / darkness and fear reference"
+    },
+    {
+      "id": "missing-tooth-hook",
+      "clip_id": "clip-9b1ffa3f52e95593",
+      "source": "/Users/sidhant/Desktop/Editing/Reel-07/DJI_20261004204739_0093_D.MP4",
+      "source_in": 14.9,
+      "source_out": 22.633333333333333,
+      "timeline_in": 12.8,
+      "timeline_out": 20.533,
+      "crop_xywh": {
+        "x": 270,
+        "y": 520,
+        "width": 1188,
+        "height": 2112
+      },
+      "note": "Missing tooth does not mean the story is over"
+    },
+    {
+      "id": "implant",
+      "clip_id": "clip-d2ae4e83f489f13d",
+      "source": "/Users/sidhant/Desktop/Editing/Reel-07/DJI_20261004205445_0096_D.MP4",
+      "source_in": 0.0,
+      "source_out": 10.133333333333333,
+      "timeline_in": 20.533,
+      "timeline_out": 30.667,
+      "crop_xywh": {
+        "x": 249,
+        "y": 1344,
+        "width": 972,
+        "height": 1728
+      },
+      "note": "Implant explanation"
+    },
+    {
+      "id": "bridge",
+      "clip_id": "clip-d2ae4e83f489f13d",
+      "source": "/Users/sidhant/Desktop/Editing/Reel-07/DJI_20261004205445_0096_D.MP4",
+      "source_in": 10.55,
+      "source_out": 24.35,
+      "timeline_in": 30.667,
+      "timeline_out": 44.467,
+      "crop_xywh": {
+        "x": 249,
+        "y": 1344,
+        "width": 972,
+        "height": 1728
+      },
+      "note": "Bridge explanation; retain the multiple-bridge qualification"
+    },
+    {
+      "id": "removable",
+      "clip_id": "clip-d2ae4e83f489f13d",
+      "source": "/Users/sidhant/Desktop/Editing/Reel-07/DJI_20261004205445_0096_D.MP4",
+      "source_in": 25.5,
+      "source_out": 31.1,
+      "timeline_in": 44.467,
+      "timeline_out": 50.067,
+      "crop_xywh": {
+        "x": 249,
+        "y": 1344,
+        "width": 972,
+        "height": 1728
+      },
+      "note": "Removable option qualification"
+    },
+    {
+      "id": "closing",
+      "clip_id": "clip-66fccec784f24470",
+      "source": "/Users/sidhant/Desktop/Editing/Reel-07/DJI_20261004205533_0097_D.MP4",
+      "source_in": 0.0,
+      "source_out": 9.333333333333334,
+      "timeline_in": 50.067,
+      "timeline_out": 59.4,
+      "crop_xywh": {
+        "x": 249,
+        "y": 1344,
+        "width": 972,
+        "height": 1728
+      },
+      "note": "Instagram versus clinical condition closing"
+    }
+  ],
+  "broll_slots": [
+    {
+      "id": "B01",
+      "file": "reel-07_B01_implant_v01.mp4",
+      "source": "0096",
+      "source_in": 3.2,
+      "source_out": 8.7,
+      "timeline_in": 23.733,
+      "timeline_out": 29.233,
+      "received_source": "/Users/sidhant/Downloads/gemini_generated_video_6dc32e5f.mp4",
+      "received_source_in": 0.4,
+      "received_source_out": 5.9
+    },
+    {
+      "id": "B02",
+      "file": "reel-07_B02_bridge_v01.mp4",
+      "source": "0096",
+      "source_in": 13.3,
+      "source_out": 18.8,
+      "timeline_in": 33.417,
+      "timeline_out": 38.917,
+      "received_source": "/Users/sidhant/Downloads/From Klickpin.com- 1060738518456360478-pin-id-1060738518456360478.mp4",
+      "received_source_in": 11.8,
+      "received_source_out": 17.3
+    }
+  ],
+  "export": "/Users/sidhant/Desktop/Editing/my-dental-skin-reels/05_exports/review/reel-07_reference-cut_v02.mp4",
+  "logo": "/Users/sidhant/Desktop/Editing/my-dental-skin-reels/00_inbox/brand/my-dental-clinic-logo-transparent-v01.png",
+  "caption_style": "heavy white/yellow; no opaque boxes; edited ASR phrase captions"
+}

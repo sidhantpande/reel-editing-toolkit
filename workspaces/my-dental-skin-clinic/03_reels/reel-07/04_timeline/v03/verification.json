@@ -1,0 +1,42 @@
+{
+  "status": "REVIEW_EXPORT_VERIFIED",
+  "export": "/Users/sidhant/Desktop/Editing/my-dental-skin-reels/05_exports/review/reel-07_word-pop_v03.mp4",
+  "duration_seconds": 50,
+  "previous_seconds": 59.4,
+  "removed_pause_seconds": 9.4,
+  "speech_runs": 17,
+  "audio_video_duration_match": true,
+  "canvas": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "full_decode": "passed",
+  "logo": {
+    "position": "top-left",
+    "x": 65,
+    "y": 65,
+    "width": 255,
+    "background": "transparent"
+  },
+  "captions": {
+    "individual_word_events": 134,
+    "phrases": 47,
+    "font_size_range": [
+      85,
+      143
+    ],
+    "entrance": "84/90% to 105/102% to 100%; 175 ms settle",
+    "word_positions": "fixed within each phrase; libass font metric correction applied",
+    "phrase_collisions": 0
+  },
+  "transitions": {
+    "broll_cross_dissolve_seconds": 0.16,
+    "audio_cut_edge_fade_seconds": 0.006,
+    "end_fade_seconds": 0.1
+  },
+  "word_timing_method": "Whisper forced alignment to corrected ASR text, remapped after pause cuts",
+  "limitations": [
+    "No human listening verification of transcript wording or exact word synchronization in this session."
+  ]
+}

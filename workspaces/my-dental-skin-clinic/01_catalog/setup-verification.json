@@ -1,0 +1,26 @@
+{
+  "status": "passed",
+  "checks": [
+    "source registration",
+    "exact duplicate detection",
+    "safe repeated intake",
+    "landscape and portrait contact sheets",
+    "HDR tone-mapped contact sheets and proxies",
+    "16k mono audio",
+    "silence and volume logs",
+    "H264/AAC proxies",
+    "reel brief creation",
+    "1080x1920 burned caption export",
+    "human notes survive repeated intake"
+  ],
+  "transcription": "passed: local multilingual small model, spoken sample, automatic English detection, word timestamps, JSON/TXT/SRT outputs",
+  "sample_export": "/Users/sidhant/Desktop/Editing/my-dental-skin-reels/.cache/setup-check/vertical-caption-check.mp4",
+  "sample_transcript": " This is a test recording for the clinic editing workflow.  The video and audio are ready for review.",
+  "model_sha256": "3e305921506d8872816023e4c273e75d2419fb89b24da97b4fe7bce14170d671",
+  "caption_pack": {
+    "font_families": 5,
+    "presets": 4,
+    "rendered_motion_preview_seconds": 12,
+    "hindi_shaping": "visually checked"
+  }
+}

@@ -20,3 +20,15 @@ lines+=['','## Files','','| ID | Kind | Asset |','|---|---|---|']
 for a in sorted(assets,key=lambda a:a['id']):lines.append(f'| {a["id"]} | {a["kind"]} | [{Path(a["file"]).name}](../public/{a["file"]}) |')
 (R/'catalog/ASSET_INDEX.md').write_text('\n'.join(lines)+'\n')
 print(f'Indexed {len(assets)} assets and {len(scenes)} motion kinds.')
+
+# The clinic uses reviewed supplied B-roll, not Remotion native scene substitutes.
+manifest=R/'workspaces/my-dental-skin-clinic/04_generated_broll/manifest.json'
+clinic=[]
+if manifest.is_file():
+ for asset in json.loads(manifest.read_text())['assets']:
+  clinic.append({'id':'clinic-'+Path(asset['path']).stem,'brand':'clinic','kind':'video','subject':asset['subject'],'repositoryFile':'workspaces/my-dental-skin-clinic/'+asset['path'],'duration':asset['duration'],'sha256':asset['sha256'],'source':asset['source'],'rights':asset['rights'],'git_storage':'lfs'})
+(R/'catalog/clinic-assets.json').write_text(json.dumps(clinic,ensure_ascii=False,indent=2)+'\n')
+with (R/'catalog/ASSET_INDEX.md').open('a') as f:
+ f.write('\n## Clinic supplied B-roll\n\nSearch: `python3 tools/reelctl.py assets --brand clinic --query implant`.\n\n')
+ for asset in clinic:f.write(f'- [{asset["subject"]}](../{asset["repositoryFile"]}) — {asset["duration"]:.2f}s; Git LFS; user supplied.\n')
+print(f'Indexed {len(clinic)} clinic supplied B-roll assets separately from the native scene catalogue.')

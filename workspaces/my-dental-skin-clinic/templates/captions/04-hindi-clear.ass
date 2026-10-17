@@ -1,0 +1,15 @@
+[Script Info]
+Title: Clinic caption sample — replace copy and timing after audio review
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Caption,Clinic Hindi,100,&H00FCFAF5,&H0000FFFF,&H00202020,&H70000000,-1,0,0,0,100,100,0,0,1,2,1,5,110,160,340,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.00,Caption,,0,0,0,,{\pos(510,1390)\fad(100,120)}आपकी मुस्कान,\N{\c&H00CADB99&}आपका आत्मविश्वास।

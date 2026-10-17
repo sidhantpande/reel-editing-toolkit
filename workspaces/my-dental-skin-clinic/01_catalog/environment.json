@@ -1,0 +1,23 @@
+{
+  "raqm": true,
+  "approved_fonts": [
+    "Mukta-ExtraBold.ttf",
+    "ClinicMontserrat-ExtraBold.ttf"
+  ],
+  "approved_style": "styles/clinic-approved.json",
+  "turbo_model_path": null,
+  "checked_utc": "2026-10-17T14:43:38.466909+00:00",
+  "python": "3.11.14 (main, Oct  9 2025, 16:16:55) [Clang 17.0.0 (clang-1700.6.3.2)]",
+  "ffmpeg": "ffmpeg version 9.0.2 Copyright (c) 2000-2026 the FFmpeg developers",
+  "ffprobe": "ffprobe version 9.0.2 Copyright (c) 2007-2026 the FFmpeg developers",
+  "packages": {
+    "Pillow": "12.2.0",
+    "faster-whisper": "1.2.1",
+    "ctranslate2": "4.8.2",
+    "numpy": "2.4.4",
+    "fonttools": "4.63.0"
+  },
+  "required_filters": "available",
+  "model_path": "/Users/sidhant/Desktop/Editing/atfro-niolearn-reel-studio/workspaces/my-dental-skin-clinic/.cache/models/models--Systran--faster-whisper-small/snapshots/536b0662742c02347bc0e980a01041f333bce120",
+  "free_gib": 11.48
+}

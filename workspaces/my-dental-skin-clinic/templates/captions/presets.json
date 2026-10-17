@@ -1,0 +1,106 @@
+{
+  "canvas": [
+    1080,
+    1920
+  ],
+  "caption_center": [
+    510,
+    1390
+  ],
+  "max_lines": 2,
+  "target_words_per_phrase": [
+    2,
+    5
+  ],
+  "source": "illustrative presets; replace text/timing after footage review",
+  "styles": [
+    {
+      "id": "01-clean-clinic",
+      "title": "Clean clinic",
+      "fonts": "Manrope ExtraBold",
+      "font": "Clinic Sans A",
+      "size": 84,
+      "color": "&H00F9FAF7",
+      "outline": 2,
+      "shadow": 1,
+      "body": "Healthy smile,\\N{\\c&H00CADB99&}confident you.",
+      "top": [
+        18,
+        39,
+        38
+      ],
+      "bottom": [
+        7,
+        16,
+        17
+      ],
+      "motion": "100 ms fade; phrase-level mint emphasis"
+    },
+    {
+      "id": "02-bold-focus",
+      "title": "Bold word focus",
+      "fonts": "Barlow Condensed Bold",
+      "font": "Barlow Condensed",
+      "size": 114,
+      "color": "&H00FFFFFF",
+      "outline": 3,
+      "shadow": 2,
+      "body": "{\\fscx96\\fscy96\\t(0,140,\\fscx100\\fscy100)}SMILE WITH\\N{\\c&H00FFFFFF&\\t(700,900,\\c&H0092E9F4&)}CONFIDENCE.",
+      "top": [
+        28,
+        36,
+        45
+      ],
+      "bottom": [
+        9,
+        13,
+        18
+      ],
+      "motion": "140 ms 96→100% scale; one accent phrase"
+    },
+    {
+      "id": "03-soft-editorial",
+      "title": "Soft editorial",
+      "fonts": "Plus Jakarta Sans + Cormorant Garamond",
+      "font": "Clinic Sans B",
+      "size": 84,
+      "color": "&H00E6EFF4",
+      "outline": 0,
+      "shadow": 1,
+      "body": "Har skin ki\\Nalag story.",
+      "top": [
+        68,
+        48,
+        44
+      ],
+      "bottom": [
+        24,
+        19,
+        23
+      ],
+      "motion": "Soft fade; serif for short headline only"
+    },
+    {
+      "id": "04-hindi-clear",
+      "title": "Hindi clear",
+      "fonts": "Noto Sans Devanagari Bold",
+      "font": "Clinic Hindi",
+      "size": 100,
+      "color": "&H00FCFAF5",
+      "outline": 2,
+      "shadow": 1,
+      "body": "आपकी मुस्कान,\\N{\\c&H00CADB99&}आपका आत्मविश्वास।",
+      "top": [
+        31,
+        44,
+        48
+      ],
+      "bottom": [
+        12,
+        18,
+        25
+      ],
+      "motion": "Phrase fade; full Devanagari shaping"
+    }
+  ]
+}

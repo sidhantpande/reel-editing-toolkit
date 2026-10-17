@@ -1,0 +1,21 @@
+{
+  "export": "/Users/sidhant/Desktop/Editing/my-dental-skin-reels/05_exports/review/reel-07_clean-dissolves_v05.mp4",
+  "duration": 48.2,
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "fps": "30/1",
+  "frame_count": "1446",
+  "full_decode_passed": true,
+  "audio_duration": "48.200000",
+  "cue_exclusions_no_overlap": true,
+  "word_count": 133,
+  "caption_note_removed": true,
+  "picture_dissolves": 13,
+  "picture_dissolve_duration": 0.2,
+  "broll_dissolve_duration": 0.23,
+  "audio_splice_method": "Non-overlapping exact 48 kHz source slices with six-ms edge fades",
+  "human_listening_available": false,
+  "checks": "Source cue snippets independently transcribed in Hindi and English; output take boundaries checked separately with ASR. Visual review uses source gaze contact sheets, every frame of representative dissolves, final export contact sheet."
+}

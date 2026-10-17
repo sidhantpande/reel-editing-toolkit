@@ -12,3 +12,12 @@ public/assets/**/*.wav filter=lfs diff=lfs merge=lfs -text
 archive/**/*.webm filter=lfs diff=lfs merge=lfs -text
 archive/**/*.png filter=lfs diff=lfs merge=lfs -text
 archive/**/*.jpg filter=lfs diff=lfs merge=lfs -text
+workspaces/my-dental-skin-clinic/04_generated_broll/approved/*.mp4 filter=lfs diff=lfs merge=lfs -text
+workspaces/my-dental-skin-clinic/00_inbox/brand/*.png filter=lfs diff=lfs merge=lfs -text
+workspaces/my-dental-skin-clinic/assets/fonts/**/*.ttf filter=lfs diff=lfs merge=lfs -text
+workspaces/my-dental-skin-clinic/previews/**/*.png filter=lfs diff=lfs merge=lfs -text
+workspaces/my-dental-skin-clinic/previews/**/*.jpg filter=lfs diff=lfs merge=lfs -text
+workspaces/my-dental-skin-clinic/previews/**/*.mp4 filter=lfs diff=lfs merge=lfs -text
+# Keep upstream font licence text byte-for-byte, including its existing whitespace.
+workspaces/my-dental-skin-clinic/assets/fonts/**/OFL.txt whitespace=-blank-at-eol
+workspaces/my-dental-skin-clinic/assets/fonts/ready/*-OFL.txt whitespace=-blank-at-eol

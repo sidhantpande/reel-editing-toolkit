@@ -1,0 +1,86 @@
+[
+  {
+    "source": "0093",
+    "source_in": 0,
+    "source_out": 7.5,
+    "language": "hi",
+    "text": " काल रात्री सब से पीर्स रूँ"
+  },
+  {
+    "source": "0093",
+    "source_in": 0,
+    "source_out": 7.5,
+    "language": "en",
+    "text": " Start.  Kaal Ratri, Sabse pears ru."
+  },
+  {
+    "source": "0096",
+    "source_in": 0,
+    "source_out": 4,
+    "language": "hi",
+    "text": " एक option होता है इंप्लान्ट  इंप्लान्ट को हम उसके नहीं"
+  },
+  {
+    "source": "0096",
+    "source_in": 0,
+    "source_out": 4,
+    "language": "en",
+    "text": " One option is Implant.  We take Implants"
+  },
+  {
+    "source": "0097",
+    "source_in": 0,
+    "source_out": 4,
+    "language": "hi",
+    "text": " कोन सब इस्टेर हं।  कोन सब एस देट में इस workshop"
+  },
+  {
+    "source": "0097",
+    "source_in": 0,
+    "source_out": 4,
+    "language": "en",
+    "text": " Stop.  Which sister?  This up..."
+  },
+  {
+    "source": "0093",
+    "source_in": 0.5,
+    "source_out": 3.1,
+    "language": "hi",
+    "text": " स्दाएग्ट"
+  },
+  {
+    "source": "0093",
+    "source_in": 0.5,
+    "source_out": 3.1,
+    "language": "en",
+    "text": " Start."
+  },
+  {
+    "source": "0096",
+    "source_in": 0,
+    "source_out": 0.55,
+    "language": "hi",
+    "text": " स्टाए."
+  },
+  {
+    "source": "0096",
+    "source_in": 0,
+    "source_out": 0.55,
+    "language": "en",
+    "text": " Stop."
+  },
+  {
+    "source": "0097",
+    "source_in": 0,
+    "source_out": 1.1,
+    "language": "hi",
+    "text": " स्ट्ट्ट्ट्ट्ट्ट."
+  },
+  {
+    "source": "0097",
+    "source_in": 0,
+    "source_out": 1.1,
+    "language": "en",
+    "text": " Stop."
+  }
+]

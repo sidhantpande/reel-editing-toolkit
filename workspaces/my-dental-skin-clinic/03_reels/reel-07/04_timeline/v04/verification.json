@@ -1,0 +1,33 @@
+{
+  "status": "REVISED_FONT_SPACING_REVIEW_VERIFIED",
+  "export": "/Users/sidhant/Desktop/Editing/my-dental-skin-reels/05_exports/review/reel-07_compact-captions_v04.mp4",
+  "duration_seconds": 50,
+  "canvas": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "full_decode": "passed",
+  "audio_video_duration_match": true,
+  "audio_identical_to_v03": true,
+  "audio_sha256": "c11d16842417d8b9282335e8e35a50f932a999908f415eb9c2cea996230d56dc",
+  "fonts": [
+    "Mukta ExtraBold",
+    "Montserrat ExtraBold"
+  ],
+  "caption_words": 134,
+  "font_point_range": [
+    68,
+    118
+  ],
+  "actual_ink_spacing_pixels": {
+    "minimum": 9.246376811594217,
+    "maximum": 11.0
+  },
+  "between_line_gap_pixels": 12,
+  "layout": "measured and drawn with the same font rasterizer; compact phrase groups, one or two lines",
+  "animation": "word-by-word alpha and smooth scale settle; larger keywords",
+  "logo": "transparent, top-left",
+  "inherited_edit": "9.4 seconds of pauses removed; both supplied B-rolls with 160 ms dissolves",
+  "transcript_status": "forced alignment against corrected ASR; no human listening verification"
+}

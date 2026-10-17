@@ -1,0 +1,19 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Label,Clinic Sans A,58,&H00F2F9FF,&H00FFFFFF,&H0020201E,&H0020201E,-1,0,0,0,100,100,0,0,3,20,0,5,100,160,300,1
+Style: Review,Clinic Sans B,24,&H00FFFFFF,&H00FFFFFF,&H0020201E,&H8020201E,0,0,0,0,100,100,0,0,1,2,0,7,60,60,60,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:12.80,Label,,0,0,0,,{\pos(510,1510)\fnClinic Hindi\fad(100,100)}कालरात्रि
+Dialogue: 0,0:00:12.80,0:00:20.53,Label,,0,0,0,,{\pos(510,1510)\fnClinic Sans A\fad(100,100)}Missing tooth?
+Dialogue: 0,0:00:20.53,0:00:30.67,Label,,0,0,0,,{\pos(510,1510)\fnClinic Sans A\fad(100,100)}01  /  DENTAL IMPLANT
+Dialogue: 0,0:00:30.67,0:00:44.47,Label,,0,0,0,,{\pos(510,1510)\fnClinic Sans A\fad(100,100)}02  /  DENTAL BRIDGE
+Dialogue: 0,0:00:44.47,0:00:50.07,Label,,0,0,0,,{\pos(510,1510)\fnClinic Sans A\fad(100,100)}03  /  REMOVABLE OPTION
+Dialogue: 0,0:00:50.07,0:00:59.40,Label,,0,0,0,,{\pos(510,1510)\fnClinic Sans A\fad(100,100)}Clinical condition matters.
+Dialogue: 1,0:00:00.00,0:00:59.40,Review,,0,0,0,,{\pos(65,70)}REEL 07  /  A-ROLL REVIEW  /  B-ROLL PENDING

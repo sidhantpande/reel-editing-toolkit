@@ -1,0 +1,39 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Phrase,Clinic Hindi Heavy,119,&H00FFFFFF,&H003AF0FF,&H00202020,&H80000000,-1,0,0,0,100,100,0,0,1,2.4,2,5,105,150,320,1
+Style: Note,Clinic Sans B,23,&H00FFFFFF,&H00FFFFFF,&H00303030,&H80000000,0,0,0,0,100,100,0,0,1,1,0,7,70,70,70,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.20,0:00:02.95,Phrase,,0,0,0,,{\pos(510,1320)\fad(35,35)\fscx98\fscy98\t(0,100,\fscx100\fscy100)}कालरात्रि
+Dialogue: 0,0:00:03.55,0:00:05.55,Phrase,,0,0,0,,{\pos(510,1320)\fad(35,35)\fscx98\fscy98\t(0,100,\fscx100\fscy100)}सबसे\N{\c&H003AF0FF&}{\fnClinic Sans A\fs87}FIERCE{\fnClinic Hindi Heavy\fs119} रूप
+Dialogue: 0,0:00:06.00,0:00:07.65,Phrase,,0,0,0,,{\pos(510,1320)\fad(35,35)\fscx98\fscy98\t(0,100,\fscx100\fscy100)}उनका काम है
+Dialogue: 0,0:00:07.65,0:00:09.30,Phrase,,0,0,0,,{\pos(510,1320)\fad(35,35)\fscx98\fscy98\t(0,100,\fscx100\fscy100)}अंधेरा और\N{\c&H003AF0FF&}डर मिटाना
+Dialogue: 0,0:00:09.80,0:00:12.75,Phrase,,0,0,0,,{\pos(510,1320)\fad(35,35)\fscx98\fscy98\t(0,100,\fscx100\fscy100)}आज हम\N{\c&H003AF0FF&}एक डर मिटाते हैं
+Dialogue: 0,0:00:13.15,0:00:16.10,Phrase,,0,0,0,,{\pos(510,1320)\fad(35,35)\fscx98\fscy98\t(0,100,\fscx100\fscy100)}दाँत नहीं,\N{\c&H003AF0FF&}कहानी खत्म?
+Dialogue: 0,0:00:16.40,0:00:18.55,Phrase,,0,0,0,,{\pos(510,1320)\fad(35,35)\fscx98\fscy98\t(0,100,\fscx100\fscy100)}ऐसा नहीं है
+Dialogue: 0,0:00:18.60,0:00:20.50,Phrase,,0,0,0,,{\pos(510,1320)\fad(35,35)\fscx98\fscy98\t(0,100,\fscx100\fscy100)}उसके\N{\c&H003AF0FF&}{\fnClinic Sans A\fs87}SOLUTIONS{\fnClinic Hindi Heavy\fs119} भी हैं
+Dialogue: 0,0:00:20.65,0:00:22.65,Phrase,,0,0,0,,{\pos(510,1320)\fad(35,35)\fscx98\fscy98\t(0,100,\fscx100\fscy100)}एक {\fnClinic Sans A\fs87}OPTION{\fnClinic Hindi Heavy\fs119}\N{\c&H003AF0FF&}{\fnClinic Sans A\fs87}IMPLANT{\fnClinic Hindi Heavy\fs119}
+Dialogue: 0,0:00:22.65,0:00:24.30,Phrase,,0,0,0,,{\pos(510,1320)\fad(35,35)\fscx98\fscy98\t(0,100,\fscx100\fscy100)}{\fnClinic Sans A\fs87}NEIGHBOURING{\fnClinic Hindi Heavy\fs119}\N{\c&H003AF0FF&}{\fnClinic Sans A\fs87}TOOTH{\fnClinic Hindi Heavy\fs119}
+Dialogue: 0,0:00:24.30,0:00:26.65,Phrase,,0,0,0,,{\pos(510,1320)\fad(35,35)\fscx98\fscy98\t(0,100,\fscx100\fscy100)}{\fnClinic Sans A\fs87}DISTURB{\fnClinic Hindi Heavy\fs119} किए\N{\c&H003AF0FF&}बिना
+Dialogue: 0,0:00:26.65,0:00:27.55,Phrase,,0,0,0,,{\pos(510,1320)\fad(35,35)\fscx98\fscy98\t(0,100,\fscx100\fscy100)}{\c&H003AF0FF&}{\fnClinic Sans A\fs87}INDEPENDENTLY{\fnClinic Hindi Heavy\fs119}
+Dialogue: 0,0:00:27.55,0:00:28.65,Phrase,,0,0,0,,{\pos(510,1320)\fad(35,35)\fscx98\fscy98\t(0,100,\fscx100\fscy100)}{\fnClinic Sans A\fs87}IMPLANT PLACE{\fnClinic Hindi Heavy\fs119}\N{\c&H003AF0FF&}करके
+Dialogue: 0,0:00:28.65,0:00:30.60,Phrase,,0,0,0,,{\pos(510,1320)\fad(35,35)\fscx98\fscy98\t(0,100,\fscx100\fscy100)}दाँत लगा\N{\c&H003AF0FF&}सकते हैं
+Dialogue: 0,0:00:30.80,0:00:32.90,Phrase,,0,0,0,,{\pos(510,1320)\fad(35,35)\fscx98\fscy98\t(0,100,\fscx100\fscy100)}दूसरा {\fnClinic Sans A\fs87}OPTION{\fnClinic Hindi Heavy\fs119}\N{\c&H003AF0FF&}{\fnClinic Sans A\fs87}BRIDGE{\fnClinic Hindi Heavy\fs119}
+Dialogue: 0,0:00:33.00,0:00:34.50,Phrase,,0,0,0,,{\pos(510,1320)\fad(35,35)\fscx98\fscy98\t(0,100,\fscx100\fscy100)}{\fnClinic Sans A\fs87}BRIDGE{\fnClinic Hindi Heavy\fs119} में\N{\c&H003AF0FF&}हम क्या करते हैं?
+Dialogue: 0,0:00:34.50,0:00:37.15,Phrase,,0,0,0,,{\pos(510,1320)\fad(35,35)\fscx98\fscy98\t(0,100,\fscx100\fscy100)}आसपास के\N{\c&H003AF0FF&}दोनों दाँत
+Dialogue: 0,0:00:37.15,0:00:40.55,Phrase,,0,0,0,,{\pos(510,1320)\fad(35,35)\fscx98\fscy98\t(0,100,\fscx100\fscy100)}{\fnClinic Sans A\fs87}MULTIPLE BRIDGES{\fnClinic Hindi Heavy\fs119}\N{\c&H003AF0FF&}भी हो सकते हैं
+Dialogue: 0,0:00:40.55,0:00:42.75,Phrase,,0,0,0,,{\pos(510,1320)\fad(35,35)\fscx98\fscy98\t(0,100,\fscx100\fscy100)}आसपास के दाँत\N{\c&H003AF0FF&}जब हम {\fnClinic Sans A\fs87}USE{\fnClinic Hindi Heavy\fs119} करते हैं
+Dialogue: 0,0:00:42.75,0:00:44.40,Phrase,,0,0,0,,{\pos(510,1320)\fad(35,35)\fscx98\fscy98\t(0,100,\fscx100\fscy100)}उसको हम\N{\c&H003AF0FF&}{\fnClinic Sans A\fs87}BRIDGES{\fnClinic Hindi Heavy\fs119} बोलते हैं
+Dialogue: 0,0:00:44.65,0:00:49.85,Phrase,,0,0,0,,{\pos(510,1320)\fad(35,35)\fscx98\fscy98\t(0,100,\fscx100\fscy100)}{\fnClinic Sans A\fs87}REMOVABLE{\fnClinic Hindi Heavy\fs119}\N{\c&H003AF0FF&}तीसरा {\fnClinic Sans A\fs87}OPTION{\fnClinic Hindi Heavy\fs119}
+Dialogue: 0,0:00:50.20,0:00:52.55,Phrase,,0,0,0,,{\pos(510,1320)\fad(35,35)\fscx98\fscy98\t(0,100,\fscx100\fscy100)}कौन सा\N{\c&H003AF0FF&}{\fnClinic Sans A\fs87}BEST{\fnClinic Hindi Heavy\fs119} है?
+Dialogue: 0,0:00:53.20,0:00:56.25,Phrase,,0,0,0,,{\pos(510,1320)\fad(35,35)\fscx98\fscy98\t(0,100,\fscx100\fscy100)}{\fnClinic Sans A\fs87}INSTAGRAM{\fnClinic Hindi Heavy\fs119}\N{\c&H003AF0FF&}{\fnClinic Sans A\fs87}decide{\fnClinic Hindi Heavy\fs119} नहीं करेगा
+Dialogue: 0,0:00:56.25,0:00:57.70,Phrase,,0,0,0,,{\pos(510,1320)\fad(35,35)\fscx98\fscy98\t(0,100,\fscx100\fscy100)}आपकी\N{\c&H003AF0FF&}{\fnClinic Sans A\fs82}CLINICAL CONDITION{\fnClinic Hindi Heavy\fs119}
+Dialogue: 0,0:00:57.70,0:00:59.40,Phrase,,0,0,0,,{\pos(510,1320)\fad(35,35)\fscx98\fscy98\t(0,100,\fscx100\fscy100)}{\fnClinic Sans A\fs87}decide{\fnClinic Hindi Heavy\fs119} करेगी
+Dialogue: 1,0:00:23.73,0:00:29.23,Note,,0,0,0,,{\pos(74,1670)}3D illustration
+Dialogue: 1,0:00:33.42,0:00:38.92,Note,,0,0,0,,{\pos(74,1670)}3D illustration

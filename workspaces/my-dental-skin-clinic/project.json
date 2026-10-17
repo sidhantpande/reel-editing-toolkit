@@ -1,0 +1,30 @@
+{
+  "clinic": "My Dental & Skin Clinic",
+  "brand_name_status": "Supplied logo reads My Dental Clinic; project umbrella is My Dental & Skin Clinic",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "video_codec": "h264",
+    "audio_codec": "aac"
+  },
+  "language": "Hindi / English / Hinglish; review transcript against audio",
+  "broll_per_reel": {
+    "minimum": 1,
+    "maximum": 2,
+    "generated_by": "user"
+  },
+  "source_policy": "Reference originals in place; never rename, move, or overwrite them",
+  "ffmpeg": "/opt/homebrew/opt/ffmpeg-full/bin/ffmpeg",
+  "ffprobe": "/opt/homebrew/opt/ffmpeg-full/bin/ffprobe",
+  "transcription": {
+    "model": "small",
+    "device": "cpu",
+    "compute_type": "int8",
+    "status": "draft until human audio review"
+  },
+  "approved_style": "styles/clinic-approved.json",
+  "approved_baseline": "reel-07/v05",
+  "workflow": "docs/PIPELINE.md",
+  "git_storage": "existing reel-editing-toolkit repository; approved B-rolls and brand/font binaries in Git LFS; camera/export/cache media excluded"
+}

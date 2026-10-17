@@ -1,0 +1,26 @@
+[
+  {
+    "id": "clinic-reel-07_B01_implant_received",
+    "brand": "clinic",
+    "kind": "video",
+    "subject": "implant",
+    "repositoryFile": "workspaces/my-dental-skin-clinic/04_generated_broll/approved/reel-07_B01_implant_received.mp4",
+    "duration": 10.005,
+    "sha256": "8a031ecb136454dba85be2c8204fd79fb1eefb0a3690064ec1bd0ad2e9dc66dd",
+    "source": "user supplied for Reel-07",
+    "rights": "User-supplied generated implant video; generator/provider not specified.",
+    "git_storage": "lfs"
+  },
+  {
+    "id": "clinic-reel-07_B02_bridge_received",
+    "brand": "clinic",
+    "kind": "video",
+    "subject": "dental bridge",
+    "repositoryFile": "workspaces/my-dental-skin-clinic/04_generated_broll/approved/reel-07_B02_bridge_received.mp4",
+    "duration": 20.0,
+    "sha256": "358df685be05d72e2a948323861583c899567d33f9afb6af59d8ccf4983da823",
+    "source": "user supplied for Reel-07",
+    "rights": "User supplied; third-party bridge clip rights not independently verified",
+    "git_storage": "lfs"
+  }
+]

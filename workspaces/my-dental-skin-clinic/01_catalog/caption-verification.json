@@ -1,0 +1,37 @@
+{
+  "status": "passed",
+  "duration": "12.000000",
+  "font_checks": [
+    {
+      "preset": "01-clean-clinic",
+      "font_selection": [
+        "[Parsed_ass_0 @ 0x7839028840] fontselect: (Clinic Sans A, 700, 0) -> ClinicSansA-Bold, 0, ClinicSansA-Bold"
+      ],
+      "missing_glyph_warnings": false
+    },
+    {
+      "preset": "02-bold-focus",
+      "font_selection": [
+        "[Parsed_ass_0 @ 0x7a4f064b40] fontselect: (Barlow Condensed, 700, 0) -> BarlowCondensed-Bold, 0, BarlowCondensed-Bold"
+      ],
+      "missing_glyph_warnings": false
+    },
+    {
+      "preset": "03-soft-editorial",
+      "font_selection": [
+        "[Parsed_ass_0 @ 0x779ec7cb40] fontselect: (Clinic Sans B, 700, 0) -> ClinicSansB-Bold, 0, ClinicSansB-Bold",
+        "[Parsed_ass_0 @ 0x779ec7cb40] fontselect: (Clinic Serif, 700, 0) -> ClinicSerif-MediumItalic, 0, ClinicSerif-MediumItalic",
+        "[Parsed_ass_0 @ 0x779ec7cb40] fontselect: (Clinic Serif, 400, 0) -> ClinicSerif-MediumItalic, 0, ClinicSerif-MediumItalic",
+        "[Parsed_ass_0 @ 0x779ec7cb40] fontselect: (Clinic Serif, 400, 100) -> ClinicSerif-MediumItalic, 0, ClinicSerif-MediumItalic"
+      ],
+      "missing_glyph_warnings": false
+    },
+    {
+      "preset": "04-hindi-clear",
+      "font_selection": [
+        "[Parsed_ass_0 @ 0x7565048b40] fontselect: (Clinic Hindi, 700, 0) -> ClinicHindi-Bold, 0, ClinicHindi-Bold"
+      ],
+      "missing_glyph_warnings": false
+    }
+  ]
+}

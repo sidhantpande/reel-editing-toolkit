@@ -33,3 +33,6 @@ qa/encoded/
 /public/raw
 /public/reference
 /public/proxies
+
+# Clinic workspace: camera media, client exports and previews remain local.
+workspaces/*/previews/

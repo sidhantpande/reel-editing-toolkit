@@ -1,6 +1,6 @@
-# ATFRO × NioLearn — AI editing kit
+# Reel editing toolkit
 
-Reusable, filesystem-first editing environment for an AI agent. Start with [AGENTS.md](AGENTS.md) and [the CLI workflow](docs/AI_WORKFLOW.md). No dashboard/server is needed.
+Reusable, filesystem-first editing environment for ATFRO, NioLearn and My Dental & Skin Clinic. The step-by-step, multi-brand entry point is [EDITING_PIPELINE.md](docs/EDITING_PIPELINE.md). Clinic style and source-aware rendering live in [the clinic workspace](workspaces/my-dental-skin-clinic/README.md). Start with [AGENTS.md](AGENTS.md) and [the CLI workflow](docs/AI_WORKFLOW.md). No dashboard/server is needed.
 
 ```sh
 git lfs pull
@@ -31,4 +31,14 @@ Portable checks run without old camera files. `npm run check:media` additionally
 
 Current reliable renderer: 1080×1920 / 30 fps, serial PNG capture, software GL and separate encoding. Preserve these settings unless encoded frames have been verified after a change. The runtime, model caches and virtual environments install locally; they are restored from version locks rather than stored in Git.
 
-Repository: private [sidhantpande/atfro-niolearn-reel-studio](https://github.com/sidhantpande/atfro-niolearn-reel-studio). Binary original assets use Git LFS. Third-party code/fonts retain attribution and licences; Remotion use is subject to its [included licence](docs/licenses/Remotion-LICENSE.md).
+Repository: private [sidhantpande/reel-editing-toolkit](https://github.com/sidhantpande/reel-editing-toolkit). Binary original assets use Git LFS. Third-party code/fonts retain attribution and licences; Remotion use is subject to its [included licence](docs/licenses/Remotion-LICENSE.md).
+
+## Clinic quick start
+
+```sh
+python3 tools/pipeline.py clinic doctor
+python3 tools/pipeline.py clinic status
+python3 tools/pipeline.py clinic assets
+```
+
+The user-approved clinic baseline is Reel-07 v05: transparent top-left logo, compact Mukta/Montserrat word captions and short dissolves. Approved user-supplied B-roll MP4s are backed up through Git LFS; camera recordings, reference reels, final exports and caches remain local. See the [clinic style guide](workspaces/my-dental-skin-clinic/docs/APPROVED_STYLE.md).

@@ -3,8 +3,8 @@
 ## Restore
 
 ```sh
-git clone https://github.com/sidhantpande/atfro-niolearn-reel-studio.git
-cd atfro-niolearn-reel-studio
+git clone https://github.com/sidhantpande/reel-editing-toolkit.git
+cd reel-editing-toolkit
 git lfs pull
 bash tools/bootstrap.sh
 python3 tools/reelctl.py doctor

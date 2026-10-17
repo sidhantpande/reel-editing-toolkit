@@ -1,0 +1,5 @@
+{
+  "atfro": {"workflow":"tools/reelctl.py","style":"docs/PREMIUM_STYLE.md","workspace":"projects/atfro"},
+  "niolearn": {"workflow":"tools/reelctl.py","style":"docs/PREMIUM_STYLE.md","workspace":"projects/niolearn"},
+  "clinic": {"workflow":"tools/pipeline.py clinic","style":"workspaces/my-dental-skin-clinic/docs/APPROVED_STYLE.md","config":"workspaces/my-dental-skin-clinic/styles/clinic-approved.json","workspace":"workspaces/my-dental-skin-clinic","approved_baseline":"reel-07/v05"}
+}

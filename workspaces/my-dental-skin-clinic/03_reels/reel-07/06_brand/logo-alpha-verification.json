@@ -1,0 +1,26 @@
+{
+  "mode": "builtin_imagegen_background_extraction",
+  "original_preserved": true,
+  "output": "/Users/sidhant/Desktop/Editing/my-dental-skin-reels/00_inbox/brand/my-dental-clinic-logo-transparent-v01.png",
+  "image_mode": "RGBA",
+  "size": [
+    1774,
+    887
+  ],
+  "alpha_min": 0,
+  "alpha_max": 255,
+  "fully_transparent_fraction": 0.9032,
+  "corner_alpha": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "visible_content_bounds_alpha16": [
+    162,
+    231,
+    1622,
+    698
+  ],
+  "sha256": "0f2134d5fb4c0258a462670c0500f61c1c463671213d03501fc60a010eeec95b"
+}

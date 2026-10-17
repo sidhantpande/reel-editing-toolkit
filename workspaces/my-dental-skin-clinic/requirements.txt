@@ -1,0 +1,5 @@
+# Already available locally; .venv uses system-site-packages.
+Pillow==12.2.0
+faster-whisper==1.2.1
+# Font preview tooling uses the locally installed fontTools and numpy versions
+# recorded in 01_catalog/environment.json.

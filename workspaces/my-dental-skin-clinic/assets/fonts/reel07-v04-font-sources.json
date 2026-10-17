@@ -1,0 +1,30 @@
+[
+  {
+    "family": "mukta",
+    "path": "assets/fonts/mukta/Mukta-ExtraBold.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/mukta/Mukta-ExtraBold.ttf",
+    "sha256": "328eeebffe06fac60d60b46fe60c3995a908d2347e9c285f1eef1a0c9d73e004",
+    "git_blob": "9fa75689789460aaef09850bdf37c1a53527946c"
+  },
+  {
+    "family": "mukta",
+    "path": "assets/fonts/mukta/OFL.txt",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/mukta/OFL.txt",
+    "sha256": "2ee5e8e47cd7d08f60bb9555f72b25912c9e81b13f5bc9a0551ddf943da6ca98",
+    "git_blob": "12057d5a1c20c7476c62a7509756036dc6fb6ed8"
+  },
+  {
+    "family": "montserrat",
+    "path": "assets/fonts/montserrat/Montserrat[wght].ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/montserrat/Montserrat%5Bwght%5D.ttf",
+    "sha256": "0f7b311b2f3279e4eef9b2f968bcdbab6e28f4daeb1f049f4f278a902bcd82f7",
+    "git_blob": "c97aca18592834d8706549c279cb8d5ac5d85f69"
+  },
+  {
+    "family": "montserrat",
+    "path": "assets/fonts/montserrat/OFL.txt",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/montserrat/OFL.txt",
+    "sha256": "8b7141c03fa4f8d44e6345d5d4931709290f0f67875e452e95ac1fd3a027802e",
+    "git_blob": "fe576a2ee1f96353b05d030c0b7620d525cc53a8"
+  }
+]

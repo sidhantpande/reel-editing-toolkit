@@ -1,0 +1,32 @@
+{
+  "assets": [
+    {
+      "path": "04_generated_broll/approved/reel-07_B01_implant_received.mp4",
+      "sha256": "8a031ecb136454dba85be2c8204fd79fb1eefb0a3690064ec1bd0ad2e9dc66dd",
+      "bytes": 1434041,
+      "duration": 10.005,
+      "dimensions": [
+        720,
+        1280
+      ],
+      "subject": "implant",
+      "source": "user supplied for Reel-07",
+      "rights": "User-supplied generated implant video; generator/provider not specified.",
+      "git_storage": "lfs"
+    },
+    {
+      "path": "04_generated_broll/approved/reel-07_B02_bridge_received.mp4",
+      "sha256": "358df685be05d72e2a948323861583c899567d33f9afb6af59d8ccf4983da823",
+      "bytes": 1514836,
+      "duration": 20.0,
+      "dimensions": [
+        720,
+        720
+      ],
+      "subject": "dental bridge",
+      "source": "user supplied for Reel-07",
+      "rights": "User supplied; third-party bridge clip rights not independently verified",
+      "git_storage": "lfs"
+    }
+  ]
+}

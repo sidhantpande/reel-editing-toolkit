@@ -1,0 +1,12 @@
+[0:v]eq=contrast=1.025:brightness=0.003:saturation=1.02,setsar=1[base];
+[1:v]fps=30,scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,setsar=1,setpts=PTS-STARTPTS+23.733/TB[implant];
+[2:v]fps=30,split=2[bg0][fg0];
+[bg0]scale=1920:1920,crop=1080:1920,gblur=sigma=35[bg];
+[fg0]scale=1000:1000[fg];
+[bg][fg]overlay=40:310,setsar=1,setpts=PTS-STARTPTS+33.417/TB[bridge];
+[base][implant]overlay=0:0:enable='between(t,23.733,29.233)'[withimplant];
+[withimplant][bridge]overlay=0:0:enable='between(t,33.417,38.917)'[withbroll];
+[withbroll][4:v]overlay=0:0[shaded];
+[3:v]crop=1460:468:162:230,scale=270:-1,format=rgba[logo];
+[shaded][logo]overlay=405:75[branded];
+[branded]ass=filename=/Users/sidhant/Desktop/Editing/my-dental-skin-reels/03_reels/reel-07/04_timeline/reference-captions-v02.ass:fontsdir=/Users/sidhant/Desktop/Editing/my-dental-skin-reels/assets/fonts/ready,format=yuv420p[out]

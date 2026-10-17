@@ -211,3 +211,10 @@ Search: `python3 tools/reelctl.py assets --query clock` or `python3 tools/reelct
 | website-teal | transparent-svg | [website-teal.svg](../public/assets/elements/website-teal.svg) |
 | website-white | transparent-svg | [website-white.svg](../public/assets/elements/website-white.svg) |
 | whip | original-synth-audio | [whip.wav](../public/assets/sfx/whip.wav) |
+
+## Clinic supplied B-roll
+
+Search: `python3 tools/reelctl.py assets --brand clinic --query implant`.
+
+- [implant](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/reel-07_B01_implant_received.mp4) — 10.01s; Git LFS; user supplied.
+- [dental bridge](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/reel-07_B02_bridge_received.mp4) — 20.00s; Git LFS; user supplied.

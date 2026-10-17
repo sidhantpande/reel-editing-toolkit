@@ -34,3 +34,10 @@ This is a filesystem and CLI editing kit, not a dashboard. Read `README.md`, `do
 - Store active original assets under `public/assets/`, native motion in `src/projects/`, licences/provenance under `docs/` and project provenance files. Historical variants in `archive/` are not the default approved look.
 - Run `python3 tools/catalog.py`, `npm run check`, `python3 tools/git_audit.py` before committing. Use `npm run check:media` only when all historical recordings have actually been restored.
 - Raw/reference/final videos, render caches, models, virtual environments and node_modules stay out of Git. Use Git LFS for original binary assets. Never remove unique user media without explicit authorization; this initial batch's local media deletion was explicitly authorized after the reusable private backup was verified.
+
+## Multi-brand pipeline and clinic workspace
+
+- Repository name: `reel-editing-toolkit` (renamed from the ATFRO/NioLearn-specific name at the user's request). Start with `docs/EDITING_PIPELINE.md`.
+- My Dental & Skin Clinic lives in `workspaces/my-dental-skin-clinic`; read its own AGENTS/style files before work there. Its user-approved look differs from the ATFRO/NioLearn palette and captions.
+- The user explicitly authorised backing up approved clinic B-roll MP4s in the existing private repository. Use Git LFS and keep checksummed provenance. Existing exclusion rules still apply to raw/reference/client-export/cache media. The older batch's deletion authorisation does not apply to new clinic footage.
+- Use `tools/pipeline.py` as the brand entry point; preserve `tools/reelctl.py` and existing scene/asset workflows.
