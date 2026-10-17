@@ -1,0 +1,32 @@
+{
+  "export": "/Users/sidhant/Desktop/Editing/atfro-niolearn-reel-studio/workspaces/my-dental-skin-clinic/05_exports/review/reel-08_aroll-preview_v01.mp4",
+  "status": "A-roll preview; two user-generated hygiene B-rolls pending; caption dialogue review remains draft",
+  "duration": 54.6,
+  "frames": 1638,
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "audio_duration": "54.600000",
+  "full_decode_passed": true,
+  "preflight_aroll_passed": true,
+  "full_render_correctly_blocked_for_missing_broll": true,
+  "source_hashes_checked": true,
+  "caption_words": 153,
+  "garbled_replacement_characters_burned": false,
+  "dissolves": 7,
+  "dissolve_seconds": 0.2,
+  "logo": "transparent top-left",
+  "human_listening_available": false,
+  "checks": [
+    "source contact sheets and dense gaze sheets",
+    "per-source crop calibration",
+    "independent small and pinned turbo ASR",
+    "selected source ranges exclude setup/tail and alternate campaign pickup",
+    "caption correction for rinsing lead-in supported by independent full ASR and local alignment",
+    "shared-renderer portrait/square B-roll smoke exports decoded",
+    "full encoded preview decoded; exact A/V durations and frame count",
+    "pending-media gate tested"
+  ],
+  "sha256": "aeac4b8467f6f04097113ef7d7f67ea4b53ff9d2372fb2a839be5862c618c863"
+}

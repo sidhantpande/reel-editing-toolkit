@@ -87,6 +87,9 @@ def doctor(_):
     print(json.dumps(data, indent=2))
     if not model_path():
         raise RuntimeError('Multilingual small model is not downloaded yet')
+    preferred=CONFIG.get('transcription',{}).get('model','small')
+    if not model_path(preferred):
+        raise RuntimeError('Configured ASR model missing; run tools/fetch_model.py --model '+preferred)
 
 
 def ingest(a):

@@ -1,0 +1,1798 @@
+{
+  "reel_id": "reel-08",
+  "version": "v01",
+  "fps": 30,
+  "duration_seconds": 54.6,
+  "status": "A-roll arrangement / normalized draft captions; pending 2 new user-generated B-rolls and final dialogue review",
+  "approved_style": "my-dental-v05-approved",
+  "segments": [
+    {
+      "id": "hook",
+      "source_id": "0101",
+      "clip_id": "clip-51a039fea1aafa90",
+      "source": "/Users/sidhant/Desktop/Editing/Reel-08/DJI_20261004211213_0101_D.MP4",
+      "source_sha256": "51a039fea1aafa907ccb6aecd689dd3c68000a36dc8a2809439c3f66e97e0294",
+      "source_duration": 97.514667,
+      "source_in": 2.67,
+      "source_out": 4.97,
+      "timeline_in": 0.0,
+      "timeline_out": 2.3,
+      "crop_xywh": {
+        "x": 216,
+        "y": 480,
+        "width": 1296,
+        "height": 2304
+      },
+      "note": "hook"
+    },
+    {
+      "id": "Mahagauri / purity",
+      "source_id": "0101",
+      "clip_id": "clip-51a039fea1aafa90",
+      "source": "/Users/sidhant/Desktop/Editing/Reel-08/DJI_20261004211213_0101_D.MP4",
+      "source_sha256": "51a039fea1aafa907ccb6aecd689dd3c68000a36dc8a2809439c3f66e97e0294",
+      "source_duration": 97.514667,
+      "source_in": 5.48,
+      "source_out": 15.013333333333334,
+      "timeline_in": 2.3,
+      "timeline_out": 11.833333333333334,
+      "crop_xywh": {
+        "x": 216,
+        "y": 480,
+        "width": 1296,
+        "height": 2304
+      },
+      "note": "Mahagauri / purity"
+    },
+    {
+      "id": "brushing and fluoride",
+      "source_id": "0101",
+      "clip_id": "clip-51a039fea1aafa90",
+      "source": "/Users/sidhant/Desktop/Editing/Reel-08/DJI_20261004211213_0101_D.MP4",
+      "source_sha256": "51a039fea1aafa907ccb6aecd689dd3c68000a36dc8a2809439c3f66e97e0294",
+      "source_duration": 97.514667,
+      "source_in": 27.4,
+      "source_out": 34.6,
+      "timeline_in": 11.833333333333334,
+      "timeline_out": 19.033333333333335,
+      "crop_xywh": {
+        "x": 216,
+        "y": 480,
+        "width": 1296,
+        "height": 2304
+      },
+      "note": "brushing and fluoride"
+    },
+    {
+      "id": "after-meal rinsing",
+      "source_id": "0101",
+      "clip_id": "clip-51a039fea1aafa90",
+      "source": "/Users/sidhant/Desktop/Editing/Reel-08/DJI_20261004211213_0101_D.MP4",
+      "source_sha256": "51a039fea1aafa907ccb6aecd689dd3c68000a36dc8a2809439c3f66e97e0294",
+      "source_duration": 97.514667,
+      "source_in": 39.65,
+      "source_out": 44.71666666666667,
+      "timeline_in": 19.033333333333335,
+      "timeline_out": 24.1,
+      "crop_xywh": {
+        "x": 216,
+        "y": 480,
+        "width": 1296,
+        "height": 2304
+      },
+      "note": "after-meal rinsing"
+    },
+    {
+      "id": "hydration",
+      "source_id": "0101",
+      "clip_id": "clip-51a039fea1aafa90",
+      "source": "/Users/sidhant/Desktop/Editing/Reel-08/DJI_20261004211213_0101_D.MP4",
+      "source_sha256": "51a039fea1aafa907ccb6aecd689dd3c68000a36dc8a2809439c3f66e97e0294",
+      "source_duration": 97.514667,
+      "source_in": 45.8,
+      "source_out": 48.266666666666666,
+      "timeline_in": 24.1,
+      "timeline_out": 26.566666666666666,
+      "crop_xywh": {
+        "x": 216,
+        "y": 480,
+        "width": 1296,
+        "height": 2304
+      },
+      "note": "hydration"
+    },
+    {
+      "id": "all surfaces / interdental flossing",
+      "source_id": "0101",
+      "clip_id": "clip-51a039fea1aafa90",
+      "source": "/Users/sidhant/Desktop/Editing/Reel-08/DJI_20261004211213_0101_D.MP4",
+      "source_sha256": "51a039fea1aafa907ccb6aecd689dd3c68000a36dc8a2809439c3f66e97e0294",
+      "source_duration": 97.514667,
+      "source_in": 49.99,
+      "source_out": 62.09,
+      "timeline_in": 26.566666666666666,
+      "timeline_out": 38.666666666666664,
+      "crop_xywh": {
+        "x": 216,
+        "y": 480,
+        "width": 1296,
+        "height": 2304
+      },
+      "note": "all surfaces / interdental flossing"
+    },
+    {
+      "id": "mouthwash",
+      "source_id": "0101",
+      "clip_id": "clip-51a039fea1aafa90",
+      "source": "/Users/sidhant/Desktop/Editing/Reel-08/DJI_20261004211213_0101_D.MP4",
+      "source_sha256": "51a039fea1aafa907ccb6aecd689dd3c68000a36dc8a2809439c3f66e97e0294",
+      "source_duration": 97.514667,
+      "source_in": 63.24,
+      "source_out": 73.07333333333334,
+      "timeline_in": 38.666666666666664,
+      "timeline_out": 48.5,
+      "crop_xywh": {
+        "x": 216,
+        "y": 480,
+        "width": 1296,
+        "height": 2304
+      },
+      "note": "mouthwash"
+    },
+    {
+      "id": "dental hygiene closing",
+      "source_id": "0102",
+      "clip_id": "clip-8f31e6c41ba7b3a2",
+      "source": "/Users/sidhant/Desktop/Editing/Reel-08/DJI_20261004211434_0102_D.MP4",
+      "source_sha256": "8f31e6c41ba7b3a2abc1c26ba2b0a8ae9aedc0ac95c0d3020c6612035354e589",
+      "source_duration": 8.192,
+      "source_in": 0,
+      "source_out": 6.1,
+      "timeline_in": 48.5,
+      "timeline_out": 54.6,
+      "crop_xywh": {
+        "x": 270,
+        "y": 900,
+        "width": 1188,
+        "height": 2112
+      },
+      "note": "dental hygiene closing"
+    }
+  ],
+  "words": [
+    {
+      "text": "हर",
+      "phrase_id": 0,
+      "source_id": "0101",
+      "source_start": 2.78,
+      "source_end": 3.38,
+      "start": 0.11,
+      "end": 0.71,
+      "alignment_probability": 0.9943623244762421
+    },
+    {
+      "text": "एक",
+      "phrase_id": 0,
+      "source_id": "0101",
+      "source_start": 3.38,
+      "source_end": 3.68,
+      "start": 0.71,
+      "end": 1.01,
+      "alignment_probability": 0.9982220927874247
+    },
+    {
+      "text": "दाँत",
+      "phrase_id": 0,
+      "source_id": "0101",
+      "source_start": 3.68,
+      "source_end": 3.9,
+      "start": 1.01,
+      "end": 1.23,
+      "alignment_probability": 0.8543346524238586
+    },
+    {
+      "text": "जरूरी",
+      "phrase_id": 0,
+      "source_id": "0101",
+      "source_start": 3.9,
+      "source_end": 4.3,
+      "start": 1.23,
+      "end": 1.63,
+      "alignment_probability": 0.9632862039974758
+    },
+    {
+      "text": "होता",
+      "phrase_id": 1,
+      "source_id": "0101",
+      "source_start": 4.3,
+      "source_end": 4.6,
+      "start": 1.63,
+      "end": 1.93,
+      "alignment_probability": 0.9984187483787537
+    },
+    {
+      "text": "है",
+      "phrase_id": 1,
+      "source_id": "0101",
+      "source_start": 4.6,
+      "source_end": 4.74,
+      "start": 1.93,
+      "end": 2.07,
+      "alignment_probability": 0.9983790218830109
+    },
+    {
+      "text": "आज",
+      "phrase_id": 2,
+      "source_id": "0101",
+      "source_start": 5.559999999999999,
+      "source_end": 6.18,
+      "start": 2.38,
+      "end": 3.0,
+      "alignment_probability": 0.7642106022685766
+    },
+    {
+      "text": "महागौरी",
+      "phrase_id": 2,
+      "source_id": "0101",
+      "source_start": 6.18,
+      "source_end": 6.8,
+      "start": 3.0,
+      "end": 3.62,
+      "alignment_probability": 0.8422770996888479
+    },
+    {
+      "text": "का",
+      "phrase_id": 2,
+      "source_id": "0101",
+      "source_start": 6.8,
+      "source_end": 7.0,
+      "start": 3.62,
+      "end": 3.82,
+      "alignment_probability": 0.996421217918396
+    },
+    {
+      "text": "दिन",
+      "phrase_id": 2,
+      "source_id": "0101",
+      "source_start": 7.0,
+      "source_end": 7.16,
+      "start": 3.82,
+      "end": 3.98,
+      "alignment_probability": 0.9827078878879547
+    },
+    {
+      "text": "है",
+      "phrase_id": 3,
+      "source_id": "0101",
+      "source_start": 7.16,
+      "source_end": 7.3,
+      "start": 3.98,
+      "end": 4.12,
+      "alignment_probability": 0.9982675313949585
+    },
+    {
+      "text": "महागौरी",
+      "phrase_id": 4,
+      "source_id": "0101",
+      "source_start": 7.999999999999998,
+      "source_end": 8.62,
+      "start": 4.82,
+      "end": 5.44,
+      "alignment_probability": 0.9770796166525947
+    },
+    {
+      "text": "signifies",
+      "phrase_id": 4,
+      "source_id": "0101",
+      "source_start": 8.62,
+      "source_end": 9.22,
+      "start": 5.44,
+      "end": 6.04,
+      "alignment_probability": 0.8093013273818153
+    },
+    {
+      "text": "about",
+      "phrase_id": 4,
+      "source_id": "0101",
+      "source_start": 9.22,
+      "source_end": 9.58,
+      "start": 6.04,
+      "end": 6.4,
+      "alignment_probability": 0.6301111238343375
+    },
+    {
+      "text": "purity",
+      "phrase_id": 4,
+      "source_id": "0101",
+      "source_start": 9.58,
+      "source_end": 10.08,
+      "start": 6.4,
+      "end": 6.9,
+      "alignment_probability": 0.9272200573574413
+    },
+    {
+      "text": "इसी",
+      "phrase_id": 5,
+      "source_id": "0101",
+      "source_start": 10.08,
+      "source_end": 10.7,
+      "start": 6.9,
+      "end": 7.52,
+      "alignment_probability": 0.9795767813920975
+    },
+    {
+      "text": "को",
+      "phrase_id": 5,
+      "source_id": "0101",
+      "source_start": 10.7,
+      "source_end": 10.86,
+      "start": 7.52,
+      "end": 7.68,
+      "alignment_probability": 0.9920042753219604
+    },
+    {
+      "text": "remember",
+      "phrase_id": 5,
+      "source_id": "0101",
+      "source_start": 10.86,
+      "source_end": 11.28,
+      "start": 7.68,
+      "end": 8.1,
+      "alignment_probability": 0.9628363185458713
+    },
+    {
+      "text": "करते",
+      "phrase_id": 5,
+      "source_id": "0101",
+      "source_start": 11.28,
+      "source_end": 11.6,
+      "start": 8.1,
+      "end": 8.42,
+      "alignment_probability": 0.9819379150867462
+    },
+    {
+      "text": "हुए",
+      "phrase_id": 6,
+      "source_id": "0101",
+      "source_start": 11.6,
+      "source_end": 11.8,
+      "start": 8.42,
+      "end": 8.62,
+      "alignment_probability": 0.855374526977539
+    },
+    {
+      "text": "हम",
+      "phrase_id": 6,
+      "source_id": "0101",
+      "source_start": 11.8,
+      "source_end": 12.52,
+      "start": 8.62,
+      "end": 9.34,
+      "alignment_probability": 0.9147521555423737
+    },
+    {
+      "text": "दाँत",
+      "phrase_id": 6,
+      "source_id": "0101",
+      "source_start": 12.52,
+      "source_end": 13.32,
+      "start": 9.34,
+      "end": 10.14,
+      "alignment_probability": 0.9025398969650269
+    },
+    {
+      "text": "की",
+      "phrase_id": 6,
+      "source_id": "0101",
+      "source_start": 13.32,
+      "source_end": 13.46,
+      "start": 10.14,
+      "end": 10.28,
+      "alignment_probability": 0.9751754105091095
+    },
+    {
+      "text": "सफाई",
+      "phrase_id": 7,
+      "source_id": "0101",
+      "source_start": 13.46,
+      "source_end": 13.82,
+      "start": 10.28,
+      "end": 10.64,
+      "alignment_probability": 0.9584316114584605
+    },
+    {
+      "text": "की",
+      "phrase_id": 7,
+      "source_id": "0101",
+      "source_start": 13.82,
+      "source_end": 14.08,
+      "start": 10.64,
+      "end": 10.9,
+      "alignment_probability": 0.7575902938842773
+    },
+    {
+      "text": "तरफ",
+      "phrase_id": 7,
+      "source_id": "0101",
+      "source_start": 14.18,
+      "source_end": 14.46,
+      "start": 11.0,
+      "end": 11.28,
+      "alignment_probability": 0.829620623588562
+    },
+    {
+      "text": "जाते",
+      "phrase_id": 7,
+      "source_id": "0101",
+      "source_start": 14.46,
+      "source_end": 14.78,
+      "start": 11.28,
+      "end": 11.6,
+      "alignment_probability": 0.9785825490951539
+    },
+    {
+      "text": "हैं",
+      "phrase_id": 8,
+      "source_id": "0101",
+      "source_start": 14.78,
+      "source_end": 14.96,
+      "start": 11.6,
+      "end": 11.78,
+      "alignment_probability": 0.8500975966453552
+    },
+    {
+      "text": "बहुत",
+      "phrase_id": 8,
+      "source_id": "0101",
+      "source_start": 27.4,
+      "source_end": 27.98,
+      "start": 11.83333,
+      "end": 12.41333,
+      "alignment_probability": 0.8201835006475449
+    },
+    {
+      "text": "आपको",
+      "phrase_id": 8,
+      "source_id": "0101",
+      "source_start": 27.459999999999997,
+      "source_end": 27.9,
+      "start": 11.89333,
+      "end": 12.33333,
+      "alignment_probability": 0.9062599639097849
+    },
+    {
+      "text": "दो",
+      "phrase_id": 8,
+      "source_id": "0101",
+      "source_start": 27.9,
+      "source_end": 28.12,
+      "start": 12.33333,
+      "end": 12.55333,
+      "alignment_probability": 0.9719391862551371
+    },
+    {
+      "text": "बार",
+      "phrase_id": 9,
+      "source_id": "0101",
+      "source_start": 28.12,
+      "source_end": 28.3,
+      "start": 12.55333,
+      "end": 12.73333,
+      "alignment_probability": 0.9726267009973526
+    },
+    {
+      "text": "brush",
+      "phrase_id": 9,
+      "source_id": "0101",
+      "source_start": 28.3,
+      "source_end": 28.54,
+      "start": 12.73333,
+      "end": 12.97333,
+      "alignment_probability": 0.8495424687862396
+    },
+    {
+      "text": "करना",
+      "phrase_id": 9,
+      "source_id": "0101",
+      "source_start": 28.54,
+      "source_end": 28.86,
+      "start": 12.97333,
+      "end": 13.29333,
+      "alignment_probability": 0.9926220625638962
+    },
+    {
+      "text": "है",
+      "phrase_id": 9,
+      "source_id": "0101",
+      "source_start": 28.86,
+      "source_end": 28.94,
+      "start": 13.29333,
+      "end": 13.37333,
+      "alignment_probability": 0.9921381771564484
+    },
+    {
+      "text": "कोई",
+      "phrase_id": 10,
+      "source_id": "0101",
+      "source_start": 29.02,
+      "source_end": 29.240000000000002,
+      "start": 13.45333,
+      "end": 13.67333,
+      "alignment_probability": 0.9925021380186081
+    },
+    {
+      "text": "भी",
+      "phrase_id": 10,
+      "source_id": "0101",
+      "source_start": 29.240000000000002,
+      "source_end": 29.38,
+      "start": 13.67333,
+      "end": 13.81333,
+      "alignment_probability": 0.9951168298721313
+    },
+    {
+      "text": "fluoride",
+      "phrase_id": 10,
+      "source_id": "0101",
+      "source_start": 29.38,
+      "source_end": 29.78,
+      "start": 13.81333,
+      "end": 14.21333,
+      "alignment_probability": 0.8827575569351515
+    },
+    {
+      "text": "paste",
+      "phrase_id": 10,
+      "source_id": "0101",
+      "source_start": 29.78,
+      "source_end": 30.1,
+      "start": 14.21333,
+      "end": 14.53333,
+      "alignment_probability": 0.9755098649433681
+    },
+    {
+      "text": "use",
+      "phrase_id": 11,
+      "source_id": "0101",
+      "source_start": 30.1,
+      "source_end": 30.32,
+      "start": 14.53333,
+      "end": 14.75333,
+      "alignment_probability": 0.9076934605836868
+    },
+    {
+      "text": "करना",
+      "phrase_id": 11,
+      "source_id": "0101",
+      "source_start": 30.32,
+      "source_end": 30.62,
+      "start": 14.75333,
+      "end": 15.05333,
+      "alignment_probability": 0.984854519367218
+    },
+    {
+      "text": "है",
+      "phrase_id": 11,
+      "source_id": "0101",
+      "source_start": 30.62,
+      "source_end": 30.78,
+      "start": 15.05333,
+      "end": 15.21333,
+      "alignment_probability": 0.9990862011909485
+    },
+    {
+      "text": "सुबह",
+      "phrase_id": 12,
+      "source_id": "0101",
+      "source_start": 31.28,
+      "source_end": 31.62,
+      "start": 15.71333,
+      "end": 16.05333,
+      "alignment_probability": 0.83628482123216
+    },
+    {
+      "text": "उठते",
+      "phrase_id": 12,
+      "source_id": "0101",
+      "source_start": 31.62,
+      "source_end": 31.92,
+      "start": 16.05333,
+      "end": 16.35333,
+      "alignment_probability": 0.9080394903818766
+    },
+    {
+      "text": "से",
+      "phrase_id": 12,
+      "source_id": "0101",
+      "source_start": 31.92,
+      "source_end": 32.06,
+      "start": 16.35333,
+      "end": 16.49333,
+      "alignment_probability": 0.9975312054157257
+    },
+    {
+      "text": "brush",
+      "phrase_id": 12,
+      "source_id": "0101",
+      "source_start": 32.06,
+      "source_end": 32.28,
+      "start": 16.49333,
+      "end": 16.71333,
+      "alignment_probability": 0.9935569961865743
+    },
+    {
+      "text": "करना",
+      "phrase_id": 13,
+      "source_id": "0101",
+      "source_start": 32.28,
+      "source_end": 32.62,
+      "start": 16.71333,
+      "end": 17.05333,
+      "alignment_probability": 0.9992727041244507
+    },
+    {
+      "text": "है",
+      "phrase_id": 13,
+      "source_id": "0101",
+      "source_start": 32.62,
+      "source_end": 32.68,
+      "start": 17.05333,
+      "end": 17.11333,
+      "alignment_probability": 0.9992654621601105
+    },
+    {
+      "text": "रात",
+      "phrase_id": 13,
+      "source_id": "0101",
+      "source_start": 32.82,
+      "source_end": 33.08,
+      "start": 17.25333,
+      "end": 17.51333,
+      "alignment_probability": 0.935022160410881
+    },
+    {
+      "text": "को",
+      "phrase_id": 13,
+      "source_id": "0101",
+      "source_start": 33.08,
+      "source_end": 33.2,
+      "start": 17.51333,
+      "end": 17.63333,
+      "alignment_probability": 0.9725542664527893
+    },
+    {
+      "text": "सोने",
+      "phrase_id": 14,
+      "source_id": "0101",
+      "source_start": 33.2,
+      "source_end": 33.480000000000004,
+      "start": 17.63333,
+      "end": 17.91333,
+      "alignment_probability": 0.9890410602092743
+    },
+    {
+      "text": "से",
+      "phrase_id": 14,
+      "source_id": "0101",
+      "source_start": 33.480000000000004,
+      "source_end": 33.6,
+      "start": 17.91333,
+      "end": 18.03333,
+      "alignment_probability": 0.9990728497505188
+    },
+    {
+      "text": "पहले",
+      "phrase_id": 14,
+      "source_id": "0101",
+      "source_start": 33.6,
+      "source_end": 33.84,
+      "start": 18.03333,
+      "end": 18.27333,
+      "alignment_probability": 0.7845898628234863
+    },
+    {
+      "text": "brush",
+      "phrase_id": 14,
+      "source_id": "0101",
+      "source_start": 33.84,
+      "source_end": 34.06,
+      "start": 18.27333,
+      "end": 18.49333,
+      "alignment_probability": 0.9593250552813212
+    },
+    {
+      "text": "करना",
+      "phrase_id": 15,
+      "source_id": "0101",
+      "source_start": 34.06,
+      "source_end": 34.4,
+      "start": 18.49333,
+      "end": 18.83333,
+      "alignment_probability": 0.9928537458181381
+    },
+    {
+      "text": "है",
+      "phrase_id": 15,
+      "source_id": "0101",
+      "source_start": 34.4,
+      "source_end": 34.480000000000004,
+      "start": 18.83333,
+      "end": 18.91333,
+      "alignment_probability": 0.9977662265300751
+    },
+    {
+      "text": "जब",
+      "phrase_id": 15,
+      "source_id": "0101",
+      "source_start": 39.65,
+      "source_end": 40.01,
+      "start": 19.03333,
+      "end": 19.39333,
+      "alignment_probability": 0.8018187284469604
+    },
+    {
+      "text": "जब",
+      "phrase_id": 15,
+      "source_id": "0101",
+      "source_start": 40.01,
+      "source_end": 40.23,
+      "start": 19.39333,
+      "end": 19.61333,
+      "alignment_probability": 0.8656489700078964
+    },
+    {
+      "text": "आप",
+      "phrase_id": 16,
+      "source_id": "0101",
+      "source_start": 40.23,
+      "source_end": 40.41,
+      "start": 19.61333,
+      "end": 19.79333,
+      "alignment_probability": 0.7268278375267982
+    },
+    {
+      "text": "दिन",
+      "phrase_id": 16,
+      "source_id": "0101",
+      "source_start": 40.41,
+      "source_end": 40.61,
+      "start": 19.79333,
+      "end": 19.99333,
+      "alignment_probability": 0.6303264833986759
+    },
+    {
+      "text": "भर",
+      "phrase_id": 16,
+      "source_id": "0101",
+      "source_start": 40.61,
+      "source_end": 40.75,
+      "start": 19.99333,
+      "end": 20.13333,
+      "alignment_probability": 0.3884580160180728
+    },
+    {
+      "text": "में",
+      "phrase_id": 16,
+      "source_id": "0101",
+      "source_start": 40.75,
+      "source_end": 40.89,
+      "start": 20.13333,
+      "end": 20.27333,
+      "alignment_probability": 0.6439270774523417
+    },
+    {
+      "text": "खाना",
+      "phrase_id": 17,
+      "source_id": "0101",
+      "source_start": 40.89,
+      "source_end": 41.19,
+      "start": 20.27333,
+      "end": 20.57333,
+      "alignment_probability": 0.6735814988613129
+    },
+    {
+      "text": "खाते",
+      "phrase_id": 17,
+      "source_id": "0101",
+      "source_start": 41.19,
+      "source_end": 41.51,
+      "start": 20.57333,
+      "end": 20.89333,
+      "alignment_probability": 0.4061246909201145
+    },
+    {
+      "text": "हो",
+      "phrase_id": 17,
+      "source_id": "0101",
+      "source_start": 41.51,
+      "source_end": 41.629999999999995,
+      "start": 20.89333,
+      "end": 21.01333,
+      "alignment_probability": 0.7650398015975952
+    },
+    {
+      "text": "आपको",
+      "phrase_id": 17,
+      "source_id": "0101",
+      "source_start": 41.629999999999995,
+      "source_end": 42.15,
+      "start": 21.01333,
+      "end": 21.53333,
+      "alignment_probability": 0.7811284065246582
+    },
+    {
+      "text": "अच्छे",
+      "phrase_id": 18,
+      "source_id": "0101",
+      "source_start": 42.15,
+      "source_end": 42.61,
+      "start": 21.53333,
+      "end": 21.99333,
+      "alignment_probability": 0.7531164549291134
+    },
+    {
+      "text": "से",
+      "phrase_id": 18,
+      "source_id": "0101",
+      "source_start": 42.61,
+      "source_end": 43.43,
+      "start": 21.99333,
+      "end": 22.81333,
+      "alignment_probability": 0.6010194644331932
+    },
+    {
+      "text": "gargle",
+      "phrase_id": 18,
+      "source_id": "0101",
+      "source_start": 43.43,
+      "source_end": 44.089999999999996,
+      "start": 22.81333,
+      "end": 23.47333,
+      "alignment_probability": 0.091779399819643
+    },
+    {
+      "text": "करना",
+      "phrase_id": 18,
+      "source_id": "0101",
+      "source_start": 44.089999999999996,
+      "source_end": 44.39,
+      "start": 23.47333,
+      "end": 23.77333,
+      "alignment_probability": 0.5682615949772298
+    },
+    {
+      "text": "है",
+      "phrase_id": 19,
+      "source_id": "0101",
+      "source_start": 44.39,
+      "source_end": 44.489999999999995,
+      "start": 23.77333,
+      "end": 23.87333,
+      "alignment_probability": 0.9266097843647003
+    },
+    {
+      "text": "hydration",
+      "phrase_id": 19,
+      "source_id": "0101",
+      "source_start": 45.8,
+      "source_end": 46.480000000000004,
+      "start": 24.1,
+      "end": 24.78,
+      "alignment_probability": 0.8550784240166346
+    },
+    {
+      "text": "maintain",
+      "phrase_id": 19,
+      "source_id": "0101",
+      "source_start": 46.480000000000004,
+      "source_end": 46.86,
+      "start": 24.78,
+      "end": 25.16,
+      "alignment_probability": 0.8906785930906024
+    },
+    {
+      "text": "करो",
+      "phrase_id": 19,
+      "source_id": "0101",
+      "source_start": 46.86,
+      "source_end": 47.06,
+      "start": 25.16,
+      "end": 25.36,
+      "alignment_probability": 0.9773097038269043
+    },
+    {
+      "text": "पानी",
+      "phrase_id": 20,
+      "source_id": "0101",
+      "source_start": 47.06,
+      "source_end": 47.54,
+      "start": 25.36,
+      "end": 25.84,
+      "alignment_probability": 0.9654673218727112
+    },
+    {
+      "text": "ज्यादा",
+      "phrase_id": 20,
+      "source_id": "0101",
+      "source_start": 47.54,
+      "source_end": 47.84,
+      "start": 25.84,
+      "end": 26.14,
+      "alignment_probability": 0.8248972781002522
+    },
+    {
+      "text": "पियो",
+      "phrase_id": 20,
+      "source_id": "0101",
+      "source_start": 47.84,
+      "source_end": 48.14,
+      "start": 26.14,
+      "end": 26.44,
+      "alignment_probability": 0.7866811096668244
+    },
+    {
+      "text": "येस",
+      "phrase_id": 20,
+      "source_id": "0101",
+      "source_start": 48.14,
+      "source_end": 48.266666666666666,
+      "start": 26.44,
+      "end": 26.56667,
+      "alignment_probability": 0.797235369682312
+    },
+    {
+      "text": "जब",
+      "phrase_id": 21,
+      "source_id": "0101",
+      "source_start": 49.99,
+      "source_end": 50.54,
+      "start": 26.56667,
+      "end": 27.11667,
+      "alignment_probability": 0.9795671254396439
+    },
+    {
+      "text": "आप",
+      "phrase_id": 21,
+      "source_id": "0101",
+      "source_start": 50.54,
+      "source_end": 50.64,
+      "start": 27.11667,
+      "end": 27.21667,
+      "alignment_probability": 0.967792347073555
+    },
+    {
+      "text": "दाँत",
+      "phrase_id": 21,
+      "source_id": "0101",
+      "source_start": 50.64,
+      "source_end": 50.92,
+      "start": 27.21667,
+      "end": 27.49667,
+      "alignment_probability": 0.8556786894798278
+    },
+    {
+      "text": "clean",
+      "phrase_id": 21,
+      "source_id": "0101",
+      "source_start": 50.92,
+      "source_end": 51.34,
+      "start": 27.49667,
+      "end": 27.91667,
+      "alignment_probability": 0.9573540925979614
+    },
+    {
+      "text": "clean",
+      "phrase_id": 22,
+      "source_id": "0101",
+      "source_start": 51.0,
+      "source_end": 51.34,
+      "start": 27.57667,
+      "end": 27.91667,
+      "alignment_probability": 0.7156676471233367
+    },
+    {
+      "text": "करते",
+      "phrase_id": 22,
+      "source_id": "0101",
+      "source_start": 51.34,
+      "source_end": 51.72,
+      "start": 27.91667,
+      "end": 28.29667,
+      "alignment_probability": 0.9658065438270569
+    },
+    {
+      "text": "हो",
+      "phrase_id": 22,
+      "source_id": "0101",
+      "source_start": 51.72,
+      "source_end": 51.8,
+      "start": 28.29667,
+      "end": 28.37667,
+      "alignment_probability": 0.8739818632602692
+    },
+    {
+      "text": "सिर्फ",
+      "phrase_id": 22,
+      "source_id": "0101",
+      "source_start": 51.8,
+      "source_end": 52.18,
+      "start": 28.37667,
+      "end": 28.75667,
+      "alignment_probability": 0.8964880307515463
+    },
+    {
+      "text": "ऊपर",
+      "phrase_id": 23,
+      "source_id": "0101",
+      "source_start": 52.18,
+      "source_end": 52.48,
+      "start": 28.75667,
+      "end": 29.05667,
+      "alignment_probability": 0.8977653622627259
+    },
+    {
+      "text": "का",
+      "phrase_id": 23,
+      "source_id": "0101",
+      "source_start": 52.48,
+      "source_end": 52.6,
+      "start": 29.05667,
+      "end": 29.17667,
+      "alignment_probability": 0.9598434865474701
+    },
+    {
+      "text": "surface",
+      "phrase_id": 23,
+      "source_id": "0101",
+      "source_start": 52.6,
+      "source_end": 52.92,
+      "start": 29.17667,
+      "end": 29.49667,
+      "alignment_probability": 0.8388014435768127
+    },
+    {
+      "text": "clean",
+      "phrase_id": 23,
+      "source_id": "0101",
+      "source_start": 52.92,
+      "source_end": 53.2,
+      "start": 29.49667,
+      "end": 29.77667,
+      "alignment_probability": 0.9693657994270325
+    },
+    {
+      "text": "नहीं",
+      "phrase_id": 24,
+      "source_id": "0101",
+      "source_start": 53.2,
+      "source_end": 53.32,
+      "start": 29.77667,
+      "end": 29.89667,
+      "alignment_probability": 0.8611822009086609
+    },
+    {
+      "text": "करना",
+      "phrase_id": 24,
+      "source_id": "0101",
+      "source_start": 53.32,
+      "source_end": 53.64,
+      "start": 29.89667,
+      "end": 30.21667,
+      "alignment_probability": 0.9782496094703674
+    },
+    {
+      "text": "है",
+      "phrase_id": 24,
+      "source_id": "0101",
+      "source_start": 53.64,
+      "source_end": 53.76,
+      "start": 30.21667,
+      "end": 30.33667,
+      "alignment_probability": 0.9837715923786163
+    },
+    {
+      "text": "आपको",
+      "phrase_id": 24,
+      "source_id": "0101",
+      "source_start": 53.76,
+      "source_end": 54.36,
+      "start": 30.33667,
+      "end": 30.93667,
+      "alignment_probability": 0.9620742698510488
+    },
+    {
+      "text": "उसके",
+      "phrase_id": 25,
+      "source_id": "0101",
+      "source_start": 54.36,
+      "source_end": 54.84,
+      "start": 30.93667,
+      "end": 31.41667,
+      "alignment_probability": 0.9533864498138428
+    },
+    {
+      "text": "सारे",
+      "phrase_id": 25,
+      "source_id": "0101",
+      "source_start": 54.84,
+      "source_end": 55.3,
+      "start": 31.41667,
+      "end": 31.87667,
+      "alignment_probability": 0.9890142381191254
+    },
+    {
+      "text": "surface",
+      "phrase_id": 25,
+      "source_id": "0101",
+      "source_start": 55.3,
+      "source_end": 55.78,
+      "start": 31.87667,
+      "end": 32.35667,
+      "alignment_probability": 0.9640494925635201
+    },
+    {
+      "text": "को",
+      "phrase_id": 25,
+      "source_id": "0101",
+      "source_start": 55.78,
+      "source_end": 56.04,
+      "start": 32.35667,
+      "end": 32.61667,
+      "alignment_probability": 0.6837612688541412
+    },
+    {
+      "text": "clean",
+      "phrase_id": 26,
+      "source_id": "0101",
+      "source_start": 56.04,
+      "source_end": 56.3,
+      "start": 32.61667,
+      "end": 32.87667,
+      "alignment_probability": 0.9413164019584656
+    },
+    {
+      "text": "करना",
+      "phrase_id": 26,
+      "source_id": "0101",
+      "source_start": 56.3,
+      "source_end": 56.66,
+      "start": 32.87667,
+      "end": 33.23667,
+      "alignment_probability": 0.9965075552463531
+    },
+    {
+      "text": "है",
+      "phrase_id": 26,
+      "source_id": "0101",
+      "source_start": 56.66,
+      "source_end": 56.86,
+      "start": 33.23667,
+      "end": 33.43667,
+      "alignment_probability": 0.9929469227790833
+    },
+    {
+      "text": "interdental",
+      "phrase_id": 27,
+      "source_id": "0101",
+      "source_start": 57.21,
+      "source_end": 57.86,
+      "start": 33.78667,
+      "end": 34.43667,
+      "alignment_probability": 0.7673304826021194
+    },
+    {
+      "text": "flossing",
+      "phrase_id": 27,
+      "source_id": "0101",
+      "source_start": 57.86,
+      "source_end": 58.4,
+      "start": 34.43667,
+      "end": 34.97667,
+      "alignment_probability": 0.9058058738708497
+    },
+    {
+      "text": "जो",
+      "phrase_id": 27,
+      "source_id": "0101",
+      "source_start": 58.4,
+      "source_end": 58.62,
+      "start": 34.97667,
+      "end": 35.19667,
+      "alignment_probability": 0.9640395243962606
+    },
+    {
+      "text": "दाँतों",
+      "phrase_id": 27,
+      "source_id": "0101",
+      "source_start": 58.62,
+      "source_end": 59.1,
+      "start": 35.19667,
+      "end": 35.67667,
+      "alignment_probability": 0.9561131099859873
+    },
+    {
+      "text": "की",
+      "phrase_id": 28,
+      "source_id": "0101",
+      "source_start": 59.1,
+      "source_end": 59.16,
+      "start": 35.67667,
+      "end": 35.73667,
+      "alignment_probability": 0.8526427745819092
+    },
+    {
+      "text": "बीच",
+      "phrase_id": 28,
+      "source_id": "0101",
+      "source_start": 59.16,
+      "source_end": 59.34,
+      "start": 35.73667,
+      "end": 35.91667,
+      "alignment_probability": 0.7612204551696777
+    },
+    {
+      "text": "में",
+      "phrase_id": 28,
+      "source_id": "0101",
+      "source_start": 59.34,
+      "source_end": 59.44,
+      "start": 35.91667,
+      "end": 36.01667,
+      "alignment_probability": 0.8761767546335856
+    },
+    {
+      "text": "खाना",
+      "phrase_id": 28,
+      "source_id": "0101",
+      "source_start": 59.44,
+      "source_end": 59.82,
+      "start": 36.01667,
+      "end": 36.39667,
+      "alignment_probability": 0.9780640602111816
+    },
+    {
+      "text": "फँसता",
+      "phrase_id": 29,
+      "source_id": "0101",
+      "source_start": 59.82,
+      "source_end": 60.14,
+      "start": 36.39667,
+      "end": 36.71667,
+      "alignment_probability": 0.8244845469792684
+    },
+    {
+      "text": "है",
+      "phrase_id": 29,
+      "source_id": "0101",
+      "source_start": 60.14,
+      "source_end": 60.18,
+      "start": 36.71667,
+      "end": 36.75667,
+      "alignment_probability": 0.9760198295116425
+    },
+    {
+      "text": "वहाँ",
+      "phrase_id": 29,
+      "source_id": "0101",
+      "source_start": 60.18,
+      "source_end": 60.5,
+      "start": 36.75667,
+      "end": 37.07667,
+      "alignment_probability": 0.7930951799665179
+    },
+    {
+      "text": "आपको",
+      "phrase_id": 29,
+      "source_id": "0101",
+      "source_start": 60.5,
+      "source_end": 60.7,
+      "start": 37.07667,
+      "end": 37.27667,
+      "alignment_probability": 0.9913056294123331
+    },
+    {
+      "text": "flossing",
+      "phrase_id": 30,
+      "source_id": "0101",
+      "source_start": 60.7,
+      "source_end": 61.24,
+      "start": 37.27667,
+      "end": 37.81667,
+      "alignment_probability": 0.9740593433380127
+    },
+    {
+      "text": "use",
+      "phrase_id": 30,
+      "source_id": "0101",
+      "source_start": 61.24,
+      "source_end": 61.4,
+      "start": 37.81667,
+      "end": 37.97667,
+      "alignment_probability": 0.811704620718956
+    },
+    {
+      "text": "करना",
+      "phrase_id": 30,
+      "source_id": "0101",
+      "source_start": 61.4,
+      "source_end": 61.8,
+      "start": 37.97667,
+      "end": 38.37667,
+      "alignment_probability": 0.873449981212616
+    },
+    {
+      "text": "है",
+      "phrase_id": 30,
+      "source_id": "0101",
+      "source_start": 61.8,
+      "source_end": 62.0,
+      "start": 38.37667,
+      "end": 38.57667,
+      "alignment_probability": 0.9893089234828949
+    },
+    {
+      "text": "mouthwash",
+      "phrase_id": 31,
+      "source_id": "0101",
+      "source_start": 64.69,
+      "source_end": 65.34,
+      "start": 40.11667,
+      "end": 40.76667,
+      "alignment_probability": 0.7833962142467499
+    },
+    {
+      "text": "भी",
+      "phrase_id": 31,
+      "source_id": "0101",
+      "source_start": 65.34,
+      "source_end": 65.62,
+      "start": 40.76667,
+      "end": 41.04667,
+      "alignment_probability": 0.9854827523231506
+    },
+    {
+      "text": "आप",
+      "phrase_id": 31,
+      "source_id": "0101",
+      "source_start": 65.62,
+      "source_end": 65.9,
+      "start": 41.04667,
+      "end": 41.32667,
+      "alignment_probability": 0.9913425743579865
+    },
+    {
+      "text": "बहुत",
+      "phrase_id": 31,
+      "source_id": "0101",
+      "source_start": 65.9,
+      "source_end": 66.2,
+      "start": 41.32667,
+      "end": 41.62667,
+      "alignment_probability": 0.991433173418045
+    },
+    {
+      "text": "बार",
+      "phrase_id": 32,
+      "source_id": "0101",
+      "source_start": 66.2,
+      "source_end": 66.38,
+      "start": 41.62667,
+      "end": 41.80667,
+      "alignment_probability": 0.9745931774377823
+    },
+    {
+      "text": "use",
+      "phrase_id": 32,
+      "source_id": "0101",
+      "source_start": 66.38,
+      "source_end": 66.58,
+      "start": 41.80667,
+      "end": 42.00667,
+      "alignment_probability": 0.9664026995499929
+    },
+    {
+      "text": "कर",
+      "phrase_id": 32,
+      "source_id": "0101",
+      "source_start": 66.58,
+      "source_end": 66.78,
+      "start": 42.00667,
+      "end": 42.20667,
+      "alignment_probability": 0.9915240108966827
+    },
+    {
+      "text": "सकते",
+      "phrase_id": 32,
+      "source_id": "0101",
+      "source_start": 66.78,
+      "source_end": 67.12,
+      "start": 42.20667,
+      "end": 42.54667,
+      "alignment_probability": 0.9973976910114288
+    },
+    {
+      "text": "हो",
+      "phrase_id": 33,
+      "source_id": "0101",
+      "source_start": 67.12,
+      "source_end": 67.28,
+      "start": 42.54667,
+      "end": 42.70667,
+      "alignment_probability": 0.9860263466835022
+    },
+    {
+      "text": "वो",
+      "phrase_id": 33,
+      "source_id": "0101",
+      "source_start": 67.28,
+      "source_end": 67.78,
+      "start": 42.70667,
+      "end": 43.20667,
+      "alignment_probability": 0.8641678293546041
+    },
+    {
+      "text": "आपको",
+      "phrase_id": 33,
+      "source_id": "0101",
+      "source_start": 67.78,
+      "source_end": 68.2,
+      "start": 43.20667,
+      "end": 43.62667,
+      "alignment_probability": 0.9816208183765411
+    },
+    {
+      "text": "fresh",
+      "phrase_id": 33,
+      "source_id": "0101",
+      "source_start": 68.2,
+      "source_end": 68.74,
+      "start": 43.62667,
+      "end": 44.16667,
+      "alignment_probability": 0.9792355895042419
+    },
+    {
+      "text": "breath",
+      "phrase_id": 34,
+      "source_id": "0101",
+      "source_start": 68.74,
+      "source_end": 69.53999999999999,
+      "start": 44.16667,
+      "end": 44.96667,
+      "alignment_probability": 0.9147817492485046
+    },
+    {
+      "text": "भी",
+      "phrase_id": 34,
+      "source_id": "0101",
+      "source_start": 69.53999999999999,
+      "source_end": 69.78,
+      "start": 44.96667,
+      "end": 45.20667,
+      "alignment_probability": 0.9822745323181152
+    },
+    {
+      "text": "देगा",
+      "phrase_id": 34,
+      "source_id": "0101",
+      "source_start": 69.78,
+      "source_end": 70.28,
+      "start": 45.20667,
+      "end": 45.70667,
+      "alignment_probability": 0.9958468874295553
+    },
+    {
+      "text": "और",
+      "phrase_id": 34,
+      "source_id": "0101",
+      "source_start": 70.28,
+      "source_end": 71.16,
+      "start": 45.70667,
+      "end": 46.58667,
+      "alignment_probability": 0.9965299765268961
+    },
+    {
+      "text": "cavities",
+      "phrase_id": 35,
+      "source_id": "0101",
+      "source_start": 71.16,
+      "source_end": 71.7,
+      "start": 46.58667,
+      "end": 47.12667,
+      "alignment_probability": 0.8791096210479736
+    },
+    {
+      "text": "से",
+      "phrase_id": 35,
+      "source_id": "0101",
+      "source_start": 71.7,
+      "source_end": 71.96000000000001,
+      "start": 47.12667,
+      "end": 47.38667,
+      "alignment_probability": 0.9864280223846436
+    },
+    {
+      "text": "भी",
+      "phrase_id": 35,
+      "source_id": "0101",
+      "source_start": 71.96000000000001,
+      "source_end": 72.08,
+      "start": 47.38667,
+      "end": 47.50667,
+      "alignment_probability": 0.993642270565033
+    },
+    {
+      "text": "आपको",
+      "phrase_id": 35,
+      "source_id": "0101",
+      "source_start": 72.08,
+      "source_end": 72.36,
+      "start": 47.50667,
+      "end": 47.78667,
+      "alignment_probability": 0.9987808267275492
+    },
+    {
+      "text": "बचाएगा",
+      "phrase_id": 36,
+      "source_id": "0101",
+      "source_start": 72.36,
+      "source_end": 72.96000000000001,
+      "start": 47.78667,
+      "end": 48.38667,
+      "alignment_probability": 0.9874082744121552
+    },
+    {
+      "text": "तो",
+      "phrase_id": 37,
+      "source_id": "0102",
+      "source_start": 0,
+      "source_end": 0.2,
+      "start": 48.5,
+      "end": 48.7,
+      "alignment_probability": 0.9800768891970316
+    },
+    {
+      "text": "जितने",
+      "phrase_id": 37,
+      "source_id": "0102",
+      "source_start": 0.2,
+      "source_end": 0.64,
+      "start": 48.7,
+      "end": 49.14,
+      "alignment_probability": 0.9920582473278046
+    },
+    {
+      "text": "अच्छे",
+      "phrase_id": 37,
+      "source_id": "0102",
+      "source_start": 0.64,
+      "source_end": 1.08,
+      "start": 49.14,
+      "end": 49.58,
+      "alignment_probability": 0.9956866800785065
+    },
+    {
+      "text": "से",
+      "phrase_id": 37,
+      "source_id": "0102",
+      "source_start": 1.08,
+      "source_end": 1.34,
+      "start": 49.58,
+      "end": 49.84,
+      "alignment_probability": 0.9927928745746613
+    },
+    {
+      "text": "आप",
+      "phrase_id": 38,
+      "source_id": "0102",
+      "source_start": 1.34,
+      "source_end": 1.7,
+      "start": 49.84,
+      "end": 50.2,
+      "alignment_probability": 0.9959327429533005
+    },
+    {
+      "text": "dental",
+      "phrase_id": 38,
+      "source_id": "0102",
+      "source_start": 1.7,
+      "source_end": 2.0,
+      "start": 50.2,
+      "end": 50.5,
+      "alignment_probability": 0.6312175393104553
+    },
+    {
+      "text": "hygiene",
+      "phrase_id": 38,
+      "source_id": "0102",
+      "source_start": 2.0,
+      "source_end": 2.64,
+      "start": 50.5,
+      "end": 51.14,
+      "alignment_probability": 0.9790138602256775
+    },
+    {
+      "text": "maintain",
+      "phrase_id": 38,
+      "source_id": "0102",
+      "source_start": 2.64,
+      "source_end": 2.92,
+      "start": 51.14,
+      "end": 51.42,
+      "alignment_probability": 0.7330803275108337
+    },
+    {
+      "text": "करोगे",
+      "phrase_id": 39,
+      "source_id": "0102",
+      "source_start": 2.92,
+      "source_end": 3.5,
+      "start": 51.42,
+      "end": 52.0,
+      "alignment_probability": 0.9909732043743134
+    },
+    {
+      "text": "उतना",
+      "phrase_id": 39,
+      "source_id": "0102",
+      "source_start": 3.6,
+      "source_end": 4.04,
+      "start": 52.1,
+      "end": 52.54,
+      "alignment_probability": 0.9942171812057495
+    },
+    {
+      "text": "ही",
+      "phrase_id": 39,
+      "source_id": "0102",
+      "source_start": 4.04,
+      "source_end": 4.18,
+      "start": 52.54,
+      "end": 52.68,
+      "alignment_probability": 0.9956088364124298
+    },
+    {
+      "text": "आप",
+      "phrase_id": 39,
+      "source_id": "0102",
+      "source_start": 4.18,
+      "source_end": 4.74,
+      "start": 52.68,
+      "end": 53.24,
+      "alignment_probability": 0.9916954189538956
+    },
+    {
+      "text": "cavities",
+      "phrase_id": 40,
+      "source_id": "0102",
+      "source_start": 4.74,
+      "source_end": 5.16,
+      "start": 53.24,
+      "end": 53.66,
+      "alignment_probability": 0.9484813511371613
+    },
+    {
+      "text": "से",
+      "phrase_id": 40,
+      "source_id": "0102",
+      "source_start": 5.16,
+      "source_end": 5.44,
+      "start": 53.66,
+      "end": 53.94,
+      "alignment_probability": 0.9990720748901367
+    },
+    {
+      "text": "बचोगे",
+      "phrase_id": 40,
+      "source_id": "0102",
+      "source_start": 5.44,
+      "source_end": 5.92,
+      "start": 53.94,
+      "end": 54.42,
+      "alignment_probability": 0.9934053048491478
+    }
+  ],
+  "broll_slots": [
+    {
+      "id": "B01-hook",
+      "path": "/Users/sidhant/Desktop/Editing/atfro-niolearn-reel-studio/workspaces/my-dental-skin-clinic/04_generated_broll/approved/reel-08_B01_brushing_received.mp4",
+      "layout": "portrait",
+      "media_in": 0,
+      "timeline_in": 0,
+      "timeline_out": 2.3,
+      "status": "awaiting user generation",
+      "note": "Reuse first establishing seconds to cover the hook screen glance"
+    },
+    {
+      "id": "B01-brushing",
+      "path": "/Users/sidhant/Desktop/Editing/atfro-niolearn-reel-studio/workspaces/my-dental-skin-clinic/04_generated_broll/approved/reel-08_B01_brushing_received.mp4",
+      "layout": "portrait",
+      "media_in": 2.5,
+      "timeline_in": 11.866666666666667,
+      "timeline_out": 18.866666666666667,
+      "status": "awaiting user generation"
+    },
+    {
+      "id": "B02-flossing",
+      "path": "/Users/sidhant/Desktop/Editing/atfro-niolearn-reel-studio/workspaces/my-dental-skin-clinic/04_generated_broll/approved/reel-08_B02_flossing_received.mp4",
+      "layout": "portrait",
+      "media_in": 0.7,
+      "timeline_in": 33.233333333333334,
+      "timeline_out": 38.56666666666667,
+      "status": "awaiting user generation"
+    }
+  ],
+  "caption_keywords": [
+    "दाँत",
+    "महागौरी",
+    "purity",
+    "सफाई",
+    "brush",
+    "fluoride",
+    "paste",
+    "gargle",
+    "hydration",
+    "पानी",
+    "surface",
+    "interdental",
+    "flossing",
+    "mouthwash",
+    "fresh",
+    "breath",
+    "dental",
+    "hygiene",
+    "cavities"
+  ],
+  "caption_emphasis": [
+    "दाँत",
+    "महागौरी",
+    "brush",
+    "fluoride",
+    "flossing",
+    "mouthwash",
+    "hygiene",
+    "cavities"
+  ],
+  "cue_exclusions": [
+    {
+      "source": "0101",
+      "in": 0,
+      "out": 2.67,
+      "reason": "Omit campaign recap lead-in; start directly at the complete हर एक दाँत hook, not a production-cue assumption"
+    },
+    {
+      "source": "0101",
+      "in": 73.08,
+      "out": 97.514667,
+      "reason": "Post-speech screen-reading / setup tail"
+    },
+    {
+      "source": "0102",
+      "in": 6.136,
+      "out": 8.192,
+      "reason": "Silent ending hold"
+    },
+    {
+      "source": "0103",
+      "in": 0,
+      "out": 29.568,
+      "reason": "Repeated campaign-outro pickup and setup; excluded alternate. Its spoken start is part of a sentence, not automatically a production cue."
+    }
+  ],
+  "caption_review_notes": [
+    {
+      "source": "0101",
+      "in": 62.0,
+      "out": 63.6,
+      "omitted_asr_token": "exactly",
+      "reason": "Corrupted or low-confidence ASR token; no invented replacement. Audio retained for review."
+    },
+    {
+      "source": "0101",
+      "in": 62.0,
+      "out": 63.6,
+      "omitted_asr_token": "exactly",
+      "reason": "Corrupted or low-confidence ASR token; no invented replacement. Audio retained for review."
+    }
+  ],
+  "transcription_method": "Independent small and pinned turbo ASR passes; obvious dental/English spelling normalization, not human listening verification."
+}

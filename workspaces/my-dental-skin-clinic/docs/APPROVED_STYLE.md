@@ -31,7 +31,7 @@ Baseline: Reel-07 **v05**, approved by the user on 17 October 2026. Reference ex
 - Caption centre around x510 / y1328; lower alpha movie is1080 ×620 composited at y1100. Maintain right-side platform UI clearance. Recheck actual Devanagari shaping and text bounds.
 - A2 px dark outline and soft shadow keep white text readable. No large caption boxes.
 - Entry opacity28 ms, exit40 ms. Scale normal words .93→1.02→1; emphasized words .87→1.045→1. Peak around95 ms, settle around175 ms. Reveal words near their spoken starts; preserve tight, comfortable spacing and fixed baselines.
-- The retained implementation is `tools/render_reel07_v04.py::captions`; the approved edit assembly is v05. New reels use a data-driven plan and the shared clinic renderer.
+- The retained implementation is `tools/render_reel07_v04.py::captions`; the approved edit assembly is v05. New reels use a data-driven plan and the shared clinic renderer. Picture caches are keyed separately from caption/B-roll revisions so caption-only changes reuse the checked source cuts.
 
 ## B-roll and wording
 

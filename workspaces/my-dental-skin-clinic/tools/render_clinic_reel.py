@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Render a reviewed clinic edit plan with the user-approved v05 style."""
-import argparse,copy,hashlib,json,subprocess,sys
+import argparse,copy,hashlib,inspect,json,subprocess,sys
 from pathlib import Path
 import numpy as np
 from scipy.io import wavfile
@@ -22,13 +22,13 @@ def make_picture_audio(plan):
   a=round(s['source_in']*48000);audio=sources[s['source_id']][a:a+n*1600].copy()
   fade=288;audio[:fade]*=np.linspace(0,1,fade)[:,None];audio[-fade:]*=np.linspace(1,0,fade)[:,None];audio_parts.append(audio)
   head=3 if i else 0;tail=3 if i<len(plan['segments'])-1 else 0
-  core=CACHE/f'core-{i:02}.mp4';parts.append(core)
+  core=PICTURE_CACHE/f'core-{i:02}.mp4';parts.append(core)
   if not core.exists():
    c=s['crop_xywh']
    vf=f'crop={c["width"]}:{c["height"]}:{c["x"]}:{c["y"]},scale=1080:1920,setsar=1,fps=30,format=yuv420p'
    v3.run([FF,'-v','error','-y','-ss',s['source_in']+head/30,'-i',s['source'],'-an','-vf',vf,'-frames:v',n-head-tail,'-c:v','libx264','-preset','fast','-crf','18',core])
   if i<len(plan['segments'])-1:
-   nxt=plan['segments'][i+1];transition=CACHE/f'dissolve-{i:02}.mp4';parts.append(transition)
+   nxt=plan['segments'][i+1];transition=PICTURE_CACHE/f'dissolve-{i:02}.mp4';parts.append(transition)
    if not transition.exists():
     def crop(s):
      c=s['crop_xywh'];return f'crop={c["width"]}:{c["height"]}:{c["x"]}:{c["y"]},scale=1080:1920,setsar=1,fps=30,trim=end_frame=6,setpts=PTS-STARTPTS,format=yuv420p'
@@ -36,15 +36,15 @@ def make_picture_audio(plan):
     graph=f'[0:v]{crop(s)}[a];[1:v]{crop(nxt)}[b];[a][b]blend=all_expr=A*(1-(N-1)/5)+B*(N-1)/5[out]'
     v3.run([FF,'-v','error','-y','-ss',s['source_out']-.1,'-i',s['source'],'-ss',nxt['source_in']-.1,'-i',nxt['source'],'-filter_complex',graph,'-map','[out]','-an','-frames:v','6','-c:v','libx264','-preset','fast','-crf','18',transition])
   print('Picture / dialogue run',i+1,'of',len(plan['segments']),flush=True)
- wavfile.write(CACHE/'dialogue-48k-float.wav',48000,np.concatenate(audio_parts))
- listing=CACHE/'concat.txt';listing.write_text('\n'.join(f"file '{s}'" for s in parts)+'\n')
- v3.run([FF,'-v','error','-y','-f','concat','-safe','0','-i',listing,'-c','copy',CACHE/'speech-picture.mp4'])
+ wavfile.write(PICTURE_CACHE/'dialogue-48k-float.wav',48000,np.concatenate(audio_parts))
+ listing=PICTURE_CACHE/'concat.txt';listing.write_text('\n'.join(f"file '{s}'" for s in parts)+'\n')
+ v3.run([FF,'-v','error','-y','-f','concat','-safe','0','-i',listing,'-c','copy',PICTURE_CACHE/'speech-picture.mp4'])
 
 def render(plan):
  caps.CACHE=CACHE;caps.OUT=OUT;caps.STYLE=STYLE;caps.prepare_fonts()
  caption=CACHE/'compact-word-captions.mov'
  if not caption.exists():caption=caps.captions(plan)
- args=[FF,'-v','error','-nostdin','-y','-i',CACHE/'speech-picture.mp4','-i',CACHE/'dialogue-48k-float.wav']
+ args=[FF,'-v','error','-nostdin','-y','-i',PICTURE_CACHE/'speech-picture.mp4','-i',PICTURE_CACHE/'dialogue-48k-float.wav']
  graph=['[0:v]eq=contrast=1.025:brightness=0.003:saturation=1.02[base]'];current='base'
  for i,s in enumerate(plan['broll_slots']):
   duration=s['timeline_out']-s['timeline_in'];index=i+2
@@ -68,7 +68,7 @@ def render(plan):
  v3.run(args);print('Rendered',output,flush=True)
 
 def main():
- global CACHE,OUT,REEL,EXPORT
+ global CACHE,PICTURE_CACHE,OUT,REEL,EXPORT
  parser=argparse.ArgumentParser(description=__doc__)
  parser.add_argument('plan',type=Path);parser.add_argument('--aroll-only',action='store_true');parser.add_argument('--preflight',action='store_true')
  args=parser.parse_args();path=args.plan.resolve();plan=json.loads(path.read_text())
@@ -80,6 +80,9 @@ def main():
  digest=hashlib.sha256(signature).hexdigest()[:12]
  CACHE=R/'.cache'/f'{plan["reel_id"]}-{digest}'
  CACHE.mkdir(parents=True,exist_ok=True)
+ picture_digest=hashlib.sha256(json.dumps(plan['segments'],sort_keys=True).encode()+inspect.getsource(make_picture_audio).encode()).hexdigest()[:12]
+ PICTURE_CACHE=R/'.cache'/f'{plan["reel_id"]}-picture-{picture_digest}'
+ PICTURE_CACHE.mkdir(parents=True,exist_ok=True)
  suffix='aroll-preview' if args.aroll_only else 'review'
  EXPORT=R/'05_exports/review'/f'{plan["reel_id"]}_{suffix}_{plan.get("version","v01")}.mp4'
  EXPORT.parent.mkdir(parents=True,exist_ok=True)

@@ -9,7 +9,8 @@ node -e 'if(Number(process.versions.node.split(".")[0])<22)process.exit(1)' || {
 if command -v brew >/dev/null && ! git lfs version >/dev/null 2>&1; then HOMEBREW_NO_AUTO_UPDATE=1 brew install git-lfs; fi
 if git rev-parse --git-dir >/dev/null 2>&1 && git lfs version >/dev/null 2>&1; then git lfs install --local; fi
 npm ci --no-fund
-python3 -m venv .venv
+toolkit_python="${TOOLKIT_PYTHON:-$(command -v python3.11 || command -v python3)}"
+"$toolkit_python" -m venv .venv
 .venv/bin/python -m pip install --disable-pip-version-check -r requirements.lock
 .venv/bin/python tools/build_assets.py
 .venv/bin/python tools/catalog.py

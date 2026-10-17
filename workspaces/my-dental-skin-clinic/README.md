@@ -22,7 +22,7 @@ python3 tools/pipeline.py clinic assets --query implant
 python3 tools/pipeline.py clinic status
 ```
 
-The workspace runtime can be restored with `bash workspaces/my-dental-skin-clinic/tools/bootstrap.sh`. Dependencies are pinned in `requirements.lock`; it installs locally and downloads a pinned small model if absent. A separately recorded turbo-model fallback can be restored using the metadata in `01_catalog/turbo-model.json` when needed for difficult speech. No model/venv files are tracked in Git.
+The workspace runtime can be restored with `bash workspaces/my-dental-skin-clinic/tools/bootstrap.sh`. Dependencies are pinned in `requirements.lock`; it installs locally and restores the pinned small model plus the configured turbo accuracy fallback (approximately 2 GB of local model data in total). Model revision/checksum metadata is in `01_catalog/turbo-model.json`. No model/venv files are tracked in Git.
 
 After the source-aware plan is reviewed:
 

@@ -5,6 +5,6 @@ clip-971feeea302f329e,DJI_20261004205408_0094_D.MP4,dental,Reel 07 - missing too
 clip-f892dc323642430e,DJI_20261004205432_0095_D.MP4,dental,Reel 07 - missing tooth options / Kaalratri,0095,,,alternate,Short pickup; ASR unreliable; retained
 clip-d2ae4e83f489f13d,DJI_20261004205445_0096_D.MP4,dental,Reel 07 - missing tooth options / Kaalratri,0096,,,selected-body,"Implant, bridge, removable options"
 clip-66fccec784f24470,DJI_20261004205533_0097_D.MP4,dental,Reel 07 - missing tooth options / Kaalratri,0097,,,selected-closing,Clinical-condition closing
-clip-51a039fea1aafa90,DJI_20261004211213_0101_D.MP4,,,,,,,
-clip-8f31e6c41ba7b3a2,DJI_20261004211434_0102_D.MP4,,,,,,,
-clip-38c0363911adc898,DJI_20261004211504_0103_D.MP4,,,,,,,
+clip-51a039fea1aafa90,DJI_20261004211213_0101_D.MP4,dental,Reel 08 - Mahagauri / dental hygiene,0101,2.67,73.0733,selected-main,"Curated disjoint ranges in reel-08 plan; exclude recap, redundant explanation and reading/setup tail; draft ASR normalized"
+clip-8f31e6c41ba7b3a2,DJI_20261004211434_0102_D.MP4,dental,Reel 08 - dental hygiene closing,0102,0,6.1,selected-closing,Direct hygiene/cavities closing; ending hold removed
+clip-38c0363911adc898,DJI_20261004211504_0103_D.MP4,dental,Reel 08 - campaign outro pickup,0103,,,alternate-excluded,"Repeated remember-day-one outro attempts; spoken start is contextual dialogue, not an automatic recording cue"

@@ -18,10 +18,12 @@
   "ffmpeg": "/opt/homebrew/opt/ffmpeg-full/bin/ffmpeg",
   "ffprobe": "/opt/homebrew/opt/ffmpeg-full/bin/ffprobe",
   "transcription": {
-    "model": "small",
+    "model": "turbo",
     "device": "cpu",
     "compute_type": "int8",
-    "status": "draft until human audio review"
+    "status": "draft until human audio review",
+    "fallback": "small",
+    "reason": "Reel-08 small-model ASR was unreliable; pinned local turbo model improves clinical sections. Drafts still require dialogue review."
   },
   "approved_style": "styles/clinic-approved.json",
   "approved_baseline": "reel-07/v05",

@@ -1,8 +1,9 @@
 """Portable, dependency-free clinic timeline gate."""
 from pathlib import Path
+import hashlib
 
 def validate_plan(plan,allow_pending=False,root=None):
- errors=[];cursor=0;source_ids=set()
+ errors=[];cursor=0;source_ids=set();checked_hashes={}
  for i,s in enumerate(plan.get('segments',[])):
   source_ids.add(s['source_id'])
   duration=s['timeline_out']-s['timeline_in'];n=round(duration*30)
@@ -11,6 +12,10 @@ def validate_plan(plan,allow_pending=False,root=None):
   if n<7:errors.append(f'Segment {i} too short for handles')
   if abs((s['source_out']-s['source_in'])-n/30)>1/3000:errors.append(f'Source/timeline duration mismatch {i}')
   if s['source_in']<0 or not Path(s['source']).is_file():errors.append(f'Missing/invalid source {i}')
+  if s.get('source_sha256') and Path(s['source']).is_file():
+   if s['source'] not in checked_hashes:
+    with Path(s['source']).open('rb') as stream:checked_hashes[s['source']]=hashlib.file_digest(stream,'sha256').hexdigest()
+   if checked_hashes[s['source']]!=s['source_sha256']:errors.append(f'Source changed after intake: {i}')
   c=s['crop_xywh']
   if min(c['x'],c['y'])<0 or min(c['width'],c['height'])<=0:errors.append(f'Invalid crop {i}')
   if s.get('source_duration') and s['source_out']>s['source_duration']+.001:errors.append(f'Segment {i} exceeds source duration')

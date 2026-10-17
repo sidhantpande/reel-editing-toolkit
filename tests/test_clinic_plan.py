@@ -23,6 +23,9 @@ class ClinicGateTests(unittest.TestCase):
  def test_unknown_word_source_rejected(self):
   self.plan['words'][0]['source_id']='wrong'
   with self.assertRaisesRegex(ValueError,'Unknown word source'):kit.validate_plan(self.plan)
+ def test_replaced_source_rejected(self):
+  self.plan['segments'][0]['source_sha256']='incorrect'
+  with self.assertRaisesRegex(ValueError,'Source changed'):kit.validate_plan(self.plan)
  def test_missing_source_rejected(self):
   self.source.unlink()
   with self.assertRaisesRegex(ValueError,'Missing/invalid source'):kit.validate_plan(self.plan)

@@ -1,0 +1,97 @@
+{
+  "source": "0101",
+  "text": "जब जब आप दिन भर में खाना खाते हो आपको अच्छे से gargle करना है",
+  "evidence": "Small-model first full transcript at39.67–44.49 corroborates the missing day/meal lead-in; turbo transcript supports the end. Forced alignment is timing support, not an independent content check.",
+  "words": [
+    {
+      "text": "जब",
+      "start": 39.65,
+      "end": 40.01,
+      "probability": 0.8018187284469604
+    },
+    {
+      "text": "जब",
+      "start": 40.01,
+      "end": 40.23,
+      "probability": 0.8656489700078964
+    },
+    {
+      "text": "आप",
+      "start": 40.23,
+      "end": 40.41,
+      "probability": 0.7268278375267982
+    },
+    {
+      "text": "दिन",
+      "start": 40.41,
+      "end": 40.61,
+      "probability": 0.6303264833986759
+    },
+    {
+      "text": "भर",
+      "start": 40.61,
+      "end": 40.75,
+      "probability": 0.3884580160180728
+    },
+    {
+      "text": "में",
+      "start": 40.75,
+      "end": 40.89,
+      "probability": 0.6439270774523417
+    },
+    {
+      "text": "खाना",
+      "start": 40.89,
+      "end": 41.19,
+      "probability": 0.6735814988613129
+    },
+    {
+      "text": "खाते",
+      "start": 41.19,
+      "end": 41.51,
+      "probability": 0.4061246909201145
+    },
+    {
+      "text": "हो",
+      "start": 41.51,
+      "end": 41.629999999999995,
+      "probability": 0.7650398015975952
+    },
+    {
+      "text": "आपको",
+      "start": 41.629999999999995,
+      "end": 42.15,
+      "probability": 0.7811284065246582
+    },
+    {
+      "text": "अच्छे",
+      "start": 42.15,
+      "end": 42.61,
+      "probability": 0.7531164549291134
+    },
+    {
+      "text": "से",
+      "start": 42.61,
+      "end": 43.43,
+      "probability": 0.6010194644331932
+    },
+    {
+      "text": "gargle",
+      "start": 43.43,
+      "end": 44.089999999999996,
+      "probability": 0.091779399819643
+    },
+    {
+      "text": "करना",
+      "start": 44.089999999999996,
+      "end": 44.39,
+      "probability": 0.5682615949772298
+    },
+    {
+      "text": "है",
+      "start": 44.39,
+      "end": 44.489999999999995,
+      "probability": 0.9266097843647003
+    }
+  ]
+}

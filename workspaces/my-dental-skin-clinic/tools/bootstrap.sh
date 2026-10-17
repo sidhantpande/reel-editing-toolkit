@@ -23,6 +23,7 @@ snapshot_download('Systran/faster-whisper-small',revision='536b0662742c02347bc0e
 PY
 fi
 .venv/bin/python tools/clinic.py doctor
-if [[ "${1:-}" == "--turbo" ]]; then
+clinic_preferred_model="$(.venv/bin/python -c 'import json;print(json.load(open("project.json"))["transcription"]["model"])')"
+if [[ "${1:-}" == "--turbo" || "$clinic_preferred_model" == "turbo" ]]; then
  .venv/bin/python tools/fetch_model.py --model turbo
 fi

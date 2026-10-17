@@ -14,12 +14,15 @@ OUT=REEL/'04_timeline/v04'
 READY=R/'assets/fonts/ready'
 
 def prepare_fonts():
- source=next((R/'assets/fonts/montserrat').glob('*.ttf'))
- f=instantiateVariableFont(TTFont(source),{'wght':800},inplace=False)
- for key,value in {1:'Clinic Montserrat',2:'ExtraBold',3:'ClinicMontserrat-ExtraBold',4:'Clinic Montserrat ExtraBold',6:'ClinicMontserrat-ExtraBold',16:'Clinic Montserrat',17:'ExtraBold'}.items():
-  f['name'].removeNames(nameID=key);f['name'].setName(value,key,3,1,0x409)
- f['OS/2'].usWeightClass=800;f['OS/2'].fsSelection=(f['OS/2'].fsSelection & ~(1<<6))|(1<<5);f['head'].macStyle|=1
- f.save(READY/'ClinicMontserrat-ExtraBold.ttf')
+ target=READY/'ClinicMontserrat-ExtraBold.ttf'
+ if not target.exists():
+  source=next((R/'assets/fonts/montserrat').glob('*.ttf'))
+  f=instantiateVariableFont(TTFont(source),{'wght':800},inplace=False)
+  for key,value in {1:'Clinic Montserrat',2:'ExtraBold',3:'ClinicMontserrat-ExtraBold',4:'Clinic Montserrat ExtraBold',6:'ClinicMontserrat-ExtraBold',16:'Clinic Montserrat',17:'ExtraBold'}.items():
+   f['name'].removeNames(nameID=key);f['name'].setName(value,key,3,1,0x409)
+  f['OS/2'].usWeightClass=800;f['OS/2'].fsSelection=(f['OS/2'].fsSelection & ~(1<<6))|(1<<5);f['head'].macStyle|=1
+  f.recalcTimestamp=False
+  f.save(target)
  shutil.copy2(R/'assets/fonts/mukta/Mukta-ExtraBold.ttf',READY/'Mukta-ExtraBold.ttf')
  shutil.copy2(R/'assets/fonts/mukta/OFL.txt',READY/'mukta-OFL.txt')
  shutil.copy2(R/'assets/fonts/montserrat/OFL.txt',READY/'montserrat-OFL.txt')
