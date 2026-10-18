@@ -23,12 +23,15 @@ def validate_plan(plan,allow_pending=False,root=None):
    if cue['source']==s['source_id'] and min(s['source_out'],cue['out'])>max(s['source_in'],cue['in'])+.001:errors.append(f'Recording cue retained in segment {i}')
   cursor=s['timeline_out']
  if not plan.get('segments') or abs(cursor-plan['duration_seconds'])>1/3000:errors.append('Wrong total duration')
- last=-1
+ last=-1;previous=None
  for w in plan.get('words',[]):
   if not 0<=w['start']<w['end']<=cursor+.001:errors.append('Word outside timeline: '+w['text'])
   if w['start']<last-.001:errors.append('Words not in speech order: '+w['text'])
   if w.get('source_id') not in source_ids:errors.append('Unknown word source: '+w['text'])
+  if previous and w.get('source_id')==previous.get('source_id') and w['text'].casefold()==previous['text'].casefold() and w['start']<previous['end']-.025:
+   errors.append('Overlapping duplicate ASR word: '+w['text'])
   last=w['start']
+  previous=w
  for slot in plan.get('broll_slots',[]):
   if not 0<=slot['timeline_in']<slot['timeline_out']<=cursor+.001:errors.append('B-roll outside timeline')
   if not Path(slot.get('path','')).is_file() and not allow_pending:errors.append('B-roll not delivered: '+slot['id'])

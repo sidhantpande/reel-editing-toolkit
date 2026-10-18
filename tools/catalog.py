@@ -27,8 +27,12 @@ clinic=[]
 if manifest.is_file():
  for asset in json.loads(manifest.read_text())['assets']:
   clinic.append({'id':'clinic-'+Path(asset['path']).stem,'brand':'clinic','kind':'video','subject':asset['subject'],'repositoryFile':'workspaces/my-dental-skin-clinic/'+asset['path'],'duration':asset['duration'],'sha256':asset['sha256'],'source':asset['source'],'rights':asset['rights'],'git_storage':'lfs'})
+ending=R/'workspaces/my-dental-skin-clinic/assets/brand/endcards/manifest.json'
+if ending.is_file():
+ asset=json.loads(ending.read_text())
+ clinic.append({'id':'clinic-reference-logo-outro','brand':'clinic','kind':'ending','subject':'white logo end-card with supplied spoken signature','repositoryFile':'workspaces/my-dental-skin-clinic/'+asset['path'],'duration':asset['duration'],'sha256':asset['sha256'],'source':'user supplied reference ending','rights':asset['rights'],'git_storage':'lfs'})
 (R/'catalog/clinic-assets.json').write_text(json.dumps(clinic,ensure_ascii=False,indent=2)+'\n')
 with (R/'catalog/ASSET_INDEX.md').open('a') as f:
- f.write('\n## Clinic supplied B-roll\n\nSearch: `python3 tools/reelctl.py assets --brand clinic --query implant`.\n\n')
+ f.write('\n## Clinic supplied B-roll and ending\n\nSearch: `python3 tools/reelctl.py assets --brand clinic --query implant`.\n\n')
  for asset in clinic:f.write(f'- [{asset["subject"]}](../{asset["repositoryFile"]}) — {asset["duration"]:.2f}s; Git LFS; user supplied.\n')
-print(f'Indexed {len(clinic)} clinic supplied B-roll assets separately from the native scene catalogue.')
+print(f'Indexed {len(clinic)} clinic reusable media assets separately from the native scene catalogue.')

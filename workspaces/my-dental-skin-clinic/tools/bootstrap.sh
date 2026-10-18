@@ -27,3 +27,10 @@ clinic_preferred_model="$(.venv/bin/python -c 'import json;print(json.load(open(
 if [[ "${1:-}" == "--turbo" || "$clinic_preferred_model" == "turbo" ]]; then
  .venv/bin/python tools/fetch_model.py --model turbo
 fi
+# Restore the pinned local speech-cleanup engine used by the clinic finish pass.
+.venv/bin/python - <<'PY'
+import sys
+sys.path.insert(0,'tools')
+from audio_enhance import install
+print('Speech cleanup runtime:', install())
+PY

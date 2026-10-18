@@ -21,3 +21,5 @@ workspaces/my-dental-skin-clinic/previews/**/*.mp4 filter=lfs diff=lfs merge=lfs
 # Keep upstream font licence text byte-for-byte, including its existing whitespace.
 workspaces/my-dental-skin-clinic/assets/fonts/**/OFL.txt whitespace=-blank-at-eol
 workspaces/my-dental-skin-clinic/assets/fonts/ready/*-OFL.txt whitespace=-blank-at-eol
+
+workspaces/my-dental-skin-clinic/assets/brand/endcards/*.mp4 filter=lfs diff=lfs merge=lfs -text

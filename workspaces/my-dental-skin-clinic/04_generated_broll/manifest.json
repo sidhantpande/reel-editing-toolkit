@@ -27,6 +27,38 @@
       "source": "user supplied for Reel-07",
       "rights": "User supplied; third-party bridge clip rights not independently verified",
       "git_storage": "lfs"
+    },
+    {
+      "path": "04_generated_broll/approved/reel-08_B01_brushing_received.mp4",
+      "sha256": "0ff138f5448c4b3cacf1a82e96851780b0060e461f50ab45a04d82c23510b3a6",
+      "bytes": 1754005,
+      "duration": 16.76,
+      "dimensions": [
+        720,
+        1280
+      ],
+      "subject": "toothpaste and brushing demonstration",
+      "source": "user supplied for Reel-08",
+      "source_path": "/Users/sidhant/Downloads/From Klickpin.com- Refined curly hair care ideas that are worth saving if you love elegant details and creative inspiration for busy people who st.mp4",
+      "rights": "User supplied downloaded demonstration; third-party licensing not independently verified.",
+      "git_storage": "lfs",
+      "review": "Visual subject and continuity checked; native audio discarded; chosen sections avoid baked-in scene cuts."
+    },
+    {
+      "path": "04_generated_broll/approved/reel-08_B02_flossing_received.mp4",
+      "sha256": "df793a37eddf5a571bfa027ca1476e2bfdf6c88ba4e3ea3c394290e4cd3e4f47",
+      "bytes": 3116338,
+      "duration": 24.311995,
+      "dimensions": [
+        720,
+        1280
+      ],
+      "subject": "interdental flossing demonstration",
+      "source": "user supplied for Reel-08",
+      "source_path": "/Users/sidhant/Downloads/From Klickpin.com- Explore Modern digital product ideas that make your next project look polished and expensive for your next Pinterest save-pin-i.mp4",
+      "rights": "User supplied downloaded demonstration; third-party licensing not independently verified.",
+      "git_storage": "lfs",
+      "review": "Visual subject and continuity checked; native audio discarded; chosen sections avoid baked-in scene cuts."
     }
   ]
 }

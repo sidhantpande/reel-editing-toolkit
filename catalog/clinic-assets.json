@@ -22,5 +22,41 @@
     "source": "user supplied for Reel-07",
     "rights": "User supplied; third-party bridge clip rights not independently verified",
     "git_storage": "lfs"
+  },
+  {
+    "id": "clinic-reel-08_B01_brushing_received",
+    "brand": "clinic",
+    "kind": "video",
+    "subject": "toothpaste and brushing demonstration",
+    "repositoryFile": "workspaces/my-dental-skin-clinic/04_generated_broll/approved/reel-08_B01_brushing_received.mp4",
+    "duration": 16.76,
+    "sha256": "0ff138f5448c4b3cacf1a82e96851780b0060e461f50ab45a04d82c23510b3a6",
+    "source": "user supplied for Reel-08",
+    "rights": "User supplied downloaded demonstration; third-party licensing not independently verified.",
+    "git_storage": "lfs"
+  },
+  {
+    "id": "clinic-reel-08_B02_flossing_received",
+    "brand": "clinic",
+    "kind": "video",
+    "subject": "interdental flossing demonstration",
+    "repositoryFile": "workspaces/my-dental-skin-clinic/04_generated_broll/approved/reel-08_B02_flossing_received.mp4",
+    "duration": 24.311995,
+    "sha256": "df793a37eddf5a571bfa027ca1476e2bfdf6c88ba4e3ea3c394290e4cd3e4f47",
+    "source": "user supplied for Reel-08",
+    "rights": "User supplied downloaded demonstration; third-party licensing not independently verified.",
+    "git_storage": "lfs"
+  },
+  {
+    "id": "clinic-reference-logo-outro",
+    "brand": "clinic",
+    "kind": "ending",
+    "subject": "white logo end-card with supplied spoken signature",
+    "repositoryFile": "workspaces/my-dental-skin-clinic/assets/brand/endcards/my-dental-reference-outro.mp4",
+    "duration": 4.233333333333333,
+    "sha256": "0e3670393643fdfb5bc509f0c4217edc81d0db9ac315d7b710ae41836006c4aa",
+    "source": "user supplied reference ending",
+    "rights": "User-supplied clinic-brand ending; extracted for the requested edits",
+    "git_storage": "lfs"
   }
 ]

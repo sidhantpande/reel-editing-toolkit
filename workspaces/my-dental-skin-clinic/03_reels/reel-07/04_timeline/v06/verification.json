@@ -1,0 +1,25 @@
+{
+  "export": "/Users/sidhant/Desktop/Editing/atfro-niolearn-reel-studio/workspaces/my-dental-skin-clinic/05_exports/review/reel-07_voice-outro_v06.mp4",
+  "sha256": "f9b1537190e7d923c2abd678607d89b69d0f5a285a9473fe8388aa939dd53803",
+  "duration": 52.56666666666667,
+  "frames": 1577,
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "audio_duration": "52.566667",
+  "full_decode_passed": true,
+  "loudness_measured_lufs": "-16.23",
+  "true_peak_measured_dbfs": "-1.47",
+  "loudness_range_lu": "3.50",
+  "endcard_video_start": 47.93333333333333,
+  "spoken_signature_start": 48.333333333333336,
+  "complete_narration_duration": 48.2,
+  "speech_overlap": false,
+  "profile": 6,
+  "cleanup_lag_samples": 0,
+  "quiet_reduction_proxy_db": 5.191731929779053,
+  "sample_count_preserved": true,
+  "human_listening_available": false,
+  "notes": "Source-aligned neural cleanup with exact PCM timing; provided spoken end-card begins after narration. Visual/ASR/technical review recorded separately; no subjective listening claim."
+}

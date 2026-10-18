@@ -61,4 +61,16 @@ python3 tools/git_audit.py
 git lfs fsck
 ```
 
-Clinic preflight tests use its runtime: `workspaces/my-dental-skin-clinic/.venv/bin/python -m unittest discover -s workspaces/my-dental-skin-clinic/tests`.
+Clinic preflight and finishing regression tests are included in the root `tests/` suite: `python3 -m unittest discover -s tests`.
+
+## Clinic voice and supplied ending
+
+The clinic renderer now runs a finishing pass after the base edit for the requested Reel-07/Reel-08 ending. It cleans the exact source PCM with pinned DeepFilterNet3 at a conservative6 dB attenuation limit, normalizes the narration and appends the supplied brand ending. `--no-finish` exports only the base edit when a comparison is needed. The ending's spoken signature starts after all narration plus a four-frame gap, independently of the earlier eight-frame visual dissolve. Its last frame holds long enough to preserve the entire signature. No pitch change, voice cloning, generated speech or duration change is applied to the doctor.
+
+The model input receives100 ms of tail context before delay compensation; it is then trimmed to the exact original sample count. This prevents the Rust model's30 ms compensated-output deficit from dropping the last phoneme. Delay, frame/sample accounting, duration, peaks and visual transition frames are checked. Energy proxies/ASR retention support review; they are not a substitute for human listening.
+
+A reusable finish command is available inside the clinic workspace:
+
+```sh
+.venv/bin/python tools/finish_clinic_reel.py --base /absolute/base.mp4 --dialogue /absolute/dialogue-48k-float.wav --output /absolute/finished.mp4 --qa-dir /absolute/qa-folder
+```

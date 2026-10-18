@@ -4,9 +4,9 @@ Part of the private **reel-editing-toolkit** repository. The user-approved basel
 
 ## Current work
 
-- Reel-07 v05 approved; local review export preserved in `05_exports/review/`.
-- Reel-08: three sources registered from the supplied `Reel-08` folder. Analysis, selected ranges and B-roll requests live in `03_reels/reel-08/`.
-- Approved Reel-07 implant and bridge B-roll MP4s are backed up through Git LFS with checksums in `04_generated_broll/manifest.json`.
+- Reel-07 v05 picture style approved; v06 adds the user-supplied ending and conservative voice cleanup. Local review exports are preserved in `05_exports/review/`.
+- Reel-08 v04: both supplied hygiene B-rolls inserted; white logo ending/spoken signature and voice cleanup included. Main narration54.6 s; full review58.97 s. Analysis and exact source ranges live in `03_reels/reel-08/`.
+- Approved Reel-07 implant/bridge and Reel-08 brushing/flossing B-roll MP4s, plus the extracted reusable logo ending, are backed up through Git LFS. B-roll checksums are in `04_generated_broll/manifest.json`.
 - Camera files, reference videos, analysis media, exports, caches and model weights stay local. Git restores editing assets/decisions, not missing recordings.
 
 ## Commands
@@ -27,11 +27,11 @@ The workspace runtime can be restored with `bash workspaces/my-dental-skin-clini
 After the source-aware plan is reviewed:
 
 ```sh
-python3 tools/pipeline.py clinic preflight workspaces/my-dental-skin-clinic/03_reels/reel-08/04_timeline/v01/plan.json --aroll-only
-python3 tools/pipeline.py clinic render workspaces/my-dental-skin-clinic/03_reels/reel-08/04_timeline/v01/plan.json --aroll-only
+python3 tools/pipeline.py clinic preflight workspaces/my-dental-skin-clinic/03_reels/reel-08/04_timeline/v04/plan.json
+python3 tools/pipeline.py clinic render workspaces/my-dental-skin-clinic/03_reels/reel-08/04_timeline/v04/plan.json
 ```
 
-Remove `--aroll-only` after requested B-roll deliveries have been reviewed and registered in the plan. A full render fails if any requested media is missing. A-roll previews never burn production labels/placeholders into the picture.
+For new reels awaiting delivery, `--aroll-only` explicitly produces a preview. A full render fails if any requested media is missing. Finishing runs automatically for configured reels after the base render. A-roll previews never burn production labels/placeholders into the picture.
 
 ## Files and portability
 

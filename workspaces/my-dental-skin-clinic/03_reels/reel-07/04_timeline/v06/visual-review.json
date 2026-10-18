@@ -1,0 +1,12 @@
+{
+  "checked_utc": "2026-10-18T00:18:17.317304+00:00",
+  "export_sha256": "f9b1537190e7d923c2abd678607d89b69d0f5a285a9473fe8388aa939dd53803",
+  "reviewer": "agent visual inspection",
+  "encoded_review_board": "encoded-review-board.jpg",
+  "top_left_transparent_logo_checked": true,
+  "supplied_endcard_checked": true,
+  "reference_ending_picture_tail_preserved": true,
+  "audio_review": "Signal measurements, sample count, delay checks and ASR retention; human listening unavailable",
+  "status": "Export ready for user playback review",
+  "picture_review": "Approved v05 picture and captions retained; new ending transition and logo card visually inspected"
+}

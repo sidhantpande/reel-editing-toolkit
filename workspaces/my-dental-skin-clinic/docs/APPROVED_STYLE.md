@@ -44,3 +44,15 @@ Baseline: Reel-07 **v05**, approved by the user on 17 October 2026. Reference ex
 ## Review and acceptance
 
 Check all source cue boundaries, complete dialogue, captions and glyph spacing, gaze coverage, every dissolve/B-roll boundary, logo position and the final encoded export. Full-decode the MP4 and compare exact audio/video durations and frame count. Record actual checks and limitations; ASR-only checks do not constitute human listening. Preserve earlier exports and source originals. Save QA and edit decisions per reel; only the user's approval promotes a style revision.
+
+## Requested finishing extension — 17 October 2026
+
+The user supplied a reference ending and requested it in both Reel-07 and Reel-08, together with voice enhancement. Keep the approved v05 picture/caption look. Append the actual isolated white centred-logo card, including its supplied spoken signature; do not add a second corner logo or captions on the card. Keep a four-frame audio gap after narration, use an eight-frame visual dissolve and extend the final white hold to preserve the complete signature. The signature is matched to−18 LUFS; narration targets−16 LUFS /−1.5 dBTP.
+
+Local speech cleanup uses the official DeepFilterNet3 model and pinned v0.5.6 Apple Silicon executable. A12 dB trial reduced quiet frames strongly but a test ASR passage omitted the morning/night instructions; the6 dB profile and gentle FFT comparison retained that passage. Use the conservative6 dB neural profile, preserve original pitch/speed and add100 ms tail context before compensating model delay. Record objective results honestly: no human listening was available to the agent. The comparison is a retention sanity check, not a subjective quality score. Original and comparison media remain local. Source/licences: https://github.com/Rikorose/DeepFilterNet .
+
+Reel-08's supplied brushing video contains baked cuts at4.32,8.52,12.68 and14.76 seconds. The selected paste/brush/inside-surface ranges avoid these cuts; the paste-to-brush join uses an opaque outgoing layer under a seven-frame incoming dissolve, so the doctor's A-roll does not flash through the B-roll transition. Supplied B-roll audio is discarded.
+
+The supplied reference has a shorter picture stream than its audio. The extracted reusable card holds the last actual white-logo frame for exactly127 frames at30 fps; never trust container duration alone. Finishing rejects an asset or encoded export with a mismatched video frame count, and checks audio duration independently.
+
+Caption phrases must follow spoken clauses rather than fixed word counts. Do not carry the last word of a finished sentence into the next take. Overlapping ASR windows can duplicate a word or extend words from excluded speech; review source times, independently transcribe suspicious retained snippets and reject overlapping duplicate tokens in preflight. Preserve actual repetitions at distinct times.

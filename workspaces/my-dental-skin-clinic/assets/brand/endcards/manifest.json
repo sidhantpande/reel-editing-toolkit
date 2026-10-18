@@ -1,0 +1,16 @@
+{
+  "path": "assets/brand/endcards/my-dental-reference-outro.mp4",
+  "source": "/Users/sidhant/Downloads/SaveClip.App_AQPpm48-OuWrlK9g83FDvaad7WKEgvmpggGsNZPNLNK_yoBGjYehYMK8DbiTDfQqt-NeIk8PvPh-scRoFVIFQjsd1kLruLJMdY1TbYw.mp4",
+  "source_sha256": "6fa77207e98ab5b4989aa06a5fcfe51dbeb198cb7322e8420e16644d11f9ceaf",
+  "source_in": 38.5,
+  "source_out": 42.708042,
+  "source_fps": 30,
+  "frames": 127,
+  "duration": 4.233333333333333,
+  "sha256": "0e3670393643fdfb5bc509f0c4217edc81d0db9ac315d7b710ae41836006c4aa",
+  "purpose": "User explicitly requested this supplied white logo ending for Reel-07 and Reel-08",
+  "audio": "Retain supplied ending sound/signature; match its loudness separately and start after narration to avoid speech overlap",
+  "rights": "User-supplied clinic-brand ending; extracted for the requested edits",
+  "local_source_unchanged": true,
+  "picture_tail_hold": "Clone the final white-logo frame to 127 frames so the shorter reference picture stream carries all supplied audio"
+}

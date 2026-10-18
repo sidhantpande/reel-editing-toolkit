@@ -18,3 +18,9 @@
 - The workspace is part of the existing multi-brand Git repository under `workspaces/my-dental-skin-clinic`. Use `tools/pipeline.py` at repository root for the staged workflow. The old external workspace path remains a compatibility symlink.
 - User-supplied approved B-roll MP4s are explicitly authorised for Git backup; track them with Git LFS and maintain checksums/provenance. Raw camera footage, reference reels, exports, analysis media, caches and environments remain excluded. No existing original or final media deletion is authorised by this request.
 - Pending B-rolls must fail full-render preflight; an explicitly requested A-roll preview can omit them. Mark it as a preview and never paint placeholder labels in the video.
+
+## Supplied ending and voice finishing
+
+- The reference ending supplied on17 October2026 is authorised in Reel-07 and Reel-08, including its spoken signature. Reuse only the extracted end-card asset; keep the complete reference reel local. Never overlap the signature with the doctor's last line.
+- Apply conservative DeepFilterNet3 cleanup with exact sample-count and delay checks. Preserve original speech, pitch and speed; do not synthesize replacements. Add tail context before compensated inference to preserve the final phoneme. Stronger suppression is not automatically better; retain comparison evidence and listening limitations.
+- The two received Reel-08 demonstrations (brushing/paste and flossing) are authorised for the edit and LFS backup. Do not substitute the earlier implant/bridge visuals for these hygiene explanations.

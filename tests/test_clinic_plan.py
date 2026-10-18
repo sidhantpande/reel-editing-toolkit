@@ -7,6 +7,12 @@ class ClinicGateTests(unittest.TestCase):
   self.plan={'duration_seconds':2,'segments':[{'source_id':'main','source':str(self.source),'source_in':1,'source_out':3,'source_duration':5,'timeline_in':0,'timeline_out':2,'crop_xywh':{'x':0,'y':0,'width':1080,'height':1920}}],'words':[{'text':'hello','start':.2,'end':.6,'source_id':'main'}],'broll_slots':[]}
  def tearDown(self):self.tmp.cleanup()
  def test_complete_contiguous_plan(self):self.assertEqual(kit.validate_plan(self.plan)['duration_seconds'],2)
+ def test_overlapping_chunk_duplicate_rejected(self):
+  self.plan['words'].append({'text':'hello','start':.3,'end':.6,'source_id':'main'})
+  with self.assertRaisesRegex(ValueError,'Overlapping duplicate'):kit.validate_plan(self.plan)
+ def test_spoken_repetition_with_distinct_times_allowed(self):
+  self.plan['words'].append({'text':'hello','start':.65,'end':.9,'source_id':'main'})
+  self.assertEqual(kit.validate_plan(self.plan)['words'],2)
  def test_missing_broll_blocks_full_render_but_allows_explicit_preview(self):
   self.plan['broll_slots']=[{'id':'B01','path':'/missing/unreceived.mp4','timeline_in':.5,'timeline_out':1.5}]
   with self.assertRaisesRegex(ValueError,'not delivered'):kit.validate_plan(self.plan)

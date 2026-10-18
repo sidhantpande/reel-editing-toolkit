@@ -52,7 +52,12 @@ def render(plan):
   if s.get('layout','portrait')=='portrait':graph.append(f'[{index}:v]fps=30,scale=1080:1920,setsar=1,format=rgba[b{i}]')
   else:
    graph.extend([f'[{index}:v]fps=30,split=2[bg{i}][fg{i}]',f'[bg{i}]scale=1920:1920,crop=1080:1920,gblur=sigma=35[blur{i}]',f'[fg{i}]scale=1000:1000[sharp{i}]',f'[blur{i}][sharp{i}]overlay=40:310,setsar=1,format=rgba[b{i}]'])
-  graph.append(f'[b{i}]fade=t=in:st=0:d=0.23:alpha=1,fade=t=out:st={duration-.23}:d=0.23:alpha=1,setpts=PTS-STARTPTS+{s["timeline_in"]}/TB[roll{i}]')
+  fades=[]
+  fade_in=s.get('fade_in',7/30);fade_out=s.get('fade_out',7/30)
+  if fade_in>0:fades.append(f'fade=t=in:st=0:d={fade_in}:alpha=1')
+  if fade_out>0:fades.append(f'fade=t=out:st={duration-fade_out}:d={fade_out}:alpha=1')
+  fades.append(f'setpts=PTS-STARTPTS+{s["timeline_in"]}/TB')
+  graph.append(f'[b{i}]'+','.join(fades)+f'[roll{i}]')
   graph.append(f'[{current}][roll{i}]overlay=0:0:enable=between(t\\,{s["timeline_in"]}\\,{s["timeline_out"]})[pass{i}]');current=f'pass{i}'
  logo=R/'00_inbox/brand/my-dental-clinic-logo-transparent-v01.png';gradient=CACHE/'caption-gradient.png'
  from PIL import Image,ImageDraw
@@ -70,7 +75,7 @@ def render(plan):
 def main():
  global CACHE,PICTURE_CACHE,OUT,REEL,EXPORT
  parser=argparse.ArgumentParser(description=__doc__)
- parser.add_argument('plan',type=Path);parser.add_argument('--aroll-only',action='store_true');parser.add_argument('--preflight',action='store_true')
+ parser.add_argument('plan',type=Path);parser.add_argument('--aroll-only',action='store_true');parser.add_argument('--preflight',action='store_true');parser.add_argument('--no-finish',action='store_true')
  args=parser.parse_args();path=args.plan.resolve();plan=json.loads(path.read_text())
  summary=validate_plan(plan,allow_pending=args.aroll_only,root=R);print(json.dumps(summary),flush=True)
  if args.preflight:return
@@ -90,5 +95,10 @@ def main():
  if plan.get('caption_keywords'):v3.KEYS.update(plan['caption_keywords'])
  if plan.get('caption_emphasis'):v3.EMPHASIS.update(plan['caption_emphasis'])
  make_picture_audio(plan);render(plan)
+ ending=STYLE.get('ending',{})
+ if ending.get('enabled') and (not ending.get('applies_to') or plan['reel_id'] in ending['applies_to']) and not args.no_finish:
+  from finish_clinic_reel import finish
+  finished=EXPORT.with_name(EXPORT.stem+'-voice-outro.mp4')
+  finish(EXPORT,PICTURE_CACHE/'dialogue-48k-float.wav',finished,OUT/'finishing',STYLE.get('voice_enhancement',{}).get('attenuation_db',6))
 
 if __name__=='__main__':main()

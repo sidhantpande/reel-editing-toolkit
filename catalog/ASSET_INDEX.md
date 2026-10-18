@@ -212,9 +212,12 @@ Search: `python3 tools/reelctl.py assets --query clock` or `python3 tools/reelct
 | website-white | transparent-svg | [website-white.svg](../public/assets/elements/website-white.svg) |
 | whip | original-synth-audio | [whip.wav](../public/assets/sfx/whip.wav) |
 
-## Clinic supplied B-roll
+## Clinic supplied B-roll and ending
 
 Search: `python3 tools/reelctl.py assets --brand clinic --query implant`.
 
 - [implant](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/reel-07_B01_implant_received.mp4) — 10.01s; Git LFS; user supplied.
 - [dental bridge](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/reel-07_B02_bridge_received.mp4) — 20.00s; Git LFS; user supplied.
+- [toothpaste and brushing demonstration](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/reel-08_B01_brushing_received.mp4) — 16.76s; Git LFS; user supplied.
+- [interdental flossing demonstration](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/reel-08_B02_flossing_received.mp4) — 24.31s; Git LFS; user supplied.
+- [white logo end-card with supplied spoken signature](../workspaces/my-dental-skin-clinic/assets/brand/endcards/my-dental-reference-outro.mp4) — 4.23s; Git LFS; user supplied.
