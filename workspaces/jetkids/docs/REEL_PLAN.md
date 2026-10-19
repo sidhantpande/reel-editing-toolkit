@@ -1,3 +1,5 @@
+> Superseded on19 October2026. The user rejected the overview previews and reduced production to four reels in both formats. See [restart review](RESTART_REVIEW.md) and [four-story draft](FOUR_REEL_STORY_DRAFT.md). The following17-concept plan is retained as research history.
+
 # Jet Kids — saari footage ka reel plan
 
 **17 distinct story concepts + 8 derived versions.** Pehle aapke 4 main films: Sports, Guest Entry/Ribbon, Teachers aur Complete Event. Teenon supplied reference concepts mapped hain. Har reel landscape 1920×1080 at 30 fps hogi; beech mein event photos nahi aayengi. Original JKIS logo ending ke liye rahega.

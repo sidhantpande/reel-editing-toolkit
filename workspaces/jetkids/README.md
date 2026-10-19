@@ -1,10 +1,8 @@
 # Jet Kids event workspace
 
-**Current stage: all475 clips analysed and345 Log masters verified;17 selected soundtracks extracted/indexed. The requested50-second overview review draft is produced. Other reels remain for individual edits.**
+**Restart: four reels only, each eventually in landscape and portrait. Current work is source/audio re-analysis; further user downloads are pending.**
 
-**Eventual delivery format: 1920×1080 landscape, 30 fps. Video footage only between shots; no event-photo inserts.** The user changed from portrait after discussing the framing limitations.
-
-Event source: `/Users/shwetaranjan/Pictures/OCT18-PIXON`.
+All earlier overview previews are rejected historical drafts. The old 17-concept plan, soundtrack assignments and portrait fit-video treatment are superseded. Read [the current brief](AGENTS.md) and [restart findings](docs/RESTART_REVIEW.md). New source volume: `/Volumes/Sidhant-0`; earlier source: `/Users/shwetaranjan/Pictures/OCT18-PIXON`.
 
 The inventory includes 470 Sony MP4s under Videos plus five Nikon MOVs under Photos: 475 clips, 55 minutes 36 seconds, about 45.5 GiB. Existing source XML identifies Sony ILCE-7M4 (A7 IV) and ILCE-7RM5 (A7R V).
 
@@ -31,10 +29,8 @@ The reference manifest maps all three supplied files and extracted original audi
 
 See [colour workflow](../../docs/COLOUR_WORKFLOW.md), [reference analysis](docs/REFERENCE_ANALYSIS.md), and [audio policy](docs/AUDIO.md).
 
-## Current deliverable
+## Historical work and restart evidence
 
-Conversion is complete:345 verified Rec.709 masters, with125 Sony display-referred and5 Nikon videos retained without Sony Log LUT. All475 originals passed a second SHA-256 audit. Full-span sampled visual review covers475 videos across36 survey pages (3997 sample images including exact final frames). This is sampled visual analysis, not every-frame playback or verified listening.
+Earlier technical conversion produced345 verified Sony Rec.709 masters. The125 display-referred Sony sources remain untransformed. Five historical Nikon MOV paths are currently absent. Previous sampled survey notes are retained for comparison; they are not approval of the rejected edit choices.
 
-Read the [complete reel plan](docs/REEL_PLAN.md):17 distinct concepts plus8 derived short/extended versions, with source pools, approximate candidate windows, story order and later audio direction. [Source index](source-index.json), [clip notes](clip-review.json), [editable plan](reel-plan.json) and [review status](review-status.json) retain the evidence. The requested overview review edit is `exports/jetkids-overview-v03.mp4`; see `edits/04-overview-v03/production-plan.md`. Final listening/review approval is not claimed. Other reels remain for individual edits.
-
-Latest comparison pair: `exports/jetkids-overview-v03.mp4` (1920×1080) and `exports/jetkids-overview-portrait-v02.mp4` (1080×1920),50s/1500frames each. Portrait uses per-shot crop/follow plus moving-video fit for essential groups; no event-photo inserts. Audio is byte-copied from the finished landscape mix and decoded-audio hashes match. Neither is claimed listening-approved final.
+The old17-concept plan and all landscape/portrait preview versions are superseded by the four-reel restart. The fit-video portrait treatment is rejected. See [restart findings](docs/RESTART_REVIEW.md) for current source pools and review limitations. The local mapping workbook is `exports/jetkids-restart-review/jetkids-footage-mapping.xlsx`; raw interviews, draft transcripts and caches stay local.

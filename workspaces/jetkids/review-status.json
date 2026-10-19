@@ -1,11 +1,14 @@
 {
-  "stage": "17 music excerpts verified; toolkit/beat/transition features complete; landscape overview and9:16 comparison previews ready.",
-  "latest_user_direction": "Finish all conversion/analysis, then deliver all feasible concepts. Individual audio choice and reel edits come later.",
+  "stage": "Restart analysis: four stories only; new Sidhant-0 footage and music meaning under review; additional media pending",
+  "latest_user_direction": "Reject previous edits. Reanalyse source actions, interviews and all 17 soundtracks before proposing four reels in both landscape and portrait. No new render yet.",
   "delivery_format": {
-    "width": 1920,
-    "height": 1080,
+    "formats": [
+      "1920x1080",
+      "1080x1920"
+    ],
     "fps": 30,
-    "event_photo_inserts": false
+    "event_photo_inserts": false,
+    "portrait_small_landscape_inserts": false
   },
   "reference_concepts": "All three are mandatory",
   "photo_review": {
@@ -52,7 +55,8 @@
     "distinct_story_concepts": 17,
     "derived_versions": 8,
     "mandatory_references_mapped": 3,
-    "path": "docs/REEL_PLAN.md"
+    "path": "docs/REEL_PLAN.md",
+    "status": "superseded"
   },
   "toolkit_checks": {
     "unit_tests": 60,
@@ -70,8 +74,42 @@
     "duration_seconds": 50,
     "frames_each": 1500,
     "audio": "Identical AAC and decoded PCM hashes",
-    "listening": "Not attested; review drafts"
+    "listening": "Not attested; review drafts",
+    "status": "rejected by user"
   },
   "final_reels_approved": 0,
-  "exports_note": "Three landscape revisions and two portrait comparison revisions exist locally. Latest pair listed; none is claimed listening-approved final."
+  "exports_note": "Three landscape revisions and two portrait comparison revisions exist locally. Latest pair listed; none is claimed listening-approved final.",
+  "restart": {
+    "new_entries": 127,
+    "with_video_stream": 126,
+    "duration_seconds": 3392.518538,
+    "proxy_lrf_files": 65,
+    "survey_pages_viewed": 16,
+    "survey_positions_per_clip": 3,
+    "interview_and_setup_candidates": 36,
+    "music_base_ASR_passes": 17,
+    "music_small_ASR_passes": 17,
+    "scope": "All127 entries have metadata and3-frame first-pass visual mapping. Four candidate actions reviewed at2fps. Full-source ASR drafts36; overlapping comparison25. Full motion/listening and exact cut approval remain pending.",
+    "additional_downloads": "User will notify when ready",
+    "mapping_workbook": "exports/jetkids-restart-review/jetkids-footage-mapping.xlsx",
+    "historical_missing_originals": 5,
+    "interview_first_pass_ASR": 36,
+    "meaning_comparison": "Publisher descriptions and available lyrics checked for17 tracks; eight have substantial publisher lyrics in the local metadata.",
+    "music_first_choices": {
+      "sports": "Chale Chalo",
+      "guests": "Shubhaarambh",
+      "teachers_community": "Sooraj Ki Baahon Mein",
+      "overview": "Aashayein"
+    },
+    "music_choice_status": "Provisional; exact sections and musical sync remain unapproved",
+    "interview_overlap_comparisons": 25,
+    "audio_extraction_duration_checks": "36 complete-source audio extracts matched source durations within0.1s; ASR wording remains draft",
+    "colour_profile_audit": {
+      "canon_eos90d_auto": 61,
+      "dji_profile_unconfirmed": 64,
+      "other_mov_excluded": 1,
+      "empty_container": 1
+    },
+    "last_updated": "2026-10-20"
+  }
 }

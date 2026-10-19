@@ -1,5 +1,5 @@
 {
-  "stage": "All-source conversion/analysis and17 concept plan complete;17 soundtrack excerpts ready. Requested overview review edit produced; other individual reels pending.",
+  "stage": "Superseded: historical17-concept research. Latest scope is four reels in both landscape and portrait; see docs/FOUR_REEL_STORY_DRAFT.md.",
   "format": {
     "width": 1920,
     "height": 1080,
@@ -2165,5 +2165,7 @@
   "final_reel_exports_created": 0,
   "overview_review_export": "exports/jetkids-overview-v03.mp4",
   "reference_audio_defaults": "Superseded by latest17-song cue sheet. Reference videos remain visual story anchors.",
-  "portrait_comparison_preview": "exports/jetkids-overview-portrait-v02.mp4"
+  "portrait_comparison_preview": "exports/jetkids-overview-portrait-v02.mp4",
+  "superseded": true,
+  "superseded_by": "docs/FOUR_REEL_STORY_DRAFT.md"
 }

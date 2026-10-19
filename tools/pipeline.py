@@ -25,7 +25,17 @@ def main():
    if review.exists():print('Contact sheets generated:',len(json.loads(review.read_text())['clips']))
    notes=ROOT/'workspaces/jetkids/clip-review.json'
    if notes.exists():print('Visual clip notes:',len(json.loads(notes.read_text())['clips']))
-   print('Current brief: conversion, analysis and plan; individual edits/audio later.')
+   brief=ROOT/'workspaces/jetkids/review-status.json'
+   if brief.exists():
+    current=json.loads(brief.read_text())
+    print('Latest recorded stage:',current.get('stage','not recorded'))
+    print('Current brief:',current.get('latest_user_direction','not recorded'))
+    if current.get('restart'):
+     restart=current['restart']
+     print('Sidhant-0 recorded snapshot:',restart.get('new_entries',0),'entries;',restart.get('with_video_stream',0),'with video streams')
+     print('Review scope:',restart.get('scope','not recorded'))
+     print('Mapping workbook:',restart.get('mapping_workbook','not generated'))
+   else:print('Current brief: see workspaces/jetkids/AGENTS.md')
    return 0
   if a.command=='doctor': return subprocess.call([sys.executable,str(ROOT/'tools/doctor.py')],cwd=ROOT)
   if a.command=='intake':
