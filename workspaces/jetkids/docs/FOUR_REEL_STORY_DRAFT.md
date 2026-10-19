@@ -1,20 +1,22 @@
-# Four reels — story draft for the restart
+# Four mandatory event reels — working draft
+
+Latest scope: four mandatory event reels plus additional interview-led candidates. See [the interview/story map](INTERVIEW_STORY_MAP.md). SID-SSD evening footage belongs to a separate event and is parked outside this sports plan.
 
 Analysis draft, not an approved timeline. More footage is downloading. Both16:9 and9:16 versions should tell the same story with separately selected coverage. Do not carry forward the rejected overview's clip order, small landscape portrait inserts or music markers.
 
-## 1. Sports: effort becomes team spirit
+## 1. Matches, guest participation and event energy
 
 Start with a clearly readable action and its consequence, not a trophy/car establishing montage. Give each sport a miniature sequence: preparation, action, reaction. Connect cricket teamwork to kabaddi coordination, kho-kho chase and the drill's shared timing. Indoor chess/TT belong only if the transition makes sense as a change from physical speed to focus, rather than one compulsory shot of everything.
 
 First music choice: Chale Chalo, for collective effort. Zinda remains an alternate for a more forceful athletic treatment. The current Chale Chalo excerpt has an ASR-detected vocal entry around slice+30s; do not pretend the old source1:25 chorus cue has been checked. Reassess the full downloaded recording before deciding the usable musical phrase.
 
-Source research: older Sony cricket/kabaddi/kho-kho/drill pools; V004 table tennis, V060/V075 chess, V073 training activity. V009 is waiting with a bat, not a bowling/swing payoff. Distant DJI grass-field footage is mostly reserve coverage until ball/action visibility is confirmed. V029 is a guest batting and belongs with guests or an explicitly connected event moment rather than being presented as a child's shot.
+Source research: older Sony cricket/kabaddi/kho-kho/drill pools; V004 table tennis, V060/V075 chess, V073 training activity. V009 is waiting with a bat, not a bowling/swing payoff. Distant DJI grass-field footage is mostly reserve coverage until ball/action visibility is confirmed. V029 is a guest batting: use it as an explicitly identified guest-participation beat in this reel, never as a child's shot.
 
 Possible purpose line: V114 source about17–30s discusses teamwork and management through sports. This is an English ASR candidate, not a quoted or listening-approved cut. A speech line is optional; preserve the sports action if dialogue weakens the opening.
 
 ## 2. Guests: welcome, opening, participation
 
-Build one sequence from the band's real rhythm to a complete greeting, lamp/ribbon action and a genuine response. Do not use unrelated car movement as a mood filler. Guest participation in sport can provide a warm release after the formal opening if it belongs naturally in the same story.
+Build one sequence from the band's real rhythm to a complete greeting, lamp/ribbon action and a genuine response. Do not use unrelated car movement as a mood filler. Reserve the strongest guest sporting participation for R1; this reel should focus on welcome and inauguration.
 
 First music choice: Shubhaarambh, for a shared auspicious beginning. Its exact supplied video version needs its own structure check; the old asserted instrumental/shehnai intro is not a verified event. Keep original band/scissors/applause details where usable and avoid layering strong song vocals over an interview line.
 

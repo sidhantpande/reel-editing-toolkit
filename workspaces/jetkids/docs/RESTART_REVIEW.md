@@ -65,3 +65,17 @@ At V029 source3.1s, an approximate source crop x480,width1215,height2160 retains
 
 
 Snapshot updated20 October2026:36 complete-source audio extraction duration checks passed;25 genuine interview/setup takes also have overlapping FP16-model comparisons. These comparisons still contain unreliable Hindi passages and are not listening approval. English candidate meanings and uncertain Hindi meanings are distinguished in the workbook. The workbook was exported and its five sheet previews inspected;60 existing tests, npm checks and Git audit passed after the toolkit status update. No new reel was rendered and no source was rewritten or removed.
+
+## SID-SSD and expanded interview brief,20 October
+
+The latest user brief keeps four mandatory sports-event stories and permits additional interview-led reels justified by meaningful complementary answers. See [the current interview/story map](INTERVIEW_STORY_MAP.md). Three interview-led candidates and one reserve are research proposals, with duplicate themes explicitly identified rather than an arbitrary reel quota.
+
+SID-SSD contains624 nonhidden files, about41.96GiB:140MP4,140LRF camera proxies,23JPEG,320 thumbnail/screen sidecars and one database. Sixty-five MP4 entries match the existing sports registry by filename, size and first/middle/last1MiB SHA256. This is a sampled comparison, not a complete file-identity audit. The existing empty V041 container is also present.
+
+The remaining75 entries, reserved as V128–V202, belong to a separate Jet Kids evening garba/dandiya event, confirmed by the user. Seventy-three contain video, totalling38m55.7s; V186 and V201 are empty1241-byte containers. All73 additional videos are HEVC10bit59.94fps:65portrait and8landscape. Three proxy positions per entry were surveyed across10 contact pages. Samples show dance, ritual/aarti, venue, crowd and interview/setup coverage; they are not full motion or listening review. DJI recording profile remains unconfirmed and no guessed LUT was applied.
+
+The evening event is parked separately under `workspaces/jetkids-evening-event`, with75 MP4 links and75 LRF links in `media/raw/jetkids-evening-event/SID-SSD`. These links require the mounted SSD and are not backups. Original files were not moved, rewritten or deleted; all140 recorded MP4 sizes remained unchanged at the end of intake. The evening interviews and ceremony must not be used as continuity for the sports event. Further evening transcription was stopped after the user asked to park this event; partial drafts remain local and unapproved.
+
+Eight sports-event English interviews received an additional English-constrained ASR comparison, which recovers several useful passages obscured by language-auto repetition. V124's skills list is around14.4–19.5s. V111's family/nurturing and V115's parent-participation ideas are clearer, but exact wording and listening approval remain pending.
+
+Six additional full-span2fps action surveys cover S200/C4306 ribbon, S231/C4337 drill, S126/C4232 adult/child warmth, V001, V010 and V126 court/sports coverage. Combined with the earlier four, ten actions have denser sampled research. A larger original frame corrects V010: this is a batter holding a bat by the stumps, not bowling. Decisive contact remains unchecked. Ribbon release appears around3–4s in S200; exact scissors contact is not frame approved. The workbook distinguishes these research ranges from final cut points.

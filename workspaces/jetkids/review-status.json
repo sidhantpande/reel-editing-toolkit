@@ -1,6 +1,6 @@
 {
-  "stage": "Restart analysis: four stories only; new Sidhant-0 footage and music meaning under review; additional media pending",
-  "latest_user_direction": "Reject previous edits. Reanalyse source actions, interviews and all 17 soundtracks before proposing four reels in both landscape and portrait. No new render yet.",
+  "stage": "Sports-event planning: four mandatory stories plus interview-led candidates; separate evening event parked",
+  "latest_user_direction": "Inspect SID-SSD DJI footage. Plan complete overview, guest highlights, matches/guests/event and teachers games, plus meaningful interview-led reels combining complementary speakers and relevant B-roll. Both landscape and portrait. No new render yet.",
   "delivery_format": {
     "formats": [
       "1920x1080",
@@ -89,8 +89,8 @@
     "interview_and_setup_candidates": 36,
     "music_base_ASR_passes": 17,
     "music_small_ASR_passes": 17,
-    "scope": "All127 entries have metadata and3-frame first-pass visual mapping. Four candidate actions reviewed at2fps. Full-source ASR drafts36; overlapping comparison25. Full motion/listening and exact cut approval remain pending.",
-    "additional_downloads": "User will notify when ready",
+    "scope": "Sports registry remains V001\u2013V127. Six additional full-span2fps action surveys and8 English-constrained ASR comparisons inform the current story map. Source action/contact frames, dialogue wording/listening and final edit points still need approval through actual review.",
+    "additional_downloads": "SID-SSD intake mapped; user confirmed evening clips belong to a separate Jet Kids event and asked to park them",
     "mapping_workbook": "exports/jetkids-restart-review/jetkids-footage-mapping.xlsx",
     "historical_missing_originals": 5,
     "interview_first_pass_ASR": 36,
@@ -110,6 +110,46 @@
       "other_mov_excluded": 1,
       "empty_container": 1
     },
-    "last_updated": "2026-10-20"
+    "last_updated": "2026-10-20",
+    "english_constrained_comparisons": 8,
+    "selected_action_dense_reviews": 10,
+    "interview_candidates": {
+      "strong_research_candidates": 3,
+      "reserve": 1,
+      "voice_contribution_rows": 12,
+      "status": "Research candidates, with overlaps and missing evidence identified; not additional promised finals"
+    },
+    "workbook_review": {
+      "sheets": 8,
+      "interview_contribution_rows": 12,
+      "action_research_rows": 10,
+      "sid_ssd_rows": 140,
+      "formula_error_scan": "No matches",
+      "unchanged_music_values_formulas": "Compared against previous saved workbook; all preserved",
+      "visual_review": "Seven changed/new sheet views rendered and inspected; unrelated music view unchanged",
+      "sha256": "3efd23a6f06bdd22e58be323f3616785355b445a51929d5e1c63bb42e9ef13ce"
+    }
+  },
+  "sid_ssd": {
+    "files": 624,
+    "bytes": 45053042511,
+    "mp4_entries": 140,
+    "lrf_proxies": 140,
+    "photos_context_only": 23,
+    "existing_sports_matches": 65,
+    "match_method": "Same filenames and sizes; first/middle/last1MiB SHA256 matching. Not a full-file identity audit.",
+    "separate_evening_entries": 75,
+    "separate_evening_video_streams": 73,
+    "separate_evening_empty_containers": 2,
+    "evening_duration_seconds": 2335.673668,
+    "survey_pages_viewed": 10,
+    "survey_positions_per_clip": 3,
+    "visual_method": "LRF proxies used for first/middle/end content survey; no full-resolution grade approval",
+    "camera_profile": "73 additional HEVC10bit videos:65portrait and8landscape,59.94fps. Recording profile remains unknown; no Sony LUT applied.",
+    "original_sizes_rechecked_unchanged": true,
+    "event_assignment": "User confirmed separate Jet Kids evening event; parked outside sports plan",
+    "local_collection": "media/raw/jetkids-evening-event/SID-SSD",
+    "local_collection_is_backup": false,
+    "collection_method": "75 original MP4 symlinks plus75 matching LRF links; requires mounted SID-SSD"
   }
 }
