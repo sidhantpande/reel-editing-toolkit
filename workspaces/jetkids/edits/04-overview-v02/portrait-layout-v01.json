@@ -1,0 +1,133 @@
+{
+  "id": "jetkids-overview-portrait-v01",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "purpose": "User requested9:16 comparison alongside landscape, not a change to all17 deliverables",
+  "eventPhotoInserts": false,
+  "shots": [
+    {
+      "mode": "crop",
+      "center_x": 900,
+      "reason": "Calibrated principal subject; keep full native frame height for head/hand room"
+    },
+    {
+      "mode": "crop",
+      "center_x": 1450,
+      "reason": "Calibrated principal subject; keep full native frame height for head/hand room"
+    },
+    {
+      "mode": "fit-video",
+      "reason": "Retain complete group/action geography in moving landscape insert over blurred moving source background"
+    },
+    {
+      "mode": "fit-video",
+      "reason": "Retain complete group/action geography in moving landscape insert over blurred moving source background"
+    },
+    {
+      "mode": "crop",
+      "center_x": 850,
+      "reason": "Calibrated principal subject; keep full native frame height for head/hand room"
+    },
+    {
+      "mode": "crop",
+      "center_x": 1070,
+      "reason": "Calibrated principal subject; keep full native frame height for head/hand room"
+    },
+    {
+      "mode": "fit-video",
+      "reason": "Retain complete group/action geography in moving landscape insert over blurred moving source background"
+    },
+    {
+      "mode": "fit-video",
+      "reason": "Retain complete group/action geography in moving landscape insert over blurred moving source background"
+    },
+    {
+      "mode": "crop",
+      "center_x": 900,
+      "reason": "Calibrated principal subject; keep full native frame height for head/hand room"
+    },
+    {
+      "mode": "fit-video",
+      "reason": "Retain complete group/action geography in moving landscape insert over blurred moving source background"
+    },
+    {
+      "mode": "fit-video",
+      "reason": "Retain complete group/action geography in moving landscape insert over blurred moving source background"
+    },
+    {
+      "mode": "crop",
+      "center_x": 800,
+      "reason": "Calibrated principal subject; keep full native frame height for head/hand room"
+    },
+    {
+      "mode": "fit-video",
+      "reason": "Retain complete group/action geography in moving landscape insert over blurred moving source background"
+    },
+    {
+      "mode": "fit-video",
+      "reason": "Retain complete group/action geography in moving landscape insert over blurred moving source background"
+    },
+    {
+      "mode": "crop",
+      "center_x": 650,
+      "reason": "Calibrated principal subject; keep full native frame height for head/hand room"
+    },
+    {
+      "mode": "crop",
+      "center_x": 1000,
+      "reason": "Calibrated principal subject; keep full native frame height for head/hand room"
+    },
+    {
+      "mode": "crop",
+      "center_x": 950,
+      "reason": "Calibrated principal subject; keep full native frame height for head/hand room"
+    },
+    {
+      "mode": "crop",
+      "center_x": 900,
+      "reason": "Follow the balloon-race pair across the native frame",
+      "end_center_x": 750
+    },
+    {
+      "mode": "fit-video",
+      "reason": "Retain complete group/action geography in moving landscape insert over blurred moving source background"
+    },
+    {
+      "mode": "crop",
+      "center_x": 1050,
+      "reason": "Calibrated principal subject; keep full native frame height for head/hand room"
+    },
+    {
+      "mode": "crop",
+      "center_x": 800,
+      "reason": "Calibrated principal subject; keep full native frame height for head/hand room"
+    },
+    {
+      "mode": "fit-video",
+      "reason": "Retain complete group/action geography in moving landscape insert over blurred moving source background"
+    },
+    {
+      "mode": "fit-video",
+      "reason": "Retain complete group/action geography in moving landscape insert over blurred moving source background"
+    },
+    {
+      "mode": "fit-video",
+      "reason": "Retain complete group/action geography in moving landscape insert over blurred moving source background"
+    },
+    {
+      "mode": "crop",
+      "center_x": 900,
+      "reason": "Calibrated principal subject; keep full native frame height for head/hand room"
+    },
+    {
+      "mode": "crop",
+      "center_x": 1050,
+      "reason": "Calibrated principal subject; keep full native frame height for head/hand room"
+    },
+    {
+      "mode": "fit-video",
+      "reason": "Retain complete group/action geography in moving landscape insert over blurred moving source background"
+    }
+  ]
+}

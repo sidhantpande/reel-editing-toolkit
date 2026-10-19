@@ -1,0 +1,904 @@
+{
+  "asset": "jetkids-music-17",
+  "method": "librosa HPSS percussive onset envelope + dynamic-programming beat tracker",
+  "librosa_version": "0.11.0",
+  "hop_samples": 256,
+  "sample_rate": 22050,
+  "tempo_bpm_estimate": 109.95678191489361,
+  "beats": [
+    {
+      "timeline_seconds": 0.08127,
+      "source_seconds": 40.08127,
+      "frame_30fps": 2
+    },
+    {
+      "timeline_seconds": 0.557279,
+      "source_seconds": 40.557279,
+      "frame_30fps": 17
+    },
+    {
+      "timeline_seconds": 1.149388,
+      "source_seconds": 41.149388,
+      "frame_30fps": 34
+    },
+    {
+      "timeline_seconds": 1.718277,
+      "source_seconds": 41.718277,
+      "frame_30fps": 52
+    },
+    {
+      "timeline_seconds": 2.263946,
+      "source_seconds": 42.263946,
+      "frame_30fps": 68
+    },
+    {
+      "timeline_seconds": 2.809615,
+      "source_seconds": 42.809615,
+      "frame_30fps": 84
+    },
+    {
+      "timeline_seconds": 3.355283,
+      "source_seconds": 43.355283,
+      "frame_30fps": 101
+    },
+    {
+      "timeline_seconds": 3.924172,
+      "source_seconds": 43.924172,
+      "frame_30fps": 118
+    },
+    {
+      "timeline_seconds": 4.446621,
+      "source_seconds": 44.446621,
+      "frame_30fps": 133
+    },
+    {
+      "timeline_seconds": 4.94585,
+      "source_seconds": 44.94585,
+      "frame_30fps": 148
+    },
+    {
+      "timeline_seconds": 5.549569,
+      "source_seconds": 45.549569,
+      "frame_30fps": 166
+    },
+    {
+      "timeline_seconds": 6.083628,
+      "source_seconds": 46.083628,
+      "frame_30fps": 183
+    },
+    {
+      "timeline_seconds": 6.629297,
+      "source_seconds": 46.629297,
+      "frame_30fps": 199
+    },
+    {
+      "timeline_seconds": 7.128526,
+      "source_seconds": 47.128526,
+      "frame_30fps": 214
+    },
+    {
+      "timeline_seconds": 7.674195,
+      "source_seconds": 47.674195,
+      "frame_30fps": 230
+    },
+    {
+      "timeline_seconds": 8.277914,
+      "source_seconds": 48.277914,
+      "frame_30fps": 248
+    },
+    {
+      "timeline_seconds": 8.788753,
+      "source_seconds": 48.788753,
+      "frame_30fps": 264
+    },
+    {
+      "timeline_seconds": 9.311202,
+      "source_seconds": 49.311202,
+      "frame_30fps": 279
+    },
+    {
+      "timeline_seconds": 9.903311,
+      "source_seconds": 49.903311,
+      "frame_30fps": 297
+    },
+    {
+      "timeline_seconds": 10.46059,
+      "source_seconds": 50.46059,
+      "frame_30fps": 314
+    },
+    {
+      "timeline_seconds": 11.006259,
+      "source_seconds": 51.006259,
+      "frame_30fps": 330
+    },
+    {
+      "timeline_seconds": 11.586757,
+      "source_seconds": 51.586757,
+      "frame_30fps": 348
+    },
+    {
+      "timeline_seconds": 12.109206,
+      "source_seconds": 52.109206,
+      "frame_30fps": 363
+    },
+    {
+      "timeline_seconds": 12.643265,
+      "source_seconds": 52.643265,
+      "frame_30fps": 379
+    },
+    {
+      "timeline_seconds": 13.200544,
+      "source_seconds": 53.200544,
+      "frame_30fps": 396
+    },
+    {
+      "timeline_seconds": 13.757823,
+      "source_seconds": 53.757823,
+      "frame_30fps": 413
+    },
+    {
+      "timeline_seconds": 14.303492,
+      "source_seconds": 54.303492,
+      "frame_30fps": 429
+    },
+    {
+      "timeline_seconds": 14.837551,
+      "source_seconds": 54.837551,
+      "frame_30fps": 445
+    },
+    {
+      "timeline_seconds": 15.37161,
+      "source_seconds": 55.37161,
+      "frame_30fps": 461
+    },
+    {
+      "timeline_seconds": 15.917279,
+      "source_seconds": 55.917279,
+      "frame_30fps": 478
+    },
+    {
+      "timeline_seconds": 16.462948,
+      "source_seconds": 56.462948,
+      "frame_30fps": 494
+    },
+    {
+      "timeline_seconds": 16.997007,
+      "source_seconds": 56.997007,
+      "frame_30fps": 510
+    },
+    {
+      "timeline_seconds": 17.542676,
+      "source_seconds": 57.542676,
+      "frame_30fps": 526
+    },
+    {
+      "timeline_seconds": 18.088345,
+      "source_seconds": 58.088345,
+      "frame_30fps": 543
+    },
+    {
+      "timeline_seconds": 18.634014,
+      "source_seconds": 58.634014,
+      "frame_30fps": 559
+    },
+    {
+      "timeline_seconds": 19.179683,
+      "source_seconds": 59.179683,
+      "frame_30fps": 575
+    },
+    {
+      "timeline_seconds": 19.713741,
+      "source_seconds": 59.713741,
+      "frame_30fps": 591
+    },
+    {
+      "timeline_seconds": 20.27102,
+      "source_seconds": 60.27102,
+      "frame_30fps": 608
+    },
+    {
+      "timeline_seconds": 20.816689,
+      "source_seconds": 60.816689,
+      "frame_30fps": 625
+    },
+    {
+      "timeline_seconds": 21.362358,
+      "source_seconds": 61.362358,
+      "frame_30fps": 641
+    },
+    {
+      "timeline_seconds": 21.908027,
+      "source_seconds": 61.908027,
+      "frame_30fps": 657
+    },
+    {
+      "timeline_seconds": 22.453696,
+      "source_seconds": 62.453696,
+      "frame_30fps": 674
+    },
+    {
+      "timeline_seconds": 22.999365,
+      "source_seconds": 62.999365,
+      "frame_30fps": 690
+    },
+    {
+      "timeline_seconds": 23.545034,
+      "source_seconds": 63.545034,
+      "frame_30fps": 706
+    },
+    {
+      "timeline_seconds": 24.079093,
+      "source_seconds": 64.079093,
+      "frame_30fps": 722
+    },
+    {
+      "timeline_seconds": 24.636372,
+      "source_seconds": 64.636372,
+      "frame_30fps": 739
+    },
+    {
+      "timeline_seconds": 25.182041,
+      "source_seconds": 65.182041,
+      "frame_30fps": 755
+    },
+    {
+      "timeline_seconds": 25.72771,
+      "source_seconds": 65.72771,
+      "frame_30fps": 772
+    },
+    {
+      "timeline_seconds": 26.273379,
+      "source_seconds": 66.273379,
+      "frame_30fps": 788
+    },
+    {
+      "timeline_seconds": 26.819048,
+      "source_seconds": 66.819048,
+      "frame_30fps": 805
+    },
+    {
+      "timeline_seconds": 27.364717,
+      "source_seconds": 67.364717,
+      "frame_30fps": 821
+    },
+    {
+      "timeline_seconds": 27.910385,
+      "source_seconds": 67.910385,
+      "frame_30fps": 837
+    },
+    {
+      "timeline_seconds": 28.444444,
+      "source_seconds": 68.444444,
+      "frame_30fps": 853
+    },
+    {
+      "timeline_seconds": 29.001723,
+      "source_seconds": 69.001723,
+      "frame_30fps": 870
+    },
+    {
+      "timeline_seconds": 29.535782,
+      "source_seconds": 69.535782,
+      "frame_30fps": 886
+    }
+  ],
+  "onsets": [
+    {
+      "timeline_seconds": 0.05805,
+      "source_seconds": 40.05805,
+      "frame_30fps": 2
+    },
+    {
+      "timeline_seconds": 0.09288,
+      "source_seconds": 40.09288,
+      "frame_30fps": 3
+    },
+    {
+      "timeline_seconds": 0.290249,
+      "source_seconds": 40.290249,
+      "frame_30fps": 9
+    },
+    {
+      "timeline_seconds": 0.499229,
+      "source_seconds": 40.499229,
+      "frame_30fps": 15
+    },
+    {
+      "timeline_seconds": 0.905578,
+      "source_seconds": 40.905578,
+      "frame_30fps": 27
+    },
+    {
+      "timeline_seconds": 1.126168,
+      "source_seconds": 41.126168,
+      "frame_30fps": 34
+    },
+    {
+      "timeline_seconds": 1.729887,
+      "source_seconds": 41.729887,
+      "frame_30fps": 52
+    },
+    {
+      "timeline_seconds": 1.962086,
+      "source_seconds": 41.962086,
+      "frame_30fps": 59
+    },
+    {
+      "timeline_seconds": 2.240726,
+      "source_seconds": 42.240726,
+      "frame_30fps": 67
+    },
+    {
+      "timeline_seconds": 2.275556,
+      "source_seconds": 42.275556,
+      "frame_30fps": 68
+    },
+    {
+      "timeline_seconds": 2.542585,
+      "source_seconds": 42.542585,
+      "frame_30fps": 76
+    },
+    {
+      "timeline_seconds": 2.681905,
+      "source_seconds": 42.681905,
+      "frame_30fps": 80
+    },
+    {
+      "timeline_seconds": 3.099864,
+      "source_seconds": 43.099864,
+      "frame_30fps": 93
+    },
+    {
+      "timeline_seconds": 3.297234,
+      "source_seconds": 43.297234,
+      "frame_30fps": 99
+    },
+    {
+      "timeline_seconds": 3.343673,
+      "source_seconds": 43.343673,
+      "frame_30fps": 100
+    },
+    {
+      "timeline_seconds": 3.912562,
+      "source_seconds": 43.912562,
+      "frame_30fps": 117
+    },
+    {
+      "timeline_seconds": 4.318912,
+      "source_seconds": 44.318912,
+      "frame_30fps": 130
+    },
+    {
+      "timeline_seconds": 4.423401,
+      "source_seconds": 44.423401,
+      "frame_30fps": 133
+    },
+    {
+      "timeline_seconds": 4.458231,
+      "source_seconds": 44.458231,
+      "frame_30fps": 134
+    },
+    {
+      "timeline_seconds": 4.678821,
+      "source_seconds": 44.678821,
+      "frame_30fps": 140
+    },
+    {
+      "timeline_seconds": 4.725261,
+      "source_seconds": 44.725261,
+      "frame_30fps": 142
+    },
+    {
+      "timeline_seconds": 4.92263,
+      "source_seconds": 44.92263,
+      "frame_30fps": 148
+    },
+    {
+      "timeline_seconds": 5.27093,
+      "source_seconds": 45.27093,
+      "frame_30fps": 158
+    },
+    {
+      "timeline_seconds": 5.526349,
+      "source_seconds": 45.526349,
+      "frame_30fps": 166
+    },
+    {
+      "timeline_seconds": 5.746939,
+      "source_seconds": 45.746939,
+      "frame_30fps": 172
+    },
+    {
+      "timeline_seconds": 5.839819,
+      "source_seconds": 45.839819,
+      "frame_30fps": 175
+    },
+    {
+      "timeline_seconds": 6.048798,
+      "source_seconds": 46.048798,
+      "frame_30fps": 181
+    },
+    {
+      "timeline_seconds": 6.397098,
+      "source_seconds": 46.397098,
+      "frame_30fps": 192
+    },
+    {
+      "timeline_seconds": 6.513197,
+      "source_seconds": 46.513197,
+      "frame_30fps": 195
+    },
+    {
+      "timeline_seconds": 6.617687,
+      "source_seconds": 46.617687,
+      "frame_30fps": 199
+    },
+    {
+      "timeline_seconds": 6.907937,
+      "source_seconds": 46.907937,
+      "frame_30fps": 207
+    },
+    {
+      "timeline_seconds": 7.047256,
+      "source_seconds": 47.047256,
+      "frame_30fps": 211
+    },
+    {
+      "timeline_seconds": 7.325896,
+      "source_seconds": 47.325896,
+      "frame_30fps": 220
+    },
+    {
+      "timeline_seconds": 7.465215,
+      "source_seconds": 47.465215,
+      "frame_30fps": 224
+    },
+    {
+      "timeline_seconds": 7.662585,
+      "source_seconds": 47.662585,
+      "frame_30fps": 230
+    },
+    {
+      "timeline_seconds": 7.999274,
+      "source_seconds": 47.999274,
+      "frame_30fps": 240
+    },
+    {
+      "timeline_seconds": 8.266304,
+      "source_seconds": 48.266304,
+      "frame_30fps": 248
+    },
+    {
+      "timeline_seconds": 8.579773,
+      "source_seconds": 48.579773,
+      "frame_30fps": 257
+    },
+    {
+      "timeline_seconds": 9.044172,
+      "source_seconds": 49.044172,
+      "frame_30fps": 271
+    },
+    {
+      "timeline_seconds": 9.090612,
+      "source_seconds": 49.090612,
+      "frame_30fps": 273
+    },
+    {
+      "timeline_seconds": 9.229932,
+      "source_seconds": 49.229932,
+      "frame_30fps": 277
+    },
+    {
+      "timeline_seconds": 9.647891,
+      "source_seconds": 49.647891,
+      "frame_30fps": 289
+    },
+    {
+      "timeline_seconds": 9.891701,
+      "source_seconds": 49.891701,
+      "frame_30fps": 297
+    },
+    {
+      "timeline_seconds": 10.17034,
+      "source_seconds": 50.17034,
+      "frame_30fps": 305
+    },
+    {
+      "timeline_seconds": 10.30966,
+      "source_seconds": 50.30966,
+      "frame_30fps": 309
+    },
+    {
+      "timeline_seconds": 10.43737,
+      "source_seconds": 50.43737,
+      "frame_30fps": 313
+    },
+    {
+      "timeline_seconds": 10.704399,
+      "source_seconds": 50.704399,
+      "frame_30fps": 321
+    },
+    {
+      "timeline_seconds": 10.866939,
+      "source_seconds": 50.866939,
+      "frame_30fps": 326
+    },
+    {
+      "timeline_seconds": 10.994649,
+      "source_seconds": 50.994649,
+      "frame_30fps": 330
+    },
+    {
+      "timeline_seconds": 11.261678,
+      "source_seconds": 51.261678,
+      "frame_30fps": 338
+    },
+    {
+      "timeline_seconds": 11.575147,
+      "source_seconds": 51.575147,
+      "frame_30fps": 347
+    },
+    {
+      "timeline_seconds": 11.702857,
+      "source_seconds": 51.702857,
+      "frame_30fps": 351
+    },
+    {
+      "timeline_seconds": 11.818957,
+      "source_seconds": 51.818957,
+      "frame_30fps": 355
+    },
+    {
+      "timeline_seconds": 12.085986,
+      "source_seconds": 52.085986,
+      "frame_30fps": 363
+    },
+    {
+      "timeline_seconds": 12.329796,
+      "source_seconds": 52.329796,
+      "frame_30fps": 370
+    },
+    {
+      "timeline_seconds": 12.561995,
+      "source_seconds": 52.561995,
+      "frame_30fps": 377
+    },
+    {
+      "timeline_seconds": 12.631655,
+      "source_seconds": 52.631655,
+      "frame_30fps": 379
+    },
+    {
+      "timeline_seconds": 14.419592,
+      "source_seconds": 54.419592,
+      "frame_30fps": 433
+    },
+    {
+      "timeline_seconds": 15.33678,
+      "source_seconds": 55.33678,
+      "frame_30fps": 460
+    },
+    {
+      "timeline_seconds": 15.894059,
+      "source_seconds": 55.894059,
+      "frame_30fps": 477
+    },
+    {
+      "timeline_seconds": 16.451338,
+      "source_seconds": 56.451338,
+      "frame_30fps": 494
+    },
+    {
+      "timeline_seconds": 16.741587,
+      "source_seconds": 56.741587,
+      "frame_30fps": 502
+    },
+    {
+      "timeline_seconds": 16.985397,
+      "source_seconds": 56.985397,
+      "frame_30fps": 510
+    },
+    {
+      "timeline_seconds": 17.275646,
+      "source_seconds": 57.275646,
+      "frame_30fps": 518
+    },
+    {
+      "timeline_seconds": 17.519456,
+      "source_seconds": 57.519456,
+      "frame_30fps": 526
+    },
+    {
+      "timeline_seconds": 17.821315,
+      "source_seconds": 57.821315,
+      "frame_30fps": 535
+    },
+    {
+      "timeline_seconds": 17.960635,
+      "source_seconds": 57.960635,
+      "frame_30fps": 539
+    },
+    {
+      "timeline_seconds": 18.076735,
+      "source_seconds": 58.076735,
+      "frame_30fps": 542
+    },
+    {
+      "timeline_seconds": 18.239274,
+      "source_seconds": 58.239274,
+      "frame_30fps": 547
+    },
+    {
+      "timeline_seconds": 18.366984,
+      "source_seconds": 58.366984,
+      "frame_30fps": 551
+    },
+    {
+      "timeline_seconds": 18.610794,
+      "source_seconds": 58.610794,
+      "frame_30fps": 558
+    },
+    {
+      "timeline_seconds": 18.901043,
+      "source_seconds": 58.901043,
+      "frame_30fps": 567
+    },
+    {
+      "timeline_seconds": 19.051973,
+      "source_seconds": 59.051973,
+      "frame_30fps": 572
+    },
+    {
+      "timeline_seconds": 19.168073,
+      "source_seconds": 59.168073,
+      "frame_30fps": 575
+    },
+    {
+      "timeline_seconds": 19.446712,
+      "source_seconds": 59.446712,
+      "frame_30fps": 583
+    },
+    {
+      "timeline_seconds": 19.702132,
+      "source_seconds": 59.702132,
+      "frame_30fps": 591
+    },
+    {
+      "timeline_seconds": 20.003991,
+      "source_seconds": 60.003991,
+      "frame_30fps": 600
+    },
+    {
+      "timeline_seconds": 20.25941,
+      "source_seconds": 60.25941,
+      "frame_30fps": 608
+    },
+    {
+      "timeline_seconds": 20.43356,
+      "source_seconds": 60.43356,
+      "frame_30fps": 613
+    },
+    {
+      "timeline_seconds": 20.54966,
+      "source_seconds": 60.54966,
+      "frame_30fps": 616
+    },
+    {
+      "timeline_seconds": 20.805079,
+      "source_seconds": 60.805079,
+      "frame_30fps": 624
+    },
+    {
+      "timeline_seconds": 21.083719,
+      "source_seconds": 61.083719,
+      "frame_30fps": 633
+    },
+    {
+      "timeline_seconds": 21.350748,
+      "source_seconds": 61.350748,
+      "frame_30fps": 641
+    },
+    {
+      "timeline_seconds": 21.640998,
+      "source_seconds": 61.640998,
+      "frame_30fps": 649
+    },
+    {
+      "timeline_seconds": 21.896417,
+      "source_seconds": 61.896417,
+      "frame_30fps": 657
+    },
+    {
+      "timeline_seconds": 22.175057,
+      "source_seconds": 62.175057,
+      "frame_30fps": 665
+    },
+    {
+      "timeline_seconds": 22.325986,
+      "source_seconds": 62.325986,
+      "frame_30fps": 670
+    },
+    {
+      "timeline_seconds": 22.442086,
+      "source_seconds": 62.442086,
+      "frame_30fps": 673
+    },
+    {
+      "timeline_seconds": 22.720726,
+      "source_seconds": 62.720726,
+      "frame_30fps": 682
+    },
+    {
+      "timeline_seconds": 22.987755,
+      "source_seconds": 62.987755,
+      "frame_30fps": 690
+    },
+    {
+      "timeline_seconds": 23.266395,
+      "source_seconds": 63.266395,
+      "frame_30fps": 698
+    },
+    {
+      "timeline_seconds": 23.405714,
+      "source_seconds": 63.405714,
+      "frame_30fps": 702
+    },
+    {
+      "timeline_seconds": 23.533424,
+      "source_seconds": 63.533424,
+      "frame_30fps": 706
+    },
+    {
+      "timeline_seconds": 23.812063,
+      "source_seconds": 63.812063,
+      "frame_30fps": 714
+    },
+    {
+      "timeline_seconds": 24.055873,
+      "source_seconds": 64.055873,
+      "frame_30fps": 722
+    },
+    {
+      "timeline_seconds": 24.090703,
+      "source_seconds": 64.090703,
+      "frame_30fps": 723
+    },
+    {
+      "timeline_seconds": 24.369342,
+      "source_seconds": 64.369342,
+      "frame_30fps": 731
+    },
+    {
+      "timeline_seconds": 24.613152,
+      "source_seconds": 64.613152,
+      "frame_30fps": 738
+    },
+    {
+      "timeline_seconds": 24.903401,
+      "source_seconds": 64.903401,
+      "frame_30fps": 747
+    },
+    {
+      "timeline_seconds": 25.170431,
+      "source_seconds": 65.170431,
+      "frame_30fps": 755
+    },
+    {
+      "timeline_seconds": 25.43746,
+      "source_seconds": 65.43746,
+      "frame_30fps": 763
+    },
+    {
+      "timeline_seconds": 25.7161,
+      "source_seconds": 65.7161,
+      "frame_30fps": 771
+    },
+    {
+      "timeline_seconds": 25.994739,
+      "source_seconds": 65.994739,
+      "frame_30fps": 780
+    },
+    {
+      "timeline_seconds": 26.261769,
+      "source_seconds": 66.261769,
+      "frame_30fps": 788
+    },
+    {
+      "timeline_seconds": 26.540408,
+      "source_seconds": 66.540408,
+      "frame_30fps": 796
+    },
+    {
+      "timeline_seconds": 26.691338,
+      "source_seconds": 66.691338,
+      "frame_30fps": 801
+    },
+    {
+      "timeline_seconds": 26.795828,
+      "source_seconds": 66.795828,
+      "frame_30fps": 804
+    },
+    {
+      "timeline_seconds": 27.086077,
+      "source_seconds": 67.086077,
+      "frame_30fps": 813
+    },
+    {
+      "timeline_seconds": 27.341497,
+      "source_seconds": 67.341497,
+      "frame_30fps": 820
+    },
+    {
+      "timeline_seconds": 27.631746,
+      "source_seconds": 67.631746,
+      "frame_30fps": 829
+    },
+    {
+      "timeline_seconds": 27.887166,
+      "source_seconds": 67.887166,
+      "frame_30fps": 837
+    },
+    {
+      "timeline_seconds": 28.177415,
+      "source_seconds": 68.177415,
+      "frame_30fps": 845
+    },
+    {
+      "timeline_seconds": 28.421224,
+      "source_seconds": 68.421224,
+      "frame_30fps": 853
+    },
+    {
+      "timeline_seconds": 28.723084,
+      "source_seconds": 68.723084,
+      "frame_30fps": 862
+    },
+    {
+      "timeline_seconds": 28.885624,
+      "source_seconds": 68.885624,
+      "frame_30fps": 867
+    },
+    {
+      "timeline_seconds": 28.978503,
+      "source_seconds": 68.978503,
+      "frame_30fps": 869
+    },
+    {
+      "timeline_seconds": 29.280363,
+      "source_seconds": 69.280363,
+      "frame_30fps": 878
+    },
+    {
+      "timeline_seconds": 29.524172,
+      "source_seconds": 69.524172,
+      "frame_30fps": 886
+    },
+    {
+      "timeline_seconds": 29.814422,
+      "source_seconds": 69.814422,
+      "frame_30fps": 894
+    }
+  ],
+  "user_structure_markers": [
+    {
+      "source_seconds": 40,
+      "label": "Children / teacher-child connection",
+      "authority": "user cue sheet",
+      "musical_claim_verified": false,
+      "timeline_seconds": 0,
+      "timeline_frame": 0,
+      "status": "user supplied structural cue; musical event not verified"
+    },
+    {
+      "source_seconds": 55,
+      "label": "Players / shared smiles",
+      "authority": "user cue sheet",
+      "musical_claim_verified": false,
+      "timeline_seconds": 15,
+      "timeline_frame": 450,
+      "status": "user supplied structural cue; musical event not verified"
+    }
+  ],
+  "verification": "Automatic beat/onset candidates only. No inferred lyric, chorus or listening approval.",
+  "pcm_sha256": "d95289a5c3fa287134d9815be8308322d1b83e84b5f40179b5dd900350045560"
+}

@@ -1,0 +1,174 @@
+{
+  "output": "/Users/shwetaranjan/Desktop/Video-Editingh/exports/jetkids-overview-portrait-v02.mp4",
+  "sha256": "f91eb8d1104c13c2e55c3aac8b4becb8bb43a4be9d949c0402c451689df0a808",
+  "frames": 1500,
+  "duration": 50.0,
+  "width": 1080,
+  "height": 1920,
+  "full_decode": "passed",
+  "audio": "Same encoded AAC / decoded PCM hash as landscape companion",
+  "source_segment_hashes": [
+    {
+      "segment": ".cache/jetkids/renders/jetkids-overview-v03/000.mp4",
+      "sha256": "771483bb3c1da058dc3d1662412244ed76d5f1bd1dfeafe87f2d8bbfa8ceb25d"
+    },
+    {
+      "segment": ".cache/jetkids/renders/jetkids-overview-v03/001.mp4",
+      "sha256": "22ecfffc4d2a645f8091d642b0f68814204ccef1073dbb6ed0d39a726cfa5379"
+    },
+    {
+      "segment": ".cache/jetkids/renders/jetkids-overview-v03/002.mp4",
+      "sha256": "b161b69d5b8e8642fa97b553640851ee88d2f39cf533e311c1e9362a651c1ed9"
+    },
+    {
+      "segment": ".cache/jetkids/renders/jetkids-overview-v03/003.mp4",
+      "sha256": "13ed100569bca2d8856ecef958fdcf82a69f47a494b68c4837996fc9398f0c71"
+    },
+    {
+      "segment": ".cache/jetkids/renders/jetkids-overview-v03/004.mp4",
+      "sha256": "3b782fb4df06f6c3b37b905ecd12d305e307bb1ac9367b7cc98b2bf8af911649"
+    },
+    {
+      "segment": ".cache/jetkids/renders/jetkids-overview-v03/005.mp4",
+      "sha256": "d96df39a6b3f10aff21179afc6c75083a9cc51c77d792d60a0b80a9b2b8810da"
+    },
+    {
+      "segment": ".cache/jetkids/renders/jetkids-overview-v03/006.mp4",
+      "sha256": "59209630ca26df8713fd8bd617d8702b7ea31f762c6d98e89bea4809a57d981c"
+    },
+    {
+      "segment": ".cache/jetkids/renders/jetkids-overview-v03/007.mp4",
+      "sha256": "5ed4f216c9933506fcbd1b47602287fb423ffcb73054d107923ae0c12bdbd6a1"
+    },
+    {
+      "segment": ".cache/jetkids/renders/jetkids-overview-v03/008.mp4",
+      "sha256": "2622ba8671786429cb3f9370e530ecc07795c85e534dac57aeac88f8bf15126c"
+    },
+    {
+      "segment": ".cache/jetkids/renders/jetkids-overview-v03/009.mp4",
+      "sha256": "0e8fff342822f3c7fb44dd4ac53ed1cf1c10086a536d0d9582e7b265634dc07d"
+    },
+    {
+      "segment": ".cache/jetkids/renders/jetkids-overview-v03/010.mp4",
+      "sha256": "f134b2170d22f74b86acb1b67ca3fe0cb18bf811f6f0085c4e65cd53ba080e2a"
+    },
+    {
+      "segment": ".cache/jetkids/renders/jetkids-overview-v03/011.mp4",
+      "sha256": "270d07272dce017efe1652cf1ce67e15dbe1e45bfef6d0bc37424d6fe8ea16a9"
+    },
+    {
+      "segment": ".cache/jetkids/renders/jetkids-overview-v03/012.mp4",
+      "sha256": "3da537f16a69f8362b53fb2f95a2318b65f21aaccaa6a3a45c4ffcc3cdd67e1d"
+    },
+    {
+      "segment": ".cache/jetkids/renders/jetkids-overview-v03/013.mp4",
+      "sha256": "3db040b65d9bad0aaeaa6b7d7554133124f6aedae99e96e7b0411454f9b7531e"
+    },
+    {
+      "segment": ".cache/jetkids/renders/jetkids-overview-v03/014.mp4",
+      "sha256": "c593b357f7d8b2f4b41fb4206c8b4238fd19e31e0e8d2ef501d797b693468aa3"
+    },
+    {
+      "segment": ".cache/jetkids/renders/jetkids-overview-v03/015.mp4",
+      "sha256": "c755fdd3a0c6299e241aac68328bbc017d38bc2694e4d3385efd441325041efd"
+    },
+    {
+      "segment": ".cache/jetkids/renders/jetkids-overview-v03/016.mp4",
+      "sha256": "056367ce66c89d7d42015e67dde0c2329d5266e690ae292290a5053f97b3fd2c"
+    },
+    {
+      "segment": ".cache/jetkids/renders/jetkids-overview-v03/017.mp4",
+      "sha256": "ee917e881349d5cd95b5ba3d36e2bfb99174d1162bd29c98d7e026beecc0a4cd"
+    },
+    {
+      "segment": ".cache/jetkids/renders/jetkids-overview-v03/018.mp4",
+      "sha256": "7aa7a240378bd693de836acbbe41397157491d13537690313b5444bc533356df"
+    },
+    {
+      "segment": ".cache/jetkids/renders/jetkids-overview-v03/019.mp4",
+      "sha256": "3c539d051fccf31f285859cc92738c265ec8c9c2baab2b00c60907508f91a98a"
+    },
+    {
+      "segment": ".cache/jetkids/renders/jetkids-overview-v03/020.mp4",
+      "sha256": "e91954f2062d0552fe12f2f5bc696177dc9403d9fc7fb634a565a848e8140d6a"
+    },
+    {
+      "segment": ".cache/jetkids/renders/jetkids-overview-v03/021.mp4",
+      "sha256": "70ab599389ad151c329f924c8d4cb4c610ab5df60bc65b50a50f60a2f5c7bd06"
+    },
+    {
+      "segment": ".cache/jetkids/renders/jetkids-overview-v03/022.mp4",
+      "sha256": "4c2b8bb08aa641f357bfaacbc126383eeea8b3101d1e8c385bbbb21c5eec7d93"
+    },
+    {
+      "segment": ".cache/jetkids/renders/jetkids-overview-v03/023.mp4",
+      "sha256": "5b998fcb11eaf6b4c5bde3fc95ca86d53603db3eb071e9ab0d6a598cdcf67918"
+    },
+    {
+      "segment": ".cache/jetkids/renders/jetkids-overview-v03/024.mp4",
+      "sha256": "564c9f102152fd20097734c004587ac4b919817cd04ed45207bcd201806efc78"
+    },
+    {
+      "segment": ".cache/jetkids/renders/jetkids-overview-v03/025.mp4",
+      "sha256": "65fc5bdb804a20a0993dbb5a0401e04c892fb901e31aadd5fd60dbc5d510c3a7"
+    },
+    {
+      "segment": ".cache/jetkids/renders/jetkids-overview-v03/026.mp4",
+      "sha256": "8c8961e01105836f64a74474551441bba6f51ccfda87904bf074b2eac7844802"
+    }
+  ],
+  "layout": "workspaces/jetkids/edits/04-overview-v03/portrait-layout-v02.json",
+  "visual_review": "Full-span and cut contacts inspected; corrected sign/tilak windows, batting framing and following balloon-pair crop checked. Unchanged ending/people contacts reviewed in prior version.",
+  "delivery": "portrait comparison preview",
+  "limits": "Native1080 landscape crop is upscaled. Group fit-video shots retain full moving picture over blurred moving background. No event-photo inserts.",
+  "encoded_scan": {
+    "video": "/Users/shwetaranjan/Desktop/Video-Editingh/exports/jetkids-overview-portrait-v02.mp4",
+    "sha256": "f91eb8d1104c13c2e55c3aac8b4becb8bb43a4be9d949c0402c451689df0a808",
+    "width": 1080,
+    "height": 1920,
+    "frames_decoded": 1500,
+    "expected_frames": 1500,
+    "contact_frames": 217,
+    "contact_pages": 7,
+    "boundaries": [
+      0,
+      61,
+      101,
+      150,
+      210,
+      270,
+      319,
+      373,
+      435,
+      469,
+      510,
+      570,
+      619,
+      660,
+      701,
+      750,
+      796,
+      837,
+      900,
+      947,
+      1001,
+      1050,
+      1110,
+      1170,
+      1257,
+      1321,
+      1376,
+      1440,
+      1499
+    ],
+    "very_dark_frames": [
+      0,
+      1440
+    ],
+    "mean_rgb_min": 0.0,
+    "visual_review": "pending inspection of contacts; numeric scan alone is not visual QA",
+    "audio_listening": "not attested"
+  },
+  "unintended_dark_frames": [],
+  "listening_review": "Not attested; audio is verified identical to landscape finished mix"
+}

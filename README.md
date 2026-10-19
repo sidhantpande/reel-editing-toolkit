@@ -46,3 +46,13 @@ The user-approved clinic baseline is Reel-07 v05: transparent top-left logo, com
 ## Current GitHub backup scope (20 October 2026)
 
 The owner confirmed the existing public repository and requested reusable B-roll, assets, voice/sound assets and toolkit changes. Their later clarification explicitly excludes final edited videos. Dhiraj clean/final videos, personal dialogue recordings, final audio mixes, raw footage and caches remain local. Approved generated B-roll, transparent elements/logos, reusable music/SFX, caption/transition code, selected plan maps and edit/QA notes are included. Use `git lfs pull` after cloning to restore the actual binary assets.
+
+## Jet Kids event footage and Log conversion
+
+Jet Kids has a separate [event workspace](workspaces/jetkids/README.md), [reference breakdown](workspaces/jetkids/docs/REFERENCE_ANALYSIS.md) and [audio record](workspaces/jetkids/docs/AUDIO.md). The reusable [colour workflow](docs/COLOUR_WORKFLOW.md) identifies Sony gamma/gamut from XML before applying an official Sony LUT. Use `python3 tools/pipeline.py jetkids status`, `jetkids colour --backend metal`, or `jetkids analyse`. Originals, conversions, reference audio and review images stay local.
+
+## Music intake, beat markers and event edits
+
+`python3 tools/music_assets.py fetch` downloads the17 user-selected exact links, trims48kHz sample-accurate PCM masters and produces320kbps MP3 assets with source/channel/hash/loudness metadata. `music_assets.py audit --require-pcm` verifies checksums, decoded sample counts and beat provenance. Beat/onset CSVs and Premiere-compatible FCP7 marker XMLs distinguish user cues from estimated beats. See [MUSIC_AND_BEATS.md](docs/MUSIC_AND_BEATS.md).
+
+Jet Kids is now in a [source-led restart review](workspaces/jetkids/docs/RESTART_REVIEW.md), with both landscape and portrait planned. The earlier50s overview previews were rejected by the user. `pipeline.py jetkids preflight|render PLAN` checks source handles before serial transitions; `event_qa.py` scans encoded frames and exports boundary contacts. Selected music MP3 excerpts use Git LFS as explicitly requested; full songs, raw footage, PCM masters, reference media and final exports stay local.

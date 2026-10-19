@@ -1,0 +1,542 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xmeml version="4">
+  <sequence id="jetkids-music-14">
+    <name>jetkids-music-14 — Aashayein — Honouring Our Guests</name>
+    <duration>1110</duration>
+    <rate>
+      <timebase>30</timebase>
+      <ntsc>FALSE</ntsc>
+    </rate>
+    <media>
+      <audio>
+        <numOutputChannels>2</numOutputChannels>
+        <track>
+          <outputchannelindex>1</outputchannelindex>
+          <clipitem id="jetkids-music-14-audio-1">
+            <name>Aashayein — Honouring Our Guests</name>
+            <duration>1110</duration>
+            <start>0</start>
+            <end>1110</end>
+            <in>0</in>
+            <out>1110</out>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <file id="jetkids-music-14-file">
+              <name>jetkids-music-14.mp3</name>
+              <pathurl>file:///Users/shwetaranjan/Desktop/Video-Editingh/public/assets/brands/jetkids/audio/jetkids-music-14.mp3</pathurl>
+              <rate>
+                <timebase>30</timebase>
+                <ntsc>FALSE</ntsc>
+              </rate>
+              <duration>1110</duration>
+              <media>
+                <audio>
+                  <samplerate>48000</samplerate>
+                  <channelcount>2</channelcount>
+                </audio>
+              </media>
+            </file>
+            <sourcetrack>
+              <mediatype>audio</mediatype>
+              <trackindex>1</trackindex>
+            </sourcetrack>
+            <link>
+              <linkclipref>jetkids-music-14-audio-1</linkclipref>
+              <mediatype>audio</mediatype>
+              <trackindex>1</trackindex>
+              <clipindex>1</clipindex>
+              <groupindex>1</groupindex>
+            </link>
+            <link>
+              <linkclipref>jetkids-music-14-audio-2</linkclipref>
+              <mediatype>audio</mediatype>
+              <trackindex>2</trackindex>
+              <clipindex>1</clipindex>
+              <groupindex>1</groupindex>
+            </link>
+          </clipitem>
+        </track>
+        <track>
+          <outputchannelindex>2</outputchannelindex>
+          <clipitem id="jetkids-music-14-audio-2">
+            <name>Aashayein — Honouring Our Guests</name>
+            <duration>1110</duration>
+            <start>0</start>
+            <end>1110</end>
+            <in>0</in>
+            <out>1110</out>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <file id="jetkids-music-14-file" />
+            <sourcetrack>
+              <mediatype>audio</mediatype>
+              <trackindex>2</trackindex>
+            </sourcetrack>
+            <link>
+              <linkclipref>jetkids-music-14-audio-1</linkclipref>
+              <mediatype>audio</mediatype>
+              <trackindex>1</trackindex>
+              <clipindex>1</clipindex>
+              <groupindex>1</groupindex>
+            </link>
+            <link>
+              <linkclipref>jetkids-music-14-audio-2</linkclipref>
+              <mediatype>audio</mediatype>
+              <trackindex>2</trackindex>
+              <clipindex>1</clipindex>
+              <groupindex>1</groupindex>
+            </link>
+          </clipitem>
+        </track>
+      </audio>
+    </media>
+    <marker>
+      <name>USER CUE: Host and greeting</name>
+      <comment>User structural cue, musical claim unverified</comment>
+      <in>0</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>3</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>19</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>35</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>51</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>66</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>82</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>97</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>113</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>129</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>145</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>160</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>176</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>192</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>207</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>223</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>238</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>254</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>270</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>286</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>301</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>317</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>332</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>348</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>364</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>379</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>395</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>411</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>426</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>442</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>458</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>473</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>489</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>504</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>USER CUE: Shawl / memento handover</name>
+      <comment>User structural cue, musical claim unverified</comment>
+      <in>510</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>520</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>536</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>551</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>567</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>583</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>599</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>614</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>630</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>645</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>661</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>677</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>692</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>708</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>724</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>739</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>755</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>771</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>786</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>802</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>USER CUE: Handshake / applause</name>
+      <comment>User structural cue, musical claim unverified</comment>
+      <in>810</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>817</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>833</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>849</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>864</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>880</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>896</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>911</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>927</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>943</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>959</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>974</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>990</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>1006</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>1021</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>1037</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>1052</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>1068</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>1080</in>
+      <out>-1</out>
+    </marker>
+    <marker>
+      <name>AUTO BEAT</name>
+      <comment>Estimated beat, check by listening</comment>
+      <in>1095</in>
+      <out>-1</out>
+    </marker>
+  </sequence>
+</xmeml>

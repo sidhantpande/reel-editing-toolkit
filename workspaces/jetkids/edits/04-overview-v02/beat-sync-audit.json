@@ -1,0 +1,28 @@
+{
+  "planned_body_frames": 1440,
+  "total_frames": 1500,
+  "structure_alignment": [
+    {
+      "label": "Venue and guest arrivals",
+      "target_frame": 0,
+      "nearest_boundary_frame": 0,
+      "difference_frames": 0,
+      "musical_verification": "user supplied structural cue; musical event not verified"
+    },
+    {
+      "label": "Sports / drill / teachers",
+      "target_frame": 510,
+      "nearest_boundary_frame": 510,
+      "difference_frames": 0,
+      "musical_verification": "user supplied structural cue; musical event not verified"
+    },
+    {
+      "label": "Trophies / warm closing / logo",
+      "target_frame": 1050,
+      "nearest_boundary_frame": 1050,
+      "difference_frames": 0,
+      "musical_verification": "user supplied structural cue; musical event not verified"
+    }
+  ],
+  "note": "Alignment to user cues is measured; automatic beat/lyric correctness is not listening-certified."
+}

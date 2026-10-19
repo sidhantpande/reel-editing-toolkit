@@ -1,0 +1,155 @@
+{
+  "stage": "Sports-event planning: four mandatory stories plus interview-led candidates; separate evening event parked",
+  "latest_user_direction": "Inspect SID-SSD DJI footage. Plan complete overview, guest highlights, matches/guests/event and teachers games, plus meaningful interview-led reels combining complementary speakers and relevant B-roll. Both landscape and portrait. No new render yet.",
+  "delivery_format": {
+    "formats": [
+      "1920x1080",
+      "1080x1920"
+    ],
+    "fps": 30,
+    "event_photo_inserts": false,
+    "portrait_small_landscape_inserts": false
+  },
+  "reference_concepts": "All three are mandatory",
+  "photo_review": {
+    "jpeg_files_surveyed": 935,
+    "contact_pages_viewed": 20,
+    "raw_arw_preserved": 47,
+    "use_in_reels": false,
+    "purpose": "Context only; user subsequently excluded photo inserts."
+  },
+  "exports_created": 5,
+  "audio_finalised": false,
+  "video_review": {
+    "source_videos": 475,
+    "contact_sheet_clips": 475,
+    "full_span_sample_images": 3997,
+    "full_survey_pages_viewed": 36,
+    "visual_clip_notes": 475,
+    "method": "One-second full-duration samples plus exact final frame; selected larger contacts and overview pages",
+    "limits": "Not every-frame full-resolution playback or verified audio listening."
+  },
+  "colour": {
+    "confirmed_sony_log": 345,
+    "converted_verified": 345,
+    "sony_display_referred_unchanged": 125,
+    "nikon_retained_without_sony_lut": 5,
+    "full_decode_frame_fps_duration_checks": "345 converted masters passed",
+    "audio": {
+      "PCM hash unchanged": 345
+    },
+    "master_integrity": {
+      "verified_log_masters": 345,
+      "bytes": 15425144947,
+      "sha256_mismatches_or_missing_decode_evidence": [],
+      "method": "Re-read every completed MOV and compare recorded SHA-256; full decode/frame/audio checks recorded during conversion"
+    },
+    "original_integrity": {
+      "checked_videos": 475,
+      "mismatches": [],
+      "method": "SHA-256 re-read of every original after conversion began",
+      "seconds": 45.24
+    }
+  },
+  "plan": {
+    "distinct_story_concepts": 17,
+    "derived_versions": 8,
+    "mandatory_references_mapped": 3,
+    "path": "docs/REEL_PLAN.md",
+    "status": "superseded"
+  },
+  "toolkit_checks": {
+    "unit_tests": 60,
+    "unit_tests_status": "passed",
+    "typecheck_and_validation": "passed",
+    "catalog_and_git_audit": "passed"
+  },
+  "github_login": "sidhantpande; verified via gh api user",
+  "audio_assets_prepared": 17,
+  "premiere_marker_exports": 17,
+  "music_audit": "17 MP3 checksums and decoded sample counts passed; local PCM hashes matched",
+  "latest_previews": {
+    "landscape": "exports/jetkids-overview-v03.mp4",
+    "portrait": "exports/jetkids-overview-portrait-v02.mp4",
+    "duration_seconds": 50,
+    "frames_each": 1500,
+    "audio": "Identical AAC and decoded PCM hashes",
+    "listening": "Not attested; review drafts",
+    "status": "rejected by user"
+  },
+  "final_reels_approved": 0,
+  "exports_note": "Three landscape revisions and two portrait comparison revisions exist locally. Latest pair listed; none is claimed listening-approved final.",
+  "restart": {
+    "new_entries": 127,
+    "with_video_stream": 126,
+    "duration_seconds": 3392.518538,
+    "proxy_lrf_files": 65,
+    "survey_pages_viewed": 16,
+    "survey_positions_per_clip": 3,
+    "interview_and_setup_candidates": 36,
+    "music_base_ASR_passes": 17,
+    "music_small_ASR_passes": 17,
+    "scope": "Sports registry remains V001\u2013V127. Six additional full-span2fps action surveys and8 English-constrained ASR comparisons inform the current story map. Source action/contact frames, dialogue wording/listening and final edit points still need approval through actual review.",
+    "additional_downloads": "SID-SSD intake mapped; user confirmed evening clips belong to a separate Jet Kids event and asked to park them",
+    "mapping_workbook": "exports/jetkids-restart-review/jetkids-footage-mapping.xlsx",
+    "historical_missing_originals": 5,
+    "interview_first_pass_ASR": 36,
+    "meaning_comparison": "Publisher descriptions and available lyrics checked for17 tracks; eight have substantial publisher lyrics in the local metadata.",
+    "music_first_choices": {
+      "sports": "Chale Chalo",
+      "guests": "Shubhaarambh",
+      "teachers_community": "Sooraj Ki Baahon Mein",
+      "overview": "Aashayein"
+    },
+    "music_choice_status": "Provisional; exact sections and musical sync remain unapproved",
+    "interview_overlap_comparisons": 25,
+    "audio_extraction_duration_checks": "36 complete-source audio extracts matched source durations within0.1s; ASR wording remains draft",
+    "colour_profile_audit": {
+      "canon_eos90d_auto": 61,
+      "dji_profile_unconfirmed": 64,
+      "other_mov_excluded": 1,
+      "empty_container": 1
+    },
+    "last_updated": "2026-10-20",
+    "english_constrained_comparisons": 8,
+    "selected_action_dense_reviews": 10,
+    "interview_candidates": {
+      "strong_research_candidates": 3,
+      "reserve": 1,
+      "voice_contribution_rows": 12,
+      "status": "Research candidates, with overlaps and missing evidence identified; not additional promised finals"
+    },
+    "workbook_review": {
+      "sheets": 8,
+      "interview_contribution_rows": 12,
+      "action_research_rows": 10,
+      "sid_ssd_rows": 140,
+      "formula_error_scan": "No matches",
+      "unchanged_music_values_formulas": "Compared against previous saved workbook; all preserved",
+      "visual_review": "Seven changed/new sheet views rendered and inspected; unrelated music view unchanged",
+      "sha256": "3efd23a6f06bdd22e58be323f3616785355b445a51929d5e1c63bb42e9ef13ce"
+    }
+  },
+  "sid_ssd": {
+    "files": 624,
+    "bytes": 45053042511,
+    "mp4_entries": 140,
+    "lrf_proxies": 140,
+    "photos_context_only": 23,
+    "existing_sports_matches": 65,
+    "match_method": "Same filenames and sizes; first/middle/last1MiB SHA256 matching. Not a full-file identity audit.",
+    "separate_evening_entries": 75,
+    "separate_evening_video_streams": 73,
+    "separate_evening_empty_containers": 2,
+    "evening_duration_seconds": 2335.673668,
+    "survey_pages_viewed": 10,
+    "survey_positions_per_clip": 3,
+    "visual_method": "LRF proxies used for first/middle/end content survey; no full-resolution grade approval",
+    "camera_profile": "73 additional HEVC10bit videos:65portrait and8landscape,59.94fps. Recording profile remains unknown; no Sony LUT applied.",
+    "original_sizes_rechecked_unchanged": true,
+    "event_assignment": "User confirmed separate Jet Kids evening event; parked outside sports plan",
+    "local_collection": "media/raw/jetkids-evening-event/SID-SSD",
+    "local_collection_is_backup": false,
+    "collection_method": "75 original MP4 symlinks plus75 matching LRF links; requires mounted SID-SSD"
+  }
+}

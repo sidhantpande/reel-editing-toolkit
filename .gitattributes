@@ -23,3 +23,12 @@ workspaces/my-dental-skin-clinic/assets/fonts/**/OFL.txt whitespace=-blank-at-eo
 workspaces/my-dental-skin-clinic/assets/fonts/ready/*-OFL.txt whitespace=-blank-at-eol
 
 workspaces/my-dental-skin-clinic/assets/brand/endcards/*.mp4 filter=lfs diff=lfs merge=lfs -text
+
+# User-supplied school brand assets.
+public/assets/brands/jetkids/*.jpg filter=lfs diff=lfs merge=lfs -text
+
+# User-selected music excerpts; full sources remain ignored.
+public/assets/brands/jetkids/audio/*.mp3 filter=lfs diff=lfs merge=lfs -text
+
+# Preserve downloaded transition source bytes and checksum provenance.
+vendor/gl-transitions/** whitespace=-blank-at-eol,-blank-at-eof

@@ -1,0 +1,47 @@
+[
+  {
+    "clip": "Videos/1/C4115.MP4",
+    "frame": 216,
+    "mean_absolute_rgb_8bit": 3.3138715277777777,
+    "99_percentile_rgb_difference": 14.0,
+    "max_rgb_difference": 26.0,
+    "interpretation": "Different 3D interpolation and hardware YUV paths; compare representative images separately.",
+    "visual_review": "Representative paired frames visually inspected; natural skin, uniform, court and foliage rendering retained."
+  },
+  {
+    "clip": "Videos/1/C4132.MP4",
+    "frame": 120,
+    "mean_absolute_rgb_8bit": 1.9718282214506173,
+    "99_percentile_rgb_difference": 7.0,
+    "max_rgb_difference": 30.0,
+    "interpretation": "Different 3D interpolation and hardware YUV paths; compare representative images separately.",
+    "visual_review": "Representative paired frames visually inspected; natural skin, uniform, court and foliage rendering retained."
+  },
+  {
+    "clip": "Videos/1/C4168.MP4",
+    "frame": 96,
+    "mean_absolute_rgb_8bit": 2.244714988425926,
+    "99_percentile_rgb_difference": 9.0,
+    "max_rgb_difference": 27.0,
+    "interpretation": "Different 3D interpolation and hardware YUV paths; compare representative images separately.",
+    "visual_review": "Representative paired frames visually inspected; natural skin, uniform, court and foliage rendering retained."
+  },
+  {
+    "clip": "Videos/1/C4174.MP4",
+    "frame": 168,
+    "mean_absolute_rgb_8bit": 2.4545225694444444,
+    "99_percentile_rgb_difference": 10.0,
+    "max_rgb_difference": 31.0,
+    "interpretation": "Different 3D interpolation and hardware YUV paths; compare representative images separately.",
+    "visual_review": "Representative paired frames visually inspected; natural skin, uniform, court and foliage rendering retained."
+  },
+  {
+    "clip": "Videos/1/C4193.MP4",
+    "frame": 240,
+    "mean_absolute_rgb_8bit": 2.167465117026749,
+    "99_percentile_rgb_difference": 8.0,
+    "max_rgb_difference": 25.0,
+    "interpretation": "Different 3D interpolation and hardware YUV paths; compare representative images separately.",
+    "visual_review": "Representative paired frames visually inspected; natural skin, uniform, court and foliage rendering retained."
+  }
+]

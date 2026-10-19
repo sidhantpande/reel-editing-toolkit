@@ -1,0 +1,569 @@
+{
+  "version": 1,
+  "time_basis": "Source-song seconds; timeline=(source_seconds-source_in). Frames use30fps. User structural cues are not measured/verified musical events.",
+  "tracks": [
+    {
+      "id": "jetkids-music-01",
+      "reel": "01",
+      "concept": "Sports \u2014 Jet Kids in Action",
+      "song": "Zinda",
+      "film_or_artist": "Bhaag Milkha Bhaag",
+      "url": "https://www.youtube.com/watch?v=Ax0G_P2dSBw",
+      "source_in": 0,
+      "source_out": 50,
+      "fps": 30,
+      "markers": [
+        {
+          "source_seconds": 0,
+          "label": "Guitar / three-sport hook",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        },
+        {
+          "source_seconds": 14,
+          "label": "Outdoor and indoor game cuts",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        },
+        {
+          "source_seconds": 32,
+          "label": "Drill prop lift / celebration",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        }
+      ],
+      "requested_source": "Exact link supplied by user on2026-10-19",
+      "rights": "Commercial recording; no royalty-free or redistribution licence inferred. User explicitly authorised selected MP3 excerpts in GitHub on2026-10-19.",
+      "audio_time_origin": "First decoded PCM sample at0; resample48000Hz then sample-index trim. Original container/codec delay normalised."
+    },
+    {
+      "id": "jetkids-music-02",
+      "reel": "02",
+      "concept": "Guest Entry + Ribbon Cutting",
+      "song": "Shubhaarambh",
+      "film_or_artist": "Kai Po Che",
+      "url": "https://www.youtube.com/watch?v=Gx_Rqsq1DIw",
+      "source_in": 0,
+      "source_out": 45,
+      "fps": 30,
+      "markers": [
+        {
+          "source_seconds": 0,
+          "label": "School and guest arrival",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        },
+        {
+          "source_seconds": 15,
+          "label": "Band procession and tilak",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        },
+        {
+          "source_seconds": 35,
+          "label": "Ribbon cut C4306",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        }
+      ],
+      "requested_source": "Exact link supplied by user on2026-10-19",
+      "rights": "Commercial recording; no royalty-free or redistribution licence inferred. User explicitly authorised selected MP3 excerpts in GitHub on2026-10-19.",
+      "audio_time_origin": "First decoded PCM sample at0; resample48000Hz then sample-index trim. Original container/codec delay normalised."
+    },
+    {
+      "id": "jetkids-music-03",
+      "reel": "03",
+      "concept": "Teachers \u2014 Game On!",
+      "song": "Galti Se Mistake",
+      "film_or_artist": "Jagga Jasoos",
+      "url": "https://www.youtube.com/watch?v=05TA9jNnCdU",
+      "source_in": 0,
+      "source_out": 48,
+      "fps": 30,
+      "markers": [
+        {
+          "source_seconds": 0,
+          "label": "Teachers lineup",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        },
+        {
+          "source_seconds": 16,
+          "label": "Hoop and balloon race",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        },
+        {
+          "source_seconds": 38,
+          "label": "Finish and laughter",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        }
+      ],
+      "requested_source": "Exact link supplied by user on2026-10-19",
+      "rights": "Commercial recording; no royalty-free or redistribution licence inferred. User explicitly authorised selected MP3 excerpts in GitHub on2026-10-19.",
+      "audio_time_origin": "First decoded PCM sample at0; resample48000Hz then sample-index trim. Original container/codec delay normalised."
+    },
+    {
+      "id": "jetkids-music-04",
+      "reel": "04",
+      "concept": "Complete Event \u2014 The Day at Jet Kids",
+      "song": "Ilahi",
+      "film_or_artist": "Yeh Jawaani Hai Deewani",
+      "url": "https://www.youtube.com/watch?v=fdubeMFwuGs",
+      "source_in": 35,
+      "source_out": 85,
+      "fps": 30,
+      "markers": [
+        {
+          "source_seconds": 35,
+          "label": "Venue and guest arrivals",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        },
+        {
+          "source_seconds": 52,
+          "label": "Sports / drill / teachers",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        },
+        {
+          "source_seconds": 70,
+          "label": "Trophies / warm closing / logo",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        }
+      ],
+      "requested_source": "Exact link supplied by user on2026-10-19",
+      "rights": "Commercial recording; no royalty-free or redistribution licence inferred. User explicitly authorised selected MP3 excerpts in GitHub on2026-10-19.",
+      "audio_time_origin": "First decoded PCM sample at0; resample48000Hz then sample-index trim. Original container/codec delay normalised."
+    },
+    {
+      "id": "jetkids-music-05",
+      "reel": "05",
+      "concept": "Ceremonial Opening \u2014 A New Beginning",
+      "song": "Deva Deva",
+      "film_or_artist": "Brahmastra",
+      "url": "https://www.youtube.com/watch?v=mNuhKUOD_A0",
+      "source_in": 30,
+      "source_out": 85,
+      "fps": 30,
+      "markers": [
+        {
+          "source_seconds": 30,
+          "label": "Lamp details and offerings",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        },
+        {
+          "source_seconds": 56,
+          "label": "Lamp lighting",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        },
+        {
+          "source_seconds": 72,
+          "label": "Ribbon / court reveal",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        }
+      ],
+      "requested_source": "Exact link supplied by user on2026-10-19",
+      "rights": "Commercial recording; no royalty-free or redistribution licence inferred. User explicitly authorised selected MP3 excerpts in GitHub on2026-10-19.",
+      "audio_time_origin": "First decoded PCM sample at0; resample48000Hz then sample-index trim. Original container/codec delay normalised."
+    },
+    {
+      "id": "jetkids-music-06",
+      "reel": "06",
+      "concept": "Cricket \u2014 Bat, Ball, Team Spirit",
+      "song": "Chale Chalo",
+      "film_or_artist": "Lagaan",
+      "url": "https://www.youtube.com/watch?v=LQmHKl3oNu0",
+      "source_in": 70,
+      "source_out": 115,
+      "fps": 30,
+      "markers": [
+        {
+          "source_seconds": 70,
+          "label": "Stance and run-up",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        },
+        {
+          "source_seconds": 85,
+          "label": "Bat contact",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        },
+        {
+          "source_seconds": 100,
+          "label": "Reactions and huddle",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        }
+      ],
+      "requested_source": "Exact link supplied by user on2026-10-19",
+      "rights": "Commercial recording; no royalty-free or redistribution licence inferred. User explicitly authorised selected MP3 excerpts in GitHub on2026-10-19.",
+      "audio_time_origin": "First decoded PCM sample at0; resample48000Hz then sample-index trim. Original container/codec delay normalised."
+    },
+    {
+      "id": "jetkids-music-07",
+      "reel": "07",
+      "concept": "Kabaddi \u2014 Hold the Line",
+      "song": "Dangal",
+      "film_or_artist": "Dangal",
+      "url": "https://www.youtube.com/watch?v=jMfvlh0tjyo",
+      "source_in": 0,
+      "source_out": 38,
+      "fps": 30,
+      "markers": [
+        {
+          "source_seconds": 0,
+          "label": "Defender chain and probes",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        },
+        {
+          "source_seconds": 22,
+          "label": "Lunge / tackle",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        },
+        {
+          "source_seconds": 30,
+          "label": "Recovery / reactions",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        }
+      ],
+      "requested_source": "Exact link supplied by user on2026-10-19",
+      "rights": "Commercial recording; no royalty-free or redistribution licence inferred. User explicitly authorised selected MP3 excerpts in GitHub on2026-10-19.",
+      "audio_time_origin": "First decoded PCM sample at0; resample48000Hz then sample-index trim. Original container/codec delay normalised."
+    },
+    {
+      "id": "jetkids-music-08",
+      "reel": "08",
+      "concept": "Kho-Kho \u2014 Chase the Moment",
+      "song": "Bhaag Milkha Bhaag Rock Version",
+      "film_or_artist": "Bhaag Milkha Bhaag",
+      "url": "https://www.youtube.com/watch?v=hc7IJO7fD78",
+      "source_in": 50,
+      "source_out": 85,
+      "fps": 30,
+      "markers": [
+        {
+          "source_seconds": 50,
+          "label": "Seated formation / fast passes",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        },
+        {
+          "source_seconds": 65,
+          "label": "Runner turn C4388",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        },
+        {
+          "source_seconds": 75,
+          "label": "Second chase angle",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        }
+      ],
+      "requested_source": "Exact link supplied by user on2026-10-19",
+      "rights": "Commercial recording; no royalty-free or redistribution licence inferred. User explicitly authorised selected MP3 excerpts in GitHub on2026-10-19.",
+      "audio_time_origin": "First decoded PCM sample at0; resample48000Hz then sample-index trim. Original container/codec delay normalised."
+    },
+    {
+      "id": "jetkids-music-09",
+      "reel": "09",
+      "concept": "Chess \u2014 Small Moves, Big Focus",
+      "song": "Wazir Theme",
+      "film_or_artist": "Wazir",
+      "url": "https://www.youtube.com/watch?v=r2WVCB9pla0",
+      "source_in": 0,
+      "source_out": 25,
+      "fps": 30,
+      "markers": [
+        {
+          "source_seconds": 0,
+          "label": "Room and piece movement",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        },
+        {
+          "source_seconds": 11,
+          "label": "Opponent focus",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        },
+        {
+          "source_seconds": 21,
+          "label": "Board detail / logo",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        }
+      ],
+      "requested_source": "Exact link supplied by user on2026-10-19",
+      "rights": "Commercial recording; no royalty-free or redistribution licence inferred. User explicitly authorised selected MP3 excerpts in GitHub on2026-10-19.",
+      "audio_time_origin": "First decoded PCM sample at0; resample48000Hz then sample-index trim. Original container/codec delay normalised."
+    },
+    {
+      "id": "jetkids-music-10",
+      "reel": "10",
+      "concept": "Table Tennis \u2014 Eyes on the Ball",
+      "song": "Ziddi Dil",
+      "film_or_artist": "Mary Kom",
+      "url": "https://www.youtube.com/watch?v=puKD3nkB1h4",
+      "source_in": 15,
+      "source_out": 45,
+      "fps": 30,
+      "markers": [
+        {
+          "source_seconds": 15,
+          "label": "Serve / rally",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        },
+        {
+          "source_seconds": 27,
+          "label": "Concentrated face / final hit",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        }
+      ],
+      "requested_source": "Exact link supplied by user on2026-10-19",
+      "rights": "Commercial recording; no royalty-free or redistribution licence inferred. User explicitly authorised selected MP3 excerpts in GitHub on2026-10-19.",
+      "audio_time_origin": "First decoded PCM sample at0; resample48000Hz then sample-index trim. Original container/codec delay normalised."
+    },
+    {
+      "id": "jetkids-music-11",
+      "reel": "11",
+      "concept": "Student Fitness / Drill \u2014 Moving Together",
+      "song": "Kandhon Se Milte Hain Kandhe",
+      "film_or_artist": "Lakshya",
+      "url": "https://www.youtube.com/watch?v=FGjQIHVUECk",
+      "source_in": 0,
+      "source_out": 45,
+      "fps": 30,
+      "markers": [
+        {
+          "source_seconds": 0,
+          "label": "House formation",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        },
+        {
+          "source_seconds": 16,
+          "label": "Changing movement scale",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        },
+        {
+          "source_seconds": 31,
+          "label": "Prop lift C4337",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        }
+      ],
+      "requested_source": "Exact link supplied by user on2026-10-19",
+      "rights": "Commercial recording; no royalty-free or redistribution licence inferred. User explicitly authorised selected MP3 excerpts in GitHub on2026-10-19.",
+      "audio_time_origin": "First decoded PCM sample at0; resample48000Hz then sample-index trim. Original container/codec delay normalised."
+    },
+    {
+      "id": "jetkids-music-12",
+      "reel": "12",
+      "concept": "School Band \u2014 Welcome in Rhythm",
+      "song": "Azeem-O-Shaan Shahenshah",
+      "film_or_artist": "Jodhaa Akbar",
+      "url": "https://www.youtube.com/watch?v=eNSkhTmLO7s",
+      "source_in": 0,
+      "source_out": 30,
+      "fps": 30,
+      "markers": [
+        {
+          "source_seconds": 0,
+          "label": "Drum hands / sticks",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        },
+        {
+          "source_seconds": 11,
+          "label": "Band and guests formation",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        },
+        {
+          "source_seconds": 21,
+          "label": "Guest response / welcome",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        }
+      ],
+      "requested_source": "Exact link supplied by user on2026-10-19",
+      "rights": "Commercial recording; no royalty-free or redistribution licence inferred. User explicitly authorised selected MP3 excerpts in GitHub on2026-10-19.",
+      "audio_time_origin": "First decoded PCM sample at0; resample48000Hz then sample-index trim. Original container/codec delay normalised."
+    },
+    {
+      "id": "jetkids-music-13",
+      "reel": "13",
+      "concept": "Before the Crowd \u2014 Venue Reveal",
+      "song": "Roobaroo",
+      "film_or_artist": "Rang De Basanti",
+      "url": "https://www.youtube.com/watch?v=BrfRB6aTZlM",
+      "source_in": 0,
+      "source_out": 25,
+      "fps": 30,
+      "markers": [
+        {
+          "source_seconds": 0,
+          "label": "Venue and empty court",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        },
+        {
+          "source_seconds": 16,
+          "label": "Trophies / chess / logo",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        }
+      ],
+      "requested_source": "Exact link supplied by user on2026-10-19",
+      "rights": "Commercial recording; no royalty-free or redistribution licence inferred. User explicitly authorised selected MP3 excerpts in GitHub on2026-10-19.",
+      "audio_time_origin": "First decoded PCM sample at0; resample48000Hz then sample-index trim. Original container/codec delay normalised."
+    },
+    {
+      "id": "jetkids-music-14",
+      "reel": "14",
+      "concept": "Honouring Our Guests",
+      "song": "Aashayein",
+      "film_or_artist": "Iqbal",
+      "url": "https://www.youtube.com/watch?v=CaI0xNLpurM",
+      "source_in": 48,
+      "source_out": 85,
+      "fps": 30,
+      "markers": [
+        {
+          "source_seconds": 48,
+          "label": "Host and greeting",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        },
+        {
+          "source_seconds": 65,
+          "label": "Shawl / memento handover",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        },
+        {
+          "source_seconds": 75,
+          "label": "Handshake / applause",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        }
+      ],
+      "requested_source": "Exact link supplied by user on2026-10-19",
+      "rights": "Commercial recording; no royalty-free or redistribution licence inferred. User explicitly authorised selected MP3 excerpts in GitHub on2026-10-19.",
+      "audio_time_origin": "First decoded PCM sample at0; resample48000Hz then sample-index trim. Original container/codec delay normalised."
+    },
+    {
+      "id": "jetkids-music-15",
+      "reel": "15",
+      "concept": "Trophies + Team Celebration",
+      "song": "Jeet",
+      "film_or_artist": "Ritviz",
+      "url": "https://www.youtube.com/watch?v=NaMLvkHoU_g",
+      "source_in": 45,
+      "source_out": 75,
+      "fps": 30,
+      "markers": [
+        {
+          "source_seconds": 45,
+          "label": "Trophy / flashbacks",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        },
+        {
+          "source_seconds": 65,
+          "label": "Team trophy lift C4448",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        },
+        {
+          "source_seconds": 70,
+          "label": "Huddle / logo",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        }
+      ],
+      "requested_source": "Exact link supplied by user on2026-10-19",
+      "rights": "Commercial recording; no royalty-free or redistribution licence inferred. User explicitly authorised selected MP3 excerpts in GitHub on2026-10-19.",
+      "audio_time_origin": "First decoded PCM sample at0; resample48000Hz then sample-index trim. Original container/codec delay normalised."
+    },
+    {
+      "id": "jetkids-music-16",
+      "reel": "16",
+      "concept": "When Guests Join the Game",
+      "song": "Sooraj Ki Baahon Mein",
+      "film_or_artist": "Zindagi Na Milegi Dobara",
+      "url": "https://www.youtube.com/watch?v=Isb7WV4d17I",
+      "source_in": 0,
+      "source_out": 40,
+      "fps": 30,
+      "markers": [
+        {
+          "source_seconds": 0,
+          "label": "Guest leaves ceremony",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        },
+        {
+          "source_seconds": 17,
+          "label": "Guest cricket C4351",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        },
+        {
+          "source_seconds": 30,
+          "label": "Football kick / applause",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        }
+      ],
+      "requested_source": "Exact link supplied by user on2026-10-19",
+      "rights": "Commercial recording; no royalty-free or redistribution licence inferred. User explicitly authorised selected MP3 excerpts in GitHub on2026-10-19.",
+      "audio_time_origin": "First decoded PCM sample at0; resample48000Hz then sample-index trim. Original container/codec delay normalised.",
+      "title_aliases": [
+        "Sooraj Ki Bahoon Mein"
+      ]
+    },
+    {
+      "id": "jetkids-music-17",
+      "reel": "17",
+      "concept": "The Faces of Jet Kids \u2014 Cheers and Connection",
+      "song": "Love You Zindagi",
+      "film_or_artist": "Dear Zindagi",
+      "url": "https://www.youtube.com/watch?v=rwn0Zs7ELzc",
+      "source_in": 40,
+      "source_out": 70,
+      "fps": 30,
+      "markers": [
+        {
+          "source_seconds": 40,
+          "label": "Children / teacher-child connection",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        },
+        {
+          "source_seconds": 55,
+          "label": "Players / shared smiles",
+          "authority": "user cue sheet",
+          "musical_claim_verified": false
+        }
+      ],
+      "requested_source": "Exact link supplied by user on2026-10-19",
+      "rights": "Commercial recording; no royalty-free or redistribution licence inferred. User explicitly authorised selected MP3 excerpts in GitHub on2026-10-19.",
+      "audio_time_origin": "First decoded PCM sample at0; resample48000Hz then sample-index trim. Original container/codec delay normalised."
+    }
+  ]
+}

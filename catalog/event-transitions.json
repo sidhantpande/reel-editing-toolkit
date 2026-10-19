@@ -1,0 +1,73 @@
+{
+  "upstream": "https://github.com/gl-transitions/gl-transitions",
+  "commit": "e1e4bde9b4dad3cb7bdd7ed28e4b97f469d90448",
+  "downloaded_sources": [
+    {
+      "file": "vendor/gl-transitions/transitions/fade.glsl",
+      "sha256": "4fbafcd1e5b536b37e256c27a6d7a3d217460b3a6dea0cfee343c3db8b06c5ed",
+      "license": "MIT",
+      "description": "A linear crossfade between the two images"
+    },
+    {
+      "file": "vendor/gl-transitions/transitions/fadecolor.glsl",
+      "sha256": "62f989f1a578ae1f66bf5a3588ba2072aac72d8d77589ac53808550285af1c06",
+      "license": "MIT",
+      "description": "A fade through a solid color, black by default"
+    },
+    {
+      "file": "vendor/gl-transitions/transitions/directional-easing.glsl",
+      "sha256": "20aeaac21aa4cf192ac808163aa0121f5ddf966a1c487e045a94e7ca9d7e321c",
+      "license": "MIT",
+      "description": "Like Directional, with an eased movement"
+    },
+    {
+      "file": "vendor/gl-transitions/transitions/directionalwipe.glsl",
+      "sha256": "ab13a278d9a62400fb54ac3c1df98d06b57172ec72f79ec4e8d185614ecfdb52",
+      "license": "MIT",
+      "description": "A soft-edged diagonal wipe"
+    },
+    {
+      "file": "vendor/gl-transitions/transitions/CrossZoom.glsl",
+      "sha256": "a30adba2a78deac0ac114a30ea285e972fdd7d488ed0cde90e15bc0eef333e84",
+      "license": "MIT",
+      "description": "A crossfade through a strong zoom blur"
+    },
+    {
+      "file": "vendor/gl-transitions/transitions/LinearBlur.glsl",
+      "sha256": "67ff5b194878f35d5afd4a4feada8c8e5b36a0c36deab76d032b19f80e9352f2",
+      "license": "MIT",
+      "description": "A crossfade through a blur"
+    },
+    {
+      "file": "vendor/gl-transitions/transitions/DefocusBlur.glsl",
+      "sha256": "9fdd45ebf44c532644e2c27ef589666fa962f70c53195c0ca802dd275dac4761",
+      "license": "MIT",
+      "description": "A crossfade through an out-of-focus blur"
+    },
+    {
+      "file": "vendor/gl-transitions/transitions/SimpleZoom.glsl",
+      "sha256": "3e971d871ba681b7d118c5c2d23baf3becc4ad63b0e18b482dc9a56cdc3ec16e",
+      "license": "MIT",
+      "description": "Zooms into the outgoing image, then fades to the incoming one"
+    }
+  ],
+  "source_pack_status": "Reusable GLSL sources, retained with upstream licence. Not claimed as rendered/active in FFmpeg.",
+  "active_event_renderer": {
+    "backend": "FFmpeg source-handle seams, serial encoding",
+    "effects": [
+      "cut",
+      "fade",
+      "fadeslow",
+      "smoothleft",
+      "smoothright",
+      "hblur",
+      "zoomin"
+    ],
+    "duration_frames": [
+      2,
+      15
+    ],
+    "default": "Hard beat cuts and restrained6\u20138frame fades for ceremony/venue; use blur/zoom only with intentional matching movement.",
+    "timeline": "Additional outgoing source handles offset overlap; planned shot starts and music marker frames do not drift."
+  }
+}

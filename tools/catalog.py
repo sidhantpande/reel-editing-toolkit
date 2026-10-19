@@ -47,3 +47,16 @@ with (R/'catalog/ASSET_INDEX.md').open('a') as f:
   duration=f'{asset["duration"]:.2f}s; ' if 'duration' in asset else ''
   f.write(f'- [{asset["subject"]}](../{asset["repositoryFile"]}) — {duration}Git LFS; {asset["source"]}.\n')
 print(f'Indexed {len(clinic)} clinic reusable media assets separately from the native scene catalogue.')
+
+# Keep user-supplied Jet Kids identity distinct from generated/shared overlays.
+jetkids_provenance=R/'workspaces/jetkids/brand-provenance.json'
+if jetkids_provenance.is_file():
+ asset=json.loads(jetkids_provenance.read_text())
+ jetkids=[{'id':'jetkids-school-crest-original','brand':'jetkids','kind':'logo','subject':'Jet Kids International School original JKIS crest','repositoryFile':asset['logo'],'sha256':asset['sha256'],'source':asset['source'],'treatment':asset['treatment'],'git_storage':'lfs'}]
+ music=R/'workspaces/jetkids/music-assets.json'
+ if music.is_file():jetkids+=json.loads(music.read_text())['assets']
+ (R/'catalog/jetkids-assets.json').write_text(json.dumps(jetkids,ensure_ascii=False,indent=2)+'\n')
+ with (R/'catalog/ASSET_INDEX.md').open('a') as f:
+  f.write('\n## Jet Kids supplied identity\n\nSearch: `python3 tools/reelctl.py assets --brand jetkids --query crest`.\n\n')
+  for asset in jetkids:f.write(f'- [{asset["subject"]}](../{asset["repositoryFile"]}) — {asset["kind"]}; Git LFS.\n')
+ print('Indexed Jet Kids original school crest separately from generated overlays.')

@@ -48,6 +48,20 @@ if logo_manifest.is_file():
   if not path.is_file() or hashlib.sha256(path.read_bytes()).hexdigest()!=asset['sha256']:bad.append('Dhiraj logo checksum mismatch: '+asset['path'])
   attr=subprocess.check_output(['git','check-attr','filter','--',str(path.relative_to(R))],cwd=R,text=True).strip()
   if not attr.endswith(': lfs'):bad.append('Dhiraj logo lacks Git LFS: '+asset['path'])
+
+jetkids=R/'catalog/jetkids-assets.json'
+if jetkids.is_file():
+ for asset in json.loads(jetkids.read_text()):
+  path=R/asset['repositoryFile']
+  if not path.is_file() or hashlib.sha256(path.read_bytes()).hexdigest()!=asset['sha256']:bad.append('Jet Kids asset checksum mismatch')
+  attr=subprocess.check_output(['git','check-attr','filter','--',asset['repositoryFile']],cwd=R,text=True).strip()
+  if not attr.endswith(': lfs'):bad.append('Jet Kids brand asset lacks Git LFS')
+transition_manifest=R/'catalog/event-transitions.json'
+if transition_manifest.is_file():
+ for asset in json.loads(transition_manifest.read_text())['downloaded_sources']:
+  path=R/asset['file']
+  if not path.is_file() or hashlib.sha256(path.read_bytes()).hexdigest()!=asset['sha256']:bad.append('Transition source checksum mismatch: '+asset['file'])
+ if not (R/'vendor/gl-transitions/LICENSE').is_file():bad.append('Missing transition source licence')
 print(f'Git candidates: {len(files)} files, {total/2**20:.1f} MiB before LFS')
 if bad:print('\n'.join(bad));sys.exit(1)
 print('OK: approved clinic assets match checksums/LFS; no raw/reference/export/cache/environment files among Git candidates.')

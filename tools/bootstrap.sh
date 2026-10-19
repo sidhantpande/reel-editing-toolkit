@@ -11,7 +11,7 @@ if git rev-parse --git-dir >/dev/null 2>&1 && git lfs version >/dev/null 2>&1; t
 npm ci --no-fund
 toolkit_python="${TOOLKIT_PYTHON:-$(command -v python3.11 || command -v python3)}"
 "$toolkit_python" -m venv .venv
-.venv/bin/python -m pip install --disable-pip-version-check -r requirements.lock
+.venv/bin/python -m pip install --disable-pip-version-check -r requirements.lock -r requirements.audio.lock
 .venv/bin/python tools/build_assets.py
 .venv/bin/python tools/catalog.py
 .venv/bin/python tools/link_media.py

@@ -1,0 +1,1 @@
+Selected MIT transition sources from https://github.com/gl-transitions/gl-transitions at e1e4bde9b4dad3cb7bdd7ed28e4b97f469d90448. Individual author/licence headers retained. These GLSL assets are reusable GPU transition sources; the current event renderer uses tested FFmpeg equivalents. Source presence does not assert a shader has been compiled/rendered on this machine.

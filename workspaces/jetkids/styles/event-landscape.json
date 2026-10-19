@@ -1,0 +1,18 @@
+{
+  "brand": "Jet Kids International School",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "eventPhotoInserts": false,
+  "sourceFraming": "retain native landscape video",
+  "colour": "official profile-matched Sony LC-709 normalisation, followed by selected-shot matching",
+  "logo": "public/assets/brands/jetkids/logo-original.jpg",
+  "palette": {
+    "navy": "#173747",
+    "gold": "#EBC34B"
+  },
+  "captions": "No invented dialogue; use only verified speech if needed.",
+  "audio": "User-selected song assets music-cues.json/music-assets.json; source-time cues converted to30fps slice-relative markers. Real matching-source ambience only if deliberately mixed.",
+  "ending": "Original JKIS crest on a clean black end-card",
+  "status": "User directed landscape and no photo inserts on 2026-10-19"
+}
