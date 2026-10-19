@@ -1,0 +1,1 @@
+User correction near previous32–33s: remove first fumbled attempt, retain later clean joint. Source38.566667–39.800000 removed (37frames). Preserve complete लेकिन and final development qualification. Current36.500s/1095frames. Same approved captions/B-roll/logo/music. No human listening attestation. Encoded QA pending.

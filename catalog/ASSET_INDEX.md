@@ -212,12 +212,57 @@ Search: `python3 tools/reelctl.py assets --query clock` or `python3 tools/reelct
 | website-white | transparent-svg | [website-white.svg](../public/assets/elements/website-white.svg) |
 | whip | original-synth-audio | [whip.wav](../public/assets/sfx/whip.wav) |
 
-## Clinic supplied B-roll and ending
+## Clinic B-roll, ending and cutouts
 
 Search: `python3 tools/reelctl.py assets --brand clinic --query implant`.
 
-- [implant](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/reel-07_B01_implant_received.mp4) — 10.01s; Git LFS; user supplied.
-- [dental bridge](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/reel-07_B02_bridge_received.mp4) — 20.00s; Git LFS; user supplied.
-- [toothpaste and brushing demonstration](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/reel-08_B01_brushing_received.mp4) — 16.76s; Git LFS; user supplied.
-- [interdental flossing demonstration](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/reel-08_B02_flossing_received.mp4) — 24.31s; Git LFS; user supplied.
-- [white logo end-card with supplied spoken signature](../workspaces/my-dental-skin-clinic/assets/brand/endcards/my-dental-reference-outro.mp4) — 4.23s; Git LFS; user supplied.
+- [implant](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/reel-07_B01_implant_received.mp4) — 10.01s; Git LFS; user supplied for Reel-07.
+- [dental bridge](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/reel-07_B02_bridge_received.mp4) — 20.00s; Git LFS; user supplied for Reel-07.
+- [toothpaste and brushing demonstration](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/reel-08_B01_brushing_received.mp4) — 16.76s; Git LFS; user supplied for Reel-08.
+- [interdental flossing demonstration](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/reel-08_B02_flossing_received.mp4) — 24.31s; Git LFS; user supplied for Reel-08.
+- [complete dental arch with one molar attention outline](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/reel-09_B01_tooth-role_received.mp4) — 10.00s; Git LFS; User supplied Gemini-generated video for Reel-09, 2026-10-19.
+- [symbolic attention ring on unchanged molar model](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/reel-09_B02_problem-escalation_received.mp4) — 10.00s; Git LFS; User supplied Gemini-generated video for Reel-09, 2026-10-19.
+- [assorted skincare shelf gradually becomes cluttered](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-01_B01.mp4) — 10.00s; Git LFS; User supplied for Dhiraj Reel-01, 2026-10-19.
+- [two anonymous skincare bottles, cream swatch and symbolic amber ring](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-01_B02.mp4) — 10.00s; Git LFS; User supplied for Dhiraj Reel-01, 2026-10-19.
+- [top-down basket of unbranded skincare products and anonymous hand placing a bottle](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-02_B01.mp4) — 10.00s; Git LFS; User supplied for Dhiraj Reel-02.
+- [cleanser pump, moisturizer jar and sunscreen tube with individual focus and final trio](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-02_B02.mp4) — 10.00s; Git LFS; User supplied for Dhiraj Reel-02.
+- [Lemon, turmeric and milk still life; moving focus and framing](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-03_B01.mp4) — 8.00s; Git LFS; User supplied for Dhiraj Reel-03, 2026-10-20.
+- [Hand chooses familiar skincare bottles and moisturizer; serum remains behind](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-03_B02.mp4) — 8.00s; Git LFS; User supplied for Dhiraj Reel-03, 2026-10-20.
+- [Two adult hands near a serum on a festive table; no dispensing](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-04_B01.mp4) — 10.00s; Git LFS; User supplied for Dhiraj Reel-04, 2026-10-20.
+- [Macro slide across gel, cream and lotion texture swatches](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-04_B02.mp4) — 8.00s; Git LFS; User supplied for Dhiraj Reel-04, 2026-10-20.
+- [Reframed supplied serum scene for Dhiraj Reel-04](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-04_B01_clean-frame-v01.mp4) — 10.00s; Git LFS; Derived locally from supplied B01.
+- [Generic skincare trio lifting and settling; use the first three-product arrangement](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-05_B01.mp4) — 10.00s; Git LFS; User supplied for Dhiraj Reel-05, 2026-10-20.
+- [Anonymous training shoes step on court, basketball bounces and rolls](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-05_B02.mp4) — 8.00s; Git LFS; User supplied for Dhiraj Reel-05, 2026-10-20.
+- [Anonymous hand lifts basketball beside doorway/backpack/shoes](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-06_B01.mp4) — 7.96s; Git LFS; User supplied for Dhiraj Reel-06, 2026-10-20.
+- [Camera arc around shoe, basketball and neutral dumbbell; small ball turn](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-06_B02.mp4) — 8.00s; Git LFS; User supplied for Dhiraj Reel-06, 2026-10-20.
+- [Macro hair strands: complete club end and broken shaft pieces; gentle rack focus](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-07_B01.mp4) — 8.00s; Git LFS; User-supplied generated B-roll for remaining Dhiraj batch.
+- [Anonymous hand places switched-off dryer and folded sage towel on ivory counter](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-07_B02.mp4) — 8.00s; Git LFS; User-supplied generated B-roll for remaining Dhiraj batch.
+- [Generic phone with abstract tiles, play shape and blank comment bubbles](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-08_B01.mp4) — 8.00s; Git LFS; User-supplied generated B-roll for remaining Dhiraj batch.
+- [Stethoscope, reference book and blank notebook; controlled desk slide](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-08_B02.mp4) — 8.00s; Git LFS; User-supplied generated B-roll for remaining Dhiraj batch.
+- [Ivory shield, stethoscope and reference book; soft studio arc](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-09_B01.mp4) — 8.00s; Git LFS; User-supplied generated B-roll for remaining Dhiraj batch.
+- [Clinician hands organize sealed instrument pouches and plain checklist; no patient](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-09_B02.mp4) — 8.00s; Git LFS; User-supplied generated B-roll for remaining Dhiraj batch.
+- [Two unbranded serum bottle silhouettes; neutral liquids and gentle camera arc](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-10_B01.mp4) — 8.00s; Git LFS; User-supplied generated B-roll for remaining Dhiraj batch.
+- [Clear glass dishes with neutral cosmetic gel/bead textures; conceptual carriers](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-10_B02.mp4) — 8.00s; Git LFS; User-supplied generated B-roll for remaining Dhiraj batch.
+- [Overhead travel pouch and generic bottles; hand tidies travel case](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-11_B01.mp4) — 8.00s; Git LFS; User-supplied generated B-roll for remaining Dhiraj batch.
+- [Exactly three miniature skincare essentials placed into sage travel pouch](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-11_B02.mp4) — 8.00s; Git LFS; User-supplied generated B-roll for remaining Dhiraj batch.
+- [Anonymous hand picks up basketball beside court shoes; no face](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-12_B01.mp4) — 8.00s; Git LFS; User-supplied generated B-roll for remaining Dhiraj batch.
+- [Unbranded sunscreen tube, small moisturizer and cleanser pump on ivory shelf](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-12_B02.mp4) — 8.00s; Git LFS; User-supplied generated B-roll for remaining Dhiraj batch.
+- [white logo end-card with supplied spoken signature](../workspaces/my-dental-skin-clinic/assets/brand/endcards/my-dental-reference-outro.mp4) — 4.23s; Git LFS; user supplied reference ending.
+- [ivory molar tooth teaching model](../workspaces/my-dental-skin-clinic/assets/cutouts/molar-ivory-v01.png) — Git LFS; Built-in image_gen, 2026-10-19.
+- [Complete upper and lower dental arch teaching model](../workspaces/my-dental-skin-clinic/assets/cutouts/dental-arch-ivory-v01.png) — Git LFS; Built-in image_gen, 2026-10-19 / user requested varied relevant assets.
+- [Champagne magnifier with sage handle for attention concept](../workspaces/my-dental-skin-clinic/assets/cutouts/magnifier-attention-v01.png) — Git LFS; Built-in image_gen, 2026-10-19 / user requested varied relevant assets.
+- [Dimensional numeral 32](../workspaces/my-dental-skin-clinic/assets/cutouts/thirty-two-dimensional-v01.png) — Git LFS; Original code-rendered typography using licensed Clinic Montserrat ExtraBold.
+- [minimal skincare trio](../workspaces/my-dental-skin-clinic/assets/cutouts/dhiraj/minimal-skincare-trio-v01.png) — Git LFS; Built-in imagegen, 2026-10-19.
+- [festival diya skincare](../workspaces/my-dental-skin-clinic/assets/cutouts/dhiraj/festival-diya-skincare-v01.png) — Git LFS; Built-in imagegen, 2026-10-19.
+- [home remedy lemon](../workspaces/my-dental-skin-clinic/assets/cutouts/dhiraj/home-remedy-lemon-v01.png) — Git LFS; Built-in imagegen, 2026-10-19.
+- [hair strand comparison](../workspaces/my-dental-skin-clinic/assets/cutouts/dhiraj/hair-strand-comparison-v01.png) — Git LFS; Built-in imagegen, 2026-10-19.
+- [travel skincare pouch](../workspaces/my-dental-skin-clinic/assets/cutouts/dhiraj/travel-skincare-pouch-v01.png) — Git LFS; Built-in imagegen, 2026-10-19.
+- [social phone](../workspaces/my-dental-skin-clinic/assets/cutouts/dhiraj/social-phone-v01.png) — Git LFS; Built-in imagegen, 2026-10-19.
+- [trust stethoscope](../workspaces/my-dental-skin-clinic/assets/cutouts/dhiraj/trust-stethoscope-v01.png) — Git LFS; Built-in imagegen, 2026-10-19.
+- [sports essentials](../workspaces/my-dental-skin-clinic/assets/cutouts/dhiraj/sports-essentials-v01.png) — Git LFS; Built-in imagegen, 2026-10-19.
+- [native shopping questions](../workspaces/my-dental-skin-clinic/assets/cutouts/dhiraj/native-shopping-questions-v01.png) — Git LFS; Original Pillow native typography using bundled OFL fonts.
+- [native skin types](../workspaces/my-dental-skin-clinic/assets/cutouts/dhiraj/native-skin-types-v01.png) — Git LFS; Original Pillow native typography using bundled OFL fonts.
+- [native hair terms](../workspaces/my-dental-skin-clinic/assets/cutouts/dhiraj/native-hair-terms-v01.png) — Git LFS; Original Pillow native typography using bundled OFL fonts.
+- [native trust knowledge](../workspaces/my-dental-skin-clinic/assets/cutouts/dhiraj/native-trust-knowledge-v01.png) — Git LFS; Original Pillow native typography using bundled OFL fonts.
+- [native price pair](../workspaces/my-dental-skin-clinic/assets/cutouts/dhiraj/native-price-pair-v01.png) — Git LFS; Original Pillow native typography using bundled OFL fonts.
+- [Dhiraj shoot — supplied clinic logo with transparent background; use only for this identity](../workspaces/my-dental-skin-clinic/assets/brand/dhiraj/logo-transparent-v01.png) — Git LFS; User-supplied logo; built-in imagegen background extraction.

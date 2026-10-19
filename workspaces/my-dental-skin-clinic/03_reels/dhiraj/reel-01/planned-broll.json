@@ -1,0 +1,54 @@
+[
+  {
+    "reel": "reel-01",
+    "id": "B01",
+    "clip": "MVI_9768",
+    "source_anchor": 6.2,
+    "seconds": 5.5,
+    "spoken_anchor": "नए face packs, scrubs, नए serums try करना",
+    "prompt": "Several unbranded serum bottles, scrub jars and face-pack tubes enter a refined ivory skincare shelf one by one. Camera slowly pushes in, showing how the routine becomes cluttered. Finish by holding on the different product silhouettes; no prices or labels.",
+    "layout": "full-frame",
+    "element": "festival-diya-skincare",
+    "timeline_in": 3.6,
+    "timeline_out": 8.3,
+    "delivery_filename": "dhiraj_reel-01_B01.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.5,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: Several unbranded serum bottles, scrub jars and face-pack tubes enter a refined ivory skincare shelf one by one. Camera slowly pushes in, showing how the routine becomes cluttered. Finish by holding on the different product silhouettes; no prices or labels.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-01_B01.mp4",
+    "sha256": "a831e4c66127cb7f6542ae911c0f493b0e89885d2faee24cbdce7ecfd5820407",
+    "selected_ranges": [
+      {
+        "timeline_in": 3.6,
+        "timeline_out": 8.3,
+        "media_in": 0.5
+      }
+    ]
+  },
+  {
+    "reel": "reel-01",
+    "id": "B02",
+    "clip": "MVI_9769",
+    "source_anchor": 10.4,
+    "seconds": 6,
+    "spoken_anchor": "exfoliants / actives … irritation, redness और peeling",
+    "prompt": "A premium macro still life of two anonymous skincare bottles and a small cream swatch on an ivory surface. A restrained amber caution ring gently appears beside the products and expands once while the camera shifts focus between bottle and swatch. Symbolic caution only; no diseased skin or result comparison.",
+    "layout": "full-frame",
+    "element": "minimal-skincare-trio",
+    "timeline_in": 17.433333333333334,
+    "timeline_out": 25.3,
+    "delivery_filename": "dhiraj_reel-01_B02.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.5,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: A premium macro still life of two anonymous skincare bottles and a small cream swatch on an ivory surface. A restrained amber caution ring gently appears beside the products and expands once while the camera shifts focus between bottle and swatch. Symbolic caution only; no diseased skin or result comparison.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-01_B02.mp4",
+    "sha256": "8d0f696d1769bf2f73243a8469ae0ea6c7abe2f026b109659711439088f238d9",
+    "selected_ranges": [
+      {
+        "timeline_in": 17.433333333333334,
+        "timeline_out": 25.3,
+        "media_in": 0.5
+      }
+    ]
+  }
+]

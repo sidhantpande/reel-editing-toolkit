@@ -1,0 +1,15 @@
+[0:v]eq=contrast=1.025:brightness=0.003:saturation=1.02[base];
+[base][5:v]overlay=0:0[baseShade];
+[2:v]fps=30,scale=1080:1920:flags=lanczos,setsar=1,format=rgba,fade=t=in:st=0:d=0.23333333333333334:alpha=1,fade=t=out:st=5.099999999999999:d=0.23333333333333334:alpha=1,setpts=PTS-STARTPTS+13.0/TB[b0];
+[baseShade][b0]overlay=0:0:eof_action=pass:enable=between(t\,13.0\,18.333333333333332)[p0];
+[3:v]fps=30,scale=1080:1920:flags=lanczos,setsar=1,format=rgb24[raw1];
+color=white:s=270x480:r=30:d=6.5000000000000036,format=gray,geq=lum='255*min(clip((T/.30*288-X)/18,0,1),clip(((6.5000000000000036-T)/.23*288-X)/18,0,1))',scale=1080:1920[mask1];
+[raw1][mask1]alphamerge,setpts=PTS-STARTPTS+31.2/TB[b1];
+[p0][b1]overlay=0:0:eof_action=pass:enable=between(t\,31.2\,37.7)[p1];
+[p1]null[shade];
+[4:v]scale=300:-1:flags=lanczos,format=rgba[logo];
+[logo]split=2[ink][halo];
+[halo]lutrgb=r=255:g=255:b=255,gblur=sigma=1.1[whitehalo];
+[shade][whitehalo]overlay=55:65[under];
+[under][ink]overlay=55:65[brand];
+[brand][6:v]overlay=0:1100,format=yuv420p[out]

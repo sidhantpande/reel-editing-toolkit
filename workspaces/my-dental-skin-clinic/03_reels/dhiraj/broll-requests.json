@@ -1,0 +1,631 @@
+[
+  {
+    "reel": "reel-01",
+    "id": "B01",
+    "clip": "MVI_9768",
+    "source_anchor": 6.2,
+    "seconds": 5.5,
+    "spoken_anchor": "नए face packs, scrubs, नए serums try करना",
+    "prompt": "Several unbranded serum bottles, scrub jars and face-pack tubes enter a refined ivory skincare shelf one by one. Camera slowly pushes in, showing how the routine becomes cluttered. Finish by holding on the different product silhouettes; no prices or labels.",
+    "layout": "full-frame",
+    "element": "festival-diya-skincare",
+    "timeline_in": 3.6,
+    "timeline_out": 8.3,
+    "delivery_filename": "dhiraj_reel-01_B01.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.5,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: Several unbranded serum bottles, scrub jars and face-pack tubes enter a refined ivory skincare shelf one by one. Camera slowly pushes in, showing how the routine becomes cluttered. Finish by holding on the different product silhouettes; no prices or labels.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-01_B01.mp4",
+    "sha256": "a831e4c66127cb7f6542ae911c0f493b0e89885d2faee24cbdce7ecfd5820407",
+    "selected_ranges": [
+      {
+        "timeline_in": 3.6,
+        "timeline_out": 8.3,
+        "media_in": 0.5
+      }
+    ]
+  },
+  {
+    "reel": "reel-01",
+    "id": "B02",
+    "clip": "MVI_9769",
+    "source_anchor": 10.4,
+    "seconds": 6,
+    "spoken_anchor": "exfoliants / actives … irritation, redness और peeling",
+    "prompt": "A premium macro still life of two anonymous skincare bottles and a small cream swatch on an ivory surface. A restrained amber caution ring gently appears beside the products and expands once while the camera shifts focus between bottle and swatch. Symbolic caution only; no diseased skin or result comparison.",
+    "layout": "full-frame",
+    "element": "minimal-skincare-trio",
+    "timeline_in": 17.433333333333334,
+    "timeline_out": 25.3,
+    "delivery_filename": "dhiraj_reel-01_B02.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.5,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: A premium macro still life of two anonymous skincare bottles and a small cream swatch on an ivory surface. A restrained amber caution ring gently appears beside the products and expands once while the camera shifts focus between bottle and swatch. Symbolic caution only; no diseased skin or result comparison.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-01_B02.mp4",
+    "sha256": "8d0f696d1769bf2f73243a8469ae0ea6c7abe2f026b109659711439088f238d9",
+    "selected_ranges": [
+      {
+        "timeline_in": 17.433333333333334,
+        "timeline_out": 25.3,
+        "media_in": 0.5
+      }
+    ]
+  },
+  {
+    "reel": "reel-02",
+    "id": "B01",
+    "clip": "MVI_9772",
+    "source_anchor": 2.2,
+    "seconds": 6,
+    "spoken_anchor": "cart में 10-10 skincare products … तीन सवाल",
+    "prompt": "Top-down premium product shot of a shopping basket containing assorted unbranded skincare bottles and jars. An anonymous hand pauses before adding another bottle, then sets it aside. Slow controlled camera slide, warm festive light, no checkout UI or fake brand names.",
+    "layout": "full-frame",
+    "element": "native-shopping-questions",
+    "timeline_in": 1.3333333333333333,
+    "timeline_out": 5.3,
+    "delivery_filename": "dhiraj_reel-02_B01.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.5,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: Top-down premium product shot of a shopping basket containing assorted unbranded skincare bottles and jars. An anonymous hand pauses before adding another bottle, then sets it aside. Slow controlled camera slide, warm festive light, no checkout UI or fake brand names.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-02_B01.mp4",
+    "sha256": "ff7e8533e5b3f87698027ff4052fa1365f48587e4ebd5ad8006cdf2515b424e8",
+    "selected_ranges": [
+      {
+        "timeline_in": 1.3333333333333333,
+        "timeline_out": 5.3,
+        "media_in": 0.5
+      }
+    ]
+  },
+  {
+    "reel": "reel-02",
+    "id": "B02",
+    "clip": "MVI_9772",
+    "source_anchor": 32.8,
+    "seconds": 6,
+    "spoken_anchor": "gentle skin cleanser … moisturizer और sunscreen",
+    "prompt": "Exactly three unbranded essentials: cleanser pump, moisturizer jar, sunscreen tube. Reveal them in that order, each with a subtle object turn, then a gentle camera arc around the complete trio on a matte ivory shelf. Quiet sage accents, ample empty lower caption space.",
+    "layout": "full-frame",
+    "element": "minimal-skincare-trio",
+    "timeline_in": 26.9,
+    "timeline_out": 28.666666666666668,
+    "delivery_filename": "dhiraj_reel-02_B02.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.15,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: Exactly three unbranded essentials: cleanser pump, moisturizer jar, sunscreen tube. Reveal them in that order, each with a subtle object turn, then a gentle camera arc around the complete trio on a matte ivory shelf. Quiet sage accents, ample empty lower caption space.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-02_B02.mp4",
+    "sha256": "656c820175ae574f2122f6c0641b39ae09bee24220778e2dd38c737dc4c62ddd",
+    "selected_ranges": [
+      {
+        "timeline_in": 26.9,
+        "timeline_out": 28.666666666666668,
+        "media_in": 0.15
+      },
+      {
+        "timeline_in": 33.3,
+        "timeline_out": 35.9,
+        "media_in": 2.3
+      }
+    ]
+  },
+  {
+    "reel": "reel-03",
+    "id": "B01",
+    "clip": "MVI_9776",
+    "source_anchor": 8,
+    "seconds": 6,
+    "spoken_anchor": "मम्मी … नींबू … दादी … हल्दी और दूध",
+    "prompt": "Macro studio still life of a lemon half, small turmeric bowl and a small plain glass of milk, presented as household objects. Slowly rack focus from lemon to turmeric, then settle on the group. Ivory background, warm natural light. Show no application to a person and imply no skincare benefit.",
+    "layout": "full-frame",
+    "element": "home-remedy-lemon",
+    "timeline_in": 6.4,
+    "timeline_out": 12.866666666666667,
+    "delivery_filename": "dhiraj_reel-03_B01.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.3,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: Macro studio still life of a lemon half, small turmeric bowl and a small plain glass of milk, presented as household objects. Slowly rack focus from lemon to turmeric, then settle on the group. Ivory background, warm natural light. Show no application to a person and imply no skincare benefit.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-03_B01.mp4",
+    "sha256": "b0a019c79799201fc6404aa345a414282e0a7a0eebbedeb5dde612dcf1fa87fd",
+    "selected_ranges": [
+      {
+        "timeline_in": 6.4,
+        "timeline_out": 12.866666666666667,
+        "media_in": 0.3
+      }
+    ]
+  },
+  {
+    "reel": "reel-03",
+    "id": "B02",
+    "clip": "MVI_9778",
+    "source_anchor": 23,
+    "seconds": 5.3,
+    "spoken_anchor": "पहले से skincare routine … continue कीजिए",
+    "prompt": "An anonymous hand chooses a familiar unbranded cleanser and moisturizer from a simple shelf while a newly introduced serum stays untouched in the background. Gentle push-in and small focus shift, soft daylight and premium neutral palette; no demonstrative treatment or results.",
+    "layout": "full-frame",
+    "element": "native-skin-types",
+    "timeline_in": 42.333333333333336,
+    "timeline_out": 47.93333333333333,
+    "delivery_filename": "dhiraj_reel-03_B02.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.5,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: An anonymous hand chooses a familiar unbranded cleanser and moisturizer from a simple shelf while a newly introduced serum stays untouched in the background. Gentle push-in and small focus shift, soft daylight and premium neutral palette; no demonstrative treatment or results.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-03_B02.mp4",
+    "sha256": "182aa57831b27bedc9117c2419a1b7d6399f6caec2d8967f2548fe2258b73a8f",
+    "selected_ranges": [
+      {
+        "timeline_in": 42.333333333333336,
+        "timeline_out": 47.93333333333333,
+        "media_in": 0.5
+      }
+    ]
+  },
+  {
+    "reel": "reel-04",
+    "id": "B01",
+    "clip": "MVI_9785",
+    "source_anchor": 3,
+    "seconds": 6,
+    "spoken_anchor": "भाई ने दीदी का favourite serum लगाया",
+    "prompt": "Two anonymous adult hands approach one generic serum bottle on a clean festive dressing table; one hand pauses and leaves it in place. Warm Bhai Dooj atmosphere suggested by a small plate of sweets at the edge, no faces, no brand labels or visible dispensing.",
+    "layout": "full-frame",
+    "element": "festival-diya-skincare",
+    "timeline_in": 1.3,
+    "timeline_out": 6.5,
+    "delivery_filename": "dhiraj_reel-04_B01.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 1.2,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: Two anonymous adult hands approach one generic serum bottle on a clean festive dressing table; one hand pauses and leaves it in place. Warm Bhai Dooj atmosphere suggested by a small plate of sweets at the edge, no faces, no brand labels or visible dispensing.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-04_B01_clean-frame-v01.mp4",
+    "sha256": "69644273b6a2527dc8b50ef226246b01437844d34fe55fd5a4f7f5015a4a6254",
+    "selected_ranges": [
+      {
+        "timeline_in": 1.3,
+        "timeline_out": 6.5,
+        "media_in": 1.2
+      }
+    ]
+  },
+  {
+    "reel": "reel-04",
+    "id": "B02",
+    "clip": "MVI_9785",
+    "source_anchor": 17.6,
+    "seconds": 6,
+    "spoken_anchor": "skin type oily … dry और sensitive",
+    "prompt": "Three separate neutral skin-care texture swatches on ivory ceramic tiles: light gel, soft cream and soothing-looking lotion. Slow macro slide showing the different textures without assigning diagnoses or promising suitability. No faces, no oily/dry result comparison, no text.",
+    "layout": "full-frame",
+    "element": "native-skin-types",
+    "timeline_in": 12.8,
+    "timeline_out": 18.900000000000002,
+    "delivery_filename": "dhiraj_reel-04_B02.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.2,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: Three separate neutral skin-care texture swatches on ivory ceramic tiles: light gel, soft cream and soothing-looking lotion. Slow macro slide showing the different textures without assigning diagnoses or promising suitability. No faces, no oily/dry result comparison, no text.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-04_B02.mp4",
+    "sha256": "b4f9b3cb2df7785ac76e2a3fcdef3ac79bf6eb465bfa7f80d82bcf3eba04968f",
+    "selected_ranges": [
+      {
+        "timeline_in": 12.8,
+        "timeline_out": 18.900000000000002,
+        "media_in": 0.2
+      }
+    ]
+  },
+  {
+    "reel": "reel-05",
+    "id": "B01",
+    "clip": "MVI_9788",
+    "source_anchor": 14.2,
+    "seconds": 6,
+    "spoken_anchor": "gentle moisturizer, skin cleanser और basic sunscreen",
+    "prompt": "A clean tabletop with exactly one generic cleanser pump, one moisturizer jar and one sunscreen tube. Each object appears with a restrained soft lift and settles; camera moves from the trio to a simple travel-sized arrangement. Premium ivory and muted sage, no labels or other products.",
+    "layout": "full-frame",
+    "element": "minimal-skincare-trio",
+    "timeline_in": 13.0,
+    "timeline_out": 18.333333333333332,
+    "delivery_filename": "dhiraj_reel-05_B01.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.1,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: A clean tabletop with exactly one generic cleanser pump, one moisturizer jar and one sunscreen tube. Each object appears with a restrained soft lift and settles; camera moves from the trio to a simple travel-sized arrangement. Premium ivory and muted sage, no labels or other products.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-05_B01.mp4",
+    "sha256": "256dfd16c015382bf882402588074f85278c4d302d554a30ffc8a826d0832914",
+    "selected_ranges": [
+      {
+        "timeline_in": 13.0,
+        "timeline_out": 18.333333333333332,
+        "media_in": 0.1
+      }
+    ]
+  },
+  {
+    "reel": "reel-05",
+    "id": "B02",
+    "clip": "MVI_9788",
+    "source_anchor": 35.3,
+    "seconds": 6,
+    "spoken_anchor": "muscle memory, strong joints … flexibility",
+    "prompt": "Photoreal editorial close-ups of anonymous training shoes stepping onto an outdoor sports court, then a basketball bouncing once and rolling to rest. Golden natural light, realistic motion, no identifiable child, no gym promises or performance transformation.",
+    "layout": "full-frame",
+    "element": "sports-essentials",
+    "timeline_in": 31.2,
+    "timeline_out": 37.7,
+    "delivery_filename": "dhiraj_reel-05_B02.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.2,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: Photoreal editorial close-ups of anonymous training shoes stepping onto an outdoor sports court, then a basketball bouncing once and rolling to rest. Golden natural light, realistic motion, no identifiable child, no gym promises or performance transformation.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-05_B02.mp4",
+    "sha256": "461e8f0e95c914955475d31b309d7298be363954b5204160dc01905f97785ea4",
+    "selected_ranges": [
+      {
+        "timeline_in": 31.2,
+        "timeline_out": 37.7,
+        "media_in": 0.2
+      }
+    ]
+  },
+  {
+    "reel": "reel-06",
+    "id": "B01",
+    "clip": "MVI_9789",
+    "source_anchor": 2.0,
+    "seconds": 5.8,
+    "spoken_anchor": "मेरा बड़ा बेटा … skin tanning",
+    "prompt": "Anonymous teen-sized sports shoes, school backpack and basketball beside an open doorway in warm daylight; a hand picks up the ball to go outside. No face, no skin close-up or change of skin tone, no identifiable recreation of the doctor's family.",
+    "layout": "full-frame",
+    "element": "sports-essentials",
+    "timeline_in": 0.3,
+    "timeline_out": 7.4,
+    "delivery_filename": "dhiraj_reel-06_B01.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.8,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: Anonymous teen-sized sports shoes, school backpack and basketball beside an open doorway in warm daylight; a hand picks up the ball to go outside. No face, no skin close-up or change of skin tone, no identifiable recreation of the doctor's family.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-06_B01.mp4",
+    "sha256": "ae403f89b17890a48e1c2f7c9e3dedd513ee093ea5719c57dcef840114108170",
+    "selected_ranges": [
+      {
+        "timeline_in": 0.3,
+        "timeline_out": 7.4,
+        "media_in": 0.8
+      }
+    ]
+  },
+  {
+    "reel": "reel-06",
+    "id": "B02",
+    "clip": "MVI_9789",
+    "source_anchor": 27.5,
+    "seconds": 5.5,
+    "spoken_anchor": "muscle memory … sports acumen comes first",
+    "prompt": "Premium sports-prop still life: basketball, white training shoe and small neutral dumbbell. A controlled camera arc moves from shoe to basketball, then the ball makes one small natural turn. Bright clean daylight, ivory/sage accents, no human physique or result claim.",
+    "layout": "full-frame",
+    "element": "sports-essentials",
+    "timeline_in": 23.8,
+    "timeline_out": 28.333333333333332,
+    "delivery_filename": "dhiraj_reel-06_B02.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.4,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: Premium sports-prop still life: basketball, white training shoe and small neutral dumbbell. A controlled camera arc moves from shoe to basketball, then the ball makes one small natural turn. Bright clean daylight, ivory/sage accents, no human physique or result claim.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-06_B02.mp4",
+    "sha256": "b331d6394339e0ac4b95a4f729dfef31679bb18b9e246da0ac55e666ee97311b",
+    "selected_ranges": [
+      {
+        "timeline_in": 23.8,
+        "timeline_out": 28.333333333333332,
+        "media_in": 0.4
+      }
+    ]
+  },
+  {
+    "reel": "reel-07",
+    "id": "B01",
+    "clip": "MVI_9794",
+    "source_anchor": 8.5,
+    "seconds": 6,
+    "spoken_anchor": "hair fall, hair breakage और hair thinning",
+    "prompt": "Educational macro view of a few individual dark hair strands on a neutral ivory inspection surface. Show one complete strand with a tiny club end beside two shorter broken shaft pieces; controlled camera rack focus between groups. Teaching objects only, no scalp diagnosis, no exaggerated hair piles or labels.",
+    "layout": "full-frame",
+    "element": "hair-strand-comparison",
+    "timeline_in": 9.9,
+    "timeline_out": 15.6,
+    "delivery_filename": "dhiraj_reel-07_B01.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.3,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: Educational macro view of a few individual dark hair strands on a neutral ivory inspection surface. Show one complete strand with a tiny club end beside two shorter broken shaft pieces; controlled camera rack focus between groups. Teaching objects only, no scalp diagnosis, no exaggerated hair piles or labels.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-07_B01.mp4",
+    "sha256": "e30c47d39f473f58df229bd15e89acd3efe09aa0b559e6738b05709bd8b76d68",
+    "selected_ranges": [
+      {
+        "timeline_in": 9.9,
+        "timeline_out": 15.6,
+        "media_in": 0.3
+      }
+    ]
+  },
+  {
+    "reel": "reel-07",
+    "id": "B02",
+    "clip": "MVI_9794",
+    "source_anchor": 53.3,
+    "seconds": 6,
+    "spoken_anchor": "excessive heat … friction … towel से rub",
+    "prompt": "Anonymous adult hand gently places a hair dryer and folded towel on an ivory bathroom counter. The hair dryer remains switched off; camera slides from the nozzle to the soft towel texture. Symbolic context for the narrated causes; no applied damage, no patient, no before/after.",
+    "layout": "full-frame",
+    "element": "native-hair-terms",
+    "timeline_in": 29.433333333333334,
+    "timeline_out": 37,
+    "delivery_filename": "dhiraj_reel-07_B02.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.3,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: Anonymous adult hand gently places a hair dryer and folded towel on an ivory bathroom counter. The hair dryer remains switched off; camera slides from the nozzle to the soft towel texture. Symbolic context for the narrated causes; no applied damage, no patient, no before/after.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-07_B02.mp4",
+    "sha256": "1471135e339508e34c6944c1da4712649c30f3e398bf6434ca07680255535ff8",
+    "selected_ranges": [
+      {
+        "timeline_in": 29.433333333333334,
+        "timeline_out": 37,
+        "media_in": 0.3
+      }
+    ]
+  },
+  {
+    "reel": "reel-08",
+    "id": "B01",
+    "clip": "MVI_9798",
+    "source_anchor": 3.4,
+    "seconds": 6,
+    "spoken_anchor": "Instagram … influencer … influence",
+    "prompt": "Generic phone in portrait orientation on an ivory studio pedestal. Abstract sage video tiles scroll slowly and a simple play shape appears, followed by two blank comment bubbles. No recognizable app, creator face, real account, endorsement, labels or numbers. Refined controlled product camera arc.",
+    "layout": "full-frame",
+    "element": "social-phone",
+    "timeline_in": 0.2,
+    "timeline_out": 7.6,
+    "delivery_filename": "dhiraj_reel-08_B01.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.3,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: Generic phone in portrait orientation on an ivory studio pedestal. Abstract sage video tiles scroll slowly and a simple play shape appears, followed by two blank comment bubbles. No recognizable app, creator face, real account, endorsement, labels or numbers. Refined controlled product camera arc.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-08_B01.mp4",
+    "sha256": "ac576bc0dc4bf196582f8e903d71f35190691b5b325b31fdd4a72242d863839b",
+    "selected_ranges": [
+      {
+        "timeline_in": 0.2,
+        "timeline_out": 7.6,
+        "media_in": 0.3
+      }
+    ]
+  },
+  {
+    "reel": "reel-08",
+    "id": "B02",
+    "clip": "MVI_9798",
+    "source_anchor": 34.8,
+    "seconds": 5.5,
+    "spoken_anchor": "doctor को … acting / influencing … पढ़ाया नहीं जाता",
+    "prompt": "Close-up still life of a realistic stethoscope, closed neutral medical reference book and blank notebook on a refined desk. Slow rack focus from the stethoscope to notebook, followed by a small camera slide. No certificates, credentials, readable titles or suggestion that all advice is infallible.",
+    "layout": "full-frame",
+    "element": "trust-stethoscope",
+    "timeline_in": 32.46666666666667,
+    "timeline_out": 39.166666666666664,
+    "delivery_filename": "dhiraj_reel-08_B02.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.3,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: Close-up still life of a realistic stethoscope, closed neutral medical reference book and blank notebook on a refined desk. Slow rack focus from the stethoscope to notebook, followed by a small camera slide. No certificates, credentials, readable titles or suggestion that all advice is infallible.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-08_B02.mp4",
+    "sha256": "1d850611616adf920789be1e50be4d0482945750277f5f8fb032c3cadf454f6c",
+    "selected_ranges": [
+      {
+        "timeline_in": 32.46666666666667,
+        "timeline_out": 39.166666666666664,
+        "media_in": 0.3
+      }
+    ]
+  },
+  {
+    "reel": "reel-09",
+    "id": "B01",
+    "clip": "MVI_9800",
+    "source_anchor": 8.2,
+    "seconds": 6,
+    "spoken_anchor": "brand … trust और technical knowledge",
+    "prompt": "Elegant physical ivory shield beside a realistic sage stethoscope and closed reference book. A soft controlled studio light moves subtly across the shield and camera pushes in a few centimeters. No certification seal, name, logo, award or guaranteed outcome.",
+    "layout": "full-frame",
+    "element": "trust-stethoscope",
+    "timeline_in": 7.233333333333333,
+    "timeline_out": 14.566666666666666,
+    "delivery_filename": "dhiraj_reel-09_B01.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.3,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: Elegant physical ivory shield beside a realistic sage stethoscope and closed reference book. A soft controlled studio light moves subtly across the shield and camera pushes in a few centimeters. No certification seal, name, logo, award or guaranteed outcome.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-09_B01.mp4",
+    "sha256": "4d0b03aba7be0456b382070f3e07aec2eb900375e2b72806ca203a3af6981c28",
+    "selected_ranges": [
+      {
+        "timeline_in": 7.233333333333333,
+        "timeline_out": 14.566666666666666,
+        "media_in": 0.3
+      }
+    ]
+  },
+  {
+    "reel": "reel-09",
+    "id": "B02",
+    "clip": "MVI_9800",
+    "source_anchor": 46.4,
+    "seconds": 5.5,
+    "spoken_anchor": "without compromising … quality … reputation",
+    "prompt": "Anonymous clinician's hands organize neutral sealed instrument pouches and a plain checklist on a clean desk; no patient or procedure. Slow top-down camera drift, orderly consistent action, no readable claims, prices, brand labels or clinic identity.",
+    "layout": "full-frame",
+    "element": "native-trust-knowledge",
+    "timeline_in": 29.633333333333333,
+    "timeline_out": 37.2,
+    "delivery_filename": "dhiraj_reel-09_B02.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.3,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: Anonymous clinician's hands organize neutral sealed instrument pouches and a plain checklist on a clean desk; no patient or procedure. Slow top-down camera drift, orderly consistent action, no readable claims, prices, brand labels or clinic identity.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-09_B02.mp4",
+    "sha256": "cdd0d925cb03fd1c320b9f74e84502b25431b93594ade98cc9b698ebdc3a8285",
+    "selected_ranges": [
+      {
+        "timeline_in": 29.633333333333333,
+        "timeline_out": 37.2,
+        "media_in": 0.3
+      }
+    ]
+  },
+  {
+    "reel": "reel-10",
+    "id": "B01",
+    "clip": "MVI_9806",
+    "source_anchor": 16,
+    "seconds": 6,
+    "spoken_anchor": "content same … purity … source",
+    "prompt": "Two distinct anonymous serum bottles with different silhouettes on an ivory surface. Camera arcs gently around both and racks focus between their droppers. Both liquids remain visually neutral; do not imply one bottle works better. No labels, no visible prices, no split-screen results.",
+    "layout": "full-frame",
+    "element": "native-price-pair",
+    "timeline_in": 15.1,
+    "timeline_out": 21.9,
+    "delivery_filename": "dhiraj_reel-10_B01.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.3,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: Two distinct anonymous serum bottles with different silhouettes on an ivory surface. Camera arcs gently around both and racks focus between their droppers. Both liquids remain visually neutral; do not imply one bottle works better. No labels, no visible prices, no split-screen results.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-10_B01.mp4",
+    "sha256": "89513c3242bc2461efd213fbc4477fb8c0a736fbaa087ffe6b71ce6aa706d287",
+    "selected_ranges": [
+      {
+        "timeline_in": 15.1,
+        "timeline_out": 21.9,
+        "media_in": 0.3
+      }
+    ]
+  },
+  {
+    "reel": "reel-10",
+    "id": "B02",
+    "clip": "MVI_9806",
+    "source_anchor": 25,
+    "seconds": 6,
+    "spoken_anchor": "active ingredient … vehicle … method of delivery",
+    "prompt": "Premium abstract macro of two clear glass dishes containing different neutral cosmetic gel textures; tiny unlabelled beads move gently through each medium at different paths. Conceptual illustration of different carriers, not a measured laboratory test. Stable glass geometry, slow focus shift, ivory/sage palette, no efficacy numbers.",
+    "layout": "full-frame",
+    "element": "native-price-pair",
+    "timeline_in": 24.066666666666666,
+    "timeline_out": 31.533333333333335,
+    "delivery_filename": "dhiraj_reel-10_B02.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.3,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: Premium abstract macro of two clear glass dishes containing different neutral cosmetic gel textures; tiny unlabelled beads move gently through each medium at different paths. Conceptual illustration of different carriers, not a measured laboratory test. Stable glass geometry, slow focus shift, ivory/sage palette, no efficacy numbers.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-10_B02.mp4",
+    "sha256": "16e8c6e8daff902e1fb303f9b0f917a4353422a6d68a0c3c18a8fbc1b0c80e0a",
+    "selected_ranges": [
+      {
+        "timeline_in": 24.066666666666666,
+        "timeline_out": 31.533333333333335,
+        "media_in": 0.3
+      }
+    ]
+  },
+  {
+    "reel": "reel-11",
+    "id": "B01",
+    "clip": "MVI_9809",
+    "source_anchor": 3.2,
+    "seconds": 5.2,
+    "spoken_anchor": "wedding trip … पूरा skincare bag साथ ले जाऊँ?",
+    "prompt": "Top-down view of an open small travel case and a sage toiletry pouch. An anonymous hand removes unnecessary generic duplicate bottles, leaving the pouch tidy. A subtle wedding invitation-shaped blank card sits near the edge without writing. Warm travel editorial style, slow controlled slide.",
+    "layout": "full-frame",
+    "element": "travel-skincare-pouch",
+    "timeline_in": 1.7,
+    "timeline_out": 7.1,
+    "delivery_filename": "dhiraj_reel-11_B01.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.4,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: Top-down view of an open small travel case and a sage toiletry pouch. An anonymous hand removes unnecessary generic duplicate bottles, leaving the pouch tidy. A subtle wedding invitation-shaped blank card sits near the edge without writing. Warm travel editorial style, slow controlled slide.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-11_B01.mp4",
+    "sha256": "a00731786a97628e05be3d47be7a22cf3171b4c6213cd71868ddded31d566c47",
+    "selected_ranges": [
+      {
+        "timeline_in": 1.7,
+        "timeline_out": 7.1,
+        "media_in": 0.4
+      }
+    ]
+  },
+  {
+    "reel": "reel-11",
+    "id": "B02",
+    "clip": "MVI_9809",
+    "source_anchor": 11.9,
+    "seconds": 6.2,
+    "spoken_anchor": "gentle skin cleanser, suitable moisturizer और sunscreen",
+    "prompt": "Exactly three miniature unbranded essentials—cleanser, moisturizer and sunscreen—are neatly placed inside an open sage toiletry pouch in sequence. End with zipper partly closing while objects remain visible. Premium tactile fabric, soft daylight, no prescription drugs or instruction to stop treatment.",
+    "layout": "full-frame",
+    "element": "travel-skincare-pouch",
+    "timeline_in": 10.8,
+    "timeline_out": 18,
+    "delivery_filename": "dhiraj_reel-11_B02.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.3,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: Exactly three miniature unbranded essentials—cleanser, moisturizer and sunscreen—are neatly placed inside an open sage toiletry pouch in sequence. End with zipper partly closing while objects remain visible. Premium tactile fabric, soft daylight, no prescription drugs or instruction to stop treatment.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-11_B02.mp4",
+    "sha256": "92fd63d9d874c77f9ebbececcf08c4985e33b2ec6a5a609858e96e00a12e304a",
+    "selected_ranges": [
+      {
+        "timeline_in": 10.8,
+        "timeline_out": 18,
+        "media_in": 0.3
+      }
+    ]
+  },
+  {
+    "reel": "reel-12",
+    "id": "B01",
+    "clip": "MVI_9815",
+    "source_anchor": 16.6,
+    "seconds": 6,
+    "spoken_anchor": "sports acumen, muscle memory, joint / bone development",
+    "prompt": "Anonymous sports shoes and basketball at an outdoor court, shown at ground level. A child-sized hand picks up the ball and exits the frame; no face or recreated family identity. Slow natural camera movement, realistic daylight, no physique change or supplement product.",
+    "layout": "full-frame",
+    "element": "sports-essentials",
+    "timeline_in": 8.2,
+    "timeline_out": 15.399999999999999,
+    "delivery_filename": "dhiraj_reel-12_B01.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.3,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: Anonymous sports shoes and basketball at an outdoor court, shown at ground level. A child-sized hand picks up the ball and exits the frame; no face or recreated family identity. Slow natural camera movement, realistic daylight, no physique change or supplement product.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-12_B01.mp4",
+    "sha256": "634f3e8ed9abd61a3a73c6c971bc0e9db63078072780b7848473d962135d0a6c",
+    "selected_ranges": [
+      {
+        "timeline_in": 8.2,
+        "timeline_out": 15.399999999999999,
+        "media_in": 0.3
+      }
+    ]
+  },
+  {
+    "reel": "reel-12",
+    "id": "B02",
+    "clip": "MVI_9815",
+    "source_anchor": 63.4,
+    "seconds": 5.8,
+    "spoken_anchor": "sunscreen, छोटा moisturizer और gentle skin cleanser",
+    "prompt": "A clean ivory studio shelf with a generic sunscreen tube, small moisturizer jar and cleanser pump; reveal each object gently in the spoken order with a slow camera arc. No logos, diagnoses, tanning transformation, supplement claims or skin-whitening implication.",
+    "layout": "full-frame",
+    "element": "minimal-skincare-trio",
+    "timeline_in": 53.733333333333334,
+    "timeline_out": 60.833333333333336,
+    "delivery_filename": "dhiraj_reel-12_B02.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.3,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: A clean ivory studio shelf with a generic sunscreen tube, small moisturizer jar and cleanser pump; reveal each object gently in the spoken order with a slow camera arc. No logos, diagnoses, tanning transformation, supplement claims or skin-whitening implication.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-12_B02.mp4",
+    "sha256": "05b476a00c5c085ff8668bd2dfa854fab62b95f91433fdc7883459b86156b757",
+    "selected_ranges": [
+      {
+        "timeline_in": 53.733333333333334,
+        "timeline_out": 60.833333333333336,
+        "media_in": 0.3
+      }
+    ]
+  }
+]

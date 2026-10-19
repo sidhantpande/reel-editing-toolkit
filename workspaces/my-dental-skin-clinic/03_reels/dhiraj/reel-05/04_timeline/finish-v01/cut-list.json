@@ -1,0 +1,82 @@
+{
+  "fps": 30,
+  "segments": [
+    {
+      "source_id": "clip-7d3cbec283d448fa",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9788.MP4",
+      "source_sha256": "7d3cbec283d448faf793d6c4a85e4b06dbc3567cdfdbdda48a535e6045b9ae8e",
+      "source_duration": 77.110367,
+      "source_in": 1.5,
+      "source_out": 5.233333333333333,
+      "timeline_in": 0.0,
+      "timeline_out": 3.7333333333333334,
+      "crop_xywh": {
+        "x": 1282,
+        "y": 160,
+        "width": 1124,
+        "height": 2000
+      },
+      "role": "Complete best take; basic routine and sports/physical development",
+      "speaker": "doctor",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-7d3cbec283d448fa",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9788.MP4",
+      "source_sha256": "7d3cbec283d448faf793d6c4a85e4b06dbc3567cdfdbdda48a535e6045b9ae8e",
+      "source_duration": 77.110367,
+      "source_in": 6.266666666666667,
+      "source_out": 21.466666666666665,
+      "timeline_in": 3.7333333333333334,
+      "timeline_out": 18.933333333333334,
+      "crop_xywh": {
+        "x": 1282,
+        "y": 160,
+        "width": 1124,
+        "height": 2000
+      },
+      "role": "Complete best take; basic routine and sports/physical development",
+      "speaker": "doctor",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-7d3cbec283d448fa",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9788.MP4",
+      "source_sha256": "7d3cbec283d448faf793d6c4a85e4b06dbc3567cdfdbdda48a535e6045b9ae8e",
+      "source_duration": 77.110367,
+      "source_in": 22.8,
+      "source_out": 50.66666666666667,
+      "timeline_in": 18.933333333333334,
+      "timeline_out": 46.8,
+      "crop_xywh": {
+        "x": 1282,
+        "y": 160,
+        "width": 1124,
+        "height": 2000
+      },
+      "role": "Complete best take; basic routine and sports/physical development",
+      "speaker": "doctor",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-7d3cbec283d448fa",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9788.MP4",
+      "source_sha256": "7d3cbec283d448faf793d6c4a85e4b06dbc3567cdfdbdda48a535e6045b9ae8e",
+      "source_duration": 77.110367,
+      "source_in": 50.93333333333333,
+      "source_out": 76.0,
+      "timeline_in": 46.8,
+      "timeline_out": 71.86666666666666,
+      "crop_xywh": {
+        "x": 1282,
+        "y": 160,
+        "width": 1124,
+        "height": 2000
+      },
+      "role": "Complete best take; basic routine and sports/physical development",
+      "speaker": "doctor",
+      "join": "cut"
+    }
+  ],
+  "exclusions": []
+}

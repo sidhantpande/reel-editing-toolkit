@@ -8,7 +8,7 @@ CLINIC=ROOT/'workspaces/my-dental-skin-clinic'
 def main():
  p=argparse.ArgumentParser(description=__doc__)
  p.add_argument('brand',choices=['clinic','atfro','niolearn'])
- p.add_argument('command',choices=['status','doctor','intake','analyse','transcribe','preflight','render','assets'])
+ p.add_argument('command',choices=['status','doctor','intake','analyse','transcribe','preflight','render','assets','references','matte','qa'])
  p.add_argument('arguments',nargs=argparse.REMAINDER)
  a=p.parse_args()
  if a.brand!='clinic':
@@ -25,7 +25,10 @@ def main():
    print(brief.parent.name+': '+status)
   return 0
  if not py.exists():p.error('Clinic runtime missing: run bash workspaces/my-dental-skin-clinic/tools/bootstrap.sh')
- if a.command in ('preflight','render'):
+ if a.command in ('references','matte','qa'):
+  script={'references':'study_references.py','matte':'subject_layers.py','qa':'qa_clinic_reel.py'}[a.command]
+  args=[str(py),str(CLINIC/'tools'/script),*a.arguments]
+ elif a.command in ('preflight','render'):
   if not a.arguments:p.error('Supply an edit-plan JSON path')
   args=[str(py),str(CLINIC/'tools/render_clinic_reel.py'),*a.arguments]
   if a.command=='preflight':args.append('--preflight')

@@ -1,0 +1,346 @@
+{
+  "title": "Father–son conversation — tanning and sports",
+  "caption_scenes": {
+    "p01": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p02": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p03": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p04": {
+      "main": [
+        0
+      ],
+      "accent": [
+        0
+      ],
+      "serif": [],
+      "hero": true
+    },
+    "p05": {
+      "main": [
+        4
+      ],
+      "accent": [
+        4
+      ],
+      "serif": []
+    },
+    "p06": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p07": {
+      "main": [
+        1
+      ],
+      "accent": [],
+      "serif": [
+        2
+      ],
+      "hero": true,
+      "centre_y": 1500,
+      "size_scale": 0.94
+    },
+    "p08": {
+      "main": [
+        0,
+        1
+      ],
+      "accent": [],
+      "serif": [
+        1
+      ],
+      "hero": true,
+      "centre_y": 1500,
+      "size_scale": 0.94
+    },
+    "p09": {
+      "main": [
+        1
+      ],
+      "accent": [],
+      "serif": [],
+      "hero": true,
+      "centre_y": 1500,
+      "size_scale": 0.94
+    },
+    "p10": {
+      "main": [
+        1
+      ],
+      "accent": [],
+      "serif": [],
+      "centre_y": 1500,
+      "size_scale": 0.94
+    },
+    "p11": {
+      "main": [],
+      "accent": [],
+      "serif": [],
+      "centre_y": 1500,
+      "size_scale": 0.94
+    },
+    "p12": {
+      "main": [
+        4
+      ],
+      "accent": [],
+      "serif": [
+        5
+      ],
+      "centre_y": 1500,
+      "size_scale": 0.94
+    },
+    "p13": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p14": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p15": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p16": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p17": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p18": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p19": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p20": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p21": {
+      "main": [
+        2
+      ],
+      "accent": [
+        2
+      ],
+      "serif": []
+    },
+    "p22": {
+      "main": [
+        5
+      ],
+      "accent": [],
+      "serif": []
+    },
+    "p23": {
+      "main": [
+        4
+      ],
+      "accent": [
+        4
+      ],
+      "serif": []
+    },
+    "p24": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p25": {
+      "main": [
+        1
+      ],
+      "accent": [
+        1
+      ],
+      "serif": []
+    },
+    "p26": {
+      "main": [
+        1,
+        2
+      ],
+      "accent": [],
+      "serif": [
+        4
+      ]
+    },
+    "p27": {
+      "main": [],
+      "accent": [],
+      "serif": [
+        3
+      ]
+    },
+    "p28": {
+      "main": [
+        2
+      ],
+      "accent": [
+        2
+      ],
+      "serif": []
+    },
+    "p29": {
+      "main": [
+        5
+      ],
+      "accent": [
+        5
+      ],
+      "serif": []
+    },
+    "p30": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p31": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p32": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p33": {
+      "main": [
+        3
+      ],
+      "accent": [
+        3
+      ],
+      "serif": []
+    },
+    "p34": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p35": {
+      "main": [
+        1,
+        4
+      ],
+      "accent": [],
+      "serif": [],
+      "centre_y": 1500,
+      "size_scale": 0.94
+    },
+    "p36": {
+      "main": [
+        3
+      ],
+      "accent": [],
+      "serif": [],
+      "centre_y": 1500,
+      "size_scale": 0.94
+    },
+    "p37": {
+      "main": [],
+      "accent": [],
+      "serif": [],
+      "centre_y": 1500,
+      "size_scale": 0.94
+    },
+    "p38": {
+      "main": [],
+      "accent": [],
+      "serif": [],
+      "centre_y": 1500,
+      "size_scale": 0.94
+    },
+    "p39": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p40": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p41": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p42": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p43": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p44": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p45": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p46": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p47": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p48": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p49": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    }
+  },
+  "notes": [
+    "Two-person footage receives speaker crops independently from the adult podcast.",
+    "Keep the real family footage. No synthetic child, patient outcome, supplement dose or treatment demonstration.",
+    "Source supplement/tanning remarks differ from supplied scripts; retained as recorded speech for user review.",
+    "Source word alignment used to trim the initial 4.2s setup and preserve the child’s complete opening; silence between age question/answer shortened explicitly.",
+    "Restore full onsets of Good and और and tanning. Switch crop to actual speaking parent/child. Received sports and skincare attachment names are reversed; match content. Keep original family voices and no generated likeness.",
+    "Opening ends after the complete child tanning statement; omit the unclear optional plea rather than inventing its words. The doctor age question and13 answer remain.",
+    "Short source passes reveal the old silence cuts ate साथ and the ends of parent करो /child खेलता हूँ /Okay. Retain full27.233–76.233 continuously, restore parent76.9–81.1, child81.3–83.567, and complete ending through88.6. Do not translate Hindi speech into English captions."
+  ]
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "reel": "reel-05",
+    "id": "B01",
+    "clip": "MVI_9788",
+    "source_anchor": 14.2,
+    "seconds": 6,
+    "spoken_anchor": "gentle moisturizer, skin cleanser और basic sunscreen",
+    "prompt": "A clean tabletop with exactly one generic cleanser pump, one moisturizer jar and one sunscreen tube. Each object appears with a restrained soft lift and settles; camera moves from the trio to a simple travel-sized arrangement. Premium ivory and muted sage, no labels or other products.",
+    "layout": "full-frame",
+    "element": "minimal-skincare-trio",
+    "timeline_in": 13.0,
+    "timeline_out": 18.333333333333332,
+    "delivery_filename": "dhiraj_reel-05_B01.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.1,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: A clean tabletop with exactly one generic cleanser pump, one moisturizer jar and one sunscreen tube. Each object appears with a restrained soft lift and settles; camera moves from the trio to a simple travel-sized arrangement. Premium ivory and muted sage, no labels or other products.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-05_B01.mp4",
+    "sha256": "256dfd16c015382bf882402588074f85278c4d302d554a30ffc8a826d0832914",
+    "selected_ranges": [
+      {
+        "timeline_in": 13.0,
+        "timeline_out": 18.333333333333332,
+        "media_in": 0.1
+      }
+    ]
+  },
+  {
+    "reel": "reel-05",
+    "id": "B02",
+    "clip": "MVI_9788",
+    "source_anchor": 35.3,
+    "seconds": 6,
+    "spoken_anchor": "muscle memory, strong joints … flexibility",
+    "prompt": "Photoreal editorial close-ups of anonymous training shoes stepping onto an outdoor sports court, then a basketball bouncing once and rolling to rest. Golden natural light, realistic motion, no identifiable child, no gym promises or performance transformation.",
+    "layout": "full-frame",
+    "element": "sports-essentials",
+    "timeline_in": 31.2,
+    "timeline_out": 37.7,
+    "delivery_filename": "dhiraj_reel-05_B02.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.2,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: Photoreal editorial close-ups of anonymous training shoes stepping onto an outdoor sports court, then a basketball bouncing once and rolling to rest. Golden natural light, realistic motion, no identifiable child, no gym promises or performance transformation.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-05_B02.mp4",
+    "sha256": "461e8f0e95c914955475d31b309d7298be363954b5204160dc01905f97785ea4",
+    "selected_ranges": [
+      {
+        "timeline_in": 31.2,
+        "timeline_out": 37.7,
+        "media_in": 0.2
+      }
+    ]
+  }
+]

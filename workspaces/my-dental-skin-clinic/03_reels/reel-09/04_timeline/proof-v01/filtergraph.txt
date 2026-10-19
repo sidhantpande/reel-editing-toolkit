@@ -1,0 +1,10 @@
+[0:v]eq=contrast=1.025:brightness=0.003:saturation=1.02[base];
+[2:v]fps=30,scale=1080:1920,setsar=1,eq=contrast=1.025:brightness=0.003:saturation=1.02,format=rgba[b0];
+[b0]fade=t=in:st=0:d=0.23333333333333334:alpha=1,fade=t=out:st=3.033333333333333:d=0.23333333333333334:alpha=1,setpts=PTS-STARTPTS+0.4/TB[roll0];
+[base][roll0]overlay=0:0:enable=between(t\,0.4\,3.6666666666666665)[pass0];
+[pass0][4:v]overlay=0:0[shade];
+[3:v]crop=1460:468:162:230,scale=255:-1,format=rgba,split=2[logo][halo];
+[halo]lutrgb=r=255:g=255:b=255,gblur=sigma=1.3[whitehalo];
+[shade][whitehalo]overlay=65:65[under];
+[under][logo]overlay=65:65[brand];
+[brand][5:v]overlay=0:1100,fade=t=out:st=11.046666666666667:d=0.12,format=yuv420p[out]

@@ -1,0 +1,41 @@
+{
+  "provider": "FFmpeg n9.0 source/licence reference; runtime uses installed FFmpeg implementation",
+  "downloaded_files": [
+    {
+      "path": "assets/transitions/ffmpeg-n9.0/vf_xfade.c",
+      "url": "https://raw.githubusercontent.com/FFmpeg/FFmpeg/n9.0/libavfilter/vf_xfade.c",
+      "sha256": "efc4b9d81b6da2da8d18a97a88235f624858947b0958209899775f60a367d560"
+    },
+    {
+      "path": "assets/transitions/ffmpeg-n9.0/COPYING.LGPLv2.1",
+      "url": "https://raw.githubusercontent.com/FFmpeg/FFmpeg/n9.0/COPYING.LGPLv2.1",
+      "sha256": "246041b6ecf9bc32d718a62c57877c78b5eb397b6467e74ed7ae2626ab189c30"
+    }
+  ],
+  "presets": [
+    {
+      "id": "clinic-dialogue-dissolve",
+      "filter": "fade",
+      "frames": 6,
+      "usage": "same-topic retake joins, source handles; dialogue stays unoverlapped"
+    },
+    {
+      "id": "clinic-topic-smoothleft",
+      "filter": "smoothleft",
+      "frames": 8,
+      "usage": "B-roll/topic entry only; no head-to-head sliding faces"
+    },
+    {
+      "id": "clinic-podcast-speaker",
+      "filter": "cut",
+      "frames": 0,
+      "usage": "speaker turn, no overlapping/morphed faces"
+    },
+    {
+      "id": "clinic-soft-broll-return",
+      "filter": "fade",
+      "frames": 7,
+      "usage": "return from illustrative B-roll"
+    }
+  ]
+}

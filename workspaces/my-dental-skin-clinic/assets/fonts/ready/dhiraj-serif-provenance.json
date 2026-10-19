@@ -1,0 +1,8 @@
+{
+  "file": "assets/fonts/ready/ClinicSerif-BoldItalic.ttf",
+  "sha256": "33ad99409bccf1aded7e321c5d1024b908d89b1bb84e6d1394ea22c939946e49",
+  "source": "assets/fonts/cormorantgaramond/CormorantGaramond-Italic[wght].ttf",
+  "weight": 700,
+  "licence": "assets/fonts/cormorantgaramond/OFL.txt",
+  "tool": "fontTools static instancing; renamed Clinic Serif"
+}

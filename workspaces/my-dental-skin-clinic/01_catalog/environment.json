@@ -5,8 +5,8 @@
     "ClinicMontserrat-ExtraBold.ttf"
   ],
   "approved_style": "styles/clinic-approved.json",
-  "turbo_model_path": "/Users/sidhant/Desktop/Editing/atfro-niolearn-reel-studio/workspaces/my-dental-skin-clinic/.cache/models/models--dropbox-dash--faster-whisper-large-v3-turbo/snapshots/0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf",
-  "checked_utc": "2026-10-18T00:16:56.322027+00:00",
+  "turbo_model_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/.cache/models/models--dropbox-dash--faster-whisper-large-v3-turbo/snapshots/0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf",
+  "checked_utc": "2026-10-19T13:11:42.623739+00:00",
   "python": "3.11.14 (main, Oct  9 2025, 16:16:55) [Clang 17.0.0 (clang-1700.6.3.2)]",
   "ffmpeg": "ffmpeg version 9.0.2 Copyright (c) 2000-2026 the FFmpeg developers",
   "ffprobe": "ffprobe version 9.0.2 Copyright (c) 2007-2026 the FFmpeg developers",
@@ -18,6 +18,12 @@
     "fonttools": "4.63.0"
   },
   "required_filters": "available",
-  "model_path": "/Users/sidhant/Desktop/Editing/atfro-niolearn-reel-studio/workspaces/my-dental-skin-clinic/.cache/models/models--Systran--faster-whisper-small/snapshots/536b0662742c02347bc0e980a01041f333bce120",
-  "free_gib": 14.43
+  "model_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/.cache/models/models--Systran--faster-whisper-small/snapshots/536b0662742c02347bc0e980a01041f333bce120",
+  "free_gib": 9.24,
+  "subject_matte": {
+    "engine": "Apple Vision / accurate",
+    "xcrun": "/usr/bin/xcrun",
+    "source": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/tools/person_matte.swift",
+    "required_for": "behind-subject graphic slots"
+  }
 }

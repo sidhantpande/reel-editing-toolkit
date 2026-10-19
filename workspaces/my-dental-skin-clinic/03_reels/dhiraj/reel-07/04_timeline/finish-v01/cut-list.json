@@ -1,0 +1,114 @@
+{
+  "fps": 30,
+  "segments": [
+    {
+      "source_id": "clip-e1eceb3348724333",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9794.MP4",
+      "source_sha256": "e1eceb33487243337f8f187f42e60b9ea6a3361e378d29960e0b6be456997d86",
+      "source_duration": 69.502767,
+      "source_in": 1.7666666666666666,
+      "source_out": 25.433333333333334,
+      "timeline_in": 0.0,
+      "timeline_out": 23.666666666666668,
+      "crop_xywh": {
+        "x": 1480,
+        "y": 0,
+        "width": 1214,
+        "height": 2160
+      },
+      "role": "Clean opening and natural shedding explanation; end before personal numeric aside",
+      "speaker": "doctor",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-e1eceb3348724333",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9794.MP4",
+      "source_sha256": "e1eceb33487243337f8f187f42e60b9ea6a3361e378d29960e0b6be456997d86",
+      "source_duration": 69.502767,
+      "source_in": 50.233333333333334,
+      "source_out": 65.4,
+      "timeline_in": 23.666666666666668,
+      "timeline_out": 38.833333333333336,
+      "crop_xywh": {
+        "x": 1480,
+        "y": 0,
+        "width": 1214,
+        "height": 2160
+      },
+      "role": "Complete hair-breakage restart; remove failed first attempt and spoken cut instructions",
+      "speaker": "doctor",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-0df681e2a5446502",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9795.MP4",
+      "source_sha256": "0df681e2a5446502f5b60f9114bcdeee1892c8d02a891bdf001f6a350b594444",
+      "source_duration": 30.597233,
+      "source_in": 0.7666666666666667,
+      "source_out": 13.966666666666667,
+      "timeline_in": 38.833333333333336,
+      "timeline_out": 52.03333333333333,
+      "crop_xywh": {
+        "x": 1480,
+        "y": 0,
+        "width": 1214,
+        "height": 2160
+      },
+      "role": "Complete thinning symptoms and consult advice",
+      "speaker": "doctor",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-af873671acc95ef9",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9796.MP4",
+      "source_sha256": "af873671acc95ef9ebabe7dd1200a5e7dd68e47cce7f4dbedee3fbb2065eba8e",
+      "source_duration": 28.395033,
+      "source_in": 0.43333333333333335,
+      "source_out": 10.366666666666667,
+      "timeline_in": 52.03333333333333,
+      "timeline_out": 61.96666666666667,
+      "crop_xywh": {
+        "x": 1640,
+        "y": 0,
+        "width": 1214,
+        "height": 2160
+      },
+      "role": "Persistent signs and dermatologist advice",
+      "speaker": "doctor",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-af873671acc95ef9",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9796.MP4",
+      "source_sha256": "af873671acc95ef9ebabe7dd1200a5e7dd68e47cce7f4dbedee3fbb2065eba8e",
+      "source_duration": 28.395033,
+      "source_in": 20.333333333333332,
+      "source_out": 27.733333333333334,
+      "timeline_in": 61.96666666666667,
+      "timeline_out": 69.36666666666666,
+      "crop_xywh": {
+        "x": 1640,
+        "y": 0,
+        "width": 1214,
+        "height": 2160
+      },
+      "role": "Complete analysis/treatment closing; remove production sentence comment",
+      "speaker": "doctor",
+      "join": "cut"
+    }
+  ],
+  "cue_exclusions": [
+    {
+      "source": "clip-e1eceb3348724333",
+      "in": 25.433333333333334,
+      "out": 50.233333333333334,
+      "reason": "Source-aware pause/retake exclusion; preserve clean pickup and full words"
+    },
+    {
+      "source": "clip-af873671acc95ef9",
+      "in": 10.366666666666667,
+      "out": 20.333333333333332,
+      "reason": "Source-aware pause/retake exclusion; preserve clean pickup and full words"
+    }
+  ]
+}

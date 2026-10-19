@@ -1,0 +1,276 @@
+{
+  "title": "Teen tanning — the doctor's personal parenting story",
+  "caption_scenes": {
+    "p01": {
+      "main": [
+        0
+      ],
+      "accent": [],
+      "serif": [],
+      "hero": true,
+      "centre_y": 1540
+    },
+    "p02": {
+      "main": [
+        2
+      ],
+      "accent": [],
+      "serif": [],
+      "hero": true,
+      "centre_y": 1540
+    },
+    "p03": {
+      "main": [],
+      "accent": [],
+      "serif": [],
+      "centre_y": 1540
+    },
+    "p04": {
+      "main": [
+        3
+      ],
+      "accent": [],
+      "serif": [],
+      "centre_y": 1540
+    },
+    "p05": {
+      "main": [],
+      "accent": [],
+      "serif": [],
+      "centre_y": 1540
+    },
+    "p06": {
+      "main": [
+        0
+      ],
+      "accent": [],
+      "serif": [],
+      "hero": true,
+      "centre_y": 1540
+    },
+    "p07": {
+      "main": [
+        1
+      ],
+      "accent": [],
+      "serif": [
+        1
+      ],
+      "centre_y": 1540
+    },
+    "p08": {
+      "main": [],
+      "accent": [],
+      "serif": [],
+      "centre_y": 1540
+    },
+    "p09": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p10": {
+      "main": [
+        0
+      ],
+      "accent": [
+        0
+      ],
+      "serif": []
+    },
+    "p11": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p12": {
+      "main": [
+        0,
+        1,
+        2
+      ],
+      "accent": [
+        1,
+        2
+      ],
+      "serif": [
+        2
+      ],
+      "hero": true
+    },
+    "p13": {
+      "main": [
+        0
+      ],
+      "accent": [
+        0
+      ],
+      "serif": []
+    },
+    "p14": {
+      "main": [
+        0,
+        1
+      ],
+      "accent": [
+        0,
+        1
+      ],
+      "serif": [
+        1
+      ]
+    },
+    "p15": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p16": {
+      "main": [
+        0
+      ],
+      "accent": [
+        0
+      ],
+      "serif": []
+    },
+    "p17": {
+      "main": [
+        2
+      ],
+      "accent": [
+        2
+      ],
+      "serif": []
+    },
+    "p18": {
+      "main": [
+        3,
+        4
+      ],
+      "accent": [],
+      "serif": [
+        4
+      ],
+      "centre_y": 1560,
+      "size_scale": 0.9
+    },
+    "p19": {
+      "main": [
+        0,
+        1
+      ],
+      "accent": [],
+      "serif": [
+        1
+      ],
+      "hero": true,
+      "centre_y": 1560,
+      "size_scale": 0.9
+    },
+    "p20": {
+      "main": [
+        2
+      ],
+      "accent": [],
+      "serif": [
+        2
+      ],
+      "hero": true,
+      "centre_y": 1560,
+      "size_scale": 0.9
+    },
+    "p21": {
+      "main": [
+        0,
+        1
+      ],
+      "accent": [],
+      "serif": [
+        1
+      ],
+      "hero": true,
+      "centre_y": 1560,
+      "size_scale": 0.9
+    },
+    "p22": {
+      "main": [
+        3
+      ],
+      "accent": [
+        3
+      ],
+      "serif": [
+        3
+      ]
+    },
+    "p23": {
+      "main": [
+        0
+      ],
+      "accent": [
+        0
+      ],
+      "serif": []
+    },
+    "p24": {
+      "main": [
+        0
+      ],
+      "accent": [
+        0
+      ],
+      "serif": []
+    },
+    "p25": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p26": {
+      "main": [
+        0
+      ],
+      "accent": [
+        0
+      ],
+      "serif": [],
+      "hero": true
+    },
+    "p27": {
+      "main": [
+        0,
+        1
+      ],
+      "accent": [
+        0,
+        1
+      ],
+      "serif": [],
+      "hero": true
+    }
+  },
+  "notes": [
+    "Separate standalone story from the longer teen explainer; no supplied script matches this take verbatim.",
+    "The story is spoken by the doctor; no generated likeness of his child is needed.",
+    "Tighten the opening by removing the optional unclear name/filler after बड़ा बेटा (3.733–4.233s), without guessing a family name in captions. B-roll covers this source join.",
+    "Omit the repeated verbal comparison/list at29.200–32.333s; keep muscle power है followed by तो sports acumen comes first, ना कि skincare acumen. The final tanning/development qualification remains.",
+    "Retain the existing source-clock tracked crop to preserve head/face through the large sideways movement.",
+    "B01 continues through the son quote and exits in the following caption pause, preserving readable ink text through the complete dermatologist/जाऊँगा group and restoring the doctor for मैं बोलता हूँ. Same original voice/cuts; no other style change.",
+    "User correction: remove source38.566667–39.800000, retaining लेकिन and later clean joint. Re-time joint/और to actual pickup. B-roll/style/music/crops unchanged."
+  ],
+  "user_corrections": [
+    {
+      "request": "User identifies unwanted first attempt around delivered32–33s; keep later clean joint",
+      "source_id": "clip-a7b697879d3419b1",
+      "source_in": 38.56666666666667,
+      "source_out": 39.8,
+      "previous_timeline_in": 32.400000000000006,
+      "previous_timeline_out": 33.63333333333333,
+      "removed_frames": 37,
+      "removed_seconds": 1.2333333333333334,
+      "evidence": "User correction, independent isolated ASR, chronological mouth/gesture contact and 50ms RMS: first attempt39.0–39.65; clean onset39.85",
+      "human_listening_attested": false
+    }
+  ]
+}

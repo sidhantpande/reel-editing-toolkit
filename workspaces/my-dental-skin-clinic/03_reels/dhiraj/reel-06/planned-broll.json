@@ -1,0 +1,54 @@
+[
+  {
+    "reel": "reel-06",
+    "id": "B01",
+    "clip": "MVI_9789",
+    "source_anchor": 2.0,
+    "seconds": 5.8,
+    "spoken_anchor": "मेरा बड़ा बेटा … skin tanning",
+    "prompt": "Anonymous teen-sized sports shoes, school backpack and basketball beside an open doorway in warm daylight; a hand picks up the ball to go outside. No face, no skin close-up or change of skin tone, no identifiable recreation of the doctor's family.",
+    "layout": "full-frame",
+    "element": "sports-essentials",
+    "timeline_in": 0.3,
+    "timeline_out": 7.4,
+    "delivery_filename": "dhiraj_reel-06_B01.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.8,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: Anonymous teen-sized sports shoes, school backpack and basketball beside an open doorway in warm daylight; a hand picks up the ball to go outside. No face, no skin close-up or change of skin tone, no identifiable recreation of the doctor's family.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-06_B01.mp4",
+    "sha256": "ae403f89b17890a48e1c2f7c9e3dedd513ee093ea5719c57dcef840114108170",
+    "selected_ranges": [
+      {
+        "timeline_in": 0.3,
+        "timeline_out": 7.4,
+        "media_in": 0.8
+      }
+    ]
+  },
+  {
+    "reel": "reel-06",
+    "id": "B02",
+    "clip": "MVI_9789",
+    "source_anchor": 27.5,
+    "seconds": 5.5,
+    "spoken_anchor": "muscle memory … sports acumen comes first",
+    "prompt": "Premium sports-prop still life: basketball, white training shoe and small neutral dumbbell. A controlled camera arc moves from shoe to basketball, then the ball makes one small natural turn. Bright clean daylight, ivory/sage accents, no human physique or result claim.",
+    "layout": "full-frame",
+    "element": "sports-essentials",
+    "timeline_in": 23.8,
+    "timeline_out": 28.333333333333332,
+    "delivery_filename": "dhiraj_reel-06_B02.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.4,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: Premium sports-prop still life: basketball, white training shoe and small neutral dumbbell. A controlled camera arc moves from shoe to basketball, then the ball makes one small natural turn. Bright clean daylight, ivory/sage accents, no human physique or result claim.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-06_B02.mp4",
+    "sha256": "b331d6394339e0ac4b95a4f729dfef31679bb18b9e246da0ac55e666ee97311b",
+    "selected_ranges": [
+      {
+        "timeline_in": 23.8,
+        "timeline_out": 28.333333333333332,
+        "media_in": 0.4
+      }
+    ]
+  }
+]

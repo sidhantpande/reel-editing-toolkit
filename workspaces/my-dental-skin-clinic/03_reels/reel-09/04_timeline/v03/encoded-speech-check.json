@@ -1,0 +1,23 @@
+[
+  {
+    "name": "question",
+    "timeline_in": 7.13,
+    "timeline_out": 13.4,
+    "asr_text": "पिछले नौ दिन में हमने एक सिंपल सवाल पूछा, एक ही दाथ से क्या फर्रब पड़ता है?",
+    "check_type": "Encoded-audio ASR retention sanity check, not human listening"
+  },
+  {
+    "name": "comparison",
+    "timeline_in": 17.53,
+    "timeline_out": 24.6,
+    "asr_text": "और जब problem छोटी है तो उसका solution भी छोटा होता है, problem बड़ी है तो उसका solution भी बड़ा होता है",
+    "check_type": "Encoded-audio ASR retention sanity check, not human listening"
+  },
+  {
+    "name": "goodbye",
+    "timeline_in": 38.0,
+    "timeline_out": 41.8,
+    "asr_text": "Take care of your teeth. Bye-bye. Thank you so much.",
+    "check_type": "Encoded-audio ASR retention sanity check, not human listening"
+  }
+]

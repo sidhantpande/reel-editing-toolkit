@@ -1,0 +1,133 @@
+{
+  "fps": 30,
+  "segments": [
+    {
+      "source_id": "clip-02bd5307634d6ddd",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9785.MP4",
+      "source_sha256": "02bd5307634d6ddd3bfd899366a6f0468d88a16632db7fba3cbb926a85af3370",
+      "source_duration": 36.2362,
+      "source_in": 1.4333333333333333,
+      "source_out": 11.533333333333333,
+      "timeline_in": 0.0,
+      "timeline_out": 10.1,
+      "crop_xywh": {
+        "x": 1290,
+        "y": 352,
+        "width": 1008,
+        "height": 1792
+      },
+      "role": "Sibling serum story and different skin types",
+      "speaker": "doctor",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-02bd5307634d6ddd",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9785.MP4",
+      "source_sha256": "02bd5307634d6ddd3bfd899366a6f0468d88a16632db7fba3cbb926a85af3370",
+      "source_duration": 36.2362,
+      "source_in": 12.6,
+      "source_out": 16.433333333333334,
+      "timeline_in": 10.1,
+      "timeline_out": 13.933333333333334,
+      "crop_xywh": {
+        "x": 1290,
+        "y": 352,
+        "width": 1008,
+        "height": 1792
+      },
+      "role": "Sibling serum story and different skin types",
+      "speaker": "doctor",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-02bd5307634d6ddd",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9785.MP4",
+      "source_sha256": "02bd5307634d6ddd3bfd899366a6f0468d88a16632db7fba3cbb926a85af3370",
+      "source_duration": 36.2362,
+      "source_in": 17.366666666666667,
+      "source_out": 20.733333333333334,
+      "timeline_in": 13.933333333333334,
+      "timeline_out": 17.3,
+      "crop_xywh": {
+        "x": 1290,
+        "y": 352,
+        "width": 1008,
+        "height": 1792
+      },
+      "role": "Sibling serum story and different skin types",
+      "speaker": "doctor",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-02bd5307634d6ddd",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9785.MP4",
+      "source_sha256": "02bd5307634d6ddd3bfd899366a6f0468d88a16632db7fba3cbb926a85af3370",
+      "source_duration": 36.2362,
+      "source_in": 23.133333333333333,
+      "source_out": 26.133333333333333,
+      "timeline_in": 17.3,
+      "timeline_out": 20.3,
+      "crop_xywh": {
+        "x": 1290,
+        "y": 352,
+        "width": 1008,
+        "height": 1792
+      },
+      "role": "Sibling serum story and different skin types",
+      "speaker": "doctor",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-02bd5307634d6ddd",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9785.MP4",
+      "source_sha256": "02bd5307634d6ddd3bfd899366a6f0468d88a16632db7fba3cbb926a85af3370",
+      "source_duration": 36.2362,
+      "source_in": 28.2,
+      "source_out": 34.03333333333333,
+      "timeline_in": 20.3,
+      "timeline_out": 26.133333333333333,
+      "crop_xywh": {
+        "x": 1290,
+        "y": 352,
+        "width": 1008,
+        "height": 1792
+      },
+      "role": "Sibling serum story and different skin types",
+      "speaker": "doctor",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-153327b74db0c748",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9786.MP4",
+      "source_sha256": "153327b74db0c7489fb7377f2068b04ee6776303fba4a04fcf857adb3f7bf82e",
+      "source_duration": 16.349667,
+      "source_in": 0.4666666666666667,
+      "source_out": 15.5,
+      "timeline_in": 26.133333333333333,
+      "timeline_out": 41.166666666666664,
+      "crop_xywh": {
+        "x": 1176,
+        "y": 160,
+        "width": 1124,
+        "height": 2000
+      },
+      "role": "Complete closing: share sweets, not skincare",
+      "speaker": "doctor",
+      "join": "cut"
+    }
+  ],
+  "omitted_source_ranges": [
+    {
+      "source": "clip-02bd5307634d6ddd",
+      "in": 20.7333333333,
+      "out": 23.1333333333,
+      "reason": "Parallel family aside removed for pace, not a recording cue"
+    },
+    {
+      "source": "clip-02bd5307634d6ddd",
+      "in": 26.1333333333,
+      "out": 28.2,
+      "reason": "Parallel family aside removed for pace; uncertain family word is not guessed in captions"
+    }
+  ]
+}

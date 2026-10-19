@@ -1,0 +1,528 @@
+{
+  "title": "Teen skincare basics and physical development",
+  "caption_scenes": {
+    "p01": {
+      "main": [
+        0
+      ],
+      "accent": [
+        0
+      ],
+      "serif": []
+    },
+    "p02": {
+      "main": [
+        0
+      ],
+      "accent": [
+        0
+      ],
+      "serif": []
+    },
+    "p03": {
+      "main": [
+        1,
+        2
+      ],
+      "accent": [
+        1,
+        2
+      ],
+      "serif": []
+    },
+    "p04": {
+      "main": [
+        1
+      ],
+      "accent": [
+        1
+      ],
+      "serif": []
+    },
+    "p05": {
+      "main": [
+        2
+      ],
+      "accent": [
+        2
+      ],
+      "serif": [],
+      "hero": true
+    },
+    "p06": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p07": {
+      "main": [
+        2
+      ],
+      "accent": [
+        2
+      ],
+      "serif": []
+    },
+    "p08": {
+      "main": [
+        0
+      ],
+      "accent": [
+        0
+      ],
+      "serif": []
+    },
+    "p09": {
+      "main": [
+        1
+      ],
+      "accent": [
+        1
+      ],
+      "serif": []
+    },
+    "p10": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p11": {
+      "main": [],
+      "accent": [],
+      "serif": [],
+      "centre_y": 1460
+    },
+    "p12": {
+      "main": [
+        0,
+        1
+      ],
+      "accent": [],
+      "serif": [
+        0,
+        1
+      ],
+      "hero": true,
+      "centre_y": 1460
+    },
+    "p13": {
+      "main": [
+        1
+      ],
+      "accent": [],
+      "serif": [
+        1
+      ],
+      "hero": true,
+      "centre_y": 1460
+    },
+    "p14": {
+      "main": [
+        3
+      ],
+      "accent": [],
+      "serif": [
+        3
+      ],
+      "centre_y": 1460
+    },
+    "p15": {
+      "main": [
+        2
+      ],
+      "accent": [],
+      "serif": [
+        2
+      ],
+      "centre_y": 1460
+    },
+    "p16": {
+      "main": [
+        1
+      ],
+      "accent": [
+        1
+      ],
+      "serif": [
+        1
+      ],
+      "hero": true
+    },
+    "p17": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p18": {
+      "main": [
+        2
+      ],
+      "accent": [
+        2
+      ],
+      "serif": []
+    },
+    "p19": {
+      "main": [
+        2
+      ],
+      "accent": [
+        2
+      ],
+      "serif": []
+    },
+    "p20": {
+      "main": [
+        0
+      ],
+      "accent": [
+        0
+      ],
+      "serif": [],
+      "hero": true
+    },
+    "p21": {
+      "main": [
+        3
+      ],
+      "accent": [
+        3
+      ],
+      "serif": []
+    },
+    "p22": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p23": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p24": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p25": {
+      "main": [
+        1,
+        2
+      ],
+      "accent": [],
+      "serif": [
+        2
+      ],
+      "hero": true,
+      "centre_y": 1560,
+      "size_scale": 0.9
+    },
+    "p26": {
+      "main": [
+        0,
+        1
+      ],
+      "accent": [],
+      "serif": [],
+      "hero": true,
+      "centre_y": 1560,
+      "size_scale": 0.9
+    },
+    "p27": {
+      "main": [
+        1
+      ],
+      "accent": [],
+      "serif": [
+        1
+      ],
+      "hero": true,
+      "centre_y": 1560,
+      "size_scale": 0.9
+    },
+    "p28": {
+      "main": [
+        0,
+        1
+      ],
+      "accent": [],
+      "serif": [
+        1
+      ],
+      "hero": true,
+      "centre_y": 1560,
+      "size_scale": 0.9
+    },
+    "p29": {
+      "main": [
+        3
+      ],
+      "accent": [],
+      "serif": [],
+      "centre_y": 1560,
+      "size_scale": 0.9
+    },
+    "p30": {
+      "main": [
+        2,
+        3
+      ],
+      "accent": [
+        2,
+        3
+      ],
+      "serif": [
+        3
+      ]
+    },
+    "p31": {
+      "main": [
+        1
+      ],
+      "accent": [
+        1
+      ],
+      "serif": [
+        1
+      ],
+      "hero": true
+    },
+    "p32": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p33": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p34": {
+      "main": [
+        0
+      ],
+      "accent": [
+        0
+      ],
+      "serif": []
+    },
+    "p35": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p36": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p37": {
+      "main": [
+        0
+      ],
+      "accent": [
+        0
+      ],
+      "serif": []
+    },
+    "p38": {
+      "main": [
+        0
+      ],
+      "accent": [
+        0
+      ],
+      "serif": [],
+      "hero": true
+    },
+    "p39": {
+      "main": [
+        1
+      ],
+      "accent": [
+        1
+      ],
+      "serif": []
+    },
+    "p40": {
+      "main": [
+        2
+      ],
+      "accent": [
+        2
+      ],
+      "serif": []
+    },
+    "p41": {
+      "main": [
+        0
+      ],
+      "accent": [
+        0
+      ],
+      "serif": [
+        0
+      ]
+    },
+    "p42": {
+      "main": [
+        1,
+        2,
+        3
+      ],
+      "accent": [
+        2,
+        3
+      ],
+      "serif": []
+    },
+    "p43": {
+      "main": [
+        0,
+        1
+      ],
+      "accent": [
+        0,
+        1
+      ],
+      "serif": [],
+      "hero": true
+    },
+    "p44": {
+      "main": [
+        2
+      ],
+      "accent": [
+        2
+      ],
+      "serif": []
+    },
+    "p45": {
+      "main": [
+        1
+      ],
+      "accent": [
+        1
+      ],
+      "serif": []
+    },
+    "p46": {
+      "main": [
+        1
+      ],
+      "accent": [
+        1
+      ],
+      "serif": [],
+      "hero": true
+    },
+    "p47": {
+      "main": [
+        2
+      ],
+      "accent": [
+        2
+      ],
+      "serif": [
+        2
+      ],
+      "hero": true
+    },
+    "p48": {
+      "main": [
+        1
+      ],
+      "accent": [
+        1
+      ],
+      "serif": []
+    },
+    "p49": {
+      "main": [
+        0
+      ],
+      "accent": [
+        0
+      ],
+      "serif": [],
+      "hero": true
+    },
+    "p50": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p51": {
+      "main": [
+        0,
+        2,
+        3
+      ],
+      "accent": [
+        2,
+        3
+      ],
+      "serif": [
+        3
+      ]
+    },
+    "p52": {
+      "main": [
+        2
+      ],
+      "accent": [
+        2
+      ],
+      "serif": []
+    },
+    "p53": {
+      "main": [
+        1,
+        2
+      ],
+      "accent": [
+        1,
+        2
+      ],
+      "serif": [
+        2
+      ],
+      "hero": true
+    }
+  },
+  "broll_slots": [
+    {
+      "id": "B01",
+      "request_id": "B01",
+      "path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-05_B01.mp4",
+      "sha256": "256dfd16c015382bf882402588074f85278c4d302d554a30ffc8a826d0832914",
+      "timeline_in": 13.0,
+      "timeline_out": 18.333333333333332,
+      "media_in": 0.1,
+      "transition": "dissolve",
+      "visual_reviewed": true,
+      "layout": "portrait",
+      "audio": "discard"
+    },
+    {
+      "id": "B02",
+      "request_id": "B02",
+      "path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-05_B02.mp4",
+      "sha256": "461e8f0e95c914955475d31b309d7298be363954b5204160dc01905f97785ea4",
+      "timeline_in": 31.2,
+      "timeline_out": 37.7,
+      "media_in": 0.2,
+      "transition": "soft-wipe",
+      "visual_reviewed": true,
+      "layout": "portrait",
+      "audio": "discard"
+    }
+  ],
+  "notes": [
+    "Reject incomplete alternative hook 9787. Keep 9790 as alternate concise closing.",
+    "Recorded sunscreen/serum statements differ from supplied script; retained as original speech for review. No efficacy claims are added to graphics.",
+    "Restore onset context before Usually and tanning; isolated pass places बिल्कुल at6.54s rather than the long-ASR stretch across the first silence splice. Preserve original spoken sunscreen/serum statements; no extra efficacy graphics.",
+    "Use a seven-frame full-picture dissolve for the skincare insert so paper ink keeps readable contrast through the final enough phrase; selected three-product source range and dialogue remain unchanged."
+  ]
+}

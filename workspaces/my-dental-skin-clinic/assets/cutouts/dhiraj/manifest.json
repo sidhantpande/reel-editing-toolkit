@@ -1,0 +1,241 @@
+[
+  {
+    "id": "minimal-skincare-trio",
+    "path": "assets/cutouts/dhiraj/minimal-skincare-trio-v01.png",
+    "original": "/Users/sidhant/.codex/generated_images/01a15421-3dad-7bd1-a6fa-9383e481cab7/exec-1ef39f30-a2d2-4347-ae2e-36e97eb983c8.png",
+    "sha256": "0c3c97a9887b1197a301f34dfb2096603e14e5bd81d11e79eab46d1859cf0343",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "size": [
+      1374,
+      1145
+    ],
+    "generator": "built-in imagegen",
+    "visual_reviewed": true,
+    "review": "Complete object, transparent edges and no labels inspected; generic illustration, no patient/diagnostic evidence."
+  },
+  {
+    "id": "festival-diya-skincare",
+    "path": "assets/cutouts/dhiraj/festival-diya-skincare-v01.png",
+    "original": "/Users/sidhant/.codex/generated_images/01a15421-3dad-7bd1-a6fa-9383e481cab7/exec-1c967da0-6135-4bd8-9d16-9958246283a2.png",
+    "sha256": "fc9e8c0f6fdd4ab1d467ddeea41be6b83200a5113271d187f06bb8148bb49bd1",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "size": [
+      1378,
+      1142
+    ],
+    "generator": "built-in imagegen",
+    "visual_reviewed": true,
+    "review": "Complete object, transparent edges and no labels inspected; generic illustration, no patient/diagnostic evidence."
+  },
+  {
+    "id": "home-remedy-lemon",
+    "path": "assets/cutouts/dhiraj/home-remedy-lemon-v01.png",
+    "original": "/Users/sidhant/.codex/generated_images/01a15421-3dad-7bd1-a6fa-9383e481cab7/exec-73bac6e6-0e29-40b6-8fc7-0d15ebd20f2a.png",
+    "sha256": "dd409bb3a83f77cbd47c949576d767deb2bee2be9002738d3fa9cb34b7ab773e",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "size": [
+      1536,
+      1024
+    ],
+    "generator": "built-in imagegen",
+    "visual_reviewed": true,
+    "review": "Complete object, transparent edges and no labels inspected; generic illustration, no patient/diagnostic evidence."
+  },
+  {
+    "id": "hair-strand-comparison",
+    "path": "assets/cutouts/dhiraj/hair-strand-comparison-v01.png",
+    "original": "/Users/sidhant/.codex/generated_images/01a15421-3dad-7bd1-a6fa-9383e481cab7/exec-1771fb05-6e0f-4b20-9e07-9d4ad0610248.png",
+    "sha256": "08677083d96e0e9c9ea1ae50cb51d32682ed8ee5613627f5b7269317c6ba8c27",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "size": [
+      1536,
+      1024
+    ],
+    "generator": "built-in imagegen",
+    "visual_reviewed": true,
+    "review": "Complete object, transparent edges and no labels inspected; generic illustration, no patient/diagnostic evidence."
+  },
+  {
+    "id": "travel-skincare-pouch",
+    "path": "assets/cutouts/dhiraj/travel-skincare-pouch-v01.png",
+    "original": "/Users/sidhant/.codex/generated_images/01a15421-3dad-7bd1-a6fa-9383e481cab7/exec-6968c00a-2d18-4f5b-bb2a-2e649bea64a6.png",
+    "sha256": "75d8386229210acdb1fef21e306fd2618d03a10517c9be0059e074ebbffd5170",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "size": [
+      1374,
+      1145
+    ],
+    "generator": "built-in imagegen",
+    "visual_reviewed": true,
+    "review": "Complete object, transparent edges and no labels inspected; generic illustration, no patient/diagnostic evidence."
+  },
+  {
+    "id": "social-phone",
+    "path": "assets/cutouts/dhiraj/social-phone-v01.png",
+    "original": "/Users/sidhant/.codex/generated_images/01a15421-3dad-7bd1-a6fa-9383e481cab7/exec-6bb301d4-68d3-4849-a971-a7a981c02159.png",
+    "sha256": "456038f982883e4370eb97e045d1aee132351b0920a15d263b15baac36cf55fd",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "size": [
+      1024,
+      1536
+    ],
+    "generator": "built-in imagegen",
+    "visual_reviewed": true,
+    "review": "Complete object, transparent edges and no labels inspected; generic illustration, no patient/diagnostic evidence."
+  },
+  {
+    "id": "trust-stethoscope",
+    "path": "assets/cutouts/dhiraj/trust-stethoscope-v01.png",
+    "original": "/Users/sidhant/.codex/generated_images/01a15421-3dad-7bd1-a6fa-9383e481cab7/exec-7cfde01f-4e0f-4c33-a09b-eb09d999d5a8.png",
+    "sha256": "1d7f693d4a0c3ddd103c61933f6ffdfef3a4f9440558162156db0ca46880d939",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "size": [
+      1536,
+      1024
+    ],
+    "generator": "built-in imagegen",
+    "visual_reviewed": true,
+    "review": "Complete object, transparent edges and no labels inspected; generic illustration, no patient/diagnostic evidence."
+  },
+  {
+    "id": "sports-essentials",
+    "path": "assets/cutouts/dhiraj/sports-essentials-v01.png",
+    "original": "/Users/sidhant/.codex/generated_images/01a15421-3dad-7bd1-a6fa-9383e481cab7/exec-ec1bcd8a-e800-4b9d-9512-39647b8d5c20.png",
+    "sha256": "b5e812c9681385c7384ee06adda62f88a2466c8e951d29835908b7e9810a9759",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "size": [
+      1536,
+      1024
+    ],
+    "generator": "built-in imagegen",
+    "visual_reviewed": true,
+    "review": "Complete object, transparent edges and no labels inspected; generic illustration, no patient/diagnostic evidence."
+  },
+  {
+    "id": "native-shopping-questions",
+    "path": "assets/cutouts/dhiraj/native-shopping-questions-v01.png",
+    "sha256": "3bb1d7005a3af280996cdd22fda2065245c12a8146302ac6f4e3c2cba7d0efd8",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "size": [
+      1000,
+      840
+    ],
+    "generator": "Original Pillow native typography using bundled OFL fonts",
+    "text": [
+      "ज़रूरत है?",
+      "पहले से है?",
+      "Suit करेगा?"
+    ],
+    "visual_reviewed": true,
+    "builder": "tools/build_dhiraj_elements.py"
+  },
+  {
+    "id": "native-skin-types",
+    "path": "assets/cutouts/dhiraj/native-skin-types-v01.png",
+    "sha256": "880d16c2fc5adcc39532bd2ec98f84dd39174cd2a49372efb9174c721fddb134",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "size": [
+      1000,
+      840
+    ],
+    "generator": "Original Pillow native typography using bundled OFL fonts",
+    "text": [
+      "OILY",
+      "DRY",
+      "SENSITIVE"
+    ],
+    "visual_reviewed": true,
+    "builder": "tools/build_dhiraj_elements.py"
+  },
+  {
+    "id": "native-hair-terms",
+    "path": "assets/cutouts/dhiraj/native-hair-terms-v01.png",
+    "sha256": "2fa6230e78a79042ee14117e9906ec79d8548fb4aac5210acf01341a0449577d",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "size": [
+      1000,
+      840
+    ],
+    "generator": "Original Pillow native typography using bundled OFL fonts",
+    "text": [
+      "HAIR FALL",
+      "BREAKAGE",
+      "THINNING"
+    ],
+    "visual_reviewed": true,
+    "builder": "tools/build_dhiraj_elements.py"
+  },
+  {
+    "id": "native-trust-knowledge",
+    "path": "assets/cutouts/dhiraj/native-trust-knowledge-v01.png",
+    "sha256": "1b39f2f1fc204445992771fde76b7526436e0a20d4b058f7cdc450993245fc30",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "size": [
+      1000,
+      840
+    ],
+    "generator": "Original Pillow native typography using bundled OFL fonts",
+    "text": [
+      "TRUST",
+      "TECHNICAL KNOWLEDGE"
+    ],
+    "visual_reviewed": true,
+    "builder": "tools/build_dhiraj_elements.py"
+  },
+  {
+    "id": "native-price-pair",
+    "path": "assets/cutouts/dhiraj/native-price-pair-v01.png",
+    "sha256": "2a18b8454a07ad0a93ba3e8f6357c0360ab5d5ccafb92df79b5a19d7e06d0764",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "size": [
+      1000,
+      840
+    ],
+    "generator": "Original Pillow native typography using bundled OFL fonts",
+    "text": [
+      "₹1,700",
+      "₹1,000"
+    ],
+    "visual_reviewed": true,
+    "builder": "tools/build_dhiraj_elements.py"
+  }
+]

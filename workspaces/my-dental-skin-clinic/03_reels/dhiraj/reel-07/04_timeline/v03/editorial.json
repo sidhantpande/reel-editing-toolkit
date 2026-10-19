@@ -1,0 +1,328 @@
+{
+  "title": "Hair fall, breakage and thinning",
+  "caption_scenes": {
+    "p01": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p02": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p03": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p04": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p05": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p06": {
+      "main": [
+        2,
+        3
+      ],
+      "accent": [],
+      "serif": []
+    },
+    "p07": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p08": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p09": {
+      "main": [
+        1
+      ],
+      "accent": [
+        1
+      ],
+      "serif": []
+    },
+    "p10": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p11": {
+      "main": [
+        0,
+        1
+      ],
+      "accent": [],
+      "serif": [],
+      "hero": true,
+      "centre_y": 1500,
+      "size_scale": 0.94
+    },
+    "p12": {
+      "main": [
+        0,
+        1
+      ],
+      "accent": [],
+      "serif": [],
+      "hero": true,
+      "centre_y": 1500,
+      "size_scale": 0.94
+    },
+    "p13": {
+      "main": [
+        1,
+        2
+      ],
+      "accent": [],
+      "serif": [],
+      "hero": true,
+      "centre_y": 1500,
+      "size_scale": 0.94
+    },
+    "p14": {
+      "main": [],
+      "accent": [],
+      "serif": [],
+      "centre_y": 1500,
+      "size_scale": 0.94
+    },
+    "p15": {
+      "main": [
+        0,
+        1
+      ],
+      "accent": [
+        0,
+        1
+      ],
+      "serif": []
+    },
+    "p16": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p17": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p18": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p19": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p20": {
+      "main": [
+        4
+      ],
+      "accent": [
+        4
+      ],
+      "serif": []
+    },
+    "p21": {
+      "main": [
+        0,
+        1
+      ],
+      "accent": [
+        0,
+        1
+      ],
+      "serif": []
+    },
+    "p22": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p23": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p24": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p25": {
+      "main": [],
+      "accent": [],
+      "serif": [],
+      "centre_y": 1500,
+      "size_scale": 0.94
+    },
+    "p26": {
+      "main": [],
+      "accent": [],
+      "serif": [],
+      "centre_y": 1500,
+      "size_scale": 0.94
+    },
+    "p27": {
+      "main": [],
+      "accent": [],
+      "serif": [],
+      "centre_y": 1500,
+      "size_scale": 0.94
+    },
+    "p28": {
+      "main": [],
+      "accent": [],
+      "serif": [],
+      "centre_y": 1500,
+      "size_scale": 0.94
+    },
+    "p29": {
+      "main": [],
+      "accent": [],
+      "serif": [],
+      "centre_y": 1500,
+      "size_scale": 0.94
+    },
+    "p30": {
+      "main": [],
+      "accent": [],
+      "serif": [],
+      "centre_y": 1500,
+      "size_scale": 0.94
+    },
+    "p31": {
+      "main": [],
+      "accent": [],
+      "serif": [],
+      "centre_y": 1500,
+      "size_scale": 0.94
+    },
+    "p32": {
+      "main": [
+        0,
+        1
+      ],
+      "accent": [
+        0,
+        1
+      ],
+      "serif": []
+    },
+    "p33": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p34": {
+      "main": [
+        1
+      ],
+      "accent": [],
+      "serif": []
+    },
+    "p35": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p36": {
+      "main": [
+        1,
+        2
+      ],
+      "accent": [
+        1,
+        2
+      ],
+      "serif": []
+    },
+    "p37": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p38": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p39": {
+      "main": [
+        3,
+        4
+      ],
+      "accent": [
+        3,
+        4
+      ],
+      "serif": []
+    },
+    "p40": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p41": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p42": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p43": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p44": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p45": {
+      "main": [
+        1
+      ],
+      "accent": [
+        1
+      ],
+      "serif": []
+    },
+    "p46": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p47": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    }
+  },
+  "notes": [
+    "9791/9792 are aborted setup; 9793 is an optional interviewer intro with subsequent setup and no frontal interviewer view, retained as alternate.",
+    "Exclude 9794 25.6–48.33s: personal numeric aside, repeated definition and recording instructions.",
+    "Exclude 9795 speculative diagnosis list after 13.97s for a concise coherent explainer; original file retained.",
+    "A short independent ASR pass located the clean breakage restart. No made-up diagnostic labels are burned in.",
+    "New independent short passes reveal the old source48.333 start retained failed बालों को बीच की; use complete clean Hair breakage restart at50.233. Remove opening और सही treatment false lead-in in9796; retain खुद से treatment करने से पहले and complete board-certified qualification. Omit numeric shedding aside as in prior selected edit."
+  ]
+}

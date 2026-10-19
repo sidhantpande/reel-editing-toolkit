@@ -1,0 +1,54 @@
+[
+  {
+    "reel": "reel-08",
+    "id": "B01",
+    "clip": "MVI_9798",
+    "source_anchor": 3.4,
+    "seconds": 6,
+    "spoken_anchor": "Instagram … influencer … influence",
+    "prompt": "Generic phone in portrait orientation on an ivory studio pedestal. Abstract sage video tiles scroll slowly and a simple play shape appears, followed by two blank comment bubbles. No recognizable app, creator face, real account, endorsement, labels or numbers. Refined controlled product camera arc.",
+    "layout": "full-frame",
+    "element": "social-phone",
+    "timeline_in": 0.2,
+    "timeline_out": 7.6,
+    "delivery_filename": "dhiraj_reel-08_B01.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.3,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: Generic phone in portrait orientation on an ivory studio pedestal. Abstract sage video tiles scroll slowly and a simple play shape appears, followed by two blank comment bubbles. No recognizable app, creator face, real account, endorsement, labels or numbers. Refined controlled product camera arc.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-08_B01.mp4",
+    "sha256": "ac576bc0dc4bf196582f8e903d71f35190691b5b325b31fdd4a72242d863839b",
+    "selected_ranges": [
+      {
+        "timeline_in": 0.2,
+        "timeline_out": 7.6,
+        "media_in": 0.3
+      }
+    ]
+  },
+  {
+    "reel": "reel-08",
+    "id": "B02",
+    "clip": "MVI_9798",
+    "source_anchor": 34.8,
+    "seconds": 5.5,
+    "spoken_anchor": "doctor को … acting / influencing … पढ़ाया नहीं जाता",
+    "prompt": "Close-up still life of a realistic stethoscope, closed neutral medical reference book and blank notebook on a refined desk. Slow rack focus from the stethoscope to notebook, followed by a small camera slide. No certificates, credentials, readable titles or suggestion that all advice is infallible.",
+    "layout": "full-frame",
+    "element": "trust-stethoscope",
+    "timeline_in": 32.46666666666667,
+    "timeline_out": 39.166666666666664,
+    "delivery_filename": "dhiraj_reel-08_B02.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.3,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: Close-up still life of a realistic stethoscope, closed neutral medical reference book and blank notebook on a refined desk. Slow rack focus from the stethoscope to notebook, followed by a small camera slide. No certificates, credentials, readable titles or suggestion that all advice is infallible.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-08_B02.mp4",
+    "sha256": "1d850611616adf920789be1e50be4d0482945750277f5f8fb032c3cadf454f6c",
+    "selected_ranges": [
+      {
+        "timeline_in": 32.46666666666667,
+        "timeline_out": 39.166666666666664,
+        "media_in": 0.3
+      }
+    ]
+  }
+]

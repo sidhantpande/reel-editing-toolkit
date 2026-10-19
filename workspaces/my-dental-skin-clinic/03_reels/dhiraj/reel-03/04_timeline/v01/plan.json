@@ -1,0 +1,235 @@
+{
+  "reel_id": "dhiraj-reel-03",
+  "version": "v01",
+  "title": "Diwali skin experts — home-remedy experiments",
+  "style": "styles/clinic-approved.json",
+  "status": "CLEAN_SELECTS_FOR_REVIEW / logo deferred by user; B-roll planning separate",
+  "segments": [
+    {
+      "source_id": "clip-7eb8ba8c8d4087f9",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9776.MP4",
+      "source_sha256": "7eb8ba8c8d4087f92f61649cc756b3eee9089b8e61b93afafa0039ed3c5bf08c",
+      "source_duration": 28.8288,
+      "source_in": 3.2333333333333334,
+      "source_out": 9.6,
+      "timeline_in": 0,
+      "timeline_out": 6.366666666666666,
+      "crop_xywh": {
+        "x": 1302,
+        "y": 352,
+        "width": 1008,
+        "height": 1792
+      },
+      "role": "Cleaner family-expert opening; replace failed take 9775",
+      "speaker": "doctor",
+      "join": "fade"
+    },
+    {
+      "source_id": "clip-7eb8ba8c8d4087f9",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9776.MP4",
+      "source_sha256": "7eb8ba8c8d4087f92f61649cc756b3eee9089b8e61b93afafa0039ed3c5bf08c",
+      "source_duration": 28.8288,
+      "source_in": 10.566666666666666,
+      "source_out": 12.9,
+      "timeline_in": 6.366666666666666,
+      "timeline_out": 8.7,
+      "crop_xywh": {
+        "x": 1302,
+        "y": 352,
+        "width": 1008,
+        "height": 1792
+      },
+      "role": "Cleaner family-expert opening; replace failed take 9775",
+      "speaker": "doctor",
+      "join": "fade"
+    },
+    {
+      "source_id": "clip-7eb8ba8c8d4087f9",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9776.MP4",
+      "source_sha256": "7eb8ba8c8d4087f92f61649cc756b3eee9089b8e61b93afafa0039ed3c5bf08c",
+      "source_duration": 28.8288,
+      "source_in": 13.533333333333333,
+      "source_out": 20.7,
+      "timeline_in": 8.7,
+      "timeline_out": 15.866666666666667,
+      "crop_xywh": {
+        "x": 1302,
+        "y": 352,
+        "width": 1008,
+        "height": 1792
+      },
+      "role": "Cleaner family-expert opening; replace failed take 9775",
+      "speaker": "doctor",
+      "join": "fade"
+    },
+    {
+      "source_id": "clip-7eb8ba8c8d4087f9",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9776.MP4",
+      "source_sha256": "7eb8ba8c8d4087f92f61649cc756b3eee9089b8e61b93afafa0039ed3c5bf08c",
+      "source_duration": 28.8288,
+      "source_in": 21.233333333333334,
+      "source_out": 24.96666666666667,
+      "timeline_in": 15.866666666666667,
+      "timeline_out": 19.6,
+      "crop_xywh": {
+        "x": 1302,
+        "y": 352,
+        "width": 1008,
+        "height": 1792
+      },
+      "role": "Cleaner family-expert opening; replace failed take 9775",
+      "speaker": "doctor",
+      "join": "fade"
+    },
+    {
+      "source_id": "clip-17ea96cc73ecfe66",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9778.MP4",
+      "source_sha256": "17ea96cc73ecfe66e4c9b502fcdd0c3aae3bd57487c41277af6ff5026851c72d",
+      "source_duration": 39.472767,
+      "source_in": 0.4,
+      "source_out": 2.5,
+      "timeline_in": 19.6,
+      "timeline_out": 21.700000000000003,
+      "crop_xywh": {
+        "x": 1224,
+        "y": 352,
+        "width": 1008,
+        "height": 1792
+      },
+      "role": "Complete caution and existing-routine explanation",
+      "speaker": "doctor",
+      "join": "fade"
+    },
+    {
+      "source_id": "clip-17ea96cc73ecfe66",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9778.MP4",
+      "source_sha256": "17ea96cc73ecfe66e4c9b502fcdd0c3aae3bd57487c41277af6ff5026851c72d",
+      "source_duration": 39.472767,
+      "source_in": 3.3333333333333335,
+      "source_out": 8.6,
+      "timeline_in": 21.700000000000003,
+      "timeline_out": 26.96666666666667,
+      "crop_xywh": {
+        "x": 1224,
+        "y": 352,
+        "width": 1008,
+        "height": 1792
+      },
+      "role": "Complete caution and existing-routine explanation",
+      "speaker": "doctor",
+      "join": "fade"
+    },
+    {
+      "source_id": "clip-17ea96cc73ecfe66",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9778.MP4",
+      "source_sha256": "17ea96cc73ecfe66e4c9b502fcdd0c3aae3bd57487c41277af6ff5026851c72d",
+      "source_duration": 39.472767,
+      "source_in": 9.133333333333333,
+      "source_out": 29.2,
+      "timeline_in": 26.96666666666667,
+      "timeline_out": 47.03333333333333,
+      "crop_xywh": {
+        "x": 1224,
+        "y": 352,
+        "width": 1008,
+        "height": 1792
+      },
+      "role": "Complete caution and existing-routine explanation",
+      "speaker": "doctor",
+      "join": "fade"
+    },
+    {
+      "source_id": "clip-ce0f364e765dc5e9",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9782.MP4",
+      "source_sha256": "ce0f364e765dc5e9806b44b4911448c21f1a5344edcf4149c54bcfda2b81db88",
+      "source_duration": 18.184833,
+      "source_in": 1.7,
+      "source_out": 11.666666666666666,
+      "timeline_in": 47.03333333333333,
+      "timeline_out": 57.0,
+      "crop_xywh": {
+        "x": 1324,
+        "y": 352,
+        "width": 1008,
+        "height": 1792
+      },
+      "role": "Final complete thank-you and Happy Diwali pickup",
+      "speaker": "doctor",
+      "join": "fade"
+    },
+    {
+      "source_id": "clip-ce0f364e765dc5e9",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9782.MP4",
+      "source_sha256": "ce0f364e765dc5e9806b44b4911448c21f1a5344edcf4149c54bcfda2b81db88",
+      "source_duration": 18.184833,
+      "source_in": 12.266666666666667,
+      "source_out": 14.966666666666669,
+      "timeline_in": 57.0,
+      "timeline_out": 59.7,
+      "crop_xywh": {
+        "x": 1324,
+        "y": 352,
+        "width": 1008,
+        "height": 1792
+      },
+      "role": "Final complete thank-you and Happy Diwali pickup",
+      "speaker": "doctor",
+      "join": "fade"
+    }
+  ],
+  "words": [],
+  "broll_slots": [],
+  "graphic_slots": [],
+  "cue_exclusions": [],
+  "clean_export": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-03/reel-03_clean-9x16_v01.mp4",
+  "review": {
+    "source_visual": "complete 2-second chronological contact sheets and framing proofs",
+    "dialogue": "two local ASR decoders; no human listening attestation",
+    "captions": "not burned into clean-cut delivery; draft ASR retained separately",
+    "brand": "user requested clean edit and logo later"
+  },
+  "duration_seconds": 59.7,
+  "silence_splices": [
+    {
+      "source": "clip-7eb8ba8c8d4087f9",
+      "in": 9.6,
+      "out": 10.566666666666666,
+      "reason": "continuous normalized energy below -44 dBFS for >=0.9s; 180ms handles retained"
+    },
+    {
+      "source": "clip-7eb8ba8c8d4087f9",
+      "in": 12.9,
+      "out": 13.533333333333333,
+      "reason": "continuous normalized energy below -44 dBFS for >=0.9s; 180ms handles retained"
+    },
+    {
+      "source": "clip-7eb8ba8c8d4087f9",
+      "in": 20.7,
+      "out": 21.233333333333334,
+      "reason": "continuous normalized energy below -44 dBFS for >=0.9s; 180ms handles retained"
+    },
+    {
+      "source": "clip-17ea96cc73ecfe66",
+      "in": 2.5,
+      "out": 3.3333333333333335,
+      "reason": "continuous normalized energy below -44 dBFS for >=0.9s; 180ms handles retained"
+    },
+    {
+      "source": "clip-17ea96cc73ecfe66",
+      "in": 8.6,
+      "out": 9.133333333333333,
+      "reason": "continuous normalized energy below -44 dBFS for >=0.9s; 180ms handles retained"
+    },
+    {
+      "source": "clip-ce0f364e765dc5e9",
+      "in": 11.666666666666666,
+      "out": 12.266666666666667,
+      "reason": "continuous normalized energy below -44 dBFS for >=0.9s; 180ms handles retained"
+    }
+  ],
+  "editorial_notes": [
+    "Reject 9775 failed opening, 9777 false start, 9779 incomplete close, 9780 rehearsal/setup and accidental 9781.",
+    "Exclude 9778 after 29.2s, including spoken cut instructions.",
+    "Opening is stopped before the duplicate 'लेकिन एक मिनट' so the replacement body supplies it once."
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "reel_id": "dhiraj-reel-01",
+  "version": "v01",
+  "title": "Diwali glow — new products and skin experiments",
+  "style": "styles/clinic-approved.json",
+  "status": "CLEAN_SELECTS_FOR_REVIEW / logo deferred by user; B-roll planning separate",
+  "segments": [
+    {
+      "source_id": "clip-6dc615d569861e6d",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9768.MP4",
+      "source_sha256": "6dc615d569861e6d36fa6f6c1ae821e0849dbcf5b82c135f3d25d51703c2bc7b",
+      "source_duration": 15.6156,
+      "source_in": 3.533333333333333,
+      "source_out": 11.7,
+      "timeline_in": 0,
+      "timeline_out": 8.166666666666666,
+      "crop_xywh": {
+        "x": 1220,
+        "y": 0,
+        "width": 1188,
+        "height": 2112
+      },
+      "role": "Complete recorded 15-day hook; preserve actual count",
+      "speaker": "doctor",
+      "join": "fade"
+    },
+    {
+      "source_id": "clip-6dc615d569861e6d",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9768.MP4",
+      "source_sha256": "6dc615d569861e6d36fa6f6c1ae821e0849dbcf5b82c135f3d25d51703c2bc7b",
+      "source_duration": 15.6156,
+      "source_in": 12.3,
+      "source_out": 13.133333333333335,
+      "timeline_in": 8.166666666666666,
+      "timeline_out": 9.0,
+      "crop_xywh": {
+        "x": 1220,
+        "y": 0,
+        "width": 1188,
+        "height": 2112
+      },
+      "role": "Complete recorded 15-day hook; preserve actual count",
+      "speaker": "doctor",
+      "join": "fade"
+    },
+    {
+      "source_id": "clip-f1b4d3dda4071566",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9769.MP4",
+      "source_sha256": "f1b4d3dda40715667792dca7b51df640bb13b8b71493c90735e9465587087ce3",
+      "source_duration": 21.454767,
+      "source_in": 1.9666666666666666,
+      "source_out": 19.299999999999997,
+      "timeline_in": 9.0,
+      "timeline_out": 26.333333333333332,
+      "crop_xywh": {
+        "x": 1228,
+        "y": 0,
+        "width": 1188,
+        "height": 2112
+      },
+      "role": "Products and irritation explanation",
+      "speaker": "doctor",
+      "join": "fade"
+    },
+    {
+      "source_id": "clip-bddf658077d2eaf1",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9771.MP4",
+      "source_sha256": "bddf658077d2eaf1a3b27a8384d69fc4a7bf290d9d2f884a343616c5ff00111d",
+      "source_duration": 37.670967,
+      "source_in": 1.2333333333333334,
+      "source_out": 35.9,
+      "timeline_in": 26.333333333333332,
+      "timeline_out": 61.0,
+      "crop_xywh": {
+        "x": 1110,
+        "y": 0,
+        "width": 1188,
+        "height": 2112
+      },
+      "role": "Routine, patch test and dermatologist advice; includes recorded procedure aside",
+      "speaker": "doctor",
+      "join": "fade"
+    }
+  ],
+  "words": [],
+  "broll_slots": [],
+  "graphic_slots": [],
+  "cue_exclusions": [],
+  "clean_export": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-01/reel-01_clean-9x16_v01.mp4",
+  "review": {
+    "source_visual": "complete 2-second chronological contact sheets and framing proofs",
+    "dialogue": "two local ASR decoders; no human listening attestation",
+    "captions": "not burned into clean-cut delivery; draft ASR retained separately",
+    "brand": "user requested clean edit and logo later"
+  },
+  "duration_seconds": 61.0,
+  "silence_splices": [
+    {
+      "source": "clip-6dc615d569861e6d",
+      "in": 11.7,
+      "out": 12.3,
+      "reason": "continuous normalized energy below -44 dBFS for >=0.9s; 180ms handles retained"
+    }
+  ],
+  "editorial_notes": [
+    "Supplied script says 5 days; recording says 15 days. The clean edit preserves 15.",
+    "A shorter independent decoding pass recovered the 14.5–29.5s procedure passage that full-clip ASR missed. Do not use the incomplete first-pass text as final captions.",
+    "Recorded laser toning/Q-switch/barrier wording differs from supplied script; retain as source speech for user review, without adding efficacy claims or patient results."
+  ]
+}

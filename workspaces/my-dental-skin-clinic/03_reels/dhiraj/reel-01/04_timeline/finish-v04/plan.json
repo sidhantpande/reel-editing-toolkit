@@ -1,0 +1,2400 @@
+{
+  "reel_id": "dhiraj-reel-01",
+  "version": "finish-v04",
+  "title": "Diwali glow — new products and skin experiments",
+  "style": "styles/dhiraj-premium-v03.json",
+  "status": "CAPTION_REVISION_REVIEW / user-corrected 5–10 day range",
+  "segments": [
+    {
+      "source_id": "clip-6dc615d569861e6d",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9768.MP4",
+      "source_sha256": "6dc615d569861e6d36fa6f6c1ae821e0849dbcf5b82c135f3d25d51703c2bc7b",
+      "source_duration": 15.6156,
+      "source_in": 3.533333333333333,
+      "source_out": 11.7,
+      "timeline_in": 0,
+      "timeline_out": 8.166666666666666,
+      "crop_xywh": {
+        "x": 1220,
+        "y": 0,
+        "width": 1188,
+        "height": 2112
+      },
+      "role": "Complete hook; opening count verified by user as 5–10",
+      "speaker": "doctor",
+      "join": "fade"
+    },
+    {
+      "source_id": "clip-6dc615d569861e6d",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9768.MP4",
+      "source_sha256": "6dc615d569861e6d36fa6f6c1ae821e0849dbcf5b82c135f3d25d51703c2bc7b",
+      "source_duration": 15.6156,
+      "source_in": 12.3,
+      "source_out": 13.133333333333335,
+      "timeline_in": 8.166666666666666,
+      "timeline_out": 9.0,
+      "crop_xywh": {
+        "x": 1220,
+        "y": 0,
+        "width": 1188,
+        "height": 2112
+      },
+      "role": "Complete hook; opening count verified by user as 5–10",
+      "speaker": "doctor",
+      "join": "fade"
+    },
+    {
+      "source_id": "clip-f1b4d3dda4071566",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9769.MP4",
+      "source_sha256": "f1b4d3dda40715667792dca7b51df640bb13b8b71493c90735e9465587087ce3",
+      "source_duration": 21.454767,
+      "source_in": 1.9666666666666666,
+      "source_out": 19.299999999999997,
+      "timeline_in": 9.0,
+      "timeline_out": 26.333333333333332,
+      "crop_xywh": {
+        "x": 1228,
+        "y": 0,
+        "width": 1188,
+        "height": 2112
+      },
+      "role": "Products and irritation explanation",
+      "speaker": "doctor",
+      "join": "fade"
+    },
+    {
+      "source_id": "clip-bddf658077d2eaf1",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9771.MP4",
+      "source_sha256": "bddf658077d2eaf1a3b27a8384d69fc4a7bf290d9d2f884a343616c5ff00111d",
+      "source_duration": 37.670967,
+      "source_in": 1.2333333333333334,
+      "source_out": 35.9,
+      "timeline_in": 26.333333333333332,
+      "timeline_out": 61.0,
+      "crop_xywh": {
+        "x": 1110,
+        "y": 0,
+        "width": 1188,
+        "height": 2112
+      },
+      "role": "Routine, patch test and dermatologist advice; includes recorded procedure aside",
+      "speaker": "doctor",
+      "join": "fade"
+    }
+  ],
+  "words": [
+    {
+      "text": "दिवाली",
+      "start": 0.216667,
+      "end": 0.856667,
+      "phrase_id": "p01",
+      "source_id": "clip-6dc615d569861e6d",
+      "source_start": 3.75,
+      "source_end": 4.39,
+      "key": true,
+      "emphasis": false
+    },
+    {
+      "text": "के",
+      "start": 0.856667,
+      "end": 0.996667,
+      "phrase_id": "p01",
+      "source_id": "clip-6dc615d569861e6d",
+      "source_start": 4.39,
+      "source_end": 4.53,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "लिए",
+      "start": 0.996667,
+      "end": 1.096667,
+      "phrase_id": "p01",
+      "source_id": "clip-6dc615d569861e6d",
+      "source_start": 4.53,
+      "source_end": 4.63,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "सिर्फ",
+      "start": 1.096667,
+      "end": 1.356667,
+      "phrase_id": "p02",
+      "source_id": "clip-6dc615d569861e6d",
+      "source_start": 4.63,
+      "source_end": 4.89,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "5–10",
+      "start": 1.356667,
+      "end": 1.676667,
+      "phrase_id": "p02",
+      "source_id": "clip-6dc615d569861e6d",
+      "source_start": 4.89,
+      "source_end": 5.21,
+      "key": true,
+      "emphasis": true,
+      "verification": "User correction: 5-10, not 15, at about 2 seconds"
+    },
+    {
+      "text": "दिन",
+      "start": 1.676667,
+      "end": 2.036667,
+      "phrase_id": "p02",
+      "source_id": "clip-6dc615d569861e6d",
+      "source_start": 5.21,
+      "source_end": 5.57,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "बचे",
+      "start": 2.036667,
+      "end": 2.376667,
+      "phrase_id": "p02",
+      "source_id": "clip-6dc615d569861e6d",
+      "source_start": 5.57,
+      "source_end": 5.91,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "हैं",
+      "start": 2.376667,
+      "end": 2.516667,
+      "phrase_id": "p02",
+      "source_id": "clip-6dc615d569861e6d",
+      "source_start": 5.91,
+      "source_end": 6.05,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "और",
+      "start": 2.516667,
+      "end": 3.596667,
+      "phrase_id": "p03",
+      "source_id": "clip-6dc615d569861e6d",
+      "source_start": 6.05,
+      "source_end": 7.13,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "आपने",
+      "start": 3.596667,
+      "end": 4.016667,
+      "phrase_id": "p03",
+      "source_id": "clip-6dc615d569861e6d",
+      "source_start": 7.13,
+      "source_end": 7.55,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "नए",
+      "start": 4.016667,
+      "end": 4.636667,
+      "phrase_id": "p03",
+      "source_id": "clip-6dc615d569861e6d",
+      "source_start": 7.55,
+      "source_end": 8.17,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "face",
+      "start": 4.636667,
+      "end": 4.916667,
+      "phrase_id": "p04",
+      "source_id": "clip-6dc615d569861e6d",
+      "source_start": 8.17,
+      "source_end": 8.45,
+      "key": true,
+      "emphasis": false
+    },
+    {
+      "text": "packs",
+      "start": 4.916667,
+      "end": 5.336667,
+      "phrase_id": "p04",
+      "source_id": "clip-6dc615d569861e6d",
+      "source_start": 8.45,
+      "source_end": 8.87,
+      "key": true,
+      "emphasis": false
+    },
+    {
+      "text": "scrubs",
+      "start": 5.436667,
+      "end": 5.796667,
+      "phrase_id": "p04",
+      "source_id": "clip-6dc615d569861e6d",
+      "source_start": 8.97,
+      "source_end": 9.33,
+      "key": true,
+      "emphasis": false
+    },
+    {
+      "text": "नए",
+      "start": 5.876667,
+      "end": 6.016667,
+      "phrase_id": "p05",
+      "source_id": "clip-6dc615d569861e6d",
+      "source_start": 9.41,
+      "source_end": 9.55,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "serums",
+      "start": 6.016667,
+      "end": 6.556667,
+      "phrase_id": "p05",
+      "source_id": "clip-6dc615d569861e6d",
+      "source_start": 9.55,
+      "source_end": 10.09,
+      "key": true,
+      "emphasis": false
+    },
+    {
+      "text": "try",
+      "start": 6.556667,
+      "end": 7.056667,
+      "phrase_id": "p05",
+      "source_id": "clip-6dc615d569861e6d",
+      "source_start": 10.09,
+      "source_end": 10.59,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "करना",
+      "start": 7.056667,
+      "end": 7.336667,
+      "phrase_id": "p05",
+      "source_id": "clip-6dc615d569861e6d",
+      "source_start": 10.59,
+      "source_end": 10.87,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "शुरू",
+      "start": 7.336667,
+      "end": 7.576667,
+      "phrase_id": "p06",
+      "source_id": "clip-6dc615d569861e6d",
+      "source_start": 10.87,
+      "source_end": 11.11,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "कर",
+      "start": 7.576667,
+      "end": 7.716667,
+      "phrase_id": "p06",
+      "source_id": "clip-6dc615d569861e6d",
+      "source_start": 11.11,
+      "source_end": 11.25,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "दिए",
+      "start": 7.716667,
+      "end": 8.016667,
+      "phrase_id": "p06",
+      "source_id": "clip-6dc615d569861e6d",
+      "source_start": 11.25,
+      "source_end": 11.55,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "तो",
+      "start": 8.166667,
+      "end": 8.396667,
+      "phrase_id": "p07",
+      "source_id": "clip-6dc615d569861e6d",
+      "source_start": 12.3,
+      "source_end": 12.53,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "रुकिए",
+      "start": 8.396667,
+      "end": 8.756667,
+      "phrase_id": "p07",
+      "source_id": "clip-6dc615d569861e6d",
+      "source_start": 12.53,
+      "source_end": 12.89,
+      "key": true,
+      "emphasis": true
+    },
+    {
+      "text": "Festive",
+      "start": 9.223333,
+      "end": 9.923333,
+      "phrase_id": "p08",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 2.19,
+      "source_end": 2.89,
+      "key": true,
+      "emphasis": false
+    },
+    {
+      "text": "glow",
+      "start": 9.923333,
+      "end": 10.183333,
+      "phrase_id": "p08",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 2.89,
+      "source_end": 3.15,
+      "key": true,
+      "emphasis": false
+    },
+    {
+      "text": "के",
+      "start": 10.183333,
+      "end": 10.303333,
+      "phrase_id": "p08",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 3.15,
+      "source_end": 3.27,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "चक्कर",
+      "start": 10.303333,
+      "end": 10.623333,
+      "phrase_id": "p08",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 3.27,
+      "source_end": 3.59,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "में",
+      "start": 10.623333,
+      "end": 10.863333,
+      "phrase_id": "p08",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 3.59,
+      "source_end": 3.83,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "आप",
+      "start": 10.863333,
+      "end": 11.143333,
+      "phrase_id": "p09",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 3.83,
+      "source_end": 4.11,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "एक",
+      "start": 11.143333,
+      "end": 11.423333,
+      "phrase_id": "p09",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 4.11,
+      "source_end": 4.39,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "साथ",
+      "start": 11.423333,
+      "end": 11.743333,
+      "phrase_id": "p09",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 4.39,
+      "source_end": 4.71,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "बहुत",
+      "start": 11.743333,
+      "end": 12.123333,
+      "phrase_id": "p10",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 4.71,
+      "source_end": 5.09,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "सारे",
+      "start": 12.123333,
+      "end": 12.463333,
+      "phrase_id": "p10",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 5.09,
+      "source_end": 5.43,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "skincare",
+      "start": 12.463333,
+      "end": 12.803333,
+      "phrase_id": "p10",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 5.43,
+      "source_end": 5.77,
+      "key": true,
+      "emphasis": false
+    },
+    {
+      "text": "products",
+      "start": 12.803333,
+      "end": 13.243333,
+      "phrase_id": "p10",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 5.77,
+      "source_end": 6.21,
+      "key": true,
+      "emphasis": false
+    },
+    {
+      "text": "use",
+      "start": 13.243333,
+      "end": 13.703333,
+      "phrase_id": "p11",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 6.21,
+      "source_end": 6.67,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "करना",
+      "start": 13.703333,
+      "end": 14.043333,
+      "phrase_id": "p11",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 6.67,
+      "source_end": 7.01,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "चाहते",
+      "start": 14.043333,
+      "end": 14.443333,
+      "phrase_id": "p11",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 7.01,
+      "source_end": 7.41,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "हैं",
+      "start": 14.443333,
+      "end": 14.823333,
+      "phrase_id": "p11",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 7.41,
+      "source_end": 7.79,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "लेकिन",
+      "start": 15.063333,
+      "end": 15.623333,
+      "phrase_id": "p12",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 8.03,
+      "source_end": 8.59,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "क्या",
+      "start": 15.623333,
+      "end": 15.843333,
+      "phrase_id": "p12",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 8.59,
+      "source_end": 8.81,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "आप",
+      "start": 15.843333,
+      "end": 15.883333,
+      "phrase_id": "p12",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 8.81,
+      "source_end": 8.85,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "जानते",
+      "start": 15.883333,
+      "end": 16.263333,
+      "phrase_id": "p12",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 8.85,
+      "source_end": 9.23,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "हैं",
+      "start": 16.263333,
+      "end": 16.503333,
+      "phrase_id": "p12",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 9.23,
+      "source_end": 9.47,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "इन",
+      "start": 16.823333,
+      "end": 17.063333,
+      "phrase_id": "p13",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 9.79,
+      "source_end": 10.03,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "नए",
+      "start": 17.063333,
+      "end": 17.183333,
+      "phrase_id": "p13",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 10.03,
+      "source_end": 10.15,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "products",
+      "start": 17.183333,
+      "end": 17.563333,
+      "phrase_id": "p13",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 10.15,
+      "source_end": 10.53,
+      "key": true,
+      "emphasis": false
+    },
+    {
+      "text": "जिसमें",
+      "start": 17.563333,
+      "end": 18.743333,
+      "phrase_id": "p13",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 10.53,
+      "source_end": 11.71,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "exfoliants",
+      "start": 18.743333,
+      "end": 19.463333,
+      "phrase_id": "p14",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 11.71,
+      "source_end": 12.43,
+      "key": true,
+      "emphasis": false
+    },
+    {
+      "text": "बहुत",
+      "start": 19.463333,
+      "end": 19.943333,
+      "phrase_id": "p15",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 12.43,
+      "source_end": 12.91,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "सारे",
+      "start": 19.943333,
+      "end": 20.183333,
+      "phrase_id": "p15",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 12.91,
+      "source_end": 13.15,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "actives",
+      "start": 20.183333,
+      "end": 20.423333,
+      "phrase_id": "p15",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 13.15,
+      "source_end": 13.39,
+      "key": true,
+      "emphasis": false
+    },
+    {
+      "text": "हो",
+      "start": 20.423333,
+      "end": 20.723333,
+      "phrase_id": "p16",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 13.39,
+      "source_end": 13.69,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "सकते",
+      "start": 20.723333,
+      "end": 21.123333,
+      "phrase_id": "p16",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 13.69,
+      "source_end": 14.09,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "हैं",
+      "start": 21.123333,
+      "end": 21.263333,
+      "phrase_id": "p16",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 14.09,
+      "source_end": 14.23,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "जो",
+      "start": 21.343333,
+      "end": 21.483333,
+      "phrase_id": "p17",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 14.31,
+      "source_end": 14.45,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "आपके",
+      "start": 21.483333,
+      "end": 21.783333,
+      "phrase_id": "p17",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 14.45,
+      "source_end": 14.75,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "skin",
+      "start": 21.783333,
+      "end": 22.003333,
+      "phrase_id": "p17",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 14.75,
+      "source_end": 14.97,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "पे",
+      "start": 22.003333,
+      "end": 22.223333,
+      "phrase_id": "p17",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 14.97,
+      "source_end": 15.19,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "irritation",
+      "start": 22.223333,
+      "end": 22.563333,
+      "phrase_id": "p18",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 15.19,
+      "source_end": 15.53,
+      "key": true,
+      "emphasis": true
+    },
+    {
+      "text": "redness",
+      "start": 23.303333,
+      "end": 24.123333,
+      "phrase_id": "p18",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 16.27,
+      "source_end": 17.09,
+      "key": true,
+      "emphasis": false
+    },
+    {
+      "text": "और",
+      "start": 24.123333,
+      "end": 24.823333,
+      "phrase_id": "p19",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 17.09,
+      "source_end": 17.79,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "peeling",
+      "start": 24.823333,
+      "end": 25.043333,
+      "phrase_id": "p19",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 17.79,
+      "source_end": 18.01,
+      "key": true,
+      "emphasis": false
+    },
+    {
+      "text": "trigger",
+      "start": 25.043333,
+      "end": 25.243333,
+      "phrase_id": "p20",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 18.01,
+      "source_end": 18.21,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "कर",
+      "start": 25.243333,
+      "end": 25.583333,
+      "phrase_id": "p20",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 18.21,
+      "source_end": 18.55,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "सकते",
+      "start": 25.583333,
+      "end": 25.923333,
+      "phrase_id": "p20",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 18.55,
+      "source_end": 18.89,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "हैं",
+      "start": 25.923333,
+      "end": 26.063333,
+      "phrase_id": "p20",
+      "source_id": "clip-f1b4d3dda4071566",
+      "source_start": 18.89,
+      "source_end": 19.03,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "इसलिए",
+      "start": 26.56,
+      "end": 27.08,
+      "phrase_id": "p21",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 1.4600000000000004,
+      "source_end": 1.98,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "दिवाली",
+      "start": 27.08,
+      "end": 27.52,
+      "phrase_id": "p21",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 1.98,
+      "source_end": 2.42,
+      "key": true,
+      "emphasis": false
+    },
+    {
+      "text": "से",
+      "start": 27.52,
+      "end": 27.68,
+      "phrase_id": "p21",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 2.42,
+      "source_end": 2.58,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "पहले",
+      "start": 27.68,
+      "end": 28.0,
+      "phrase_id": "p21",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 2.58,
+      "source_end": 2.9,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "अपने",
+      "start": 28.0,
+      "end": 28.86,
+      "phrase_id": "p22",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 2.9,
+      "source_end": 3.76,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "skin",
+      "start": 28.86,
+      "end": 29.12,
+      "phrase_id": "p22",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 3.76,
+      "source_end": 4.02,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "पे",
+      "start": 29.12,
+      "end": 29.28,
+      "phrase_id": "p22",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 4.02,
+      "source_end": 4.18,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "नए",
+      "start": 29.28,
+      "end": 29.52,
+      "phrase_id": "p22",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 4.18,
+      "source_end": 4.42,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "experiment",
+      "start": 29.52,
+      "end": 30.02,
+      "phrase_id": "p22",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 4.42,
+      "source_end": 4.92,
+      "key": true,
+      "emphasis": false
+    },
+    {
+      "text": "करने",
+      "start": 30.02,
+      "end": 30.28,
+      "phrase_id": "p23",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 4.92,
+      "source_end": 5.18,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "से",
+      "start": 30.28,
+      "end": 30.4,
+      "phrase_id": "p23",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 5.18,
+      "source_end": 5.3,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "बचिए",
+      "start": 30.4,
+      "end": 30.8,
+      "phrase_id": "p23",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 5.3,
+      "source_end": 5.7,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "जो",
+      "start": 30.8,
+      "end": 31.48,
+      "phrase_id": "p24",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 5.7,
+      "source_end": 6.38,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "पहले",
+      "start": 31.48,
+      "end": 31.8,
+      "phrase_id": "p24",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 6.38,
+      "source_end": 6.7,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "से",
+      "start": 31.8,
+      "end": 31.98,
+      "phrase_id": "p24",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 6.7,
+      "source_end": 6.88,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "gentle",
+      "start": 31.98,
+      "end": 32.32,
+      "phrase_id": "p25",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 6.88,
+      "source_end": 7.22,
+      "key": true,
+      "emphasis": false
+    },
+    {
+      "text": "skincare",
+      "start": 32.32,
+      "end": 32.84,
+      "phrase_id": "p25",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 7.22,
+      "source_end": 7.74,
+      "key": true,
+      "emphasis": false
+    },
+    {
+      "text": "regime",
+      "start": 32.84,
+      "end": 33.44,
+      "phrase_id": "p25",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 7.74,
+      "source_end": 8.34,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "है",
+      "start": 33.44,
+      "end": 33.58,
+      "phrase_id": "p26",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 8.34,
+      "source_end": 8.48,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "आपका",
+      "start": 33.58,
+      "end": 33.84,
+      "phrase_id": "p26",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 8.48,
+      "source_end": 8.74,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "जो",
+      "start": 33.84,
+      "end": 33.98,
+      "phrase_id": "p26",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 8.74,
+      "source_end": 8.88,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "चल",
+      "start": 33.98,
+      "end": 34.22,
+      "phrase_id": "p26",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 8.88,
+      "source_end": 9.12,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "रहा",
+      "start": 34.22,
+      "end": 34.42,
+      "phrase_id": "p26",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 9.12,
+      "source_end": 9.32,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "है",
+      "start": 34.42,
+      "end": 34.52,
+      "phrase_id": "p26",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 9.32,
+      "source_end": 9.42,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "उसे",
+      "start": 34.52,
+      "end": 34.9,
+      "phrase_id": "p27",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 9.42,
+      "source_end": 9.8,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "ही",
+      "start": 34.9,
+      "end": 35.02,
+      "phrase_id": "p27",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 9.8,
+      "source_end": 9.92,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "continue",
+      "start": 35.02,
+      "end": 35.42,
+      "phrase_id": "p27",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 9.92,
+      "source_end": 10.32,
+      "key": true,
+      "emphasis": false
+    },
+    {
+      "text": "कीजिए",
+      "start": 35.42,
+      "end": 35.7,
+      "phrase_id": "p27",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 10.32,
+      "source_end": 10.6,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "अगर",
+      "start": 35.7,
+      "end": 36.48,
+      "phrase_id": "p28",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 10.6,
+      "source_end": 11.38,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "कोई",
+      "start": 36.48,
+      "end": 36.72,
+      "phrase_id": "p28",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 11.38,
+      "source_end": 11.62,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "नया",
+      "start": 36.72,
+      "end": 37.0,
+      "phrase_id": "p28",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 11.62,
+      "source_end": 11.9,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "product",
+      "start": 37.0,
+      "end": 37.38,
+      "phrase_id": "p28",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 11.9,
+      "source_end": 12.28,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "try",
+      "start": 37.38,
+      "end": 37.58,
+      "phrase_id": "p29",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 12.28,
+      "source_end": 12.48,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "करना",
+      "start": 37.58,
+      "end": 37.9,
+      "phrase_id": "p29",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 12.48,
+      "source_end": 12.8,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "है",
+      "start": 37.9,
+      "end": 38.0,
+      "phrase_id": "p29",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 12.8,
+      "source_end": 12.9,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "तो",
+      "start": 38.0,
+      "end": 38.12,
+      "phrase_id": "p30",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 12.9,
+      "source_end": 13.02,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "उसको",
+      "start": 38.12,
+      "end": 38.34,
+      "phrase_id": "p30",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 13.02,
+      "source_end": 13.24,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "पहले",
+      "start": 38.34,
+      "end": 38.58,
+      "phrase_id": "p30",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 13.24,
+      "source_end": 13.48,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "patch",
+      "start": 38.58,
+      "end": 38.82,
+      "phrase_id": "p31",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 13.48,
+      "source_end": 13.72,
+      "key": true,
+      "emphasis": true
+    },
+    {
+      "text": "test",
+      "start": 38.82,
+      "end": 39.06,
+      "phrase_id": "p31",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 13.72,
+      "source_end": 13.96,
+      "key": true,
+      "emphasis": false
+    },
+    {
+      "text": "कीजिए",
+      "start": 39.06,
+      "end": 39.32,
+      "phrase_id": "p31",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 13.96,
+      "source_end": 14.22,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "या",
+      "start": 39.6,
+      "end": 40.42,
+      "phrase_id": "p32",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 14.5,
+      "source_end": 15.32,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "फिर",
+      "start": 40.42,
+      "end": 40.64,
+      "phrase_id": "p32",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 15.32,
+      "source_end": 15.54,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "dermatologist",
+      "start": 40.64,
+      "end": 41.38,
+      "phrase_id": "p32",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 15.54,
+      "source_end": 16.28,
+      "key": true,
+      "emphasis": false
+    },
+    {
+      "text": "के",
+      "start": 41.38,
+      "end": 41.64,
+      "phrase_id": "p33",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 16.28,
+      "source_end": 16.54,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "opinion",
+      "start": 41.64,
+      "end": 41.84,
+      "phrase_id": "p33",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 16.54,
+      "source_end": 16.740000000000002,
+      "key": true,
+      "emphasis": false
+    },
+    {
+      "text": "से",
+      "start": 41.84,
+      "end": 42.22,
+      "phrase_id": "p33",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 16.740000000000002,
+      "source_end": 17.12,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "नया",
+      "start": 42.22,
+      "end": 42.62,
+      "phrase_id": "p34",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 17.12,
+      "source_end": 17.52,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "product",
+      "start": 42.62,
+      "end": 42.76,
+      "phrase_id": "p34",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 17.52,
+      "source_end": 17.66,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "choose",
+      "start": 42.76,
+      "end": 43.02,
+      "phrase_id": "p34",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 17.66,
+      "source_end": 17.92,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "कर",
+      "start": 43.02,
+      "end": 43.28,
+      "phrase_id": "p34",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 17.92,
+      "source_end": 18.18,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "सकते",
+      "start": 43.28,
+      "end": 43.64,
+      "phrase_id": "p34",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 18.18,
+      "source_end": 18.54,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "हैं",
+      "start": 43.64,
+      "end": 44.1,
+      "phrase_id": "p34",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 18.54,
+      "source_end": 19.0,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "और",
+      "start": 44.1,
+      "end": 44.38,
+      "phrase_id": "p35",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 19.0,
+      "source_end": 19.28,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "most",
+      "start": 44.38,
+      "end": 44.64,
+      "phrase_id": "p35",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 19.28,
+      "source_end": 19.54,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "important",
+      "start": 44.64,
+      "end": 45.04,
+      "phrase_id": "p35",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 19.54,
+      "source_end": 19.94,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "ऐसे",
+      "start": 45.04,
+      "end": 45.52,
+      "phrase_id": "p36",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 19.94,
+      "source_end": 20.42,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "भी",
+      "start": 45.52,
+      "end": 45.64,
+      "phrase_id": "p36",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 20.42,
+      "source_end": 20.54,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "कुछ-कुछ",
+      "start": 45.64,
+      "end": 46.04,
+      "phrase_id": "p36",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 20.54,
+      "source_end": 20.94,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "procedures",
+      "start": 46.04,
+      "end": 46.36,
+      "phrase_id": "p36",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 20.94,
+      "source_end": 21.259999999999998,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "होते",
+      "start": 46.36,
+      "end": 46.82,
+      "phrase_id": "p36",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 21.259999999999998,
+      "source_end": 21.72,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "हैं",
+      "start": 46.82,
+      "end": 47.02,
+      "phrase_id": "p36",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 21.72,
+      "source_end": 21.92,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "जैसे",
+      "start": 46.96,
+      "end": 47.76,
+      "phrase_id": "p37",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 21.86,
+      "source_end": 22.66,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "laser",
+      "start": 47.76,
+      "end": 48.06,
+      "phrase_id": "p37",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 22.66,
+      "source_end": 22.96,
+      "key": true,
+      "emphasis": false
+    },
+    {
+      "text": "toning",
+      "start": 48.06,
+      "end": 48.44,
+      "phrase_id": "p37",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 22.96,
+      "source_end": 23.34,
+      "key": true,
+      "emphasis": false
+    },
+    {
+      "text": "Q-switch",
+      "start": 48.44,
+      "end": 48.9,
+      "phrase_id": "p38",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 23.34,
+      "source_end": 23.8,
+      "key": true,
+      "emphasis": false
+    },
+    {
+      "text": "glow",
+      "start": 48.9,
+      "end": 49.14,
+      "phrase_id": "p38",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 23.8,
+      "source_end": 24.04,
+      "key": true,
+      "emphasis": false
+    },
+    {
+      "text": "जो",
+      "start": 49.14,
+      "end": 50.16,
+      "phrase_id": "p39",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 24.04,
+      "source_end": 25.06,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "कि",
+      "start": 50.16,
+      "end": 50.46,
+      "phrase_id": "p39",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 25.06,
+      "source_end": 25.36,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "festive",
+      "start": 50.9,
+      "end": 51.4,
+      "phrase_id": "p39",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 25.8,
+      "source_end": 26.3,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "glow",
+      "start": 51.4,
+      "end": 51.6,
+      "phrase_id": "p39",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 26.3,
+      "source_end": 26.5,
+      "key": true,
+      "emphasis": false
+    },
+    {
+      "text": "के",
+      "start": 51.6,
+      "end": 51.76,
+      "phrase_id": "p39",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 26.5,
+      "source_end": 26.66,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "लिए",
+      "start": 51.76,
+      "end": 51.92,
+      "phrase_id": "p39",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 26.66,
+      "source_end": 26.82,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "use",
+      "start": 51.92,
+      "end": 52.2,
+      "phrase_id": "p40",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 26.82,
+      "source_end": 27.1,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "कर",
+      "start": 52.2,
+      "end": 52.4,
+      "phrase_id": "p40",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 27.1,
+      "source_end": 27.3,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "सकते",
+      "start": 52.4,
+      "end": 52.7,
+      "phrase_id": "p40",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 27.3,
+      "source_end": 27.6,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "हैं",
+      "start": 52.7,
+      "end": 52.76,
+      "phrase_id": "p40",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 27.6,
+      "source_end": 27.66,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "जिससे",
+      "start": 52.76,
+      "end": 53.04,
+      "phrase_id": "p41",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 27.66,
+      "source_end": 27.94,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "आपका",
+      "start": 53.04,
+      "end": 53.26,
+      "phrase_id": "p41",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 27.94,
+      "source_end": 28.16,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "barrier",
+      "start": 53.26,
+      "end": 53.64,
+      "phrase_id": "p41",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 28.16,
+      "source_end": 28.54,
+      "key": true,
+      "emphasis": false
+    },
+    {
+      "text": "disturb",
+      "start": 53.64,
+      "end": 54.02,
+      "phrase_id": "p42",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 28.54,
+      "source_end": 28.92,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "नहीं",
+      "start": 54.02,
+      "end": 54.2,
+      "phrase_id": "p42",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 28.92,
+      "source_end": 29.1,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "होगा",
+      "start": 54.2,
+      "end": 54.44,
+      "phrase_id": "p42",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 29.1,
+      "source_end": 29.34,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "और",
+      "start": 54.5,
+      "end": 54.96,
+      "phrase_id": "p43",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 29.4,
+      "source_end": 29.86,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "आपका",
+      "start": 54.96,
+      "end": 55.3,
+      "phrase_id": "p43",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 29.86,
+      "source_end": 30.2,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "skincare",
+      "start": 55.3,
+      "end": 55.56,
+      "phrase_id": "p43",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 30.2,
+      "source_end": 30.459999999999997,
+      "key": true,
+      "emphasis": false
+    },
+    {
+      "text": "उसके",
+      "start": 55.56,
+      "end": 56.08,
+      "phrase_id": "p44",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 30.459999999999997,
+      "source_end": 30.979999999999997,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "साथ",
+      "start": 56.08,
+      "end": 56.26,
+      "phrase_id": "p44",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 30.979999999999997,
+      "source_end": 31.16,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "routine",
+      "start": 56.26,
+      "end": 56.42,
+      "phrase_id": "p44",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 31.16,
+      "source_end": 31.32,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "continue",
+      "start": 56.42,
+      "end": 56.92,
+      "phrase_id": "p45",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 31.32,
+      "source_end": 31.82,
+      "key": true,
+      "emphasis": false
+    },
+    {
+      "text": "कर",
+      "start": 56.92,
+      "end": 57.24,
+      "phrase_id": "p45",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 31.82,
+      "source_end": 32.14,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "सकते",
+      "start": 57.24,
+      "end": 57.6,
+      "phrase_id": "p45",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 32.14,
+      "source_end": 32.5,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "लेकिन",
+      "start": 57.6,
+      "end": 58.26,
+      "phrase_id": "p46",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 32.5,
+      "source_end": 33.16,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "board",
+      "start": 58.26,
+      "end": 58.64,
+      "phrase_id": "p46",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 33.16,
+      "source_end": 33.54,
+      "key": true,
+      "emphasis": false
+    },
+    {
+      "text": "certified",
+      "start": 58.64,
+      "end": 59.06,
+      "phrase_id": "p46",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 33.54,
+      "source_end": 33.96,
+      "key": true,
+      "emphasis": false
+    },
+    {
+      "text": "dermatologist",
+      "start": 59.06,
+      "end": 59.84,
+      "phrase_id": "p47",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 33.96,
+      "source_end": 34.739999999999995,
+      "key": true,
+      "emphasis": false
+    },
+    {
+      "text": "की",
+      "start": 59.84,
+      "end": 60.04,
+      "phrase_id": "p47",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 34.739999999999995,
+      "source_end": 34.94,
+      "key": false,
+      "emphasis": false
+    },
+    {
+      "text": "permission",
+      "start": 60.04,
+      "end": 60.32,
+      "phrase_id": "p47",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 34.94,
+      "source_end": 35.22,
+      "key": true,
+      "emphasis": false
+    },
+    {
+      "text": "से",
+      "start": 60.32,
+      "end": 60.74,
+      "phrase_id": "p47",
+      "source_id": "clip-bddf658077d2eaf1",
+      "source_start": 35.22,
+      "source_end": 35.64,
+      "key": false,
+      "emphasis": false
+    }
+  ],
+  "broll_slots": [
+    {
+      "id": "B01",
+      "path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-01_B01.mp4",
+      "sha256": "a831e4c66127cb7f6542ae911c0f493b0e89885d2faee24cbdce7ecfd5820407",
+      "media_in": 0.5,
+      "timeline_in": 3.6,
+      "timeline_out": 8.3,
+      "layout": "portrait",
+      "visual_reviewed": true,
+      "audio": "discard",
+      "transition": "soft-rise"
+    },
+    {
+      "id": "B02",
+      "path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-01_B02.mp4",
+      "sha256": "8d0f696d1769bf2f73243a8469ae0ea6c7abe2f026b109659711439088f238d9",
+      "media_in": 0.5,
+      "timeline_in": 17.433333333333334,
+      "timeline_out": 25.3,
+      "layout": "portrait",
+      "visual_reviewed": true,
+      "audio": "discard",
+      "transition": "soft-wipe"
+    }
+  ],
+  "graphic_slots": [],
+  "cue_exclusions": [],
+  "clean_export": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-01/reel-01_clean-9x16_v01.mp4",
+  "review": {
+    "source_visual": "complete 2-second chronological contact sheets and framing proofs",
+    "dialogue": "two local ASR decoders; no human listening attestation",
+    "captions": "User-corrected range 5–10; all phrases redesigned with clean typographic hierarchy and thought-level grouping; exported caption QA required.",
+    "brand": "User-supplied wider replacement logo, exact image preserved"
+  },
+  "duration_seconds": 61.0,
+  "silence_splices": [
+    {
+      "source": "clip-6dc615d569861e6d",
+      "in": 11.7,
+      "out": 12.3,
+      "reason": "continuous normalized energy below -44 dBFS for >=0.9s; 180ms handles retained"
+    }
+  ],
+  "editorial_notes": [
+    "A shorter independent decoding pass recovered the 14.5–29.5s procedure passage that full-clip ASR missed. Do not use the incomplete first-pass text as final captions.",
+    "Recorded laser toning/Q-switch/barrier wording differs from supplied script; retain as source speech for user review, without adding efficacy claims or patient results.",
+    "Caption p45 normalizes Hindi कि and omits the ambiguous English filler decoded as and/end; no new meaning added. Original narration remains intact. Clinical passage and mixed-language wording remain for user listening review.",
+    "User-requested polish: original toolkit music below speech with ducking, sparse transition air; direct source picture joins remove double-face ghosts; soft-rise and soft-wipe B-roll masks; phrase-directed typography; built-in imagegen transparent logo rendition. Narration timing/words unchanged.",
+    "User explicitly corrected the opening range to 5–10 days. This supersedes prior ASR-derived 15. Correct the caption and source-word curation; original narration is unchanged."
+  ],
+  "finished_export": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-01/reel-01_finished-9x16_v04.mp4",
+  "music": {
+    "path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/public/assets/music/calm-focus.wav",
+    "sha256": "00ac26fce2dd74b862aa566138886655c06c3e24a0b4247589583c304ecd2bd4",
+    "bed_lufs": -31,
+    "transition_sfx": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/public/assets/sfx/transition-air.wav",
+    "sfx_sha256": "f541b257d86f2c1ebf4d7ae97198de386ebc8df60489bacc0a620067cf3c5151",
+    "sfx_gain": 0.05
+  },
+  "caption_scenes": {
+    "p01": {
+      "main": [
+        0
+      ],
+      "rows": [
+        [
+          0
+        ],
+        [
+          1,
+          2
+        ]
+      ]
+    },
+    "p02": {
+      "main": [
+        1
+      ],
+      "accent": [
+        1
+      ],
+      "hero": true,
+      "rows": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          3,
+          4
+        ]
+      ]
+    },
+    "p04": {
+      "main": [
+        0,
+        1,
+        2
+      ],
+      "rows": [
+        [
+          0,
+          1
+        ],
+        [
+          2
+        ]
+      ],
+      "uppercase": true,
+      "centre_y": 1460
+    },
+    "p05": {
+      "main": [
+        1
+      ],
+      "accent": [
+        1
+      ],
+      "serif": [
+        1
+      ],
+      "rows": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "centre_y": 1460
+    },
+    "p07": {
+      "main": [
+        1
+      ],
+      "rows": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "p08": {
+      "main": [
+        0,
+        1
+      ],
+      "accent": [
+        0,
+        1
+      ],
+      "serif": [
+        0,
+        1
+      ],
+      "rows": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3,
+          4
+        ]
+      ]
+    },
+    "p10": {
+      "main": [
+        2,
+        3
+      ],
+      "rows": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ]
+      ]
+    },
+    "p12": {
+      "main": [
+        3
+      ],
+      "rows": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          3,
+          4
+        ]
+      ]
+    },
+    "p14": {
+      "main": [
+        0
+      ],
+      "uppercase": true,
+      "centre_y": 1460
+    },
+    "p15": {
+      "main": [
+        2
+      ],
+      "accent": [
+        2
+      ],
+      "rows": [
+        [
+          0,
+          1
+        ],
+        [
+          2
+        ]
+      ],
+      "centre_y": 1460
+    },
+    "p18": {
+      "main": [
+        0,
+        1
+      ],
+      "rows": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ],
+      "uppercase": true,
+      "centre_y": 1460
+    },
+    "p19": {
+      "main": [
+        1
+      ],
+      "accent": [
+        1
+      ],
+      "rows": [
+        [
+          0,
+          1
+        ]
+      ],
+      "centre_y": 1460
+    },
+    "p22": {
+      "main": [
+        4
+      ],
+      "rows": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          3,
+          4
+        ]
+      ]
+    },
+    "p25": {
+      "main": [
+        1
+      ],
+      "accent": [
+        1
+      ],
+      "serif": [
+        1
+      ],
+      "rows": [
+        [
+          0
+        ],
+        [
+          1,
+          2
+        ]
+      ]
+    },
+    "p27": {
+      "main": [
+        2
+      ],
+      "rows": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ]
+      ]
+    },
+    "p31": {
+      "main": [
+        0,
+        1
+      ],
+      "accent": [
+        0,
+        1
+      ],
+      "serif": [
+        0,
+        1
+      ],
+      "rows": [
+        [
+          0,
+          1
+        ],
+        [
+          2
+        ]
+      ]
+    },
+    "p32": {
+      "main": [
+        2
+      ],
+      "rows": [
+        [
+          0,
+          1
+        ],
+        [
+          2
+        ]
+      ]
+    },
+    "p33": {
+      "main": [
+        1
+      ],
+      "accent": [
+        1
+      ],
+      "serif": [
+        1
+      ]
+    },
+    "p35": {
+      "main": [
+        1,
+        2
+      ],
+      "rows": [
+        [
+          0
+        ],
+        [
+          1,
+          2
+        ]
+      ]
+    },
+    "p37": {
+      "main": [
+        1,
+        2
+      ],
+      "rows": [
+        [
+          0
+        ],
+        [
+          1,
+          2
+        ]
+      ]
+    },
+    "p38": {
+      "main": [
+        0,
+        1
+      ],
+      "rows": [
+        [
+          0,
+          1
+        ]
+      ],
+      "uppercase": true
+    },
+    "p39": {
+      "main": [
+        2,
+        3
+      ],
+      "serif": [
+        2,
+        3
+      ],
+      "accent": [
+        2,
+        3
+      ],
+      "rows": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3,
+          4,
+          5
+        ]
+      ]
+    },
+    "p41": {
+      "main": [
+        2
+      ],
+      "rows": [
+        [
+          0,
+          1
+        ],
+        [
+          2
+        ]
+      ]
+    },
+    "p46": {
+      "main": [
+        1,
+        2
+      ],
+      "rows": [
+        [
+          0
+        ],
+        [
+          1,
+          2
+        ]
+      ]
+    },
+    "p47": {
+      "main": [
+        0
+      ],
+      "rows": [
+        [
+          0
+        ],
+        [
+          1,
+          2,
+          3
+        ]
+      ]
+    },
+    "p06": {
+      "centre_y": 1460
+    },
+    "p13": {
+      "centre_y": 1460
+    },
+    "p16": {
+      "centre_y": 1460
+    },
+    "p17": {
+      "centre_y": 1460
+    }
+  }
+}

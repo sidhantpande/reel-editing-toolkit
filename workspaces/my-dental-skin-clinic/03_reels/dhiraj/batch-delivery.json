@@ -1,0 +1,774 @@
+{
+  "status": "FINISHED_BATCH_READY / Reels01–02 approved; Reels03–12 finished reviews ready",
+  "user_branding_preference": "Dhiraj supplied transparent clinic logo and user-approved Reel-01 finish-v04 caption style on completed reels",
+  "source_videos": 32,
+  "source_seconds": 1099.2982019999997,
+  "selected_source_files": 20,
+  "reference_photos": 17,
+  "reels": [
+    {
+      "reel": "reel-01",
+      "title": "Diwali glow — new products and skin experiments",
+      "plan": "03_reels/dhiraj/reel-01/04_timeline/v01/plan.json",
+      "video": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-01/reel-01_clean-9x16_v01.mp4",
+      "sha256": "e358d80bb407c0755acfe98b5ae892d23f4b889299524470811fee4f628839ad",
+      "seconds": 61.0,
+      "frames": 1830,
+      "lufs": -16.3,
+      "peak_dbtp": -1.4,
+      "full_decode": "passed",
+      "resolution": [
+        1080,
+        1920
+      ],
+      "fps": "30/1",
+      "black_intervals": []
+    },
+    {
+      "reel": "reel-02",
+      "title": "Dhanteras skincare shopping — three questions",
+      "plan": "03_reels/dhiraj/reel-02/04_timeline/v02/plan.json",
+      "video": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-02/reel-02_clean-9x16_v02.mp4",
+      "sha256": "1ed33748cbf308fe1ae6621de0d1b4997b5246ce396adf2064523dec46f2aeef",
+      "seconds": 57.43333333333333,
+      "frames": 1723,
+      "lufs": -16.0,
+      "peak_dbtp": -1.5,
+      "full_decode": "passed",
+      "resolution": [
+        1080,
+        1920
+      ],
+      "fps": "30/1",
+      "black_intervals": []
+    },
+    {
+      "reel": "reel-03",
+      "title": "Diwali skin experts — home-remedy experiments",
+      "plan": "03_reels/dhiraj/reel-03/04_timeline/v02/plan.json",
+      "video": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-03/reel-03_clean-9x16_v02.mp4",
+      "sha256": "d3638b161e549e259ea7fbc5a13e6bdab1ae11cdafa948fd22139900fdfd6413",
+      "seconds": 61.5,
+      "frames": 1845,
+      "lufs": -16.5,
+      "peak_dbtp": -1.4,
+      "full_decode": "passed",
+      "resolution": [
+        1080,
+        1920
+      ],
+      "fps": "30/1",
+      "black_intervals": []
+    },
+    {
+      "reel": "reel-04",
+      "title": "Bhai Dooj — do not blindly share skincare",
+      "plan": "03_reels/dhiraj/reel-04/04_timeline/v04/plan.json",
+      "video": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-04/reel-04_clean-9x16_v04.mp4",
+      "sha256": "4d303f06d4ac7bfe41431444395ce1b6f881c06dabbad2d8eeecb5d2800835f1",
+      "seconds": 39.46666666666667,
+      "frames": 1184,
+      "lufs": -16.0,
+      "peak_dbtp": -1.5,
+      "full_decode": "passed",
+      "resolution": [
+        1080,
+        1920
+      ],
+      "fps": "30/1",
+      "black_intervals": []
+    },
+    {
+      "reel": "reel-05",
+      "title": "Teen skincare basics and physical development",
+      "plan": "03_reels/dhiraj/reel-05/04_timeline/v02/plan.json",
+      "video": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-05/reel-05_clean-9x16_v02.mp4",
+      "sha256": "0378cdfbbaa1d945ee270373190af5ea60c10b9c5bdb29bd47d3c934a954a382",
+      "seconds": 71.86666666666666,
+      "frames": 2156,
+      "lufs": -16.0,
+      "peak_dbtp": -1.5,
+      "full_decode": "passed",
+      "resolution": [
+        1080,
+        1920
+      ],
+      "fps": "30/1",
+      "black_intervals": []
+    },
+    {
+      "reel": "reel-06",
+      "title": "Teen tanning — the doctor's personal parenting story",
+      "plan": "03_reels/dhiraj/reel-06/04_timeline/v04/plan.json",
+      "video": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-06/reel-06_clean-9x16_v04.mp4",
+      "sha256": "f982ff0695d26f39936a06c8008bc062c93ce7835b7eac755702cee01c22c1ec",
+      "seconds": 36.5,
+      "frames": 1095,
+      "lufs": -16.3,
+      "peak_dbtp": -1.5,
+      "full_decode": "passed",
+      "resolution": [
+        1080,
+        1920
+      ],
+      "fps": "30/1",
+      "black_intervals": []
+    },
+    {
+      "reel": "reel-07",
+      "title": "Hair fall, breakage and thinning",
+      "plan": "03_reels/dhiraj/reel-07/04_timeline/v04/plan.json",
+      "video": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-07/reel-07_clean-9x16_v04.mp4",
+      "sha256": "b420ef61beacc0b649fcbbad45f997ee628fac35a9c9e3daefafec815eca40ea",
+      "seconds": 69.26666666666667,
+      "frames": 2078,
+      "lufs": -16.0,
+      "peak_dbtp": -1.5,
+      "full_decode": "passed",
+      "resolution": [
+        1080,
+        1920
+      ],
+      "fps": "30/1",
+      "black_intervals": []
+    },
+    {
+      "reel": "reel-08",
+      "title": "Influencers versus doctors — advice and trust",
+      "plan": "03_reels/dhiraj/reel-08/04_timeline/v03/plan.json",
+      "video": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-08/reel-08_clean-9x16_v03.mp4",
+      "sha256": "fb22e5358e00a74ecbf788f95e72c5c444b536f876bc10c85d8d66bb640935d1",
+      "seconds": 57.7,
+      "frames": 1731,
+      "lufs": -16.1,
+      "peak_dbtp": -1.4,
+      "full_decode": "passed",
+      "resolution": [
+        1080,
+        1920
+      ],
+      "fps": "30/1",
+      "black_intervals": []
+    },
+    {
+      "reel": "reel-09",
+      "title": "Professional trust and treatment quality",
+      "plan": "03_reels/dhiraj/reel-09/04_timeline/v02/plan.json",
+      "video": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-09/reel-09_clean-9x16_v02.mp4",
+      "sha256": "9459afaf6c796aa2e57638d9686301d8e20c00324654d82868ebf49fd9d61e94",
+      "seconds": 47.4,
+      "frames": 1422,
+      "lufs": -16.2,
+      "peak_dbtp": -1.4,
+      "full_decode": "passed",
+      "resolution": [
+        1080,
+        1920
+      ],
+      "fps": "30/1",
+      "black_intervals": []
+    },
+    {
+      "reel": "reel-10",
+      "title": "Same serum content, different prices — podcast Q&A",
+      "plan": "03_reels/dhiraj/reel-10/04_timeline/v02/plan.json",
+      "video": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-10/reel-10_clean-9x16_v02.mp4",
+      "sha256": "a53215a9063c2f6722fd0cde4b2117c1511a5c52f486cf3e3d5aa08cb6702c4d",
+      "seconds": 66.7,
+      "frames": 2001,
+      "lufs": -16.2,
+      "peak_dbtp": -1.4,
+      "full_decode": "passed",
+      "resolution": [
+        1080,
+        1920
+      ],
+      "fps": "30/1",
+      "black_intervals": []
+    },
+    {
+      "reel": "reel-11",
+      "title": "Wedding travel skincare essentials",
+      "plan": "03_reels/dhiraj/reel-11/04_timeline/v02/plan.json",
+      "video": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-11/reel-11_clean-9x16_v02.mp4",
+      "sha256": "73adcd0dfd0fd0b9a72fd4f96a22d5489b3519877b37ea6819f761895fddd359",
+      "seconds": 57.06666666666667,
+      "frames": 1712,
+      "lufs": -16.5,
+      "peak_dbtp": -1.5,
+      "full_decode": "passed",
+      "resolution": [
+        1080,
+        1920
+      ],
+      "fps": "30/1",
+      "black_intervals": []
+    },
+    {
+      "reel": "reel-12",
+      "title": "Father–son conversation — tanning and sports",
+      "plan": "03_reels/dhiraj/reel-12/04_timeline/v04/plan.json",
+      "video": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-12/reel-12_clean-9x16_v04.mp4",
+      "sha256": "b383c39fee96103ad94131ecf0fd291974d9bf6f5cfea7b31132eac28bd7913c",
+      "seconds": 78.0,
+      "frames": 2340,
+      "lufs": -16.2,
+      "peak_dbtp": -2.1,
+      "full_decode": "passed",
+      "resolution": [
+        1080,
+        1920
+      ],
+      "fps": "30/1",
+      "black_intervals": []
+    }
+  ],
+  "clean_seconds": 703.9,
+  "removed_seconds": 395.39820199999974,
+  "broll_requests": 24,
+  "broll_received_in_this_batch": 24,
+  "visual_elements": 13,
+  "ai_generated_objects": 8,
+  "native_type_cards": 5,
+  "tests": "31 passed",
+  "checks": [
+    "npm run check passed:68 script folders",
+    "catalog:156 shared assets /42 motion /50 clinic reusable media",
+    "All12 clean and finished reels have measured per-export QA;07–12 new source/retake/word/motion review complete",
+    "24/24 B-roll requests received and inserted by actual subject; supplied originals preserved",
+    "git_audit validates approved media checksums/LFS; source/export/cache files remain excluded"
+  ],
+  "review_limits": [
+    "No human listening attestation",
+    "Draft ASR is not corrected caption text",
+    "B-roll insertion, animated captions and logo are not included in clean review cuts",
+    "Recorded wording differs from supplied scripts in the per-reel notes; no independent clinical verification claimed"
+  ],
+  "delivery_index": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/START-HERE.md",
+  "finishing": {
+    "reel-01": {
+      "plan": "03_reels/dhiraj/reel-01/04_timeline/finish-v04/plan.json",
+      "video": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-01/reel-01_finished-9x16_v04.mp4",
+      "qa": {
+        "video": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-01/reel-01_finished-9x16_v04.mp4",
+        "sha256": "4f50277308d208c45f0c58478cfa7240a993bac398feda3c5f967ea43eff91ed",
+        "full_decode": "passed",
+        "frames": 1830,
+        "expected_frames": 1830,
+        "resolution": [
+          1080,
+          1920
+        ],
+        "fps": "30/1",
+        "video_duration": "61.000000",
+        "audio_duration": "61.000000",
+        "integrated_lufs": -16.0,
+        "true_peak_dbtp": -1.5,
+        "caption_phrases": 47,
+        "contacts": [
+          "02_analysis/dhiraj/reel-01-finishing/encoded-qa-v04/contact-00.jpg",
+          "02_analysis/dhiraj/reel-01-finishing/encoded-qa-v04/contact-01.jpg",
+          "02_analysis/dhiraj/reel-01-finishing/encoded-qa-v04/contact-02.jpg",
+          "02_analysis/dhiraj/reel-01-finishing/encoded-qa-v04/contact-03.jpg",
+          "02_analysis/dhiraj/reel-01-finishing/encoded-qa-v04/contact-04.jpg",
+          "02_analysis/dhiraj/reel-01-finishing/encoded-qa-v04/contact-05.jpg"
+        ],
+        "visual_review": "Inspected all 47 encoded caption groups, all source/B-roll boundaries, 12 larger design frames including the 2.000s correction, and exact glyph ink bounds. Consecutive range-word entrance samples prepared and reviewed separately.",
+        "dialogue_review": "Same original enhanced voice input and 2928000-sample dialogue. Decoded v03/v04 correlation 0.9999988, comparison SNR 56.08dB; AAC payload not byte-identical. Human correction governs the opening caption; no voice synthesis or word replacement.",
+        "status": "CAPTION_REVISION_REVIEW_READY / 5–10 confirmed visually",
+        "black_intervals": [],
+        "caption_words": 166,
+        "number_correction": {
+          "text": "5–10",
+          "authority": "Explicit user correction; supersedes draft ASR 15",
+          "verified_frame_seconds": 2.0,
+          "rendered_start": 1.344667,
+          "rendered_end": 2.504667
+        },
+        "audio_comparison": {
+          "voice_pcm_path_identical": true,
+          "mixed_pcm_samples": 2928000,
+          "master_difference_rms": 0.00018128944793716073,
+          "master_max_difference": 0.007919296622276306,
+          "decoded_comparison_snr_db": 56.08186956480151,
+          "decoded_correlation": 0.9999987675102502,
+          "note": "AAC payload differs; compare actual decoded samples and unchanged voice source rather than asserting byte identity."
+        },
+        "human_listening_available": false
+      },
+      "user_approval": "Latest finish-v04 edit/caption styling approved; use as batch baseline"
+    },
+    "reel-02": {
+      "plan": "03_reels/dhiraj/reel-02/04_timeline/finish-v01/plan.json",
+      "video": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-02/reel-02_finished-9x16_v01.mp4",
+      "qa": {
+        "video": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-02/reel-02_finished-9x16_v01.mp4",
+        "sha256": "fac61bb063ff7066f799576406cf3d562bb0537a916ea9447e034f481dafabfd",
+        "full_decode": "passed",
+        "frames": 1723,
+        "expected_frames": 1723,
+        "resolution": [
+          1080,
+          1920
+        ],
+        "fps": "30/1",
+        "video_duration": "57.433333",
+        "audio_duration": "57.433333",
+        "integrated_lufs": -16.0,
+        "true_peak_dbtp": -1.5,
+        "caption_phrases": 43,
+        "contacts": [
+          "02_analysis/dhiraj/reel-02-finishing/encoded-qa-v01/contact-00.jpg",
+          "02_analysis/dhiraj/reel-02-finishing/encoded-qa-v01/contact-01.jpg",
+          "02_analysis/dhiraj/reel-02-finishing/encoded-qa-v01/contact-02.jpg",
+          "02_analysis/dhiraj/reel-02-finishing/encoded-qa-v01/contact-03.jpg",
+          "02_analysis/dhiraj/reel-02-finishing/encoded-qa-v01/contact-04.jpg",
+          "02_analysis/dhiraj/reel-02-finishing/encoded-qa-v01/contact-05.jpg",
+          "02_analysis/dhiraj/reel-02-finishing/encoded-qa-v01/contact-06.jpg",
+          "02_analysis/dhiraj/reel-02-finishing/encoded-qa-v01/contact-07.jpg"
+        ],
+        "visual_review": "All 43 encoded phrase groups, all 10 picture joins (three samples each), all three insert before/in/mid/out/after windows and 12 larger design/framing/logo previews inspected. Consecutive transition and numeral-3 word-entry samples inspected. All 148 glyph ink bounds fit the safe width.",
+        "dialogue_review": "Independent full encoded Metal decoding recovers all three questions, essentials, active-product aside and complete final shopping qualification. Source short Hindi passes support mixed wording; ASR is not a human listening attestation.",
+        "status": "FINISHED_REVIEW_READY / user listening and final wording approval pending",
+        "black_intervals": [],
+        "caption_words": 148,
+        "human_listening_available": false,
+        "voice_samples": 2756800,
+        "enhancement_lag_samples": 0,
+        "approved_style": "styles/dhiraj-approved-v01.json / user-approved Reel-01 finish-v04"
+      },
+      "user_approval": "User approved finish-v01 and requested Reel-03, 2026-10-20"
+    },
+    "reel-03": {
+      "plan": "03_reels/dhiraj/reel-03/04_timeline/finish-v02/plan.json",
+      "video": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-03/reel-03_finished-9x16_v02.mp4",
+      "qa": {
+        "video": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-03/reel-03_finished-9x16_v02.mp4",
+        "sha256": "56a3fd0b4227debc684eb363456646bcca06aaadc2233498be2bc55d85f6dbe7",
+        "full_decode": "passed",
+        "frames": 1845,
+        "expected_frames": 1845,
+        "resolution": [
+          1080,
+          1920
+        ],
+        "fps": "30/1",
+        "video_duration": "61.500000",
+        "audio_duration": "61.500000",
+        "integrated_lufs": -16.0,
+        "true_peak_dbtp": -1.5,
+        "caption_phrases": 49,
+        "contacts": [
+          "02_analysis/dhiraj/reel-03-finishing/encoded-qa-v02/contact-00.jpg",
+          "02_analysis/dhiraj/reel-03-finishing/encoded-qa-v02/contact-01.jpg",
+          "02_analysis/dhiraj/reel-03-finishing/encoded-qa-v02/contact-02.jpg",
+          "02_analysis/dhiraj/reel-03-finishing/encoded-qa-v02/contact-03.jpg",
+          "02_analysis/dhiraj/reel-03-finishing/encoded-qa-v02/contact-04.jpg",
+          "02_analysis/dhiraj/reel-03-finishing/encoded-qa-v02/contact-05.jpg",
+          "02_analysis/dhiraj/reel-03-finishing/encoded-qa-v02/contact-06.jpg"
+        ],
+        "visual_review": "Inspected all 49 encoded caption groups, all seven source joins at -0.1/0/+0.1s, both inserts before/in/mid/out/after, opening/closing/logo and larger contrast/framing proofs. Consecutive transition/word-entry samples reviewed; all 161 measured glyph bounds fit the safe width. v02 uses deeper ink on insert shadows and a lower turmeric caption.",
+        "dialogue_review": "Full independent encoded Metal decoding recovers all ordered passages and the complete caution/routine/closing. v02 uses the identical enhanced voice with exact 2952000 samples; caption-revision mix correlation 0.99999997, SNR72.34dB. Original and isolated short decoding support mixed-word caption curation; no human listening attestation.",
+        "status": "FINISHED_REVIEW_READY / user listening and wording approval pending",
+        "black_intervals": [],
+        "caption_words": 161,
+        "human_listening_available": false,
+        "voice_samples": 2952000,
+        "enhancement_lag_samples": 0,
+        "approved_style": "styles/dhiraj-approved-v01.json / Reel-01 finish-v04; Reel-02 also approved"
+      }
+    },
+    "reel-04": {
+      "plan": "03_reels/dhiraj/reel-04/04_timeline/finish-v02/plan.json",
+      "video": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-04/reel-04_finished-9x16_v02.mp4",
+      "qa": {
+        "video": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-04/reel-04_finished-9x16_v02.mp4",
+        "sha256": "f5863d629a75d4a5f4ebfb4a9b1ec4959a69922e066779eabdd2fc47538bda1c",
+        "full_decode": "passed",
+        "frames": 1184,
+        "expected_frames": 1184,
+        "resolution": [
+          1080,
+          1920
+        ],
+        "fps": "30/1",
+        "video_duration": "39.466667",
+        "audio_duration": "39.466667",
+        "integrated_lufs": -16.0,
+        "true_peak_dbtp": -1.5,
+        "caption_phrases": 30,
+        "contacts": [
+          "02_analysis/dhiraj/reel-04-finishing/encoded-qa-v02/contact-00.jpg",
+          "02_analysis/dhiraj/reel-04-finishing/encoded-qa-v02/contact-01.jpg",
+          "02_analysis/dhiraj/reel-04-finishing/encoded-qa-v02/contact-02.jpg",
+          "02_analysis/dhiraj/reel-04-finishing/encoded-qa-v02/contact-03.jpg",
+          "02_analysis/dhiraj/reel-04-finishing/encoded-qa-v02/contact-04.jpg"
+        ],
+        "visual_review": "All30 encoded caption groups, all five source joins and both B-roll before/in/mid/out/after windows inspected. Additional12-frame proof verifies the corrected10.1s join, word entrance and shifted B02. All114 glyph ink bounds fit the safe width and alpha layer.",
+        "dialogue_review": "User-identified इसका मतलब retake removed from original speech and captions. Full encoded decoding confirms direct इसका answer; independent short encoded decodes recover dry/sensitive, suitability and sister/routine passages missed by the full decoder. Retained clean PCM is bit-identical outside the6ms splice fade; enhanced voice two-second window correlation minimum0.999972. No human listening attestation.",
+        "status": "USER_RETAKE_CORRECTION_READY / original exports retained",
+        "black_intervals": [],
+        "caption_words": 114,
+        "human_listening_available": false,
+        "voice_samples": 1894400,
+        "enhancement_lag_samples": 0,
+        "user_correction": {
+          "date": "2026-10-20",
+          "authority": "Explicit user correction: इसका मतलब is a retake; go directly to इसका answer",
+          "source": "clip-02bd5307634d6ddd",
+          "source_removed_in": 12.6,
+          "source_removed_out": 14.3,
+          "old_timeline_in": 10.1,
+          "old_timeline_out": 11.8,
+          "frames_removed": 51,
+          "seconds_removed": 1.7
+        }
+      },
+      "user_correction": {
+        "date": "2026-10-20",
+        "authority": "Explicit user correction: इसका मतलब is a retake; go directly to इसका answer",
+        "source": "clip-02bd5307634d6ddd",
+        "source_removed_in": 12.6,
+        "source_removed_out": 14.3,
+        "old_timeline_in": 10.1,
+        "old_timeline_out": 11.8,
+        "frames_removed": 51,
+        "seconds_removed": 1.7
+      }
+    },
+    "reel-05": {
+      "plan": "03_reels/dhiraj/reel-05/04_timeline/finish-v02/plan.json",
+      "video": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-05/reel-05_finished-9x16_v02.mp4",
+      "qa": {
+        "video": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-05/reel-05_finished-9x16_v02.mp4",
+        "sha256": "fbfc7211b81687de571df08277ebbcb18a57c6d0a5b06d5ac7b2ec9ad19b984b",
+        "full_decode": "passed",
+        "frames": 2156,
+        "expected_frames": 2156,
+        "resolution": [
+          1080,
+          1920
+        ],
+        "fps": "30/1",
+        "video_duration": "71.866667",
+        "audio_duration": "71.866667",
+        "integrated_lufs": -16.0,
+        "true_peak_dbtp": -1.5,
+        "caption_phrases": 53,
+        "contacts": [
+          "02_analysis/dhiraj/reels-05-06-finishing/05-encoded-qa-v02/contact-00.jpg",
+          "02_analysis/dhiraj/reels-05-06-finishing/05-encoded-qa-v02/contact-01.jpg",
+          "02_analysis/dhiraj/reels-05-06-finishing/05-encoded-qa-v02/contact-02.jpg",
+          "02_analysis/dhiraj/reels-05-06-finishing/05-encoded-qa-v02/contact-03.jpg",
+          "02_analysis/dhiraj/reels-05-06-finishing/05-encoded-qa-v02/contact-04.jpg",
+          "02_analysis/dhiraj/reels-05-06-finishing/05-encoded-qa-v02/contact-05.jpg"
+        ],
+        "visual_review": "Inspected all53 encoded caption groups, all three source joins at -0.1/0/+0.1s, both inserts before/in/mid/out/after, source/crop/design contacts, larger encoded proofs and consecutive word/transition samples. Final v02 transition contacts inspected; all189 shaped glyph ink bounds fit the safe width and alpha layer.",
+        "dialogue_review": "Full independent encoded decoding recovers ordered speech and closing in v01. Current v02 reuses the identical enhanced voice master; source short decodes support mixed-word curation. Final mix comparison recorded. No human listening attestation.",
+        "status": "FINISHED_REVIEW_READY / user listening and wording approval pending",
+        "black_intervals": [],
+        "caption_words": 189,
+        "human_listening_available": false,
+        "voice_samples": 3449600,
+        "enhancement_lag_samples": 0,
+        "approved_style": "styles/dhiraj-approved-v01.json / user-approved Dhiraj white-gold caption system",
+        "audio_comparison": {
+          "voice_master_identical": true,
+          "voice_sample_count": 3449600,
+          "mix_correlation": 0.9999999997686846,
+          "revision": "05:visual dissolve only;06:B01 exit extended and corresponding quiet cue moved",
+          "human_listening_available": false
+        }
+      }
+    },
+    "reel-06": {
+      "plan": "03_reels/dhiraj/reel-06/04_timeline/finish-v03/plan.json",
+      "video": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-06/reel-06_finished-9x16_v03.mp4",
+      "qa": {
+        "video": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-06/reel-06_finished-9x16_v03.mp4",
+        "sha256": "05da0f60833644ffe849dc373b15862959f312d4eafb124863e5f8ac0555d3a9",
+        "full_decode": "passed",
+        "frames": 1095,
+        "expected_frames": 1095,
+        "resolution": [
+          1080,
+          1920
+        ],
+        "fps": "30/1",
+        "video_duration": "36.500000",
+        "audio_duration": "36.500000",
+        "integrated_lufs": -16.0,
+        "true_peak_dbtp": -1.5,
+        "caption_phrases": 27,
+        "contacts": [
+          "02_analysis/dhiraj/reel-06-retake-v03/finished-qa/contact-00.jpg",
+          "02_analysis/dhiraj/reel-06-retake-v03/finished-qa/contact-01.jpg",
+          "02_analysis/dhiraj/reel-06-retake-v03/finished-qa/contact-02.jpg",
+          "02_analysis/dhiraj/reel-06-retake-v03/finished-qa/contact-03.jpg",
+          "02_analysis/dhiraj/reel-06-retake-v03/finished-qa/contact-04.jpg"
+        ],
+        "visual_review": "Inspected encoded caption groups, every source-cut boundary and insert boundary, plus consecutive frames through corrected32.4s joint pickup. Caption glyph bounds fit.",
+        "dialogue_review": "Explicit user retake correction; independent isolated original and corrected encoded ending ASR; exact retained PCM comparison outside6ms fades. Human listening not attested.",
+        "status": "FINISHED_REVIEW_READY / user-directed retake correction",
+        "black_intervals": [],
+        "caption_words": 103,
+        "human_listening_available": false,
+        "voice_samples": 1752000,
+        "enhancement_lag_samples": 0,
+        "user_correction": {
+          "request": "User identifies unwanted first attempt around delivered32–33s; keep later clean joint",
+          "source_id": "clip-a7b697879d3419b1",
+          "source_in": 38.56666666666667,
+          "source_out": 39.8,
+          "previous_timeline_in": 32.400000000000006,
+          "previous_timeline_out": 33.63333333333333,
+          "removed_frames": 37,
+          "removed_seconds": 1.2333333333333334,
+          "evidence": "User correction, independent isolated ASR, chronological mouth/gesture contact and 50ms RMS: first attempt39.0–39.65; clean onset39.85",
+          "human_listening_attested": false
+        }
+      }
+    },
+    "reel-07": {
+      "plan": "03_reels/dhiraj/reel-07/04_timeline/finish-v02/plan.json",
+      "video": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-07/reel-07_finished-9x16_v02.mp4",
+      "qa": {
+        "video": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-07/reel-07_finished-9x16_v02.mp4",
+        "sha256": "d96c6f0b2e3b41600765074293fa71ef2f650708e1e3e392f4074861b13053a8",
+        "full_decode": "passed",
+        "frames": 2078,
+        "expected_frames": 2078,
+        "resolution": [
+          1080,
+          1920
+        ],
+        "fps": "30/1",
+        "video_duration": "69.266667",
+        "audio_duration": "69.266667",
+        "integrated_lufs": -16.0,
+        "true_peak_dbtp": -1.5,
+        "caption_phrases": 47,
+        "contacts": [
+          "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/07-encoded-qa-v02/contact-00.jpg",
+          "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/07-encoded-qa-v02/contact-01.jpg",
+          "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/07-encoded-qa-v02/contact-02.jpg",
+          "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/07-encoded-qa-v02/contact-03.jpg",
+          "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/07-encoded-qa-v02/contact-04.jpg",
+          "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/07-encoded-qa-v02/contact-05.jpg"
+        ],
+        "visual_review": "Inspected complete encoded caption-group and every cut/B-roll boundary contact, portrait framing, logo/ink contrast, and consecutive word/transition samples. Separate clean join contacts inspected.",
+        "dialogue_review": "Independent original long/short Hindi-English decoding, source-aware retake/cue selections and full encoded ASR; targeted short encoded passes resolve long-decoder omissions/translations. Human listening not attested.",
+        "status": "FINISHED_REVIEW_READY / user review pending",
+        "black_intervals": [],
+        "caption_words": 212,
+        "voice_samples": 3324800,
+        "enhancement_lag_samples": 0,
+        "human_listening_available": false,
+        "style": "styles/dhiraj-approved-v01.json",
+        "encoded_asr": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/07-encoded-metal-v02.txt",
+        "motion_contacts": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/07-encoded-motion.jpg"
+      }
+    },
+    "reel-08": {
+      "plan": "03_reels/dhiraj/reel-08/04_timeline/finish-v01/plan.json",
+      "video": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-08/reel-08_finished-9x16_v01.mp4",
+      "qa": {
+        "video": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-08/reel-08_finished-9x16_v01.mp4",
+        "sha256": "e01a1306086a16d4e40f7111db3a33b946cc34edfbab412efd9c6533cad7ec62",
+        "full_decode": "passed",
+        "frames": 1731,
+        "expected_frames": 1731,
+        "resolution": [
+          1080,
+          1920
+        ],
+        "fps": "30/1",
+        "video_duration": "57.700000",
+        "audio_duration": "57.700000",
+        "integrated_lufs": -16.0,
+        "true_peak_dbtp": -1.5,
+        "caption_phrases": 37,
+        "contacts": [
+          "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/08-encoded-qa-v01/contact-00.jpg",
+          "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/08-encoded-qa-v01/contact-01.jpg",
+          "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/08-encoded-qa-v01/contact-02.jpg",
+          "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/08-encoded-qa-v01/contact-03.jpg",
+          "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/08-encoded-qa-v01/contact-04.jpg"
+        ],
+        "visual_review": "Inspected complete encoded caption-group and every cut/B-roll boundary contact, portrait framing, logo/ink contrast, and consecutive word/transition samples. Separate clean join contacts inspected.",
+        "dialogue_review": "Independent original long/short Hindi-English decoding, source-aware retake/cue selections and full encoded ASR; targeted short encoded passes resolve long-decoder omissions/translations. Human listening not attested.",
+        "status": "FINISHED_REVIEW_READY / user review pending",
+        "black_intervals": [],
+        "caption_words": 171,
+        "voice_samples": 2769600,
+        "enhancement_lag_samples": 0,
+        "human_listening_available": false,
+        "style": "styles/dhiraj-approved-v01.json",
+        "encoded_asr": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/08-encoded-metal.txt",
+        "motion_contacts": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/08-encoded-motion.jpg"
+      }
+    },
+    "reel-09": {
+      "plan": "03_reels/dhiraj/reel-09/04_timeline/finish-v01/plan.json",
+      "video": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-09/reel-09_finished-9x16_v01.mp4",
+      "qa": {
+        "video": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-09/reel-09_finished-9x16_v01.mp4",
+        "sha256": "057939d12f53643ec6bfcb3cad5735eee1243f34e397bfeec0542f9718aa5bef",
+        "full_decode": "passed",
+        "frames": 1422,
+        "expected_frames": 1422,
+        "resolution": [
+          1080,
+          1920
+        ],
+        "fps": "30/1",
+        "video_duration": "47.400000",
+        "audio_duration": "47.400000",
+        "integrated_lufs": -16.0,
+        "true_peak_dbtp": -1.5,
+        "caption_phrases": 31,
+        "contacts": [
+          "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/09-encoded-qa-v01/contact-00.jpg",
+          "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/09-encoded-qa-v01/contact-01.jpg",
+          "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/09-encoded-qa-v01/contact-02.jpg",
+          "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/09-encoded-qa-v01/contact-03.jpg",
+          "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/09-encoded-qa-v01/contact-04.jpg",
+          "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/09-encoded-qa-v01/contact-05.jpg"
+        ],
+        "visual_review": "Inspected complete encoded caption-group and every cut/B-roll boundary contact, portrait framing, logo/ink contrast, and consecutive word/transition samples. Separate clean join contacts inspected.",
+        "dialogue_review": "Independent original long/short Hindi-English decoding, source-aware retake/cue selections and full encoded ASR; targeted short encoded passes resolve long-decoder omissions/translations. Human listening not attested.",
+        "status": "FINISHED_REVIEW_READY / user review pending",
+        "black_intervals": [],
+        "caption_words": 137,
+        "voice_samples": 2275200,
+        "enhancement_lag_samples": 0,
+        "human_listening_available": false,
+        "style": "styles/dhiraj-approved-v01.json",
+        "encoded_asr": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/09-encoded-metal.txt",
+        "motion_contacts": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/09-encoded-motion.jpg"
+      }
+    },
+    "reel-10": {
+      "plan": "03_reels/dhiraj/reel-10/04_timeline/finish-v01/plan.json",
+      "video": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-10/reel-10_finished-9x16_v01.mp4",
+      "qa": {
+        "video": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-10/reel-10_finished-9x16_v01.mp4",
+        "sha256": "5f98a0f5218b049d28ba8d79bc345fb0f23c2627fb3b996010dd39d5ca136c60",
+        "full_decode": "passed",
+        "frames": 2001,
+        "expected_frames": 2001,
+        "resolution": [
+          1080,
+          1920
+        ],
+        "fps": "30/1",
+        "video_duration": "66.700000",
+        "audio_duration": "66.700000",
+        "integrated_lufs": -16.0,
+        "true_peak_dbtp": -1.5,
+        "caption_phrases": 38,
+        "contacts": [
+          "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/10-encoded-qa-v01/contact-00.jpg",
+          "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/10-encoded-qa-v01/contact-01.jpg",
+          "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/10-encoded-qa-v01/contact-02.jpg",
+          "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/10-encoded-qa-v01/contact-03.jpg",
+          "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/10-encoded-qa-v01/contact-04.jpg",
+          "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/10-encoded-qa-v01/contact-05.jpg"
+        ],
+        "visual_review": "Inspected complete encoded caption-group and every cut/B-roll boundary contact, portrait framing, logo/ink contrast, and consecutive word/transition samples. Separate clean join contacts inspected.",
+        "dialogue_review": "Independent original long/short Hindi-English decoding, source-aware retake/cue selections and full encoded ASR; targeted short encoded passes resolve long-decoder omissions/translations. Human listening not attested.",
+        "status": "FINISHED_REVIEW_READY / user review pending",
+        "black_intervals": [],
+        "caption_words": 183,
+        "voice_samples": 3201600,
+        "enhancement_lag_samples": 0,
+        "human_listening_available": false,
+        "style": "styles/dhiraj-approved-v01.json",
+        "encoded_asr": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/10-encoded-metal-v01.txt",
+        "motion_contacts": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/10-encoded-motion.jpg"
+      }
+    },
+    "reel-11": {
+      "plan": "03_reels/dhiraj/reel-11/04_timeline/finish-v01/plan.json",
+      "video": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-11/reel-11_finished-9x16_v01.mp4",
+      "qa": {
+        "video": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-11/reel-11_finished-9x16_v01.mp4",
+        "sha256": "7bc149cc8bb5c2a3437b267a9599dfd74262d959e4fbdff40068b2441c13fb8a",
+        "full_decode": "passed",
+        "frames": 1712,
+        "expected_frames": 1712,
+        "resolution": [
+          1080,
+          1920
+        ],
+        "fps": "30/1",
+        "video_duration": "57.066667",
+        "audio_duration": "57.066667",
+        "integrated_lufs": -16.0,
+        "true_peak_dbtp": -1.5,
+        "caption_phrases": 34,
+        "contacts": [
+          "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/11-encoded-qa-v01/contact-00.jpg",
+          "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/11-encoded-qa-v01/contact-01.jpg",
+          "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/11-encoded-qa-v01/contact-02.jpg",
+          "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/11-encoded-qa-v01/contact-03.jpg",
+          "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/11-encoded-qa-v01/contact-04.jpg"
+        ],
+        "visual_review": "Inspected complete encoded caption-group and every cut/B-roll boundary contact, portrait framing, logo/ink contrast, and consecutive word/transition samples. Separate clean join contacts inspected.",
+        "dialogue_review": "Independent original long/short Hindi-English decoding, source-aware retake/cue selections and full encoded ASR; targeted short encoded passes resolve long-decoder omissions/translations. Human listening not attested.",
+        "status": "FINISHED_REVIEW_READY / user review pending",
+        "black_intervals": [],
+        "caption_words": 170,
+        "voice_samples": 2739200,
+        "enhancement_lag_samples": 0,
+        "human_listening_available": false,
+        "style": "styles/dhiraj-approved-v01.json",
+        "encoded_asr": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/11-encoded-metal-v01.txt",
+        "motion_contacts": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/11-encoded-motion.jpg"
+      }
+    },
+    "reel-12": {
+      "plan": "03_reels/dhiraj/reel-12/04_timeline/finish-v01/plan.json",
+      "video": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-12/reel-12_finished-9x16_v01.mp4",
+      "qa": {
+        "video": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-12/reel-12_finished-9x16_v01.mp4",
+        "sha256": "bfc204810b0478419ffc1f4273114d5ef4a8956bacaf57b7b63ca6c4bfc900f2",
+        "full_decode": "passed",
+        "frames": 2340,
+        "expected_frames": 2340,
+        "resolution": [
+          1080,
+          1920
+        ],
+        "fps": "30/1",
+        "video_duration": "78.000000",
+        "audio_duration": "78.000000",
+        "integrated_lufs": -16.0,
+        "true_peak_dbtp": -1.5,
+        "caption_phrases": 49,
+        "contacts": [
+          "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/12-encoded-qa-v01/contact-00.jpg",
+          "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/12-encoded-qa-v01/contact-01.jpg",
+          "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/12-encoded-qa-v01/contact-02.jpg",
+          "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/12-encoded-qa-v01/contact-03.jpg",
+          "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/12-encoded-qa-v01/contact-04.jpg",
+          "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/12-encoded-qa-v01/contact-05.jpg",
+          "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/12-encoded-qa-v01/contact-06.jpg",
+          "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/12-encoded-qa-v01/contact-07.jpg"
+        ],
+        "visual_review": "Inspected complete encoded caption-group and every cut/B-roll boundary contact, portrait framing, logo/ink contrast, and consecutive word/transition samples. Separate clean join contacts inspected.",
+        "dialogue_review": "Independent original long/short Hindi-English decoding, source-aware retake/cue selections and full encoded ASR; targeted short encoded passes resolve long-decoder omissions/translations. Human listening not attested.",
+        "status": "FINISHED_REVIEW_READY / user review pending",
+        "black_intervals": [],
+        "caption_words": 221,
+        "voice_samples": 3744000,
+        "enhancement_lag_samples": 0,
+        "human_listening_available": false,
+        "style": "styles/dhiraj-approved-v01.json",
+        "encoded_asr": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/12-encoded-metal-v01.txt",
+        "motion_contacts": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/02_analysis/dhiraj/reels-07-12-finishing/12-encoded-motion.jpg"
+      }
+    }
+  },
+  "broll_pending_in_this_batch": 0
+}

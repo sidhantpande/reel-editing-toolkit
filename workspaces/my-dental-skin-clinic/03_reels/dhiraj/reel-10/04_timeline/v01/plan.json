@@ -1,0 +1,166 @@
+{
+  "reel_id": "dhiraj-reel-10",
+  "version": "v01",
+  "title": "Same serum content, different prices — podcast Q&A",
+  "style": "styles/clinic-approved.json",
+  "status": "CLEAN_SELECTS_FOR_REVIEW / logo deferred by user; B-roll planning separate",
+  "segments": [
+    {
+      "source_id": "clip-70a3b05491fc58dc",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9806.MP4",
+      "source_sha256": "70a3b05491fc58dcda6264ac500eaae10988285aef741088aa326bbd8a47b01b",
+      "source_duration": 69.5695,
+      "source_in": 0.36666666666666664,
+      "source_out": 8.733333333333334,
+      "timeline_in": 0,
+      "timeline_out": 8.366666666666667,
+      "crop_xywh": {
+        "x": 502,
+        "y": 624,
+        "width": 864,
+        "height": 1536
+      },
+      "role": "Interviewer asks why results differ",
+      "speaker": "interviewer",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-70a3b05491fc58dc",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9806.MP4",
+      "source_sha256": "70a3b05491fc58dcda6264ac500eaae10988285aef741088aa326bbd8a47b01b",
+      "source_duration": 69.5695,
+      "source_in": 8.733333333333333,
+      "source_out": 10.7,
+      "timeline_in": 8.366666666666667,
+      "timeline_out": 10.333333333333334,
+      "crop_xywh": {
+        "x": 2418,
+        "y": 624,
+        "width": 864,
+        "height": 1536
+      },
+      "role": "Doctor asks whether pricing is the same",
+      "speaker": "doctor",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-70a3b05491fc58dc",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9806.MP4",
+      "source_sha256": "70a3b05491fc58dcda6264ac500eaae10988285aef741088aa326bbd8a47b01b",
+      "source_duration": 69.5695,
+      "source_in": 10.7,
+      "source_out": 13.866666666666665,
+      "timeline_in": 10.333333333333334,
+      "timeline_out": 13.5,
+      "crop_xywh": {
+        "x": 502,
+        "y": 624,
+        "width": 864,
+        "height": 1536
+      },
+      "role": "Interviewer gives two prices",
+      "speaker": "interviewer",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-70a3b05491fc58dc",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9806.MP4",
+      "source_sha256": "70a3b05491fc58dcda6264ac500eaae10988285aef741088aa326bbd8a47b01b",
+      "source_duration": 69.5695,
+      "source_in": 13.866666666666667,
+      "source_out": 22.066666666666666,
+      "timeline_in": 13.5,
+      "timeline_out": 21.7,
+      "crop_xywh": {
+        "x": 2418,
+        "y": 624,
+        "width": 864,
+        "height": 1536
+      },
+      "role": "Doctor's complete explanation and recommendation",
+      "speaker": "doctor",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-70a3b05491fc58dc",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9806.MP4",
+      "source_sha256": "70a3b05491fc58dcda6264ac500eaae10988285aef741088aa326bbd8a47b01b",
+      "source_duration": 69.5695,
+      "source_in": 22.933333333333334,
+      "source_out": 66.43333333333334,
+      "timeline_in": 21.7,
+      "timeline_out": 65.2,
+      "crop_xywh": {
+        "x": 2418,
+        "y": 624,
+        "width": 864,
+        "height": 1536
+      },
+      "role": "Doctor's complete explanation and recommendation",
+      "speaker": "doctor",
+      "join": "fade"
+    },
+    {
+      "source_id": "clip-70a3b05491fc58dc",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9806.MP4",
+      "source_sha256": "70a3b05491fc58dcda6264ac500eaae10988285aef741088aa326bbd8a47b01b",
+      "source_duration": 69.5695,
+      "source_in": 66.43333333333334,
+      "source_out": 67.60000000000001,
+      "timeline_in": 65.2,
+      "timeline_out": 66.36666666666667,
+      "crop_xywh": {
+        "x": 502,
+        "y": 624,
+        "width": 864,
+        "height": 1536
+      },
+      "role": "Interviewer thanks doctor",
+      "speaker": "interviewer",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-70a3b05491fc58dc",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9806.MP4",
+      "source_sha256": "70a3b05491fc58dcda6264ac500eaae10988285aef741088aa326bbd8a47b01b",
+      "source_duration": 69.5695,
+      "source_in": 67.6,
+      "source_out": 69.0,
+      "timeline_in": 66.36666666666667,
+      "timeline_out": 67.76666666666668,
+      "crop_xywh": {
+        "x": 2418,
+        "y": 624,
+        "width": 864,
+        "height": 1536
+      },
+      "role": "Doctor replies",
+      "speaker": "doctor",
+      "join": "cut"
+    }
+  ],
+  "words": [],
+  "broll_slots": [],
+  "graphic_slots": [],
+  "cue_exclusions": [],
+  "clean_export": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-10/reel-10_clean-9x16_v01.mp4",
+  "review": {
+    "source_visual": "complete 2-second chronological contact sheets and framing proofs",
+    "dialogue": "two local ASR decoders; no human listening attestation",
+    "captions": "not burned into clean-cut delivery; draft ASR retained separately",
+    "brand": "user requested clean edit and logo later"
+  },
+  "duration_seconds": 67.76666666666667,
+  "silence_splices": [
+    {
+      "source": "clip-70a3b05491fc58dc",
+      "in": 22.066666666666666,
+      "out": 22.933333333333334,
+      "reason": "continuous normalized energy below -44 dBFS for >=0.9s; 180ms handles retained"
+    }
+  ],
+  "editorial_notes": [
+    "Independent source crop per speaker; clean turn cuts avoid overlapping faces. Do not mirror the footage.",
+    "Preserve the distinction between content, vehicle/delivery, manufacturer and suitability; do not imply price guarantees better results."
+  ]
+}

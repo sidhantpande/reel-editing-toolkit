@@ -8,3 +8,41 @@ clip-66fccec784f24470,DJI_20261004205533_0097_D.MP4,dental,Reel 07 - missing too
 clip-51a039fea1aafa90,DJI_20261004211213_0101_D.MP4,dental,Reel 08 - Mahagauri / dental hygiene,0101,2.67,73.0733,selected-main,"Curated disjoint ranges in reel-08 plan; exclude recap, redundant explanation and reading/setup tail; draft ASR normalized"
 clip-8f31e6c41ba7b3a2,DJI_20261004211434_0102_D.MP4,dental,Reel 08 - dental hygiene closing,0102,0,6.1,selected-closing,Direct hygiene/cavities closing; ending hold removed
 clip-38c0363911adc898,DJI_20261004211504_0103_D.MP4,dental,Reel 08 - campaign outro pickup,0103,,,alternate-excluded,"Repeated remember-day-one outro attempts; spoken start is contextual dialogue, not an automatic recording cue"
+clip-bb3fd17e93db2d8a,DJI_20261004212604_0105_D.MP4,doctor-aroll,Nine-day dental-series conclusion,0105,0,0,exclude,Accidental 0.15 s recording; exclude
+clip-c94de03444a3ecba,DJI_20261004212738_0106_D.MP4,doctor-aroll,Nine-day dental-series conclusion,0106,0,8.775,alternate,Repeated/incomplete opening; complete 0108 selected
+clip-28f41853651401a8,DJI_20261004212755_0108_D.MP4,doctor-aroll,Nine-day dental-series conclusion,0108,.100,7.233,select,Best complete opening; deity spelling/pronunciation needs final listening
+clip-e87275f6c98992a2,DJI_20261004212901_0116_D.MP4,doctor-aroll,Nine-day dental-series conclusion,0116,4.233;25.000,10.467;36.367,select,Keep question and answer/comparison; reject 10.5-24.9 reading/rehearsal; B01 covers speaking reading glance
+clip-c7b285ccc5d36796,DJI_20261004212956_0117_D.MP4,doctor-aroll,Nine-day dental-series conclusion,0117,.600,8.900,select,Keep escalation and therefore; later number-line attempt superseded by 0118
+clip-a24ac38b2736c1b0,DJI_20261004213054_0118_D.MP4,doctor-aroll,Nine-day dental-series conclusion,0118,.533,11.200,select,Clean reminder/goodbye with explicit pause cuts; source-aware plan has exact spans
+clip-6dc615d569861e6d,MVI_9768.MP4,Dhiraj shoot,Diwali glow — new products and skin experiments,,,,selected,Dhiraj batch: reel-01 / Explicit selected source ranges; discarded portions remain in original
+clip-f1b4d3dda4071566,MVI_9769.MP4,Dhiraj shoot,Diwali glow — new products and skin experiments,,,,selected,Dhiraj batch: reel-01 / Explicit selected source ranges; discarded portions remain in original
+clip-bddf658077d2eaf1,MVI_9771.MP4,Dhiraj shoot,Diwali glow — new products and skin experiments,,,,selected,Dhiraj batch: reel-01 / Explicit selected source ranges; discarded portions remain in original
+clip-7968bfbf9853e674,MVI_9772.MP4,Dhiraj shoot,Dhanteras skincare shopping — three questions,,,,selected,Dhiraj batch: reel-02 / Explicit selected source ranges; discarded portions remain in original
+clip-1b5aba97291686ad,MVI_9774.MP4,Dhiraj shoot,Dhanteras skincare shopping — three questions,,,,selected,Dhiraj batch: reel-02 / Explicit selected source ranges; discarded portions remain in original
+clip-8871547793b517ec,MVI_9775.MP4,Dhiraj shoot,Diwali skin experts — home-remedy experiments,,,,alternate / excluded from current cut,"Dhiraj batch: reel-03 / failed opening, superseded by 9776"
+clip-7eb8ba8c8d4087f9,MVI_9776.MP4,Dhiraj shoot,Diwali skin experts — home-remedy experiments,,,,selected,Dhiraj batch: reel-03 / Explicit selected source ranges; discarded portions remain in original
+clip-c038915e9b8335a0,MVI_9777.MP4,Dhiraj shoot,Diwali skin experts — home-remedy experiments,,,,alternate / excluded from current cut,Dhiraj batch: reel-03 / false start and spoken cut command
+clip-17ea96cc73ecfe66,MVI_9778.MP4,Dhiraj shoot,Diwali skin experts — home-remedy experiments,,,,selected,Dhiraj batch: reel-03 / Explicit selected source ranges; discarded portions remain in original
+clip-31fcde80bac3bbbc,MVI_9779.MP4,Dhiraj shoot,Diwali skin experts — home-remedy experiments,,,,alternate / excluded from current cut,"Dhiraj batch: reel-03 / incomplete alternate ending, superseded by 9782"
+clip-f46b0fb335902784,MVI_9780.MP4,Dhiraj shoot,Diwali skin experts — home-remedy experiments,,,,alternate / excluded from current cut,Dhiraj batch: reel-03 / rehearsal/setup and interrupted close
+clip-48a1fe5ce3396612,MVI_9781.MP4,Dhiraj shoot,Diwali skin experts — home-remedy experiments,,,,alternate / excluded from current cut,Dhiraj batch: reel-03 / accidental 2.3-second camera clip
+clip-ce0f364e765dc5e9,MVI_9782.MP4,Dhiraj shoot,Diwali skin experts — home-remedy experiments,,,,selected,Dhiraj batch: reel-03 / Explicit selected source ranges; discarded portions remain in original
+clip-02bd5307634d6ddd,MVI_9785.MP4,Dhiraj shoot,Bhai Dooj — do not blindly share skincare,,,,selected,Dhiraj batch: reel-04 / Explicit selected source ranges; discarded portions remain in original
+clip-153327b74db0c748,MVI_9786.MP4,Dhiraj shoot,Bhai Dooj — do not blindly share skincare,,,,selected,Dhiraj batch: reel-04 / Explicit selected source ranges; discarded portions remain in original
+clip-664c819d148c72cc,MVI_9787.MP4,Dhiraj shoot,Teen skincare basics and physical development,,,,alternate / excluded from current cut,Dhiraj batch: reel-05 / incomplete alternate hook
+clip-7d3cbec283d448fa,MVI_9788.MP4,Dhiraj shoot,Teen skincare basics and physical development,,,,selected,Dhiraj batch: reel-05 / Explicit selected source ranges; discarded portions remain in original
+clip-a7b697879d3419b1,MVI_9789.MP4,Dhiraj shoot,Teen tanning — the doctor's personal parenting story,,,,selected,Dhiraj batch: reel-06 / Explicit selected source ranges; discarded portions remain in original
+clip-869870207023e8c7,MVI_9790.MP4,Dhiraj shoot,Teen skincare basics and physical development,,,,alternate / excluded from current cut,Dhiraj batch: reel-05 / concise alternate closing; main complete take 9788 retained
+clip-32d521ba00624c56,MVI_9791.MP4,Dhiraj shoot,"Hair fall, breakage and thinning",,,,alternate / excluded from current cut,Dhiraj batch: reel-07 / setup / aborted interviewer intro
+clip-0c8e6a2b191597d0,MVI_9792.MP4,Dhiraj shoot,"Hair fall, breakage and thinning",,,,alternate / excluded from current cut,Dhiraj batch: reel-07 / aborted interviewer intro
+clip-c63557be78895a87,MVI_9793.MP4,Dhiraj shoot,"Hair fall, breakage and thinning",,,,alternate / excluded from current cut,"Dhiraj batch: reel-07 / optional question, followed by setup; doctor explainer works without it"
+clip-e1eceb3348724333,MVI_9794.MP4,Dhiraj shoot,"Hair fall, breakage and thinning",,,,selected,Dhiraj batch: reel-07 / Explicit selected source ranges; discarded portions remain in original
+clip-0df681e2a5446502,MVI_9795.MP4,Dhiraj shoot,"Hair fall, breakage and thinning",,,,selected,Dhiraj batch: reel-07 / Explicit selected source ranges; discarded portions remain in original
+clip-af873671acc95ef9,MVI_9796.MP4,Dhiraj shoot,"Hair fall, breakage and thinning",,,,selected,Dhiraj batch: reel-07 / Explicit selected source ranges; discarded portions remain in original
+clip-788ea249d295e16c,MVI_9797.MP4,Dhiraj shoot,Influencers versus doctors — advice and trust,,,,alternate / excluded from current cut,"Dhiraj batch: reel-08 / aborted opening, replaced by 9798"
+clip-1ecaeac11a340a60,MVI_9798.MP4,Dhiraj shoot,Influencers versus doctors — advice and trust,,,,selected,Dhiraj batch: reel-08 / Explicit selected source ranges; discarded portions remain in original
+clip-e00b99ca502a7002,MVI_9799.MP4,Dhiraj shoot,Influencers versus doctors — advice and trust,,,,alternate / excluded from current cut,Dhiraj batch: reel-08 / accidental 1.27-second tail
+clip-fae84c326515560b,MVI_9800.MP4,Dhiraj shoot,Professional trust and treatment quality,,,,selected,Dhiraj batch: reel-09 / Explicit selected source ranges; discarded portions remain in original
+clip-70a3b05491fc58dc,MVI_9806.MP4,Dhiraj shoot,"Same serum content, different prices — podcast Q&A",,,,selected,Dhiraj batch: reel-10 / Explicit selected source ranges; discarded portions remain in original
+clip-55c126ce352c1ce1,MVI_9809.MP4,Dhiraj shoot,Wedding travel skincare essentials,,,,selected,Dhiraj batch: reel-11 / Explicit selected source ranges; discarded portions remain in original
+clip-45427460e55b2f77,MVI_9815.MP4,Dhiraj shoot,Father–son conversation — tanning and sports,,,,selected,Dhiraj batch: reel-12 / Explicit selected source ranges; discarded portions remain in original

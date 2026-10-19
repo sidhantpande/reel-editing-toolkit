@@ -1,0 +1,54 @@
+[
+  {
+    "reel": "reel-10",
+    "id": "B01",
+    "clip": "MVI_9806",
+    "source_anchor": 16,
+    "seconds": 6,
+    "spoken_anchor": "content same … purity … source",
+    "prompt": "Two distinct anonymous serum bottles with different silhouettes on an ivory surface. Camera arcs gently around both and racks focus between their droppers. Both liquids remain visually neutral; do not imply one bottle works better. No labels, no visible prices, no split-screen results.",
+    "layout": "full-frame",
+    "element": "native-price-pair",
+    "timeline_in": 15.1,
+    "timeline_out": 21.9,
+    "delivery_filename": "dhiraj_reel-10_B01.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.3,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: Two distinct anonymous serum bottles with different silhouettes on an ivory surface. Camera arcs gently around both and racks focus between their droppers. Both liquids remain visually neutral; do not imply one bottle works better. No labels, no visible prices, no split-screen results.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-10_B01.mp4",
+    "sha256": "89513c3242bc2461efd213fbc4477fb8c0a736fbaa087ffe6b71ce6aa706d287",
+    "selected_ranges": [
+      {
+        "timeline_in": 15.1,
+        "timeline_out": 21.9,
+        "media_in": 0.3
+      }
+    ]
+  },
+  {
+    "reel": "reel-10",
+    "id": "B02",
+    "clip": "MVI_9806",
+    "source_anchor": 25,
+    "seconds": 6,
+    "spoken_anchor": "active ingredient … vehicle … method of delivery",
+    "prompt": "Premium abstract macro of two clear glass dishes containing different neutral cosmetic gel textures; tiny unlabelled beads move gently through each medium at different paths. Conceptual illustration of different carriers, not a measured laboratory test. Stable glass geometry, slow focus shift, ivory/sage palette, no efficacy numbers.",
+    "layout": "full-frame",
+    "element": "native-price-pair",
+    "timeline_in": 24.066666666666666,
+    "timeline_out": 31.533333333333335,
+    "delivery_filename": "dhiraj_reel-10_B02.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.3,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: Premium abstract macro of two clear glass dishes containing different neutral cosmetic gel textures; tiny unlabelled beads move gently through each medium at different paths. Conceptual illustration of different carriers, not a measured laboratory test. Stable glass geometry, slow focus shift, ivory/sage palette, no efficacy numbers.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-10_B02.mp4",
+    "sha256": "16e8c6e8daff902e1fb303f9b0f917a4353422a6d68a0c3c18a8fbc1b0c80e0a",
+    "selected_ranges": [
+      {
+        "timeline_in": 24.066666666666666,
+        "timeline_out": 31.533333333333335,
+        "media_in": 0.3
+      }
+    ]
+  }
+]

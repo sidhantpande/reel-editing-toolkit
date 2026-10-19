@@ -28,5 +28,12 @@
   "approved_style": "styles/clinic-approved.json",
   "approved_baseline": "reel-07/v05",
   "workflow": "docs/PIPELINE.md",
-  "git_storage": "existing reel-editing-toolkit repository; approved B-rolls and brand/font binaries in Git LFS; camera/export/cache media excluded"
+  "git_storage": "existing reel-editing-toolkit repository; approved B-rolls and brand/font binaries in Git LFS; camera/export/cache media excluded",
+  "reference_pipeline": "docs/DOCTOR_PIPELINE.md",
+  "asset_generation_policy": {
+    "updated": "2026-10-19",
+    "transparent_images": "Assistant generation authorised by current user request",
+    "new_tools_and_models": "Authorised when useful; local weights/caches excluded from Git",
+    "video_broll": "User may deliver requested clips; pending media blocks a full render"
+  }
 }

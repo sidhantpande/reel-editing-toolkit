@@ -1,0 +1,717 @@
+[
+  {
+    "filename": "MVI_9768.MP4",
+    "id": "clip-6dc615d569861e6d",
+    "sha256": "6dc615d569861e6d36fa6f6c1ae821e0849dbcf5b82c135f3d25d51703c2bc7b",
+    "duration": 15.6156,
+    "reel": "reel-01",
+    "decision": "selected",
+    "reason": "Explicit selected source ranges; discarded portions remain in original",
+    "selected_ranges": [
+      {
+        "reel": "reel-01",
+        "source_in": 3.533333333333333,
+        "source_out": 11.7
+      },
+      {
+        "reel": "reel-01",
+        "source_in": 12.3,
+        "source_out": 13.133333333333335
+      }
+    ]
+  },
+  {
+    "filename": "MVI_9769.MP4",
+    "id": "clip-f1b4d3dda4071566",
+    "sha256": "f1b4d3dda40715667792dca7b51df640bb13b8b71493c90735e9465587087ce3",
+    "duration": 21.454767,
+    "reel": "reel-01",
+    "decision": "selected",
+    "reason": "Explicit selected source ranges; discarded portions remain in original",
+    "selected_ranges": [
+      {
+        "reel": "reel-01",
+        "source_in": 1.9666666666666666,
+        "source_out": 19.299999999999997
+      }
+    ]
+  },
+  {
+    "filename": "MVI_9771.MP4",
+    "id": "clip-bddf658077d2eaf1",
+    "sha256": "bddf658077d2eaf1a3b27a8384d69fc4a7bf290d9d2f884a343616c5ff00111d",
+    "duration": 37.670967,
+    "reel": "reel-01",
+    "decision": "selected",
+    "reason": "Explicit selected source ranges; discarded portions remain in original",
+    "selected_ranges": [
+      {
+        "reel": "reel-01",
+        "source_in": 1.2333333333333334,
+        "source_out": 35.9
+      }
+    ]
+  },
+  {
+    "filename": "MVI_9772.MP4",
+    "id": "clip-7968bfbf9853e674",
+    "sha256": "7968bfbf9853e674e6e6dce804f05b28c830d687cdb2a907cce9efe2d20101d8",
+    "duration": 52.485767,
+    "reel": "reel-02",
+    "decision": "selected",
+    "reason": "Explicit selected source ranges; discarded portions remain in original",
+    "selected_ranges": [
+      {
+        "reel": "reel-02",
+        "source_in": 0.9666666666666667,
+        "source_out": 5.833333333333333
+      },
+      {
+        "reel": "reel-02",
+        "source_in": 7.133333333333334,
+        "source_out": 11.7
+      },
+      {
+        "reel": "reel-02",
+        "source_in": 12.633333333333333,
+        "source_out": 14.866666666666667
+      },
+      {
+        "reel": "reel-02",
+        "source_in": 15.433333333333334,
+        "source_out": 22.3
+      },
+      {
+        "reel": "reel-02",
+        "source_in": 23.3,
+        "source_out": 27.46666666666667
+      },
+      {
+        "reel": "reel-02",
+        "source_in": 28.6,
+        "source_out": 34.66666666666667
+      },
+      {
+        "reel": "reel-02",
+        "source_in": 35.36666666666667,
+        "source_out": 42.5
+      },
+      {
+        "reel": "reel-02",
+        "source_in": 43.06666666666667,
+        "source_out": 48.26666666666667
+      },
+      {
+        "reel": "reel-02",
+        "source_in": 48.599999999999994,
+        "source_out": 50.166666666666664
+      }
+    ]
+  },
+  {
+    "filename": "MVI_9774.MP4",
+    "id": "clip-1b5aba97291686ad",
+    "sha256": "1b5aba97291686addced9a76af0d71eeb267af643c29635fd6cae8911a321369",
+    "duration": 17.9179,
+    "reel": "reel-02",
+    "decision": "selected",
+    "reason": "Explicit selected source ranges; discarded portions remain in original",
+    "selected_ranges": [
+      {
+        "reel": "reel-02",
+        "source_in": 1.0333333333333334,
+        "source_out": 8.466666666666667
+      },
+      {
+        "reel": "reel-02",
+        "source_in": 8.766666666666666,
+        "source_out": 16.1
+      }
+    ]
+  },
+  {
+    "filename": "MVI_9775.MP4",
+    "id": "clip-8871547793b517ec",
+    "sha256": "8871547793b517ecdf1d122c6a46eb6bb8f242789694a1ebcbcd06b3cc7b1a91",
+    "duration": 40.907533,
+    "reel": "reel-03",
+    "decision": "alternate / excluded from current cut",
+    "reason": "failed opening, superseded by 9776",
+    "selected_ranges": []
+  },
+  {
+    "filename": "MVI_9776.MP4",
+    "id": "clip-7eb8ba8c8d4087f9",
+    "sha256": "7eb8ba8c8d4087f92f61649cc756b3eee9089b8e61b93afafa0039ed3c5bf08c",
+    "duration": 28.8288,
+    "reel": "reel-03",
+    "decision": "selected",
+    "reason": "Explicit selected source ranges; discarded portions remain in original",
+    "selected_ranges": [
+      {
+        "reel": "reel-03",
+        "source_in": 3.2333333333333334,
+        "source_out": 9.6
+      },
+      {
+        "reel": "reel-03",
+        "source_in": 10.366666666666667,
+        "source_out": 12.9
+      },
+      {
+        "reel": "reel-03",
+        "source_in": 13.533333333333333,
+        "source_out": 20.7
+      },
+      {
+        "reel": "reel-03",
+        "source_in": 20.9,
+        "source_out": 24.96666666666667
+      }
+    ]
+  },
+  {
+    "filename": "MVI_9777.MP4",
+    "id": "clip-c038915e9b8335a0",
+    "sha256": "c038915e9b8335a0ac33a5f91712369892d23f3fb2fdab1b2400616a642993c2",
+    "duration": 20.4204,
+    "reel": "reel-03",
+    "decision": "alternate / excluded from current cut",
+    "reason": "false start and spoken cut command",
+    "selected_ranges": []
+  },
+  {
+    "filename": "MVI_9778.MP4",
+    "id": "clip-17ea96cc73ecfe66",
+    "sha256": "17ea96cc73ecfe66e4c9b502fcdd0c3aae3bd57487c41277af6ff5026851c72d",
+    "duration": 39.472767,
+    "reel": "reel-03",
+    "decision": "selected",
+    "reason": "Explicit selected source ranges; discarded portions remain in original",
+    "selected_ranges": [
+      {
+        "reel": "reel-03",
+        "source_in": 0.4,
+        "source_out": 2.5
+      },
+      {
+        "reel": "reel-03",
+        "source_in": 3.0,
+        "source_out": 8.6
+      },
+      {
+        "reel": "reel-03",
+        "source_in": 8.8,
+        "source_out": 29.2
+      }
+    ]
+  },
+  {
+    "filename": "MVI_9779.MP4",
+    "id": "clip-31fcde80bac3bbbc",
+    "sha256": "31fcde80bac3bbbc2f3ecba6eb190abb157757f032a11a3e41ffba80a697cc53",
+    "duration": 15.1151,
+    "reel": "reel-03",
+    "decision": "alternate / excluded from current cut",
+    "reason": "incomplete alternate ending, superseded by 9782",
+    "selected_ranges": []
+  },
+  {
+    "filename": "MVI_9780.MP4",
+    "id": "clip-f46b0fb335902784",
+    "sha256": "f46b0fb335902784dcf254c94aad56a94c19f09a435d8dc05ed4caadaa04de79",
+    "duration": 29.262567,
+    "reel": "reel-03",
+    "decision": "alternate / excluded from current cut",
+    "reason": "rehearsal/setup and interrupted close",
+    "selected_ranges": []
+  },
+  {
+    "filename": "MVI_9781.MP4",
+    "id": "clip-48a1fe5ce3396612",
+    "sha256": "48a1fe5ce33966125182caac2888da0ae9b70688d86d7b5f0cd4ad25d053c21d",
+    "duration": 2.3023,
+    "reel": "reel-03",
+    "decision": "alternate / excluded from current cut",
+    "reason": "accidental 2.3-second camera clip",
+    "selected_ranges": []
+  },
+  {
+    "filename": "MVI_9782.MP4",
+    "id": "clip-ce0f364e765dc5e9",
+    "sha256": "ce0f364e765dc5e9806b44b4911448c21f1a5344edcf4149c54bcfda2b81db88",
+    "duration": 18.184833,
+    "reel": "reel-03",
+    "decision": "selected",
+    "reason": "Explicit selected source ranges; discarded portions remain in original",
+    "selected_ranges": [
+      {
+        "reel": "reel-03",
+        "source_in": 1.7,
+        "source_out": 14.966666666666669
+      }
+    ]
+  },
+  {
+    "filename": "MVI_9785.MP4",
+    "id": "clip-02bd5307634d6ddd",
+    "sha256": "02bd5307634d6ddd3bfd899366a6f0468d88a16632db7fba3cbb926a85af3370",
+    "duration": 36.2362,
+    "reel": "reel-04",
+    "decision": "selected",
+    "reason": "Explicit selected source ranges; discarded portions remain in original",
+    "selected_ranges": [
+      {
+        "reel": "reel-04",
+        "source_in": 1.4333333333333333,
+        "source_out": 11.533333333333333
+      },
+      {
+        "reel": "reel-04",
+        "source_in": 14.3,
+        "source_out": 16.433333333333334
+      },
+      {
+        "reel": "reel-04",
+        "source_in": 17.366666666666667,
+        "source_out": 20.733333333333334
+      },
+      {
+        "reel": "reel-04",
+        "source_in": 23.133333333333333,
+        "source_out": 26.133333333333333
+      },
+      {
+        "reel": "reel-04",
+        "source_in": 28.2,
+        "source_out": 34.03333333333333
+      }
+    ]
+  },
+  {
+    "filename": "MVI_9786.MP4",
+    "id": "clip-153327b74db0c748",
+    "sha256": "153327b74db0c7489fb7377f2068b04ee6776303fba4a04fcf857adb3f7bf82e",
+    "duration": 16.349667,
+    "reel": "reel-04",
+    "decision": "selected",
+    "reason": "Explicit selected source ranges; discarded portions remain in original",
+    "selected_ranges": [
+      {
+        "reel": "reel-04",
+        "source_in": 0.4666666666666667,
+        "source_out": 15.5
+      }
+    ]
+  },
+  {
+    "filename": "MVI_9787.MP4",
+    "id": "clip-664c819d148c72cc",
+    "sha256": "664c819d148c72cc6fa60560bebdb6c7d2933fc2570e8aecbff247976718a002",
+    "duration": 15.548867,
+    "reel": "reel-05",
+    "decision": "alternate / excluded from current cut",
+    "reason": "incomplete alternate hook",
+    "selected_ranges": []
+  },
+  {
+    "filename": "MVI_9788.MP4",
+    "id": "clip-7d3cbec283d448fa",
+    "sha256": "7d3cbec283d448faf793d6c4a85e4b06dbc3567cdfdbdda48a535e6045b9ae8e",
+    "duration": 77.110367,
+    "reel": "reel-05",
+    "decision": "selected",
+    "reason": "Explicit selected source ranges; discarded portions remain in original",
+    "selected_ranges": [
+      {
+        "reel": "reel-05",
+        "source_in": 1.5,
+        "source_out": 5.233333333333333
+      },
+      {
+        "reel": "reel-05",
+        "source_in": 6.266666666666667,
+        "source_out": 21.466666666666665
+      },
+      {
+        "reel": "reel-05",
+        "source_in": 22.8,
+        "source_out": 50.66666666666667
+      },
+      {
+        "reel": "reel-05",
+        "source_in": 50.93333333333333,
+        "source_out": 76.0
+      }
+    ]
+  },
+  {
+    "filename": "MVI_9789.MP4",
+    "id": "clip-a7b697879d3419b1",
+    "sha256": "a7b697879d3419b16a3aaa8b5b0bd638c14bfa1a4270102784836a1d181ad5f2",
+    "duration": 45.478767,
+    "reel": "reel-06",
+    "decision": "selected",
+    "reason": "Explicit selected source ranges; discarded portions remain in original",
+    "selected_ranges": [
+      {
+        "reel": "reel-06",
+        "source_in": 1.9333333333333333,
+        "source_out": 3.7333333333333334
+      },
+      {
+        "reel": "reel-06",
+        "source_in": 4.233333333333333,
+        "source_out": 9.666666666666666
+      },
+      {
+        "reel": "reel-06",
+        "source_in": 10.266666666666667,
+        "source_out": 29.2
+      },
+      {
+        "reel": "reel-06",
+        "source_in": 32.333333333333336,
+        "source_out": 38.56666666666667
+      },
+      {
+        "reel": "reel-06",
+        "source_in": 39.8,
+        "source_out": 43.9
+      }
+    ]
+  },
+  {
+    "filename": "MVI_9790.MP4",
+    "id": "clip-869870207023e8c7",
+    "sha256": "869870207023e8c747aca243c1aee0c2933d172034fb11c7e3cc478167dbcd66",
+    "duration": 19.085733,
+    "reel": "reel-05",
+    "decision": "alternate / excluded from current cut",
+    "reason": "concise alternate closing; main complete take 9788 retained",
+    "selected_ranges": []
+  },
+  {
+    "filename": "MVI_9791.MP4",
+    "id": "clip-32d521ba00624c56",
+    "sha256": "32d521ba00624c5674518d7f5dc64bde0437603031cbf4249d07e2eab8d58896",
+    "duration": 7.273933,
+    "reel": "reel-07",
+    "decision": "alternate / excluded from current cut",
+    "reason": "setup / aborted interviewer intro",
+    "selected_ranges": []
+  },
+  {
+    "filename": "MVI_9792.MP4",
+    "id": "clip-0c8e6a2b191597d0",
+    "sha256": "0c8e6a2b191597d0aaad725b1e6b6d9724ab72fdc00a2a4afdfaa54aeba6f11e",
+    "duration": 6.139467,
+    "reel": "reel-07",
+    "decision": "alternate / excluded from current cut",
+    "reason": "aborted interviewer intro",
+    "selected_ranges": []
+  },
+  {
+    "filename": "MVI_9793.MP4",
+    "id": "clip-c63557be78895a87",
+    "sha256": "c63557be78895a87a60e511392d71548b6fde9ecc2148983e2da1ca82063f387",
+    "duration": 21.388033,
+    "reel": "reel-07",
+    "decision": "alternate / excluded from current cut",
+    "reason": "optional question, followed by setup; doctor explainer works without it",
+    "selected_ranges": []
+  },
+  {
+    "filename": "MVI_9794.MP4",
+    "id": "clip-e1eceb3348724333",
+    "sha256": "e1eceb33487243337f8f187f42e60b9ea6a3361e378d29960e0b6be456997d86",
+    "duration": 69.502767,
+    "reel": "reel-07",
+    "decision": "selected",
+    "reason": "Explicit selected source ranges; discarded portions remain in original",
+    "selected_ranges": [
+      {
+        "reel": "reel-07",
+        "source_in": 1.7666666666666666,
+        "source_out": 25.433333333333334
+      },
+      {
+        "reel": "reel-07",
+        "source_in": 50.233333333333334,
+        "source_out": 65.4
+      }
+    ]
+  },
+  {
+    "filename": "MVI_9795.MP4",
+    "id": "clip-0df681e2a5446502",
+    "sha256": "0df681e2a5446502f5b60f9114bcdeee1892c8d02a891bdf001f6a350b594444",
+    "duration": 30.597233,
+    "reel": "reel-07",
+    "decision": "selected",
+    "reason": "Explicit selected source ranges; discarded portions remain in original",
+    "selected_ranges": [
+      {
+        "reel": "reel-07",
+        "source_in": 0.7666666666666667,
+        "source_out": 13.966666666666667
+      }
+    ]
+  },
+  {
+    "filename": "MVI_9796.MP4",
+    "id": "clip-af873671acc95ef9",
+    "sha256": "af873671acc95ef9ebabe7dd1200a5e7dd68e47cce7f4dbedee3fbb2065eba8e",
+    "duration": 28.395033,
+    "reel": "reel-07",
+    "decision": "selected",
+    "reason": "Explicit selected source ranges; discarded portions remain in original",
+    "selected_ranges": [
+      {
+        "reel": "reel-07",
+        "source_in": 0.43333333333333335,
+        "source_out": 10.366666666666667
+      },
+      {
+        "reel": "reel-07",
+        "source_in": 20.433333333333334,
+        "source_out": 27.733333333333334
+      }
+    ]
+  },
+  {
+    "filename": "MVI_9797.MP4",
+    "id": "clip-788ea249d295e16c",
+    "sha256": "788ea249d295e16cfef1e678bccddd663dc06551569d4738395f08ec52d15f98",
+    "duration": 6.339667,
+    "reel": "reel-08",
+    "decision": "alternate / excluded from current cut",
+    "reason": "aborted opening, replaced by 9798",
+    "selected_ranges": []
+  },
+  {
+    "filename": "MVI_9798.MP4",
+    "id": "clip-1ecaeac11a340a60",
+    "sha256": "1ecaeac11a340a607a702db87137b77163030f483d863983ca040227b04a6a6c",
+    "duration": 89.2892,
+    "reel": "reel-08",
+    "decision": "selected",
+    "reason": "Explicit selected source ranges; discarded portions remain in original",
+    "selected_ranges": [
+      {
+        "reel": "reel-08",
+        "source_in": 0.9666666666666667,
+        "source_out": 5.066666666666666
+      },
+      {
+        "reel": "reel-08",
+        "source_in": 5.733333333333333,
+        "source_out": 44.03333333333333
+      },
+      {
+        "reel": "reel-08",
+        "source_in": 44.86666666666667,
+        "source_out": 60.166666666666664
+      }
+    ]
+  },
+  {
+    "filename": "MVI_9799.MP4",
+    "id": "clip-e00b99ca502a7002",
+    "sha256": "e00b99ca502a7002539c3b94c214c6e7ac22607e3c1b5631366a91f90816d68a",
+    "duration": 1.267933,
+    "reel": "reel-08",
+    "decision": "alternate / excluded from current cut",
+    "reason": "accidental 1.27-second tail",
+    "selected_ranges": []
+  },
+  {
+    "filename": "MVI_9800.MP4",
+    "id": "clip-fae84c326515560b",
+    "sha256": "fae84c326515560b129c4c1144dd1c30077f1a4f9950957f11d533cd1915a716",
+    "duration": 67.3673,
+    "reel": "reel-09",
+    "decision": "selected",
+    "reason": "Explicit selected source ranges; discarded portions remain in original",
+    "selected_ranges": [
+      {
+        "reel": "reel-09",
+        "source_in": 3.433333333333333,
+        "source_out": 6.966666666666667
+      },
+      {
+        "reel": "reel-09",
+        "source_in": 8.033333333333333,
+        "source_out": 9.166666666666666
+      },
+      {
+        "reel": "reel-09",
+        "source_in": 9.7,
+        "source_out": 12.333333333333332
+      },
+      {
+        "reel": "reel-09",
+        "source_in": 14.833333333333334,
+        "source_out": 22.633333333333333
+      },
+      {
+        "reel": "reel-09",
+        "source_in": 23.066666666666666,
+        "source_out": 31.866666666666667
+      },
+      {
+        "reel": "reel-09",
+        "source_in": 39.7,
+        "source_out": 41.266666666666666
+      },
+      {
+        "reel": "reel-09",
+        "source_in": 41.86666666666667,
+        "source_out": 61.13333333333334
+      },
+      {
+        "reel": "reel-09",
+        "source_in": 61.7,
+        "source_out": 64.36666666666666
+      }
+    ]
+  },
+  {
+    "filename": "MVI_9806.MP4",
+    "id": "clip-70a3b05491fc58dc",
+    "sha256": "70a3b05491fc58dcda6264ac500eaae10988285aef741088aa326bbd8a47b01b",
+    "duration": 69.5695,
+    "reel": "reel-10",
+    "decision": "selected",
+    "reason": "Explicit selected source ranges; discarded portions remain in original",
+    "selected_ranges": [
+      {
+        "reel": "reel-10",
+        "source_in": 0.5333333333333333,
+        "source_out": 8.733333333333334
+      },
+      {
+        "reel": "reel-10",
+        "source_in": 8.733333333333333,
+        "source_out": 10.7
+      },
+      {
+        "reel": "reel-10",
+        "source_in": 10.7,
+        "source_out": 13.866666666666665
+      },
+      {
+        "reel": "reel-10",
+        "source_in": 13.866666666666667,
+        "source_out": 22.066666666666666
+      },
+      {
+        "reel": "reel-10",
+        "source_in": 22.933333333333334,
+        "source_out": 56.53333333333333
+      },
+      {
+        "reel": "reel-10",
+        "source_in": 57.43333333333333,
+        "source_out": 66.43333333333334
+      },
+      {
+        "reel": "reel-10",
+        "source_in": 66.43333333333334,
+        "source_out": 67.60000000000001
+      },
+      {
+        "reel": "reel-10",
+        "source_in": 67.6,
+        "source_out": 69.0
+      }
+    ]
+  },
+  {
+    "filename": "MVI_9809.MP4",
+    "id": "clip-55c126ce352c1ce1",
+    "sha256": "55c126ce352c1ce1f741a42141ac164f71195df9db59331dede40cdbf5febd72",
+    "duration": 62.395667,
+    "reel": "reel-11",
+    "decision": "selected",
+    "reason": "Explicit selected source ranges; discarded portions remain in original",
+    "selected_ranges": [
+      {
+        "reel": "reel-11",
+        "source_in": 0.5666666666666667,
+        "source_out": 23.866666666666667
+      },
+      {
+        "reel": "reel-11",
+        "source_in": 24.6,
+        "source_out": 51.233333333333334
+      },
+      {
+        "reel": "reel-11",
+        "source_in": 51.666666666666664,
+        "source_out": 58.8
+      }
+    ]
+  },
+  {
+    "filename": "MVI_9815.MP4",
+    "id": "clip-45427460e55b2f77",
+    "sha256": "45427460e55b2f779abc4827f9d799ab305c246c4d9a6976bd53b79d1d9300c0",
+    "duration": 90.323567,
+    "reel": "reel-12",
+    "decision": "selected",
+    "reason": "Explicit selected source ranges; discarded portions remain in original",
+    "selected_ranges": [
+      {
+        "reel": "reel-12",
+        "source_in": 4.2,
+        "source_out": 6.6
+      },
+      {
+        "reel": "reel-12",
+        "source_in": 9.0,
+        "source_out": 11.1
+      },
+      {
+        "reel": "reel-12",
+        "source_in": 11.6,
+        "source_out": 12.4
+      },
+      {
+        "reel": "reel-12",
+        "source_in": 12.933333333333334,
+        "source_out": 15.533333333333333
+      },
+      {
+        "reel": "reel-12",
+        "source_in": 16.3,
+        "source_out": 21.900000000000002
+      },
+      {
+        "reel": "reel-12",
+        "source_in": 22.7,
+        "source_out": 26.76666666666667
+      },
+      {
+        "reel": "reel-12",
+        "source_in": 27.233333333333334,
+        "source_out": 76.23333333333333
+      },
+      {
+        "reel": "reel-12",
+        "source_in": 76.9,
+        "source_out": 81.1
+      },
+      {
+        "reel": "reel-12",
+        "source_in": 81.3,
+        "source_out": 83.56666666666666
+      },
+      {
+        "reel": "reel-12",
+        "source_in": 83.63333333333334,
+        "source_out": 88.6
+      }
+    ]
+  }
+]

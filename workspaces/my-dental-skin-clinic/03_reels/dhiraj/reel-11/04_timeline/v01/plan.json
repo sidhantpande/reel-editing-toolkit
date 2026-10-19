@@ -1,0 +1,96 @@
+{
+  "reel_id": "dhiraj-reel-11",
+  "version": "v01",
+  "title": "Wedding travel skincare essentials",
+  "style": "styles/clinic-approved.json",
+  "status": "CLEAN_SELECTS_FOR_REVIEW / logo deferred by user; B-roll planning separate",
+  "segments": [
+    {
+      "source_id": "clip-55c126ce352c1ce1",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9809.MP4",
+      "source_sha256": "55c126ce352c1ce1f741a42141ac164f71195df9db59331dede40cdbf5febd72",
+      "source_duration": 62.395667,
+      "source_in": 0.5666666666666667,
+      "source_out": 23.866666666666667,
+      "timeline_in": 0,
+      "timeline_out": 23.3,
+      "crop_xywh": {
+        "x": 1546,
+        "y": 432,
+        "width": 972,
+        "height": 1728
+      },
+      "role": "Complete travel story, essentials and wedding closing",
+      "speaker": "doctor",
+      "join": "fade"
+    },
+    {
+      "source_id": "clip-55c126ce352c1ce1",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9809.MP4",
+      "source_sha256": "55c126ce352c1ce1f741a42141ac164f71195df9db59331dede40cdbf5febd72",
+      "source_duration": 62.395667,
+      "source_in": 24.6,
+      "source_out": 51.233333333333334,
+      "timeline_in": 23.3,
+      "timeline_out": 49.93333333333334,
+      "crop_xywh": {
+        "x": 1546,
+        "y": 432,
+        "width": 972,
+        "height": 1728
+      },
+      "role": "Complete travel story, essentials and wedding closing",
+      "speaker": "doctor",
+      "join": "fade"
+    },
+    {
+      "source_id": "clip-55c126ce352c1ce1",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9809.MP4",
+      "source_sha256": "55c126ce352c1ce1f741a42141ac164f71195df9db59331dede40cdbf5febd72",
+      "source_duration": 62.395667,
+      "source_in": 52.0,
+      "source_out": 59.233333333333334,
+      "timeline_in": 49.93333333333334,
+      "timeline_out": 57.16666666666667,
+      "crop_xywh": {
+        "x": 1546,
+        "y": 432,
+        "width": 972,
+        "height": 1728
+      },
+      "role": "Complete travel story, essentials and wedding closing",
+      "speaker": "doctor",
+      "join": "fade"
+    }
+  ],
+  "words": [],
+  "broll_slots": [],
+  "graphic_slots": [],
+  "cue_exclusions": [],
+  "clean_export": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-11/reel-11_clean-9x16_v01.mp4",
+  "review": {
+    "source_visual": "complete 2-second chronological contact sheets and framing proofs",
+    "dialogue": "two local ASR decoders; no human listening attestation",
+    "captions": "not burned into clean-cut delivery; draft ASR retained separately",
+    "brand": "user requested clean edit and logo later"
+  },
+  "duration_seconds": 57.166666666666664,
+  "silence_splices": [
+    {
+      "source": "clip-55c126ce352c1ce1",
+      "in": 23.866666666666667,
+      "out": 24.6,
+      "reason": "continuous normalized energy below -44 dBFS for >=0.9s; 180ms handles retained"
+    },
+    {
+      "source": "clip-55c126ce352c1ce1",
+      "in": 51.233333333333334,
+      "out": 52.0,
+      "reason": "continuous normalized energy below -44 dBFS for >=0.9s; 180ms handles retained"
+    }
+  ],
+  "editorial_notes": [
+    "End before the final production acknowledgement.",
+    "Recorded advice about briefly skipping actives differs from the supplied script about prescribed treatments. Preserve speech for review; do not turn it into a universal instruction graphic."
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "repo": "ggerganov/whisper.cpp",
+  "revision": "5359861c739e955e79d9a303bcbc70fb988958b1",
+  "file": "ggml-large-v3-turbo-q5_0.bin",
+  "sha256": "394221709cd5ad1f40c46e6031ca61bce88931e6e088c188294c6d5a55ffa7e2",
+  "bytes": 574041195,
+  "url": "https://huggingface.co/ggerganov/whisper.cpp/resolve/5359861c739e955e79d9a303bcbc70fb988958b1/ggml-large-v3-turbo-q5_0.bin",
+  "purpose": "GPU local second pass and dispute checks; existing CPU pass retained",
+  "engine": "installed whisper-cli / Metal"
+}

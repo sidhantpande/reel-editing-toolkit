@@ -1,0 +1,971 @@
+{
+  "status": "Curated spelling/mixed-language words supported by two decoders and isolated passes; no human listening attestation",
+  "words": [
+    {
+      "text": "दिवाली",
+      "start": 3.44,
+      "end": 4.24,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "आते",
+      "start": 4.24,
+      "end": 4.52,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "ही",
+      "start": 4.52,
+      "end": 4.72,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "हमारे",
+      "start": 4.9,
+      "end": 5.94,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "घर",
+      "start": 5.94,
+      "end": 6.12,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "में",
+      "start": 6.12,
+      "end": 6.28,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "हर",
+      "start": 6.28,
+      "end": 6.48,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "कोई",
+      "start": 6.48,
+      "end": 6.7,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "skin",
+      "start": 6.7,
+      "end": 6.96,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "expert",
+      "start": 6.96,
+      "end": 7.28,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "बन",
+      "start": 7.28,
+      "end": 7.44,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "जाता",
+      "start": 7.44,
+      "end": 7.72,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "है",
+      "start": 7.72,
+      "end": 7.82,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "मम्मी",
+      "start": 8.3,
+      "end": 8.96,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "बोलेगी",
+      "start": 8.96,
+      "end": 9.4,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "नींबू",
+      "start": 10.46,
+      "end": 11.18,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "लगा",
+      "start": 11.18,
+      "end": 11.44,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "लो",
+      "start": 11.44,
+      "end": 11.54,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "skin",
+      "start": 11.66,
+      "end": 11.96,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "glow",
+      "start": 11.96,
+      "end": 12.18,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "कर",
+      "start": 12.18,
+      "end": 12.36,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "जाएगी",
+      "start": 12.36,
+      "end": 12.74,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "दादी",
+      "start": 13.72,
+      "end": 14.24,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "बोलेगी",
+      "start": 14.24,
+      "end": 14.68,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "हल्दी",
+      "start": 15.58,
+      "end": 16.08,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "और",
+      "start": 16.08,
+      "end": 16.42,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "दूध",
+      "start": 16.42,
+      "end": 16.66,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "के",
+      "start": 16.66,
+      "end": 16.84,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "अलावा",
+      "start": 16.84,
+      "end": 17.14,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "और",
+      "start": 17.28,
+      "end": 17.64,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "भी",
+      "start": 17.64,
+      "end": 17.76,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "कोई",
+      "start": 17.76,
+      "end": 17.92,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "अच्छा",
+      "start": 17.92,
+      "end": 18.2,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "हो",
+      "start": 18.2,
+      "end": 18.4,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "ही",
+      "start": 18.4,
+      "end": 18.46,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "नहीं",
+      "start": 18.46,
+      "end": 18.66,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "सकता",
+      "start": 18.66,
+      "end": 18.98,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "है",
+      "start": 18.98,
+      "end": 19.06,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "चाचा",
+      "start": 19.64,
+      "end": 20.06,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "बोलेंगे",
+      "start": 20.06,
+      "end": 20.5,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "scrub",
+      "start": 21.06,
+      "end": 21.74,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "कर",
+      "start": 21.74,
+      "end": 21.94,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "लो",
+      "start": 21.94,
+      "end": 22.1,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "चावल",
+      "start": 22.28,
+      "end": 22.58,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "के",
+      "start": 22.58,
+      "end": 22.74,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "आटे",
+      "start": 22.72,
+      "end": 22.94,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "से",
+      "start": 22.94,
+      "end": 23.18,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "और",
+      "start": 23.18,
+      "end": 24.0,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "दही",
+      "start": 24.0,
+      "end": 24.28,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "से",
+      "start": 24.28,
+      "end": 24.52,
+      "source_id": "clip-7eb8ba8c8d4087f9"
+    },
+    {
+      "text": "लेकिन",
+      "start": 0.56,
+      "end": 1.26,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "एक",
+      "start": 1.26,
+      "end": 1.56,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "मिनट",
+      "start": 1.56,
+      "end": 1.76,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "रुक",
+      "start": 1.76,
+      "end": 2.0,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "जाइए",
+      "start": 2.0,
+      "end": 2.32,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "जो",
+      "start": 3.16,
+      "end": 3.7,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "भी",
+      "start": 3.7,
+      "end": 3.88,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "natural",
+      "start": 3.88,
+      "end": 4.4,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "घरेलू",
+      "start": 4.4,
+      "end": 4.88,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "नुस्खे",
+      "start": 4.88,
+      "end": 5.12,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "है",
+      "start": 5.12,
+      "end": 5.34,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "ये",
+      "start": 5.62,
+      "end": 5.98,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "आपको",
+      "start": 5.98,
+      "end": 6.22,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "100%",
+      "start": 6.22,
+      "end": 6.84,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "suit",
+      "start": 6.84,
+      "end": 7.12,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "करेंगे",
+      "start": 7.12,
+      "end": 7.5,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "ये",
+      "start": 7.5,
+      "end": 7.66,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "ज़रूरी",
+      "start": 7.66,
+      "end": 8.06,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "नहीं",
+      "start": 8.06,
+      "end": 8.28,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "है",
+      "start": 8.28,
+      "end": 8.42,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "आपके",
+      "start": 8.8,
+      "end": 9.62,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "मम्मी",
+      "start": 9.62,
+      "end": 9.98,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "दादी",
+      "start": 9.98,
+      "end": 10.36,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "या",
+      "start": 10.36,
+      "end": 10.44,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "चाचा",
+      "start": 10.44,
+      "end": 10.78,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "की",
+      "start": 10.78,
+      "end": 10.96,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "skin",
+      "start": 10.96,
+      "end": 11.2,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "हो",
+      "start": 11.2,
+      "end": 11.34,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "और",
+      "start": 11.34,
+      "end": 11.76,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "आपके",
+      "start": 11.76,
+      "end": 12.04,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "skin",
+      "start": 12.04,
+      "end": 12.28,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "का",
+      "start": 12.28,
+      "end": 12.44,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "type",
+      "start": 12.44,
+      "end": 12.66,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "same",
+      "start": 12.66,
+      "end": 13.0,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "हो",
+      "start": 13.0,
+      "end": 13.16,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "ज़रूरी",
+      "start": 13.16,
+      "end": 13.5,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "नहीं",
+      "start": 13.5,
+      "end": 13.74,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "ऊपर",
+      "start": 14.28,
+      "end": 14.6,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "से",
+      "start": 14.6,
+      "end": 14.78,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "आपके",
+      "start": 14.78,
+      "end": 15.08,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "जो",
+      "start": 15.08,
+      "end": 15.18,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "पहले",
+      "start": 15.18,
+      "end": 15.48,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "से",
+      "start": 15.48,
+      "end": 15.66,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "existing",
+      "start": 15.66,
+      "end": 16.24,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "skin",
+      "start": 16.24,
+      "end": 16.54,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "care",
+      "start": 16.54,
+      "end": 16.74,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "regimen",
+      "start": 16.74,
+      "end": 17.14,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "हो",
+      "start": 17.14,
+      "end": 17.36,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "उसके",
+      "start": 17.36,
+      "end": 18.06,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "साथ",
+      "start": 18.06,
+      "end": 18.3,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "ये",
+      "start": 18.3,
+      "end": 18.44,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "घरेलू",
+      "start": 18.44,
+      "end": 18.76,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "products",
+      "start": 18.76,
+      "end": 19.16,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "complement",
+      "start": 19.16,
+      "end": 20.18,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "हो",
+      "start": 20.18,
+      "end": 20.4,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "सकते",
+      "start": 20.4,
+      "end": 20.74,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "कि",
+      "start": 20.74,
+      "end": 20.88,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "नहीं",
+      "start": 20.88,
+      "end": 21.12,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "है",
+      "start": 21.12,
+      "end": 21.22,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "ये",
+      "start": 21.22,
+      "end": 21.54,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "भी",
+      "start": 21.54,
+      "end": 21.68,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "ज़रूरी",
+      "start": 21.68,
+      "end": 21.94,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "नहीं",
+      "start": 21.94,
+      "end": 22.22,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "है",
+      "start": 22.22,
+      "end": 22.36,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "इसलिए",
+      "start": 22.36,
+      "end": 23.42,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "आपके",
+      "start": 23.42,
+      "end": 24.16,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "जो",
+      "start": 24.16,
+      "end": 24.28,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "पहले",
+      "start": 24.28,
+      "end": 24.6,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "से",
+      "start": 24.6,
+      "end": 24.78,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "skin",
+      "start": 24.78,
+      "end": 25.06,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "care",
+      "start": 25.06,
+      "end": 25.24,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "routine",
+      "start": 25.24,
+      "end": 25.54,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "चल",
+      "start": 25.54,
+      "end": 25.76,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "रही",
+      "start": 25.76,
+      "end": 25.9,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "है",
+      "start": 25.9,
+      "end": 26.02,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "उसके",
+      "start": 26.02,
+      "end": 26.74,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "आपके",
+      "start": 26.74,
+      "end": 27.0,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "साथ",
+      "start": 27.0,
+      "end": 27.2,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "relationship",
+      "start": 27.2,
+      "end": 27.8,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "continue",
+      "start": 27.8,
+      "end": 28.22,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "कीजिए",
+      "start": 28.22,
+      "end": 28.62,
+      "source_id": "clip-17ea96cc73ecfe66"
+    },
+    {
+      "text": "तो",
+      "start": 1.92,
+      "end": 2.56,
+      "source_id": "clip-ce0f364e765dc5e9"
+    },
+    {
+      "text": "घर",
+      "start": 2.56,
+      "end": 2.78,
+      "source_id": "clip-ce0f364e765dc5e9"
+    },
+    {
+      "text": "के",
+      "start": 2.78,
+      "end": 2.98,
+      "source_id": "clip-ce0f364e765dc5e9"
+    },
+    {
+      "text": "सभी",
+      "start": 2.98,
+      "end": 3.28,
+      "source_id": "clip-ce0f364e765dc5e9"
+    },
+    {
+      "text": "skin",
+      "start": 3.28,
+      "end": 3.62,
+      "source_id": "clip-ce0f364e765dc5e9"
+    },
+    {
+      "text": "expert",
+      "start": 3.62,
+      "end": 4.0,
+      "source_id": "clip-ce0f364e765dc5e9"
+    },
+    {
+      "text": "को",
+      "start": 4.0,
+      "end": 4.16,
+      "source_id": "clip-ce0f364e765dc5e9"
+    },
+    {
+      "text": "प्यार",
+      "start": 4.16,
+      "end": 4.42,
+      "source_id": "clip-ce0f364e765dc5e9"
+    },
+    {
+      "text": "से",
+      "start": 4.42,
+      "end": 4.6,
+      "source_id": "clip-ce0f364e765dc5e9"
+    },
+    {
+      "text": "बोलिए",
+      "start": 4.6,
+      "end": 4.9,
+      "source_id": "clip-ce0f364e765dc5e9"
+    },
+    {
+      "text": "Thank",
+      "start": 4.9,
+      "end": 5.72,
+      "source_id": "clip-ce0f364e765dc5e9"
+    },
+    {
+      "text": "you",
+      "start": 5.72,
+      "end": 5.84,
+      "source_id": "clip-ce0f364e765dc5e9"
+    },
+    {
+      "text": "for",
+      "start": 5.84,
+      "end": 5.98,
+      "source_id": "clip-ce0f364e765dc5e9"
+    },
+    {
+      "text": "advice",
+      "start": 5.98,
+      "end": 6.54,
+      "source_id": "clip-ce0f364e765dc5e9"
+    },
+    {
+      "text": "लेकिन",
+      "start": 6.86,
+      "end": 7.12,
+      "source_id": "clip-ce0f364e765dc5e9"
+    },
+    {
+      "text": "इस",
+      "start": 7.12,
+      "end": 7.32,
+      "source_id": "clip-ce0f364e765dc5e9"
+    },
+    {
+      "text": "दिवाली",
+      "start": 7.32,
+      "end": 7.74,
+      "source_id": "clip-ce0f364e765dc5e9"
+    },
+    {
+      "text": "No",
+      "start": 7.74,
+      "end": 8.68,
+      "source_id": "clip-ce0f364e765dc5e9"
+    },
+    {
+      "text": "new",
+      "start": 8.68,
+      "end": 9.0,
+      "source_id": "clip-ce0f364e765dc5e9"
+    },
+    {
+      "text": "skin",
+      "start": 9.0,
+      "end": 9.76,
+      "source_id": "clip-ce0f364e765dc5e9"
+    },
+    {
+      "text": "care",
+      "start": 9.76,
+      "end": 10.28,
+      "source_id": "clip-ce0f364e765dc5e9"
+    },
+    {
+      "text": "relationship",
+      "start": 10.28,
+      "end": 10.88,
+      "source_id": "clip-ce0f364e765dc5e9"
+    },
+    {
+      "text": "experiment",
+      "start": 10.88,
+      "end": 11.44,
+      "source_id": "clip-ce0f364e765dc5e9"
+    },
+    {
+      "text": "और",
+      "start": 11.44,
+      "end": 12.62,
+      "source_id": "clip-ce0f364e765dc5e9"
+    },
+    {
+      "text": "आप",
+      "start": 12.62,
+      "end": 12.82,
+      "source_id": "clip-ce0f364e765dc5e9"
+    },
+    {
+      "text": "सभी",
+      "start": 12.82,
+      "end": 13.18,
+      "source_id": "clip-ce0f364e765dc5e9"
+    },
+    {
+      "text": "के",
+      "start": 13.18,
+      "end": 13.3,
+      "source_id": "clip-ce0f364e765dc5e9"
+    },
+    {
+      "text": "लिए",
+      "start": 13.3,
+      "end": 13.48,
+      "source_id": "clip-ce0f364e765dc5e9"
+    },
+    {
+      "text": "Happy",
+      "start": 13.48,
+      "end": 14.24,
+      "source_id": "clip-ce0f364e765dc5e9"
+    },
+    {
+      "text": "Diwali",
+      "start": 14.24,
+      "end": 14.66,
+      "source_id": "clip-ce0f364e765dc5e9"
+    }
+  ]
+}

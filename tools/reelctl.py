@@ -180,6 +180,7 @@ def main():
         clinic_assets=ROOT/'catalog/clinic-assets.json'
         if args.command=='assets' and clinic_assets.is_file():items=items+read(clinic_assets)
         tokens = args.query.casefold().split();out = []
+        if args.brand:items=sorted(items,key=lambda item:item.get('brand')!=args.brand)
         for item in items:
             hay = json.dumps(item, ensure_ascii=False).casefold()
             asset_brand = item.get('brand') or ('atfro' if 'atfro' in hay else 'niolearn' if 'niolearn' in hay else 'shared')

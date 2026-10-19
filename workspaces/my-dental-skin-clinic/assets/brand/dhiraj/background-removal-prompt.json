@@ -1,0 +1,5 @@
+{
+  "tool": "built-in image_gen",
+  "mode": "background-extraction",
+  "prompt": "Use case: background-extraction. Edit target: the supplied wide clinic logo JPEG, red and black handwritten Devanagari wordmark with a small gold/black face-profile icon above. Remove ONLY the flat white background and white spaces between the ink strokes, returning actual transparent alpha. Preserve the original mark faithfully: exactly the same visible Devanagari letter shapes, red/black/gold colours, stroke contours, face-profile line, layout, aspect ratio and visible ellipsis. Do not translate, retype, redraw, reinterpret, complete clipped edges, add or remove lettering, sharpen into different glyphs, add any new logo design, border, shadow or plaque. Keep all existing coloured artwork. The original entire logo fits inside the canvas with a small transparent margin. Output a faithful transparent PNG cutout for use as a video corner watermark."
+}

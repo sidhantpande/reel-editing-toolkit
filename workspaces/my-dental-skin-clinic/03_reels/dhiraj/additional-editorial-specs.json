@@ -1,0 +1,267 @@
+[
+  {
+    "id": "reel-05",
+    "title": "Teen skincare basics and physical development",
+    "script_ref": "Supplied Reel 05 / expanded recorded version",
+    "takes": [
+      {
+        "clip": 9788,
+        "in": 1.5,
+        "out": 76,
+        "role": "Complete best take; basic routine and sports/physical development"
+      }
+    ],
+    "notes": [
+      "Reject incomplete alternative hook 9787. Keep 9790 as alternate concise closing.",
+      "Recorded sunscreen/serum statements differ from supplied script; retained as original speech for review. No efficacy claims are added to graphics."
+    ]
+  },
+  {
+    "id": "reel-06",
+    "title": "Teen tanning — the doctor's personal parenting story",
+    "script_ref": "Extra recorded story related to supplied Reel 05",
+    "takes": [
+      {
+        "clip": 9789,
+        "in": 1.93,
+        "out": 43.9,
+        "role": "Complete personal story, physical activity and development"
+      }
+    ],
+    "notes": [
+      "Separate standalone story from the longer teen explainer; no supplied script matches this take verbatim.",
+      "The story is spoken by the doctor; no generated likeness of his child is needed."
+    ]
+  },
+  {
+    "id": "reel-07",
+    "title": "Hair fall, breakage and thinning",
+    "script_ref": "Supplied Reel 06 / expanded actual recording",
+    "takes": [
+      {
+        "clip": 9794,
+        "in": 1.77,
+        "out": 25.6,
+        "role": "Clean opening and natural shedding explanation; end before personal numeric aside"
+      },
+      {
+        "clip": 9794,
+        "in": 48.33,
+        "out": 65.23,
+        "role": "Complete hair-breakage restart; remove failed first attempt and spoken cut instructions"
+      },
+      {
+        "clip": 9795,
+        "in": 0.77,
+        "out": 13.97,
+        "role": "Complete thinning symptoms and consult advice"
+      },
+      {
+        "clip": 9796,
+        "in": 0.43,
+        "out": 10.37,
+        "role": "Persistent signs and dermatologist advice"
+      },
+      {
+        "clip": 9796,
+        "in": 17.87,
+        "out": 27.73,
+        "role": "Complete analysis/treatment closing; remove production sentence comment"
+      }
+    ],
+    "notes": [
+      "9791/9792 are aborted setup; 9793 is an optional interviewer intro with subsequent setup and no frontal interviewer view, retained as alternate.",
+      "Exclude 9794 25.6–48.33s: personal numeric aside, repeated definition and recording instructions.",
+      "Exclude 9795 speculative diagnosis list after 13.97s for a concise coherent explainer; original file retained.",
+      "A short independent ASR pass located the clean breakage restart. No made-up diagnostic labels are burned in."
+    ]
+  },
+  {
+    "id": "reel-08",
+    "title": "Influencers versus doctors — advice and trust",
+    "script_ref": "Extra recorded topic",
+    "takes": [
+      {
+        "clip": 9798,
+        "in": 0.97,
+        "out": 75.4,
+        "role": "Complete explanation and personal trust closing"
+      }
+    ],
+    "notes": [
+      "Reject aborted opening 9797 and accidental tail 9799.",
+      "End after the complete personal trust point; omit the trailing speculative influencer/doctor assertion and off-script uncertainty.",
+      "Personal opinions remain the doctor's recorded speech; B-roll uses generic objects without implying third-party endorsements."
+    ]
+  },
+  {
+    "id": "reel-09",
+    "title": "Professional trust and treatment quality",
+    "script_ref": "Extra recorded topic",
+    "takes": [
+      {
+        "clip": 9800,
+        "in": 3.43,
+        "out": 64.37,
+        "role": "Complete professional brand/trust story and treatment-quality example"
+      }
+    ],
+    "notes": [
+      "Doctor's name is retained in speech; spelling is not invented as a title/logo.",
+      "Recorded prices are an anecdotal example, not an advertised price card or live clinic offer."
+    ]
+  },
+  {
+    "id": "reel-10",
+    "title": "Same serum content, different prices — podcast Q&A",
+    "script_ref": "Extra recorded topic / two-person setup",
+    "takes": [
+      {
+        "clip": 9806,
+        "in": 0.37,
+        "out": 8.73,
+        "role": "Interviewer asks why results differ",
+        "speaker": "interviewer",
+        "crop": "MVI_9806-interviewer",
+        "join": "cut",
+        "shorten_silence": false
+      },
+      {
+        "clip": 9806,
+        "in": 8.73,
+        "out": 10.7,
+        "role": "Doctor asks whether pricing is the same",
+        "speaker": "doctor",
+        "join": "cut",
+        "shorten_silence": false
+      },
+      {
+        "clip": 9806,
+        "in": 10.7,
+        "out": 13.87,
+        "role": "Interviewer gives two prices",
+        "speaker": "interviewer",
+        "crop": "MVI_9806-interviewer",
+        "join": "cut",
+        "shorten_silence": false
+      },
+      {
+        "clip": 9806,
+        "in": 13.87,
+        "out": 66.43,
+        "role": "Doctor's complete explanation and recommendation",
+        "speaker": "doctor",
+        "join": "cut"
+      },
+      {
+        "clip": 9806,
+        "in": 66.43,
+        "out": 67.6,
+        "role": "Interviewer thanks doctor",
+        "speaker": "interviewer",
+        "crop": "MVI_9806-interviewer",
+        "join": "cut",
+        "shorten_silence": false
+      },
+      {
+        "clip": 9806,
+        "in": 67.6,
+        "out": 69,
+        "role": "Doctor replies",
+        "speaker": "doctor",
+        "join": "cut",
+        "shorten_silence": false
+      }
+    ],
+    "notes": [
+      "Independent source crop per speaker; clean turn cuts avoid overlapping faces. Do not mirror the footage.",
+      "Preserve the distinction between content, vehicle/delivery, manufacturer and suitability; do not imply price guarantees better results."
+    ]
+  },
+  {
+    "id": "reel-11",
+    "title": "Wedding travel skincare essentials",
+    "script_ref": "Supplied Reel 10 / recorded variation",
+    "takes": [
+      {
+        "clip": 9809,
+        "in": 0.57,
+        "out": 59.23,
+        "role": "Complete travel story, essentials and wedding closing"
+      }
+    ],
+    "notes": [
+      "End before the final production acknowledgement.",
+      "Recorded advice about briefly skipping actives differs from the supplied script about prescribed treatments. Preserve speech for review; do not turn it into a universal instruction graphic."
+    ]
+  },
+  {
+    "id": "reel-12",
+    "title": "Father–son conversation — tanning and sports",
+    "script_ref": "Extra recorded parent–child dialogue",
+    "takes": [
+      {
+        "clip": 9815,
+        "in": 4.2,
+        "out": 7.6,
+        "role": "Child asks about tanning",
+        "speaker": "child",
+        "crop": "MVI_9815-child",
+        "join": "cut",
+        "shorten_silence": false
+      },
+      {
+        "clip": 9815,
+        "in": 9.0,
+        "out": 11.1,
+        "role": "Doctor asks the child's age",
+        "speaker": "doctor",
+        "join": "cut",
+        "shorten_silence": false
+      },
+      {
+        "clip": 9815,
+        "in": 11.6,
+        "out": 12.4,
+        "role": "Child answers age",
+        "speaker": "child",
+        "crop": "MVI_9815-child",
+        "join": "cut",
+        "shorten_silence": false
+      },
+      {
+        "clip": 9815,
+        "in": 12.93,
+        "out": 80.8,
+        "role": "Doctor's complete response about physical activity",
+        "speaker": "doctor",
+        "join": "cut"
+      },
+      {
+        "clip": 9815,
+        "in": 81.2,
+        "out": 82.97,
+        "role": "Child's follow-up about playing at night",
+        "speaker": "child",
+        "crop": "MVI_9815-child",
+        "join": "cut",
+        "shorten_silence": false
+      },
+      {
+        "clip": 9815,
+        "in": 83.63,
+        "out": 88.2,
+        "role": "Doctor's response and closing",
+        "speaker": "doctor",
+        "join": "cut",
+        "shorten_silence": false
+      }
+    ],
+    "notes": [
+      "Two-person footage receives speaker crops independently from the adult podcast.",
+      "Keep the real family footage. No synthetic child, patient outcome, supplement dose or treatment demonstration.",
+      "Source supplement/tanning remarks differ from supplied scripts; retained as recorded speech for user review.",
+      "Source word alignment used to trim the initial 4.2s setup and preserve the child’s complete opening; silence between age question/answer shortened explicitly."
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "source": "MVI_9768.MP4",
+    "in": 3.533333333333333,
+    "out": 13.133333333333333,
+    "role": "Complete recorded 15-day hook; preserve actual count",
+    "speaker": "doctor"
+  },
+  {
+    "source": "MVI_9769.MP4",
+    "in": 1.9666666666666666,
+    "out": 19.3,
+    "role": "Products and irritation explanation",
+    "speaker": "doctor"
+  },
+  {
+    "source": "MVI_9771.MP4",
+    "in": 1.2333333333333334,
+    "out": 35.9,
+    "role": "Routine, patch test and dermatologist advice; includes recorded procedure aside",
+    "speaker": "doctor"
+  }
+]

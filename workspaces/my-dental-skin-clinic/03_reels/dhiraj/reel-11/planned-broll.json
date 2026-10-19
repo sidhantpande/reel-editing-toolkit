@@ -1,0 +1,54 @@
+[
+  {
+    "reel": "reel-11",
+    "id": "B01",
+    "clip": "MVI_9809",
+    "source_anchor": 3.2,
+    "seconds": 5.2,
+    "spoken_anchor": "wedding trip … पूरा skincare bag साथ ले जाऊँ?",
+    "prompt": "Top-down view of an open small travel case and a sage toiletry pouch. An anonymous hand removes unnecessary generic duplicate bottles, leaving the pouch tidy. A subtle wedding invitation-shaped blank card sits near the edge without writing. Warm travel editorial style, slow controlled slide.",
+    "layout": "full-frame",
+    "element": "travel-skincare-pouch",
+    "timeline_in": 1.7,
+    "timeline_out": 7.1,
+    "delivery_filename": "dhiraj_reel-11_B01.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.4,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: Top-down view of an open small travel case and a sage toiletry pouch. An anonymous hand removes unnecessary generic duplicate bottles, leaving the pouch tidy. A subtle wedding invitation-shaped blank card sits near the edge without writing. Warm travel editorial style, slow controlled slide.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-11_B01.mp4",
+    "sha256": "a00731786a97628e05be3d47be7a22cf3171b4c6213cd71868ddded31d566c47",
+    "selected_ranges": [
+      {
+        "timeline_in": 1.7,
+        "timeline_out": 7.1,
+        "media_in": 0.4
+      }
+    ]
+  },
+  {
+    "reel": "reel-11",
+    "id": "B02",
+    "clip": "MVI_9809",
+    "source_anchor": 11.9,
+    "seconds": 6.2,
+    "spoken_anchor": "gentle skin cleanser, suitable moisturizer और sunscreen",
+    "prompt": "Exactly three miniature unbranded essentials—cleanser, moisturizer and sunscreen—are neatly placed inside an open sage toiletry pouch in sequence. End with zipper partly closing while objects remain visible. Premium tactile fabric, soft daylight, no prescription drugs or instruction to stop treatment.",
+    "layout": "full-frame",
+    "element": "travel-skincare-pouch",
+    "timeline_in": 10.8,
+    "timeline_out": 18,
+    "delivery_filename": "dhiraj_reel-11_B02.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.3,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: Exactly three miniature unbranded essentials—cleanser, moisturizer and sunscreen—are neatly placed inside an open sage toiletry pouch in sequence. End with zipper partly closing while objects remain visible. Premium tactile fabric, soft daylight, no prescription drugs or instruction to stop treatment.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-11_B02.mp4",
+    "sha256": "92fd63d9d874c77f9ebbececcf08c4985e33b2ec6a5a609858e96e00a12e304a",
+    "selected_ranges": [
+      {
+        "timeline_in": 10.8,
+        "timeline_out": 18,
+        "media_in": 0.3
+      }
+    ]
+  }
+]

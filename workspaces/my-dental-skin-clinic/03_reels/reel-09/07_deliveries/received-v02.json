@@ -1,0 +1,39 @@
+{
+  "received": [
+    {
+      "path": "04_generated_broll/approved/reel-09_B01_tooth-role_received.mp4",
+      "sha256": "deb38c2f1afb3fb0bd75ce53f8df44962994df15887ad4e714cb17a89fd919d2",
+      "bytes": 1766847,
+      "duration": 10.0,
+      "dimensions": [
+        720,
+        1280
+      ],
+      "fps": 24,
+      "subject": "complete dental arch with one molar attention outline",
+      "source": "User supplied Gemini-generated video for Reel-09, 2026-10-19",
+      "source_path": "/Users/sidhant/Downloads/gemini_generated_video_c47c1b56.mp4",
+      "rights": "User-supplied generated asset; provider identified by user filename/metadata as Google Gemini",
+      "git_storage": "lfs",
+      "review": "Complete 0.5-second visual sampling and tail inspected; clean continuous illustrative model motion, no labels or patient results; small embedded sparkle marks retained. Native audio discarded."
+    },
+    {
+      "path": "04_generated_broll/approved/reel-09_B02_problem-escalation_received.mp4",
+      "sha256": "ccd7d7e681faef11a628258774697b25c9edbbfff2c4843c0b6536d9c6ba2d1c",
+      "bytes": 1515717,
+      "duration": 10.0,
+      "dimensions": [
+        720,
+        1280
+      ],
+      "fps": 24,
+      "subject": "symbolic attention ring on unchanged molar model",
+      "source": "User supplied Gemini-generated video for Reel-09, 2026-10-19",
+      "source_path": "/Users/sidhant/Downloads/gemini_generated_video_c2362cd1.mp4",
+      "rights": "User-supplied generated asset; provider identified by user filename/metadata as Google Gemini",
+      "git_storage": "lfs",
+      "review": "Complete 0.5-second visual sampling and tail inspected; clean continuous illustrative model motion, no labels or patient results; small embedded sparkle marks retained. Native audio discarded."
+    }
+  ],
+  "decision": "Use arch in question and ring concept in escalation; replace previous single-tooth cutout with different topic-specific assets"
+}

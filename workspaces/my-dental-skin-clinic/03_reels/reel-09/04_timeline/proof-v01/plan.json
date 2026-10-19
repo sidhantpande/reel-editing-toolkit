@@ -1,0 +1,343 @@
+{
+  "reel_id": "reel-09-style-proof",
+  "version": "v01",
+  "style": "styles/clinic-reference-bold.json",
+  "duration_seconds": 11.166666666666666,
+  "status": "STYLE_PROOF / draft transcript; human listening not performed",
+  "segments": [
+    {
+      "source_id": "clip-e87275f6c98992a2",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Reel-09/DJI_20261004212901_0116_D.MP4",
+      "source_sha256": "e87275f6c98992a2806ffe877e22ce31fe620b6f9bcadc7652f411abdec6306f",
+      "source_duration": 38.848,
+      "source_in": 25.2,
+      "source_out": 36.36666666666667,
+      "timeline_in": 0,
+      "timeline_out": 11.166666666666666,
+      "crop_xywh": {
+        "x": 153,
+        "y": 430,
+        "width": 1422,
+        "height": 2528
+      }
+    }
+  ],
+  "words": [
+    {
+      "text": "फ़र्क",
+      "start": 0.019999999999999574,
+      "end": 0.4200000000000017,
+      "source_id": "clip-e87275f6c98992a2",
+      "source_start": 25.22,
+      "source_end": 25.62,
+      "phrase_id": "proof-00"
+    },
+    {
+      "text": "पड़ता",
+      "start": 0.4200000000000017,
+      "end": 0.9000000000000021,
+      "source_id": "clip-e87275f6c98992a2",
+      "source_start": 25.62,
+      "source_end": 26.1,
+      "phrase_id": "proof-00"
+    },
+    {
+      "text": "है",
+      "start": 0.9000000000000021,
+      "end": 1.0399999999999991,
+      "source_id": "clip-e87275f6c98992a2",
+      "source_start": 26.1,
+      "source_end": 26.24,
+      "phrase_id": "proof-00"
+    },
+    {
+      "text": "हर",
+      "start": 1.0399999999999991,
+      "end": 1.879999999999999,
+      "source_id": "clip-e87275f6c98992a2",
+      "source_start": 26.24,
+      "source_end": 27.08,
+      "phrase_id": "proof-01"
+    },
+    {
+      "text": "दांत",
+      "start": 1.879999999999999,
+      "end": 2.2600000000000016,
+      "source_id": "clip-e87275f6c98992a2",
+      "source_start": 27.08,
+      "source_end": 27.46,
+      "phrase_id": "proof-01"
+    },
+    {
+      "text": "का",
+      "start": 2.2600000000000016,
+      "end": 2.539999999999999,
+      "source_id": "clip-e87275f6c98992a2",
+      "source_start": 27.46,
+      "source_end": 27.74,
+      "phrase_id": "proof-01"
+    },
+    {
+      "text": "अलग",
+      "start": 2.539999999999999,
+      "end": 2.9200000000000017,
+      "source_id": "clip-e87275f6c98992a2",
+      "source_start": 27.74,
+      "source_end": 28.12,
+      "phrase_id": "proof-02"
+    },
+    {
+      "text": "रोल",
+      "start": 2.9200000000000017,
+      "end": 3.1799999999999997,
+      "source_id": "clip-e87275f6c98992a2",
+      "source_start": 28.12,
+      "source_end": 28.38,
+      "phrase_id": "proof-02"
+    },
+    {
+      "text": "होता",
+      "start": 3.1799999999999997,
+      "end": 3.5600000000000023,
+      "source_id": "clip-e87275f6c98992a2",
+      "source_start": 28.38,
+      "source_end": 28.76,
+      "phrase_id": "proof-02"
+    },
+    {
+      "text": "है",
+      "start": 3.5600000000000023,
+      "end": 3.6999999999999993,
+      "source_id": "clip-e87275f6c98992a2",
+      "source_start": 28.76,
+      "source_end": 28.9,
+      "phrase_id": "proof-02"
+    },
+    {
+      "text": "और",
+      "start": 4.32,
+      "end": 4.640000000000001,
+      "source_id": "clip-e87275f6c98992a2",
+      "source_start": 29.52,
+      "source_end": 29.84,
+      "phrase_id": "proof-03"
+    },
+    {
+      "text": "जब",
+      "start": 4.640000000000001,
+      "end": 4.84,
+      "source_id": "clip-e87275f6c98992a2",
+      "source_start": 29.84,
+      "source_end": 30.04,
+      "phrase_id": "proof-03"
+    },
+    {
+      "text": "problem",
+      "start": 4.84,
+      "end": 5.260000000000002,
+      "source_id": "clip-e87275f6c98992a2",
+      "source_start": 30.04,
+      "source_end": 30.46,
+      "phrase_id": "proof-03"
+    },
+    {
+      "text": "छोटी",
+      "start": 5.260000000000002,
+      "end": 5.699999999999999,
+      "source_id": "clip-e87275f6c98992a2",
+      "source_start": 30.46,
+      "source_end": 30.9,
+      "phrase_id": "proof-04"
+    },
+    {
+      "text": "है",
+      "start": 5.699999999999999,
+      "end": 5.940000000000001,
+      "source_id": "clip-e87275f6c98992a2",
+      "source_start": 30.9,
+      "source_end": 31.14,
+      "phrase_id": "proof-04"
+    },
+    {
+      "text": "तो",
+      "start": 5.940000000000001,
+      "end": 6.5,
+      "source_id": "clip-e87275f6c98992a2",
+      "source_start": 31.14,
+      "source_end": 31.7,
+      "phrase_id": "proof-05"
+    },
+    {
+      "text": "उसका",
+      "start": 6.5,
+      "end": 6.800000000000001,
+      "source_id": "clip-e87275f6c98992a2",
+      "source_start": 31.7,
+      "source_end": 32,
+      "phrase_id": "proof-05"
+    },
+    {
+      "text": "solution",
+      "start": 6.800000000000001,
+      "end": 7.140000000000004,
+      "source_id": "clip-e87275f6c98992a2",
+      "source_start": 32,
+      "source_end": 32.34,
+      "phrase_id": "proof-05"
+    },
+    {
+      "text": "भी",
+      "start": 7.140000000000004,
+      "end": 7.279999999999998,
+      "source_id": "clip-e87275f6c98992a2",
+      "source_start": 32.34,
+      "source_end": 32.48,
+      "phrase_id": "proof-06"
+    },
+    {
+      "text": "छोटा",
+      "start": 7.279999999999998,
+      "end": 7.720000000000002,
+      "source_id": "clip-e87275f6c98992a2",
+      "source_start": 32.48,
+      "source_end": 32.92,
+      "phrase_id": "proof-06"
+    },
+    {
+      "text": "होता",
+      "start": 7.720000000000002,
+      "end": 8.02,
+      "source_id": "clip-e87275f6c98992a2",
+      "source_start": 32.92,
+      "source_end": 33.22,
+      "phrase_id": "proof-06"
+    },
+    {
+      "text": "है",
+      "start": 8.02,
+      "end": 8.140000000000004,
+      "source_id": "clip-e87275f6c98992a2",
+      "source_start": 33.22,
+      "source_end": 33.34,
+      "phrase_id": "proof-06"
+    },
+    {
+      "text": "problem",
+      "start": 8.140000000000004,
+      "end": 8.640000000000004,
+      "source_id": "clip-e87275f6c98992a2",
+      "source_start": 33.34,
+      "source_end": 33.84,
+      "phrase_id": "proof-07"
+    },
+    {
+      "text": "बड़ी",
+      "start": 8.640000000000004,
+      "end": 9.059999999999999,
+      "source_id": "clip-e87275f6c98992a2",
+      "source_start": 33.84,
+      "source_end": 34.26,
+      "phrase_id": "proof-07"
+    },
+    {
+      "text": "है",
+      "start": 9.059999999999999,
+      "end": 9.239999999999998,
+      "source_id": "clip-e87275f6c98992a2",
+      "source_start": 34.26,
+      "source_end": 34.44,
+      "phrase_id": "proof-07"
+    },
+    {
+      "text": "तो",
+      "start": 9.239999999999998,
+      "end": 9.459999999999997,
+      "source_id": "clip-e87275f6c98992a2",
+      "source_start": 34.44,
+      "source_end": 34.66,
+      "phrase_id": "proof-08"
+    },
+    {
+      "text": "उसका",
+      "start": 9.459999999999997,
+      "end": 9.739999999999998,
+      "source_id": "clip-e87275f6c98992a2",
+      "source_start": 34.66,
+      "source_end": 34.94,
+      "phrase_id": "proof-08"
+    },
+    {
+      "text": "solution",
+      "start": 9.739999999999998,
+      "end": 10.02,
+      "source_id": "clip-e87275f6c98992a2",
+      "source_start": 34.94,
+      "source_end": 35.22,
+      "phrase_id": "proof-08"
+    },
+    {
+      "text": "भी",
+      "start": 10.02,
+      "end": 10.3,
+      "source_id": "clip-e87275f6c98992a2",
+      "source_start": 35.22,
+      "source_end": 35.5,
+      "phrase_id": "proof-09"
+    },
+    {
+      "text": "बड़ा",
+      "start": 10.3,
+      "end": 10.599999999999998,
+      "source_id": "clip-e87275f6c98992a2",
+      "source_start": 35.5,
+      "source_end": 35.8,
+      "phrase_id": "proof-09"
+    },
+    {
+      "text": "होता",
+      "start": 10.599999999999998,
+      "end": 10.900000000000002,
+      "source_id": "clip-e87275f6c98992a2",
+      "source_start": 35.8,
+      "source_end": 36.1,
+      "phrase_id": "proof-09"
+    },
+    {
+      "text": "है",
+      "start": 10.900000000000002,
+      "end": 11.02,
+      "source_id": "clip-e87275f6c98992a2",
+      "source_start": 36.1,
+      "source_end": 36.22,
+      "phrase_id": "proof-09"
+    }
+  ],
+  "broll_slots": [],
+  "graphic_slots": [
+    {
+      "id": "G01",
+      "path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/assets/cutouts/molar-ivory-v01.png",
+      "timeline_in": 0.4,
+      "timeline_out": 3.6666666666666665,
+      "x": 500,
+      "y": 80,
+      "width": 520,
+      "visual_reviewed": true
+    }
+  ],
+  "caption_keywords": [
+    "दांत",
+    "अलग",
+    "problem",
+    "solution",
+    "छोटी",
+    "बड़ी",
+    "छोटा",
+    "बड़ा"
+  ],
+  "caption_emphasis": [
+    "दांत",
+    "problem",
+    "solution"
+  ]
+}

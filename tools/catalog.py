@@ -21,7 +21,7 @@ for a in sorted(assets,key=lambda a:a['id']):lines.append(f'| {a["id"]} | {a["ki
 (R/'catalog/ASSET_INDEX.md').write_text('\n'.join(lines)+'\n')
 print(f'Indexed {len(assets)} assets and {len(scenes)} motion kinds.')
 
-# The clinic uses reviewed supplied B-roll, not Remotion native scene substitutes.
+# Clinic footage, endings and generated transparent cutouts retain provenance.
 manifest=R/'workspaces/my-dental-skin-clinic/04_generated_broll/manifest.json'
 clinic=[]
 if manifest.is_file():
@@ -31,8 +31,19 @@ ending=R/'workspaces/my-dental-skin-clinic/assets/brand/endcards/manifest.json'
 if ending.is_file():
  asset=json.loads(ending.read_text())
  clinic.append({'id':'clinic-reference-logo-outro','brand':'clinic','kind':'ending','subject':'white logo end-card with supplied spoken signature','repositoryFile':'workspaces/my-dental-skin-clinic/'+asset['path'],'duration':asset['duration'],'sha256':asset['sha256'],'source':'user supplied reference ending','rights':asset['rights'],'git_storage':'lfs'})
+cutouts=R/'workspaces/my-dental-skin-clinic/assets/cutouts/manifest.json'
+if cutouts.is_file():
+ for asset in json.loads(cutouts.read_text())['assets']:
+  clinic.append({'id':'clinic-'+asset['id'],'brand':'clinic','kind':'transparent-image','subject':asset.get('subject','ivory molar tooth teaching model'),'repositoryFile':'workspaces/my-dental-skin-clinic/'+asset['path'],'sha256':asset['sha256'],'source':asset['source'],'git_storage':'lfs'})
+dhiraj_logo=R/'workspaces/my-dental-skin-clinic/assets/brand/dhiraj/provenance.json'
+if dhiraj_logo.is_file():
+ asset=json.loads(dhiraj_logo.read_text()).get('transparent_version')
+ if asset:
+  clinic.append({'id':'dhiraj-supplied-clinic-logo-transparent','brand':'clinic','kind':'brand-logo','subject':'Dhiraj shoot — supplied clinic logo with transparent background; use only for this identity','repositoryFile':'workspaces/my-dental-skin-clinic/'+asset['path'],'sha256':asset['sha256'],'source':'User-supplied logo; built-in imagegen background extraction','git_storage':'lfs'})
 (R/'catalog/clinic-assets.json').write_text(json.dumps(clinic,ensure_ascii=False,indent=2)+'\n')
 with (R/'catalog/ASSET_INDEX.md').open('a') as f:
- f.write('\n## Clinic supplied B-roll and ending\n\nSearch: `python3 tools/reelctl.py assets --brand clinic --query implant`.\n\n')
- for asset in clinic:f.write(f'- [{asset["subject"]}](../{asset["repositoryFile"]}) — {asset["duration"]:.2f}s; Git LFS; user supplied.\n')
+ f.write('\n## Clinic B-roll, ending and cutouts\n\nSearch: `python3 tools/reelctl.py assets --brand clinic --query implant`.\n\n')
+ for asset in clinic:
+  duration=f'{asset["duration"]:.2f}s; ' if 'duration' in asset else ''
+  f.write(f'- [{asset["subject"]}](../{asset["repositoryFile"]}) — {duration}Git LFS; {asset["source"]}.\n')
 print(f'Indexed {len(clinic)} clinic reusable media assets separately from the native scene catalogue.')

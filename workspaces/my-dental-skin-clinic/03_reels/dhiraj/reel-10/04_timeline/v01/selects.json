@@ -1,0 +1,44 @@
+[
+  {
+    "source": "MVI_9806.MP4",
+    "in": 0.36666666666666664,
+    "out": 8.733333333333333,
+    "role": "Interviewer asks why results differ",
+    "speaker": "interviewer"
+  },
+  {
+    "source": "MVI_9806.MP4",
+    "in": 8.733333333333333,
+    "out": 10.7,
+    "role": "Doctor asks whether pricing is the same",
+    "speaker": "doctor"
+  },
+  {
+    "source": "MVI_9806.MP4",
+    "in": 10.7,
+    "out": 13.866666666666667,
+    "role": "Interviewer gives two prices",
+    "speaker": "interviewer"
+  },
+  {
+    "source": "MVI_9806.MP4",
+    "in": 13.866666666666667,
+    "out": 66.43333333333334,
+    "role": "Doctor's complete explanation and recommendation",
+    "speaker": "doctor"
+  },
+  {
+    "source": "MVI_9806.MP4",
+    "in": 66.43333333333334,
+    "out": 67.6,
+    "role": "Interviewer thanks doctor",
+    "speaker": "interviewer"
+  },
+  {
+    "source": "MVI_9806.MP4",
+    "in": 67.6,
+    "out": 69.0,
+    "role": "Doctor replies",
+    "speaker": "doctor"
+  }
+]

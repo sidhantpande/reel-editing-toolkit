@@ -1,0 +1,221 @@
+{
+  "reel_id": "dhiraj-reel-09",
+  "version": "v01",
+  "title": "Professional trust and treatment quality",
+  "style": "styles/clinic-approved.json",
+  "status": "CLEAN_SELECTS_FOR_REVIEW / logo deferred by user; B-roll planning separate",
+  "segments": [
+    {
+      "source_id": "clip-fae84c326515560b",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9800.MP4",
+      "source_sha256": "fae84c326515560b129c4c1144dd1c30077f1a4f9950957f11d533cd1915a716",
+      "source_duration": 67.3673,
+      "source_in": 3.433333333333333,
+      "source_out": 6.966666666666667,
+      "timeline_in": 0,
+      "timeline_out": 3.533333333333333,
+      "crop_xywh": {
+        "x": 1468,
+        "y": 432,
+        "width": 972,
+        "height": 1728
+      },
+      "role": "Complete professional brand/trust story and treatment-quality example",
+      "speaker": "doctor",
+      "join": "fade"
+    },
+    {
+      "source_id": "clip-fae84c326515560b",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9800.MP4",
+      "source_sha256": "fae84c326515560b129c4c1144dd1c30077f1a4f9950957f11d533cd1915a716",
+      "source_duration": 67.3673,
+      "source_in": 8.033333333333333,
+      "source_out": 9.166666666666666,
+      "timeline_in": 3.533333333333333,
+      "timeline_out": 4.666666666666666,
+      "crop_xywh": {
+        "x": 1468,
+        "y": 432,
+        "width": 972,
+        "height": 1728
+      },
+      "role": "Complete professional brand/trust story and treatment-quality example",
+      "speaker": "doctor",
+      "join": "fade"
+    },
+    {
+      "source_id": "clip-fae84c326515560b",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9800.MP4",
+      "source_sha256": "fae84c326515560b129c4c1144dd1c30077f1a4f9950957f11d533cd1915a716",
+      "source_duration": 67.3673,
+      "source_in": 9.7,
+      "source_out": 12.333333333333332,
+      "timeline_in": 4.666666666666666,
+      "timeline_out": 7.299999999999999,
+      "crop_xywh": {
+        "x": 1468,
+        "y": 432,
+        "width": 972,
+        "height": 1728
+      },
+      "role": "Complete professional brand/trust story and treatment-quality example",
+      "speaker": "doctor",
+      "join": "fade"
+    },
+    {
+      "source_id": "clip-fae84c326515560b",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9800.MP4",
+      "source_sha256": "fae84c326515560b129c4c1144dd1c30077f1a4f9950957f11d533cd1915a716",
+      "source_duration": 67.3673,
+      "source_in": 12.866666666666667,
+      "source_out": 14.3,
+      "timeline_in": 7.299999999999999,
+      "timeline_out": 8.733333333333333,
+      "crop_xywh": {
+        "x": 1468,
+        "y": 432,
+        "width": 972,
+        "height": 1728
+      },
+      "role": "Complete professional brand/trust story and treatment-quality example",
+      "speaker": "doctor",
+      "join": "fade"
+    },
+    {
+      "source_id": "clip-fae84c326515560b",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9800.MP4",
+      "source_sha256": "fae84c326515560b129c4c1144dd1c30077f1a4f9950957f11d533cd1915a716",
+      "source_duration": 67.3673,
+      "source_in": 15.166666666666666,
+      "source_out": 22.633333333333333,
+      "timeline_in": 8.733333333333333,
+      "timeline_out": 16.2,
+      "crop_xywh": {
+        "x": 1468,
+        "y": 432,
+        "width": 972,
+        "height": 1728
+      },
+      "role": "Complete professional brand/trust story and treatment-quality example",
+      "speaker": "doctor",
+      "join": "fade"
+    },
+    {
+      "source_id": "clip-fae84c326515560b",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9800.MP4",
+      "source_sha256": "fae84c326515560b129c4c1144dd1c30077f1a4f9950957f11d533cd1915a716",
+      "source_duration": 67.3673,
+      "source_in": 23.3,
+      "source_out": 41.266666666666666,
+      "timeline_in": 16.2,
+      "timeline_out": 34.166666666666664,
+      "crop_xywh": {
+        "x": 1468,
+        "y": 432,
+        "width": 972,
+        "height": 1728
+      },
+      "role": "Complete professional brand/trust story and treatment-quality example",
+      "speaker": "doctor",
+      "join": "fade"
+    },
+    {
+      "source_id": "clip-fae84c326515560b",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9800.MP4",
+      "source_sha256": "fae84c326515560b129c4c1144dd1c30077f1a4f9950957f11d533cd1915a716",
+      "source_duration": 67.3673,
+      "source_in": 42.06666666666667,
+      "source_out": 61.13333333333334,
+      "timeline_in": 34.166666666666664,
+      "timeline_out": 53.233333333333334,
+      "crop_xywh": {
+        "x": 1468,
+        "y": 432,
+        "width": 972,
+        "height": 1728
+      },
+      "role": "Complete professional brand/trust story and treatment-quality example",
+      "speaker": "doctor",
+      "join": "fade"
+    },
+    {
+      "source_id": "clip-fae84c326515560b",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9800.MP4",
+      "source_sha256": "fae84c326515560b129c4c1144dd1c30077f1a4f9950957f11d533cd1915a716",
+      "source_duration": 67.3673,
+      "source_in": 61.93333333333333,
+      "source_out": 64.36666666666666,
+      "timeline_in": 53.233333333333334,
+      "timeline_out": 55.666666666666664,
+      "crop_xywh": {
+        "x": 1468,
+        "y": 432,
+        "width": 972,
+        "height": 1728
+      },
+      "role": "Complete professional brand/trust story and treatment-quality example",
+      "speaker": "doctor",
+      "join": "fade"
+    }
+  ],
+  "words": [],
+  "broll_slots": [],
+  "graphic_slots": [],
+  "cue_exclusions": [],
+  "clean_export": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-09/reel-09_clean-9x16_v01.mp4",
+  "review": {
+    "source_visual": "complete 2-second chronological contact sheets and framing proofs",
+    "dialogue": "two local ASR decoders; no human listening attestation",
+    "captions": "not burned into clean-cut delivery; draft ASR retained separately",
+    "brand": "user requested clean edit and logo later"
+  },
+  "duration_seconds": 55.666666666666664,
+  "silence_splices": [
+    {
+      "source": "clip-fae84c326515560b",
+      "in": 6.966666666666667,
+      "out": 8.033333333333333,
+      "reason": "continuous normalized energy below -44 dBFS for >=0.9s; 180ms handles retained"
+    },
+    {
+      "source": "clip-fae84c326515560b",
+      "in": 9.166666666666666,
+      "out": 9.7,
+      "reason": "continuous normalized energy below -44 dBFS for >=0.9s; 180ms handles retained"
+    },
+    {
+      "source": "clip-fae84c326515560b",
+      "in": 12.333333333333334,
+      "out": 12.866666666666667,
+      "reason": "continuous normalized energy below -44 dBFS for >=0.9s; 180ms handles retained"
+    },
+    {
+      "source": "clip-fae84c326515560b",
+      "in": 14.3,
+      "out": 15.166666666666666,
+      "reason": "continuous normalized energy below -44 dBFS for >=0.9s; 180ms handles retained"
+    },
+    {
+      "source": "clip-fae84c326515560b",
+      "in": 22.633333333333333,
+      "out": 23.3,
+      "reason": "continuous normalized energy below -44 dBFS for >=0.9s; 180ms handles retained"
+    },
+    {
+      "source": "clip-fae84c326515560b",
+      "in": 41.266666666666666,
+      "out": 42.06666666666667,
+      "reason": "continuous normalized energy below -44 dBFS for >=0.9s; 180ms handles retained"
+    },
+    {
+      "source": "clip-fae84c326515560b",
+      "in": 61.13333333333333,
+      "out": 61.93333333333333,
+      "reason": "continuous normalized energy below -44 dBFS for >=0.9s; 180ms handles retained"
+    }
+  ],
+  "editorial_notes": [
+    "Doctor's name is retained in speech; spelling is not invented as a title/logo.",
+    "Recorded prices are an anecdotal example, not an advertised price card or live clinic offer."
+  ]
+}

@@ -29,13 +29,19 @@ def prepare_fonts():
 
 FONT_CACHE={}
 STYLE={}
-def glyph(word):
- latin=bool(re.fullmatch('[A-Za-z]+',word))
- key=word.lower() in v3.KEYS;emph=word.lower() in v3.EMPHASIS
+def glyph(word, override=None):
+ override=override or {};config=STYLE.get('caption',{})
+ token=word.strip('.,!?।:;').lower()
+ latin=bool(re.search('[A-Za-z]',word))
+ key=override.get('key',token in v3.KEYS);emph=override.get('emphasis',token in v3.EMPHASIS)
  point=(118 if emph else (104 if key else 94)) if latin else (100 if emph else (90 if key else (68 if word in v3.CONNECT else 80)))
- path=READY/('ClinicMontserrat-ExtraBold.ttf' if latin else 'Mukta-ExtraBold.ttf')
+ role='emphasis' if emph else 'key' if key else 'connector' if word in v3.CONNECT else 'normal'
+ point=config.get('sizes',{}).get('english' if latin else 'hindi',{}).get(role,point)
+ file=config.get('english_font' if latin else 'hindi_font')
+ path=(R/file) if file else READY/('ClinicMontserrat-ExtraBold.ttf' if latin else 'Mukta-ExtraBold.ttf')
+ if latin and key and config.get('keyword_english_font'):path=R/config['keyword_english_font']
  if (path,point) not in FONT_CACHE:FONT_CACHE[path,point]=ImageFont.truetype(str(path),point)
- font=FONT_CACHE[path,point];text=word.upper() if latin and key else word
+ font=FONT_CACHE[path,point];text=word.upper() if latin and key and config.get('uppercase_keywords',True) else word
  box=font.getbbox(text,anchor='ls',stroke_width=2)
  pad=8;w=box[2]-box[0];h=box[3]-box[1]
  image=Image.new('RGBA',(w+pad*2,h+pad*2),(0,0,0,0))
@@ -43,7 +49,9 @@ def glyph(word):
  shadow=Image.new('RGBA',image.size,(0,0,0,0));sd=ImageDraw.Draw(shadow)
  sd.text((origin[0],origin[1]+2),text,font=font,anchor='ls',fill=(0,0,0,165),stroke_width=2,stroke_fill=(0,0,0,140))
  image.alpha_composite(shadow.filter(ImageFilter.GaussianBlur(.8)))
- d=ImageDraw.Draw(image);colour=(255,240,58,255) if key else (255,255,255,255)
+ d=ImageDraw.Draw(image)
+ from PIL import ImageColor
+ colour=ImageColor.getcolor(config.get('accent_colour','#FFF03A') if key else config.get('normal_colour','#FFFFFF'),'RGBA')
  d.text(origin,text,font=font,anchor='ls',fill=colour,stroke_width=2,stroke_fill=(32,32,32,235))
  return {'image':image,'box':box,'width':w,'ascent':-box[1],'descent':box[3],'point':point,'font':path.name,'display':text,'key':key,'emphasis':emph,'pad':pad}
 
@@ -52,15 +60,22 @@ def captions(plan):
  for word in plan['words']:by_phrase[word['phrase_id']].append(word)
  groups=list(by_phrase.values());assets=[];records=[]
  for k,group in enumerate(groups):
-  gs=[glyph(w['text']) for w in group]
+  gs=[glyph(w['text'],w) for w in group]
   gap=STYLE.get('caption',{}).get('ink_gap_px',11)
   def width(indices):return sum(gs[i]['width'] for i in indices)+gap*max(0,len(indices)-1)
   whole=list(range(len(group)))
-  if len(group)==1 or width(whole)<=870:rows=[whole]
+  limit=STYLE.get('caption',{}).get('max_row_width',870)
+  explicit=[w.get('row') for w in group]
+  solo=[i for i,g in enumerate(gs) if g['key'] and re.search('[A-Za-z]',group[i]['text'])]
+  if all(r is not None for r in explicit):rows=[[i for i,r in enumerate(explicit) if r==row] for row in sorted(set(explicit))]
+  elif STYLE.get('caption',{}).get('keyword_on_own_row') and len(solo)==1 and len(group)>1:
+   key=solo[0];other=[i for i in whole if i!=key]
+   rows=([key],other) if key==0 else (other,[key])
+  elif len(group)==1 or width(whole)<=limit:rows=[whole]
   else:
    options=[(list(range(j)),list(range(j,len(group)))) for j in range(1,len(group))]
    rows=min(options,key=lambda pair:max(width(pair[0]),width(pair[1]))+.12*abs(width(pair[0])-width(pair[1])))
-  scales=[min(1,870/width(row)) for row in rows]
+  scales=[min(1,limit/width(row)) for row in rows]
   dimensions=[(max(gs[i]['ascent'] for i in row)*scale,max(gs[i]['descent'] for i in row)*scale) for row,scale in zip(rows,scales)]
   row_gap=STYLE.get('caption',{}).get('line_gap_px',12)
   total=sum(a+d for a,d in dimensions)+row_gap*(len(rows)-1)
@@ -86,7 +101,8 @@ def captions(plan):
  # Draw just the compact text region into an alpha movie, using the same glyph
  # bounds for measurement and rasterization. This avoids external renderer metrics.
  target=CACHE/'compact-word-captions.mov';width_px,height_px=1080,620
- cmd=[FF,'-v','error','-y','-f','rawvideo','-pix_fmt','rgba','-s',f'{width_px}x{height_px}','-r','30','-i','-','-an','-c:v','qtrle','-pix_fmt','argb',str(target)]
+ partial=target.with_name(target.stem+'.partial.mov')
+ cmd=[FF,'-v','error','-y','-f','rawvideo','-pix_fmt','rgba','-s',f'{width_px}x{height_px}','-r','30','-i','-','-an','-c:v','qtrle','-pix_fmt','argb',str(partial)]
  process=subprocess.Popen(cmd,stdin=subprocess.PIPE,stderr=subprocess.PIPE)
  note_font=ImageFont.truetype(str(READY/'ClinicMontserrat-ExtraBold.ttf'),20)
  try:
@@ -107,14 +123,16 @@ def captions(plan):
     if opacity<1:
      image=image.copy();image.putalpha(image.getchannel('A').point(lambda p:round(p*opacity)))
     px=round(asset['x']+(asset['image'].width-image.width)/2)
-    py=round(asset['y']+(asset['image'].height-image.height)/2)
+    rise=STYLE.get('caption',{}).get('rise_pixels',0)*(max(0,1-age/.18)**3)
+    py=round(asset['y']+(asset['image'].height-image.height)/2+rise)
     canvas.alpha_composite(image,(px,py))
    process.stdin.write(canvas.tobytes())
    if frame%300==0:print('Caption animation',round(t),'/',plan['duration_seconds'],'sec',flush=True)
   process.stdin.close();error=process.stderr.read();code=process.wait()
   if code:raise RuntimeError(error.decode()[-4000:])
+  partial.replace(target)
  except BaseException:
-  process.kill();raise
+  process.kill();partial.unlink(missing_ok=True);raise
  (OUT/'caption-layout.json').write_text(json.dumps(records,ensure_ascii=False,indent=2)+'\n')
  return target
 

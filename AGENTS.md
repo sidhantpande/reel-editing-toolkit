@@ -41,3 +41,8 @@ This is a filesystem and CLI editing kit, not a dashboard. Read `README.md`, `do
 - My Dental & Skin Clinic lives in `workspaces/my-dental-skin-clinic`; read its own AGENTS/style files before work there. Its user-approved look differs from the ATFRO/NioLearn palette and captions.
 - The user explicitly authorised backing up approved clinic B-roll MP4s in the existing private repository. Use Git LFS and keep checksummed provenance. Existing exclusion rules still apply to raw/reference/client-export/cache media. The older batch's deletion authorisation does not apply to new clinic footage.
 - Use `tools/pipeline.py` as the brand entry point; preserve `tools/reelctl.py` and existing scene/asset workflows.
+
+## GitHub scope clarification — 20 October 2026
+
+- The owner explicitly confirmed using the existing **public** GitHub repository; older references to a private repository describe its former state.
+- Their latest clarification excludes final edited videos and asks for reusable B-roll. Commit approved supplied/generated B-roll and reusable music/SFX/assets plus toolkit code/notes. Keep clean/final client videos, personal dialogue/master mixes, raw/reference media and caches local. Do not add a delivery/media backup directory or force-add ignored exports.

@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 set -euo pipefail
+export HF_HUB_DISABLE_XET=1
 cd "$(dirname "$0")/.."
 # Restore the runtime without upgrading system packages. Media/models stay local.
 clinic_python="${CLINIC_PYTHON:-$(command -v python3.11 || command -v python3)}"
@@ -22,11 +23,11 @@ from huggingface_hub import snapshot_download
 snapshot_download('Systran/faster-whisper-small',revision='536b0662742c02347bc0e980a01041f333bce120',cache_dir='.cache/models')
 PY
 fi
-.venv/bin/python tools/clinic.py doctor
 clinic_preferred_model="$(.venv/bin/python -c 'import json;print(json.load(open("project.json"))["transcription"]["model"])')"
 if [[ "${1:-}" == "--turbo" || "$clinic_preferred_model" == "turbo" ]]; then
  .venv/bin/python tools/fetch_model.py --model turbo
 fi
+.venv/bin/python tools/clinic.py doctor
 # Restore the pinned local speech-cleanup engine used by the clinic finish pass.
 .venv/bin/python - <<'PY'
 import sys

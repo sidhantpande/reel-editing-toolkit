@@ -1,0 +1,37 @@
+[
+  {
+    "source": "MVI_9794.MP4",
+    "in": 1.7666666666666666,
+    "out": 25.6,
+    "role": "Clean opening and natural shedding explanation; end before personal numeric aside",
+    "speaker": "doctor"
+  },
+  {
+    "source": "MVI_9794.MP4",
+    "in": 48.333333333333336,
+    "out": 65.23333333333333,
+    "role": "Complete hair-breakage restart; remove failed first attempt and spoken cut instructions",
+    "speaker": "doctor"
+  },
+  {
+    "source": "MVI_9795.MP4",
+    "in": 0.7666666666666667,
+    "out": 13.966666666666667,
+    "role": "Complete thinning symptoms and consult advice",
+    "speaker": "doctor"
+  },
+  {
+    "source": "MVI_9796.MP4",
+    "in": 0.43333333333333335,
+    "out": 10.366666666666667,
+    "role": "Persistent signs and dermatologist advice",
+    "speaker": "doctor"
+  },
+  {
+    "source": "MVI_9796.MP4",
+    "in": 17.866666666666667,
+    "out": 27.733333333333334,
+    "role": "Complete analysis/treatment closing; remove production sentence comment",
+    "speaker": "doctor"
+  }
+]

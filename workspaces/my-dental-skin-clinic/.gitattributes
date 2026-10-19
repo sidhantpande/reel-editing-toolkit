@@ -2,6 +2,10 @@
 04_generated_broll/approved/*.mp4 filter=lfs diff=lfs merge=lfs -text
 00_inbox/brand/*.png filter=lfs diff=lfs merge=lfs -text
 assets/fonts/**/*.ttf filter=lfs diff=lfs merge=lfs -text
+assets/cutouts/*.png filter=lfs diff=lfs merge=lfs -text
+assets/cutouts/**/*.png filter=lfs diff=lfs merge=lfs -text
+assets/brand/dhiraj/*.jpg filter=lfs diff=lfs merge=lfs -text
+assets/brand/dhiraj/*.png filter=lfs diff=lfs merge=lfs -text
 previews/**/*.png filter=lfs diff=lfs merge=lfs -text
 previews/**/*.jpg filter=lfs diff=lfs merge=lfs -text
 previews/**/*.mp4 filter=lfs diff=lfs merge=lfs -text

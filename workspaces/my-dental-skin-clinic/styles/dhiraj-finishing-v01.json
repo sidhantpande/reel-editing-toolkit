@@ -1,0 +1,86 @@
+{
+  "id": "dhiraj-finishing-v01",
+  "approved_baseline": "Inherited caption/transition mechanics; Dhiraj review branding supplied 2026-10-19",
+  "approved_on": "2026-10-17",
+  "canvas": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  },
+  "logo": {
+    "path": "assets/brand/dhiraj/logo-wide-supplied.jpg",
+    "sha256": "a96122aa8fa0eb07265005890e171f187ffc173c8b69313a504c9051c684da30",
+    "width": 285,
+    "x": 55,
+    "y": 65,
+    "presentation": "Supplied original white square, unaltered"
+  },
+  "caption": {
+    "hindi_font": "assets/fonts/ready/Mukta-ExtraBold.ttf",
+    "english_font": "assets/fonts/ready/ClinicMontserrat-ExtraBold.ttf",
+    "ink_gap_px": 11,
+    "line_gap_px": 12,
+    "max_row_width": 850,
+    "centre_x": 510,
+    "centre_y": 1360,
+    "normal_colour": "#FFFFFF",
+    "accent_colour": "#FFF03A",
+    "production_label": false,
+    "sizes": {
+      "english": {
+        "normal": 78,
+        "key": 94,
+        "emphasis": 104
+      },
+      "hindi": {
+        "normal": 80,
+        "key": 90,
+        "emphasis": 100,
+        "connector": 68
+      }
+    }
+  },
+  "transition": {
+    "type": "dissolve",
+    "frames": 6,
+    "source_handle_frames": 3,
+    "broll_fade_frames": 7
+  },
+  "dialogue": {
+    "sample_rate": 48000,
+    "splice_fade_ms": 6,
+    "highpass_hz": 70,
+    "loudness_target_lufs": -16,
+    "true_peak_target_db": -1.5,
+    "lra_target": 11
+  },
+  "export": {
+    "codec": "libx264",
+    "crf": 18,
+    "preset": "fast",
+    "pixel_format": "yuv420p",
+    "audio_codec": "aac",
+    "audio_bitrate": "192k",
+    "faststart": true
+  },
+  "constraints": [
+    "No recording commands or setup chatter",
+    "Cover speaking screen glances with relevant supplied B-roll",
+    "Preserve words and qualifications",
+    "No production labels",
+    "No user-generated B-roll substitutes before delivery"
+  ],
+  "ending": {
+    "enabled": false
+  },
+  "voice_enhancement": {
+    "enabled": true,
+    "engine": "DeepFilterNet3",
+    "release": "v0.5.6",
+    "attenuation_db": 6,
+    "rate": 48000,
+    "delay_compensation": true,
+    "tail_context_samples": 4800,
+    "human_listening_status": "Review required; objective timing/energy and ASR-retention checks recorded"
+  }
+}

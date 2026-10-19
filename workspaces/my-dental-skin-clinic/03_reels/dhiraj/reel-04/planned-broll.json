@@ -1,0 +1,54 @@
+[
+  {
+    "reel": "reel-04",
+    "id": "B01",
+    "clip": "MVI_9785",
+    "source_anchor": 3,
+    "seconds": 6,
+    "spoken_anchor": "भाई ने दीदी का favourite serum लगाया",
+    "prompt": "Two anonymous adult hands approach one generic serum bottle on a clean festive dressing table; one hand pauses and leaves it in place. Warm Bhai Dooj atmosphere suggested by a small plate of sweets at the edge, no faces, no brand labels or visible dispensing.",
+    "layout": "full-frame",
+    "element": "festival-diya-skincare",
+    "timeline_in": 1.3,
+    "timeline_out": 6.5,
+    "delivery_filename": "dhiraj_reel-04_B01.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 1.2,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: Two anonymous adult hands approach one generic serum bottle on a clean festive dressing table; one hand pauses and leaves it in place. Warm Bhai Dooj atmosphere suggested by a small plate of sweets at the edge, no faces, no brand labels or visible dispensing.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-04_B01_clean-frame-v01.mp4",
+    "sha256": "69644273b6a2527dc8b50ef226246b01437844d34fe55fd5a4f7f5015a4a6254",
+    "selected_ranges": [
+      {
+        "timeline_in": 1.3,
+        "timeline_out": 6.5,
+        "media_in": 1.2
+      }
+    ]
+  },
+  {
+    "reel": "reel-04",
+    "id": "B02",
+    "clip": "MVI_9785",
+    "source_anchor": 17.6,
+    "seconds": 6,
+    "spoken_anchor": "skin type oily … dry और sensitive",
+    "prompt": "Three separate neutral skin-care texture swatches on ivory ceramic tiles: light gel, soft cream and soothing-looking lotion. Slow macro slide showing the different textures without assigning diagnoses or promising suitability. No faces, no oily/dry result comparison, no text.",
+    "layout": "full-frame",
+    "element": "native-skin-types",
+    "timeline_in": 12.8,
+    "timeline_out": 18.900000000000002,
+    "delivery_filename": "dhiraj_reel-04_B02.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.2,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: Three separate neutral skin-care texture swatches on ivory ceramic tiles: light gel, soft cream and soothing-looking lotion. Slow macro slide showing the different textures without assigning diagnoses or promising suitability. No faces, no oily/dry result comparison, no text.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-04_B02.mp4",
+    "sha256": "b4f9b3cb2df7785ac76e2a3fcdef3ac79bf6eb465bfa7f80d82bcf3eba04968f",
+    "selected_ranges": [
+      {
+        "timeline_in": 12.8,
+        "timeline_out": 18.900000000000002,
+        "media_in": 0.2
+      }
+    ]
+  }
+]

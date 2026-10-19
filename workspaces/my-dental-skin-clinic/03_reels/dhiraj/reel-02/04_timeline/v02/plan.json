@@ -1,0 +1,291 @@
+{
+  "reel_id": "dhiraj-reel-02",
+  "version": "v02",
+  "title": "Dhanteras skincare shopping — three questions",
+  "style": "styles/clinic-approved.json",
+  "status": "CLEAN_SELECTS_FOR_REVIEW / restored soft-word handles, approved direct joins",
+  "segments": [
+    {
+      "source_id": "clip-7968bfbf9853e674",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9772.MP4",
+      "source_sha256": "7968bfbf9853e674e6e6dce804f05b28c830d687cdb2a907cce9efe2d20101d8",
+      "source_duration": 52.485767,
+      "source_in": 0.9666666666666667,
+      "source_out": 5.833333333333333,
+      "timeline_in": 0.0,
+      "timeline_out": 4.866666666666666,
+      "crop_xywh": {
+        "x": 1464,
+        "y": 192,
+        "width": 1070,
+        "height": 1904
+      },
+      "role": "Shopping hook, three questions and basic routine",
+      "speaker": "doctor",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-7968bfbf9853e674",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9772.MP4",
+      "source_sha256": "7968bfbf9853e674e6e6dce804f05b28c830d687cdb2a907cce9efe2d20101d8",
+      "source_duration": 52.485767,
+      "source_in": 7.133333333333334,
+      "source_out": 11.7,
+      "timeline_in": 4.866666666666666,
+      "timeline_out": 9.433333333333334,
+      "crop_xywh": {
+        "x": 1464,
+        "y": 192,
+        "width": 1070,
+        "height": 1904
+      },
+      "role": "Shopping hook, three questions and basic routine",
+      "speaker": "doctor",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-7968bfbf9853e674",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9772.MP4",
+      "source_sha256": "7968bfbf9853e674e6e6dce804f05b28c830d687cdb2a907cce9efe2d20101d8",
+      "source_duration": 52.485767,
+      "source_in": 12.633333333333333,
+      "source_out": 14.866666666666667,
+      "timeline_in": 9.433333333333334,
+      "timeline_out": 11.666666666666666,
+      "crop_xywh": {
+        "x": 1464,
+        "y": 192,
+        "width": 1070,
+        "height": 1904
+      },
+      "role": "Shopping hook, three questions and basic routine",
+      "speaker": "doctor",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-7968bfbf9853e674",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9772.MP4",
+      "source_sha256": "7968bfbf9853e674e6e6dce804f05b28c830d687cdb2a907cce9efe2d20101d8",
+      "source_duration": 52.485767,
+      "source_in": 15.433333333333334,
+      "source_out": 22.3,
+      "timeline_in": 11.666666666666666,
+      "timeline_out": 18.533333333333335,
+      "crop_xywh": {
+        "x": 1464,
+        "y": 192,
+        "width": 1070,
+        "height": 1904
+      },
+      "role": "Shopping hook, three questions and basic routine",
+      "speaker": "doctor",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-7968bfbf9853e674",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9772.MP4",
+      "source_sha256": "7968bfbf9853e674e6e6dce804f05b28c830d687cdb2a907cce9efe2d20101d8",
+      "source_duration": 52.485767,
+      "source_in": 23.3,
+      "source_out": 27.46666666666667,
+      "timeline_in": 18.533333333333335,
+      "timeline_out": 22.7,
+      "crop_xywh": {
+        "x": 1464,
+        "y": 192,
+        "width": 1070,
+        "height": 1904
+      },
+      "role": "Shopping hook, three questions and basic routine",
+      "speaker": "doctor",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-7968bfbf9853e674",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9772.MP4",
+      "source_sha256": "7968bfbf9853e674e6e6dce804f05b28c830d687cdb2a907cce9efe2d20101d8",
+      "source_duration": 52.485767,
+      "source_in": 28.6,
+      "source_out": 34.66666666666667,
+      "timeline_in": 22.7,
+      "timeline_out": 28.766666666666666,
+      "crop_xywh": {
+        "x": 1464,
+        "y": 192,
+        "width": 1070,
+        "height": 1904
+      },
+      "role": "Shopping hook, three questions and basic routine",
+      "speaker": "doctor",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-7968bfbf9853e674",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9772.MP4",
+      "source_sha256": "7968bfbf9853e674e6e6dce804f05b28c830d687cdb2a907cce9efe2d20101d8",
+      "source_duration": 52.485767,
+      "source_in": 35.36666666666667,
+      "source_out": 42.5,
+      "timeline_in": 28.766666666666666,
+      "timeline_out": 35.9,
+      "crop_xywh": {
+        "x": 1464,
+        "y": 192,
+        "width": 1070,
+        "height": 1904
+      },
+      "role": "Shopping hook, three questions and basic routine",
+      "speaker": "doctor",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-7968bfbf9853e674",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9772.MP4",
+      "source_sha256": "7968bfbf9853e674e6e6dce804f05b28c830d687cdb2a907cce9efe2d20101d8",
+      "source_duration": 52.485767,
+      "source_in": 43.06666666666667,
+      "source_out": 48.26666666666667,
+      "timeline_in": 35.9,
+      "timeline_out": 41.1,
+      "crop_xywh": {
+        "x": 1464,
+        "y": 192,
+        "width": 1070,
+        "height": 1904
+      },
+      "role": "Shopping hook, three questions and basic routine",
+      "speaker": "doctor",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-7968bfbf9853e674",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9772.MP4",
+      "source_sha256": "7968bfbf9853e674e6e6dce804f05b28c830d687cdb2a907cce9efe2d20101d8",
+      "source_duration": 52.485767,
+      "source_in": 48.599999999999994,
+      "source_out": 50.166666666666664,
+      "timeline_in": 41.1,
+      "timeline_out": 42.666666666666664,
+      "crop_xywh": {
+        "x": 1464,
+        "y": 192,
+        "width": 1070,
+        "height": 1904
+      },
+      "role": "Shopping hook, three questions and basic routine",
+      "speaker": "doctor",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-1b5aba97291686ad",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9774.MP4",
+      "source_sha256": "1b5aba97291686addced9a76af0d71eeb267af643c29635fd6cae8911a321369",
+      "source_duration": 17.9179,
+      "source_in": 1.0333333333333334,
+      "source_out": 8.466666666666667,
+      "timeline_in": 42.666666666666664,
+      "timeline_out": 50.1,
+      "crop_xywh": {
+        "x": 1264,
+        "y": 192,
+        "width": 1070,
+        "height": 1904
+      },
+      "role": "Clean closing: price/trends versus skin needs",
+      "speaker": "doctor",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-1b5aba97291686ad",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9774.MP4",
+      "source_sha256": "1b5aba97291686addced9a76af0d71eeb267af643c29635fd6cae8911a321369",
+      "source_duration": 17.9179,
+      "source_in": 8.766666666666666,
+      "source_out": 16.1,
+      "timeline_in": 50.1,
+      "timeline_out": 57.43333333333333,
+      "crop_xywh": {
+        "x": 1264,
+        "y": 192,
+        "width": 1070,
+        "height": 1904
+      },
+      "role": "Clean closing: price/trends versus skin needs",
+      "speaker": "doctor",
+      "join": "cut"
+    }
+  ],
+  "words": [],
+  "broll_slots": [],
+  "graphic_slots": [],
+  "cue_exclusions": [],
+  "clean_export": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-02/reel-02_clean-9x16_v02.mp4",
+  "review": {
+    "source_visual": "complete 2-second chronological contact sheets and framing proofs",
+    "dialogue": "two local ASR decoders; no human listening attestation",
+    "captions": "not burned into clean-cut delivery; draft ASR retained separately",
+    "brand": "user requested clean edit and logo later"
+  },
+  "duration_seconds": 57.43333333333333,
+  "silence_splices": [
+    {
+      "source": "clip-7968bfbf9853e674",
+      "in": 5.833333333333333,
+      "out": 7.133333333333334,
+      "reason": "Reviewed remaining quiet gap; extra source handles retained for soft-word onsets"
+    },
+    {
+      "source": "clip-7968bfbf9853e674",
+      "in": 11.7,
+      "out": 12.633333333333333,
+      "reason": "Reviewed remaining quiet gap; extra source handles retained for soft-word onsets"
+    },
+    {
+      "source": "clip-7968bfbf9853e674",
+      "in": 14.866666666666667,
+      "out": 15.433333333333334,
+      "reason": "Reviewed remaining quiet gap; extra source handles retained for soft-word onsets"
+    },
+    {
+      "source": "clip-7968bfbf9853e674",
+      "in": 22.3,
+      "out": 23.3,
+      "reason": "Reviewed remaining quiet gap; extra source handles retained for soft-word onsets"
+    },
+    {
+      "source": "clip-7968bfbf9853e674",
+      "in": 27.46666666666667,
+      "out": 28.6,
+      "reason": "Reviewed remaining quiet gap; extra source handles retained for soft-word onsets"
+    },
+    {
+      "source": "clip-7968bfbf9853e674",
+      "in": 34.66666666666667,
+      "out": 35.36666666666667,
+      "reason": "Reviewed remaining quiet gap; extra source handles retained for soft-word onsets"
+    },
+    {
+      "source": "clip-7968bfbf9853e674",
+      "in": 42.5,
+      "out": 43.06666666666667,
+      "reason": "Reviewed remaining quiet gap; extra source handles retained for soft-word onsets"
+    },
+    {
+      "source": "clip-7968bfbf9853e674",
+      "in": 48.26666666666667,
+      "out": 48.599999999999994,
+      "reason": "Reviewed remaining quiet gap; extra source handles retained for soft-word onsets"
+    },
+    {
+      "source": "clip-1b5aba97291686ad",
+      "in": 8.466666666666667,
+      "out": 8.766666666666666,
+      "reason": "Reviewed remaining quiet gap; extra source handles retained for soft-word onsets"
+    }
+  ],
+  "editorial_notes": [
+    "Both files form one reel. Recorded active-product aside is retained.",
+    "Long actual silences are shortened conservatively; spoken questions remain complete.",
+    "Restore 400ms before the first question and final closing pickup and 333ms before address: draft word starts overlap earlier silence-splice boundaries. Preserve complete soft-word context; direct picture joins follow the approved Dhiraj finish."
+  ]
+}

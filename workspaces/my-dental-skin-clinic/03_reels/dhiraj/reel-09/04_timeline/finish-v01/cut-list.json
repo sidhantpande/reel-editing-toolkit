@@ -1,0 +1,201 @@
+{
+  "fps": 30,
+  "segments": [
+    {
+      "source_id": "clip-fae84c326515560b",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9800.MP4",
+      "source_sha256": "fae84c326515560b129c4c1144dd1c30077f1a4f9950957f11d533cd1915a716",
+      "source_duration": 67.3673,
+      "source_in": 3.433333333333333,
+      "source_out": 6.966666666666667,
+      "timeline_in": 0.0,
+      "timeline_out": 3.533333333333333,
+      "crop_xywh": {
+        "x": 1468,
+        "y": 432,
+        "width": 972,
+        "height": 1728
+      },
+      "role": "Complete professional brand/trust story and treatment-quality example",
+      "speaker": "doctor",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-fae84c326515560b",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9800.MP4",
+      "source_sha256": "fae84c326515560b129c4c1144dd1c30077f1a4f9950957f11d533cd1915a716",
+      "source_duration": 67.3673,
+      "source_in": 8.033333333333333,
+      "source_out": 9.166666666666666,
+      "timeline_in": 3.533333333333333,
+      "timeline_out": 4.666666666666667,
+      "crop_xywh": {
+        "x": 1468,
+        "y": 432,
+        "width": 972,
+        "height": 1728
+      },
+      "role": "Complete professional brand/trust story and treatment-quality example",
+      "speaker": "doctor",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-fae84c326515560b",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9800.MP4",
+      "source_sha256": "fae84c326515560b129c4c1144dd1c30077f1a4f9950957f11d533cd1915a716",
+      "source_duration": 67.3673,
+      "source_in": 9.7,
+      "source_out": 12.333333333333332,
+      "timeline_in": 4.666666666666667,
+      "timeline_out": 7.3,
+      "crop_xywh": {
+        "x": 1468,
+        "y": 432,
+        "width": 972,
+        "height": 1728
+      },
+      "role": "Complete professional brand/trust story and treatment-quality example",
+      "speaker": "doctor",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-fae84c326515560b",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9800.MP4",
+      "source_sha256": "fae84c326515560b129c4c1144dd1c30077f1a4f9950957f11d533cd1915a716",
+      "source_duration": 67.3673,
+      "source_in": 14.833333333333334,
+      "source_out": 22.633333333333333,
+      "timeline_in": 7.3,
+      "timeline_out": 15.1,
+      "crop_xywh": {
+        "x": 1468,
+        "y": 432,
+        "width": 972,
+        "height": 1728
+      },
+      "role": "Complete professional brand/trust story and treatment-quality example",
+      "speaker": "doctor",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-fae84c326515560b",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9800.MP4",
+      "source_sha256": "fae84c326515560b129c4c1144dd1c30077f1a4f9950957f11d533cd1915a716",
+      "source_duration": 67.3673,
+      "source_in": 23.066666666666666,
+      "source_out": 31.866666666666667,
+      "timeline_in": 15.1,
+      "timeline_out": 23.9,
+      "crop_xywh": {
+        "x": 1468,
+        "y": 432,
+        "width": 972,
+        "height": 1728
+      },
+      "role": "Complete professional brand/trust story and treatment-quality example",
+      "speaker": "doctor",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-fae84c326515560b",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9800.MP4",
+      "source_sha256": "fae84c326515560b129c4c1144dd1c30077f1a4f9950957f11d533cd1915a716",
+      "source_duration": 67.3673,
+      "source_in": 39.7,
+      "source_out": 41.266666666666666,
+      "timeline_in": 23.9,
+      "timeline_out": 25.466666666666665,
+      "crop_xywh": {
+        "x": 1468,
+        "y": 432,
+        "width": 972,
+        "height": 1728
+      },
+      "role": "Complete professional brand/trust story and treatment-quality example",
+      "speaker": "doctor",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-fae84c326515560b",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9800.MP4",
+      "source_sha256": "fae84c326515560b129c4c1144dd1c30077f1a4f9950957f11d533cd1915a716",
+      "source_duration": 67.3673,
+      "source_in": 41.86666666666667,
+      "source_out": 61.13333333333334,
+      "timeline_in": 25.466666666666665,
+      "timeline_out": 44.733333333333334,
+      "crop_xywh": {
+        "x": 1468,
+        "y": 432,
+        "width": 972,
+        "height": 1728
+      },
+      "role": "Complete professional brand/trust story and treatment-quality example",
+      "speaker": "doctor",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-fae84c326515560b",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9800.MP4",
+      "source_sha256": "fae84c326515560b129c4c1144dd1c30077f1a4f9950957f11d533cd1915a716",
+      "source_duration": 67.3673,
+      "source_in": 61.7,
+      "source_out": 64.36666666666666,
+      "timeline_in": 44.733333333333334,
+      "timeline_out": 47.4,
+      "crop_xywh": {
+        "x": 1468,
+        "y": 432,
+        "width": 972,
+        "height": 1728
+      },
+      "role": "Complete professional brand/trust story and treatment-quality example",
+      "speaker": "doctor",
+      "join": "cut"
+    }
+  ],
+  "cue_exclusions": [
+    {
+      "source": "clip-fae84c326515560b",
+      "in": 6.966666666666667,
+      "out": 8.033333333333333,
+      "reason": "Source-aware pause/retake exclusion; preserve clean pickup and full words"
+    },
+    {
+      "source": "clip-fae84c326515560b",
+      "in": 9.166666666666666,
+      "out": 9.7,
+      "reason": "Source-aware pause/retake exclusion; preserve clean pickup and full words"
+    },
+    {
+      "source": "clip-fae84c326515560b",
+      "in": 12.333333333333332,
+      "out": 14.833333333333334,
+      "reason": "Source-aware pause/retake exclusion; preserve clean pickup and full words"
+    },
+    {
+      "source": "clip-fae84c326515560b",
+      "in": 22.633333333333333,
+      "out": 23.066666666666666,
+      "reason": "Source-aware pause/retake exclusion; preserve clean pickup and full words"
+    },
+    {
+      "source": "clip-fae84c326515560b",
+      "in": 31.866666666666667,
+      "out": 39.7,
+      "reason": "Source-aware pause/retake exclusion; preserve clean pickup and full words"
+    },
+    {
+      "source": "clip-fae84c326515560b",
+      "in": 41.266666666666666,
+      "out": 41.86666666666667,
+      "reason": "Source-aware pause/retake exclusion; preserve clean pickup and full words"
+    },
+    {
+      "source": "clip-fae84c326515560b",
+      "in": 61.13333333333334,
+      "out": 61.7,
+      "reason": "Source-aware pause/retake exclusion; preserve clean pickup and full words"
+    }
+  ]
+}

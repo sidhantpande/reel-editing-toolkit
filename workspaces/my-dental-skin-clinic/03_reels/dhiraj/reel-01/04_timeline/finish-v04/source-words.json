@@ -1,0 +1,1075 @@
+{
+  "status": "Curated source words with user-confirmed 5–10 range replacing ASR 15",
+  "words": [
+    {
+      "text": "दिवाली",
+      "start": 3.75,
+      "end": 4.39,
+      "probability": 0.8822634965181351,
+      "source_id": "clip-6dc615d569861e6d"
+    },
+    {
+      "text": "के",
+      "start": 4.39,
+      "end": 4.53,
+      "probability": 0.9943379461765289,
+      "source_id": "clip-6dc615d569861e6d"
+    },
+    {
+      "text": "लिए",
+      "start": 4.53,
+      "end": 4.63,
+      "probability": 0.9877328157424927,
+      "source_id": "clip-6dc615d569861e6d"
+    },
+    {
+      "text": "सिर्फ",
+      "start": 4.63,
+      "end": 4.89,
+      "probability": 0.740162696157183,
+      "source_id": "clip-6dc615d569861e6d"
+    },
+    {
+      "text": "5–10",
+      "start": 4.89,
+      "end": 5.21,
+      "probability": 0.7430428862571716,
+      "source_id": "clip-6dc615d569861e6d",
+      "verification": "Explicit user correction"
+    },
+    {
+      "text": "दिन",
+      "start": 5.21,
+      "end": 5.57,
+      "probability": 0.9695847928524017,
+      "source_id": "clip-6dc615d569861e6d"
+    },
+    {
+      "text": "बचे",
+      "start": 5.57,
+      "end": 5.91,
+      "probability": 0.9742737889289856,
+      "source_id": "clip-6dc615d569861e6d"
+    },
+    {
+      "text": "हैं",
+      "start": 5.91,
+      "end": 6.05,
+      "probability": 0.9932962954044342,
+      "source_id": "clip-6dc615d569861e6d"
+    },
+    {
+      "text": "और",
+      "start": 6.05,
+      "end": 7.13,
+      "probability": 0.9313680132230123,
+      "source_id": "clip-6dc615d569861e6d"
+    },
+    {
+      "text": "आपने",
+      "start": 7.13,
+      "end": 7.55,
+      "probability": 0.9951126476128896,
+      "source_id": "clip-6dc615d569861e6d"
+    },
+    {
+      "text": "नए",
+      "start": 7.55,
+      "end": 8.17,
+      "probability": 0.8568368256092072,
+      "source_id": "clip-6dc615d569861e6d"
+    },
+    {
+      "text": "face",
+      "start": 8.17,
+      "end": 8.45,
+      "probability": 0.7837784886360168,
+      "source_id": "clip-6dc615d569861e6d"
+    },
+    {
+      "text": "packs",
+      "start": 8.45,
+      "end": 8.87,
+      "probability": 0.8050993581612905,
+      "source_id": "clip-6dc615d569861e6d"
+    },
+    {
+      "text": "scrubs",
+      "start": 8.97,
+      "end": 9.33,
+      "probability": 0.7546590849757194,
+      "source_id": "clip-6dc615d569861e6d"
+    },
+    {
+      "text": "नए",
+      "start": 9.41,
+      "end": 9.55,
+      "probability": 0.988047257065773,
+      "source_id": "clip-6dc615d569861e6d"
+    },
+    {
+      "text": "serums",
+      "start": 9.55,
+      "end": 10.09,
+      "probability": 0.8499832650025686,
+      "source_id": "clip-6dc615d569861e6d"
+    },
+    {
+      "text": "try",
+      "start": 10.09,
+      "end": 10.59,
+      "probability": 0.9249329056058612,
+      "source_id": "clip-6dc615d569861e6d"
+    },
+    {
+      "text": "करना",
+      "start": 10.59,
+      "end": 10.87,
+      "probability": 0.9354082196950912,
+      "source_id": "clip-6dc615d569861e6d"
+    },
+    {
+      "text": "शुरू",
+      "start": 10.87,
+      "end": 11.11,
+      "probability": 0.9908181088311332,
+      "source_id": "clip-6dc615d569861e6d"
+    },
+    {
+      "text": "कर",
+      "start": 11.11,
+      "end": 11.25,
+      "probability": 0.9983499348163605,
+      "source_id": "clip-6dc615d569861e6d"
+    },
+    {
+      "text": "दिए",
+      "start": 11.25,
+      "end": 11.55,
+      "probability": 0.9645626664161682,
+      "source_id": "clip-6dc615d569861e6d"
+    },
+    {
+      "text": "तो",
+      "start": 12.3,
+      "end": 12.53,
+      "probability": 0.923473596572876,
+      "source_id": "clip-6dc615d569861e6d"
+    },
+    {
+      "text": "रुकिए",
+      "start": 12.53,
+      "end": 12.89,
+      "probability": 0.8662172158559164,
+      "source_id": "clip-6dc615d569861e6d"
+    },
+    {
+      "text": "Festive",
+      "start": 2.19,
+      "end": 2.89,
+      "probability": 0.5774724334478378,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "glow",
+      "start": 2.89,
+      "end": 3.15,
+      "probability": 0.8492425978183746,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "के",
+      "start": 3.15,
+      "end": 3.27,
+      "probability": 0.9816160202026367,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "चक्कर",
+      "start": 3.27,
+      "end": 3.59,
+      "probability": 0.8425228223204613,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "में",
+      "start": 3.59,
+      "end": 3.83,
+      "probability": 0.9974169929822286,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "आप",
+      "start": 3.83,
+      "end": 4.11,
+      "probability": 0.9846839755773544,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "एक",
+      "start": 4.11,
+      "end": 4.39,
+      "probability": 0.9904181162516276,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "साथ",
+      "start": 4.39,
+      "end": 4.71,
+      "probability": 0.9833849221467972,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "बहुत",
+      "start": 4.71,
+      "end": 5.09,
+      "probability": 0.9842530389626821,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "सारे",
+      "start": 5.09,
+      "end": 5.43,
+      "probability": 0.975203275680542,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "skincare",
+      "start": 5.43,
+      "end": 5.77,
+      "probability": 0.8306280970573425,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "products",
+      "start": 5.77,
+      "end": 6.21,
+      "probability": 0.982093334197998,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "use",
+      "start": 6.21,
+      "end": 6.67,
+      "probability": 0.9437191784381866,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "करना",
+      "start": 6.67,
+      "end": 7.01,
+      "probability": 0.8163373991847038,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "चाहते",
+      "start": 7.01,
+      "end": 7.41,
+      "probability": 0.990605096022288,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "हैं",
+      "start": 7.41,
+      "end": 7.79,
+      "probability": 0.9547757109006246,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "लेकिन",
+      "start": 8.03,
+      "end": 8.59,
+      "probability": 0.9783364137013754,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "क्या",
+      "start": 8.59,
+      "end": 8.81,
+      "probability": 0.8811727911233902,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "आप",
+      "start": 8.81,
+      "end": 8.85,
+      "probability": 0.9639006108045578,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "जानते",
+      "start": 8.85,
+      "end": 9.23,
+      "probability": 0.9697327514489492,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "हैं",
+      "start": 9.23,
+      "end": 9.47,
+      "probability": 0.9683330257733663,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "इन",
+      "start": 9.79,
+      "end": 10.03,
+      "probability": 0.8371785481770834,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "नए",
+      "start": 10.03,
+      "end": 10.15,
+      "probability": 0.8310582041740417,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "products",
+      "start": 10.15,
+      "end": 10.53,
+      "probability": 0.9560081362724304,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "जिसमें",
+      "start": 10.53,
+      "end": 11.71,
+      "probability": 0.9771304471152169,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "exfoliants",
+      "start": 11.71,
+      "end": 12.43,
+      "probability": 0.9957688848177592,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "बहुत",
+      "start": 12.43,
+      "end": 12.91,
+      "probability": 0.9927935103575388,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "सारे",
+      "start": 12.91,
+      "end": 13.15,
+      "probability": 0.9967325925827026,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "actives",
+      "start": 13.15,
+      "end": 13.39,
+      "probability": 0.7269648313522339,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "हो",
+      "start": 13.39,
+      "end": 13.69,
+      "probability": 0.9836727678775787,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "सकते",
+      "start": 13.69,
+      "end": 14.09,
+      "probability": 0.9953549802303314,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "हैं",
+      "start": 14.09,
+      "end": 14.23,
+      "probability": 0.9909592469533285,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "जो",
+      "start": 14.31,
+      "end": 14.45,
+      "probability": 0.9953354398409525,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "आपके",
+      "start": 14.45,
+      "end": 14.75,
+      "probability": 0.9937258462111155,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "skin",
+      "start": 14.75,
+      "end": 14.97,
+      "probability": 0.8736924529075623,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "पे",
+      "start": 14.97,
+      "end": 15.19,
+      "probability": 0.9199914932250977,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "irritation",
+      "start": 15.19,
+      "end": 15.53,
+      "probability": 0.9853217005729675,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "redness",
+      "start": 16.27,
+      "end": 17.09,
+      "probability": 0.9933114349842072,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "और",
+      "start": 17.09,
+      "end": 17.79,
+      "probability": 0.9299848079681396,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "peeling",
+      "start": 17.79,
+      "end": 18.01,
+      "probability": 0.7276809513568878,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "trigger",
+      "start": 18.01,
+      "end": 18.21,
+      "probability": 0.5667179226875305,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "कर",
+      "start": 18.21,
+      "end": 18.55,
+      "probability": 0.9988738596439362,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "सकते",
+      "start": 18.55,
+      "end": 18.89,
+      "probability": 0.9991935044527054,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "हैं",
+      "start": 18.89,
+      "end": 19.03,
+      "probability": 0.9971921245257059,
+      "source_id": "clip-f1b4d3dda4071566"
+    },
+    {
+      "text": "इसलिए",
+      "start": 1.4600000000000004,
+      "end": 1.98,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "दिवाली",
+      "start": 1.98,
+      "end": 2.42,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "से",
+      "start": 2.42,
+      "end": 2.58,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "पहले",
+      "start": 2.58,
+      "end": 2.9,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "अपने",
+      "start": 2.9,
+      "end": 3.76,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "skin",
+      "start": 3.76,
+      "end": 4.02,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "पे",
+      "start": 4.02,
+      "end": 4.18,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "नए",
+      "start": 4.18,
+      "end": 4.42,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "experiment",
+      "start": 4.42,
+      "end": 4.92,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "करने",
+      "start": 4.92,
+      "end": 5.18,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "से",
+      "start": 5.18,
+      "end": 5.3,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "बचिए",
+      "start": 5.3,
+      "end": 5.7,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "जो",
+      "start": 5.7,
+      "end": 6.38,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "पहले",
+      "start": 6.38,
+      "end": 6.7,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "से",
+      "start": 6.7,
+      "end": 6.88,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "gentle",
+      "start": 6.88,
+      "end": 7.22,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "skincare",
+      "start": 7.22,
+      "end": 7.74,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "regime",
+      "start": 7.74,
+      "end": 8.34,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "है",
+      "start": 8.34,
+      "end": 8.48,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "आपका",
+      "start": 8.48,
+      "end": 8.74,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "जो",
+      "start": 8.74,
+      "end": 8.88,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "चल",
+      "start": 8.88,
+      "end": 9.12,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "रहा",
+      "start": 9.12,
+      "end": 9.32,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "है",
+      "start": 9.32,
+      "end": 9.42,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "उसे",
+      "start": 9.42,
+      "end": 9.8,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "ही",
+      "start": 9.8,
+      "end": 9.92,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "continue",
+      "start": 9.92,
+      "end": 10.32,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "कीजिए",
+      "start": 10.32,
+      "end": 10.6,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "अगर",
+      "start": 10.6,
+      "end": 11.38,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "कोई",
+      "start": 11.38,
+      "end": 11.62,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "नया",
+      "start": 11.62,
+      "end": 11.9,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "product",
+      "start": 11.9,
+      "end": 12.28,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "try",
+      "start": 12.28,
+      "end": 12.48,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "करना",
+      "start": 12.48,
+      "end": 12.8,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "है",
+      "start": 12.8,
+      "end": 12.9,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "तो",
+      "start": 12.9,
+      "end": 13.02,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "उसको",
+      "start": 13.02,
+      "end": 13.24,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "पहले",
+      "start": 13.24,
+      "end": 13.48,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "patch",
+      "start": 13.48,
+      "end": 13.72,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "test",
+      "start": 13.72,
+      "end": 13.96,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "कीजिए",
+      "start": 13.96,
+      "end": 14.22,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "या",
+      "start": 14.5,
+      "end": 15.32,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "फिर",
+      "start": 15.32,
+      "end": 15.54,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "dermatologist",
+      "start": 15.54,
+      "end": 16.28,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "के",
+      "start": 16.28,
+      "end": 16.54,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "opinion",
+      "start": 16.54,
+      "end": 16.740000000000002,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "से",
+      "start": 16.740000000000002,
+      "end": 17.12,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "नया",
+      "start": 17.12,
+      "end": 17.52,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "product",
+      "start": 17.52,
+      "end": 17.66,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "choose",
+      "start": 17.66,
+      "end": 17.92,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "कर",
+      "start": 17.92,
+      "end": 18.18,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "सकते",
+      "start": 18.18,
+      "end": 18.54,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "हैं",
+      "start": 18.54,
+      "end": 19.0,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "और",
+      "start": 19.0,
+      "end": 19.28,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "most",
+      "start": 19.28,
+      "end": 19.54,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "important",
+      "start": 19.54,
+      "end": 19.94,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "ऐसे",
+      "start": 19.94,
+      "end": 20.42,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "भी",
+      "start": 20.42,
+      "end": 20.54,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "कुछ-कुछ",
+      "start": 20.54,
+      "end": 20.94,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "procedures",
+      "start": 20.94,
+      "end": 21.259999999999998,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "होते",
+      "start": 21.259999999999998,
+      "end": 21.72,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "हैं",
+      "start": 21.72,
+      "end": 21.92,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "जैसे",
+      "start": 21.86,
+      "end": 22.66,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "laser",
+      "start": 22.66,
+      "end": 22.96,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "toning",
+      "start": 22.96,
+      "end": 23.34,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "Q-switch",
+      "start": 23.34,
+      "end": 23.8,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "glow",
+      "start": 23.8,
+      "end": 24.04,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "जो",
+      "start": 24.04,
+      "end": 25.06,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "की",
+      "start": 25.06,
+      "end": 25.36,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "and",
+      "start": 25.36,
+      "end": 25.8,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "festive",
+      "start": 25.8,
+      "end": 26.3,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "glow",
+      "start": 26.3,
+      "end": 26.5,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "के",
+      "start": 26.5,
+      "end": 26.66,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "लिए",
+      "start": 26.66,
+      "end": 26.82,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "use",
+      "start": 26.82,
+      "end": 27.1,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "कर",
+      "start": 27.1,
+      "end": 27.3,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "सकते",
+      "start": 27.3,
+      "end": 27.6,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "हैं",
+      "start": 27.6,
+      "end": 27.66,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "जिससे",
+      "start": 27.66,
+      "end": 27.94,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "आपका",
+      "start": 27.94,
+      "end": 28.16,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "barrier",
+      "start": 28.16,
+      "end": 28.54,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "disturb",
+      "start": 28.54,
+      "end": 28.92,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "नहीं",
+      "start": 28.92,
+      "end": 29.1,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "होगा",
+      "start": 29.1,
+      "end": 29.34,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "और",
+      "start": 29.4,
+      "end": 29.86,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "आपका",
+      "start": 29.86,
+      "end": 30.2,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "skincare",
+      "start": 30.2,
+      "end": 30.459999999999997,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "उसके",
+      "start": 30.459999999999997,
+      "end": 30.979999999999997,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "साथ",
+      "start": 30.979999999999997,
+      "end": 31.16,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "routine",
+      "start": 31.16,
+      "end": 31.32,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "continue",
+      "start": 31.32,
+      "end": 31.82,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "कर",
+      "start": 31.82,
+      "end": 32.14,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "सकते",
+      "start": 32.14,
+      "end": 32.5,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "लेकिन",
+      "start": 32.5,
+      "end": 33.16,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "board",
+      "start": 33.16,
+      "end": 33.54,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "certified",
+      "start": 33.54,
+      "end": 33.96,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "dermatologist",
+      "start": 33.96,
+      "end": 34.739999999999995,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "की",
+      "start": 34.739999999999995,
+      "end": 34.94,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "permission",
+      "start": 34.94,
+      "end": 35.22,
+      "source_id": "clip-bddf658077d2eaf1"
+    },
+    {
+      "text": "से",
+      "start": 35.22,
+      "end": 35.64,
+      "source_id": "clip-bddf658077d2eaf1"
+    }
+  ]
+}

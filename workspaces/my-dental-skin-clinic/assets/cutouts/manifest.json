@@ -1,0 +1,309 @@
+{
+  "assets": [
+    {
+      "id": "molar-ivory-v01",
+      "path": "assets/cutouts/molar-ivory-v01.png",
+      "sha256": "1f460f282bdb501805545da3c1697ebe1ddb8eb423778557c1aba9fdd2972131",
+      "source": "Built-in image_gen, 2026-10-19",
+      "prompt": "Use case: scientific-educational. Asset type: a single reusable transparent PNG cutout for a premium dentist's vertical reel, composited behind the live doctor. Subject: one isolated elegant ivory-white human molar tooth model, crown and roots fully visible, clean anatomically plausible stylized educational dental model, three-quarter frontal angle, smooth enamel with subtle natural grooves, no face or character features. Polished studio product render, soft warm key light upper left, subtle cool teal edge reflection that works with a teal shirt, grounded soft material shading but no ground plane or cast background shadow. Composition: centered full object, generous transparent margin, taller than wide. True transparent background. No text, no numbers, no logo, no watermark, no sparkle icons, no other objects, no surgical scene, no pathology, no implied treatment result. It should feel like an expensive physical dental teaching model rather than a cartoon.",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "visual_review": "Generic stylized tooth model; all roots visible, no labels; not a patient image or an exact anatomy atlas. Composite checked on Reel-09.",
+      "git_storage": "lfs"
+    },
+    {
+      "id": "dental-arch-ivory-v01",
+      "path": "assets/cutouts/dental-arch-ivory-v01.png",
+      "subject": "Complete upper and lower dental arch teaching model",
+      "sha256": "f28e52a9b840aa81e87fd53322571885886b14a2363e211710c13132cf5b974c",
+      "source": "Built-in image_gen, 2026-10-19 / user requested varied relevant assets",
+      "prompt": "Use case: scientific-educational. Asset type: isolated transparent-background cutout for a premium dentist's vertical talking-head reel, to sit behind the real speaker. Create a beautiful physical adult dental teaching model showing BOTH complete upper and lower dental arches together in natural closed occlusion, three-quarter front view, distinct incisors, canines, premolars and molars, realistic plausible tooth shapes and stable regular anatomy. White ivory enamel, restrained soft natural pink gums, clean minimal ivory model base. Every part of the model fully within the image with generous transparent margin. Luxury studio product render with soft warm key light from upper left, subtle cool teal reflection on the opposite edge, refined physically plausible enamel, no exaggerated shine. Wider than tall composition. This is a generic model prop, not patient evidence or a tooth-count diagram. Entirely TRANSPARENT background, actual alpha; no room, no floor, no surrounding glow or shadow cloud. No single isolated molar, no human face or hands, no extra/fused/duplicated teeth, no labels, no numbers, no text, no logo, no watermark, no sparkles, no pathology or treatment. Render as a sophisticated educational product cutout, not a cartoon.",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "git_storage": "lfs",
+      "visual_review": "Complete object and transparent edges checked; illustrative teaching prop, not an exact tooth-count atlas or patient result"
+    },
+    {
+      "id": "magnifier-attention-v01",
+      "path": "assets/cutouts/magnifier-attention-v01.png",
+      "subject": "Champagne magnifier with sage handle for attention concept",
+      "sha256": "77299d8f8472278488c6a2bb6c5e17d382fe56d5817990489b4a212dc82fcb93",
+      "source": "Built-in image_gen, 2026-10-19 / user requested varied relevant assets",
+      "prompt": "Use case: stylized-concept. Asset type: a reusable transparent-background object cutout for a premium doctor reel, illustrating paying attention to a small problem. Subject: one elegant physical magnifying glass, circular rim of satin champagne metal, thick optically clear lens with only subtle realistic reflections, short muted sage-teal handle angled diagonally down to the right. Full object visible, centered with generous transparent margins, clean three-quarter product view, refined soft warm studio light upper left, restrained materials and realistic depth, sophisticated editorial product render. The transparent lens should transmit transparency so the existing video background remains visible through it. This will be composited behind the real doctor's shoulder/head. Actual TRANSPARENT background, no floor, no background glow, no surrounding haze or shadow cloud. No tooth or other object inside the lens, no hands, no person, no text, no logos, no labels, no sparkles, no watermark. One object only, no duplicate rings.",
+      "dimensions": [
+        1374,
+        1145
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "git_storage": "lfs",
+      "visual_review": "Complete object and transparent edges checked; illustrative teaching prop, not an exact tooth-count atlas or patient result"
+    },
+    {
+      "id": "thirty-two-dimensional-v01",
+      "path": "assets/cutouts/thirty-two-dimensional-v01.png",
+      "sha256": "2629741cec77b78904945ceae8f18024c7d6833deb3e5a9afbba4e919e108cc4",
+      "subject": "Dimensional numeral 32",
+      "source": "Original code-rendered typography using licensed Clinic Montserrat ExtraBold",
+      "prompt": "Exact numeral 32; ivory face, champagne edge and restrained teal depth; transparent background",
+      "dimensions": [
+        1061,
+        722
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "git_storage": "lfs",
+      "visual_review": "Verify glyph shape and behind-person placement in encoded output"
+    },
+    {
+      "id": "minimal-skincare-trio-v01",
+      "path": "assets/cutouts/dhiraj/minimal-skincare-trio-v01.png",
+      "sha256": "0c3c97a9887b1197a301f34dfb2096603e14e5bd81d11e79eab46d1859cf0343",
+      "subject": "minimal skincare trio",
+      "source": "Built-in imagegen, 2026-10-19",
+      "prompt": "Use case: product-mockup. Asset type: transparent cutout for premium dermatologist Instagram reel. Create one isolated cohesive trio of generic unbranded skincare containers: gentle cleanser pump bottle, a simple moisturizer jar, and a sunscreen squeeze tube. Distinct silhouettes, no readable labels or lettering. Refined ivory ceramic-like packaging with very restrained sage teal detailing, realistic premium 3D product rendering, soft studio lighting, tactile satin finish, natural subtle contact shadows attached to objects only. All objects complete, no cropping, ample clear padding, single front three-quarter composition. Actual transparent background, no stage or ground plane, no checkerboard, no text, no logo, no people, no health claims.",
+      "dimensions": [
+        1374,
+        1145
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "git_storage": "lfs",
+      "visual_review": "Current object/type card inspected for complete geometry, transparent edges and readable glyphs; no patient or outcome evidence"
+    },
+    {
+      "id": "festival-diya-skincare-v01",
+      "path": "assets/cutouts/dhiraj/festival-diya-skincare-v01.png",
+      "sha256": "fc9e8c0f6fdd4ab1d467ddeea41be6b83200a5113271d187f06bb8148bb49bd1",
+      "subject": "festival diya skincare",
+      "source": "Built-in imagegen, 2026-10-19",
+      "prompt": "Use case: stylized-concept. Asset type: transparent foreground/behind-presenter cutout for festive skincare doctor video. One elegant small terracotta Diwali diya with a warm flame beside one generic ivory glass serum dropper bottle and a tiny cluster of golden marigold petals. Refined photoreal 3D studio rendering, restrained sage and warm gold accents, tactile surfaces, tasteful premium clinical editorial feeling. Keep all objects fully visible with ample padding, compact grouped composition, transparent background with realistic attached soft shadow only. No writing, no brand, no labels, no sparkly background, no patient, no invented health claims.",
+      "dimensions": [
+        1378,
+        1142
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "git_storage": "lfs",
+      "visual_review": "Current object/type card inspected for complete geometry, transparent edges and readable glyphs; no patient or outcome evidence"
+    },
+    {
+      "id": "home-remedy-lemon-v01",
+      "path": "assets/cutouts/dhiraj/home-remedy-lemon-v01.png",
+      "sha256": "dd409bb3a83f77cbd47c949576d767deb2bee2be9002738d3fa9cb34b7ab773e",
+      "subject": "home remedy lemon",
+      "source": "Built-in imagegen, 2026-10-19",
+      "prompt": "Use case: product-mockup. Asset type: transparent cutout for a dermatologist's myth-explainer reel. An isolated still-life: a freshly cut half lemon beside a small cream ceramic bowl with a modest pile of turmeric powder and a wooden spoon. Premium realistic 3D studio illustration, natural restrained colours, ivory accents and soft diffuse light, clean understandable shapes, ample padding, all objects complete and uncropped. True transparent background, subtle attached contact shadows, no ground plane. No text, no logos, no application to skin, no before/after, no health claims.",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "git_storage": "lfs",
+      "visual_review": "Current object/type card inspected for complete geometry, transparent edges and readable glyphs; no patient or outcome evidence"
+    },
+    {
+      "id": "hair-strand-comparison-v01",
+      "path": "assets/cutouts/dhiraj/hair-strand-comparison-v01.png",
+      "sha256": "08677083d96e0e9c9ea1ae50cb51d32682ed8ee5613627f5b7269317c6ba8c27",
+      "subject": "hair strand comparison",
+      "source": "Built-in imagegen, 2026-10-19",
+      "prompt": "Use case: scientific-educational. Asset type: transparent illustration cutout for hair shedding versus breakage discussion. Two clearly separated groups of enlarged individual dark hair strands arranged upright with gentle natural curves: on left one complete hair strand with a tiny pale club-shaped end; on right two shorter broken shaft fragments with visibly irregular broken ends. This is a simple generic teaching-object illustration, not a diagnostic chart. Accurate restrained representation, dark brown shafts, ivory soft club end, clean premium 3D studio macro style, soft light. Do not draw scalp, skin sections, roots growing from flesh, organs or follicles. No labels, no arrows, no text, no numbers, no claims, no blood. Each group has ample clear space, fully isolated actual transparent background, no checkerboard or panel.",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "git_storage": "lfs",
+      "visual_review": "Current object/type card inspected for complete geometry, transparent edges and readable glyphs; no patient or outcome evidence"
+    },
+    {
+      "id": "travel-skincare-pouch-v01",
+      "path": "assets/cutouts/dhiraj/travel-skincare-pouch-v01.png",
+      "sha256": "75d8386229210acdb1fef21e306fd2618d03a10517c9be0059e074ebbffd5170",
+      "subject": "travel skincare pouch",
+      "source": "Built-in imagegen, 2026-10-19",
+      "prompt": "Use case: product-mockup. Asset type: transparent cutout for dermatologist travel essentials reel. A tasteful open sage green travel toiletry pouch containing exactly three generic unbranded miniature skincare containers: cleanser pump, moisturizer small jar, sunscreen tube. Elegant ivory packaging, no writing. Realistic high-end 3D product studio rendering, satin fabric and fine zipper details, warm gentle light, single three-quarter composition, all objects complete, generous padding. Actual transparent background, subtle attached shadow only, no surface, no checkerboard, no logo, no labels, no people or medical claims.",
+      "dimensions": [
+        1374,
+        1145
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "git_storage": "lfs",
+      "visual_review": "Current object/type card inspected for complete geometry, transparent edges and readable glyphs; no patient or outcome evidence"
+    },
+    {
+      "id": "social-phone-v01",
+      "path": "assets/cutouts/dhiraj/social-phone-v01.png",
+      "sha256": "456038f982883e4370eb97e045d1aee132351b0920a15d263b15baac36cf55fd",
+      "subject": "social phone",
+      "source": "Built-in imagegen, 2026-10-19",
+      "prompt": "Use case: stylized-concept. Asset type: isolated transparent object cutout for doctor discussing social media influence. One elegant modern smartphone in three-quarter portrait orientation with a simple abstract play triangle on a blank muted sage screen and two tiny floating rounded ivory comment bubbles with no writing. Premium realistic 3D studio render, ivory frame, restrained champagne edge, soft light, all complete and uncropped with generous padding, actual transparent background and no ground plane. No app logos, no social media brand symbols, no text, no handles, no people, no endorsement or medical claims.",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "git_storage": "lfs",
+      "visual_review": "Current object/type card inspected for complete geometry, transparent edges and readable glyphs; no patient or outcome evidence"
+    },
+    {
+      "id": "trust-stethoscope-v01",
+      "path": "assets/cutouts/dhiraj/trust-stethoscope-v01.png",
+      "sha256": "1d7f693d4a0c3ddd103c61933f6ffdfef3a4f9440558162156db0ca46880d939",
+      "subject": "trust stethoscope",
+      "source": "Built-in imagegen, 2026-10-19",
+      "prompt": "Use case: stylized-concept. Asset type: isolated transparent cutout for a doctor's discussion of professional trust and technical knowledge. One beautiful satin ivory physical shield with a subtle embossed checkmark, beside a realistic stethoscope with muted sage tubing and champagne metal chestpiece. Cohesive compact still life, premium realistic 3D studio rendering, soft lighting, restrained materials, all complete with ample padding. True transparent background, subtle attached object shadows only, no floor or environment. No medical cross, no seals, no accreditation logos, no text, no invented certificate or promise.",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "git_storage": "lfs",
+      "visual_review": "Current object/type card inspected for complete geometry, transparent edges and readable glyphs; no patient or outcome evidence"
+    },
+    {
+      "id": "sports-essentials-v01",
+      "path": "assets/cutouts/dhiraj/sports-essentials-v01.png",
+      "sha256": "b5e812c9681385c7384ee06adda62f88a2466c8e951d29835908b7e9810a9759",
+      "subject": "sports essentials",
+      "source": "Built-in imagegen, 2026-10-19",
+      "prompt": "Use case: product-mockup. Asset type: transparent cutout for teenage physical activity discussion in doctor's reel. A compact still life of one elegant white training shoe with sage accents, a small neutral slate dumbbell and one warm tan basketball, each fully visible and naturally arranged together. Premium realistic 3D studio product render with satin tactile materials, gentle soft light, generous clear padding, actual transparent background, only attached object shadows and no floor plane. No logos, no lettering, no people, no health or performance claims.",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "git_storage": "lfs",
+      "visual_review": "Current object/type card inspected for complete geometry, transparent edges and readable glyphs; no patient or outcome evidence"
+    },
+    {
+      "id": "native-shopping-questions-v01",
+      "path": "assets/cutouts/dhiraj/native-shopping-questions-v01.png",
+      "sha256": "3bb1d7005a3af280996cdd22fda2065245c12a8146302ac6f4e3c2cba7d0efd8",
+      "subject": "native shopping questions",
+      "source": "Original Pillow native typography using bundled OFL fonts",
+      "prompt": "Exact source-derived text: ज़रूरत है? | पहले से है? | Suit करेगा?; ivory rounded cards, sage rules, dark ink, actual alpha",
+      "dimensions": [
+        1000,
+        840
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "git_storage": "lfs",
+      "visual_review": "Current object/type card inspected for complete geometry, transparent edges and readable glyphs; no patient or outcome evidence"
+    },
+    {
+      "id": "native-skin-types-v01",
+      "path": "assets/cutouts/dhiraj/native-skin-types-v01.png",
+      "sha256": "880d16c2fc5adcc39532bd2ec98f84dd39174cd2a49372efb9174c721fddb134",
+      "subject": "native skin types",
+      "source": "Original Pillow native typography using bundled OFL fonts",
+      "prompt": "Exact source-derived text: OILY | DRY | SENSITIVE; ivory rounded cards, sage rules, dark ink, actual alpha",
+      "dimensions": [
+        1000,
+        840
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "git_storage": "lfs",
+      "visual_review": "Current object/type card inspected for complete geometry, transparent edges and readable glyphs; no patient or outcome evidence"
+    },
+    {
+      "id": "native-hair-terms-v01",
+      "path": "assets/cutouts/dhiraj/native-hair-terms-v01.png",
+      "sha256": "2fa6230e78a79042ee14117e9906ec79d8548fb4aac5210acf01341a0449577d",
+      "subject": "native hair terms",
+      "source": "Original Pillow native typography using bundled OFL fonts",
+      "prompt": "Exact source-derived text: HAIR FALL | BREAKAGE | THINNING; ivory rounded cards, sage rules, dark ink, actual alpha",
+      "dimensions": [
+        1000,
+        840
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "git_storage": "lfs",
+      "visual_review": "Current object/type card inspected for complete geometry, transparent edges and readable glyphs; no patient or outcome evidence"
+    },
+    {
+      "id": "native-trust-knowledge-v01",
+      "path": "assets/cutouts/dhiraj/native-trust-knowledge-v01.png",
+      "sha256": "1b39f2f1fc204445992771fde76b7526436e0a20d4b058f7cdc450993245fc30",
+      "subject": "native trust knowledge",
+      "source": "Original Pillow native typography using bundled OFL fonts",
+      "prompt": "Exact source-derived text: TRUST | TECHNICAL KNOWLEDGE; ivory rounded cards, sage rules, dark ink, actual alpha",
+      "dimensions": [
+        1000,
+        840
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "git_storage": "lfs",
+      "visual_review": "Current object/type card inspected for complete geometry, transparent edges and readable glyphs; no patient or outcome evidence"
+    },
+    {
+      "id": "native-price-pair-v01",
+      "path": "assets/cutouts/dhiraj/native-price-pair-v01.png",
+      "sha256": "2a18b8454a07ad0a93ba3e8f6357c0360ab5d5ccafb92df79b5a19d7e06d0764",
+      "subject": "native price pair",
+      "source": "Original Pillow native typography using bundled OFL fonts",
+      "prompt": "Exact source-derived text: ₹1,700 | ₹1,000; ivory rounded cards, sage rules, dark ink, actual alpha",
+      "dimensions": [
+        1000,
+        840
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "git_storage": "lfs",
+      "visual_review": "Current object/type card inspected for complete geometry, transparent edges and readable glyphs; no patient or outcome evidence"
+    }
+  ]
+}

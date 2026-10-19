@@ -49,7 +49,9 @@ def render(plan):
  for i,s in enumerate(plan['broll_slots']):
   duration=s['timeline_out']-s['timeline_in'];index=i+2
   args+=['-ss',s['media_in'],'-t',duration,'-i',s['path']]
-  if s.get('layout','portrait')=='portrait':graph.append(f'[{index}:v]fps=30,scale=1080:1920,setsar=1,format=rgba[b{i}]')
+  if s.get('layout','portrait')=='portrait':
+   correction='eq=contrast=1.025:brightness=0.003:saturation=1.02,' if s.get('derived_graphic') else ''
+   graph.append(f'[{index}:v]fps=30,scale=1080:1920,setsar=1,{correction}format=rgba[b{i}]')
   else:
    graph.extend([f'[{index}:v]fps=30,split=2[bg{i}][fg{i}]',f'[bg{i}]scale=1920:1920,crop=1080:1920,gblur=sigma=35[blur{i}]',f'[fg{i}]scale=1000:1000[sharp{i}]',f'[blur{i}][sharp{i}]overlay=40:310,setsar=1,format=rgba[b{i}]'])
   fades=[]
@@ -73,15 +75,17 @@ def render(plan):
  v3.run(args);print('Rendered',output,flush=True)
 
 def main():
- global CACHE,PICTURE_CACHE,OUT,REEL,EXPORT
+ global CACHE,PICTURE_CACHE,OUT,REEL,EXPORT,STYLE
  parser=argparse.ArgumentParser(description=__doc__)
  parser.add_argument('plan',type=Path);parser.add_argument('--aroll-only',action='store_true');parser.add_argument('--preflight',action='store_true');parser.add_argument('--no-finish',action='store_true')
  args=parser.parse_args();path=args.plan.resolve();plan=json.loads(path.read_text())
+ style_path=R/plan.get('style','styles/clinic-approved.json')
+ STYLE=json.loads(style_path.read_text())
  summary=validate_plan(plan,allow_pending=args.aroll_only,root=R);print(json.dumps(summary),flush=True)
  if args.preflight:return
  OUT=path.parent;REEL=path.parents[2]
  # Include renderer versions in the cache signature, so edits cannot reuse stale output.
- signature=path.read_bytes()+Path(__file__).read_bytes()+Path(caps.__file__).read_bytes()+(R/'styles/clinic-approved.json').read_bytes()
+ signature=path.read_bytes()+Path(__file__).read_bytes()+Path(caps.__file__).read_bytes()+style_path.read_bytes()
  digest=hashlib.sha256(signature).hexdigest()[:12]
  CACHE=R/'.cache'/f'{plan["reel_id"]}-{digest}'
  CACHE.mkdir(parents=True,exist_ok=True)
@@ -94,7 +98,18 @@ def main():
  if args.aroll_only:plan['broll_slots']=[]
  if plan.get('caption_keywords'):v3.KEYS.update(plan['caption_keywords'])
  if plan.get('caption_emphasis'):v3.EMPHASIS.update(plan['caption_emphasis'])
- make_picture_audio(plan);render(plan)
+ make_picture_audio(plan)
+ if not args.aroll_only:
+  from subject_layers import prepare,composite
+  for slot in plan.get('graphic_slots',[]):
+   folder=CACHE/('graphic-'+slot['id']);folder.mkdir(parents=True,exist_ok=True)
+   clip=folder/'source.mp4';decorated=folder/'decorated.mp4'
+   frames=round((slot['timeline_out']-slot['timeline_in'])*30)
+   v3.run([FF,'-v','error','-y','-ss',slot['timeline_in'],'-i',PICTURE_CACHE/'speech-picture.mp4','-an','-frames:v',frames,'-c:v','libx264','-preset','fast','-crf','16',clip])
+   matte=prepare(clip,folder/'matte')
+   composite(clip,matte,slot['path'],decorated,slot['x'],slot['y'],slot['width'])
+   plan['broll_slots'].append(dict(id=slot['id'],path=str(decorated),media_in=0,timeline_in=slot['timeline_in'],timeline_out=slot['timeline_out'],layout='portrait',derived_graphic=True))
+ render(plan)
  ending=STYLE.get('ending',{})
  if ending.get('enabled') and (not ending.get('applies_to') or plan['reel_id'] in ending['applies_to']) and not args.no_finish:
   from finish_clinic_reel import finish

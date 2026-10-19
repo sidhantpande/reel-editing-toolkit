@@ -35,4 +35,26 @@ class ClinicGateTests(unittest.TestCase):
  def test_missing_source_rejected(self):
   self.source.unlink()
   with self.assertRaisesRegex(ValueError,'Missing/invalid source'):kit.validate_plan(self.plan)
+ def graphic(self):
+  return {'id':'G01','path':str(self.source),'timeline_in':.2,'timeline_out':1.2,'x':500,'y':100,'width':300,'visual_reviewed':True}
+ def test_missing_graphic_requires_delivery_except_preview(self):
+  g=self.graphic();g['path']='/missing/tooth.png';self.plan['graphic_slots']=[g]
+  with self.assertRaisesRegex(ValueError,'Graphic not delivered'):kit.validate_plan(self.plan)
+  self.assertTrue(kit.validate_plan(self.plan,allow_pending=True)['pending_allowed'])
+ def test_graphic_requires_actual_visual_review(self):
+  g=self.graphic();g['visual_reviewed']=False;self.plan['graphic_slots']=[g]
+  with self.assertRaisesRegex(ValueError,'needs visual review'):kit.validate_plan(self.plan)
+ def test_graphic_cannot_be_silently_hidden_by_broll(self):
+  self.plan['graphic_slots']=[self.graphic()]
+  self.plan['broll_slots']=[{'id':'B01','path':str(self.source),'timeline_in':.5,'timeline_out':1.5}]
+  with self.assertRaisesRegex(ValueError,'overlaps full-frame'):kit.validate_plan(self.plan)
+ def test_graphic_bounds_checked(self):
+  g=self.graphic();g['timeline_out']=4;self.plan['graphic_slots']=[g]
+  with self.assertRaisesRegex(ValueError,'Graphic outside timeline'):kit.validate_plan(self.plan)
+ def test_person_sequence_must_reset_at_cut(self):
+  first=self.plan['segments'][0];second=dict(first)
+  first.update(source_out=2,timeline_out=1)
+  second.update(source_in=2,source_out=3,timeline_in=1,timeline_out=2)
+  self.plan['segments'].append(second);self.plan['graphic_slots']=[self.graphic()]
+  with self.assertRaisesRegex(ValueError,'Graphic crosses a cut'):kit.validate_plan(self.plan)
 if __name__=='__main__':unittest.main()

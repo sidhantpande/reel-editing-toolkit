@@ -1,6 +1,6 @@
 """Portable, dependency-free clinic timeline gate."""
 from pathlib import Path
-import hashlib
+import hashlib,json,subprocess
 
 def validate_plan(plan,allow_pending=False,root=None):
  errors=[];cursor=0;source_ids=set();checked_hashes={}
@@ -35,6 +35,28 @@ def validate_plan(plan,allow_pending=False,root=None):
  for slot in plan.get('broll_slots',[]):
   if not 0<=slot['timeline_in']<slot['timeline_out']<=cursor+.001:errors.append('B-roll outside timeline')
   if not Path(slot.get('path','')).is_file() and not allow_pending:errors.append('B-roll not delivered: '+slot['id'])
+ for slot in plan.get('graphic_slots',[]):
+  if not 0<=slot['timeline_in']<slot['timeline_out']<=cursor+.001:errors.append('Graphic outside timeline: '+slot['id'])
+  if not any(s['timeline_in']<=slot['timeline_in']+.001 and s['timeline_out']>=slot['timeline_out']-.001 for s in plan.get('segments',[])):
+   errors.append('Graphic crosses a cut; split into shot-local slots: '+slot['id'])
+  if not Path(slot.get('path','')).is_file() and not allow_pending:errors.append('Graphic not delivered: '+slot['id'])
+  if min(slot.get('x',-1),slot.get('y',-1))<0 or slot.get('width',0)<=0:errors.append('Invalid graphic placement: '+slot['id'])
+  if not allow_pending and not slot.get('visual_reviewed'):errors.append('Graphic needs visual review: '+slot['id'])
+  for b in plan.get('broll_slots',[]):
+   if min(slot['timeline_out'],b['timeline_out'])>max(slot['timeline_in'],b['timeline_in']):errors.append('Graphic overlaps full-frame B-roll: '+slot['id'])
+ if root:
+  style_path=Path(root)/plan.get('style','styles/clinic-approved.json')
+  if not style_path.is_file():errors.append('Missing caption style: '+str(style_path))
+  if not allow_pending:
+   config=json.loads((Path(root)/'project.json').read_text())
+   for slot in plan.get('broll_slots',[]):
+    if not Path(slot.get('path','')).is_file():continue
+    result=subprocess.run([config['ffprobe'],'-v','error','-show_streams','-of','json',slot['path']],capture_output=True,text=True)
+    if result.returncode:errors.append('Cannot decode B-roll: '+slot['id']);continue
+    video=next((s for s in json.loads(result.stdout).get('streams',[]) if s.get('codec_type')=='video'),None)
+    if video is None:errors.append('No video in B-roll: '+slot['id']);continue
+    required=slot.get('media_in',0)+slot['timeline_out']-slot['timeline_in']
+    if float(video.get('duration',0))+.001<required:errors.append('B-roll too short for selected range: '+slot['id'])
  if root and not (Path(root)/'styles/clinic-approved.json').is_file():errors.append('Missing approved style')
  if errors:raise ValueError('Preflight failed: '+'; '.join(errors))
  return {'segments':len(plan['segments']),'words':len(plan.get('words',[])),'duration_seconds':cursor,'broll_slots':len(plan.get('broll_slots',[])),'pending_allowed':allow_pending}

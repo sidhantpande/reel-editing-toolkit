@@ -1,0 +1,59 @@
+[
+  {
+    "reel": "reel-02",
+    "id": "B01",
+    "clip": "MVI_9772",
+    "source_anchor": 2.2,
+    "seconds": 6,
+    "spoken_anchor": "cart में 10-10 skincare products … तीन सवाल",
+    "prompt": "Top-down premium product shot of a shopping basket containing assorted unbranded skincare bottles and jars. An anonymous hand pauses before adding another bottle, then sets it aside. Slow controlled camera slide, warm festive light, no checkout UI or fake brand names.",
+    "layout": "full-frame",
+    "element": "native-shopping-questions",
+    "timeline_in": 1.3333333333333333,
+    "timeline_out": 5.3,
+    "delivery_filename": "dhiraj_reel-02_B01.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.5,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: Top-down premium product shot of a shopping basket containing assorted unbranded skincare bottles and jars. An anonymous hand pauses before adding another bottle, then sets it aside. Slow controlled camera slide, warm festive light, no checkout UI or fake brand names.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-02_B01.mp4",
+    "sha256": "ff7e8533e5b3f87698027ff4052fa1365f48587e4ebd5ad8006cdf2515b424e8",
+    "selected_ranges": [
+      {
+        "timeline_in": 1.3333333333333333,
+        "timeline_out": 5.3,
+        "media_in": 0.5
+      }
+    ]
+  },
+  {
+    "reel": "reel-02",
+    "id": "B02",
+    "clip": "MVI_9772",
+    "source_anchor": 32.8,
+    "seconds": 6,
+    "spoken_anchor": "gentle skin cleanser … moisturizer और sunscreen",
+    "prompt": "Exactly three unbranded essentials: cleanser pump, moisturizer jar, sunscreen tube. Reveal them in that order, each with a subtle object turn, then a gentle camera arc around the complete trio on a matte ivory shelf. Quiet sage accents, ample empty lower caption space.",
+    "layout": "full-frame",
+    "element": "minimal-skincare-trio",
+    "timeline_in": 26.9,
+    "timeline_out": 28.666666666666668,
+    "delivery_filename": "dhiraj_reel-02_B02.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.15,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: Exactly three unbranded essentials: cleanser pump, moisturizer jar, sunscreen tube. Reveal them in that order, each with a subtle object turn, then a gentle camera arc around the complete trio on a matte ivory shelf. Quiet sage accents, ample empty lower caption space.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-02_B02.mp4",
+    "sha256": "656c820175ae574f2122f6c0641b39ae09bee24220778e2dd38c737dc4c62ddd",
+    "selected_ranges": [
+      {
+        "timeline_in": 26.9,
+        "timeline_out": 28.666666666666668,
+        "media_in": 0.15
+      },
+      {
+        "timeline_in": 33.3,
+        "timeline_out": 35.9,
+        "media_in": 2.3
+      }
+    ]
+  }
+]

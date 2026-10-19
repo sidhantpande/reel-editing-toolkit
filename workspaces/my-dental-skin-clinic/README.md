@@ -4,6 +4,11 @@ Part of the private **reel-editing-toolkit** repository. The user-approved basel
 
 ## Current work
 
+- Dhiraj shoot: 12 clean portrait review cuts, all 32 camera clips accounted for, 24 B-roll requests and 13 reusable visual elements. Reels01/02 are approved and Reels03–12 have finished reviews with returned B-rolls and the supplied transparent logo;24/24 requested B-rolls are received and inserted. See [batch workflow](docs/DHIRAJ_BATCH.md) and [active plans](03_reels/dhiraj/active-plans.json).
+
+- Reel-09 complete received-media edit: `05_exports/review/reel-09_review_v03-complete-voice-outro.mp4` (46.167 s), active plan `03_reels/reel-09/04_timeline/v03/plan.json`, both delivered B-rolls and three varied graphics; QA in `03_reels/reel-09/07_deliveries/complete-v03.json`.
+- Reel-09 / 19 October reference treatment: [doctor pipeline](docs/DOCTOR_PIPELINE.md), [three-reference analysis](docs/REFERENCE_STUDY_2026-10-19.md), [reel brief](03_reels/reel-09/brief.md). Candidate bold and gold editorial captions plus true behind-subject artwork extend the existing renderer. Original Reel-07/08 styles remain available.
+
 - Reel-07 v05 picture style approved; v06 adds the user-supplied ending and conservative voice cleanup. Local review exports are preserved in `05_exports/review/`.
 - Reel-08 v04: both supplied hygiene B-rolls inserted; white logo ending/spoken signature and voice cleanup included. Main narration54.6 s; full review58.97 s. Analysis and exact source ranges live in `03_reels/reel-08/`.
 - Approved Reel-07 implant/bridge and Reel-08 brushing/flossing B-roll MP4s, plus the extracted reusable logo ending, are backed up through Git LFS. B-roll checksums are in `04_generated_broll/manifest.json`.

@@ -1,0 +1,54 @@
+[
+  {
+    "reel": "reel-12",
+    "id": "B01",
+    "clip": "MVI_9815",
+    "source_anchor": 16.6,
+    "seconds": 6,
+    "spoken_anchor": "sports acumen, muscle memory, joint / bone development",
+    "prompt": "Anonymous sports shoes and basketball at an outdoor court, shown at ground level. A child-sized hand picks up the ball and exits the frame; no face or recreated family identity. Slow natural camera movement, realistic daylight, no physique change or supplement product.",
+    "layout": "full-frame",
+    "element": "sports-essentials",
+    "timeline_in": 8.2,
+    "timeline_out": 15.399999999999999,
+    "delivery_filename": "dhiraj_reel-12_B01.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.3,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: Anonymous sports shoes and basketball at an outdoor court, shown at ground level. A child-sized hand picks up the ball and exits the frame; no face or recreated family identity. Slow natural camera movement, realistic daylight, no physique change or supplement product.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-12_B01.mp4",
+    "sha256": "634f3e8ed9abd61a3a73c6c971bc0e9db63078072780b7848473d962135d0a6c",
+    "selected_ranges": [
+      {
+        "timeline_in": 8.2,
+        "timeline_out": 15.399999999999999,
+        "media_in": 0.3
+      }
+    ]
+  },
+  {
+    "reel": "reel-12",
+    "id": "B02",
+    "clip": "MVI_9815",
+    "source_anchor": 63.4,
+    "seconds": 5.8,
+    "spoken_anchor": "sunscreen, छोटा moisturizer और gentle skin cleanser",
+    "prompt": "A clean ivory studio shelf with a generic sunscreen tube, small moisturizer jar and cleanser pump; reveal each object gently in the spoken order with a slow camera arc. No logos, diagnoses, tanning transformation, supplement claims or skin-whitening implication.",
+    "layout": "full-frame",
+    "element": "minimal-skincare-trio",
+    "timeline_in": 53.733333333333334,
+    "timeline_out": 60.833333333333336,
+    "delivery_filename": "dhiraj_reel-12_B02.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.3,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: A clean ivory studio shelf with a generic sunscreen tube, small moisturizer jar and cleanser pump; reveal each object gently in the spoken order with a slow camera arc. No logos, diagnoses, tanning transformation, supplement claims or skin-whitening implication.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-12_B02.mp4",
+    "sha256": "05b476a00c5c085ff8668bd2dfa854fab62b95f91433fdc7883459b86156b757",
+    "selected_ranges": [
+      {
+        "timeline_in": 53.733333333333334,
+        "timeline_out": 60.833333333333336,
+        "media_in": 0.3
+      }
+    ]
+  }
+]

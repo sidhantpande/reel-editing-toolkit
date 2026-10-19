@@ -1,0 +1,264 @@
+{
+  "title": "Same serum content, different prices — podcast Q&A",
+  "caption_scenes": {
+    "p01": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p02": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p03": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p04": {
+      "main": [
+        2
+      ],
+      "accent": [
+        2
+      ],
+      "serif": []
+    },
+    "p05": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p06": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p07": {
+      "main": [
+        0,
+        3
+      ],
+      "accent": [
+        0,
+        3
+      ],
+      "serif": []
+    },
+    "p08": {
+      "main": [
+        2
+      ],
+      "accent": [
+        2
+      ],
+      "serif": []
+    },
+    "p09": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p10": {
+      "main": [],
+      "accent": [],
+      "serif": [],
+      "centre_y": 1500,
+      "size_scale": 0.94
+    },
+    "p11": {
+      "main": [
+        3
+      ],
+      "accent": [],
+      "serif": [
+        3
+      ],
+      "centre_y": 1500,
+      "size_scale": 0.94
+    },
+    "p12": {
+      "main": [],
+      "accent": [],
+      "serif": [],
+      "centre_y": 1500,
+      "size_scale": 0.94
+    },
+    "p13": {
+      "main": [
+        2
+      ],
+      "accent": [],
+      "serif": [],
+      "centre_y": 1500,
+      "size_scale": 0.94
+    },
+    "p14": {
+      "main": [],
+      "accent": [],
+      "serif": [],
+      "centre_y": 1500,
+      "size_scale": 0.94
+    },
+    "p15": {
+      "main": [],
+      "accent": [],
+      "serif": [],
+      "centre_y": 1500,
+      "size_scale": 0.94
+    },
+    "p16": {
+      "main": [],
+      "accent": [],
+      "serif": [],
+      "centre_y": 1500,
+      "size_scale": 0.94
+    },
+    "p17": {
+      "main": [],
+      "accent": [],
+      "serif": [],
+      "centre_y": 1500,
+      "size_scale": 0.94
+    },
+    "p18": {
+      "main": [],
+      "accent": [],
+      "serif": [],
+      "centre_y": 1500,
+      "size_scale": 0.94
+    },
+    "p19": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p20": {
+      "main": [
+        1
+      ],
+      "accent": [
+        1
+      ],
+      "serif": []
+    },
+    "p21": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p22": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p23": {
+      "main": [
+        2
+      ],
+      "accent": [
+        2
+      ],
+      "serif": []
+    },
+    "p24": {
+      "main": [
+        3
+      ],
+      "accent": [
+        3
+      ],
+      "serif": []
+    },
+    "p25": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p26": {
+      "main": [
+        0,
+        1
+      ],
+      "accent": [],
+      "serif": []
+    },
+    "p27": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p28": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p29": {
+      "main": [],
+      "accent": [],
+      "serif": [
+        4
+      ]
+    },
+    "p30": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p31": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p32": {
+      "main": [
+        0,
+        4
+      ],
+      "accent": [
+        0,
+        4
+      ],
+      "serif": []
+    },
+    "p33": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p34": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p35": {
+      "main": [],
+      "accent": [],
+      "serif": [
+        2
+      ]
+    },
+    "p36": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p37": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p38": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    }
+  },
+  "notes": [
+    "Independent source crop per speaker; clean turn cuts avoid overlapping faces. Do not mirror the footage.",
+    "Preserve the distinction between content, vehicle/delivery, manufacturer and suitability; do not imply price guarantees better results.",
+    "Exclude initial Start cue; speaker cuts follow question, pricing question, two prices, explanation and thank-you. Preserve not-necessarily-expensive caveat. Received gel footage is R011, despite its filename.",
+    "Remove first suitable बनेगा self-correction; retain जो before the cut and later suitable करेगा with complete patient/skin-type qualification."
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "title": "Teen tanning — the doctor's personal parenting story",
+  "caption_scenes": {
+    "p01": {
+      "main": [
+        0
+      ],
+      "accent": [],
+      "serif": [],
+      "hero": true,
+      "centre_y": 1540
+    },
+    "p02": {
+      "main": [
+        2
+      ],
+      "accent": [],
+      "serif": [],
+      "hero": true,
+      "centre_y": 1540
+    },
+    "p03": {
+      "main": [],
+      "accent": [],
+      "serif": [],
+      "centre_y": 1540
+    },
+    "p04": {
+      "main": [
+        3
+      ],
+      "accent": [],
+      "serif": [],
+      "centre_y": 1540
+    },
+    "p05": {
+      "main": [],
+      "accent": [],
+      "serif": [],
+      "centre_y": 1540
+    },
+    "p06": {
+      "main": [
+        0
+      ],
+      "accent": [],
+      "serif": [],
+      "hero": true,
+      "centre_y": 1540
+    },
+    "p07": {
+      "main": [
+        1
+      ],
+      "accent": [],
+      "serif": [
+        1
+      ],
+      "centre_y": 1540
+    },
+    "p08": {
+      "main": [],
+      "accent": [],
+      "serif": [],
+      "centre_y": 1540
+    },
+    "p09": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p10": {
+      "main": [
+        0
+      ],
+      "accent": [
+        0
+      ],
+      "serif": []
+    },
+    "p11": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p12": {
+      "main": [
+        0,
+        1,
+        2
+      ],
+      "accent": [
+        1,
+        2
+      ],
+      "serif": [
+        2
+      ],
+      "hero": true
+    },
+    "p13": {
+      "main": [
+        0
+      ],
+      "accent": [
+        0
+      ],
+      "serif": []
+    },
+    "p14": {
+      "main": [
+        0,
+        1
+      ],
+      "accent": [
+        0,
+        1
+      ],
+      "serif": [
+        1
+      ]
+    },
+    "p15": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p16": {
+      "main": [
+        0
+      ],
+      "accent": [
+        0
+      ],
+      "serif": []
+    },
+    "p17": {
+      "main": [
+        2
+      ],
+      "accent": [
+        2
+      ],
+      "serif": []
+    },
+    "p18": {
+      "main": [
+        3,
+        4
+      ],
+      "accent": [],
+      "serif": [
+        4
+      ],
+      "centre_y": 1560,
+      "size_scale": 0.9
+    },
+    "p19": {
+      "main": [
+        0,
+        1
+      ],
+      "accent": [],
+      "serif": [
+        1
+      ],
+      "hero": true,
+      "centre_y": 1560,
+      "size_scale": 0.9
+    },
+    "p20": {
+      "main": [
+        2
+      ],
+      "accent": [],
+      "serif": [
+        2
+      ],
+      "hero": true,
+      "centre_y": 1560,
+      "size_scale": 0.9
+    },
+    "p21": {
+      "main": [
+        0,
+        1
+      ],
+      "accent": [],
+      "serif": [
+        1
+      ],
+      "hero": true,
+      "centre_y": 1560,
+      "size_scale": 0.9
+    },
+    "p22": {
+      "main": [
+        3
+      ],
+      "accent": [
+        3
+      ],
+      "serif": [
+        3
+      ]
+    },
+    "p23": {
+      "main": [
+        0
+      ],
+      "accent": [
+        0
+      ],
+      "serif": []
+    },
+    "p24": {
+      "main": [
+        0
+      ],
+      "accent": [
+        0
+      ],
+      "serif": []
+    },
+    "p25": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p26": {
+      "main": [
+        0
+      ],
+      "accent": [
+        0
+      ],
+      "serif": [],
+      "hero": true
+    },
+    "p27": {
+      "main": [
+        0,
+        1
+      ],
+      "accent": [
+        0,
+        1
+      ],
+      "serif": [],
+      "hero": true
+    }
+  },
+  "broll_slots": [
+    {
+      "id": "B01",
+      "request_id": "B01",
+      "path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-06_B01.mp4",
+      "sha256": "ae403f89b17890a48e1c2f7c9e3dedd513ee093ea5719c57dcef840114108170",
+      "timeline_in": 0.3,
+      "timeline_out": 7.4,
+      "media_in": 0.8,
+      "transition": "soft-rise",
+      "visual_reviewed": true,
+      "layout": "portrait",
+      "audio": "discard"
+    },
+    {
+      "id": "B02",
+      "request_id": "B02",
+      "path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-06_B02.mp4",
+      "sha256": "b331d6394339e0ac4b95a4f729dfef31679bb18b9e246da0ac55e666ee97311b",
+      "timeline_in": 23.8,
+      "timeline_out": 28.333333333333332,
+      "media_in": 0.4,
+      "transition": "soft-wipe",
+      "visual_reviewed": true,
+      "layout": "portrait",
+      "audio": "discard"
+    }
+  ],
+  "notes": [
+    "Separate standalone story from the longer teen explainer; no supplied script matches this take verbatim.",
+    "The story is spoken by the doctor; no generated likeness of his child is needed.",
+    "Tighten the opening by removing the optional unclear name/filler after बड़ा बेटा (3.733–4.233s), without guessing a family name in captions. B-roll covers this source join.",
+    "Omit the repeated verbal comparison/list at29.200–32.333s; keep muscle power है followed by तो sports acumen comes first, ना कि skincare acumen. The final tanning/development qualification remains.",
+    "Retain the existing source-clock tracked crop to preserve head/face through the large sideways movement.",
+    "B01 continues through the son quote and exits in the following caption pause, preserving readable ink text through the complete dermatologist/जाऊँगा group and restoring the doctor for मैं बोलता हूँ. Same original voice/cuts; no other style change."
+  ]
+}

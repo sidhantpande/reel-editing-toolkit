@@ -1,0 +1,228 @@
+{
+  "title": "Professional trust and treatment quality",
+  "caption_scenes": {
+    "p01": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p02": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p03": {
+      "main": [
+        1
+      ],
+      "accent": [
+        1
+      ],
+      "serif": [
+        1
+      ],
+      "hero": true
+    },
+    "p04": {
+      "main": [
+        2
+      ],
+      "accent": [
+        2
+      ],
+      "serif": [
+        2
+      ]
+    },
+    "p05": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p06": {
+      "main": [
+        0
+      ],
+      "accent": [],
+      "serif": [
+        0
+      ],
+      "centre_y": 1500,
+      "size_scale": 0.94
+    },
+    "p07": {
+      "main": [],
+      "accent": [],
+      "serif": [],
+      "centre_y": 1500,
+      "size_scale": 0.94
+    },
+    "p08": {
+      "main": [
+        2
+      ],
+      "accent": [],
+      "serif": [],
+      "centre_y": 1500,
+      "size_scale": 0.94
+    },
+    "p09": {
+      "main": [],
+      "accent": [],
+      "serif": [],
+      "centre_y": 1500,
+      "size_scale": 0.94
+    },
+    "p10": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p11": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p12": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p13": {
+      "main": [
+        2
+      ],
+      "accent": [
+        2
+      ],
+      "serif": []
+    },
+    "p14": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p15": {
+      "main": [],
+      "accent": [],
+      "serif": [
+        3
+      ]
+    },
+    "p16": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p17": {
+      "main": [
+        2
+      ],
+      "accent": [
+        2
+      ],
+      "serif": []
+    },
+    "p18": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p19": {
+      "main": [
+        2
+      ],
+      "accent": [
+        2
+      ],
+      "serif": []
+    },
+    "p20": {
+      "main": [],
+      "accent": [],
+      "serif": [],
+      "centre_y": 1500,
+      "size_scale": 0.94
+    },
+    "p21": {
+      "main": [],
+      "accent": [],
+      "serif": [],
+      "centre_y": 1500,
+      "size_scale": 0.94
+    },
+    "p22": {
+      "main": [],
+      "accent": [],
+      "serif": [],
+      "centre_y": 1500,
+      "size_scale": 0.94
+    },
+    "p23": {
+      "main": [
+        3
+      ],
+      "accent": [],
+      "serif": [
+        3
+      ],
+      "centre_y": 1500,
+      "size_scale": 0.94
+    },
+    "p24": {
+      "main": [],
+      "accent": [],
+      "serif": [],
+      "centre_y": 1500,
+      "size_scale": 0.94
+    },
+    "p25": {
+      "main": [],
+      "accent": [],
+      "serif": [],
+      "centre_y": 1500,
+      "size_scale": 0.94
+    },
+    "p26": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p27": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p28": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p29": {
+      "main": [
+        1
+      ],
+      "accent": [
+        1
+      ],
+      "serif": []
+    },
+    "p30": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    },
+    "p31": {
+      "main": [],
+      "accent": [],
+      "serif": []
+    }
+  },
+  "notes": [
+    "Doctor's name is retained in speech; spelling is not invented as a title/logo.",
+    "Recorded prices are an anecdotal example, not an advertised price card or live clinic offer.",
+    "Restore leading source context before trust at14.99; preserve recorded1500/1200 example and without-compromising qualification.",
+    "Omit optional repeated doctor-name apposition for pace rather than guessing its spelling; keep complete दो चीजों से बना है →trust और technical knowledge. Restore onset context before मेरी/जो/And.",
+    "Omit the hesitant preliminary patient-budget quote, retaining the complete unambiguous1500→1200 procedure example and quality/reputation caveats."
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "full_render_with_pending_broll": "correctly rejected",
+  "error": "Preflight failed: B-roll not delivered: B01; B-roll not delivered: B02",
+  "insufficient_video_range": "correctly rejected"
+}

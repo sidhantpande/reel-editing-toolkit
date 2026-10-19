@@ -1,0 +1,82 @@
+{
+  "status": "COMPLETE_EDIT_READY_FOR_USER_REVIEW",
+  "active_plan": "04_timeline/v03/plan.json",
+  "export": {
+    "video": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/05_exports/review/reel-09_review_v03-complete-voice-outro.mp4",
+    "sha256": "8225137058f5127088b729465c807fb9e1e25b3e5c8385757a65c996920603ee",
+    "full_decode": "passed",
+    "frames": 1385,
+    "expected_frames": 1385,
+    "resolution": [
+      1080,
+      1920
+    ],
+    "fps": "30/1",
+    "video_duration": "46.166667",
+    "audio_duration": "46.166667",
+    "integrated_lufs": -16.3,
+    "true_peak_dbtp": -1.5,
+    "caption_phrases": 40,
+    "contacts": [
+      "02_analysis/reel-09-v03-qa/contact-00.jpg",
+      "02_analysis/reel-09-v03-qa/contact-01.jpg",
+      "02_analysis/reel-09-v03-qa/contact-02.jpg",
+      "02_analysis/reel-09-v03-qa/contact-03.jpg",
+      "02_analysis/reel-09-v03-qa/contact-04.jpg",
+      "02_analysis/reel-09-v03-qa/contact-05.jpg",
+      "02_analysis/reel-09-v03-qa/contact-06.jpg",
+      "02_analysis/reel-09-v03-qa/contact-07.jpg"
+    ],
+    "visual_review": "Inspected all 40 phrase contacts, every cut and B-roll/graphic boundary, ending contacts and 50 six-fps top-frame motion samples. False balloon alpha corrected. Continuous human playback not attested.",
+    "dialogue_review": "Encoded question/comparison/goodbye independently transcribed; phrases retained. Human listening not attested; ready for user review.",
+    "status": "complete edit ready for user review",
+    "black_intervals": []
+  },
+  "broll_received": [
+    "gemini_generated_video_c47c1b56.mp4",
+    "gemini_generated_video_c2362cd1.mp4"
+  ],
+  "new_assets": [
+    "assets/cutouts/dental-arch-ivory-v01.png",
+    "assets/cutouts/magnifier-attention-v01.png",
+    "assets/cutouts/thirty-two-dimensional-v01.png"
+  ],
+  "old_single_tooth_cutout": "retained in library; omitted from active edit",
+  "mask_audit": [
+    {
+      "slot": "graphic-G03_32",
+      "frames": 54,
+      "coverage_range": [
+        0.5832255431493585,
+        0.654067470043573
+      ],
+      "cleanup": "Single presenter connected-core cleanup; three-pixel soft-edge margin"
+    },
+    {
+      "slot": "graphic-G02_ATTENTION",
+      "frames": 96,
+      "coverage_range": [
+        0.5568558687363835,
+        0.650113963023481
+      ],
+      "cleanup": "Single presenter connected-core cleanup; three-pixel soft-edge margin"
+    },
+    {
+      "slot": "graphic-G01_ARCH",
+      "frames": 99,
+      "coverage_range": [
+        0.527175366134108,
+        0.6483437348704914
+      ],
+      "cleanup": "Single presenter connected-core cleanup; three-pixel soft-edge margin"
+    }
+  ],
+  "tests": {
+    "clinic_runtime_unittests": 28,
+    "npm_check": "passed",
+    "git_asset_audit": "passed",
+    "whitespace": "passed"
+  },
+  "pending_broll": [],
+  "review_limitations": "No human listening/continuous playback attestation; user can review the complete video now."
+}

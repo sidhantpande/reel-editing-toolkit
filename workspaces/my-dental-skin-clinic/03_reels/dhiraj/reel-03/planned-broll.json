@@ -1,0 +1,54 @@
+[
+  {
+    "reel": "reel-03",
+    "id": "B01",
+    "clip": "MVI_9776",
+    "source_anchor": 8,
+    "seconds": 6,
+    "spoken_anchor": "मम्मी … नींबू … दादी … हल्दी और दूध",
+    "prompt": "Macro studio still life of a lemon half, small turmeric bowl and a small plain glass of milk, presented as household objects. Slowly rack focus from lemon to turmeric, then settle on the group. Ivory background, warm natural light. Show no application to a person and imply no skincare benefit.",
+    "layout": "full-frame",
+    "element": "home-remedy-lemon",
+    "timeline_in": 6.4,
+    "timeline_out": 12.866666666666667,
+    "delivery_filename": "dhiraj_reel-03_B01.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.3,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: Macro studio still life of a lemon half, small turmeric bowl and a small plain glass of milk, presented as household objects. Slowly rack focus from lemon to turmeric, then settle on the group. Ivory background, warm natural light. Show no application to a person and imply no skincare benefit.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-03_B01.mp4",
+    "sha256": "b0a019c79799201fc6404aa345a414282e0a7a0eebbedeb5dde612dcf1fa87fd",
+    "selected_ranges": [
+      {
+        "timeline_in": 6.4,
+        "timeline_out": 12.866666666666667,
+        "media_in": 0.3
+      }
+    ]
+  },
+  {
+    "reel": "reel-03",
+    "id": "B02",
+    "clip": "MVI_9778",
+    "source_anchor": 23,
+    "seconds": 5.3,
+    "spoken_anchor": "पहले से skincare routine … continue कीजिए",
+    "prompt": "An anonymous hand chooses a familiar unbranded cleanser and moisturizer from a simple shelf while a newly introduced serum stays untouched in the background. Gentle push-in and small focus shift, soft daylight and premium neutral palette; no demonstrative treatment or results.",
+    "layout": "full-frame",
+    "element": "native-skin-types",
+    "timeline_in": 42.333333333333336,
+    "timeline_out": 47.93333333333333,
+    "delivery_filename": "dhiraj_reel-03_B02.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.5,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: An anonymous hand chooses a familiar unbranded cleanser and moisturizer from a simple shelf while a newly introduced serum stays untouched in the background. Gentle push-in and small focus shift, soft daylight and premium neutral palette; no demonstrative treatment or results.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-03_B02.mp4",
+    "sha256": "182aa57831b27bedc9117c2419a1b7d6399f6caec2d8967f2548fe2258b73a8f",
+    "selected_ranges": [
+      {
+        "timeline_in": 42.333333333333336,
+        "timeline_out": 47.93333333333333,
+        "media_in": 0.5
+      }
+    ]
+  }
+]

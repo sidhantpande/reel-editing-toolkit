@@ -1,0 +1,177 @@
+{
+  "fps": 30,
+  "segments": [
+    {
+      "source_id": "clip-70a3b05491fc58dc",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9806.MP4",
+      "source_sha256": "70a3b05491fc58dcda6264ac500eaae10988285aef741088aa326bbd8a47b01b",
+      "source_duration": 69.5695,
+      "source_in": 0.5333333333333333,
+      "source_out": 8.733333333333334,
+      "timeline_in": 0.0,
+      "timeline_out": 8.2,
+      "crop_xywh": {
+        "x": 502,
+        "y": 624,
+        "width": 864,
+        "height": 1536
+      },
+      "role": "Interviewer asks why results differ",
+      "speaker": "interviewer",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-70a3b05491fc58dc",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9806.MP4",
+      "source_sha256": "70a3b05491fc58dcda6264ac500eaae10988285aef741088aa326bbd8a47b01b",
+      "source_duration": 69.5695,
+      "source_in": 8.733333333333333,
+      "source_out": 10.7,
+      "timeline_in": 8.2,
+      "timeline_out": 10.166666666666666,
+      "crop_xywh": {
+        "x": 2418,
+        "y": 624,
+        "width": 864,
+        "height": 1536
+      },
+      "role": "Doctor asks whether pricing is the same",
+      "speaker": "doctor",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-70a3b05491fc58dc",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9806.MP4",
+      "source_sha256": "70a3b05491fc58dcda6264ac500eaae10988285aef741088aa326bbd8a47b01b",
+      "source_duration": 69.5695,
+      "source_in": 10.7,
+      "source_out": 13.866666666666665,
+      "timeline_in": 10.166666666666666,
+      "timeline_out": 13.333333333333334,
+      "crop_xywh": {
+        "x": 502,
+        "y": 624,
+        "width": 864,
+        "height": 1536
+      },
+      "role": "Interviewer gives two prices",
+      "speaker": "interviewer",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-70a3b05491fc58dc",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9806.MP4",
+      "source_sha256": "70a3b05491fc58dcda6264ac500eaae10988285aef741088aa326bbd8a47b01b",
+      "source_duration": 69.5695,
+      "source_in": 13.866666666666667,
+      "source_out": 22.066666666666666,
+      "timeline_in": 13.333333333333334,
+      "timeline_out": 21.533333333333335,
+      "crop_xywh": {
+        "x": 2418,
+        "y": 624,
+        "width": 864,
+        "height": 1536
+      },
+      "role": "Doctor's complete explanation and recommendation",
+      "speaker": "doctor",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-70a3b05491fc58dc",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9806.MP4",
+      "source_sha256": "70a3b05491fc58dcda6264ac500eaae10988285aef741088aa326bbd8a47b01b",
+      "source_duration": 69.5695,
+      "source_in": 22.933333333333334,
+      "source_out": 56.53333333333333,
+      "timeline_in": 21.533333333333335,
+      "timeline_out": 55.13333333333333,
+      "crop_xywh": {
+        "x": 2418,
+        "y": 624,
+        "width": 864,
+        "height": 1536
+      },
+      "role": "Doctor's complete explanation and recommendation",
+      "speaker": "doctor",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-70a3b05491fc58dc",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9806.MP4",
+      "source_sha256": "70a3b05491fc58dcda6264ac500eaae10988285aef741088aa326bbd8a47b01b",
+      "source_duration": 69.5695,
+      "source_in": 57.43333333333333,
+      "source_out": 66.43333333333334,
+      "timeline_in": 55.13333333333333,
+      "timeline_out": 64.13333333333334,
+      "crop_xywh": {
+        "x": 2418,
+        "y": 624,
+        "width": 864,
+        "height": 1536
+      },
+      "role": "Doctor's complete explanation and recommendation",
+      "speaker": "doctor",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-70a3b05491fc58dc",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9806.MP4",
+      "source_sha256": "70a3b05491fc58dcda6264ac500eaae10988285aef741088aa326bbd8a47b01b",
+      "source_duration": 69.5695,
+      "source_in": 66.43333333333334,
+      "source_out": 67.60000000000001,
+      "timeline_in": 64.13333333333334,
+      "timeline_out": 65.3,
+      "crop_xywh": {
+        "x": 502,
+        "y": 624,
+        "width": 864,
+        "height": 1536
+      },
+      "role": "Interviewer thanks doctor",
+      "speaker": "interviewer",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-70a3b05491fc58dc",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9806.MP4",
+      "source_sha256": "70a3b05491fc58dcda6264ac500eaae10988285aef741088aa326bbd8a47b01b",
+      "source_duration": 69.5695,
+      "source_in": 67.6,
+      "source_out": 69.0,
+      "timeline_in": 65.3,
+      "timeline_out": 66.7,
+      "crop_xywh": {
+        "x": 2418,
+        "y": 624,
+        "width": 864,
+        "height": 1536
+      },
+      "role": "Doctor replies",
+      "speaker": "doctor",
+      "join": "cut"
+    }
+  ],
+  "cue_exclusions": [
+    {
+      "source": "clip-70a3b05491fc58dc",
+      "in": 13.866666666666665,
+      "out": 13.866666666666667,
+      "reason": "Source-aware pause/retake exclusion; preserve clean pickup and full words"
+    },
+    {
+      "source": "clip-70a3b05491fc58dc",
+      "in": 22.066666666666666,
+      "out": 22.933333333333334,
+      "reason": "Source-aware pause/retake exclusion; preserve clean pickup and full words"
+    },
+    {
+      "source": "clip-70a3b05491fc58dc",
+      "in": 56.53333333333333,
+      "out": 57.43333333333333,
+      "reason": "Source-aware pause/retake exclusion; preserve clean pickup and full words"
+    }
+  ]
+}

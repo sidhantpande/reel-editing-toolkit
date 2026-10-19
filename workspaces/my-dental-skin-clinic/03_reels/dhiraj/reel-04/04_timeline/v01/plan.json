@@ -1,0 +1,140 @@
+{
+  "reel_id": "dhiraj-reel-04",
+  "version": "v01",
+  "title": "Bhai Dooj — do not blindly share skincare",
+  "style": "styles/clinic-approved.json",
+  "status": "CLEAN_SELECTS_FOR_REVIEW / logo deferred by user; B-roll planning separate",
+  "segments": [
+    {
+      "source_id": "clip-02bd5307634d6ddd",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9785.MP4",
+      "source_sha256": "02bd5307634d6ddd3bfd899366a6f0468d88a16632db7fba3cbb926a85af3370",
+      "source_duration": 36.2362,
+      "source_in": 1.4333333333333333,
+      "source_out": 11.533333333333333,
+      "timeline_in": 0,
+      "timeline_out": 10.1,
+      "crop_xywh": {
+        "x": 1232,
+        "y": 160,
+        "width": 1124,
+        "height": 2000
+      },
+      "role": "Sibling serum story and different skin types",
+      "speaker": "doctor",
+      "join": "fade"
+    },
+    {
+      "source_id": "clip-02bd5307634d6ddd",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9785.MP4",
+      "source_sha256": "02bd5307634d6ddd3bfd899366a6f0468d88a16632db7fba3cbb926a85af3370",
+      "source_duration": 36.2362,
+      "source_in": 12.966666666666667,
+      "source_out": 16.433333333333334,
+      "timeline_in": 10.1,
+      "timeline_out": 13.566666666666666,
+      "crop_xywh": {
+        "x": 1232,
+        "y": 160,
+        "width": 1124,
+        "height": 2000
+      },
+      "role": "Sibling serum story and different skin types",
+      "speaker": "doctor",
+      "join": "fade"
+    },
+    {
+      "source_id": "clip-02bd5307634d6ddd",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9785.MP4",
+      "source_sha256": "02bd5307634d6ddd3bfd899366a6f0468d88a16632db7fba3cbb926a85af3370",
+      "source_duration": 36.2362,
+      "source_in": 17.566666666666666,
+      "source_out": 19.03333333333333,
+      "timeline_in": 13.566666666666666,
+      "timeline_out": 15.033333333333333,
+      "crop_xywh": {
+        "x": 1232,
+        "y": 160,
+        "width": 1124,
+        "height": 2000
+      },
+      "role": "Sibling serum story and different skin types",
+      "speaker": "doctor",
+      "join": "fade"
+    },
+    {
+      "source_id": "clip-02bd5307634d6ddd",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9785.MP4",
+      "source_sha256": "02bd5307634d6ddd3bfd899366a6f0468d88a16632db7fba3cbb926a85af3370",
+      "source_duration": 36.2362,
+      "source_in": 19.7,
+      "source_out": 34.03333333333333,
+      "timeline_in": 15.033333333333333,
+      "timeline_out": 29.366666666666667,
+      "crop_xywh": {
+        "x": 1232,
+        "y": 160,
+        "width": 1124,
+        "height": 2000
+      },
+      "role": "Sibling serum story and different skin types",
+      "speaker": "doctor",
+      "join": "fade"
+    },
+    {
+      "source_id": "clip-153327b74db0c748",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9786.MP4",
+      "source_sha256": "153327b74db0c7489fb7377f2068b04ee6776303fba4a04fcf857adb3f7bf82e",
+      "source_duration": 16.349667,
+      "source_in": 0.4666666666666667,
+      "source_out": 15.5,
+      "timeline_in": 29.366666666666667,
+      "timeline_out": 44.4,
+      "crop_xywh": {
+        "x": 1176,
+        "y": 160,
+        "width": 1124,
+        "height": 2000
+      },
+      "role": "Complete closing: share sweets, not skincare",
+      "speaker": "doctor",
+      "join": "fade"
+    }
+  ],
+  "words": [],
+  "broll_slots": [],
+  "graphic_slots": [],
+  "cue_exclusions": [],
+  "clean_export": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-04/reel-04_clean-9x16_v01.mp4",
+  "review": {
+    "source_visual": "complete 2-second chronological contact sheets and framing proofs",
+    "dialogue": "two local ASR decoders; no human listening attestation",
+    "captions": "not burned into clean-cut delivery; draft ASR retained separately",
+    "brand": "user requested clean edit and logo later"
+  },
+  "duration_seconds": 44.4,
+  "silence_splices": [
+    {
+      "source": "clip-02bd5307634d6ddd",
+      "in": 11.533333333333333,
+      "out": 12.966666666666667,
+      "reason": "continuous normalized energy below -44 dBFS for >=0.9s; 180ms handles retained"
+    },
+    {
+      "source": "clip-02bd5307634d6ddd",
+      "in": 16.433333333333334,
+      "out": 17.566666666666666,
+      "reason": "continuous normalized energy below -44 dBFS for >=0.9s; 180ms handles retained"
+    },
+    {
+      "source": "clip-02bd5307634d6ddd",
+      "in": 19.033333333333335,
+      "out": 19.7,
+      "reason": "continuous normalized energy below -44 dBFS for >=0.9s; 180ms handles retained"
+    }
+  ],
+  "editorial_notes": [
+    "Recorded family/skin-type comparison differs from the supplied draft; retain the actual dialogue.",
+    "No extra patient, inheritance or treatment claims are added as graphics."
+  ]
+}

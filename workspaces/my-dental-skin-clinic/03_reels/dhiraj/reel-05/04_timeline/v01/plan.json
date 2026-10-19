@@ -1,0 +1,121 @@
+{
+  "reel_id": "dhiraj-reel-05",
+  "version": "v01",
+  "title": "Teen skincare basics and physical development",
+  "style": "styles/clinic-approved.json",
+  "status": "CLEAN_SELECTS_FOR_REVIEW / logo deferred by user; B-roll planning separate",
+  "segments": [
+    {
+      "source_id": "clip-7d3cbec283d448fa",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9788.MP4",
+      "source_sha256": "7d3cbec283d448faf793d6c4a85e4b06dbc3567cdfdbdda48a535e6045b9ae8e",
+      "source_duration": 77.110367,
+      "source_in": 1.5,
+      "source_out": 5.233333333333333,
+      "timeline_in": 0,
+      "timeline_out": 3.7333333333333334,
+      "crop_xywh": {
+        "x": 1282,
+        "y": 160,
+        "width": 1124,
+        "height": 2000
+      },
+      "role": "Complete best take; basic routine and sports/physical development",
+      "speaker": "doctor",
+      "join": "fade"
+    },
+    {
+      "source_id": "clip-7d3cbec283d448fa",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9788.MP4",
+      "source_sha256": "7d3cbec283d448faf793d6c4a85e4b06dbc3567cdfdbdda48a535e6045b9ae8e",
+      "source_duration": 77.110367,
+      "source_in": 6.266666666666667,
+      "source_out": 21.466666666666665,
+      "timeline_in": 3.7333333333333334,
+      "timeline_out": 18.933333333333334,
+      "crop_xywh": {
+        "x": 1282,
+        "y": 160,
+        "width": 1124,
+        "height": 2000
+      },
+      "role": "Complete best take; basic routine and sports/physical development",
+      "speaker": "doctor",
+      "join": "fade"
+    },
+    {
+      "source_id": "clip-7d3cbec283d448fa",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9788.MP4",
+      "source_sha256": "7d3cbec283d448faf793d6c4a85e4b06dbc3567cdfdbdda48a535e6045b9ae8e",
+      "source_duration": 77.110367,
+      "source_in": 23.033333333333335,
+      "source_out": 50.66666666666667,
+      "timeline_in": 18.933333333333334,
+      "timeline_out": 46.56666666666666,
+      "crop_xywh": {
+        "x": 1282,
+        "y": 160,
+        "width": 1124,
+        "height": 2000
+      },
+      "role": "Complete best take; basic routine and sports/physical development",
+      "speaker": "doctor",
+      "join": "fade"
+    },
+    {
+      "source_id": "clip-7d3cbec283d448fa",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9788.MP4",
+      "source_sha256": "7d3cbec283d448faf793d6c4a85e4b06dbc3567cdfdbdda48a535e6045b9ae8e",
+      "source_duration": 77.110367,
+      "source_in": 51.266666666666666,
+      "source_out": 76.0,
+      "timeline_in": 46.56666666666666,
+      "timeline_out": 71.3,
+      "crop_xywh": {
+        "x": 1282,
+        "y": 160,
+        "width": 1124,
+        "height": 2000
+      },
+      "role": "Complete best take; basic routine and sports/physical development",
+      "speaker": "doctor",
+      "join": "fade"
+    }
+  ],
+  "words": [],
+  "broll_slots": [],
+  "graphic_slots": [],
+  "cue_exclusions": [],
+  "clean_export": "/Users/sidhant/Desktop/Video-Editing/Dhiraj-Edits/reel-05/reel-05_clean-9x16_v01.mp4",
+  "review": {
+    "source_visual": "complete 2-second chronological contact sheets and framing proofs",
+    "dialogue": "two local ASR decoders; no human listening attestation",
+    "captions": "not burned into clean-cut delivery; draft ASR retained separately",
+    "brand": "user requested clean edit and logo later"
+  },
+  "duration_seconds": 71.3,
+  "silence_splices": [
+    {
+      "source": "clip-7d3cbec283d448fa",
+      "in": 5.233333333333333,
+      "out": 6.266666666666667,
+      "reason": "continuous normalized energy below -44 dBFS for >=0.9s; 180ms handles retained"
+    },
+    {
+      "source": "clip-7d3cbec283d448fa",
+      "in": 21.466666666666665,
+      "out": 23.033333333333335,
+      "reason": "continuous normalized energy below -44 dBFS for >=0.9s; 180ms handles retained"
+    },
+    {
+      "source": "clip-7d3cbec283d448fa",
+      "in": 50.666666666666664,
+      "out": 51.266666666666666,
+      "reason": "continuous normalized energy below -44 dBFS for >=0.9s; 180ms handles retained"
+    }
+  ],
+  "editorial_notes": [
+    "Reject incomplete alternative hook 9787. Keep 9790 as alternate concise closing.",
+    "Recorded sunscreen/serum statements differ from supplied script; retained as original speech for review. No efficacy claims are added to graphics."
+  ]
+}

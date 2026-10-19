@@ -1,0 +1,44 @@
+[
+  {
+    "source": "MVI_9815.MP4",
+    "in": 4.2,
+    "out": 7.6,
+    "role": "Child asks about tanning",
+    "speaker": "child"
+  },
+  {
+    "source": "MVI_9815.MP4",
+    "in": 9.0,
+    "out": 11.1,
+    "role": "Doctor asks the child's age",
+    "speaker": "doctor"
+  },
+  {
+    "source": "MVI_9815.MP4",
+    "in": 11.6,
+    "out": 12.4,
+    "role": "Child answers age",
+    "speaker": "child"
+  },
+  {
+    "source": "MVI_9815.MP4",
+    "in": 12.933333333333334,
+    "out": 80.8,
+    "role": "Doctor's complete response about physical activity",
+    "speaker": "doctor"
+  },
+  {
+    "source": "MVI_9815.MP4",
+    "in": 81.2,
+    "out": 82.96666666666667,
+    "role": "Child's follow-up about playing at night",
+    "speaker": "child"
+  },
+  {
+    "source": "MVI_9815.MP4",
+    "in": 83.63333333333334,
+    "out": 88.2,
+    "role": "Doctor's response and closing",
+    "speaker": "doctor"
+  }
+]

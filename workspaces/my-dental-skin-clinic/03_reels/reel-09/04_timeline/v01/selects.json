@@ -1,0 +1,82 @@
+[
+  {
+    "role": "Complete opening / best take",
+    "source": "DJI_20261004212755_0108_D.MP4",
+    "source_in": 0.1,
+    "source_out": 7.233333333333333,
+    "timeline_in": 0,
+    "timeline_out": 7.133333333333334
+  },
+  {
+    "role": "Question / speaking off-camera; cover with B01",
+    "source": "DJI_20261004212901_0116_D.MP4",
+    "source_in": 4.233333333333333,
+    "source_out": 10.466666666666667,
+    "timeline_in": 7.133333333333334,
+    "timeline_out": 13.366666666666667
+  },
+  {
+    "role": "Usable direct-camera explanation",
+    "source": "DJI_20261004212901_0116_D.MP4",
+    "source_in": 25.0,
+    "source_out": 29.166666666666668,
+    "timeline_in": 13.366666666666667,
+    "timeline_out": 17.533333333333335
+  },
+  {
+    "role": "Small problem / solution",
+    "source": "DJI_20261004212901_0116_D.MP4",
+    "source_in": 29.3,
+    "source_out": 33.333333333333336,
+    "timeline_in": 17.533333333333335,
+    "timeline_out": 21.56666666666667
+  },
+  {
+    "role": "Large problem / solution; retain comparison",
+    "source": "DJI_20261004212901_0116_D.MP4",
+    "source_in": 33.333333333333336,
+    "source_out": 36.36666666666667,
+    "timeline_in": 21.56666666666667,
+    "timeline_out": 24.6
+  },
+  {
+    "role": "Escalation; use B02, omit superseded 32 pickup",
+    "source": "DJI_20261004212956_0117_D.MP4",
+    "source_in": 0.6,
+    "source_out": 8.9,
+    "timeline_in": 24.6,
+    "timeline_out": 32.900000000000006
+  },
+  {
+    "role": "Complete remembered phrase; conservative tail",
+    "source": "DJI_20261004213054_0118_D.MP4",
+    "source_in": 0.5333333333333333,
+    "source_out": 2.2666666666666666,
+    "timeline_in": 32.900000000000006,
+    "timeline_out": 34.63333333333334
+  },
+  {
+    "role": "Complete number / statement",
+    "source": "DJI_20261004213054_0118_D.MP4",
+    "source_in": 3.066666666666667,
+    "source_out": 5.333333333333333,
+    "timeline_in": 34.63333333333334,
+    "timeline_out": 36.900000000000006
+  },
+  {
+    "role": "Keep original spoken connector",
+    "source": "DJI_20261004213054_0118_D.MP4",
+    "source_in": 5.6,
+    "source_out": 6.733333333333333,
+    "timeline_in": 36.900000000000006,
+    "timeline_out": 38.03333333333334
+  },
+  {
+    "role": "Complete original goodbye",
+    "source": "DJI_20261004213054_0118_D.MP4",
+    "source_in": 7.433333333333334,
+    "source_out": 11.2,
+    "timeline_in": 38.03333333333334,
+    "timeline_out": 41.800000000000004
+  }
+]

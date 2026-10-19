@@ -1,0 +1,76 @@
+{
+  "fps": 30,
+  "segments": [
+    {
+      "source_id": "clip-55c126ce352c1ce1",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9809.MP4",
+      "source_sha256": "55c126ce352c1ce1f741a42141ac164f71195df9db59331dede40cdbf5febd72",
+      "source_duration": 62.395667,
+      "source_in": 0.5666666666666667,
+      "source_out": 23.866666666666667,
+      "timeline_in": 0.0,
+      "timeline_out": 23.3,
+      "crop_xywh": {
+        "x": 1546,
+        "y": 432,
+        "width": 972,
+        "height": 1728
+      },
+      "role": "Complete travel story, essentials and wedding closing",
+      "speaker": "doctor",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-55c126ce352c1ce1",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9809.MP4",
+      "source_sha256": "55c126ce352c1ce1f741a42141ac164f71195df9db59331dede40cdbf5febd72",
+      "source_duration": 62.395667,
+      "source_in": 24.6,
+      "source_out": 51.233333333333334,
+      "timeline_in": 23.3,
+      "timeline_out": 49.93333333333333,
+      "crop_xywh": {
+        "x": 1546,
+        "y": 432,
+        "width": 972,
+        "height": 1728
+      },
+      "role": "Complete travel story, essentials and wedding closing",
+      "speaker": "doctor",
+      "join": "cut"
+    },
+    {
+      "source_id": "clip-55c126ce352c1ce1",
+      "source": "/Users/sidhant/Desktop/Video-Editing/Dhiraj/MVI_9809.MP4",
+      "source_sha256": "55c126ce352c1ce1f741a42141ac164f71195df9db59331dede40cdbf5febd72",
+      "source_duration": 62.395667,
+      "source_in": 51.666666666666664,
+      "source_out": 58.8,
+      "timeline_in": 49.93333333333333,
+      "timeline_out": 57.06666666666667,
+      "crop_xywh": {
+        "x": 1546,
+        "y": 432,
+        "width": 972,
+        "height": 1728
+      },
+      "role": "Complete travel story, essentials and wedding closing",
+      "speaker": "doctor",
+      "join": "cut"
+    }
+  ],
+  "cue_exclusions": [
+    {
+      "source": "clip-55c126ce352c1ce1",
+      "in": 23.866666666666667,
+      "out": 24.6,
+      "reason": "Source-aware pause/retake exclusion; preserve clean pickup and full words"
+    },
+    {
+      "source": "clip-55c126ce352c1ce1",
+      "in": 51.233333333333334,
+      "out": 51.666666666666664,
+      "reason": "Source-aware pause/retake exclusion; preserve clean pickup and full words"
+    }
+  ]
+}

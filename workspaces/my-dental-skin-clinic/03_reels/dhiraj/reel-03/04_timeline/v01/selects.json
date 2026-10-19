@@ -1,0 +1,23 @@
+[
+  {
+    "source": "MVI_9776.MP4",
+    "in": 3.2333333333333334,
+    "out": 24.966666666666665,
+    "role": "Cleaner family-expert opening; replace failed take 9775",
+    "speaker": "doctor"
+  },
+  {
+    "source": "MVI_9778.MP4",
+    "in": 0.4,
+    "out": 29.2,
+    "role": "Complete caution and existing-routine explanation",
+    "speaker": "doctor"
+  },
+  {
+    "source": "MVI_9782.MP4",
+    "in": 1.7,
+    "out": 14.966666666666667,
+    "role": "Final complete thank-you and Happy Diwali pickup",
+    "speaker": "doctor"
+  }
+]

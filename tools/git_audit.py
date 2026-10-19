@@ -26,11 +26,28 @@ if manifest.exists():
   attr=subprocess.check_output(['git','check-attr','filter','--',relative],cwd=R,text=True).strip()
   if not attr.endswith(': lfs'):bad.append('Clinic asset lacks Git LFS: '+relative)
 endcard_manifest=R/clinic/'assets/brand/endcards/manifest.json'
+cutout_manifest=R/clinic/'assets/cutouts/manifest.json'
+if cutout_manifest.is_file():
+ for asset in json.loads(cutout_manifest.read_text())['assets']:
+  path=R/clinic/asset['path']
+  if not path.is_file() or hashlib.sha256(path.read_bytes()).hexdigest()!=asset['sha256']:bad.append('Cutout checksum mismatch: '+asset['path'])
+  attr=subprocess.check_output(['git','check-attr','filter','--',str(path.relative_to(R))],cwd=R,text=True).strip()
+  if not attr.endswith(': lfs'):bad.append('Cutout lacks Git LFS: '+asset['path'])
 if endcard_manifest.is_file():
  asset=json.loads(endcard_manifest.read_text());path=R/clinic/asset['path']
  if not path.is_file() or hashlib.sha256(path.read_bytes()).hexdigest()!=asset['sha256']:bad.append('End-card checksum mismatch')
  attr=subprocess.check_output(['git','check-attr','filter','--',str(path.relative_to(R))],cwd=R,text=True).strip()
  if not attr.endswith(': lfs'):bad.append('End-card lacks Git LFS')
+logo_manifest=R/clinic/'assets/brand/dhiraj/provenance.json'
+if logo_manifest.is_file():
+ data=json.loads(logo_manifest.read_text())
+ for key in ['selected','superseded','transparent_version']:
+  asset=data.get(key)
+  if not asset:continue
+  path=R/clinic/asset['path']
+  if not path.is_file() or hashlib.sha256(path.read_bytes()).hexdigest()!=asset['sha256']:bad.append('Dhiraj logo checksum mismatch: '+asset['path'])
+  attr=subprocess.check_output(['git','check-attr','filter','--',str(path.relative_to(R))],cwd=R,text=True).strip()
+  if not attr.endswith(': lfs'):bad.append('Dhiraj logo lacks Git LFS: '+asset['path'])
 print(f'Git candidates: {len(files)} files, {total/2**20:.1f} MiB before LFS')
 if bad:print('\n'.join(bad));sys.exit(1)
 print('OK: approved clinic assets match checksums/LFS; no raw/reference/export/cache/environment files among Git candidates.')

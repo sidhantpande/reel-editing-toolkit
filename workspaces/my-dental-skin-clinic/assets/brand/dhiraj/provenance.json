@@ -1,0 +1,45 @@
+{
+  "selected": {
+    "path": "assets/brand/dhiraj/logo-wide-supplied.jpg",
+    "source": "/Users/sidhant/Downloads/images (2).jpeg",
+    "sha256": "a96122aa8fa0eb07265005890e171f187ffc173c8b69313a504c9051c684da30",
+    "dimensions": [
+      651,
+      307
+    ],
+    "notes": "User supplied wider replacement after cropped thumbnail. Exact original preserved; no generated lettering or background removal."
+  },
+  "superseded": {
+    "path": "assets/brand/dhiraj/logo-supplied.jpg",
+    "sha256": "9b7558be7ca88c8927352dc01233b9951e7cd01616603b0fba23c6d3bd1277f2",
+    "source": "/var/folders/j8/4j_2hg1s2zb2k8n8nfrz6dgc0000gn/T/codex-clipboard-38776148-a74b-46af-9af2-6fbc4bd4b247.jpg",
+    "received": "2026-10-19",
+    "dimensions": [
+      225,
+      225
+    ],
+    "notes": "Supplied JPEG already clips lettering at left and right image edges. Preserve exact original; no invented restoration or clinic-name transcription. Full uncropped replacement requested without blocking review edit."
+  },
+  "transparent_version": {
+    "path": "assets/brand/dhiraj/logo-transparent-v01.png",
+    "sha256": "d0d99f83122bdf9a619d954cc5f64b70de8fb17b52a599784fcf8db0e6b42e76",
+    "source_image": {
+      "path": "assets/brand/dhiraj/logo-wide-supplied.jpg",
+      "source": "/Users/sidhant/Downloads/images (2).jpeg",
+      "sha256": "a96122aa8fa0eb07265005890e171f187ffc173c8b69313a504c9051c684da30",
+      "dimensions": [
+        651,
+        307
+      ],
+      "notes": "User supplied wider replacement after cropped thumbnail. Exact original preserved; no generated lettering or background removal."
+    },
+    "tool": "built-in image_gen",
+    "source_output": "/Users/sidhant/.codex/generated_images/01a15421-3dad-7bd1-a6fa-9383e481cab7/exec-a08156aa-7d86-46d4-ac4d-b491fda83f43.png",
+    "prompt_file": "assets/brand/dhiraj/background-removal-prompt.json",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "review": "Lettering, red/black strokes, face icon and ellipsis visually compared; remove only white field; generated transparent rendition is not a native vector original."
+  }
+}

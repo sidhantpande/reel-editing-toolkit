@@ -1,0 +1,54 @@
+[
+  {
+    "reel": "reel-07",
+    "id": "B01",
+    "clip": "MVI_9794",
+    "source_anchor": 8.5,
+    "seconds": 6,
+    "spoken_anchor": "hair fall, hair breakage और hair thinning",
+    "prompt": "Educational macro view of a few individual dark hair strands on a neutral ivory inspection surface. Show one complete strand with a tiny club end beside two shorter broken shaft pieces; controlled camera rack focus between groups. Teaching objects only, no scalp diagnosis, no exaggerated hair piles or labels.",
+    "layout": "full-frame",
+    "element": "hair-strand-comparison",
+    "timeline_in": 9.9,
+    "timeline_out": 15.6,
+    "delivery_filename": "dhiraj_reel-07_B01.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.3,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: Educational macro view of a few individual dark hair strands on a neutral ivory inspection surface. Show one complete strand with a tiny club end beside two shorter broken shaft pieces; controlled camera rack focus between groups. Teaching objects only, no scalp diagnosis, no exaggerated hair piles or labels.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-07_B01.mp4",
+    "sha256": "e30c47d39f473f58df229bd15e89acd3efe09aa0b559e6738b05709bd8b76d68",
+    "selected_ranges": [
+      {
+        "timeline_in": 9.9,
+        "timeline_out": 15.6,
+        "media_in": 0.3
+      }
+    ]
+  },
+  {
+    "reel": "reel-07",
+    "id": "B02",
+    "clip": "MVI_9794",
+    "source_anchor": 53.3,
+    "seconds": 6,
+    "spoken_anchor": "excessive heat … friction … towel से rub",
+    "prompt": "Anonymous adult hand gently places a hair dryer and folded towel on an ivory bathroom counter. The hair dryer remains switched off; camera slides from the nozzle to the soft towel texture. Symbolic context for the narrated causes; no applied damage, no patient, no before/after.",
+    "layout": "full-frame",
+    "element": "native-hair-terms",
+    "timeline_in": 29.433333333333334,
+    "timeline_out": 37,
+    "delivery_filename": "dhiraj_reel-07_B02.mp4",
+    "status": "RECEIVED / inserted in finished review",
+    "media_in": 0.3,
+    "full_prompt": "Generate a 10-second silent vertical 9:16 video, 1080×1920, 30fps, photoreal/editorial or refined realistic 3D as specified. Stable geometry and consistent lighting, soft ivory background, muted sage/teal accents, restrained champagne highlights. Keep the lower 20% visually quiet for later captions. Use purposeful continuous motion, not random shaking or a static image hold. No text, captions, watermark, logo, recognizable app/brand, treatment promises, skin-whitening, before/after, patient outcome or copied face. No soundtrack; original doctor narration will continue over this insert.\n\nScene: Anonymous adult hand gently places a hair dryer and folded towel on an ivory bathroom counter. The hair dryer remains switched off; camera slides from the nozzle to the soft towel texture. Symbolic context for the narrated causes; no applied damage, no patient, no before/after.",
+    "received_path": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/04_generated_broll/approved/dhiraj_reel-07_B02.mp4",
+    "sha256": "1471135e339508e34c6944c1da4712649c30f3e398bf6434ca07680255535ff8",
+    "selected_ranges": [
+      {
+        "timeline_in": 29.433333333333334,
+        "timeline_out": 37,
+        "media_in": 0.3
+      }
+    ]
+  }
+]

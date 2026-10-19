@@ -1,0 +1,9 @@
+[0:v]eq=contrast=1.025:brightness=0.003:saturation=1.02[base];
+[2:v]fps=30,scale=1080:1920:flags=lanczos,setsar=1,format=rgba,fade=t=in:st=0:d=0.23333333333333334:alpha=1,fade=t=out:st=4.266666666666667:d=0.23333333333333334:alpha=1,setpts=PTS-STARTPTS+3.6/TB[b0];
+[base][b0]overlay=0:0:eof_action=pass:enable=between(t\,3.6\,8.1)[p0];
+[3:v]fps=30,scale=1080:1920:flags=lanczos,setsar=1,format=rgba,fade=t=in:st=0:d=0.23333333333333334:alpha=1,fade=t=out:st=7.633333333333334:d=0.23333333333333334:alpha=1,setpts=PTS-STARTPTS+17.433333333333334/TB[b1];
+[p0][b1]overlay=0:0:eof_action=pass:enable=between(t\,17.433333333333334\,25.3)[p1];
+[p1][5:v]overlay=0:0[shade];
+[4:v]scale=285:-1:flags=lanczos,format=rgba[logo];
+[shade][logo]overlay=55:65[brand];
+[brand][6:v]overlay=0:1100,format=yuv420p[out]

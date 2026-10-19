@@ -82,6 +82,8 @@ def doctor(_):
         'packages': {p: importlib.metadata.version(p) for p in ['Pillow', 'faster-whisper', 'ctranslate2', 'numpy', 'fonttools']},
         'required_filters': 'available', 'model_path': str(model_path()) if model_path() else None,
         'free_gib': round(shutil.disk_usage(ROOT).free / 2**30, 2),
+        'subject_matte': {'engine': 'Apple Vision / accurate', 'xcrun': shutil.which('xcrun'),
+                          'source': str(ROOT/'tools/person_matte.swift'), 'required_for': 'behind-subject graphic slots'},
     }
     save(CAT / 'environment.json', data)
     print(json.dumps(data, indent=2))
@@ -161,6 +163,8 @@ def stamp(t):
 def analyse(a):
     from PIL import Image, ImageDraw, ImageFont
     for r in sources():
+        if a.source_folder and not any(Path(q).is_relative_to(Path(a.source_folder).expanduser().resolve()) for q in r['paths']):
+            continue
         path = next((Path(p) for p in r['paths'] if Path(p).exists()), None)
         if path is None:
             raise FileNotFoundError('Missing source ' + r['id'])
@@ -178,7 +182,9 @@ def analyse(a):
             draw.text((12, 8), r['filename'][:100] + ' | ' + r['id'], fill='white', font=font)
             with tempfile.TemporaryDirectory(dir=ROOT / '.cache') as temp:
                 for i in range(12):
-                    t = r['duration'] * (i + 0.5) / 12
+                    # A sub-frame seek near EOF can yield no decoded image in
+                    # very short accidental camera clips. Keep a decode margin.
+                    t = min(r['duration'] * (i + 0.5) / 12, max(0, r['duration'] - .15))
                     frame = Path(temp) / f'{i}.png'
                     ff('-ss', t, '-i', path, '-frames:v', '1', '-vf', tone + 'scale=300:250:force_original_aspect_ratio=decrease,setsar=1', frame)
                     with Image.open(frame) as img:
@@ -243,7 +249,7 @@ def main():
     sub = parser.add_subparsers(dest='command', required=True)
     sub.add_parser('doctor').set_defaults(fn=doctor)
     p = sub.add_parser('ingest'); p.add_argument('folder'); p.set_defaults(fn=ingest)
-    p = sub.add_parser('analyse'); p.add_argument('--proxy', action='store_true'); p.set_defaults(fn=analyse)
+    p = sub.add_parser('analyse'); p.add_argument('--proxy', action='store_true'); p.add_argument('--source-folder'); p.set_defaults(fn=analyse)
     p = sub.add_parser('transcribe'); p.add_argument('--language', choices=['auto', 'hi', 'en'], default='auto'); p.add_argument('--redo', action='store_true'); p.add_argument('--model', choices=['small','turbo'], default=CONFIG.get('transcription',{}).get('model','small')); p.add_argument('--gain', type=float, default=4); p.add_argument('--source-folder'); p.set_defaults(fn=transcribe)
     p = sub.add_parser('new-reel'); p.add_argument('id'); p.set_defaults(fn=new_reel)
     a = parser.parse_args()

@@ -1,0 +1,108 @@
+{
+  "status": "PIPELINE_READY / VIDEO_DRAFTS_AWAIT_BROLL_AND_LISTENING",
+  "exports": [
+    {
+      "video": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/05_exports/review/reel-09-style-proof_review_v02.mp4",
+      "sha256": "08193185a6aa6fd35b7a4c5733944d06b47486c0f8ed4978f2ea1718394faf43",
+      "full_decode": "passed",
+      "frames": 337,
+      "expected_frames": 337,
+      "resolution": [
+        1080,
+        1920
+      ],
+      "fps": "30/1",
+      "video_duration": "11.233333",
+      "audio_duration": "11.233333",
+      "integrated_lufs": -16.9,
+      "true_peak_dbtp": -1.6,
+      "caption_phrases": 13,
+      "contacts": [
+        "workspaces/my-dental-skin-clinic/02_analysis/reel-09-proof-qa/contact-00.jpg",
+        "workspaces/my-dental-skin-clinic/02_analysis/reel-09-proof-qa/contact-01.jpg"
+      ],
+      "visual_review": "Caption/cut/ending contact sheets inspected; selected higher-frequency motion samples inspected. Continuous human playback not attested.",
+      "dialogue_review": "Draft checked using independent normalized ASR snippets; final human listening and pronunciation checks still required",
+      "status": "review export / not final approval",
+      "black_intervals": []
+    },
+    {
+      "video": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/05_exports/review/reel-09-style-proof_review_editorial-v03.mp4",
+      "sha256": "4230b136217070b8f34dbfba2d6209b1dc54d21f5e8d4f466aa80dbb89e98c15",
+      "full_decode": "passed",
+      "frames": 337,
+      "expected_frames": 337,
+      "resolution": [
+        1080,
+        1920
+      ],
+      "fps": "30/1",
+      "video_duration": "11.233333",
+      "audio_duration": "11.233333",
+      "integrated_lufs": -16.9,
+      "true_peak_dbtp": -1.6,
+      "caption_phrases": 13,
+      "contacts": [
+        "workspaces/my-dental-skin-clinic/02_analysis/reel-09-editorial-v03-qa/contact-00.jpg",
+        "workspaces/my-dental-skin-clinic/02_analysis/reel-09-editorial-v03-qa/contact-01.jpg"
+      ],
+      "visual_review": "Caption/cut/ending contact sheets inspected; selected higher-frequency motion samples inspected. Continuous human playback not attested.",
+      "dialogue_review": "Draft checked using independent normalized ASR snippets; final human listening and pronunciation checks still required",
+      "status": "review export / not final approval",
+      "black_intervals": []
+    },
+    {
+      "video": "/Users/sidhant/Desktop/Video-Editing/reel-editing-toolkit/workspaces/my-dental-skin-clinic/05_exports/review/reel-09_aroll-preview_v01-voice-outro.mp4",
+      "sha256": "41df0ed76304890596b9135dbe3f4ba5607877a1f773404ed459d4ec3135c688",
+      "full_decode": "passed",
+      "frames": 1385,
+      "expected_frames": 1385,
+      "resolution": [
+        1080,
+        1920
+      ],
+      "fps": "30/1",
+      "video_duration": "46.166667",
+      "audio_duration": "46.166667",
+      "integrated_lufs": -16.3,
+      "true_peak_dbtp": -1.5,
+      "caption_phrases": 40,
+      "contacts": [
+        "workspaces/my-dental-skin-clinic/02_analysis/reel-09-aroll-qa/contact-00.jpg",
+        "workspaces/my-dental-skin-clinic/02_analysis/reel-09-aroll-qa/contact-01.jpg",
+        "workspaces/my-dental-skin-clinic/02_analysis/reel-09-aroll-qa/contact-02.jpg",
+        "workspaces/my-dental-skin-clinic/02_analysis/reel-09-aroll-qa/contact-03.jpg",
+        "workspaces/my-dental-skin-clinic/02_analysis/reel-09-aroll-qa/contact-04.jpg",
+        "workspaces/my-dental-skin-clinic/02_analysis/reel-09-aroll-qa/contact-05.jpg"
+      ],
+      "visual_review": "Caption/cut/ending contact sheets inspected; selected higher-frequency motion samples inspected. Continuous human playback not attested.",
+      "dialogue_review": "Draft checked using independent normalized ASR snippets; final human listening and pronunciation checks still required",
+      "status": "review export / not final approval",
+      "black_intervals": []
+    }
+  ],
+  "mask_audit": {
+    "frames": 105,
+    "coverage_range": [
+      0.49338293542725736,
+      0.6659007125998548
+    ],
+    "blank_or_opaque_masks": 0,
+    "method": "Every mask inspected numerically; composite edges checked in sampled frames"
+  },
+  "checks": {
+    "unittests": 25,
+    "npm_check": "passed",
+    "git_asset_audit": "passed",
+    "git_diff_whitespace": "passed",
+    "caption_atomic_cache_smoke": "30-frame Hindi alpha movie passed",
+    "pending_broll_preflight": "rejected as expected",
+    "short_video_range_preflight": "rejected as expected"
+  },
+  "outstanding": [
+    "Receive and inspect B01 and B02 videos",
+    "Final human listening / mixed-language word and cut verification",
+    "Render full plan with received B-roll and behind-subject graphic, then complete full-output review"
+  ],
+  "original_media": "Preserved in place; raw/reference/export/cache excluded from Git"
+}
