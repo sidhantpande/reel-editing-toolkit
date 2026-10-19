@@ -23,5 +23,11 @@ for p in (R/'projects').rglob('reel.json'):
  for pg in d['captions']:
   check(0<=pg['startMs']<pg['endMs']<=duration/30*1000+1,f'Caption page out of range: {p}')
   for w in pg['words']:check(pg['startMs']<=w['startMs']<w['endMs']<=pg['endMs'],f'Word timing out of page: {p}')
+for catalogue in ['jetkids-assets.json']:
+ path=R/'catalog'/catalogue
+ if path.is_file():
+  for a in json.loads(path.read_text()):
+   asset=R/a['repositoryFile'];check(asset.is_file(),f'Missing brand asset: {asset}')
+   if asset.is_file():check(hashlib.sha256(asset.read_bytes()).hexdigest()==a['sha256'],f'Brand asset checksum mismatch: {asset}')
 if errors:print('\n'.join(errors));sys.exit(1)
 print(f'OK: {len(scripts)} script folders, asset checksums, portable references and prepared timeline props (source media optional unless --require-media).')

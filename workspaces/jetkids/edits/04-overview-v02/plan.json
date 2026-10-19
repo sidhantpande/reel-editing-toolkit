@@ -1,0 +1,323 @@
+{
+  "id": "jetkids-overview-v02",
+  "concept": "04 Complete Event \u2014 The Day at Jet Kids",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "eventPhotoInserts": false,
+  "logo": "public/assets/brands/jetkids/logo-original.jpg",
+  "logoFrames": 60,
+  "audio": {
+    "source": "media/music/jetkids/jetkids-music-04/slice.wav",
+    "in": 0,
+    "asset": "jetkids-music-04",
+    "original_song_in": 35,
+    "original_song_out": 85,
+    "authority": "User exact link and cue sheet",
+    "cue_status": "Structural cues preserved; automatic beats estimated; listening not attested"
+  },
+  "shots": [
+    {
+      "source": "Videos/1/C4122.MP4",
+      "in": 0.3,
+      "frames": 61,
+      "speed": 0.5,
+      "timeline_start_frame": 0,
+      "review_note": "Trophy hero establishes sports launch",
+      "boundary_basis": "User structure cue"
+    },
+    {
+      "source": "Videos/1/C4119.MP4",
+      "in": 0.4,
+      "frames": 40,
+      "speed": 0.5,
+      "timeline_start_frame": 61,
+      "review_note": "School identity sign, retain full wording",
+      "boundary_basis": "Near measured beat candidate, within4frames where possible; otherwise editorial boundary",
+      "transitionIn": {
+        "kind": "fade",
+        "frames": 6
+      }
+    },
+    {
+      "source": "Videos/1/C4111.MP4",
+      "in": 0.5,
+      "frames": 49,
+      "speed": 0.5,
+      "timeline_start_frame": 101,
+      "review_note": "Prepared court and guest seating",
+      "boundary_basis": "Near measured beat candidate, within4frames where possible; otherwise editorial boundary",
+      "transitionIn": {
+        "kind": "fade",
+        "frames": 6
+      }
+    },
+    {
+      "source": "Videos/1/C4265.MP4",
+      "in": 0.5,
+      "frames": 60,
+      "speed": 0.5,
+      "timeline_start_frame": 150,
+      "review_note": "Guest vehicle approach",
+      "boundary_basis": "Near measured beat candidate, within4frames where possible; otherwise editorial boundary",
+      "transitionIn": {
+        "kind": "fade",
+        "frames": 6
+      },
+      "gamma": 1.04,
+      "saturation": 1.02
+    },
+    {
+      "source": "Videos/1/C4268.MP4",
+      "in": 9,
+      "frames": 60,
+      "speed": 0.5,
+      "timeline_start_frame": 210,
+      "review_note": "School band welcomes guests",
+      "boundary_basis": "Near measured beat candidate, within4frames where possible; otherwise editorial boundary",
+      "gamma": 1.04,
+      "saturation": 1.02
+    },
+    {
+      "source": "Videos/1/C4297.MP4",
+      "in": 24,
+      "frames": 49,
+      "speed": 0.5,
+      "timeline_start_frame": 270,
+      "review_note": "Actual tilak welcome gesture",
+      "boundary_basis": "Near measured beat candidate, within4frames where possible; otherwise editorial boundary",
+      "transitionIn": {
+        "kind": "fade",
+        "frames": 6
+      }
+    },
+    {
+      "source": "Videos/1/C4300.MP4",
+      "in": 5.7,
+      "frames": 54,
+      "speed": 0.6,
+      "timeline_start_frame": 319,
+      "review_note": "Lamp lighting with guests and teacher",
+      "boundary_basis": "Near measured beat candidate, within4frames where possible; otherwise editorial boundary",
+      "transitionIn": {
+        "kind": "fade",
+        "frames": 6
+      }
+    },
+    {
+      "source": "Videos/1/C4306.MP4",
+      "in": 2.8,
+      "frames": 62,
+      "speed": 1,
+      "timeline_start_frame": 373,
+      "review_note": "Actual scissors cut followed by separating ribbon",
+      "boundary_basis": "Near measured beat candidate, within4frames where possible; otherwise editorial boundary"
+    },
+    {
+      "source": "Videos/1/C4321.MP4",
+      "in": 1,
+      "frames": 34,
+      "speed": 0.5,
+      "timeline_start_frame": 435,
+      "review_note": "Guest honouring and smile",
+      "boundary_basis": "Near measured beat candidate, within4frames where possible; otherwise editorial boundary",
+      "transitionIn": {
+        "kind": "fade",
+        "frames": 6
+      }
+    },
+    {
+      "source": "Videos/1/C4310.MP4",
+      "in": 0.2,
+      "frames": 41,
+      "speed": 0.5,
+      "timeline_start_frame": 469,
+      "review_note": "Guests enter colourful court",
+      "boundary_basis": "Near measured beat candidate, within4frames where possible; otherwise editorial boundary",
+      "transitionIn": {
+        "kind": "fade",
+        "frames": 6
+      }
+    },
+    {
+      "source": "Videos/1/C4337.MP4",
+      "in": 0.2,
+      "frames": 60,
+      "speed": 0.5,
+      "timeline_start_frame": 510,
+      "review_note": "Coordinated prop lift opens sports chapter at requested cue",
+      "boundary_basis": "User structure cue"
+    },
+    {
+      "source": "Videos/1/C4132.MP4",
+      "in": 0.9,
+      "frames": 49,
+      "speed": 0.6,
+      "timeline_start_frame": 570,
+      "review_note": "Cricket swing selected later to include contact and follow-through before floor tail",
+      "boundary_basis": "Near measured beat candidate, within4frames where possible; otherwise editorial boundary"
+    },
+    {
+      "source": "Videos/1/C4366.MP4",
+      "in": 19,
+      "frames": 41,
+      "speed": 1,
+      "timeline_start_frame": 619,
+      "review_note": "Kabaddi collective tackle, preserve complete interaction",
+      "boundary_basis": "Near measured beat candidate, within4frames where possible; otherwise editorial boundary"
+    },
+    {
+      "source": "Videos/1/C4388.MP4",
+      "in": 4.1,
+      "frames": 41,
+      "speed": 1,
+      "timeline_start_frame": 660,
+      "review_note": "Kho-kho sharp turn around seated line",
+      "boundary_basis": "Near measured beat candidate, within4frames where possible; otherwise editorial boundary"
+    },
+    {
+      "source": "Videos/1/C4262.MP4",
+      "in": 3.7,
+      "frames": 49,
+      "speed": 1,
+      "timeline_start_frame": 701,
+      "review_note": "Table-tennis paddle hit selected instead of only serve anticipation",
+      "boundary_basis": "Near measured beat candidate, within4frames where possible; otherwise editorial boundary"
+    },
+    {
+      "source": "Videos/1/C4209.MP4",
+      "in": 1.2,
+      "frames": 46,
+      "speed": 0.5,
+      "timeline_start_frame": 750,
+      "review_note": "Student moves chess piece",
+      "boundary_basis": "Near measured beat candidate, within4frames where possible; otherwise editorial boundary"
+    },
+    {
+      "source": "Videos/1/C4332.MP4",
+      "in": 5,
+      "frames": 41,
+      "speed": 0.5,
+      "timeline_start_frame": 796,
+      "review_note": "Closer student coordinated drill",
+      "boundary_basis": "Near measured beat candidate, within4frames where possible; otherwise editorial boundary"
+    },
+    {
+      "source": "Videos/2/C3331.MP4",
+      "in": 1.2,
+      "frames": 63,
+      "speed": 0.6,
+      "timeline_start_frame": 837,
+      "review_note": "Cleaner closer teachers balloon-race pair action, no foreground heads",
+      "boundary_basis": "Near measured beat candidate, within4frames where possible; otherwise editorial boundary",
+      "saturation": 0.95
+    },
+    {
+      "source": "Videos/1/C4217.MP4",
+      "in": 3,
+      "frames": 47,
+      "speed": 0.5,
+      "timeline_start_frame": 900,
+      "review_note": "Teachers hoop interaction",
+      "boundary_basis": "Near measured beat candidate, within4frames where possible; otherwise editorial boundary"
+    },
+    {
+      "source": "Videos/1/C4255.MP4",
+      "in": 0.2,
+      "frames": 54,
+      "speed": 0.5,
+      "timeline_start_frame": 947,
+      "review_note": "Smiling teachers response",
+      "boundary_basis": "Near measured beat candidate, within4frames where possible; otherwise editorial boundary"
+    },
+    {
+      "source": "Videos/1/C4351.MP4",
+      "in": 3.2,
+      "frames": 49,
+      "speed": 0.6,
+      "timeline_start_frame": 1001,
+      "review_note": "Guest ceremonial cricket swing and follow-through, not waiting stance",
+      "boundary_basis": "Near measured beat candidate, within4frames where possible; otherwise editorial boundary"
+    },
+    {
+      "source": "Videos/1/C4440.MP4",
+      "in": 0.2,
+      "frames": 60,
+      "speed": 0.6,
+      "timeline_start_frame": 1050,
+      "review_note": "Individual trophy presentation begins closing chapter",
+      "boundary_basis": "User structure cue",
+      "transitionIn": {
+        "kind": "fade",
+        "frames": 6
+      }
+    },
+    {
+      "source": "Videos/1/C4428.MP4",
+      "in": 29,
+      "frames": 60,
+      "speed": 1,
+      "timeline_start_frame": 1110,
+      "review_note": "Real-time team celebration;25fps source",
+      "boundary_basis": "Near measured beat candidate, within4frames where possible; otherwise editorial boundary"
+    },
+    {
+      "source": "Videos/1/C4448.MP4",
+      "in": 3,
+      "frames": 87,
+      "speed": 0.5,
+      "timeline_start_frame": 1170,
+      "review_note": "Large group and trophy lift",
+      "boundary_basis": "Near measured beat candidate, within4frames where possible; otherwise editorial boundary"
+    },
+    {
+      "source": "Videos/2/C3388.MP4",
+      "in": 4,
+      "frames": 64,
+      "speed": 0.6,
+      "timeline_start_frame": 1257,
+      "review_note": "Child smiles among celebrating players",
+      "boundary_basis": "Near measured beat candidate, within4frames where possible; otherwise editorial boundary",
+      "transitionIn": {
+        "kind": "fade",
+        "frames": 6
+      },
+      "saturation": 0.95
+    },
+    {
+      "source": "Videos/2/C3355.MP4",
+      "in": 0.5,
+      "frames": 55,
+      "speed": 0.6,
+      "timeline_start_frame": 1321,
+      "review_note": "Teachers clap and share smile",
+      "boundary_basis": "Near measured beat candidate, within4frames where possible; otherwise editorial boundary",
+      "transitionIn": {
+        "kind": "fade",
+        "frames": 6
+      },
+      "saturation": 0.95
+    },
+    {
+      "source": "Videos/1/C4447.MP4",
+      "in": 2,
+      "frames": 64,
+      "speed": 0.5,
+      "timeline_start_frame": 1376,
+      "review_note": "Full school community group before original crest",
+      "boundary_basis": "Near measured beat candidate, within4frames where possible; otherwise editorial boundary",
+      "transitionIn": {
+        "kind": "fade",
+        "frames": 6
+      }
+    }
+  ],
+  "review_stage": "Overview review draft; exact music phrases require listening verification",
+  "music_structure_frames": [
+    0,
+    510,
+    1050,
+    1440,
+    1500
+  ]
+}

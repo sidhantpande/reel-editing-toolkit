@@ -1,0 +1,2169 @@
+{
+  "stage": "All-source conversion/analysis and17 concept plan complete;17 soundtrack excerpts ready. Requested overview review edit produced; other individual reels pending.",
+  "format": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "event_photo_inserts": false,
+    "branding": "Original supplied JKIS crest end-card"
+  },
+  "source_videos": 475,
+  "normalised_log_videos": 345,
+  "other_videos_without_sony_lut": 130,
+  "distinct_story_concepts": 17,
+  "derived_versions": 8,
+  "mandatory_reference_mapping": {
+    "ref-01": "02",
+    "ref-02": "05",
+    "ref-03": "04"
+  },
+  "review_limits": "Every video covered by full-span one-second contact samples and exact final frame. Selected larger contacts checked. This is not every-frame full-resolution QA or verified listening. Approximate cues require frame-accurate review at individual editing stage.",
+  "concepts": [
+    {
+      "id": "01",
+      "title": "Sports \u2014 Jet Kids in Action",
+      "duration_seconds": [
+        40,
+        55
+      ],
+      "bucket": "Main film",
+      "hook": "Cricket swing \u2192 kabaddi lunge \u2192 kho-kho chase, 3 quick action beats.",
+      "story": [
+        "Action hook",
+        "Outdoor games: cricket, kabaddi, kho-kho",
+        "Indoor contrast: chess hand move + table-tennis hit",
+        "Coordinated drill / cheering",
+        "Team celebration + original logo"
+      ],
+      "source_pools": [
+        [
+          27,
+          29
+        ],
+        [
+          94,
+          95
+        ],
+        [
+          102,
+          103
+        ],
+        [
+          152,
+          158
+        ],
+        [
+          224,
+          233
+        ],
+        [
+          259,
+          266
+        ],
+        [
+          271,
+          284
+        ],
+        [
+          303,
+          304
+        ],
+        [
+          310,
+          319
+        ],
+        [
+          368,
+          391
+        ],
+        [
+          442,
+          449
+        ]
+      ],
+      "audio_direction_for_later": "Selected Zinda, source0\u201350s, 50s excerpt. See music-cues.json / music-assets.json / beats / premiere-markers. User structural cues and auto beats remain listening-unverified.",
+      "mandatory_reference": [],
+      "overlap_rule": "Sports montage gets 1\u20132 signature beats per sport. Save complete exchanges for dedicated game reels.",
+      "edit_notes": "Landscape keeps ball, players and court geography visible. No invented scores, winners or discipline names.",
+      "source_pool_summary": [
+        {
+          "first_id": 27,
+          "last_id": 29,
+          "first_clip": "Videos/1/C4132.MP4",
+          "last_clip": "Videos/1/C4134.MP4",
+          "clips": 3
+        },
+        {
+          "first_id": 94,
+          "last_id": 95,
+          "first_clip": "Videos/1/C4200.MP4",
+          "last_clip": "Videos/1/C4201.MP4",
+          "clips": 2
+        },
+        {
+          "first_id": 102,
+          "last_id": 103,
+          "first_clip": "Videos/1/C4208.MP4",
+          "last_clip": "Videos/1/C4209.MP4",
+          "clips": 2
+        },
+        {
+          "first_id": 152,
+          "last_id": 158,
+          "first_clip": "Videos/1/C4258.MP4",
+          "last_clip": "Videos/1/C4264.MP4",
+          "clips": 7
+        },
+        {
+          "first_id": 224,
+          "last_id": 233,
+          "first_clip": "Videos/1/C4330.MP4",
+          "last_clip": "Videos/1/C4339.MP4",
+          "clips": 10
+        },
+        {
+          "first_id": 259,
+          "last_id": 266,
+          "first_clip": "Videos/1/C4366.MP4",
+          "last_clip": "Videos/1/C4373.MP4",
+          "clips": 8
+        },
+        {
+          "first_id": 271,
+          "last_id": 284,
+          "first_clip": "Videos/1/C4378.MP4",
+          "last_clip": "Videos/1/C4391.MP4",
+          "clips": 14
+        },
+        {
+          "first_id": 303,
+          "last_id": 304,
+          "first_clip": "Videos/1/C4410.MP4",
+          "last_clip": "Videos/1/C4411.MP4",
+          "clips": 2
+        },
+        {
+          "first_id": 310,
+          "last_id": 319,
+          "first_clip": "Videos/1/C4417.MP4",
+          "last_clip": "Videos/1/C4426.MP4",
+          "clips": 10
+        },
+        {
+          "first_id": 368,
+          "last_id": 391,
+          "first_clip": "Videos/2/C3297.MP4",
+          "last_clip": "Videos/2/C3320.MP4",
+          "clips": 24
+        },
+        {
+          "first_id": 442,
+          "last_id": 449,
+          "first_clip": "Videos/2/C3371.MP4",
+          "last_clip": "Videos/2/C3378.MP4",
+          "clips": 8
+        }
+      ],
+      "candidate_cues": [
+        {
+          "source_id": "S027",
+          "clip": "Videos/1/C4132.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 2.4,
+          "purpose": "Bat swing candidate; align exact contact later",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S259",
+          "clip": "Videos/1/C4366.MP4",
+          "source_in_seconds": 18,
+          "source_out_seconds": 22,
+          "purpose": "Kabaddi tackle",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S281",
+          "clip": "Videos/1/C4388.MP4",
+          "source_in_seconds": 4,
+          "source_out_seconds": 7,
+          "purpose": "Kho-kho direction change",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S102",
+          "clip": "Videos/1/C4208.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 3,
+          "purpose": "Chess move",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S231",
+          "clip": "Videos/1/C4337.MP4",
+          "source_in_seconds": 9,
+          "source_out_seconds": 13,
+          "purpose": "Coordinated prop lift",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        }
+      ],
+      "selected_music_asset": "jetkids-music-01",
+      "selected_duration_seconds": 50
+    },
+    {
+      "id": "02",
+      "title": "Guest Entry + Ribbon Cutting",
+      "duration_seconds": [
+        35,
+        45
+      ],
+      "bucket": "Main film",
+      "hook": "School sign \u2192 car door/handshake \u2192 band welcome.",
+      "story": [
+        "Venue identity",
+        "Guest vehicle arrival and greeting",
+        "School band procession + tilak",
+        "Scissors/ribbon cut",
+        "Applause and group walk \u2192 logo"
+      ],
+      "source_pools": [
+        [
+          14,
+          14
+        ],
+        [
+          159,
+          165
+        ],
+        [
+          167,
+          172
+        ],
+        [
+          183,
+          192
+        ],
+        [
+          200,
+          205
+        ],
+        [
+          355,
+          358
+        ]
+      ],
+      "audio_direction_for_later": "Selected Shubhaarambh, source0\u201345s, 45s excerpt. See music-cues.json / music-assets.json / beats / premiere-markers. User structural cues and auto beats remain listening-unverified.",
+      "mandatory_reference": [
+        "ref-01"
+      ],
+      "overlap_rule": "Keep this story focused on arrival and ribbon; lamp ritual/felicitation belong mainly to 05/14.",
+      "edit_notes": "C4306 actual ribbon action around0\u20134s. Preserve hands, ribbon and scissors together. Vehicle numbers need not be enlarged.",
+      "source_pool_summary": [
+        {
+          "first_id": 14,
+          "last_id": 14,
+          "first_clip": "Videos/1/C4119.MP4",
+          "last_clip": "Videos/1/C4119.MP4",
+          "clips": 1
+        },
+        {
+          "first_id": 159,
+          "last_id": 165,
+          "first_clip": "Videos/1/C4265.MP4",
+          "last_clip": "Videos/1/C4271.MP4",
+          "clips": 7
+        },
+        {
+          "first_id": 167,
+          "last_id": 172,
+          "first_clip": "Videos/1/C4273.MP4",
+          "last_clip": "Videos/1/C4278.MP4",
+          "clips": 6
+        },
+        {
+          "first_id": 183,
+          "last_id": 192,
+          "first_clip": "Videos/1/C4289.MP4",
+          "last_clip": "Videos/1/C4298.MP4",
+          "clips": 10
+        },
+        {
+          "first_id": 200,
+          "last_id": 205,
+          "first_clip": "Videos/1/C4306.MP4",
+          "last_clip": "Videos/1/C4311.MP4",
+          "clips": 6
+        },
+        {
+          "first_id": 355,
+          "last_id": 358,
+          "first_clip": "Videos/2/C3284.MP4",
+          "last_clip": "Videos/2/C3287.MP4",
+          "clips": 4
+        }
+      ],
+      "candidate_cues": [
+        {
+          "source_id": "S159",
+          "clip": "Videos/1/C4265.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 12,
+          "purpose": "Vehicle arrival/greeting; choose settled subsection",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S162",
+          "clip": "Videos/1/C4268.MP4",
+          "source_in_seconds": 6,
+          "source_out_seconds": 16,
+          "purpose": "Band welcome",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S191",
+          "clip": "Videos/1/C4297.MP4",
+          "source_in_seconds": 24,
+          "source_out_seconds": 27,
+          "purpose": "Tilak gesture",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S200",
+          "clip": "Videos/1/C4306.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 4,
+          "purpose": "Actual ribbon cut",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        }
+      ],
+      "selected_music_asset": "jetkids-music-02",
+      "selected_duration_seconds": 45
+    },
+    {
+      "id": "03",
+      "title": "Teachers \u2014 Game On!",
+      "duration_seconds": [
+        35,
+        50
+      ],
+      "bucket": "Main film",
+      "hook": "A clear balloon/hoop action followed by a genuine laugh.",
+      "story": [
+        "Teachers lineup / anticipation",
+        "Hoop game interaction",
+        "Balloon pair race with a complete start\u2192action\u2192reaction",
+        "Clapping, laughter and teacher-child warmth",
+        "Group smiles \u2192 logo"
+      ],
+      "source_pools": [
+        [
+          2,
+          5
+        ],
+        [
+          105,
+          128
+        ],
+        [
+          132,
+          151
+        ],
+        [
+          129,
+          131
+        ],
+        [
+          392,
+          432
+        ]
+      ],
+      "audio_direction_for_later": "Selected Galti Se Mistake, source0\u201348s, 48s excerpt. See music-cues.json / music-assets.json / beats / premiere-markers. User structural cues and auto beats remain listening-unverified.",
+      "mandatory_reference": [],
+      "overlap_rule": "Reserve one best hoop exchange and balloon finish for this main film. Short versions are derivatives, not new event stories.",
+      "edit_notes": "Do not turn awkward clothing-adjustment/failed-focus shots into jokes. Teachers identities/roles should be confirmed before name labels.",
+      "source_pool_summary": [
+        {
+          "first_id": 2,
+          "last_id": 5,
+          "first_clip": "Photos/1/DCIM/108NZ6_2/DSC_7744.MOV",
+          "last_clip": "Photos/1/DCIM/108NZ6_2/DSC_7750.MOV",
+          "clips": 4
+        },
+        {
+          "first_id": 105,
+          "last_id": 128,
+          "first_clip": "Videos/1/C4211.MP4",
+          "last_clip": "Videos/1/C4234.MP4",
+          "clips": 24
+        },
+        {
+          "first_id": 132,
+          "last_id": 151,
+          "first_clip": "Videos/1/C4238.MP4",
+          "last_clip": "Videos/1/C4257.MP4",
+          "clips": 20
+        },
+        {
+          "first_id": 129,
+          "last_id": 131,
+          "first_clip": "Videos/1/C4235.MP4",
+          "last_clip": "Videos/1/C4237.MP4",
+          "clips": 3
+        },
+        {
+          "first_id": 392,
+          "last_id": 432,
+          "first_clip": "Videos/2/C3321.MP4",
+          "last_clip": "Videos/2/C3361.MP4",
+          "clips": 41
+        }
+      ],
+      "candidate_cues": [
+        {
+          "source_id": "S111",
+          "clip": "Videos/1/C4217.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 4,
+          "purpose": "Teacher hoop action; inspect exact exchange",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S120",
+          "clip": "Videos/1/C4226.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 5,
+          "purpose": "Hoop game and applause",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S144",
+          "clip": "Videos/1/C4250.MP4",
+          "source_in_seconds": 2,
+          "source_out_seconds": 5,
+          "purpose": "Paired balloon race",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S126",
+          "clip": "Videos/1/C4232.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 1.92,
+          "purpose": "Teacher-child warm interaction",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        }
+      ],
+      "selected_music_asset": "jetkids-music-03",
+      "selected_duration_seconds": 48
+    },
+    {
+      "id": "04",
+      "title": "Complete Event \u2014 The Day at Jet Kids",
+      "duration_seconds": [
+        48,
+        52
+      ],
+      "bucket": "Main film",
+      "hook": "Trophy/venue reveal and one punchy sports moment, then chronological journey.",
+      "story": [
+        "School and prepared venue",
+        "Arrival, band, tilak",
+        "Lamp and ribbon inauguration",
+        "Guest felicitation / student hosts",
+        "Drill and games across sports",
+        "Teachers participation and cheering",
+        "Trophy/celebration / warm farewell where coverage supports it",
+        "Original logo"
+      ],
+      "source_pools": [
+        [
+          6,
+          21
+        ],
+        [
+          159,
+          223
+        ],
+        [
+          224,
+          284
+        ],
+        [
+          288,
+          302
+        ],
+        [
+          330,
+          350
+        ],
+        [
+          392,
+          408
+        ],
+        [
+          433,
+          437
+        ],
+        [
+          449,
+          463
+        ],
+        [
+          469,
+          475
+        ]
+      ],
+      "audio_direction_for_later": "Selected Ilahi, source35\u201385s, 50s excerpt. See music-cues.json / music-assets.json / beats / premiere-markers. User structural cues and auto beats remain listening-unverified.",
+      "mandatory_reference": [
+        "ref-03"
+      ],
+      "overlap_rule": "This is the umbrella recap. Use short highlights and alternate takes; dedicated films carry full interactions.",
+      "edit_notes": "Do not stretch the reference audio or silently loop it to meet65\u201385s. Option:52s reference-matched cut plus a separate longer event film once music is chosen.",
+      "source_pool_summary": [
+        {
+          "first_id": 6,
+          "last_id": 21,
+          "first_clip": "Videos/1/C4111.MP4",
+          "last_clip": "Videos/1/C4126.MP4",
+          "clips": 16
+        },
+        {
+          "first_id": 159,
+          "last_id": 223,
+          "first_clip": "Videos/1/C4265.MP4",
+          "last_clip": "Videos/1/C4329.MP4",
+          "clips": 65
+        },
+        {
+          "first_id": 224,
+          "last_id": 284,
+          "first_clip": "Videos/1/C4330.MP4",
+          "last_clip": "Videos/1/C4391.MP4",
+          "clips": 61
+        },
+        {
+          "first_id": 288,
+          "last_id": 302,
+          "first_clip": "Videos/1/C4395.MP4",
+          "last_clip": "Videos/1/C4409.MP4",
+          "clips": 15
+        },
+        {
+          "first_id": 330,
+          "last_id": 350,
+          "first_clip": "Videos/1/C4437.MP4",
+          "last_clip": "Videos/1/C4457.MP4",
+          "clips": 21
+        },
+        {
+          "first_id": 392,
+          "last_id": 408,
+          "first_clip": "Videos/2/C3321.MP4",
+          "last_clip": "Videos/2/C3337.MP4",
+          "clips": 17
+        },
+        {
+          "first_id": 433,
+          "last_id": 437,
+          "first_clip": "Videos/2/C3362.MP4",
+          "last_clip": "Videos/2/C3366.MP4",
+          "clips": 5
+        },
+        {
+          "first_id": 449,
+          "last_id": 463,
+          "first_clip": "Videos/2/C3378.MP4",
+          "last_clip": "Videos/2/C3392.MP4",
+          "clips": 15
+        },
+        {
+          "first_id": 469,
+          "last_id": 475,
+          "first_clip": "Videos/2/C3398.MP4",
+          "last_clip": "Videos/2/C3404.MP4",
+          "clips": 7
+        }
+      ],
+      "candidate_cues": [
+        {
+          "source_id": "S014",
+          "clip": "Videos/1/C4119.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 2,
+          "purpose": "School identity",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S191",
+          "clip": "Videos/1/C4297.MP4",
+          "source_in_seconds": 11,
+          "source_out_seconds": 14,
+          "purpose": "Welcome gesture",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S194",
+          "clip": "Videos/1/C4300.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 3,
+          "purpose": "Lamp sequence",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S200",
+          "clip": "Videos/1/C4306.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 4,
+          "purpose": "Ribbon cut",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S217",
+          "clip": "Videos/1/C4323.MP4",
+          "source_in_seconds": 6,
+          "source_out_seconds": 10,
+          "purpose": "Guest felicitation",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S225",
+          "clip": "Videos/1/C4331.MP4",
+          "source_in_seconds": 35,
+          "source_out_seconds": 40,
+          "purpose": "Fitness/drill formation",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S259",
+          "clip": "Videos/1/C4366.MP4",
+          "source_in_seconds": 18,
+          "source_out_seconds": 22,
+          "purpose": "Kabaddi",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        }
+      ],
+      "selected_music_asset": "jetkids-music-04",
+      "selected_duration_seconds": 50
+    },
+    {
+      "id": "05",
+      "title": "Ceremonial Opening \u2014 A New Beginning",
+      "duration_seconds": [
+        45,
+        60
+      ],
+      "bucket": "Reference-led film",
+      "hook": "Lamp detail \u2192 tilak close gesture \u2192 flames / folded hands.",
+      "story": [
+        "Altar, flowers and lamp details",
+        "Warm guest welcome",
+        "Floral offering / prayer sequence",
+        "Lamp lighting",
+        "Ribbon and court reveal",
+        "Brief felicitation / group frame \u2192 logo"
+      ],
+      "source_pools": [
+        [
+          7,
+          8
+        ],
+        [
+          100,
+          101
+        ],
+        [
+          189,
+          200
+        ],
+        [
+          213,
+          221
+        ]
+      ],
+      "audio_direction_for_later": "Selected Deva Deva, source30\u201385s, 55s excerpt. See music-cues.json / music-assets.json / beats / premiere-markers. User structural cues and auto beats remain listening-unverified.",
+      "mandatory_reference": [
+        "ref-02"
+      ],
+      "overlap_rule": "Different emphasis from02: ritual and launch journey. Reuse only one ribbon payoff, use different arrival selects.",
+      "edit_notes": "This fulfils the second mandatory reference treatment. Avoid repeating every guest offering; keep one clear complete gesture and varied reactions.",
+      "source_pool_summary": [
+        {
+          "first_id": 7,
+          "last_id": 8,
+          "first_clip": "Videos/1/C4112.MP4",
+          "last_clip": "Videos/1/C4113.MP4",
+          "clips": 2
+        },
+        {
+          "first_id": 100,
+          "last_id": 101,
+          "first_clip": "Videos/1/C4206.MP4",
+          "last_clip": "Videos/1/C4207.MP4",
+          "clips": 2
+        },
+        {
+          "first_id": 189,
+          "last_id": 200,
+          "first_clip": "Videos/1/C4295.MP4",
+          "last_clip": "Videos/1/C4306.MP4",
+          "clips": 12
+        },
+        {
+          "first_id": 213,
+          "last_id": 221,
+          "first_clip": "Videos/1/C4319.MP4",
+          "last_clip": "Videos/1/C4327.MP4",
+          "clips": 9
+        }
+      ],
+      "candidate_cues": [
+        {
+          "source_id": "S008",
+          "clip": "Videos/1/C4113.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 2,
+          "purpose": "Lamp detail",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S191",
+          "clip": "Videos/1/C4297.MP4",
+          "source_in_seconds": 36,
+          "source_out_seconds": 39,
+          "purpose": "Tilak welcome",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S193",
+          "clip": "Videos/1/C4299.MP4",
+          "source_in_seconds": 24,
+          "source_out_seconds": 29,
+          "purpose": "Ceremonial offering; select unblocked section",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S194",
+          "clip": "Videos/1/C4300.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 3,
+          "purpose": "Lamp-lighting candidate",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S200",
+          "clip": "Videos/1/C4306.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 4,
+          "purpose": "Ribbon payoff",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        }
+      ],
+      "selected_music_asset": "jetkids-music-05",
+      "selected_duration_seconds": 55
+    },
+    {
+      "id": "06",
+      "title": "Cricket \u2014 Bat, Ball, Team Spirit",
+      "duration_seconds": [
+        30,
+        45
+      ],
+      "bucket": "Dedicated sport",
+      "hook": "Decisive bat swing and immediate player reaction.",
+      "story": [
+        "Bat/gloves/stance",
+        "Bowler preparation and delivery",
+        "Bat contact / run / fielding",
+        "Opposing team reactions",
+        "Huddle and celebration \u2192 logo"
+      ],
+      "source_pools": [
+        [
+          22,
+          59
+        ],
+        [
+          70,
+          81
+        ],
+        [
+          87,
+          96
+        ],
+        [
+          310,
+          324
+        ],
+        [
+          363,
+          391
+        ],
+        [
+          442,
+          454
+        ]
+      ],
+      "audio_direction_for_later": "Selected Chale Chalo, source70\u2013115s, 45s excerpt. See music-cues.json / music-assets.json / beats / premiere-markers. User structural cues and auto beats remain listening-unverified.",
+      "mandatory_reference": [],
+      "overlap_rule": "Use sustained cricket sequence and alternate takes to01. Guest ceremonial batting belongs to16.",
+      "edit_notes": "C4143 has48native100fps frames: short accent only. C4163/C4182/C4183/C4184 are25fps and unsuitable for native slow motion at30fps.",
+      "source_pool_summary": [
+        {
+          "first_id": 22,
+          "last_id": 59,
+          "first_clip": "Videos/1/C4127.MP4",
+          "last_clip": "Videos/1/C4164.MP4",
+          "clips": 38
+        },
+        {
+          "first_id": 70,
+          "last_id": 81,
+          "first_clip": "Videos/1/C4175.MP4",
+          "last_clip": "Videos/1/C4186.MP4",
+          "clips": 12
+        },
+        {
+          "first_id": 87,
+          "last_id": 96,
+          "first_clip": "Videos/1/C4192.MP4",
+          "last_clip": "Videos/1/C4202.MP4",
+          "clips": 10
+        },
+        {
+          "first_id": 310,
+          "last_id": 324,
+          "first_clip": "Videos/1/C4417.MP4",
+          "last_clip": "Videos/1/C4431.MP4",
+          "clips": 15
+        },
+        {
+          "first_id": 363,
+          "last_id": 391,
+          "first_clip": "Videos/2/C3292.MP4",
+          "last_clip": "Videos/2/C3320.MP4",
+          "clips": 29
+        },
+        {
+          "first_id": 442,
+          "last_id": 454,
+          "first_clip": "Videos/2/C3371.MP4",
+          "last_clip": "Videos/2/C3383.MP4",
+          "clips": 13
+        }
+      ],
+      "candidate_cues": [
+        {
+          "source_id": "S048",
+          "clip": "Videos/1/C4153.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 5,
+          "purpose": "Longer batter take; find best swing",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S079",
+          "clip": "Videos/1/C4184.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 12,
+          "purpose": "Delivery/run sequence",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S090",
+          "clip": "Videos/1/C4195.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 2,
+          "purpose": "Player claps",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S094",
+          "clip": "Videos/1/C4200.MP4",
+          "source_in_seconds": 8,
+          "source_out_seconds": 14,
+          "purpose": "Team celebration",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        }
+      ],
+      "selected_music_asset": "jetkids-music-06",
+      "selected_duration_seconds": 45
+    },
+    {
+      "id": "07",
+      "title": "Kabaddi \u2014 Hold the Line",
+      "duration_seconds": [
+        25,
+        40
+      ],
+      "bucket": "Dedicated sport",
+      "hook": "A clean raid\u2192lunge/tackle, with court context retained.",
+      "story": [
+        "Defender chain",
+        "Raider probes and changes direction",
+        "One continuous decisive exchange",
+        "Collective tackle / recovery",
+        "Team/guest reaction \u2192 logo"
+      ],
+      "source_pools": [
+        [
+          257,
+          266
+        ],
+        [
+          297,
+          297
+        ],
+        [
+          303,
+          304
+        ]
+      ],
+      "audio_direction_for_later": "Selected Dangal, source0\u201338s, 38s excerpt. See music-cues.json / music-assets.json / beats / premiere-markers. User structural cues and auto beats remain listening-unverified.",
+      "mandatory_reference": [],
+      "overlap_rule": "Keep best complete raid for this film;01 gets a different quick lunge.",
+      "edit_notes": "C4366~19\u201321s and C4373~14\u201319s are tackle candidates. Do not imply a point/result from the isolated action. Avoid dwelling on falls.",
+      "source_pool_summary": [
+        {
+          "first_id": 257,
+          "last_id": 266,
+          "first_clip": "Videos/1/C4364.MP4",
+          "last_clip": "Videos/1/C4373.MP4",
+          "clips": 10
+        },
+        {
+          "first_id": 297,
+          "last_id": 297,
+          "first_clip": "Videos/1/C4404.MP4",
+          "last_clip": "Videos/1/C4404.MP4",
+          "clips": 1
+        },
+        {
+          "first_id": 303,
+          "last_id": 304,
+          "first_clip": "Videos/1/C4410.MP4",
+          "last_clip": "Videos/1/C4411.MP4",
+          "clips": 2
+        }
+      ],
+      "candidate_cues": [
+        {
+          "source_id": "S257",
+          "clip": "Videos/1/C4364.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 4,
+          "purpose": "Guest at kabaddi opening",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S259",
+          "clip": "Videos/1/C4366.MP4",
+          "source_in_seconds": 18,
+          "source_out_seconds": 22,
+          "purpose": "Collective tackle",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S261",
+          "clip": "Videos/1/C4368.MP4",
+          "source_in_seconds": 3,
+          "source_out_seconds": 16,
+          "purpose": "Raid and defenders; choose complete exchange",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S266",
+          "clip": "Videos/1/C4373.MP4",
+          "source_in_seconds": 14,
+          "source_out_seconds": 19,
+          "purpose": "Tackle and recovery",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S304",
+          "clip": "Videos/1/C4411.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 3,
+          "purpose": "Players raised arms",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        }
+      ],
+      "selected_music_asset": "jetkids-music-07",
+      "selected_duration_seconds": 38
+    },
+    {
+      "id": "08",
+      "title": "Kho-Kho \u2014 Chase the Moment",
+      "duration_seconds": [
+        25,
+        35
+      ],
+      "bucket": "Dedicated sport",
+      "hook": "Runner changes direction around seated line.",
+      "story": [
+        "Court line / seated formation",
+        "Fast running passes",
+        "Direction change / turn",
+        "Second angle and spectators",
+        "Team energy \u2192 logo"
+      ],
+      "source_pools": [
+        [
+          269,
+          284
+        ]
+      ],
+      "audio_direction_for_later": "Selected Bhaag Milkha Bhaag Rock Version, source50\u201385s, 35s excerpt. See music-cues.json / music-assets.json / beats / premiere-markers. User structural cues and auto beats remain listening-unverified.",
+      "mandatory_reference": [],
+      "overlap_rule": "Distinct chase geography, not another generic all-sports montage.",
+      "edit_notes": "C4388~4\u20137s strong turn candidate. Retain seated formation/poles and the runner in landscape.",
+      "source_pool_summary": [
+        {
+          "first_id": 269,
+          "last_id": 284,
+          "first_clip": "Videos/1/C4376.MP4",
+          "last_clip": "Videos/1/C4391.MP4",
+          "clips": 16
+        }
+      ],
+      "candidate_cues": [
+        {
+          "source_id": "S270",
+          "clip": "Videos/1/C4377.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 5,
+          "purpose": "Teams/court setup",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S271",
+          "clip": "Videos/1/C4378.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 4,
+          "purpose": "Seated line",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S281",
+          "clip": "Videos/1/C4388.MP4",
+          "source_in_seconds": 4,
+          "source_out_seconds": 7,
+          "purpose": "Runner turn",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S284",
+          "clip": "Videos/1/C4391.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 3,
+          "purpose": "Low-angle runner pass",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        }
+      ],
+      "selected_music_asset": "jetkids-music-08",
+      "selected_duration_seconds": 35
+    },
+    {
+      "id": "09",
+      "title": "Chess \u2014 Small Moves, Big Focus",
+      "duration_seconds": [
+        15,
+        25
+      ],
+      "bucket": "Dedicated sport",
+      "hook": "Student hand moves a piece; cut to concentrated face.",
+      "story": [
+        "Room/board establish",
+        "Hand and pieces",
+        "Opposing student studies board",
+        "Second considered move / focused reaction",
+        "Board detail \u2192 logo"
+      ],
+      "source_pools": [
+        [
+          9,
+          10
+        ],
+        [
+          102,
+          103
+        ]
+      ],
+      "audio_direction_for_later": "Selected Wazir Theme, source0\u201325s, 25s excerpt. See music-cues.json / music-assets.json / beats / premiere-markers. User structural cues and auto beats remain listening-unverified.",
+      "mandatory_reference": [],
+      "overlap_rule": "Short focused film; do not inflate to40s with repeated moves or photos.",
+      "edit_notes": "Only a small number of active chess takes. Do not claim checkmate or victory. Trim C4208 floor-directed ending.",
+      "source_pool_summary": [
+        {
+          "first_id": 9,
+          "last_id": 10,
+          "first_clip": "Videos/1/C4114.MP4",
+          "last_clip": "Videos/1/C4115.MP4",
+          "clips": 2
+        },
+        {
+          "first_id": 102,
+          "last_id": 103,
+          "first_clip": "Videos/1/C4208.MP4",
+          "last_clip": "Videos/1/C4209.MP4",
+          "clips": 2
+        }
+      ],
+      "candidate_cues": [
+        {
+          "source_id": "S009",
+          "clip": "Videos/1/C4114.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 2,
+          "purpose": "Chess room context",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S102",
+          "clip": "Videos/1/C4208.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 4,
+          "purpose": "Student hand/board",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S103",
+          "clip": "Videos/1/C4209.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 3,
+          "purpose": "Second student and pieces",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        }
+      ],
+      "selected_music_asset": "jetkids-music-09",
+      "selected_duration_seconds": 25
+    },
+    {
+      "id": "10",
+      "title": "Table Tennis \u2014 Eyes on the Ball",
+      "duration_seconds": [
+        20,
+        30
+      ],
+      "bucket": "Dedicated sport",
+      "hook": "Clear paddle action with ball/table visible.",
+      "story": [
+        "Table/net establish",
+        "Player ready / serve",
+        "Short rally across angles",
+        "Concentrated reaction",
+        "Final hit / smile \u2192 logo"
+      ],
+      "source_pools": [
+        [
+          11,
+          11
+        ],
+        [
+          152,
+          158
+        ]
+      ],
+      "audio_direction_for_later": "Selected Ziddi Dil, source15\u201345s, 30s excerpt. See music-cues.json / music-assets.json / beats / premiere-markers. User structural cues and auto beats remain listening-unverified.",
+      "mandatory_reference": [],
+      "overlap_rule": "Keep a readable rally here;01 uses one hit and a reaction.",
+      "edit_notes": "Some takes are25fps. Trim floor tails and avoid mirroring ball direction across cuts.",
+      "source_pool_summary": [
+        {
+          "first_id": 11,
+          "last_id": 11,
+          "first_clip": "Videos/1/C4116.MP4",
+          "last_clip": "Videos/1/C4116.MP4",
+          "clips": 1
+        },
+        {
+          "first_id": 152,
+          "last_id": 158,
+          "first_clip": "Videos/1/C4258.MP4",
+          "last_clip": "Videos/1/C4264.MP4",
+          "clips": 7
+        }
+      ],
+      "candidate_cues": [
+        {
+          "source_id": "S011",
+          "clip": "Videos/1/C4116.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 2,
+          "purpose": "Table/net context",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S152",
+          "clip": "Videos/1/C4258.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 1.44,
+          "purpose": "Paddle action",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S156",
+          "clip": "Videos/1/C4262.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 4,
+          "purpose": "Longer25fps rally",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S158",
+          "clip": "Videos/1/C4264.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 1.92,
+          "purpose": "Player reaction",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        }
+      ],
+      "selected_music_asset": "jetkids-music-10",
+      "selected_duration_seconds": 30
+    },
+    {
+      "id": "11",
+      "title": "Student Fitness / Drill \u2014 Moving Together",
+      "duration_seconds": [
+        30,
+        45
+      ],
+      "bucket": "Dedicated performance",
+      "hook": "Wide coordinated movement \u2192 closer prop lift.",
+      "story": [
+        "House-colour formation",
+        "Coordinated movements at changing scale",
+        "Prop sequence builds",
+        "Unified lift / formation climax",
+        "Children faces / applause \u2192 logo"
+      ],
+      "source_pools": [
+        [
+          224,
+          233
+        ]
+      ],
+      "audio_direction_for_later": "Selected Kandhon Se Milte Hain Kandhe, source0\u201345s, 45s excerpt. See music-cues.json / music-assets.json / beats / premiere-markers. User structural cues and auto beats remain listening-unverified.",
+      "mandatory_reference": [],
+      "overlap_rule": "Give coordinated routine room here; complete event gets only two accents.",
+      "edit_notes": "C4331~84s contains several movement changes; do not use static repetitive cycles. Describe as coordinated fitness/drill, not an unconfirmed martial-art discipline.",
+      "source_pool_summary": [
+        {
+          "first_id": 224,
+          "last_id": 233,
+          "first_clip": "Videos/1/C4330.MP4",
+          "last_clip": "Videos/1/C4339.MP4",
+          "clips": 10
+        }
+      ],
+      "candidate_cues": [
+        {
+          "source_id": "S224",
+          "clip": "Videos/1/C4330.MP4",
+          "source_in_seconds": 2,
+          "source_out_seconds": 9,
+          "purpose": "Coordinated whole-body movement",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S225",
+          "clip": "Videos/1/C4331.MP4",
+          "source_in_seconds": 35,
+          "source_out_seconds": 40,
+          "purpose": "Wide formation movement",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S226",
+          "clip": "Videos/1/C4332.MP4",
+          "source_in_seconds": 5,
+          "source_out_seconds": 12,
+          "purpose": "Closer children movements",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S231",
+          "clip": "Videos/1/C4337.MP4",
+          "source_in_seconds": 9,
+          "source_out_seconds": 13,
+          "purpose": "Unified prop lift",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        }
+      ],
+      "selected_music_asset": "jetkids-music-11",
+      "selected_duration_seconds": 45
+    },
+    {
+      "id": "12",
+      "title": "School Band \u2014 Welcome in Rhythm",
+      "duration_seconds": [
+        20,
+        30
+      ],
+      "bucket": "Dedicated welcome",
+      "hook": "Drummer hands / sticks and marching formation.",
+      "story": [
+        "Instrument detail",
+        "Band enters with guests",
+        "Side-wide formation",
+        "Guest/child response",
+        "Welcome tableau \u2192 logo"
+      ],
+      "source_pools": [
+        [
+          162,
+          163
+        ],
+        [
+          183,
+          188
+        ]
+      ],
+      "audio_direction_for_later": "Selected Azeem-O-Shaan Shahenshah, source0\u201330s, 30s excerpt. See music-cues.json / music-assets.json / beats / premiere-markers. User structural cues and auto beats remain listening-unverified.",
+      "mandatory_reference": [],
+      "overlap_rule": "Band remains lead subject. Guest reel uses it as a transition.",
+      "edit_notes": "No invented drum synchronization. C4293 side-wide is useful for complete formation; shot-specific sound needs listening verification.",
+      "source_pool_summary": [
+        {
+          "first_id": 162,
+          "last_id": 163,
+          "first_clip": "Videos/1/C4268.MP4",
+          "last_clip": "Videos/1/C4269.MP4",
+          "clips": 2
+        },
+        {
+          "first_id": 183,
+          "last_id": 188,
+          "first_clip": "Videos/1/C4289.MP4",
+          "last_clip": "Videos/1/C4294.MP4",
+          "clips": 6
+        }
+      ],
+      "candidate_cues": [
+        {
+          "source_id": "S162",
+          "clip": "Videos/1/C4268.MP4",
+          "source_in_seconds": 6,
+          "source_out_seconds": 16,
+          "purpose": "Band formation and guests",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S163",
+          "clip": "Videos/1/C4269.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 3,
+          "purpose": "Drummer close",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S183",
+          "clip": "Videos/1/C4289.MP4",
+          "source_in_seconds": 4,
+          "source_out_seconds": 12,
+          "purpose": "Procession",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S187",
+          "clip": "Videos/1/C4293.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 3,
+          "purpose": "Side-wide band formation",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        }
+      ],
+      "selected_music_asset": "jetkids-music-12",
+      "selected_duration_seconds": 30
+    },
+    {
+      "id": "13",
+      "title": "Before the Crowd \u2014 Venue Reveal",
+      "duration_seconds": [
+        15,
+        25
+      ],
+      "bucket": "Dedicated venue",
+      "hook": "JKIS trophy reveal \u2192 colourful court \u2192 school sign.",
+      "story": [
+        "School identity",
+        "Empty seating / prepared court",
+        "Chess and table-tennis facilities",
+        "Lamp/flowers and trophy details",
+        "Arrival teaser or clean logo"
+      ],
+      "source_pools": [
+        [
+          6,
+          21
+        ],
+        [
+          363,
+          367
+        ],
+        [
+          472,
+          475
+        ]
+      ],
+      "audio_direction_for_later": "Selected Roobaroo, source0\u201325s, 25s excerpt. See music-cues.json / music-assets.json / beats / premiere-markers. User structural cues and auto beats remain listening-unverified.",
+      "mandatory_reference": [],
+      "overlap_rule": "This is prepared venue/details, not a behind-the-scenes construction story.",
+      "edit_notes": "No footage of actual setup labour has been established. Do not label ready tables as the preparation process. Keep banner wording readable without endorsing its superlatives.",
+      "source_pool_summary": [
+        {
+          "first_id": 6,
+          "last_id": 21,
+          "first_clip": "Videos/1/C4111.MP4",
+          "last_clip": "Videos/1/C4126.MP4",
+          "clips": 16
+        },
+        {
+          "first_id": 363,
+          "last_id": 367,
+          "first_clip": "Videos/2/C3292.MP4",
+          "last_clip": "Videos/2/C3296.MP4",
+          "clips": 5
+        },
+        {
+          "first_id": 472,
+          "last_id": 475,
+          "first_clip": "Videos/2/C3401.MP4",
+          "last_clip": "Videos/2/C3404.MP4",
+          "clips": 4
+        }
+      ],
+      "candidate_cues": [
+        {
+          "source_id": "S014",
+          "clip": "Videos/1/C4119.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 2,
+          "purpose": "School sign",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S006",
+          "clip": "Videos/1/C4111.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 2,
+          "purpose": "Empty seating/court",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S009",
+          "clip": "Videos/1/C4114.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 2,
+          "purpose": "Chess room",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S011",
+          "clip": "Videos/1/C4116.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 2,
+          "purpose": "Table tennis",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S017",
+          "clip": "Videos/1/C4122.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 2,
+          "purpose": "Trophy hero",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        }
+      ],
+      "selected_music_asset": "jetkids-music-13",
+      "selected_duration_seconds": 25
+    },
+    {
+      "id": "14",
+      "title": "Honouring Our Guests",
+      "duration_seconds": [
+        25,
+        40
+      ],
+      "bucket": "Dedicated felicitation",
+      "hook": "Shawl/memento handover with a genuine smile.",
+      "story": [
+        "Student host as visual context",
+        "One complete shawl/memento handover",
+        "Women guests felicitation",
+        "Handshake and smiles",
+        "Group applause / warm close \u2192 logo"
+      ],
+      "source_pools": [
+        [
+          209,
+          223
+        ],
+        [
+          435,
+          437
+        ]
+      ],
+      "audio_direction_for_later": "Selected Aashayein, source48\u201385s, 37s excerpt. See music-cues.json / music-assets.json / beats / premiere-markers. User structural cues and auto beats remain listening-unverified.",
+      "mandatory_reference": [],
+      "overlap_rule": "Full-event film gets a single handover; this film uses complete interactions and different guests.",
+      "edit_notes": "C4321/C4322/C4323 strong handover/pose candidates; trim C4324 unstable tail. No guessed names, job titles or speech captions.",
+      "source_pool_summary": [
+        {
+          "first_id": 209,
+          "last_id": 223,
+          "first_clip": "Videos/1/C4315.MP4",
+          "last_clip": "Videos/1/C4329.MP4",
+          "clips": 15
+        },
+        {
+          "first_id": 435,
+          "last_id": 437,
+          "first_clip": "Videos/2/C3364.MP4",
+          "last_clip": "Videos/2/C3366.MP4",
+          "clips": 3
+        }
+      ],
+      "candidate_cues": [
+        {
+          "source_id": "S213",
+          "clip": "Videos/1/C4319.MP4",
+          "source_in_seconds": 3,
+          "source_out_seconds": 12,
+          "purpose": "Shawl/memento handover",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S215",
+          "clip": "Videos/1/C4321.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 5,
+          "purpose": "Guest smile/handshake",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S217",
+          "clip": "Videos/1/C4323.MP4",
+          "source_in_seconds": 6,
+          "source_out_seconds": 10,
+          "purpose": "Women guests honouring",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S220",
+          "clip": "Videos/1/C4326.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 4,
+          "purpose": "Memento pose",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        }
+      ],
+      "selected_music_asset": "jetkids-music-14",
+      "selected_duration_seconds": 37
+    },
+    {
+      "id": "15",
+      "title": "Trophies + Team Celebration",
+      "duration_seconds": [
+        20,
+        35
+      ],
+      "bucket": "Dedicated celebration",
+      "hook": "Trophy close reveal \u2192 raised hands / smiling team.",
+      "story": [
+        "Trophy detail",
+        "Competitive effort flashbacks",
+        "Actual handover if later coverage confirms it",
+        "Team celebration and group",
+        "Trophy / logo"
+      ],
+      "source_pools": [
+        [
+          17,
+          21
+        ],
+        [
+          89,
+          95
+        ],
+        [
+          236,
+          241
+        ],
+        [
+          320,
+          324
+        ],
+        [
+          330,
+          345
+        ],
+        [
+          449,
+          454
+        ],
+        [
+          469,
+          471
+        ]
+      ],
+      "audio_direction_for_later": "Selected Jeet, source45\u201375s, 30s excerpt. See music-cues.json / music-assets.json / beats / premiere-markers. User structural cues and auto beats remain listening-unverified.",
+      "mandatory_reference": [],
+      "overlap_rule": "Use award/celebration coverage, not a second cricket highlights reel.",
+      "edit_notes": "Actual individual trophy handovers and group trophy lift are present in late coverage. Do not label winners, ranks or match outcomes without checking evidence.",
+      "source_pool_summary": [
+        {
+          "first_id": 17,
+          "last_id": 21,
+          "first_clip": "Videos/1/C4122.MP4",
+          "last_clip": "Videos/1/C4126.MP4",
+          "clips": 5
+        },
+        {
+          "first_id": 89,
+          "last_id": 95,
+          "first_clip": "Videos/1/C4194.MP4",
+          "last_clip": "Videos/1/C4201.MP4",
+          "clips": 7
+        },
+        {
+          "first_id": 236,
+          "last_id": 241,
+          "first_clip": "Videos/1/C4343.MP4",
+          "last_clip": "Videos/1/C4348.MP4",
+          "clips": 6
+        },
+        {
+          "first_id": 320,
+          "last_id": 324,
+          "first_clip": "Videos/1/C4427.MP4",
+          "last_clip": "Videos/1/C4431.MP4",
+          "clips": 5
+        },
+        {
+          "first_id": 330,
+          "last_id": 345,
+          "first_clip": "Videos/1/C4437.MP4",
+          "last_clip": "Videos/1/C4452.MP4",
+          "clips": 16
+        },
+        {
+          "first_id": 449,
+          "last_id": 454,
+          "first_clip": "Videos/2/C3378.MP4",
+          "last_clip": "Videos/2/C3383.MP4",
+          "clips": 6
+        },
+        {
+          "first_id": 469,
+          "last_id": 471,
+          "first_clip": "Videos/2/C3398.MP4",
+          "last_clip": "Videos/2/C3400.MP4",
+          "clips": 3
+        }
+      ],
+      "candidate_cues": [
+        {
+          "source_id": "S017",
+          "clip": "Videos/1/C4122.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 2,
+          "purpose": "Trophy reveal",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S019",
+          "clip": "Videos/1/C4124.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 2,
+          "purpose": "Trophy table",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S094",
+          "clip": "Videos/1/C4200.MP4",
+          "source_in_seconds": 8,
+          "source_out_seconds": 14,
+          "purpose": "Team celebration",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S238",
+          "clip": "Videos/1/C4345.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 4,
+          "purpose": "Large trophy guest group",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S333",
+          "clip": "Videos/1/C4440.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 3.36,
+          "purpose": "Individual trophy presentation",
+          "precision": "Approximate candidate"
+        },
+        {
+          "source_id": "S341",
+          "clip": "Videos/1/C4448.MP4",
+          "source_in_seconds": 3,
+          "source_out_seconds": 7,
+          "purpose": "Group trophy/arms raised",
+          "precision": "Approximate candidate"
+        }
+      ],
+      "selected_music_asset": "jetkids-music-15",
+      "selected_duration_seconds": 30
+    },
+    {
+      "id": "16",
+      "title": "When Guests Join the Game",
+      "duration_seconds": [
+        25,
+        40
+      ],
+      "bucket": "Dedicated human moment",
+      "hook": "Guest batting swing or playful court participation.",
+      "story": [
+        "Guest leaves formal ceremony behind",
+        "First bat / cricket interaction",
+        "Guest with children on kabaddi court",
+        "Ceremonial football kick if clean",
+        "Applause and smiles \u2192 logo"
+      ],
+      "source_pools": [
+        [
+          240,
+          257
+        ],
+        [
+          292,
+          302
+        ],
+        [
+          303,
+          308
+        ],
+        [
+          355,
+          362
+        ]
+      ],
+      "audio_direction_for_later": "Selected Sooraj Ki Baahon Mein, source0\u201340s, 40s excerpt. See music-cues.json / music-assets.json / beats / premiere-markers. User structural cues and auto beats remain listening-unverified.",
+      "mandatory_reference": [],
+      "overlap_rule": "Unifies guest sporting participation. No separate full football-match reel unless actual match coverage exists.",
+      "edit_notes": "C4351/C4354/C4356 swings; C4364 guest joins kabaddi. C4406\u2013C4409 show guests on football area. Exclude crossings/blocked ends.",
+      "source_pool_summary": [
+        {
+          "first_id": 240,
+          "last_id": 257,
+          "first_clip": "Videos/1/C4347.MP4",
+          "last_clip": "Videos/1/C4364.MP4",
+          "clips": 18
+        },
+        {
+          "first_id": 292,
+          "last_id": 302,
+          "first_clip": "Videos/1/C4399.MP4",
+          "last_clip": "Videos/1/C4409.MP4",
+          "clips": 11
+        },
+        {
+          "first_id": 303,
+          "last_id": 308,
+          "first_clip": "Videos/1/C4410.MP4",
+          "last_clip": "Videos/1/C4415.MP4",
+          "clips": 6
+        },
+        {
+          "first_id": 355,
+          "last_id": 362,
+          "first_clip": "Videos/2/C3284.MP4",
+          "last_clip": "Videos/2/C3291.MP4",
+          "clips": 8
+        }
+      ],
+      "candidate_cues": [
+        {
+          "source_id": "S244",
+          "clip": "Videos/1/C4351.MP4",
+          "source_in_seconds": 1,
+          "source_out_seconds": 4,
+          "purpose": "Guest cricket swing",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S249",
+          "clip": "Videos/1/C4356.MP4",
+          "source_in_seconds": 1,
+          "source_out_seconds": 5,
+          "purpose": "Alternate guest batting",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S257",
+          "clip": "Videos/1/C4364.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 4,
+          "purpose": "Guest joins court game",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S299",
+          "clip": "Videos/1/C4406.MP4",
+          "source_in_seconds": 2,
+          "source_out_seconds": 7,
+          "purpose": "Ceremonial kick candidate",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        }
+      ],
+      "selected_music_asset": "jetkids-music-16",
+      "selected_duration_seconds": 40
+    },
+    {
+      "id": "17",
+      "title": "The Faces of Jet Kids \u2014 Cheers and Connection",
+      "duration_seconds": [
+        20,
+        30
+      ],
+      "bucket": "Dedicated people story",
+      "hook": "Child cheering \u2192 player clapping \u2192 teacher laugh.",
+      "story": [
+        "Anticipation / concentrated child",
+        "Small cheer and applause",
+        "Teacher-child warmth",
+        "Players and guests respond",
+        "Shared group smile \u2192 logo"
+      ],
+      "source_pools": [
+        [
+          69,
+          69
+        ],
+        [
+          82,
+          90
+        ],
+        [
+          97,
+          98
+        ],
+        [
+          104,
+          104
+        ],
+        [
+          126,
+          126
+        ],
+        [
+          138,
+          151
+        ],
+        [
+          310,
+          310
+        ],
+        [
+          321,
+          329
+        ],
+        [
+          347,
+          358
+        ],
+        [
+          396,
+          408
+        ],
+        [
+          426,
+          432
+        ],
+        [
+          450,
+          466
+        ]
+      ],
+      "audio_direction_for_later": "Selected Love You Zindagi, source40\u201370s, 30s excerpt. See music-cues.json / music-assets.json / beats / premiere-markers. User structural cues and auto beats remain listening-unverified.",
+      "mandatory_reference": [],
+      "overlap_rule": "Emotional faces lead; use takes not already serving as main-film climaxes.",
+      "edit_notes": "C4203 useful face appears late~16\u201320s after mostly blocked footage. Do not infer exact emotions/quotes from ASR.",
+      "source_pool_summary": [
+        {
+          "first_id": 69,
+          "last_id": 69,
+          "first_clip": "Videos/1/C4174.MP4",
+          "last_clip": "Videos/1/C4174.MP4",
+          "clips": 1
+        },
+        {
+          "first_id": 82,
+          "last_id": 90,
+          "first_clip": "Videos/1/C4187.MP4",
+          "last_clip": "Videos/1/C4195.MP4",
+          "clips": 9
+        },
+        {
+          "first_id": 97,
+          "last_id": 98,
+          "first_clip": "Videos/1/C4203.MP4",
+          "last_clip": "Videos/1/C4204.MP4",
+          "clips": 2
+        },
+        {
+          "first_id": 104,
+          "last_id": 104,
+          "first_clip": "Videos/1/C4210.MP4",
+          "last_clip": "Videos/1/C4210.MP4",
+          "clips": 1
+        },
+        {
+          "first_id": 126,
+          "last_id": 126,
+          "first_clip": "Videos/1/C4232.MP4",
+          "last_clip": "Videos/1/C4232.MP4",
+          "clips": 1
+        },
+        {
+          "first_id": 138,
+          "last_id": 151,
+          "first_clip": "Videos/1/C4244.MP4",
+          "last_clip": "Videos/1/C4257.MP4",
+          "clips": 14
+        },
+        {
+          "first_id": 310,
+          "last_id": 310,
+          "first_clip": "Videos/1/C4417.MP4",
+          "last_clip": "Videos/1/C4417.MP4",
+          "clips": 1
+        },
+        {
+          "first_id": 321,
+          "last_id": 329,
+          "first_clip": "Videos/1/C4428.MP4",
+          "last_clip": "Videos/1/C4436.MP4",
+          "clips": 9
+        },
+        {
+          "first_id": 347,
+          "last_id": 358,
+          "first_clip": "Videos/1/C4454.MP4",
+          "last_clip": "Videos/2/C3287.MP4",
+          "clips": 12
+        },
+        {
+          "first_id": 396,
+          "last_id": 408,
+          "first_clip": "Videos/2/C3325.MP4",
+          "last_clip": "Videos/2/C3337.MP4",
+          "clips": 13
+        },
+        {
+          "first_id": 426,
+          "last_id": 432,
+          "first_clip": "Videos/2/C3355.MP4",
+          "last_clip": "Videos/2/C3361.MP4",
+          "clips": 7
+        },
+        {
+          "first_id": 450,
+          "last_id": 466,
+          "first_clip": "Videos/2/C3379.MP4",
+          "last_clip": "Videos/2/C3395.MP4",
+          "clips": 17
+        }
+      ],
+      "candidate_cues": [
+        {
+          "source_id": "S069",
+          "clip": "Videos/1/C4174.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 3,
+          "purpose": "Children cheering",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S090",
+          "clip": "Videos/1/C4195.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 2,
+          "purpose": "Player applause",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S097",
+          "clip": "Videos/1/C4203.MP4",
+          "source_in_seconds": 16,
+          "source_out_seconds": 20,
+          "purpose": "Child face after long blocked section",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        },
+        {
+          "source_id": "S126",
+          "clip": "Videos/1/C4232.MP4",
+          "source_in_seconds": 0,
+          "source_out_seconds": 1.92,
+          "purpose": "Teacher-child warmth",
+          "precision": "Approximate sampled-review candidate; frame-accurate cuts deferred"
+        }
+      ],
+      "selected_music_asset": "jetkids-music-17",
+      "selected_duration_seconds": 30
+    }
+  ],
+  "derived_cutdowns": [
+    {
+      "id": "D01",
+      "title": "Event launch teaser",
+      "duration_seconds": [
+        12,
+        15
+      ],
+      "derived_from": [
+        "04"
+      ],
+      "story": "School/trophy \u2192 welcome \u2192 ribbon \u2192 one sport \u2192 logo"
+    },
+    {
+      "id": "D02",
+      "title": "Hoop-game teachers mini",
+      "duration_seconds": [
+        15,
+        20
+      ],
+      "derived_from": [
+        "03"
+      ],
+      "story": "Lineup \u2192 complete hoop interaction \u2192 applause/laugh"
+    },
+    {
+      "id": "D03",
+      "title": "Balloon-race teachers mini",
+      "duration_seconds": [
+        15,
+        20
+      ],
+      "derived_from": [
+        "03"
+      ],
+      "story": "Pair prepares \u2192 short race \u2192 shared laughter"
+    },
+    {
+      "id": "D04",
+      "title": "Ribbon-cutting announcement",
+      "duration_seconds": [
+        10,
+        15
+      ],
+      "derived_from": [
+        "02"
+      ],
+      "story": "School identity \u2192 scissors/ribbon intact \u2192 applause \u2192 logo"
+    },
+    {
+      "id": "D05",
+      "title": "Lamp / welcome micro-story",
+      "duration_seconds": [
+        12,
+        18
+      ],
+      "derived_from": [
+        "05"
+      ],
+      "story": "Lamp detail \u2192 actual ritual gesture \u2192 warm faces"
+    },
+    {
+      "id": "D06",
+      "title": "Cricket team celebration",
+      "duration_seconds": [
+        12,
+        20
+      ],
+      "derived_from": [
+        "06",
+        "15"
+      ],
+      "story": "One action beat \u2192 team huddle \u2192 trophy/raised hands"
+    },
+    {
+      "id": "D07",
+      "title": "Guest first-play mini",
+      "duration_seconds": [
+        12,
+        20
+      ],
+      "derived_from": [
+        "16"
+      ],
+      "story": "Guest first bat or first football kick \u2192 applause; choose one activity"
+    },
+    {
+      "id": "D08",
+      "title": "Extended complete-event film",
+      "duration_seconds": [
+        75,
+        90
+      ],
+      "derived_from": [
+        "04"
+      ],
+      "story": "Longer chronological edit including indoor welcome, hosts and fuller sports; a separate track must be chosen because ref-03 is52.75s"
+    }
+  ],
+  "conditional_audio_led_ideas": [
+    {
+      "title": "Guest/player voices",
+      "possible_duration_seconds": [
+        20,
+        45
+      ],
+      "sources": [
+        "Videos/1/C4315.MP4",
+        "Videos/1/C4413.MP4",
+        "Videos/1/C4414.MP4",
+        "Videos/1/C4437.MP4",
+        "Videos/2/C3366.MP4"
+      ],
+      "gate": "Listen to the complete source, confirm intelligible meaningful speech, identity and exact words. ASR drafts are unapproved. Not counted as a ready concept."
+    },
+    {
+      "title": "Staff indoor welcome / student-host feature",
+      "possible_duration_seconds": [
+        15,
+        30
+      ],
+      "sources": [
+        "Videos/1/C4395.MP4",
+        "Videos/1/C4397.MP4",
+        "Videos/1/C4398.MP4",
+        "Videos/1/C4315.MP4",
+        "Videos/1/C4316.MP4"
+      ],
+      "gate": "Verify actual activity and audio. Can remain a sequence within03/04 instead of forcing another standalone."
+    }
+  ],
+  "recommended_edit_order": [
+    "02",
+    "03",
+    "01",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "11",
+    "15",
+    "09",
+    "10",
+    "12",
+    "13",
+    "14",
+    "16",
+    "17"
+  ],
+  "audio_status": "17 exact user-selected source links downloaded and exact slices/MP3 assets verified; structural markers and estimated beats exported. Human listening not attested.",
+  "final_reel_exports_created": 0,
+  "overview_review_export": "exports/jetkids-overview-v03.mp4",
+  "reference_audio_defaults": "Superseded by latest17-song cue sheet. Reference videos remain visual story anchors.",
+  "portrait_comparison_preview": "exports/jetkids-overview-portrait-v02.mp4"
+}

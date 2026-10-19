@@ -165,7 +165,7 @@ def main():
     sub = parser.add_subparsers(dest='command', required=True)
     sub.add_parser('doctor')
     for name in ['assets', 'scenes']:
-        p = sub.add_parser(name); p.add_argument('--query', default='');p.add_argument('--brand', choices=['atfro', 'niolearn', 'clinic']);p.add_argument('--kind');p.add_argument('--limit', type=int, default=30)
+        p = sub.add_parser(name); p.add_argument('--query', default='');p.add_argument('--brand', choices=['atfro', 'niolearn', 'clinic', 'jetkids']);p.add_argument('--kind');p.add_argument('--limit', type=int, default=30)
     p = sub.add_parser('init');p.add_argument('--brand', required=True, choices=['atfro', 'niolearn']);p.add_argument('--id', required=True);p.add_argument('--source', action='append', required=True);p.add_argument('--script')
     for name in ['preflight', 'render', 'record']:
         p = sub.add_parser(name);p.add_argument('project')
@@ -177,8 +177,9 @@ def main():
     if args.command == 'doctor':run(['python3', 'tools/doctor.py']);return
     if args.command in ['assets', 'scenes']:
         items = read(ROOT / 'catalog' / ('assets.json' if args.command == 'assets' else 'motion-scenes.json'))
-        clinic_assets=ROOT/'catalog/clinic-assets.json'
-        if args.command=='assets' and clinic_assets.is_file():items=items+read(clinic_assets)
+        for brand_catalog in ['clinic-assets.json','jetkids-assets.json']:
+            brand_assets=ROOT/'catalog'/brand_catalog
+            if args.command=='assets' and brand_assets.is_file():items=items+read(brand_assets)
         tokens = args.query.casefold().split();out = []
         for item in items:
             hay = json.dumps(item, ensure_ascii=False).casefold()

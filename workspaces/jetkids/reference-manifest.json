@@ -1,0 +1,34 @@
+{
+  "references": [
+    {
+      "id": "ref-01",
+      "original_path": "/Users/shwetaranjan/Downloads/b677812229a24e3299e884b535c6a647.MP4",
+      "local_path": "media/reference/jetkids/ref-01.mp4",
+      "sha256": "1b6c3480ef948f1bc64d5b987960f86f41bbfcee70406410ca21805c9cd829f0",
+      "duration": 41.2,
+      "role": "mandatory_reference",
+      "log_conversion": "none: finished reference video",
+      "audio_path": ".cache/jetkids/references/ref-01/reference-audio.m4a"
+    },
+    {
+      "id": "ref-02",
+      "original_path": "/Users/shwetaranjan/Downloads/SaveClip.App_AQOC3eY8YqyI-dsW1gwi2v1FoINLEO8CqLoCuhtrHd6gV1VQCqHG2ryFe8SwtpMOQPO0LXVUkbzsPvl4NKRR9NX8glRpJtI8QlRqZpI.mp4",
+      "local_path": "media/reference/jetkids/ref-02.mp4",
+      "sha256": "e49fcda7940430c498a3e1a2755b7e4af1859bf0e4a41a529bdc5750809f7d66",
+      "duration": 74.277778,
+      "role": "mandatory_reference",
+      "log_conversion": "none: finished reference video",
+      "audio_path": ".cache/jetkids/references/ref-02/reference-audio.m4a"
+    },
+    {
+      "id": "ref-03",
+      "original_path": "/Users/shwetaranjan/Downloads/SaveClip.App_AQPFBb2lk7imBgsKByAuLB_N8A873y0d4oCq9r6_9KQYH9hxrC3_VmWFL5fO2sdC3GQl1W6gV5AeLc2EqR2-gbH-i7ugEs2MjSxL5DLn0iEuZw.mp4",
+      "local_path": "media/reference/jetkids/ref-03.mp4",
+      "sha256": "1a83618bee7d43b3b303659c538a77fd2fcafe7085ea3587590418ffdc8bc12c",
+      "duration": 52.75288,
+      "role": "mandatory_reference",
+      "log_conversion": "none: finished reference video",
+      "audio_path": ".cache/jetkids/references/ref-03/reference-audio.m4a"
+    }
+  ]
+}

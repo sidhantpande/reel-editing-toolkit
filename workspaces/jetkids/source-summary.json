@@ -1,0 +1,16 @@
+{
+  "source_folder": "/Users/shwetaranjan/Pictures/OCT18-PIXON",
+  "video_count": 475,
+  "duration_seconds": 3336.06,
+  "bytes": 48853111525,
+  "inventory_path": ".cache/jetkids/inventory.json",
+  "original_policy": "Read-only originals, no relocation or duplicate 45GB copy; SHA-256 registered.",
+  "recorded_cameras": {
+    "Nikon MOV; no Sony sidecar": 5,
+    "ILCE-7M4": 349,
+    "ILCE-7RM5": 121
+  },
+  "log": 345,
+  "non_log_sidecar_confirmed": 125,
+  "nikon_bt709_tagged": 5
+}

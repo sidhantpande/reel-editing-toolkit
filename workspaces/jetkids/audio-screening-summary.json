@@ -1,0 +1,203 @@
+{
+  "clips_screened": 28,
+  "model": "faster-whisper base multilingual / CPU int8",
+  "review": "ASR with VAD, not a listening attestation",
+  "clips": [
+    {
+      "source": "Videos/1/C4238.MP4",
+      "language_detected": "en",
+      "language_probability": 0.5658349990844727,
+      "segments": 0,
+      "status": "Draft only. No quotes or song identifications accepted."
+    },
+    {
+      "source": "Videos/1/C4331.MP4",
+      "language_detected": "en",
+      "language_probability": 0.5658349990844727,
+      "segments": 0,
+      "status": "Draft only. No quotes or song identifications accepted."
+    },
+    {
+      "source": "Videos/1/C4437.MP4",
+      "language_detected": "hi",
+      "language_probability": 0.5155139565467834,
+      "segments": 12,
+      "status": "Draft only. No quotes or song identifications accepted."
+    },
+    {
+      "source": "Videos/1/C4319.MP4",
+      "language_detected": "hi",
+      "language_probability": 0.3646284341812134,
+      "segments": 6,
+      "status": "Draft only. No quotes or song identifications accepted."
+    },
+    {
+      "source": "Videos/1/C4350.MP4",
+      "language_detected": "en",
+      "language_probability": 0.5658349990844727,
+      "segments": 0,
+      "status": "Draft only. No quotes or song identifications accepted."
+    },
+    {
+      "source": "Videos/1/C4312.MP4",
+      "language_detected": "en",
+      "language_probability": 0.6444262266159058,
+      "segments": 1,
+      "status": "Draft only. No quotes or song identifications accepted."
+    },
+    {
+      "source": "Videos/1/C4289.MP4",
+      "language_detected": "en",
+      "language_probability": 0.5658349990844727,
+      "segments": 0,
+      "status": "Draft only. No quotes or song identifications accepted."
+    },
+    {
+      "source": "Videos/1/C4228.MP4",
+      "language_detected": "en",
+      "language_probability": 0.5658349990844727,
+      "segments": 0,
+      "status": "Draft only. No quotes or song identifications accepted."
+    },
+    {
+      "source": "Videos/1/C4357.MP4",
+      "language_detected": "en",
+      "language_probability": 0.5658349990844727,
+      "segments": 0,
+      "status": "Draft only. No quotes or song identifications accepted."
+    },
+    {
+      "source": "Videos/1/C4451.MP4",
+      "language_detected": "hi",
+      "language_probability": 0.7270857095718384,
+      "segments": 7,
+      "status": "Draft only. No quotes or song identifications accepted."
+    },
+    {
+      "source": "Videos/1/C4315.MP4",
+      "language_detected": "en",
+      "language_probability": 0.3955104947090149,
+      "segments": 0,
+      "status": "Draft only. No quotes or song identifications accepted."
+    },
+    {
+      "source": "Videos/1/C4427.MP4",
+      "language_detected": "en",
+      "language_probability": 0.5658349990844727,
+      "segments": 0,
+      "status": "Draft only. No quotes or song identifications accepted."
+    },
+    {
+      "source": "Videos/1/C4200.MP4",
+      "language_detected": "zh",
+      "language_probability": 0.23586392402648926,
+      "segments": 2,
+      "status": "Draft only. No quotes or song identifications accepted."
+    },
+    {
+      "source": "Videos/1/C4299.MP4",
+      "language_detected": "en",
+      "language_probability": 0.4600907862186432,
+      "segments": 1,
+      "status": "Draft only. No quotes or song identifications accepted."
+    },
+    {
+      "source": "Videos/1/C4366.MP4",
+      "language_detected": "en",
+      "language_probability": 0.1595325618982315,
+      "segments": 2,
+      "status": "Draft only. No quotes or song identifications accepted."
+    },
+    {
+      "source": "Videos/1/C4227.MP4",
+      "language_detected": "hi",
+      "language_probability": 0.3366750180721283,
+      "segments": 1,
+      "status": "Draft only. No quotes or song identifications accepted."
+    },
+    {
+      "source": "Videos/1/C4265.MP4",
+      "language_detected": "en",
+      "language_probability": 0.4112272262573242,
+      "segments": 1,
+      "status": "Draft only. No quotes or song identifications accepted."
+    },
+    {
+      "source": "Videos/1/C4428.MP4",
+      "language_detected": "en",
+      "language_probability": 0.5658349990844727,
+      "segments": 0,
+      "status": "Draft only. No quotes or song identifications accepted."
+    },
+    {
+      "source": "Videos/1/C4184.MP4",
+      "language_detected": "en",
+      "language_probability": 0.5658349990844727,
+      "segments": 0,
+      "status": "Draft only. No quotes or song identifications accepted."
+    },
+    {
+      "source": "Videos/1/C4332.MP4",
+      "language_detected": "en",
+      "language_probability": 0.5658349990844727,
+      "segments": 0,
+      "status": "Draft only. No quotes or song identifications accepted."
+    },
+    {
+      "source": "Videos/1/C4297.MP4",
+      "language_detected": "hi",
+      "language_probability": 0.18867531418800354,
+      "segments": 1,
+      "status": "Draft only. No quotes or song identifications accepted."
+    },
+    {
+      "source": "Videos/1/C4432.MP4",
+      "language_detected": "en",
+      "language_probability": 0.5658349990844727,
+      "segments": 0,
+      "status": "Draft only. No quotes or song identifications accepted."
+    },
+    {
+      "source": "Videos/1/C4335.MP4",
+      "language_detected": "en",
+      "language_probability": 0.5658349990844727,
+      "segments": 0,
+      "status": "Draft only. No quotes or song identifications accepted."
+    },
+    {
+      "source": "Videos/1/C4342.MP4",
+      "language_detected": "en",
+      "language_probability": 0.5658349990844727,
+      "segments": 0,
+      "status": "Draft only. No quotes or song identifications accepted."
+    },
+    {
+      "source": "Videos/1/C4203.MP4",
+      "language_detected": "en",
+      "language_probability": 0.1365983486175537,
+      "segments": 2,
+      "status": "Draft only. No quotes or song identifications accepted."
+    },
+    {
+      "source": "Videos/2/C3366.MP4",
+      "language_detected": "es",
+      "language_probability": 0.2050034999847412,
+      "segments": 4,
+      "status": "Draft only. No quotes or song identifications accepted."
+    },
+    {
+      "source": "Videos/1/C4268.MP4",
+      "language_detected": "hi",
+      "language_probability": 0.1887432038784027,
+      "segments": 2,
+      "status": "Draft only. No quotes or song identifications accepted."
+    },
+    {
+      "source": "Videos/1/C4424.MP4",
+      "language_detected": "en",
+      "language_probability": 0.5658349990844727,
+      "segments": 0,
+      "status": "Draft only. No quotes or song identifications accepted."
+    }
+  ]
+}

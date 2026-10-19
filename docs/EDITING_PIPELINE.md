@@ -74,3 +74,7 @@ A reusable finish command is available inside the clinic workspace:
 ```sh
 .venv/bin/python tools/finish_clinic_reel.py --base /absolute/base.mp4 --dialogue /absolute/dialogue-48k-float.wav --output /absolute/finished.mp4 --qa-dir /absolute/qa-folder
 ```
+
+## Jet Kids event branch
+
+See [the Jet Kids workspace](../workspaces/jetkids/README.md). Its event footage includes mixed Sony S-Log3 and display-referred cameras. Run metadata intake, [profile-aware Log conversion](COLOUR_WORKFLOW.md), then contact-sheet analysis before planning stories. Use `python3 tools/pipeline.py jetkids intake /absolute/source/folder`, `jetkids colour --backend metal`, `jetkids analyse`, and `jetkids status`. This branch registers footage in place with checksums rather than duplicating the 45.5 GiB source folder. The current user direction is landscape 1920×1080 with video-only coverage and no event-photo inserts. Finish conversion, analysis and the comprehensive plan first; choose audio and edit individual reels later. Preserve source paths/hashes and shot-specific framing decisions in each future timeline.

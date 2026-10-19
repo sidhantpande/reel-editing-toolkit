@@ -7,10 +7,45 @@ CLINIC=ROOT/'workspaces/my-dental-skin-clinic'
 
 def main():
  p=argparse.ArgumentParser(description=__doc__)
- p.add_argument('brand',choices=['clinic','atfro','niolearn'])
- p.add_argument('command',choices=['status','doctor','intake','analyse','transcribe','preflight','render','assets'])
+ p.add_argument('brand',choices=['clinic','atfro','niolearn','jetkids'])
+ p.add_argument('command',choices=['status','doctor','intake','analyse','transcribe','preflight','render','assets','colour','music'])
  p.add_argument('arguments',nargs=argparse.REMAINDER)
  a=p.parse_args()
+ if a.brand=='jetkids':
+  manifest=ROOT/'.cache/jetkids/inventory.json'
+  converted=ROOT/'media/colour/jetkids-rec709'
+  if a.command=='status':
+   print('Jet Kids source inventory:',manifest if manifest.exists() else 'not registered')
+   state=converted/'conversion-state.json'
+   if state.exists():
+    files=json.loads(state.read_text())['files'];print('Verified Log conversions:',sum(v['status']=='verified' for v in files.values()))
+    print('Unchanged Sony display-referred clips:',sum(v['status']=='unchanged' for v in files.values()))
+    print('Other profiles retained without Log LUT:',sum(v['status']=='unclassified' for v in files.values()))
+   review=ROOT/'.cache/jetkids/analysis/review-index.json'
+   if review.exists():print('Contact sheets generated:',len(json.loads(review.read_text())['clips']))
+   notes=ROOT/'workspaces/jetkids/clip-review.json'
+   if notes.exists():print('Visual clip notes:',len(json.loads(notes.read_text())['clips']))
+   print('Current brief: conversion, analysis and plan; individual edits/audio later.')
+   return 0
+  if a.command=='doctor': return subprocess.call([sys.executable,str(ROOT/'tools/doctor.py')],cwd=ROOT)
+  if a.command=='intake':
+   if not a.arguments:p.error('Supply the original footage folder')
+   args=[sys.executable,str(ROOT/'tools/log_colour.py'),'inventory',a.arguments[0],'--out',str(manifest)]
+  elif a.command=='colour':
+   args=[sys.executable,str(ROOT/'tools/log_colour.py'),'convert',str(manifest),'--output',str(converted),*a.arguments]
+  elif a.command=='analyse':
+   args=[sys.executable,str(ROOT/'tools/event_review.py'),str(manifest),'--conversions',str(converted),'--out',str(ROOT/'.cache/jetkids/analysis'),*a.arguments]
+  elif a.command=='music':
+   return subprocess.call([sys.executable,str(ROOT/'tools/music_assets.py'),*a.arguments],cwd=ROOT)
+  elif a.command in ('preflight','render'):
+   if not a.arguments:p.error('Supply the reviewed event-plan JSON')
+   args=[sys.executable,str(ROOT/'tools/event_render.py'),*a.arguments]
+   if a.command=='preflight':args.append('--preflight')
+  elif a.command=='assets':
+   return subprocess.call([sys.executable,str(ROOT/'tools/reelctl.py'),'assets','--brand','jetkids',*a.arguments],cwd=ROOT)
+  else:p.error('Jet Kids supports intake, colour, analyse, music, status, doctor, assets and reviewed event-plan preflight/render.')
+  return subprocess.call(args,cwd=ROOT)
+ if a.command=='colour':p.error('Use jetkids colour or tools/log_colour.py for metadata-gated colour conversion')
  if a.brand!='clinic':
   cmds={'intake':'init','analyse':'inspect'}
   command=cmds.get(a.command,a.command)

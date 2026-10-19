@@ -1,0 +1,77 @@
+{
+  "stage": "17 music excerpts verified; toolkit/beat/transition features complete; landscape overview and9:16 comparison previews ready.",
+  "latest_user_direction": "Finish all conversion/analysis, then deliver all feasible concepts. Individual audio choice and reel edits come later.",
+  "delivery_format": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "event_photo_inserts": false
+  },
+  "reference_concepts": "All three are mandatory",
+  "photo_review": {
+    "jpeg_files_surveyed": 935,
+    "contact_pages_viewed": 20,
+    "raw_arw_preserved": 47,
+    "use_in_reels": false,
+    "purpose": "Context only; user subsequently excluded photo inserts."
+  },
+  "exports_created": 5,
+  "audio_finalised": false,
+  "video_review": {
+    "source_videos": 475,
+    "contact_sheet_clips": 475,
+    "full_span_sample_images": 3997,
+    "full_survey_pages_viewed": 36,
+    "visual_clip_notes": 475,
+    "method": "One-second full-duration samples plus exact final frame; selected larger contacts and overview pages",
+    "limits": "Not every-frame full-resolution playback or verified audio listening."
+  },
+  "colour": {
+    "confirmed_sony_log": 345,
+    "converted_verified": 345,
+    "sony_display_referred_unchanged": 125,
+    "nikon_retained_without_sony_lut": 5,
+    "full_decode_frame_fps_duration_checks": "345 converted masters passed",
+    "audio": {
+      "PCM hash unchanged": 345
+    },
+    "master_integrity": {
+      "verified_log_masters": 345,
+      "bytes": 15425144947,
+      "sha256_mismatches_or_missing_decode_evidence": [],
+      "method": "Re-read every completed MOV and compare recorded SHA-256; full decode/frame/audio checks recorded during conversion"
+    },
+    "original_integrity": {
+      "checked_videos": 475,
+      "mismatches": [],
+      "method": "SHA-256 re-read of every original after conversion began",
+      "seconds": 45.24
+    }
+  },
+  "plan": {
+    "distinct_story_concepts": 17,
+    "derived_versions": 8,
+    "mandatory_references_mapped": 3,
+    "path": "docs/REEL_PLAN.md"
+  },
+  "toolkit_checks": {
+    "unit_tests": 60,
+    "unit_tests_status": "passed",
+    "typecheck_and_validation": "passed",
+    "catalog_and_git_audit": "passed"
+  },
+  "github_login": "sidhantpande; verified via gh api user",
+  "audio_assets_prepared": 17,
+  "premiere_marker_exports": 17,
+  "music_audit": "17 MP3 checksums and decoded sample counts passed; local PCM hashes matched",
+  "latest_previews": {
+    "landscape": "exports/jetkids-overview-v03.mp4",
+    "portrait": "exports/jetkids-overview-portrait-v02.mp4",
+    "duration_seconds": 50,
+    "frames_each": 1500,
+    "audio": "Identical AAC and decoded PCM hashes",
+    "listening": "Not attested; review drafts"
+  },
+  "final_reels_approved": 0,
+  "exports_note": "Three landscape revisions and two portrait comparison revisions exist locally. Latest pair listed; none is claimed listening-approved final."
+}

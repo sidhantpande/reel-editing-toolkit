@@ -12,7 +12,7 @@ for f in files:
  target=out/(f.stem+'.json')
  if target.exists():continue
  print('Transcribing',f.name,flush=True)
- segments,info=model.transcribe(str(f),beam_size=1,best_of=1,temperature=0.0,compression_ratio_threshold=None,log_prob_threshold=None,word_timestamps=True,vad_filter=False,language=a.language,condition_on_previous_text=False)
+ segments,info=model.transcribe(str(f),beam_size=1,best_of=1,temperature=0.0,compression_ratio_threshold=None,log_prob_threshold=None,word_timestamps=True,vad_filter=False,language=None if a.language=='auto' else a.language,condition_on_previous_text=False)
  data={'source':f.name,'language':info.language,'status':'ASR_DRAFT_FOR_MATCHING_NOT_FINAL_CAPTIONS','segments':[]}
  for s in segments:
   data['segments'].append({'start':s.start,'end':s.end,'text':s.text,'words':[{'start':w.start,'end':w.end,'text':w.word,'probability':w.probability} for w in (s.words or [])]})

@@ -221,3 +221,26 @@ Search: `python3 tools/reelctl.py assets --brand clinic --query implant`.
 - [toothpaste and brushing demonstration](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/reel-08_B01_brushing_received.mp4) — 16.76s; Git LFS; user supplied.
 - [interdental flossing demonstration](../workspaces/my-dental-skin-clinic/04_generated_broll/approved/reel-08_B02_flossing_received.mp4) — 24.31s; Git LFS; user supplied.
 - [white logo end-card with supplied spoken signature](../workspaces/my-dental-skin-clinic/assets/brand/endcards/my-dental-reference-outro.mp4) — 4.23s; Git LFS; user supplied.
+
+## Jet Kids supplied identity
+
+Search: `python3 tools/reelctl.py assets --brand jetkids --query crest`.
+
+- [Jet Kids International School original JKIS crest](../public/assets/brands/jetkids/logo-original.jpg) — logo; Git LFS.
+- [Zinda — Sports — Jet Kids in Action](../public/assets/brands/jetkids/audio/jetkids-music-01.mp3) — music; Git LFS.
+- [Shubhaarambh — Guest Entry + Ribbon Cutting](../public/assets/brands/jetkids/audio/jetkids-music-02.mp3) — music; Git LFS.
+- [Galti Se Mistake — Teachers — Game On!](../public/assets/brands/jetkids/audio/jetkids-music-03.mp3) — music; Git LFS.
+- [Ilahi — Complete Event — The Day at Jet Kids](../public/assets/brands/jetkids/audio/jetkids-music-04.mp3) — music; Git LFS.
+- [Deva Deva — Ceremonial Opening — A New Beginning](../public/assets/brands/jetkids/audio/jetkids-music-05.mp3) — music; Git LFS.
+- [Chale Chalo — Cricket — Bat, Ball, Team Spirit](../public/assets/brands/jetkids/audio/jetkids-music-06.mp3) — music; Git LFS.
+- [Dangal — Kabaddi — Hold the Line](../public/assets/brands/jetkids/audio/jetkids-music-07.mp3) — music; Git LFS.
+- [Bhaag Milkha Bhaag Rock Version — Kho-Kho — Chase the Moment](../public/assets/brands/jetkids/audio/jetkids-music-08.mp3) — music; Git LFS.
+- [Wazir Theme — Chess — Small Moves, Big Focus](../public/assets/brands/jetkids/audio/jetkids-music-09.mp3) — music; Git LFS.
+- [Ziddi Dil — Table Tennis — Eyes on the Ball](../public/assets/brands/jetkids/audio/jetkids-music-10.mp3) — music; Git LFS.
+- [Kandhon Se Milte Hain Kandhe — Student Fitness / Drill — Moving Together](../public/assets/brands/jetkids/audio/jetkids-music-11.mp3) — music; Git LFS.
+- [Azeem-O-Shaan Shahenshah — School Band — Welcome in Rhythm](../public/assets/brands/jetkids/audio/jetkids-music-12.mp3) — music; Git LFS.
+- [Roobaroo — Before the Crowd — Venue Reveal](../public/assets/brands/jetkids/audio/jetkids-music-13.mp3) — music; Git LFS.
+- [Aashayein — Honouring Our Guests](../public/assets/brands/jetkids/audio/jetkids-music-14.mp3) — music; Git LFS.
+- [Jeet — Trophies + Team Celebration](../public/assets/brands/jetkids/audio/jetkids-music-15.mp3) — music; Git LFS.
+- [Sooraj Ki Baahon Mein — When Guests Join the Game](../public/assets/brands/jetkids/audio/jetkids-music-16.mp3) — music; Git LFS.
+- [Love You Zindagi — The Faces of Jet Kids — Cheers and Connection](../public/assets/brands/jetkids/audio/jetkids-music-17.mp3) — music; Git LFS.
