@@ -263,6 +263,47 @@ def normalized_audio(plan,cache):
  filt=f"loudnorm=I=-14:TP=-1.5:LRA=11:measured_I={m['input_i']}:measured_TP={m['input_tp']}:measured_LRA={m['input_lra']}:measured_thresh={m['input_thresh']}:offset={m['target_offset']}:linear=true"
  out=cache/'mixed-normalized.wav';run(['-i',raw,'-af',filt,'-ar','48000','-c:a','pcm_s24le','-y',out]);return out
 
+def caption_filter(ass,fontdir):
+ # The subtitles demuxer can select SIMPLE shaping despite a HarfBuzz-enabled
+ # libass build. ASS with explicit COMPLEX shaping preserves Indic clusters.
+ return f"ass=filename='{ass}':fontsdir='{fontdir}':shaping=complex"
+
+def finish_picture(plan,words,fmt,work,audio,target,copy_audio=False):
+ w,h=(1920,1080) if fmt=='landscape' else (1080,1920)
+ ass=work/'captions.ass';groups=subtitles(plan,words,fmt,ass);save(work/'caption-groups.json',groups)
+ gradient=work/'shade.png';im=Image.new('RGBA',(w,h));px=im.load()
+ for y in range(h):
+  a=int(plan.get('captionStyle',{}).get('gradientAlpha',155)*max(0,(y/h-plan.get('captionStyle',{}).get('gradientStart',.63))/(1-plan.get('captionStyle',{}).get('gradientStart',.63)))**plan.get('captionStyle',{}).get('gradientPower',1.15))
+  for x in range(w):px[x,y]=(0,0,0,a)
+ im.save(gradient)
+ fontdir=ROOT/'.cache/jetkids/interview-edits/fonts';body=plan['dialogueFrames']/30
+ fc=f"[0:v][1:v]overlay=0:0:shortest=1:enable='lt(t,{body})',{caption_filter(ass,fontdir)}[captioned];[3:v]scale=176:-2,setsar=1[crest];[captioned][crest]overlay=44:64:shortest=1:enable='lt(t,{body})'[v]"
+ audio_args=['-c:a','copy'] if copy_audio else ['-c:a','aac','-b:a','256k','-ar','48000']
+ run(['-threads','2','-filter_complex_threads','2','-i',work/'silent.mp4','-loop','1','-i',gradient,'-i',audio,'-loop','1','-i',plan['logo'],'-filter_complex',fc,'-map','[v]','-map','2:a','-frames:v',plan['dialogueFrames']+plan['logoFrames'],'-t',(plan['dialogueFrames']+plan['logoFrames'])/30,'-c:v','libx264','-preset','veryfast','-crf','18','-threads','2','-pix_fmt','yuv420p',*audio_args,'-movflags','+faststart','-y',target])
+ q=probe(target);v=next(x for x in q['streams'] if x['codec_type']=='video');assert int(v['nb_frames'])==plan['dialogueFrames']+plan['logoFrames'];assert (v['width'],v['height'])==(w,h)
+ run(['-xerror','-i',target,'-f','null','-'])
+ p=subprocess.run(['ffmpeg','-hide_banner','-i',str(target),'-vn','-af','loudnorm=I=-14:TP=-1:LRA=11:print_format=json','-f','null','-'],capture_output=True,text=True,check=True);m=json.loads(p.stderr[p.stderr.rfind('{'):]);assert float(m['input_tp'])<=-1
+ return v,m,groups
+
+def refinish_current(project,fmt='portrait'):
+ """Refresh captions/crest from the same cached picture; retain encoded audio."""
+ plan,words,checks=preflight(project);cache=ROOT/'.cache/jetkids/interview-edits'/plan['id'];work=cache/fmt
+ sig=hashlib.sha256(json.dumps(dict(plan=plan,words=words),sort_keys=True).encode()).hexdigest()
+ if not (cache/'signature').is_file() or (cache/'signature').read_text()!=sig:raise ValueError('Changed edit plan: use --replace-current for a complete render')
+ dest=ROOT/'exports/jetkids-interview-edits'/plan['id']/(fmt+'.mp4');target=dest.with_name(fmt+'.pending.mp4')
+ if not dest.is_file() or not (work/'silent.mp4').is_file():raise ValueError('Current export and original cached picture are required')
+ before=digest(dest);oldqa=read(work/'qa.json')
+ v,m,groups=finish_picture(plan,words,fmt,work,dest,target,copy_audio=True)
+ # Packet equality proves that a graphics-only correction cannot change lipsync,
+ # voice, music, mastering or AAC encoder delay.
+ def audio_hash(path):
+  return subprocess.check_output(['ffmpeg','-v','error','-i',str(path),'-map','0:a:0','-c','copy','-f','hash','-hash','sha256','-'],text=True).strip()
+ ah=audio_hash(dest)
+ if audio_hash(target)!=ah:raise ValueError('Graphics refresh changed encoded audio')
+ os.replace(target,dest)
+ save(work/'qa.json',dict(path=str(dest),sha256=digest(dest),frames=int(v['nb_frames']),full_decode='passed',loudness=m,captions=len(groups),visual_review='Pending corrected caption and corner crest review',listening_review=oldqa.get('listening_review','Not attested'),status='Graphics refresh review draft',graphicsRefresh=dict(previous_sha256=before,encoded_audio_hash=ah,audio='Exact original AAC packets retained',picture='Same cached picture, cuts, crop and speed',captions='Explicit HarfBuzz complex shaping',cornerLogo='Original unmodified crest,176px wide at44,64 during picture body')))
+ print('REFINISHED',dest,flush=True)
+
 def render(project,formats=None,replace_current=False):
  plan,words,checks=preflight(project);cache=ROOT/'.cache/jetkids/interview-edits'/plan['id'];cache.mkdir(parents=True,exist_ok=True);sig=hashlib.sha256(json.dumps(dict(plan=plan,words=words),sort_keys=True).encode()).hexdigest();stamp=cache/'signature'
  if stamp.exists() and stamp.read_text()!=sig:
@@ -290,26 +331,15 @@ def render(project,formats=None,replace_current=False):
   pieces=assemble(segments,shots,work);ending=work/'ending.mp4'
   if not ending.exists():run(['-loop','1','-i',plan['logo'],'-an','-vf',f'scale={560 if fmt=="portrait" else 620}:-2,pad={w}:{h}:(ow-iw)/2:(oh-ih)/2:black,setsar=1,fade=t=in:st=0:d=0.2,format=yuv420p','-r','30','-frames:v',plan['logoFrames'],'-c:v','libx264','-preset','veryfast','-crf','18','-threads','2','-y',ending])
   pieces.append(ending);listing=work/'concat.txt';listing.write_text(''.join("file '"+str(p)+"'\n" for p in pieces));silent=work/'silent.mp4';run(['-f','concat','-safe','0','-i',listing,'-c','copy','-y',silent])
-  ass=work/'captions.ass';groups=subtitles(plan,words,fmt,ass);save(work/'caption-groups.json',groups)
-  gradient=work/'shade.png';im=Image.new('RGBA',(w,h));px=im.load()
-  for y in range(h):
-   a=int(plan.get('captionStyle',{}).get('gradientAlpha',155)*max(0,(y/h-plan.get('captionStyle',{}).get('gradientStart',.63))/(1-plan.get('captionStyle',{}).get('gradientStart',.63)))**plan.get('captionStyle',{}).get('gradientPower',1.15))
-   for x in range(w):px[x,y]=(0,0,0,a)
-  im.save(gradient)
-  # libass shapes the Devanagari font; font files are original reusable licensed assets.
-  fontdir=ROOT/'.cache/jetkids/interview-edits/fonts'
-  fc=f"[0:v][1:v]overlay=0:0:shortest=1:enable='lt(t,{plan['dialogueFrames']/30})',subtitles=filename='{ass}':fontsdir='{fontdir}'[v]"
-  run(['-threads','2','-filter_complex_threads','2','-i',silent,'-loop','1','-i',gradient,'-i',audio,'-filter_complex',fc,'-map','[v]','-map','2:a','-frames:v',plan['dialogueFrames']+plan['logoFrames'],'-t',(plan['dialogueFrames']+plan['logoFrames'])/30,'-c:v','libx264','-preset','veryfast','-crf','18','-threads','2','-pix_fmt','yuv420p','-c:a','aac','-b:a','256k','-ar','48000','-movflags','+faststart','-y',target])
-  q=probe(target);v=next(x for x in q['streams'] if x['codec_type']=='video');assert int(v['nb_frames'])==plan['dialogueFrames']+plan['logoFrames'];assert (v['width'],v['height'])==(w,h)
-  run(['-xerror','-i',target,'-f','null','-'])
-  p=subprocess.run(['ffmpeg','-hide_banner','-i',str(target),'-vn','-af','loudnorm=I=-14:TP=-1:LRA=11:print_format=json','-f','null','-'],capture_output=True,text=True,check=True);m=json.loads(p.stderr[p.stderr.rfind('{'):]);assert float(m['input_tp'])<=-1
+  v,m,groups=finish_picture(plan,words,fmt,work,audio,target)
   os.replace(target,dest)
   save(work/'qa.json',dict(path=str(dest),sha256=digest(dest),frames=int(v['nb_frames']),full_decode='passed',loudness=m,captions=len(groups),visual_review='Pending encoded frame review',listening_review='Not attested',status='Review draft'))
   print('EXPORTED',dest,flush=True)
 
 def main():
- p=argparse.ArgumentParser(description=__doc__);p.add_argument('project',type=Path);p.add_argument('--preflight',action='store_true');p.add_argument('--format',choices=['portrait','landscape'],default='portrait');p.add_argument('--replace-current',action='store_true',help='Rebuild the same edit and atomically replace its current export');a=p.parse_args()
+ p=argparse.ArgumentParser(description=__doc__);p.add_argument('project',type=Path);p.add_argument('--preflight',action='store_true');p.add_argument('--format',choices=['portrait','landscape'],default='portrait');p.add_argument('--replace-current',action='store_true',help='Rebuild the same edit and atomically replace its current export');p.add_argument('--refinish-current',action='store_true',help='Refresh captions/corner crest on unchanged cached picture, copying current encoded audio');a=p.parse_args()
  if a.preflight:
   plan,words,checks=preflight(a.project);print(json.dumps(dict(id=plan['id'],dialogueFrames=plan['dialogueFrames'],words=len(words),sources=checks),indent=2));return
- render(a.project,[a.format] if a.format else None,replace_current=a.replace_current)
+ if a.refinish_current:refinish_current(a.project,a.format)
+ else:render(a.project,[a.format] if a.format else None,replace_current=a.replace_current)
 if __name__=='__main__':main()

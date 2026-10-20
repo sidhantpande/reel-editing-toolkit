@@ -112,4 +112,23 @@ class InterviewEditTests(unittest.TestCase):
   kit.validate_structure(p,self.words())
   p['formats']['portrait']['shots'][0].update(source_id='STABLE')
   with self.assertRaisesRegex(ValueError,'Lip-sync mismatch'):kit.validate_structure(p,self.words())
+ def test_graphics_refresh_rejects_changed_edit_before_encoding(self):
+  from unittest.mock import patch
+  import tempfile
+  p=self.plan()
+  with tempfile.TemporaryDirectory() as t,patch.object(kit,'ROOT',Path(t)),patch.object(kit,'preflight',return_value=(p,self.words(),{})),patch.object(kit,'finish_picture') as finish:
+   c=Path(t)/'.cache/jetkids/interview-edits'/p['id'];c.mkdir(parents=True);(c/'signature').write_text('another edit')
+   with self.assertRaisesRegex(ValueError,'Changed edit plan'):kit.refinish_current(Path(t))
+   finish.assert_not_called()
+ def test_graphics_refresh_does_not_replace_export_when_audio_packets_change(self):
+  from unittest.mock import patch
+  import tempfile,json,hashlib
+  p=self.plan();words=self.words()
+  with tempfile.TemporaryDirectory() as t,patch.object(kit,'ROOT',Path(t)),patch.object(kit,'preflight',return_value=(p,words,{})):
+   root=Path(t);c=root/'.cache/jetkids/interview-edits'/p['id'];w=c/'portrait';w.mkdir(parents=True)
+   (c/'signature').write_text(hashlib.sha256(json.dumps(dict(plan=p,words=words),sort_keys=True).encode()).hexdigest());(w/'silent.mp4').write_bytes(b'cached picture');kit.save(w/'qa.json',{})
+   d=root/'exports/jetkids-interview-edits'/p['id']/'portrait.mp4';d.parent.mkdir(parents=True);d.write_bytes(b'approved current export')
+   with patch.object(kit,'finish_picture',return_value=({}, {}, [])),patch.object(kit.subprocess,'check_output',side_effect=['SHA256=original','SHA256=changed']):
+    with self.assertRaisesRegex(ValueError,'changed encoded audio'):kit.refinish_current(root)
+   self.assertEqual(d.read_bytes(),b'approved current export')
 if __name__=='__main__':unittest.main()
