@@ -1,0 +1,20 @@
+{
+  "file": "/Users/shwetaranjan/Desktop/Video-Editingh/exports/jetkids-overview-arrival-flow-v01/landscape.mp4",
+  "sha256": "a923774155241a685c6c073e16811a036e25e8f97b82b9c8aa59a18dd71f4829",
+  "frames": "2393",
+  "full_decode": "passed",
+  "loudness": {
+    "input_i": "-14.13",
+    "input_tp": "-1.36",
+    "input_lra": "5.30",
+    "input_thresh": "-24.21",
+    "output_i": "-14.42",
+    "output_tp": "-1.72",
+    "output_lra": "3.30",
+    "output_thresh": "-24.48",
+    "normalization_type": "dynamic",
+    "target_offset": "0.42"
+  },
+  "visual_review": "pending",
+  "listening_review": "not attested"
+}

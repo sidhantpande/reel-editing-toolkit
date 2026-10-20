@@ -1,0 +1,20 @@
+{
+  "file": "/Users/shwetaranjan/Desktop/Video-Editingh/exports/jetkids-overview-polish-v01/portrait.mp4",
+  "sha256": "e2d36886135b9d49355dfd95dee99b08b8b452700e4d129395a803598c78fa18",
+  "frames": "2595",
+  "full_decode": "passed",
+  "loudness": {
+    "input_i": "-14.07",
+    "input_tp": "-1.35",
+    "input_lra": "4.80",
+    "input_thresh": "-24.21",
+    "output_i": "-14.25",
+    "output_tp": "-1.08",
+    "output_lra": "4.30",
+    "output_thresh": "-24.35",
+    "normalization_type": "dynamic",
+    "target_offset": "0.25"
+  },
+  "visual_review": "pending",
+  "listening_review": "not attested"
+}

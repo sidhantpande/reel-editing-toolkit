@@ -1,0 +1,55 @@
+{
+  "date_utc": "2026-10-20T05:14:09.535886+00:00",
+  "authorization": "User explicitly authorized removing obsolete overview caches after approval",
+  "removed": [
+    {
+      "path": ".cache/jetkids/overview-arrival-flow",
+      "logical_bytes": 622174270,
+      "files": 177,
+      "retained_json": 5,
+      "reason": "Derived overview render/review cache; approved exports and reproducible project recipes preserved"
+    },
+    {
+      "path": ".cache/jetkids/overview-arrival-flow-v02",
+      "logical_bytes": 772200717,
+      "files": 217,
+      "retained_json": 4,
+      "reason": "Derived overview render/review cache; approved exports and reproducible project recipes preserved"
+    },
+    {
+      "path": ".cache/jetkids/overview-polish-v01",
+      "logical_bytes": 774518991,
+      "files": 217,
+      "retained_json": 4,
+      "reason": "Derived overview render/review cache; approved exports and reproducible project recipes preserved"
+    },
+    {
+      "path": ".cache/jetkids/overview-rebuild",
+      "logical_bytes": 468771454,
+      "files": 288,
+      "retained_json": 6,
+      "reason": "Derived overview render/review cache; approved exports and reproducible project recipes preserved"
+    },
+    {
+      "path": ".cache/jetkids/reference-led-overview-v01",
+      "logical_bytes": 512289772,
+      "files": 173,
+      "retained_json": 4,
+      "reason": "Derived overview render/review cache; approved exports and reproducible project recipes preserved"
+    },
+    {
+      "path": ".cache/jetkids/overview-delivery-review",
+      "logical_bytes": 14741499,
+      "files": 47,
+      "retained_json": 2,
+      "reason": "Derived overview render/review cache; approved exports and reproducible project recipes preserved"
+    }
+  ],
+  "free_before": 50007523328,
+  "free_after": 50011136000,
+  "observed_free_increase": 3612672,
+  "preserved": "Original footage, approved exports, transcripts, models, source surveys, mixed overview-v04 research/dependencies; export hashes reverified",
+  "free_after_delayed_measurement": 50377125888,
+  "measurement_note": "Filesystem free-space is affected by concurrent model downloads and APFS accounting; 3.16GB logical derived files removed, actual reclaimed allocation is not asserted.",
+  "logical_bytes_removed": 3164696703
+}

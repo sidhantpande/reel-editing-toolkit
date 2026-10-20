@@ -1,6 +1,6 @@
 {
-  "stage": "Fresh09 overview rendered for user review",
-  "latest_user_direction": "Use new reference for visual guidance only. Existing entry/diya soundtrack must remain; improve shot selection/flow and beat timing quickly.",
+  "stage": "Overview09 approved/locked; interview research mapped",
+  "latest_user_direction": "Lock overview09. Review all Jet Kids roots, transcribe interviews, plan each cabin guest individually plus coherent parent/teacher and mixed stories. Clear obsolete overview caches.",
   "delivery_format": {
     "formats": [
       "1920x1080",
@@ -19,7 +19,7 @@
     "purpose": "Context only; user subsequently excluded photo inserts."
   },
   "exports_created": 5,
-  "audio_finalised": false,
+  "audio_finalised": true,
   "video_review": {
     "source_videos": 475,
     "contact_sheet_clips": 475,
@@ -59,26 +59,19 @@
     "status": "superseded"
   },
   "toolkit_checks": {
-    "unit_tests": 60,
-    "unit_tests_status": "passed",
+    "unit_tests_run": 84,
+    "unit_tests_passed": 83,
+    "unit_tests_skipped": 1,
     "typecheck_and_validation": "passed",
-    "catalog_and_git_audit": "passed"
+    "catalog_and_git_audit": "passed",
+    "git_lfs_fsck": "passed"
   },
   "github_login": "sidhantpande; verified via gh api user",
   "audio_assets_prepared": 17,
   "premiere_marker_exports": 17,
   "music_audit": "17 MP3 checksums and decoded sample counts passed; local PCM hashes matched",
-  "latest_previews": {
-    "landscape": "exports/jetkids-overview-v03.mp4",
-    "portrait": "exports/jetkids-overview-portrait-v02.mp4",
-    "duration_seconds": 50,
-    "frames_each": 1500,
-    "audio": "Identical AAC and decoded PCM hashes",
-    "listening": "Not attested; review drafts",
-    "status": "rejected by user"
-  },
-  "final_reels_approved": 0,
-  "exports_note": "Three landscape revisions and two portrait comparison revisions exist locally. Latest pair listed; none is claimed listening-approved final.",
+  "final_reels_approved": 1,
+  "exports_note": "Overview09 both formats approved. Historical rejected exports remain local; obsolete derived overview render caches cleared with a manifest.",
   "restart": {
     "new_entries": 127,
     "with_video_stream": 126,
@@ -161,15 +154,66 @@
       "portrait"
     ],
     "qa": "edits/09-reference-led-overview-v01/qa-review.json",
-    "approved": false,
+    "approved": true,
     "listening_attested": false,
     "audio_speed": 1,
-    "reference_media_used": false
+    "reference_media_used": false,
+    "approval_manifest": "edits/09-reference-led-overview-v01/approval-lock.json"
   },
-  "next_phase": "Full daytime interview review/transcription and source-grounded talking-head edits with relevant B-roll across JKIS and mounted volumes; separate evening event excluded.",
+  "next_phase": "Correct and edit individual guest/leadership profiles, then distinct mixed stories; evening event parked",
   "new_root_screening": {
     "entries": 191,
     "existing_nikon_aliases": 5,
     "method": "Three-position sampled visual screening, not complete interview analysis."
+  },
+  "rejected_preview_history": {
+    "landscape": "exports/jetkids-overview-v03.mp4",
+    "portrait": "exports/jetkids-overview-portrait-v02.mp4",
+    "duration_seconds": 50,
+    "frames_each": 1500,
+    "audio": "Identical AAC and decoded PCM hashes",
+    "listening": "Not attested; review drafts",
+    "status": "rejected by user"
+  },
+  "latest_previews": {
+    "landscape": "exports/jetkids-reference-led-overview-v01/landscape.mp4",
+    "portrait": "exports/jetkids-reference-led-overview-v01/portrait.mp4",
+    "duration_seconds": 76.33333333333333,
+    "frames_each": 2290,
+    "status": "User approved and locked",
+    "approval_manifest": "edits/09-reference-led-overview-v01/approval-lock.json"
+  },
+  "interview_research": {
+    "status": "Research mapping complete; selected dialogue/crops still require edit-stage review",
+    "registered_ids": 868,
+    "candidate_takes_including_setups_and_speech": 170,
+    "candidate_duration_minutes": 119.77251761666666,
+    "method": "Full-source audio ASR research, full-span sampled visual contacts, explicit retake/event/speaker grouping. Caption correction and final listening are separate.",
+    "local_root": ".cache/jetkids/interview-deep-review",
+    "source_identity": "Stable IDs retained. 27 additional interview copy groups compared by size plus3 sampled byte ranges; not a full-file identity audit.",
+    "full_source_asr_attempts": 169,
+    "measured_silent_sources": [
+      "S463"
+    ],
+    "accounted_sources": 170,
+    "source_treatments": 170,
+    "individual_profiles": 7,
+    "quote_research_windows": 53,
+    "broll_candidate_rows": 32,
+    "editorial_options_including_reserves": 26,
+    "parked_evening_candidates": 49,
+    "prepared_principal_takes": 26,
+    "prepared_topic_groups": 7,
+    "raw_transcript_publication": false,
+    "dialogue_or_caption_approval": false,
+    "deliverable_root": "exports/jetkids-interview-research",
+    "workbook_sha256": "8c75edde8389c24d9615a3e47bf9112590c9fb674d9fdb1d7c6d8d514323a6b1",
+    "workbook_sheets": 6,
+    "workbook_verified_values": 2901,
+    "workbook_formula_error_scan": "No matches",
+    "workbook_visual_review": "All six sheet previews rendered and inspected; saved data values matched source tables",
+    "final_intake_delta": "No new mounted-volume/JKIS video paths since the inventory",
+    "research_workbook_raw_dialogue": false,
+    "unused_benchmark_distinct_inode_bytes_removed": 2565043803
   }
 }

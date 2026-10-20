@@ -1,0 +1,20 @@
+{
+  "file": "/Users/shwetaranjan/Desktop/Video-Editingh/exports/jetkids-overview-polish-v01/landscape.mp4",
+  "sha256": "f04714d14dc3d0843fcd3c3facbd7accb541396718246f61c22ce175fdefaee5",
+  "frames": "2595",
+  "full_decode": "passed",
+  "loudness": {
+    "input_i": "-14.07",
+    "input_tp": "-1.35",
+    "input_lra": "4.80",
+    "input_thresh": "-24.21",
+    "output_i": "-14.25",
+    "output_tp": "-1.08",
+    "output_lra": "4.30",
+    "output_thresh": "-24.35",
+    "normalization_type": "dynamic",
+    "target_offset": "0.25"
+  },
+  "visual_review": "pending",
+  "listening_review": "not attested"
+}

@@ -1,0 +1,300 @@
+{
+  "status": "preflight passed",
+  "sources": [
+    {
+      "id": "S017",
+      "media_sha256": "cf2723e4a476cd03d731cb5a56bb03131fc7bff33d78b7686f9f324c0c8adace",
+      "matches_recorded_master": true,
+      "frames": 76,
+      "source_in": 1.3,
+      "source_out_with_handle": 2.82,
+      "native_fps": 100.0,
+      "speed": 0.6
+    },
+    {
+      "id": "S014",
+      "media_sha256": "5e47e131a5b08f0781b199a8dc13b7abe1016fe3d6e44210c8c01918bbe31155",
+      "matches_recorded_master": true,
+      "frames": 57,
+      "source_in": 0.3,
+      "source_out_with_handle": 1.56,
+      "native_fps": 100.0,
+      "speed": 0.6
+    },
+    {
+      "id": "S159",
+      "media_sha256": "ea4329c25708e8a0d6db27d19c13afaacc4c415c15bc98a0cf7d9a1198e3d680",
+      "matches_recorded_master": true,
+      "frames": 78,
+      "source_in": 0.4,
+      "source_out_with_handle": 1.44,
+      "native_fps": 100.0,
+      "speed": 0.4
+    },
+    {
+      "id": "S166",
+      "media_sha256": "837d20758d1da070feffd1e6a96ab285cb0cd77f5cf688a598081ff60c3ea088",
+      "matches_recorded_master": true,
+      "frames": 75,
+      "source_in": 0.25,
+      "source_out_with_handle": 1.75,
+      "native_fps": 100.0,
+      "speed": 0.6
+    },
+    {
+      "id": "S167",
+      "media_sha256": "c920894a64aefc1d385f835b694cb2742140e570363d72c476a371be21503442",
+      "matches_recorded_master": true,
+      "frames": 75,
+      "source_in": 0.5,
+      "source_out_with_handle": 1.875,
+      "native_fps": 100.0,
+      "speed": 0.55
+    },
+    {
+      "id": "S169",
+      "media_sha256": "b0d5774331ce7b17bdb1cbac85ddcd0a306e0a83d6ff405a4abe73f17fb7efb3",
+      "matches_recorded_master": true,
+      "frames": 75,
+      "source_in": 1.6,
+      "source_out_with_handle": 2.975,
+      "native_fps": 100.0,
+      "speed": 0.55
+    },
+    {
+      "id": "S171",
+      "media_sha256": "0433abd7931917a0d55f61556d5d6210760262f69d46ce90d105f4217b5ab55b",
+      "matches_recorded_master": true,
+      "frames": 57,
+      "source_in": 0.2,
+      "source_out_with_handle": 0.8300000000000001,
+      "native_fps": 100.0,
+      "speed": 0.3
+    },
+    {
+      "id": "S178",
+      "media_sha256": "f6759742a1ae45b157396b46af3911af74c15a2f8749865c24e246bec2987032",
+      "matches_recorded_master": true,
+      "frames": 78,
+      "source_in": 1.3,
+      "source_out_with_handle": 2.8600000000000003,
+      "native_fps": 100.0,
+      "speed": 0.6
+    },
+    {
+      "id": "S181",
+      "media_sha256": "095a4753f053758a230d46d5a0baede7fa75bbbe6c9b2b33d6d0d6d30326973f",
+      "matches_recorded_master": true,
+      "frames": 75,
+      "source_in": 0.1,
+      "source_out_with_handle": 1.1,
+      "native_fps": 100.0,
+      "speed": 0.4
+    },
+    {
+      "id": "S186",
+      "media_sha256": "96fdaf8e93e22e490f23b487dce30a63d30c6cdfd7632b5c567bda008385d36d",
+      "matches_recorded_master": true,
+      "frames": 71,
+      "source_in": 0.2,
+      "source_out_with_handle": 1.7799999999999998,
+      "native_fps": 100.0,
+      "speed": 0.6
+    },
+    {
+      "id": "S191",
+      "media_sha256": "c2ffbb508a67a447bc53de66fadc910eba0a095ce9af251a523e45b36f502144",
+      "matches_recorded_master": true,
+      "frames": 134,
+      "source_in": 24.2,
+      "source_out_with_handle": 27.56,
+      "native_fps": 100.0,
+      "speed": 0.7
+    },
+    {
+      "id": "S194",
+      "media_sha256": "2bb150c3f32ca6b9c371e8a43db5a23fcc20b9db03e0cea44810c8c65227d9f7",
+      "matches_recorded_master": true,
+      "frames": 69,
+      "source_in": 5.35,
+      "source_out_with_handle": 7.1899999999999995,
+      "native_fps": 100.0,
+      "speed": 0.8
+    },
+    {
+      "id": "S195",
+      "media_sha256": "1eeee525a395bde9ba4f0db0e405f1e8fa5754375567285f7b89c69697f97be4",
+      "matches_recorded_master": true,
+      "frames": 76,
+      "source_in": 0.15,
+      "source_out_with_handle": 2.61,
+      "native_fps": 100.0,
+      "speed": 0.9
+    },
+    {
+      "id": "S200",
+      "media_sha256": "d2dd25998e87b495fe98273d51af28a7704fb924cdf618b28e367024e01ee3de",
+      "matches_recorded_master": true,
+      "frames": 137,
+      "source_in": 1.7680000000000007,
+      "source_out_with_handle": 4.628,
+      "native_fps": 100.0,
+      "speed": 0.6
+    },
+    {
+      "id": "S205",
+      "media_sha256": "49396bb17ed029572077e4c24a669b0ffc57f207bfa59cfcfa742b547391910e",
+      "matches_recorded_master": true,
+      "frames": 81,
+      "source_in": 0.4,
+      "source_out_with_handle": 3.1,
+      "native_fps": 100.0,
+      "speed": 1
+    },
+    {
+      "id": "S214",
+      "media_sha256": "93fe15f1550cbd1d3db669a20f95d42eae654901eb631f4cc406845f4d200417",
+      "matches_recorded_master": true,
+      "frames": 78,
+      "source_in": 1.3,
+      "source_out_with_handle": 2.8600000000000003,
+      "native_fps": 100.0,
+      "speed": 0.6
+    },
+    {
+      "id": "S231",
+      "media_sha256": "94c6b0e2422fcf13279a38385113d0cf5ec0e26fe2afec00f8361ed27fdc19c6",
+      "matches_recorded_master": true,
+      "frames": 59,
+      "source_in": 4.35,
+      "source_out_with_handle": 5.529999999999999,
+      "native_fps": 100.0,
+      "speed": 0.6
+    },
+    {
+      "id": "S244",
+      "media_sha256": "669bad08e77912132ea47cae8553dc4c44a974abfd48543b155d25a4f81c29f8",
+      "matches_recorded_master": true,
+      "frames": 78,
+      "source_in": 2.2,
+      "source_out_with_handle": 4.15,
+      "native_fps": 100.0,
+      "speed": 0.75
+    },
+    {
+      "id": "S042",
+      "media_sha256": "de0e3b71a84651cb98a05a8d2854dcec48bbbdb0d35ac0eb27dd44f4a645b23c",
+      "matches_recorded_master": true,
+      "frames": 78,
+      "source_in": 4.098000000000001,
+      "source_out_with_handle": 4.878000000000001,
+      "native_fps": 100.0,
+      "speed": 0.3
+    },
+    {
+      "id": "S259",
+      "media_sha256": "61b3b4784f0044e0befff44359bc11462152f049f376bf978915ae932bda0b00",
+      "matches_recorded_master": true,
+      "frames": 60,
+      "source_in": 18.5,
+      "source_out_with_handle": 20.5,
+      "native_fps": 100.0,
+      "speed": 1
+    },
+    {
+      "id": "S281",
+      "media_sha256": "b9b6ab679c1d0921bb621e3a4c06a9bbb80380634dd12e7ec6d0123c2b1267ee",
+      "matches_recorded_master": true,
+      "frames": 78,
+      "source_in": 3.2,
+      "source_out_with_handle": 5.28,
+      "native_fps": 100.0,
+      "speed": 0.8
+    },
+    {
+      "id": "S103",
+      "media_sha256": "7c1091eb1ed0ef20d2a531abc33a6364069ab3bfd20e74ac128a73d941a7f2a4",
+      "matches_recorded_master": true,
+      "frames": 78,
+      "source_in": 6,
+      "source_out_with_handle": 7.82,
+      "native_fps": 100.0,
+      "speed": 0.7
+    },
+    {
+      "id": "V279",
+      "media_sha256": "238ff4b91f62a378a997e0709aad73b9f4bf4edd4c1be34d14dca7372454f423",
+      "matches_recorded_master": true,
+      "frames": 55,
+      "source_in": 3.4,
+      "source_out_with_handle": 5.433333333333334,
+      "native_fps": 25.0,
+      "speed": 1
+    },
+    {
+      "id": "S111",
+      "media_sha256": "bffb29605d96ed05754305c817d29617e522473eff44229f37b070a769285bfc",
+      "matches_recorded_master": true,
+      "frames": 82,
+      "source_in": 5.15,
+      "source_out_with_handle": 7.336666666666668,
+      "native_fps": 100.0,
+      "speed": 0.8
+    },
+    {
+      "id": "S149",
+      "media_sha256": "5db419bdc608bbe3ca2fba60e5be043c6758c98639b3a1019c5de38dc3c46d02",
+      "matches_recorded_master": true,
+      "frames": 77,
+      "source_in": 0.35,
+      "source_out_with_handle": 1.8900000000000001,
+      "native_fps": 100.0,
+      "speed": 0.6
+    },
+    {
+      "id": "S065",
+      "media_sha256": "eaaedbf20b845a46a319c37d69de084f65847c5e1cea33f91b6faa3d7d101508",
+      "matches_recorded_master": true,
+      "frames": 60,
+      "source_in": 1.4,
+      "source_out_with_handle": 2.5999999999999996,
+      "native_fps": 100.0,
+      "speed": 0.6
+    },
+    {
+      "id": "S333",
+      "media_sha256": "12a939fbbb78e418061949aa41d027f293eff719e0de9946d03e93200c66b714",
+      "matches_recorded_master": true,
+      "frames": 78,
+      "source_in": 0.1,
+      "source_out_with_handle": 1.92,
+      "native_fps": 100.0,
+      "speed": 0.7
+    },
+    {
+      "id": "S341",
+      "media_sha256": "c35a614c0b69956d85519112276f0fbcd68b10652ef6cff3efa67c482bdee9a5",
+      "matches_recorded_master": true,
+      "frames": 55,
+      "source_in": 1.15,
+      "source_out_with_handle": 2.515,
+      "native_fps": 100.0,
+      "speed": 0.65
+    },
+    {
+      "id": "S104",
+      "media_sha256": "b38a615c8f7e80463181bc00a826144c8cc8cebdce0021122e4c0dd1fdf67237",
+      "matches_recorded_master": true,
+      "frames": 81,
+      "source_in": 0.2,
+      "source_out_with_handle": 1.82,
+      "native_fps": 100.0,
+      "speed": 0.6
+    }
+  ],
+  "body_frames": 2211,
+  "total_frames": 2290,
+  "width": 1920,
+  "height": 1080,
+  "notes": "Measured master hashes checked; HP originals are separately registered. No source rewrite."
+}

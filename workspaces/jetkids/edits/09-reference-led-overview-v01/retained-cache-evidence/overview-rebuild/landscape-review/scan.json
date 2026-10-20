@@ -1,0 +1,40 @@
+{
+  "video": "/Users/shwetaranjan/Desktop/Video-Editingh/exports/jetkids-overview-rebuild-v01/landscape.mp4",
+  "sha256": "68425feb44afb6339f77fcc0063e78e1b390bfa5f3dc8a9d4a5ac745772965f3",
+  "width": 1920,
+  "height": 1080,
+  "frames_decoded": 1652,
+  "expected_frames": 1652,
+  "contact_frames": 206,
+  "contact_pages": 6,
+  "boundaries": [
+    0,
+    70,
+    196,
+    321,
+    399,
+    525,
+    587,
+    681,
+    775,
+    837,
+    900,
+    963,
+    1088,
+    1150,
+    1213,
+    1307,
+    1370,
+    1417,
+    1495,
+    1589,
+    1651
+  ],
+  "very_dark_frames": [
+    0,
+    1589
+  ],
+  "mean_rgb_min": 0.0,
+  "visual_review": "pending inspection of contacts; numeric scan alone is not visual QA",
+  "audio_listening": "not attested"
+}

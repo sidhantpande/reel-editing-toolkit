@@ -1,0 +1,20 @@
+{
+  "file": "/Users/shwetaranjan/Desktop/Video-Editingh/exports/jetkids-reference-led-overview-v01/portrait.mp4",
+  "sha256": "f552f49f6b3218564ce3db0395d2f0ee7a828b5f76e0dc454ab85b07fe4e9629",
+  "frames": "2290",
+  "full_decode": "passed",
+  "loudness": {
+    "input_i": "-14.10",
+    "input_tp": "-1.35",
+    "input_lra": "3.90",
+    "input_thresh": "-24.19",
+    "output_i": "-14.35",
+    "output_tp": "-1.08",
+    "output_lra": "4.20",
+    "output_thresh": "-24.42",
+    "normalization_type": "dynamic",
+    "target_offset": "0.35"
+  },
+  "visual_review": "pending",
+  "listening_review": "not attested"
+}

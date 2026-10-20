@@ -1,0 +1,26 @@
+{
+  "status": "APPROVED \u2014 locked version09; do not overwrite",
+  "approval_recorded_utc": "2026-10-20T05:13:56.401882+00:00",
+  "approval_evidence": "User: Chal aab isko lock kr de jo bana hai sahi bana hai",
+  "files": [
+    {
+      "format": "landscape",
+      "path": "/Users/shwetaranjan/Desktop/Video-Editingh/exports/jetkids-reference-led-overview-v01/landscape.mp4",
+      "sha256": "5f84fb0beeb70e3de2e80c28f1cdeb471864158bb26e9be1461ab92411df6bad",
+      "bytes": 107629566,
+      "frames": 2290,
+      "fps": 30
+    },
+    {
+      "format": "portrait",
+      "path": "/Users/shwetaranjan/Desktop/Video-Editingh/exports/jetkids-reference-led-overview-v01/portrait.mp4",
+      "sha256": "f552f49f6b3218564ce3db0395d2f0ee7a828b5f76e0dc454ab85b07fe4e9629",
+      "bytes": 101443424,
+      "frames": 2290,
+      "fps": 30
+    }
+  ],
+  "soundtrack": "Existing entry/diya soundtrack, native speed and pitch",
+  "scope": "Both overview formats only; interview edits remain new work",
+  "editor_listening_attestation": "Not asserted; user approval recorded separately"
+}

@@ -1,0 +1,25 @@
+{
+  "status": "Installed and benchmarked; transcripts remain research drafts",
+  "whisper_cpp_commit": "231638a0717b7822784297e5980965ffcec05810",
+  "whisper_cpp_upstream": "https://github.com/ggml-org/whisper.cpp",
+  "model": {
+    "url": "https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-large-v3-turbo-q8_0.bin",
+    "bytes": 874188075,
+    "sha256": "317eb69c11673c9de1e1f0d459b253999804ec71ac4c23c17ecf5fbe24e259a1",
+    "repository_revision": "5359861c739e955e79d9a303bcbc70fb988958b1",
+    "immutable_url": "https://huggingface.co/ggerganov/whisper.cpp/resolve/5359861c739e955e79d9a303bcbc70fb988958b1/ggml-large-v3-turbo-q8_0.bin"
+  },
+  "cmake": "3.31.6",
+  "selected_decode": {
+    "beam_size": 3,
+    "best_of": 1,
+    "no_temperature_fallback": true,
+    "threads": 4,
+    "max_context_tokens": 0,
+    "language": "Source-level hi/en/mr where triaged reliably; auto otherwise",
+    "prompt": "School name/place only; no expected sentence is supplied"
+  },
+  "fallback": "faster-whisper small int8; full-source overlapping research retained for comparison",
+  "normalizer": "tools/interview_research.py",
+  "caption_status": "No raw ASR is approved captions or final cut timings"
+}

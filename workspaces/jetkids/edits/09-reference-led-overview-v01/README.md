@@ -12,3 +12,7 @@ python3 workspaces/jetkids/edits/09-reference-led-overview-v01/render-recipe.py
 ```
 
 Local exports:`exports/jetkids-reference-led-overview-v01/`. Sources/PCM/reference/cache/exports excluded from Git. Recipe uses serial veryfastCRF18 segment encoding and existing source-handle transition assembler. Full-decode and sampled visual QA are recorded separately from listening attestation. User approval pending; interview-led work follows overview.
+
+## User approval —20 October2026
+
+Both exports are approved and locked. See `approval-lock.json` for verified hashes. Do not overwrite this version. Interview research is the next stage.

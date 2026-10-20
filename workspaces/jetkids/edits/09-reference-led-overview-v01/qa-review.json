@@ -1,6 +1,6 @@
 {
-  "status": "Review exports rendered; sampled visual review complete, user approval pending",
-  "user_approved": false,
+  "status": "User approved final; locked version09",
+  "user_approved": true,
   "reference_use": "Visual reference only; no supplied reference footage or soundtrack used",
   "audio": "Existing08 entry/diya mix retained at native speed/pitch; sample-exact before75.433s end fade",
   "review_method": "All9 full-span/boundary contact pages inspected per format. Every encoded frame decoded/scanned at reduced resolution. Changed ribbon/bat pages and final portrait memento framing inspected again after refresh. Not full-resolution every-frame playback.",
@@ -174,5 +174,6 @@
       ],
       "dark_frames_explanation": "Opening fade first frame and logo fade first frame."
     }
-  }
+  },
+  "approval_manifest": "approval-lock.json"
 }

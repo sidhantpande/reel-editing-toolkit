@@ -1,46 +1,88 @@
-# Interview stories and the four mandatory event reels
+# Interview stories after the approved overview
 
-Current brief, 20 October 2026: four mandatory sports-event reels plus additional interview-led stories supported by the recordings. This is a research map, not approved cut timings. The separate evening garba/dandiya event on SID-SSD is parked in `workspaces/jetkids-evening-event` and excluded from these stories, as the user requested.
+20 October2026. Overview09 is user-approved and locked in both formats. Its existing native-speed soundtrack stays unchanged. The previous17-reel cue sheet and provisional overview music choices are superseded.
 
-## Four mandatory stories
+## Source coverage
 
-| ID | Story | Sequence and voice possibility | Distinction |
+Downloads/JKIS, HP USB20FD, SECRET, SID-SSD, Sidhant-0 and relevant workspace media were inventoried. The registry has868 stable source IDs, including alias entries; this is not a count of independent interviews.170 interview, prepared-take, test and live-speech candidates cover119.77 minutes.169 received full-source original-language ASR attempts; S463 has measured digital silence. All170 have a local transcript/evidence entry and editorial treatment.
+
+The research uses metadata, ASR, existing complete-duration sample surveys, new5-second full-span contacts and closer speaker/B-roll comparisons. It does not establish every-frame playback, verified listening to every word, or final caption accuracy. Repetition, names, role uncertainty, incomplete thoughts and background PA are explicit exclusions or correction tasks. Do not turn research windows into automatic cuts.
+
+The principal describes the daytime programme as a sports-arena inauguration, with the annual sports meet later. Keep the separate evening garba/dandiya event parked.49 additional mixed-folder MVI entries are linked separately alongside the75 SID evening entries; symlinks require the original volumes and are not backups.49 of the170 research candidates are from this separate evening pool.
+
+## The four event stories
+
+| ID | Story | Editorial progression |
+| --- | --- | --- |
+| EV04 | Complete overview | Approved76.333s. Both formats locked. No revision in this phase. |
+| EV02 | Guest welcome and opening | Individual arrivals, student guidance, greetings/band, ceremony, complete guest reaction.45–70s direction. |
+| EV01 | Games and shared energy | Readable action, teamwork, guest participation, earned reaction.40–65s direction. |
+| EV03 | Teachers join the game | Anticipation, a complete challenge, laughter/encouragement.40–65s direction. Confirm staff identities before labels. |
+
+## Seven individual profiles
+
+These are five distinct cabin guest voices, a school-leadership cabin voice and the principal. Continuation/setup files do not become extra people. Each receives its own coherent edit with corrected captions and relevant real B-roll. A short complementary excerpt may also appear in a mixed story.
+
+| ID | Sources | Main thought | Own-person/context candidates |
 | --- | --- | --- | --- |
-| R1 | Matches, guests and shared event energy | Readable student action → tactical teamwork → guest participation → genuine collective response. V114 about17.8–29.9s can explain teamwork, if the complete answer works. V029 guest batting belongs here with its own identity/context. | Follow actions through their consequences; do not turn it into another venue/opening recap. |
-| R2 | Guests: welcome and opening | Band → greeting/tilak → lamp/ribbon → guest thought → applause. Older C4297/C4300–C4306 and V025–V028 supply candidate coverage. | Guest welcome and inauguration lead. Reserve guest batting mainly for R1 to reduce repetition. |
-| R3 | Teachers: joining the game | Anticipation → establish a game → complete one participant/pair challenge → laughter. V113 about0–12s or V111 about69.2–77.8s can bridge into teamwork. | Staff identities must be confirmed. V115 explicitly discusses parents; do not label every woman as a teacher. |
-| R4 | Complete sports-event overview | One short human thought → opening → children playing → staff/community → earned celebration and original crest. V111 about26–37.4s is a family/nurturing hook candidate. | Cover the event's people and purpose. Do not mix the separate evening event into a continuous day. |
+| G1 | V014 | Education and physical play.35–55s. | S244 guest batting; S181 guided group walk. |
+| G2 | V015/V016/V017 | Opportunities for children and parent trust. V015 is setup, V017 continuation.55–80s. | S178 entrance; S195 diya. |
+| G3 | V018 | Local opportunities and personal pride.35–60s. | S167 greeting; S194 diya; S214 memento. |
+| G4 | V019/V020 | School growth and sport alongside studies. V019 is setup.35–55s. | S169 greeting; S195 diya. |
+| G5 | V021 | Care and appreciation for staff.45–70s. | S171 arrival; S195 diya; S181 escort. |
+| G6 | V211 | Physical play and parent–school partnership.60–90s. | S191 tilak; S065 reaction; S333 handover. Exact designation pending. |
+| L1 | V123/V292 | Individual strengths, participation and event purpose.55–85s. | Actual student play/drill/chess and principal participation. |
 
-The four music first choices remain provisional: Chale Chalo, Shubhaarambh, Sooraj Ki Baahon Mein and Aashayein. Speech must be intelligible; strong song vocals need a deliberate handoff rather than playing across interview sentences. Old cue-sheet drop claims are unapproved.
+Names/titles need correction before lower thirds. Do not publish garbled ASR names, unverified rankings, superlatives or developmental-age claims. Future projects are future plans. G5's annual-function passage has different context. V123/V292 and the26 prepared principal takes show the same speaker, confirmed visually, but belong to different topics/sessions.
 
-## Additional interview-led candidates
+## Four complementary mixed stories to prioritise
 
-### I1. Different children, different strengths
+| ID | Story | Complementary contributions | Visual approach |
+| --- | --- | --- | --- |
+| M3 | Parents relive school days | V384 childhood memories → V291 children wake Papa for the event → V292 why parents play. V230 is a clear alternate reaction. | Genuine adult play and reactions, with identities checked.50–70s. |
+| M6 | Parents and teachers work together | V211 partnership intent → V289 teacher communication practice → V294 parent experience. V288 alternate. | Real interaction and care; retain speaker when no exact classroom coverage exists.45–65s. |
+| M7 | Students take responsibility | V269 student organisers supported by teachers → V124 anchoring/participation. | Actual student hosts S209/S210 and guidance S181.35–55s. |
+| M2 | Care in everyday school life | V111 nurturing/coordination → V125 student's view of teachers → optional complementary V021 statement. | Genuine teacher-child warmth such as S126, without inventing relationships.35–60s. |
 
-Research length35–55s, depending on verified complete sentences. Lead with V123 about40.6–54s: the speaker discusses individual interests and strengths becoming visible through sport. Follow with V114 about17.8–29.9s on teamwork/management, then V124 about14.4–19.5s on sports/anchoring/cultural opportunities. This is a complementary adult → teacher → student progression, not a claim that they answered the same question.
+V111 and V267 are the same sports/staff speaker in different takes. V115 and V289 are different women despite similar uniforms. V116/V119 explicitly speak as parents; additional staff roles are unconfirmed. Do not label every sari-wearing adult a teacher.
 
-Match sport references with actual cricket/kabaddi/drill/TT/chess, and coordination with real shared actions. V124 mentions anchoring/culture; student-host footage C4315/C4316 may provide context only after checking whether it shows a suitable complete moment. Do not use the unrelated evening dance as evidence of this daytime answer. Suggested title direction: “Every child, a different strength” is editorial text, not a verbatim quote. Leave the music bed quiet and avoid repeating the exact same thought already used as the overview hook.
+V278's positive observations come from limited recent experience and include a later qualification. Preserve that context rather than constructing a blanket guarantee. V226 contains two children, and its later PA speech is not either child's answer. V227/V258 are not interchangeable because of uniforms.
 
-### I2. The school as a family
+## Alternates, not extra near-identical releases
 
-Research length30–45s. V111 about26–45.4s supplies a coherent thought about nurturing students and family, with optional continuation54.4–64.3s about staff. V125 about10–21.4s offers a student's perspective on teachers and enjoyable classes. V021's possible nurturing statement remains a Hindi correction task, not a third usable quote yet.
+- M1: interests → teamwork → student learning/confidence. V123 or V247, then V114, then V243/V295. One adult interest statement is enough.
+- ST-P1: student confidence profile from V295. Choose a solo treatment or the combined growth story, not two redundant releases. Exact name/sport/score needs correction.
+- M4: outdoor play from the clearer complete V225 answer, with V119 only if its restarted answer is corrected. Advance only if distinct from parents-play M3.
+- M5: student opportunities, using V022/V023 and V124/V125. Hold if it repeats M1/M2.
 
-B-roll should show genuine teacher-child help, encouragement and attentive interactions. A trophy or generic dancing crowd does not illustrate care by itself. This longer interview story competes with the overview's family hook: use different complete excerpts or choose one treatment, rather than making two near-identical reels. Classroom claims stay attributed; no invented classroom footage.
+## Later principal explainer series
 
-### I3. Students explain their opportunities
+26 prepared takes from MVI0749–0775, excluding the different presenter in MVI0759, form topic continuations and pickups. They are not26 interviewees or26 required reels.
 
-Research length30–45s. V023 about10–29s discusses extracurricular opportunities/library/sports ground; V124 about14.4–19.5s gives a concise skills list; V125 about4.9–21.4s discusses facilities, studies and teachers. Build from opportunity → participation → personal feeling. Remove interviewer questions, prompting and repeated starts, retaining one complete answer from each selected speaker.
+| ID | Topic | Sources | Editorial decision |
+| --- | --- | --- | --- |
+| E1 | Understanding each child | V249/V359 | Emotions and individuality.35–55s. |
+| E2 | How teachers adapt lessons | V213/V367/V250 | Different learning needs, preparation and teacher growth.55–85s. |
+| E3 | Discipline and independent decisions | V214/V377/V368/V360 |40–65s. V377's ending needs recovery; the complete mistakes/choices pair can stand separately if needed. |
+| E4 | Assessment beyond marks | V280/V205/V370/V232 | Reserve. The initial example/context is incomplete; do not force an ending. |
+| E5 | What to discuss at a parent–teacher meeting | V281/V282; V233 alternate | Practical communication beyond marks.55–80s. Separate from event testimonial M6. |
+| E6 | The teacher we remember | V216; V371 optional | Encouragement, confidence and memories.45–70s. |
+| E7 | Ready for life after school | V271/V206/V217/V378 | Expression, dreams and life readiness.50–80s. Remove repeated starts. |
 
-Use actual sports, student hosting and campus coverage only where it matches the spoken point. Library/classroom references have no confirmed matching B-roll in the current selection, so keep the speaker on screen or omit that phrase intact at a sentence boundary. This can be an alternative to I1 if the usable quotes repeat the same information; three interview candidates are not a commitment to three redundant edits.
+These are later evergreen content, not a claim that all should publish immediately after the event.
 
-### I4. Parents also get to play — reserve
+## Treatment and meaning
 
-V115 about33–55.9s discusses a sports meet for busy parents. The English-constrained comparison recovers this point more clearly than language-auto ASR. It is not yet a two/three-speaker story, and the game participants' identities are unresolved. Keep on reserve until another relevant voice and matching parent footage are verified. Do not relabel the teachers reel to make this work.
+Natural dialogue speed stays1.0. Slow motion belongs on suitable silent B-roll after checking native/conformed source timing. Establish the speaker, bridge to relevant B-roll with a restrained L-cut, return for an important expression/ending. Use J-cuts only when the next complete thought and image handoff read clearly. Let a complete sentence breathe instead of cutting every syllable to music.
 
-## Speech and edit evidence
+Proposed fonts are Montserrat Semibold and Noto Sans Devanagari Semibold with short readable caption groups, subtle motion and restrained navy/gold accents. The saved style is a proposal for these edits, not user approval of a rendered caption look. Keep quiet music under speech; measure intelligibility/levels and inspect the actual export. Existing overview music is untouched.
 
-Eight English interview takes received an additional English-constrained, overlapping ASR comparison. This resolves several previous language-auto repetitions but remains draft wording. V124's useful skills sentence is approximately14.4–19.5s, rather than treating its whole earlier7–20s research window as one clean quote. V111's unfinished64–68s section and questions/setups remain excluded candidates.
+Portrait must remain full-frame with source-specific headroom/crop. Sideways Canon sources are reviewed upright. Native portraitHD may not support a clean landscape close crop; use a suitable angle or an intentional generous A-roll/B-roll composition. No tiny landscape inset over blur, stretched heads, event-photo inserts or dialogue dubbed over a different visibly speaking take.
 
-The local workbook contains one row per proposed voice contribution, source-relative research windows, meaning, B-roll, text direction, format feasibility and remaining checks. Times are not approved edit in/out. Before timeline creation, verify complete recorded answers and word boundaries, speaker identity, relevant motion and both crops. No claims of full listening approval or final captions are made from ASR. Never splice words from different answers into a new statement.
+No confirmed classroom/library teaching coverage, archived wrestling/lawn-tennis tournaments or student travel/accommodation coverage is established in the current B-roll bank. Keep the speaker or omit a whole clause. Kabaddi is not wrestling, table tennis is not lawn tennis, and guest cars do not illustrate a student travelling to a match. Do not fabricate a tournament score or championship badge.
 
-Portrait and landscape need separate coverage decisions. Canon sideways portrait interviews should be reviewed upright; native DJI portrait can fill9:16. Landscape needs suitable landscape angles or a carefully reviewed crop with adequate headroom; no small landscape inset over blur in portrait. Original sources and draft transcripts remain local.
+## Local handoff
+
+`exports/jetkids-interview-research/production-plan.md` contains the detailed plan. The six-tab master workbook lives at `exports/jetkids-interview-research/outputs/session-20261020/jetkids-interview-master.xlsx`:26 editorial options including reserves, seven profiles,170 candidate treatments,53 source-relative quote windows,32 B-roll candidates and coverage. `listening-index.md` links all originals, working research audio and170 transcript files. Raw dialogue/media remain local and excluded from Git.
+
+Before an individual timeline is built, correct the chosen speech, verify names/roles, preserve complete phonemes and calibrate both crops. Then create the per-video production plan, cut-list, source-owned corrected words and editorial data; preflight, render and inspect actual captions, speech, cut/B-roll boundaries and original crest. This research handoff does not claim new final reels or dialogue approval.

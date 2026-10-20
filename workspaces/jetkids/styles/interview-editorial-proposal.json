@@ -1,0 +1,45 @@
+{
+  "status": "Proposed for the next interview edits; not an approved rendered look",
+  "formats": {
+    "portrait": [
+      1080,
+      1920
+    ],
+    "landscape": [
+      1920,
+      1080
+    ]
+  },
+  "timeline_fps": 30,
+  "speech_speed": 1,
+  "captions": {
+    "latin_font": "Montserrat SemiBold",
+    "devanagari_font": "Noto Sans Devanagari Semibold",
+    "language": "Preserve actual spoken English/Hindi/Hinglish; manually correct ASR before word alignment",
+    "max_lines": 2,
+    "portrait_font_px_research_range": [
+      48,
+      60
+    ],
+    "landscape_font_px_research_range": [
+      34,
+      44
+    ],
+    "placement": "Lower safe area calibrated to speaker, hands and platform UI; do not reuse a universal y coordinate",
+    "motion": "Gentle4–6frame rise/fade, restrained shadows; no continuous bouncing",
+    "accent": "Warm gold on a few meaningful words; retain navy/white contrast; no clinic/NioLearn styling"
+  },
+  "speaker_identity": "Name/role lower third only after reliable verification. Appearance alone does not establish parent/teacher/guest role.",
+  "broll": "Actual Jet Kids footage matched to the spoken point. No event photos, fabricated classroom/library shots, evening-event continuity or unrelated stock footage.",
+  "cuts": "Preserve complete words, meaning and genuine gestures. Remove interviewer setup/false starts at reviewed boundaries; do not build statements from unrelated answers.",
+  "audio": "Natural original dialogue at100% speed. Conservative denoise only where needed, stable dialogue level, quiet instrumental bed with ducking; combined target around-14LUFS and <=-1dBTP. Measure and listen after render.",
+  "j_l_cuts": "Use short speech bridges under relevant B-roll when the complete sentence remains clear; avoid chopping phonemes or covering a needed facial reaction.",
+  "portrait": "Full-frame source-specific crop or upright native portrait; inspect head, hands and gesture throughout.",
+  "landscape": "Prefer real landscape A-roll/coverage. For a true vertical cabin source, evaluate a full-frame close crop or a generous talking-head/B-roll split composition rather than silently losing the full gesture.",
+  "required_review": "Correct selected dialogue, verify source/action/crop, inspect every caption and boundary, full encoded audio/visual review before recording final QA.",
+  "font_sources": {
+    "Montserrat": "workspaces/my-dental-skin-clinic/assets/fonts/montserrat/Montserrat[wght].ttf",
+    "Noto Sans Devanagari": "workspaces/my-dental-skin-clinic/assets/fonts/notosansdevanagari/NotoSansDevanagari[wdth,wght].ttf"
+  },
+  "font_note": "Existing reusable font files; new Jet Kids treatment, not the clinic caption preset."
+}

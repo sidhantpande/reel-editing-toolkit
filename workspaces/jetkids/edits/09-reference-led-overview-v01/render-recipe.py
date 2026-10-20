@@ -6,7 +6,10 @@ ROOT=Path.cwd();sys.path.insert(0,str(ROOT/'tools'))
 from event_transitions import assemble,transition
 from log_colour import probe,digest
 from subject_track import crop_expression
-B=ROOT/'.cache/jetkids/reference-led-overview-v01';B.mkdir(exist_ok=True);PROJECT=ROOT/'workspaces/jetkids/edits/09-reference-led-overview-v01';CAT=json.loads((PROJECT/'source-catalog.json').read_text())
+from approved_delivery import assert_unlocked
+PROJECT=ROOT/'workspaces/jetkids/edits/09-reference-led-overview-v01'
+assert_unlocked(PROJECT,preflight='--preflight' in sys.argv)
+B=ROOT/'.cache/jetkids/reference-led-overview-v01';B.mkdir(exist_ok=True);CAT=json.loads((PROJECT/'source-catalog.json').read_text())
 def run(args):
  r=subprocess.run(['ffmpeg','-nostdin','-hide_banner','-loglevel','error',*args],capture_output=True,text=True)
  if r.returncode:raise RuntimeError(r.stderr[-5000:])

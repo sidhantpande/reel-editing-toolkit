@@ -1,0 +1,20 @@
+{
+  "file": "/Users/shwetaranjan/Desktop/Video-Editingh/exports/jetkids-overview-rebuild-v01/landscape.mp4",
+  "sha256": "68425feb44afb6339f77fcc0063e78e1b390bfa5f3dc8a9d4a5ac745772965f3",
+  "frames": "1652",
+  "full_decode": "passed",
+  "loudness": {
+    "input_i": "-14.08",
+    "input_tp": "-1.38",
+    "input_lra": "1.90",
+    "input_thresh": "-24.10",
+    "output_i": "-14.25",
+    "output_tp": "-1.56",
+    "output_lra": "1.60",
+    "output_thresh": "-24.26",
+    "normalization_type": "dynamic",
+    "target_offset": "0.25"
+  },
+  "visual_review": "pending",
+  "listening_review": "not attested"
+}

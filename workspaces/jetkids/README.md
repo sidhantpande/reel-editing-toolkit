@@ -1,8 +1,8 @@
 # Jet Kids event workspace
 
-**Current brief: four mandatory event reels plus additional interview-led stories, each eventually in landscape and portrait. Current work is the arrival-led overview revision02 in landscape and portrait, using the two latest user-supplied audio mixes. Full interview transcription/review and in-depth talking-head edits with relevant B-roll follow the overview.**
+**Overview09 is approved and locked in both landscape and portrait.** Verified export hashes and the user's approval are recorded in [approval-lock.json](edits/09-reference-led-overview-v01/approval-lock.json). Keep this version unchanged.
 
-All earlier overview previews are rejected historical drafts. The old 17-concept plan, soundtrack assignments and portrait fit-video treatment are superseded. Read [the current brief](AGENTS.md) and [restart findings](docs/RESTART_REVIEW.md). New source volumes: `/Volumes/SID-SSD` and `/Volumes/Sidhant-0`; earlier source: `/Users/shwetaranjan/Pictures/OCT18-PIXON`.
+Current work: full interview research across Downloads/JKIS, mounted HP USB20FD, SECRET, SID-SSD, Sidhant-0 and relevant workspace media. Each cabin guest gets an individual story with captions and real matching B-roll. Parents, teachers and students may also form coherent thematic stories. Retakes and continuation files are grouped by speaker/context. The separate evening event remains separate. The old17-concept plan and old music assignments are superseded.
 
 The inventory includes 470 Sony MP4s under Videos plus five Nikon MOVs under Photos: 475 clips, 55 minutes 36 seconds, about 45.5 GiB. Existing source XML identifies Sony ILCE-7M4 (A7 IV) and ILCE-7RM5 (A7R V).
 
@@ -31,18 +31,20 @@ See [colour workflow](../../docs/COLOUR_WORKFLOW.md), [reference analysis](docs/
 
 ## Historical work and restart evidence
 
-Earlier technical conversion produced345 verified Sony Rec.709 masters. The125 display-referred Sony sources remain untransformed. Five historical Nikon MOV paths are currently absent. Previous sampled survey notes are retained for comparison; they are not approval of the rejected edit choices.
+Earlier technical conversion produced345 verified Sony Rec.709 masters. The125 display-referred Sony sources remain untransformed. Five historical Nikon MOVs were reconnected on SECRET with matching original SHA-256 hashes. Previous sampled survey notes are retained for comparison; they are not approval of the rejected edit choices.
 
 The old17-concept plan and all landscape/portrait preview versions are superseded by the current source-led restart. The fit-video portrait treatment is rejected. See [restart findings](docs/RESTART_REVIEW.md) for current source pools and review limitations. The local mapping workbook is `exports/jetkids-restart-review/jetkids-footage-mapping.xlsx`; raw interviews, draft transcripts and caches stay local.
 
 ## Current story mapping
 
-The four mandatory sports-event stories and additional interview-led research are in [INTERVIEW_STORY_MAP.md](docs/INTERVIEW_STORY_MAP.md). SID-SSD was inventoried:65 existing sports-source matches and75 entries from a separate evening event. The user asked to park the evening material in [its own workspace](../jetkids-evening-event/README.md). The local workbook now has eight tabs, including interview contributions, selected-action research and the SID-SSD event assignment ledger. Draft times are not approved cut points.
+The four mandatory sports-event stories and additional interview-led research are in [INTERVIEW_STORY_MAP.md](docs/INTERVIEW_STORY_MAP.md). SID-SSD was inventoried:65 existing sports-source matches and75 entries from a separate evening event. The user asked to park the evening material in [its own workspace](../jetkids-evening-event/README.md). The older eight-tab restart workbook is historical. The current six-tab interview master is `exports/jetkids-interview-research/outputs/session-20261020/jetkids-interview-master.xlsx`, with170 candidate treatments, seven individual profiles,53 quote research windows,32 B-roll candidates and source coverage. Draft times are not approved cut points.
 
-## Current overview revision
+## Locked overview and next stage
 
-See [arrival-led revision02](edits/09-reference-led-overview-v01/production-plan.md). The first supplied new reference supplies diya/continuation music; the second supplies entry music. Earlier arrival-flow and overview rebuild exports are rejected history. Optional [neural beat analysis](../../docs/NEURAL_BEAT_ANALYSIS.md) and [subject tracking](../../docs/SUBJECT_TRACKING.md) run in isolated local environments. Raw/reference media, transcripts, models and exports remain local. Sony originals are now on HP USB20FD; the five historical Nikon MOVs were found on SECRET and their full hashes match.
+The approved [version09 project](edits/09-reference-led-overview-v01/production-plan.md) retains the existing original-speed entry/diya soundtrack. The later132.96s supplied video was visual guidance only; no picture or audio from it appears in the approved overview. Both exports run76.333s at30fps. Original camera/master frame rates are preserved; [native-speed evidence](edits/08-overview-polish-v01/native-speed-audit.json) distinguishes capture fps from delivery fps.
 
-Current delivery settings are saved in `styles/event-cinematic.json`. Original/master speed evidence is in `edits/09-reference-led-overview-v01/native-speed-audit.json`.30fps is delivery; native camera frame rates remain in the masters. The current overview is a review revision, pending user response. Full interview-led edits remain the next commissioned phase.
+[Cleanup evidence](edits/09-reference-led-overview-v01/cache-cleanup.json) lists removed derived overview caches and retained QA. Original footage, final exports, interview research, source surveys and reusable dependencies remain local. Optional [neural beat analysis](../../docs/NEURAL_BEAT_ANALYSIS.md) and [subject tracking](../../docs/SUBJECT_TRACKING.md) remain available for future work.
 
-Latest09 brief:08 rejected for shot selection/flow. New supplied132.96s video is VISUAL REFERENCE ONLY. Keep the existing original-speed entry/diya soundtrack; do not use any audio or picture from the new reference. Fresh shorter, clear original-camera shots and restrained cuts;76.333s dual-format review.
+Current interview deliverables live locally under `exports/jetkids-interview-research/`; working evidence remains under `.cache/jetkids/interview-deep-review/`.169 full-source ASR attempts plus one measured-silent source account for all170 candidates. The plan prioritises seven individual profiles and four complementary mixed stories while keeping four core event reels and a later principal explainer series distinct. Original-language ASR drafts and review contacts are evidence for planning, not approved captions or an attestation of complete listening. Full raw transcripts and client exports stay out of Git.
+
+See [the local interview workflow](../../docs/INTERVIEW_RESEARCH.md) for the installed/pinned transcription tools, source-aware research compiler and executable approved-export verification. The [interview editorial proposal](styles/interview-editorial-proposal.json) saves the next-stage caption, audio and B-roll direction separately from the approved overview settings.
