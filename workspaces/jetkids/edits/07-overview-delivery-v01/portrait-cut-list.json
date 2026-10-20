@@ -1,0 +1,325 @@
+{
+  "fps": 30,
+  "format": "portrait",
+  "cuts": [
+    {
+      "source_id": "S159",
+      "source_in_seconds": 0.4,
+      "speed": 0.4,
+      "timeline_in_frame": 0,
+      "frames": 79,
+      "transitionIn": {
+        "kind": "cut",
+        "frames": 0
+      }
+    },
+    {
+      "source_id": "S159",
+      "source_in_seconds": 29.1,
+      "speed": 0.5,
+      "timeline_in_frame": 79,
+      "frames": 79,
+      "transitionIn": {
+        "kind": "hblur",
+        "frames": 6
+      }
+    },
+    {
+      "source_id": "S164",
+      "source_in_seconds": 0.05,
+      "speed": 0.75,
+      "timeline_in_frame": 158,
+      "frames": 98,
+      "transitionIn": {
+        "kind": "fadeslow",
+        "frames": 8
+      }
+    },
+    {
+      "source_id": "S166",
+      "source_in_seconds": 0.7,
+      "speed": 0.6,
+      "timeline_in_frame": 256,
+      "frames": 58,
+      "transitionIn": {
+        "kind": "smoothleft",
+        "frames": 8
+      }
+    },
+    {
+      "source_id": "S167",
+      "source_in_seconds": 0.05,
+      "speed": 0.55,
+      "timeline_in_frame": 314,
+      "frames": 117,
+      "transitionIn": {
+        "kind": "fadeslow",
+        "frames": 6
+      }
+    },
+    {
+      "source_id": "S169",
+      "source_in_seconds": 0.1,
+      "speed": 0.65,
+      "timeline_in_frame": 431,
+      "frames": 137,
+      "transitionIn": {
+        "kind": "hblur",
+        "frames": 6
+      }
+    },
+    {
+      "source_id": "S171",
+      "source_in_seconds": 0.2,
+      "speed": 0.3,
+      "timeline_in_frame": 568,
+      "frames": 98,
+      "transitionIn": {
+        "kind": "fadeslow",
+        "frames": 10
+      }
+    },
+    {
+      "source_id": "V327",
+      "source_in_seconds": 0.7,
+      "speed": 0.7,
+      "timeline_in_frame": 666,
+      "frames": 59,
+      "transitionIn": {
+        "kind": "fadeslow",
+        "frames": 12
+      }
+    },
+    {
+      "source_id": "V312",
+      "source_in_seconds": 1.0,
+      "speed": 0.7,
+      "timeline_in_frame": 725,
+      "frames": 59,
+      "transitionIn": {
+        "kind": "cut",
+        "frames": 0
+      }
+    },
+    {
+      "source_id": "V389",
+      "source_in_seconds": 45.55,
+      "speed": 0.7,
+      "timeline_in_frame": 784,
+      "frames": 156,
+      "transitionIn": {
+        "kind": "fade",
+        "frames": 12
+      }
+    },
+    {
+      "source_id": "V319",
+      "source_in_seconds": 8.5,
+      "speed": 1.0,
+      "timeline_in_frame": 940,
+      "frames": 79,
+      "transitionIn": {
+        "kind": "fadeslow",
+        "frames": 15
+      }
+    },
+    {
+      "source_id": "S195",
+      "source_in_seconds": 0.15,
+      "speed": 0.9,
+      "timeline_in_frame": 1019,
+      "frames": 78,
+      "transitionIn": {
+        "kind": "fade",
+        "frames": 10
+      }
+    },
+    {
+      "source_id": "S196",
+      "source_in_seconds": 0.02,
+      "speed": 0.55,
+      "timeline_in_frame": 1097,
+      "frames": 78,
+      "transitionIn": {
+        "kind": "fade",
+        "frames": 8
+      }
+    },
+    {
+      "source_id": "V301",
+      "source_in_seconds": 11.328,
+      "speed": 0.6,
+      "timeline_in_frame": 1175,
+      "frames": 156,
+      "transitionIn": {
+        "kind": "fade",
+        "frames": 12
+      }
+    },
+    {
+      "source_id": "S201",
+      "source_in_seconds": 0.5,
+      "speed": 1.0,
+      "timeline_in_frame": 1331,
+      "frames": 78,
+      "transitionIn": {
+        "kind": "fadeslow",
+        "frames": 8
+      }
+    },
+    {
+      "source_id": "V361",
+      "source_in_seconds": 3.5,
+      "speed": 1.0,
+      "timeline_in_frame": 1409,
+      "frames": 79,
+      "transitionIn": {
+        "kind": "cut",
+        "frames": 0
+      }
+    },
+    {
+      "source_id": "S207",
+      "source_in_seconds": 0.5,
+      "speed": 1.0,
+      "timeline_in_frame": 1488,
+      "frames": 78,
+      "transitionIn": {
+        "kind": "cut",
+        "frames": 0
+      }
+    },
+    {
+      "source_id": "V029",
+      "source_in_seconds": 1.8,
+      "speed": 1.0,
+      "timeline_in_frame": 1566,
+      "frames": 98,
+      "transitionIn": {
+        "kind": "hblur",
+        "frames": 6
+      }
+    },
+    {
+      "source_id": "S206",
+      "source_in_seconds": 20.0,
+      "speed": 0.9,
+      "timeline_in_frame": 1664,
+      "frames": 58,
+      "transitionIn": {
+        "kind": "cut",
+        "frames": 0
+      }
+    },
+    {
+      "source_id": "S042",
+      "source_in_seconds": 4.0,
+      "speed": 0.3,
+      "timeline_in_frame": 1722,
+      "frames": 79,
+      "transitionIn": {
+        "kind": "cut",
+        "frames": 0
+      }
+    },
+    {
+      "source_id": "S259",
+      "source_in_seconds": 18.5,
+      "speed": 1.0,
+      "timeline_in_frame": 1801,
+      "frames": 78,
+      "transitionIn": {
+        "kind": "cut",
+        "frames": 0
+      }
+    },
+    {
+      "source_id": "S281",
+      "source_in_seconds": 3.2,
+      "speed": 0.8,
+      "timeline_in_frame": 1879,
+      "frames": 78,
+      "transitionIn": {
+        "kind": "smoothleft",
+        "frames": 6
+      }
+    },
+    {
+      "source_id": "S231",
+      "source_in_seconds": 4.35,
+      "speed": 0.6,
+      "timeline_in_frame": 1957,
+      "frames": 79,
+      "transitionIn": {
+        "kind": "cut",
+        "frames": 0
+      }
+    },
+    {
+      "source_id": "V279",
+      "source_in_seconds": 3.4,
+      "speed": 1.0,
+      "timeline_in_frame": 2036,
+      "frames": 78,
+      "transitionIn": {
+        "kind": "fadeslow",
+        "frames": 6
+      }
+    },
+    {
+      "source_id": "S103",
+      "source_in_seconds": 6.0,
+      "speed": 0.7,
+      "timeline_in_frame": 2114,
+      "frames": 78,
+      "transitionIn": {
+        "kind": "fadeslow",
+        "frames": 8
+      }
+    },
+    {
+      "source_id": "S111",
+      "source_in_seconds": 5.15,
+      "speed": 0.8,
+      "timeline_in_frame": 2192,
+      "frames": 79,
+      "transitionIn": {
+        "kind": "cut",
+        "frames": 0
+      }
+    },
+    {
+      "source_id": "S149",
+      "source_in_seconds": 0.35,
+      "speed": 0.6,
+      "timeline_in_frame": 2271,
+      "frames": 78,
+      "transitionIn": {
+        "kind": "fade",
+        "frames": 6
+      }
+    },
+    {
+      "source_id": "S333",
+      "source_in_seconds": 0.1,
+      "speed": 0.7,
+      "timeline_in_frame": 2349,
+      "frames": 78,
+      "transitionIn": {
+        "kind": "fade",
+        "frames": 10
+      }
+    },
+    {
+      "source_id": "S341",
+      "source_in_seconds": 1.15,
+      "speed": 0.65,
+      "timeline_in_frame": 2427,
+      "frames": 109,
+      "transitionIn": {
+        "kind": "cut",
+        "frames": 0
+      }
+    }
+  ]
+}

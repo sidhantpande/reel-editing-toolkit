@@ -1,0 +1,622 @@
+{
+  "id": "jetkids-overview-delivery-v01",
+  "format": "landscape",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "eventPhotoInserts": false,
+  "no_evening_event": true,
+  "shots": [
+    {
+      "source_id": "S159",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4265.mov",
+      "in": 0.4,
+      "speed": 0.4,
+      "frames": 79,
+      "timeline_start_frame": 0,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Vehicle arrival"
+    },
+    {
+      "source_id": "S159",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4265.mov",
+      "in": 29.1,
+      "speed": 0.5,
+      "frames": 79,
+      "timeline_start_frame": 79,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "White-kurta guest greeting",
+      "transitionIn": {
+        "kind": "hblur",
+        "frames": 6
+      }
+    },
+    {
+      "source_id": "S164",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4270.mov",
+      "in": 0.05,
+      "speed": 0.75,
+      "frames": 98,
+      "timeline_start_frame": 158,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Blue-shirt guest complete greeting",
+      "transitionIn": {
+        "kind": "fadeslow",
+        "frames": 8
+      }
+    },
+    {
+      "source_id": "S166",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4272.mov",
+      "in": 0.7,
+      "speed": 0.6,
+      "frames": 58,
+      "timeline_start_frame": 256,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Cream-coat guest vehicle approaching",
+      "transitionIn": {
+        "kind": "smoothleft",
+        "frames": 8
+      }
+    },
+    {
+      "source_id": "S167",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4273.mov",
+      "in": 0.05,
+      "speed": 0.55,
+      "frames": 117,
+      "timeline_start_frame": 314,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Cream-coat guest handshake and namaste",
+      "transitionIn": {
+        "kind": "fadeslow",
+        "frames": 6
+      }
+    },
+    {
+      "source_id": "S169",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4275.mov",
+      "in": 0.1,
+      "speed": 0.65,
+      "frames": 137,
+      "timeline_start_frame": 431,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Guest steps out of his actual vehicle and greets host; no unrelated police-car pairing",
+      "transitionIn": {
+        "kind": "hblur",
+        "frames": 6
+      }
+    },
+    {
+      "source_id": "S171",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4277.mov",
+      "in": 0.2,
+      "speed": 0.3,
+      "frames": 98,
+      "timeline_start_frame": 568,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Lady guest entry",
+      "transitionIn": {
+        "kind": "fadeslow",
+        "frames": 10
+      }
+    },
+    {
+      "source_id": "S180",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4286.mov",
+      "in": 7.0,
+      "speed": 0.7,
+      "frames": 59,
+      "timeline_start_frame": 666,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Student-guided steps",
+      "transitionIn": {
+        "kind": "fadeslow",
+        "frames": 12
+      }
+    },
+    {
+      "source_id": "S183",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4289.mov",
+      "in": 3.0,
+      "speed": 0.7,
+      "frames": 59,
+      "timeline_start_frame": 725,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Student-led band procession"
+    },
+    {
+      "source_id": "S191",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4297.mov",
+      "in": 23.8,
+      "speed": 0.7,
+      "frames": 156,
+      "timeline_start_frame": 784,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Complete tilak gesture and hand withdrawal",
+      "transitionIn": {
+        "kind": "fade",
+        "frames": 12
+      }
+    },
+    {
+      "source_id": "S194",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4300.mov",
+      "in": 5.35,
+      "speed": 0.8,
+      "frames": 79,
+      "timeline_start_frame": 940,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Diya lighting: guest hand and lamp",
+      "transitionIn": {
+        "kind": "fadeslow",
+        "frames": 15
+      }
+    },
+    {
+      "source_id": "S195",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4301.mov",
+      "in": 0.15,
+      "speed": 0.9,
+      "frames": 78,
+      "timeline_start_frame": 1019,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Lady guest lights diya",
+      "transitionIn": {
+        "kind": "fade",
+        "frames": 10
+      }
+    },
+    {
+      "source_id": "S196",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4302.mov",
+      "in": 0.02,
+      "speed": 0.55,
+      "frames": 78,
+      "timeline_start_frame": 1097,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Blue-shirt guest lights diya; final ceremonial detail",
+      "transitionIn": {
+        "kind": "fade",
+        "frames": 8
+      }
+    },
+    {
+      "source_id": "S200",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4306.mov",
+      "in": 1.828,
+      "speed": 0.6,
+      "frames": 156,
+      "timeline_start_frame": 1175,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Ribbon preparation, release and applause; release placed on continuation bar",
+      "transitionIn": {
+        "kind": "fade",
+        "frames": 12
+      }
+    },
+    {
+      "source_id": "S201",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4307.mov",
+      "in": 0.5,
+      "speed": 1.0,
+      "frames": 78,
+      "timeline_start_frame": 1331,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Ground reveal and guest group after opening",
+      "transitionIn": {
+        "kind": "fadeslow",
+        "frames": 8
+      }
+    },
+    {
+      "source_id": "S205",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4311.mov",
+      "in": 0.4,
+      "speed": 1.0,
+      "frames": 79,
+      "timeline_start_frame": 1409,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Ground visit; guide explains the court"
+    },
+    {
+      "source_id": "S207",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4313.mov",
+      "in": 0.5,
+      "speed": 1.0,
+      "frames": 78,
+      "timeline_start_frame": 1488,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Lady guest interacts with student leaders on ground"
+    },
+    {
+      "source_id": "S244",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4351.mov",
+      "in": 2.2,
+      "speed": 0.75,
+      "frames": 98,
+      "timeline_start_frame": 1566,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Guest cricket swing with follow-through",
+      "transitionIn": {
+        "kind": "hblur",
+        "frames": 6
+      }
+    },
+    {
+      "source_id": "S206",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4312.mov",
+      "in": 20.0,
+      "speed": 0.9,
+      "frames": 58,
+      "timeline_start_frame": 1664,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Guests meet students while touring the ground"
+    },
+    {
+      "source_id": "S042",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4147.mov",
+      "in": 4.0,
+      "speed": 0.3,
+      "frames": 79,
+      "timeline_start_frame": 1722,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Student cricket: backswing, contact and follow-through"
+    },
+    {
+      "source_id": "S259",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4366.mov",
+      "in": 18.5,
+      "speed": 1.0,
+      "frames": 78,
+      "timeline_start_frame": 1801,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Kabaddi: lunge/tackle with recovery"
+    },
+    {
+      "source_id": "S281",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4388.mov",
+      "in": 3.2,
+      "speed": 0.8,
+      "frames": 78,
+      "timeline_start_frame": 1879,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Kho-kho direction change and chase",
+      "transitionIn": {
+        "kind": "smoothleft",
+        "frames": 6
+      }
+    },
+    {
+      "source_id": "S231",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4337.mov",
+      "in": 4.35,
+      "speed": 0.6,
+      "frames": 79,
+      "timeline_start_frame": 1957,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Coordinated drill prop lift"
+    },
+    {
+      "source_id": "V279",
+      "source": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-009/Slot-06/MVI_0564.MP4",
+      "in": 3.4,
+      "speed": 1.0,
+      "frames": 78,
+      "timeline_start_frame": 2036,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Actual table-tennis serve/return; discard former static waiting shot",
+      "transitionIn": {
+        "kind": "fadeslow",
+        "frames": 6
+      }
+    },
+    {
+      "source_id": "S103",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4209.mov",
+      "in": 6.0,
+      "speed": 0.7,
+      "frames": 78,
+      "timeline_start_frame": 2114,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Chess piece movement and concentration",
+      "transitionIn": {
+        "kind": "fadeslow",
+        "frames": 8
+      }
+    },
+    {
+      "source_id": "S111",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4217.mov",
+      "in": 5.15,
+      "speed": 0.8,
+      "frames": 79,
+      "timeline_start_frame": 2192,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Teacher hoop game interaction"
+    },
+    {
+      "source_id": "S149",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4255.mov",
+      "in": 0.35,
+      "speed": 0.6,
+      "frames": 78,
+      "timeline_start_frame": 2271,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Teacher reaction and smile",
+      "transitionIn": {
+        "kind": "fade",
+        "frames": 6
+      }
+    },
+    {
+      "source_id": "S333",
+      "source": "/Volumes/HP USB20FD/Videos/1/C4440.MP4",
+      "in": 0.1,
+      "speed": 0.7,
+      "frames": 78,
+      "timeline_start_frame": 2349,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Student award and school celebration",
+      "transitionIn": {
+        "kind": "fade",
+        "frames": 10
+      }
+    },
+    {
+      "source_id": "S341",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4448.mov",
+      "in": 1.15,
+      "speed": 0.65,
+      "frames": 109,
+      "timeline_start_frame": 2427,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Team trophy lift completes the event overview"
+    }
+  ],
+  "logoFrames": 59,
+  "totalFrames": 2595,
+  "logo": "/Users/shwetaranjan/Desktop/Video-Editingh/public/assets/brands/jetkids/logo-original.jpg",
+  "audio": {
+    "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/music/jetkids/overview-user-tracks/v02-mixed-normalised.wav",
+    "in": 0,
+    "entry_source_in": 0.2,
+    "entry_tempo": 0.7666666667,
+    "continuation_source_in": 0.04,
+    "continuation_timeline_in": 28.72,
+    "handover_seconds": 2.584347826000002,
+    "note": "Pitch-preserving entry tempo adjustment120 to92BPM. Beat-aligned handover under tilak before diya; dry melodies separated, percussion on matching grid."
+  }
+}

@@ -1,0 +1,2199 @@
+{
+  "registry": "Research IDs V203\u2013V393 reserved without renumbering earlier V/S IDs. Five Nikon entries alias historical S001\u2013S005.",
+  "roots": [
+    "Downloads/JKIS",
+    "/Volumes/SECRET"
+  ],
+  "sources": [
+    {
+      "id": "V203",
+      "research_id": "N001",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-001/Slot-04/MVI_0506.MP4",
+      "bytes": 163671656,
+      "aliases": [
+        "/Volumes/SECRET/drive-download-20261019T154400Z-1-005/Slot-06/MVI_0506.MP4"
+      ],
+      "duration_seconds": 43.96,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V204",
+      "research_id": "N002",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-001/Slot-05/MVI_0761.MP4",
+      "bytes": 21474416,
+      "aliases": [],
+      "duration_seconds": 5.64,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V205",
+      "research_id": "N003",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-001/Slot-05/MVI_0763.MP4",
+      "bytes": 54932024,
+      "aliases": [],
+      "duration_seconds": 14.56,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V206",
+      "research_id": "N004",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-001/Slot-05/MVI_0774.MP4",
+      "bytes": 129968544,
+      "aliases": [],
+      "duration_seconds": 34.64,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V207",
+      "research_id": "N005",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-001/Slot-05/MVI_0809.MP4",
+      "bytes": 50915640,
+      "aliases": [],
+      "duration_seconds": 13.48,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V208",
+      "research_id": "N006",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-001/Slot-05/MVI_0865.MP4",
+      "bytes": 32877088,
+      "aliases": [],
+      "duration_seconds": 8.68,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V209",
+      "research_id": "N007",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-001/Slot-05/MVI_0868.MP4",
+      "bytes": 38571256,
+      "aliases": [],
+      "duration_seconds": 10.16,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V210",
+      "research_id": "N008",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-001/Slot-05/MVI_0870.MP4",
+      "bytes": 111528728,
+      "aliases": [],
+      "duration_seconds": 29.72,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V211",
+      "research_id": "N009",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-001/Slot-05/MVI_0889.MP4",
+      "bytes": 1157064120,
+      "aliases": [],
+      "duration_seconds": 309.52,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V212",
+      "research_id": "N010",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-003/Slot-04/MVI_0523.MP4",
+      "bytes": 24775856,
+      "aliases": [
+        "/Volumes/SECRET/drive-download-20261019T154400Z-1-005/Slot-06/MVI_0523.MP4"
+      ],
+      "duration_seconds": 6.44,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V213",
+      "research_id": "N011",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-003/Slot-05/MVI_0751.MP4",
+      "bytes": 158501552,
+      "aliases": [],
+      "duration_seconds": 42.28,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V214",
+      "research_id": "N012",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-003/Slot-05/MVI_0754.MP4",
+      "bytes": 69459680,
+      "aliases": [],
+      "duration_seconds": 18.48,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V215",
+      "research_id": "N013",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-003/Slot-05/MVI_0767.MP4",
+      "bytes": 21486000,
+      "aliases": [],
+      "duration_seconds": 5.6,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V216",
+      "research_id": "N014",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-003/Slot-05/MVI_0770.MP4",
+      "bytes": 196167696,
+      "aliases": [],
+      "duration_seconds": 52.36,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V217",
+      "research_id": "N015",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-003/Slot-05/MVI_0772.MP4",
+      "bytes": 45200752,
+      "aliases": [],
+      "duration_seconds": 11.96,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V218",
+      "research_id": "N016",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-003/Slot-05/MVI_0819.MP4",
+      "bytes": 157772832,
+      "aliases": [],
+      "duration_seconds": 42.08,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V219",
+      "research_id": "N017",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-003/Slot-05/MVI_0825.MP4",
+      "bytes": 127718720,
+      "aliases": [],
+      "duration_seconds": 34.04,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V220",
+      "research_id": "N018",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-003/Slot-05/MVI_0834.MP4",
+      "bytes": 193658520,
+      "aliases": [],
+      "duration_seconds": 51.68,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V221",
+      "research_id": "N019",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-003/Slot-05/MVI_0855.MP4",
+      "bytes": 9875304,
+      "aliases": [],
+      "duration_seconds": 2.48,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V222",
+      "research_id": "N020",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-003/Slot-05/MVI_0862.MP4",
+      "bytes": 42504520,
+      "aliases": [],
+      "duration_seconds": 11.24,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V223",
+      "research_id": "N021",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-003/Slot-05/MVI_0874.MP4",
+      "bytes": 317826912,
+      "aliases": [],
+      "duration_seconds": 84.92,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V224",
+      "research_id": "N022",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-003/Slot-05/MVI_0882.MP4",
+      "bytes": 11231384,
+      "aliases": [],
+      "duration_seconds": 2.84,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V225",
+      "research_id": "N023",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-003/Slot-06/MVI_0500.MP4",
+      "bytes": 296545248,
+      "aliases": [
+        "/Volumes/SECRET/drive-download-20261019T154400Z-1-008/Slot-04/MVI_0500.MP4"
+      ],
+      "duration_seconds": 79.52,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V226",
+      "research_id": "N024",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-003/Slot-06/MVI_0520.MP4",
+      "bytes": 108769904,
+      "aliases": [
+        "/Volumes/SECRET/drive-download-20261019T154400Z-1-008/Slot-04/MVI_0520.MP4"
+      ],
+      "duration_seconds": 29.12,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V227",
+      "research_id": "N025",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-003/Slot-06/MVI_0521.MP4",
+      "bytes": 64618424,
+      "aliases": [
+        "/Volumes/SECRET/drive-download-20261019T154400Z-1-002/Slot-04/MVI_0521.MP4"
+      ],
+      "duration_seconds": 17.2,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V228",
+      "research_id": "N026",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-004/Slot-04/MVI_0496.MP4",
+      "bytes": 14415488,
+      "aliases": [
+        "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-010/Slot-06/MVI_0496.MP4"
+      ],
+      "duration_seconds": 3.76,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V229",
+      "research_id": "N027",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-004/Slot-04/MVI_0546.MP4",
+      "bytes": 98491296,
+      "aliases": [
+        "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-007/Slot-06/MVI_0546.MP4"
+      ],
+      "duration_seconds": 26.36,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V230",
+      "research_id": "N028",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-004/Slot-04/MVI_0556.MP4",
+      "bytes": 117754792,
+      "aliases": [
+        "/Volumes/SECRET/drive-download-20261019T154400Z-1-005/Slot-06/MVI_0556.MP4"
+      ],
+      "duration_seconds": 31.44,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V231",
+      "research_id": "N029",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-004/Slot-05/MVI_0759.MP4",
+      "bytes": 27249688,
+      "aliases": [],
+      "duration_seconds": 7.16,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V232",
+      "research_id": "N030",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-004/Slot-05/MVI_0765.MP4",
+      "bytes": 44374864,
+      "aliases": [],
+      "duration_seconds": 11.76,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V233",
+      "research_id": "N031",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-004/Slot-05/MVI_0768.MP4",
+      "bytes": 49330376,
+      "aliases": [],
+      "duration_seconds": 13.08,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V234",
+      "research_id": "N032",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-004/Slot-05/MVI_0785.MP4",
+      "bytes": 5405712,
+      "aliases": [],
+      "duration_seconds": 1.28,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V235",
+      "research_id": "N033",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-004/Slot-05/MVI_0801.MP4",
+      "bytes": 210993208,
+      "aliases": [],
+      "duration_seconds": 56.32,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V236",
+      "research_id": "N034",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-004/Slot-05/MVI_0806.MP4",
+      "bytes": 132694824,
+      "aliases": [],
+      "duration_seconds": 35.4,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V237",
+      "research_id": "N035",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-004/Slot-05/MVI_0814.MP4",
+      "bytes": 113143304,
+      "aliases": [],
+      "duration_seconds": 30.16,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V238",
+      "research_id": "N036",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-004/Slot-05/MVI_0817.MP4",
+      "bytes": 208396680,
+      "aliases": [],
+      "duration_seconds": 55.68,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V239",
+      "research_id": "N037",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-004/Slot-05/MVI_0828.MP4",
+      "bytes": 125717920,
+      "aliases": [],
+      "duration_seconds": 33.52,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V240",
+      "research_id": "N038",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-004/Slot-05/MVI_0853.MP4",
+      "bytes": 14709096,
+      "aliases": [],
+      "duration_seconds": 3.8,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V241",
+      "research_id": "N039",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-004/Slot-05/MVI_0854.MP4",
+      "bytes": 27830248,
+      "aliases": [],
+      "duration_seconds": 7.32,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V242",
+      "research_id": "N040",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-004/Slot-06/MVI_0531.MP4",
+      "bytes": 6501312,
+      "aliases": [
+        "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-010/Slot-04/MVI_0531.MP4"
+      ],
+      "duration_seconds": 1.6,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V243",
+      "research_id": "N041",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-004/Slot-06/MVI_0532.MP4",
+      "bytes": 360847856,
+      "aliases": [
+        "/Volumes/SECRET/drive-download-20261019T154400Z-1-002/Slot-04/MVI_0532.MP4"
+      ],
+      "duration_seconds": 96.84,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V244",
+      "research_id": "N042",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-004/Slot-06/MVI_0538.MP4",
+      "bytes": 64615912,
+      "aliases": [
+        "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-010/Slot-04/MVI_0538.MP4"
+      ],
+      "duration_seconds": 17.24,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V245",
+      "research_id": "N043",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-004/Slot-06/MVI_0550.MP4",
+      "bytes": 123981776,
+      "aliases": [
+        "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-006/Slot-04/MVI_0550.MP4"
+      ],
+      "duration_seconds": 33.16,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V246",
+      "research_id": "N044",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-006/Slot-04/MVI_0497.MP4",
+      "bytes": 279297944,
+      "aliases": [
+        "/Volumes/SECRET/drive-download-20261019T154400Z-1-008/Slot-06/MVI_0497.MP4"
+      ],
+      "duration_seconds": 75.04,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V247",
+      "research_id": "N045",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-006/Slot-04/MVI_0508.MP4",
+      "bytes": 344577904,
+      "aliases": [
+        "/Volumes/SECRET/drive-download-20261019T154400Z-1-002/Slot-06/MVI_0508.MP4"
+      ],
+      "duration_seconds": 92.16,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V248",
+      "research_id": "N046",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-006/Slot-04/MVI_0587.MP4",
+      "bytes": 96698536,
+      "aliases": [
+        "/Volumes/SECRET/drive-download-20261019T154400Z-1-002/Slot-06/MVI_0587.MP4"
+      ],
+      "duration_seconds": 25.76,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V249",
+      "research_id": "N047",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-006/Slot-05/MVI_0749.MP4",
+      "bytes": 131889200,
+      "aliases": [],
+      "duration_seconds": 35.2,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V250",
+      "research_id": "N048",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-006/Slot-05/MVI_0753.MP4",
+      "bytes": 33195648,
+      "aliases": [],
+      "duration_seconds": 8.72,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V251",
+      "research_id": "N049",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-006/Slot-05/MVI_0805.MP4",
+      "bytes": 253049712,
+      "aliases": [],
+      "duration_seconds": 67.6,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V252",
+      "research_id": "N050",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-006/Slot-05/MVI_0807.MP4",
+      "bytes": 277154176,
+      "aliases": [],
+      "duration_seconds": 74.04,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V253",
+      "research_id": "N051",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-006/Slot-05/MVI_0815.MP4",
+      "bytes": 70355696,
+      "aliases": [],
+      "duration_seconds": 18.72,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V254",
+      "research_id": "N052",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-006/Slot-05/MVI_0851.MP4",
+      "bytes": 8497504,
+      "aliases": [],
+      "duration_seconds": 2.12,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V255",
+      "research_id": "N053",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-006/Slot-05/MVI_0871.MP4",
+      "bytes": 11890968,
+      "aliases": [],
+      "duration_seconds": 3.04,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V256",
+      "research_id": "N054",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-006/Slot-05/MVI_0873.MP4",
+      "bytes": 76244016,
+      "aliases": [],
+      "duration_seconds": 20.28,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V257",
+      "research_id": "N055",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-007/Slot-04/MVI_0522.MP4",
+      "bytes": 108976256,
+      "aliases": [
+        "/Volumes/SECRET/drive-download-20261019T154400Z-1-005/Slot-06/MVI_0522.MP4"
+      ],
+      "duration_seconds": 29.0,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V258",
+      "research_id": "N056",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-007/Slot-04/MVI_0524.MP4",
+      "bytes": 98317872,
+      "aliases": [
+        "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-007/Slot-06/MVI_0524.MP4"
+      ],
+      "duration_seconds": 26.28,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V259",
+      "research_id": "N057",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-007/Slot-04/MVI_0539.MP4",
+      "bytes": 26717568,
+      "aliases": [
+        "/Volumes/SECRET/drive-download-20261019T154400Z-1-008/Slot-06/MVI_0539.MP4"
+      ],
+      "duration_seconds": 7.0,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V260",
+      "research_id": "N058",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-007/Slot-05/MVI_0762.MP4",
+      "bytes": 44146824,
+      "aliases": [],
+      "duration_seconds": 11.68,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V261",
+      "research_id": "N059",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-007/Slot-05/MVI_0784.MP4",
+      "bytes": 86871248,
+      "aliases": [],
+      "duration_seconds": 23.2,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V262",
+      "research_id": "N060",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-007/Slot-05/MVI_0808.MP4",
+      "bytes": 297219112,
+      "aliases": [],
+      "duration_seconds": 79.44,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V263",
+      "research_id": "N061",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-007/Slot-05/MVI_0816.MP4",
+      "bytes": 173929928,
+      "aliases": [],
+      "duration_seconds": 46.4,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V264",
+      "research_id": "N062",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-007/Slot-05/MVI_0832.MP4",
+      "bytes": 24317240,
+      "aliases": [],
+      "duration_seconds": 6.32,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V265",
+      "research_id": "N063",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-007/Slot-05/MVI_0835.MP4",
+      "bytes": 80902248,
+      "aliases": [],
+      "duration_seconds": 21.52,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V266",
+      "research_id": "N064",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-007/Slot-05/MVI_0872.MP4",
+      "bytes": 11689688,
+      "aliases": [],
+      "duration_seconds": 2.96,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V267",
+      "research_id": "N065",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-007/Slot-06/MVI_0495.MP4",
+      "bytes": 371147312,
+      "aliases": [
+        "/Volumes/SECRET/drive-download-20261019T154400Z-1-013/Slot-04/MVI_0495.MP4"
+      ],
+      "duration_seconds": 99.68,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V268",
+      "research_id": "N066",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-007/Slot-06/MVI_0529.MP4",
+      "bytes": 13193936,
+      "aliases": [
+        "/Volumes/SECRET/drive-download-20261019T154400Z-1-008/Slot-04/MVI_0529.MP4"
+      ],
+      "duration_seconds": 3.4,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V269",
+      "research_id": "N067",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-009/Slot-04/MVI_0530.MP4",
+      "bytes": 197743872,
+      "aliases": [
+        "/Volumes/SECRET/drive-download-20261019T154400Z-1-008/Slot-06/MVI_0530.MP4"
+      ],
+      "duration_seconds": 52.92,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V270",
+      "research_id": "N068",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-009/Slot-05/MVI_0612.MP4",
+      "bytes": 60215224,
+      "aliases": [],
+      "duration_seconds": 16.08,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V271",
+      "research_id": "N069",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-009/Slot-05/MVI_0773.MP4",
+      "bytes": 108503592,
+      "aliases": [],
+      "duration_seconds": 28.92,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V272",
+      "research_id": "N070",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-009/Slot-05/MVI_0786.MP4",
+      "bytes": 57593400,
+      "aliases": [],
+      "duration_seconds": 15.36,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V273",
+      "research_id": "N071",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-009/Slot-05/MVI_0788.MP4",
+      "bytes": 30605576,
+      "aliases": [],
+      "duration_seconds": 8.08,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V274",
+      "research_id": "N072",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-009/Slot-05/MVI_0818.MP4",
+      "bytes": 10519360,
+      "aliases": [],
+      "duration_seconds": 2.68,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V275",
+      "research_id": "N073",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-009/Slot-05/MVI_0821.MP4",
+      "bytes": 143237560,
+      "aliases": [],
+      "duration_seconds": 38.2,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V276",
+      "research_id": "N074",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-009/Slot-05/MVI_0829.MP4",
+      "bytes": 51185408,
+      "aliases": [],
+      "duration_seconds": 13.56,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V277",
+      "research_id": "N075",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-009/Slot-05/MVI_0867.MP4",
+      "bytes": 54484768,
+      "aliases": [],
+      "duration_seconds": 14.44,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V278",
+      "research_id": "N076",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-009/Slot-06/MVI_0517.MP4",
+      "bytes": 495241648,
+      "aliases": [
+        "/Volumes/SECRET/drive-download-20261019T154400Z-1-013/Slot-04/MVI_0517.MP4"
+      ],
+      "duration_seconds": 133.2,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V279",
+      "research_id": "N077",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-009/Slot-06/MVI_0564.MP4",
+      "bytes": 80258400,
+      "aliases": [
+        "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-007/Slot-04/MVI_0564.MP4"
+      ],
+      "duration_seconds": 21.52,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": true,
+      "sha256": "238ff4b91f62a378a997e0709aad73b9f4bf4edd4c1be34d14dca7372454f423"
+    },
+    {
+      "id": "V280",
+      "research_id": "N078",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-010/Slot-05/MVI_0760.MP4",
+      "bytes": 92373264,
+      "aliases": [],
+      "duration_seconds": 24.6,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V281",
+      "research_id": "N079",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-010/Slot-05/MVI_0766.MP4",
+      "bytes": 265347096,
+      "aliases": [],
+      "duration_seconds": 70.88,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V282",
+      "research_id": "N080",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-010/Slot-05/MVI_0769.MP4",
+      "bytes": 50173904,
+      "aliases": [],
+      "duration_seconds": 13.32,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V283",
+      "research_id": "N081",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-010/Slot-05/MVI_0800.MP4",
+      "bytes": 25240240,
+      "aliases": [],
+      "duration_seconds": 6.64,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V284",
+      "research_id": "N082",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-010/Slot-05/MVI_0826.MP4",
+      "bytes": 47797352,
+      "aliases": [],
+      "duration_seconds": 12.64,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V285",
+      "research_id": "N083",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-010/Slot-05/MVI_0833.MP4",
+      "bytes": 260425776,
+      "aliases": [],
+      "duration_seconds": 69.56,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V286",
+      "research_id": "N084",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-010/Slot-05/MVI_0861.MP4",
+      "bytes": 61126248,
+      "aliases": [],
+      "duration_seconds": 16.24,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V287",
+      "research_id": "N085",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-010/Slot-05/MVI_0863.MP4",
+      "bytes": 26861136,
+      "aliases": [],
+      "duration_seconds": 7.08,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V288",
+      "research_id": "N086",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-010/Slot-06/MVI_0509.MP4",
+      "bytes": 725000272,
+      "aliases": [
+        "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-012/Slot-04/MVI_0509.MP4"
+      ],
+      "duration_seconds": 194.2,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V289",
+      "research_id": "N087",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-011/Slot-04/MVI_0507.MP4",
+      "bytes": 268496424,
+      "aliases": [
+        "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-007/Slot-06/MVI_0507.MP4"
+      ],
+      "duration_seconds": 71.88,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V290",
+      "research_id": "N088",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-011/Slot-04/MVI_0512.MP4",
+      "bytes": 422541736,
+      "aliases": [
+        "/Volumes/SECRET/drive-download-20261019T154400Z-1-005/Slot-06/MVI_0512.MP4"
+      ],
+      "duration_seconds": 113.2,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V291",
+      "research_id": "N089",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-011/Slot-04/MVI_0513.MP4",
+      "bytes": 310542352,
+      "aliases": [
+        "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-011/Slot-06/MVI_0513.MP4"
+      ],
+      "duration_seconds": 83.12,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V292",
+      "research_id": "N090",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-011/Slot-04/MVI_0525.MP4",
+      "bytes": 332742008,
+      "aliases": [
+        "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-009/Slot-06/MVI_0525.MP4"
+      ],
+      "duration_seconds": 89.16,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V293",
+      "research_id": "N091",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-011/Slot-06/MVI_0541.MP4",
+      "bytes": 459319640,
+      "aliases": [
+        "/Volumes/SECRET/drive-download-20261019T154400Z-1-013/Slot-04/MVI_0541.MP4"
+      ],
+      "duration_seconds": 123.48,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V294",
+      "research_id": "N092",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-012/Slot-04/MVI_0514.MP4",
+      "bytes": 313824904,
+      "aliases": [
+        "/Volumes/SECRET/drive-download-20261019T154400Z-1-013/Slot-06/MVI_0514.MP4"
+      ],
+      "duration_seconds": 84.12,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V295",
+      "research_id": "N093",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-012/Slot-04/MVI_0542.MP4",
+      "bytes": 440667712,
+      "aliases": [
+        "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-012/Slot-06/MVI_0542.MP4"
+      ],
+      "duration_seconds": 118.0,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V296",
+      "research_id": "N094",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 10/DJI_20261018105742_0024_D.MP4",
+      "bytes": 734010812,
+      "aliases": [],
+      "duration_seconds": 64.3643,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": true,
+      "sha256": "fca444b3c95dcc9975dbc6c3d8dd9e124b26a975c6f5befb640e2d1609113d9c"
+    },
+    {
+      "id": "V297",
+      "research_id": "N095",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 10/DJI_20261018114813_0054_D.MP4",
+      "bytes": 684996784,
+      "aliases": [],
+      "duration_seconds": 61.312,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V298",
+      "research_id": "N096",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 10/DJI_20261018131546_0065_D.MP4",
+      "bytes": 683025914,
+      "aliases": [],
+      "duration_seconds": 62.4,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V299",
+      "research_id": "N097",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 11/DJI_20261018101237_0008_D.MP4",
+      "bytes": 357501602,
+      "aliases": [],
+      "duration_seconds": 45.994667,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V300",
+      "research_id": "N098",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 11/DJI_20261018104845_0017_D.MP4",
+      "bytes": 213904402,
+      "aliases": [],
+      "duration_seconds": 21.098667,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V301",
+      "research_id": "N099",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 11/DJI_20261018110621_0033_D.MP4",
+      "bytes": 911166522,
+      "aliases": [],
+      "duration_seconds": 104.154067,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": true,
+      "sha256": "c9e3ee37f2d3dd9231909e95e06c15aef5da64bd462b36e6e9e18996a13a903f"
+    },
+    {
+      "id": "V302",
+      "research_id": "N100",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 12/DJI_20261018100837_0004_D.MP4",
+      "bytes": 10382840,
+      "aliases": [],
+      "duration_seconds": 0.768,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V303",
+      "research_id": "N101",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 12/DJI_20261018102756_0013_D.MP4",
+      "bytes": 94432434,
+      "aliases": [],
+      "duration_seconds": 7.857867,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V304",
+      "research_id": "N102",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 12/DJI_20261018112550_0043_D.MP4",
+      "bytes": 47291889,
+      "aliases": [],
+      "duration_seconds": 3.84,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V305",
+      "research_id": "N103",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 12/DJI_20261018130248_0058_D.MP4",
+      "bytes": 1702901450,
+      "aliases": [],
+      "duration_seconds": 142.656,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V306",
+      "research_id": "N104",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 13/DJI_20261018102105_0011_D.MP4",
+      "bytes": 503871688,
+      "aliases": [],
+      "duration_seconds": 51.52,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V307",
+      "research_id": "N105",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 13/DJI_20261018102458_0012_D.MP4",
+      "bytes": 8211387,
+      "aliases": [],
+      "duration_seconds": 0.810667,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V308",
+      "research_id": "N106",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 13/DJI_20261018105318_0018_D.MP4",
+      "bytes": 104806797,
+      "aliases": [],
+      "duration_seconds": 8.746667,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V309",
+      "research_id": "N107",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 13/DJI_20261018110158_0030_D.MP4",
+      "bytes": 820127081,
+      "aliases": [],
+      "duration_seconds": 82.666667,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V310",
+      "research_id": "N108",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 13/DJI_20261018111151_0036_D.MP4",
+      "bytes": 289871802,
+      "aliases": [],
+      "duration_seconds": 26.026667,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V311",
+      "research_id": "N109",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 13/DJI_20261018132455_0069_D.MP4",
+      "bytes": 80895124,
+      "aliases": [],
+      "duration_seconds": 5.504,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V312",
+      "research_id": "N110",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 2/DJI_20261018100951_0006_D.MP4",
+      "bytes": 143877251,
+      "aliases": [],
+      "duration_seconds": 14.047367,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": true,
+      "sha256": "d9c0bdce92c28cc81c40d9d031cee42ecf05e0ab461791376d0e35854ac0e377"
+    },
+    {
+      "id": "V313",
+      "research_id": "N111",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 2/DJI_20261018105447_0020_D.MP4",
+      "bytes": 192577530,
+      "aliases": [],
+      "duration_seconds": 23.296,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V314",
+      "research_id": "N112",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 2/DJI_20261018111226_0037_D.MP4",
+      "bytes": 248778757,
+      "aliases": [],
+      "duration_seconds": 26.88,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V315",
+      "research_id": "N113",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 2/DJI_20261018115320_0056_D.MP4",
+      "bytes": 1241,
+      "aliases": [],
+      "duration_seconds": null,
+      "usable_video_stream": false,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false,
+      "error": ""
+    },
+    {
+      "id": "V316",
+      "research_id": "N114",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 2/DJI_20261018131802_0067_D.MP4",
+      "bytes": 1215243504,
+      "aliases": [],
+      "duration_seconds": 114.837333,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V317",
+      "research_id": "N115",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 3/DJI_20261018104240_0016_D.MP4",
+      "bytes": 84640747,
+      "aliases": [],
+      "duration_seconds": 5.739067,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V318",
+      "research_id": "N116",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 3/DJI_20261018110153_0029_D.MP4",
+      "bytes": 33000156,
+      "aliases": [],
+      "duration_seconds": 2.602667,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V319",
+      "research_id": "N117",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 3/DJI_20261018110326_0031_D.MP4",
+      "bytes": 511503149,
+      "aliases": [],
+      "duration_seconds": 46.506667,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": true,
+      "sha256": "255212d792763bdcb78cee8695b6fab7a20ecfc7dd25c8f50ebd36cb0f3dcd71"
+    },
+    {
+      "id": "V320",
+      "research_id": "N118",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 3/DJI_20261018111644_0039_D.MP4",
+      "bytes": 164979784,
+      "aliases": [],
+      "duration_seconds": 19.626667,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V321",
+      "research_id": "N119",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 3/DJI_20261018113041_0048_D.MP4",
+      "bytes": 211567613,
+      "aliases": [],
+      "duration_seconds": 15.552,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V322",
+      "research_id": "N120",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 3/DJI_20261018132532_0070_D.MP4",
+      "bytes": 376717393,
+      "aliases": [],
+      "duration_seconds": 34.837333,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V323",
+      "research_id": "N121",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 3/DJI_20261018132637_0071_D.MP4",
+      "bytes": 1241,
+      "aliases": [],
+      "duration_seconds": null,
+      "usable_video_stream": false,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false,
+      "error": ""
+    },
+    {
+      "id": "V324",
+      "research_id": "N122",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 3/DJI_20261018134350_0073_D.MP4",
+      "bytes": 506037052,
+      "aliases": [],
+      "duration_seconds": 53.312,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V325",
+      "research_id": "N123",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 4/DJI_20261018105523_0021_D.MP4",
+      "bytes": 528935412,
+      "aliases": [],
+      "duration_seconds": 67.093333,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V326",
+      "research_id": "N124",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 4/DJI_20261018105713_0023_D.MP4",
+      "bytes": 266503964,
+      "aliases": [],
+      "duration_seconds": 26.56,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V327",
+      "research_id": "N125",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 4/DJI_20261018105948_0026_D.MP4",
+      "bytes": 133157653,
+      "aliases": [],
+      "duration_seconds": 14.421333,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": true,
+      "sha256": "77edf41b29b442d1dde2b02531f455efca3846391f990f516fbbb4a11b41496f"
+    },
+    {
+      "id": "V328",
+      "research_id": "N126",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 4/DJI_20261018112638_0044_D.MP4",
+      "bytes": 605473285,
+      "aliases": [],
+      "duration_seconds": 50.922667,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V329",
+      "research_id": "N127",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 4/DJI_20261018114746_0053_D.MP4",
+      "bytes": 240991275,
+      "aliases": [],
+      "duration_seconds": 22.706033,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V330",
+      "research_id": "N128",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 5/DJI_20261018101445_0010_D.MP4",
+      "bytes": 106276334,
+      "aliases": [],
+      "duration_seconds": 12.245567,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V331",
+      "research_id": "N129",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 5/DJI_20261018112431_0042_D.MP4",
+      "bytes": 1080860600,
+      "aliases": [],
+      "duration_seconds": 74.816,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V332",
+      "research_id": "N130",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 5/DJI_20261018112749_0045_D.MP4",
+      "bytes": 257233900,
+      "aliases": [],
+      "duration_seconds": 23.296,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V333",
+      "research_id": "N131",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 6/DJI_20261018092051_0001_D.MP4",
+      "bytes": 1241,
+      "aliases": [],
+      "duration_seconds": null,
+      "usable_video_stream": false,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false,
+      "error": ""
+    },
+    {
+      "id": "V334",
+      "research_id": "N132",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 6/DJI_20261018111317_0038_D.MP4",
+      "bytes": 1938352688,
+      "aliases": [],
+      "duration_seconds": 195.712,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V335",
+      "research_id": "N133",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 7/DJI_20261018102941_0015_D.MP4",
+      "bytes": 12101988,
+      "aliases": [],
+      "duration_seconds": 0.96,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V336",
+      "research_id": "N134",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 7/DJI_20261018111715_0040_D.MP4",
+      "bytes": 182429838,
+      "aliases": [],
+      "duration_seconds": 21.909333,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V337",
+      "research_id": "N135",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 7/DJI_20261018113326_0050_D.MP4",
+      "bytes": 1241,
+      "aliases": [],
+      "duration_seconds": null,
+      "usable_video_stream": false,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false,
+      "error": ""
+    },
+    {
+      "id": "V338",
+      "research_id": "N136",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 7/DJI_20261018114224_0052_D.MP4",
+      "bytes": 5222036,
+      "aliases": [],
+      "duration_seconds": 0.367033,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V339",
+      "research_id": "N137",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 7/DJI_20261018130110_0057_D.MP4",
+      "bytes": 973715499,
+      "aliases": [],
+      "duration_seconds": 81.6,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V340",
+      "research_id": "N138",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 8/DJI_20261018102810_0014_D.MP4",
+      "bytes": 115911885,
+      "aliases": [],
+      "duration_seconds": 9.621333,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V341",
+      "research_id": "N139",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 8/DJI_20261018113029_0047_D.MP4",
+      "bytes": 130403177,
+      "aliases": [],
+      "duration_seconds": 8.896,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V342",
+      "research_id": "N140",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 8/DJI_20261018131126_0059_D.MP4",
+      "bytes": 1659160675,
+      "aliases": [],
+      "duration_seconds": 161.194667,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V343",
+      "research_id": "N141",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 9/DJI_20261018105632_0022_D.MP4",
+      "bytes": 289560413,
+      "aliases": [],
+      "duration_seconds": 29.632,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V344",
+      "research_id": "N142",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 9/DJI_20261018110130_0028_D.MP4",
+      "bytes": 81911129,
+      "aliases": [],
+      "duration_seconds": 8.174833,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V345",
+      "research_id": "N143",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 9/DJI_20261018110445_0032_D.MP4",
+      "bytes": 954834832,
+      "aliases": [],
+      "duration_seconds": 65.898667,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V346",
+      "research_id": "N144",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 9/DJI_20261018113458_0051_D.MP4",
+      "bytes": 448909654,
+      "aliases": [],
+      "duration_seconds": 54.613333,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V347",
+      "research_id": "N145",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo 9/DJI_20261018115228_0055_D.MP4",
+      "bytes": 20643418,
+      "aliases": [],
+      "duration_seconds": 1.749333,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V348",
+      "research_id": "N146",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo/DJI_20261018100844_0005_D.MP4",
+      "bytes": 440052186,
+      "aliases": [],
+      "duration_seconds": 38.272,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V349",
+      "research_id": "N147",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo/DJI_20261018101119_0007_D.MP4",
+      "bytes": 467264860,
+      "aliases": [],
+      "duration_seconds": 55.744,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V350",
+      "research_id": "N148",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo/DJI_20261018105857_0025_D.MP4",
+      "bytes": 505550967,
+      "aliases": [],
+      "duration_seconds": 42.688,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V351",
+      "research_id": "N149",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo/DJI_20261018110850_0034_D.MP4",
+      "bytes": 547390890,
+      "aliases": [],
+      "duration_seconds": 53.952,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V352",
+      "research_id": "N150",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo/DJI_20261018112020_0041_D-007.MP4",
+      "bytes": 2862172705,
+      "aliases": [],
+      "duration_seconds": 240.021333,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V353",
+      "research_id": "N151",
+      "path": "/Users/shwetaranjan/Downloads/JKIS/osmo/DJI_20261018132036_0068_D-001.MP4",
+      "bytes": 2162459406,
+      "aliases": [],
+      "duration_seconds": 240.981333,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V354",
+      "research_id": "N152",
+      "path": "/Volumes/SECRET/Photos/1/DCIM/108NZ6_2/DSC_7743.MOV",
+      "bytes": 2282446,
+      "aliases": [],
+      "duration_seconds": 1.89,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false,
+      "existing_source_alias": "S001"
+    },
+    {
+      "id": "V355",
+      "research_id": "N153",
+      "path": "/Volumes/SECRET/Photos/1/DCIM/108NZ6_2/DSC_7744.MOV",
+      "bytes": 88183176,
+      "aliases": [],
+      "duration_seconds": 5.04,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false,
+      "existing_source_alias": "S002"
+    },
+    {
+      "id": "V356",
+      "research_id": "N154",
+      "path": "/Volumes/SECRET/Photos/1/DCIM/108NZ6_2/DSC_7747.MOV",
+      "bytes": 55943116,
+      "aliases": [],
+      "duration_seconds": 3.06,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false,
+      "existing_source_alias": "S003"
+    },
+    {
+      "id": "V357",
+      "research_id": "N155",
+      "path": "/Volumes/SECRET/Photos/1/DCIM/108NZ6_2/DSC_7748.MOV",
+      "bytes": 127005616,
+      "aliases": [],
+      "duration_seconds": 8.19,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false,
+      "existing_source_alias": "S004"
+    },
+    {
+      "id": "V358",
+      "research_id": "N156",
+      "path": "/Volumes/SECRET/Photos/1/DCIM/108NZ6_2/DSC_7750.MOV",
+      "bytes": 61944188,
+      "aliases": [],
+      "duration_seconds": 3.96,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false,
+      "existing_source_alias": "S005"
+    },
+    {
+      "id": "V359",
+      "research_id": "N157",
+      "path": "/Volumes/SECRET/drive-download-20261019T154400Z-1-002/Slot-05/MVI_0750.MP4",
+      "bytes": 81353152,
+      "aliases": [],
+      "duration_seconds": 21.64,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V360",
+      "research_id": "N158",
+      "path": "/Volumes/SECRET/drive-download-20261019T154400Z-1-002/Slot-05/MVI_0758.MP4",
+      "bytes": 53945600,
+      "aliases": [],
+      "duration_seconds": 14.32,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V361",
+      "research_id": "N159",
+      "path": "/Volumes/SECRET/drive-download-20261019T154400Z-1-002/Slot-05/MVI_0789.MP4",
+      "bytes": 58436480,
+      "aliases": [],
+      "duration_seconds": 15.56,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": true,
+      "sha256": "eb45ca81f019c37730792a962feeada72d0261bda2ae87cec87e757d81e2e9af"
+    },
+    {
+      "id": "V362",
+      "research_id": "N160",
+      "path": "/Volumes/SECRET/drive-download-20261019T154400Z-1-002/Slot-05/MVI_0813.MP4",
+      "bytes": 103792072,
+      "aliases": [],
+      "duration_seconds": 27.64,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V363",
+      "research_id": "N161",
+      "path": "/Volumes/SECRET/drive-download-20261019T154400Z-1-002/Slot-05/MVI_0845.MP4",
+      "bytes": 18102712,
+      "aliases": [],
+      "duration_seconds": 4.72,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V364",
+      "research_id": "N162",
+      "path": "/Volumes/SECRET/drive-download-20261019T154400Z-1-002/Slot-05/MVI_0860.MP4",
+      "bytes": 40790976,
+      "aliases": [],
+      "duration_seconds": 10.76,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V365",
+      "research_id": "N163",
+      "path": "/Volumes/SECRET/drive-download-20261019T154400Z-1-002/Slot-05/MVI_0864.MP4",
+      "bytes": 28677880,
+      "aliases": [],
+      "duration_seconds": 7.52,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V366",
+      "research_id": "N164",
+      "path": "/Volumes/SECRET/drive-download-20261019T154400Z-1-002/Slot-05/MVI_0866.MP4",
+      "bytes": 42984488,
+      "aliases": [],
+      "duration_seconds": 11.4,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V367",
+      "research_id": "N165",
+      "path": "/Volumes/SECRET/drive-download-20261019T154400Z-1-005/Slot-05/MVI_0752.MP4",
+      "bytes": 207258048,
+      "aliases": [],
+      "duration_seconds": 55.44,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V368",
+      "research_id": "N166",
+      "path": "/Volumes/SECRET/drive-download-20261019T154400Z-1-005/Slot-05/MVI_0756.MP4",
+      "bytes": 58706032,
+      "aliases": [],
+      "duration_seconds": 15.56,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V369",
+      "research_id": "N167",
+      "path": "/Volumes/SECRET/drive-download-20261019T154400Z-1-005/Slot-05/MVI_0757.MP4",
+      "bytes": 24025816,
+      "aliases": [],
+      "duration_seconds": 6.28,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V370",
+      "research_id": "N168",
+      "path": "/Volumes/SECRET/drive-download-20261019T154400Z-1-005/Slot-05/MVI_0764.MP4",
+      "bytes": 103121632,
+      "aliases": [],
+      "duration_seconds": 27.44,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V371",
+      "research_id": "N169",
+      "path": "/Volumes/SECRET/drive-download-20261019T154400Z-1-005/Slot-05/MVI_0771.MP4",
+      "bytes": 93207696,
+      "aliases": [],
+      "duration_seconds": 24.8,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V372",
+      "research_id": "N170",
+      "path": "/Volumes/SECRET/drive-download-20261019T154400Z-1-005/Slot-05/MVI_0787.MP4",
+      "bytes": 53592232,
+      "aliases": [],
+      "duration_seconds": 14.24,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V373",
+      "research_id": "N171",
+      "path": "/Volumes/SECRET/drive-download-20261019T154400Z-1-005/Slot-05/MVI_0799.MP4",
+      "bytes": 175300400,
+      "aliases": [],
+      "duration_seconds": 46.76,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V374",
+      "research_id": "N172",
+      "path": "/Volumes/SECRET/drive-download-20261019T154400Z-1-005/Slot-05/MVI_0827.MP4",
+      "bytes": 127119320,
+      "aliases": [],
+      "duration_seconds": 33.88,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V375",
+      "research_id": "N173",
+      "path": "/Volumes/SECRET/drive-download-20261019T154400Z-1-008/Slot-04/MVI_0510.MP4",
+      "bytes": 319365376,
+      "aliases": [
+        "/Volumes/SECRET/drive-download-20261019T154400Z-1-002/Slot-06/MVI_0510.MP4"
+      ],
+      "duration_seconds": 85.68,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V376",
+      "research_id": "N174",
+      "path": "/Volumes/SECRET/drive-download-20261019T154400Z-1-008/Slot-04/MVI_0588.MP4",
+      "bytes": 30670544,
+      "aliases": [
+        "/Volumes/SECRET/drive-download-20261019T154400Z-1-005/Slot-06/MVI_0588.MP4"
+      ],
+      "duration_seconds": 8.16,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V377",
+      "research_id": "N175",
+      "path": "/Volumes/SECRET/drive-download-20261019T154400Z-1-008/Slot-05/MVI_0755.MP4",
+      "bytes": 104341616,
+      "aliases": [],
+      "duration_seconds": 27.8,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V378",
+      "research_id": "N176",
+      "path": "/Volumes/SECRET/drive-download-20261019T154400Z-1-008/Slot-05/MVI_0775.MP4",
+      "bytes": 66263840,
+      "aliases": [],
+      "duration_seconds": 17.6,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V379",
+      "research_id": "N177",
+      "path": "/Volumes/SECRET/drive-download-20261019T154400Z-1-008/Slot-05/MVI_0812.MP4",
+      "bytes": 24138552,
+      "aliases": [],
+      "duration_seconds": 7.0,
+      "usable_video_stream": false,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false,
+      "error": "[Errno 2] No such file or directory: '.cache/jetkids/overview-v04/new-survey/N177-2.jpg'"
+    },
+    {
+      "id": "V380",
+      "research_id": "N178",
+      "path": "/Volumes/SECRET/drive-download-20261019T154400Z-1-008/Slot-05/MVI_0820.MP4",
+      "bytes": 154425896,
+      "aliases": [],
+      "duration_seconds": 41.2,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V381",
+      "research_id": "N179",
+      "path": "/Volumes/SECRET/drive-download-20261019T154400Z-1-008/Slot-05/MVI_0852.MP4",
+      "bytes": 11884088,
+      "aliases": [],
+      "duration_seconds": 3.04,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V382",
+      "research_id": "N180",
+      "path": "/Volumes/SECRET/drive-download-20261019T154400Z-1-008/Slot-05/MVI_0869.MP4",
+      "bytes": 15690256,
+      "aliases": [],
+      "duration_seconds": 4.08,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V383",
+      "research_id": "N181",
+      "path": "/Volumes/SECRET/drive-download-20261019T154400Z-1-008/Slot-05/MVI_0875.MP4",
+      "bytes": 77120568,
+      "aliases": [],
+      "duration_seconds": 20.48,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V384",
+      "research_id": "N182",
+      "path": "/Volumes/SECRET/drive-download-20261019T154400Z-1-008/Slot-06/MVI_0543.MP4",
+      "bytes": 101416912,
+      "aliases": [
+        "/Volumes/SECRET/drive-download-20261019T154400Z-1-005/Slot-04/MVI_0543.MP4"
+      ],
+      "duration_seconds": 27.04,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V385",
+      "research_id": "N183",
+      "path": "/Volumes/SECRET/drive-download-20261019T154400Z-1-014/Slot-06/MVI_0540.MP4",
+      "bytes": 548575728,
+      "aliases": [
+        "/Volumes/SECRET/drive-download-20261019T154400Z-1-014/Slot-04/MVI_0540.MP4"
+      ],
+      "duration_seconds": 147.24,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V386",
+      "research_id": "N184",
+      "path": "/Volumes/SECRET/osmo 2/DJI_20261018112820_0046_D.MP4",
+      "bytes": 771338137,
+      "aliases": [],
+      "duration_seconds": 53.184,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V387",
+      "research_id": "N185",
+      "path": "/Volumes/SECRET/osmo 2/DJI_20261018131654_0066_D.MP4",
+      "bytes": 631926416,
+      "aliases": [],
+      "duration_seconds": 54.549333,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V388",
+      "research_id": "N186",
+      "path": "/Volumes/SECRET/osmo 3/DJI_20261018105358_0019_D.MP4",
+      "bytes": 478008887,
+      "aliases": [],
+      "duration_seconds": 44.48,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V389",
+      "research_id": "N187",
+      "path": "/Volumes/SECRET/osmo 3/DJI_20261018110018_0027_D.MP4",
+      "bytes": 584019839,
+      "aliases": [],
+      "duration_seconds": 60.627233,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": true,
+      "sha256": "2c8dc2e86e852bcaacb4fbc1c9dd585320fd9e535ffadb6d493d285c4fc3ea16"
+    },
+    {
+      "id": "V390",
+      "research_id": "N188",
+      "path": "/Volumes/SECRET/osmo 3/DJI_20261018111045_0035_D.MP4",
+      "bytes": 696806646,
+      "aliases": [],
+      "duration_seconds": 60.629333,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V391",
+      "research_id": "N189",
+      "path": "/Volumes/SECRET/osmo/DJI_20261018100358_0003_D.MP4",
+      "bytes": 663419040,
+      "aliases": [],
+      "duration_seconds": 67.117067,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V392",
+      "research_id": "N190",
+      "path": "/Volumes/SECRET/osmo/DJI_20261018101327_0009_D.MP4",
+      "bytes": 383587693,
+      "aliases": [],
+      "duration_seconds": 48.982267,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    },
+    {
+      "id": "V393",
+      "research_id": "N191",
+      "path": "/Volumes/SECRET/osmo/DJI_20261018131451_0064_D.MP4",
+      "bytes": 460832460,
+      "aliases": [],
+      "duration_seconds": 31.893333,
+      "usable_video_stream": true,
+      "survey": "Three positions8/45/82percent; sampled content screening, not full-motion/audio approval",
+      "selected_for_current_overview": false
+    }
+  ],
+  "limits": "Name/byte-size deduplication within these new roots, not full identity audit against every previous pool. Separate evening content excluded from this edit."
+}

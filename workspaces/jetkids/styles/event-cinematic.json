@@ -1,0 +1,27 @@
+{
+  "fps": 30,
+  "formats": {
+    "landscape": [
+      1920,
+      1080
+    ],
+    "portrait": [
+      1080,
+      1920
+    ]
+  },
+  "preserve_master_fps": true,
+  "native_slow_speed": {
+    "100": 0.3,
+    "50": 0.6,
+    "59.94": 0.5005005005005005
+  },
+  "conform_rule": "Check captureFps, formatFps and RecordingMode. Do not double slow already conformed footage.",
+  "speed_rule": "No automatic speedups; preserve complete gestures. Native slow where action supports it; deliberate intermediate speeds allowed.",
+  "colour": "Official Sony LC709 once for confirmed SLog3/SGamut3.Cine; no guessed LUT on unknown profiles.",
+  "portrait": "Full bleed; native portrait alternates or editor seeded, visually reviewed CSRT. Reject semantic drift even when tracker reports success.",
+  "audio": "48kHz; target -14LUFS, true peak <=-1dBTP; phrase and pitch-aware music handover, predictions require review.",
+  "transitions": "Short source-handle blends and motivated directional/blur cuts, no random flashes.",
+  "logo": "Original crest unchanged.",
+  "approval": "Preset is editorial configuration, not user approval of a render."
+}

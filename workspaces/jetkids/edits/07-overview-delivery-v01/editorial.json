@@ -1,0 +1,21 @@
+{
+  "status": "Review revision; not user approved",
+  "previous_revision": "Rejected: rushed entries, plain transitions, obvious music merge",
+  "scope": "Overview first; interview-led full edits after this",
+  "actions": "Preserve complete guest greetings, student welcome, diya and ribbon before grounds action",
+  "arrival_speeds": [
+    0.4,
+    0.5,
+    0.75,
+    0.6,
+    0.55,
+    0.65,
+    0.3
+  ],
+  "portrait": "Full bleed, independently selected native portrait ceremony angles and6 accepted smoothed subject tracks; one drifted tracker rejected",
+  "audio": "Pitch-preserving entry tempo adjustment to92BPM, separately controlled harmonic/percussion handover, continuation track only after join",
+  "speech_captions": false,
+  "event_photos": false,
+  "evening_event": false,
+  "speed_review": "Original Sony capture/format100p, normal recording. Native30% slow used for lady entry and student batting; other timings preserve complete greetings. No source above100% speed."
+}

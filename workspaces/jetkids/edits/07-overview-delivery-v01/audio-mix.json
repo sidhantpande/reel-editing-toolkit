@@ -1,0 +1,26 @@
+{
+  "duration": 86.5,
+  "entry_tempo_ratio": 0.7666666666666667,
+  "entry_source_in": 0.2,
+  "entry_source_duration": 24,
+  "entry_output_duration": 31.304347826086953,
+  "pitch_changed": false,
+  "continuation_source_in": 0.04,
+  "continuation_timeline_in": 28.72,
+  "handover_seconds": 2.5843541666666665,
+  "method": "WSOLA pitch-preserving entry tempo adjustment120 to92BPM; HPSS percussion crossfade on matching grid; outgoing harmonic fade0.65s; incoming harmonic begins0.8s and rises1.45s; no melodic overlap. Rest is unchanged continuation mix.",
+  "first_pass_loudness": {
+    "input_i": "-15.39",
+    "input_tp": "-2.00",
+    "input_lra": "5.60",
+    "input_thresh": "-25.50",
+    "output_i": "-14.31",
+    "output_tp": "-1.50",
+    "output_lra": "4.10",
+    "output_thresh": "-24.37",
+    "normalization_type": "dynamic",
+    "target_offset": "0.31"
+  },
+  "mixed_pcm_sha256": "67b27977c8f35b6be225aaa483e15074714b0d68f6bcdfdcc65229e395bbf271",
+  "listening_review": "not attested"
+}

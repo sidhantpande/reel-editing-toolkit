@@ -12,5 +12,20 @@
   },
   "log": 345,
   "non_log_sidecar_confirmed": 125,
-  "nikon_bt709_tagged": 5
+  "nikon_bt709_tagged": 5,
+  "current_source_root": "/Volumes/HP USB20FD",
+  "location_update": {
+    "date": "2026-10-20",
+    "sony_mp4_found": 470,
+    "relative_paths_and_sizes_matched": 470,
+    "nikon_mov_absent_from_hp": 5,
+    "full_original_hashes": "All20 HP originals used across the overview formats matched their registered SHA256; two additional researched originals also matched. Complete470-file hash audit not claimed.",
+    "source_ids_preserved": true,
+    "nikon_mov_found_on_secret": 5,
+    "nikon_original_full_sha256_matches": 5
+  },
+  "current_source_roots": [
+    "/Volumes/HP USB20FD",
+    "/Volumes/SECRET"
+  ]
 }

@@ -1,10 +1,14 @@
 # Jet Kids International School
 
+## Current overview revision —20 October
+
+The user rejected overview-rebuild-v01 and asked for a fresh edit: each guest car/entry, student-guided welcome, diya, ribbon cut, grounds tour and play. Cars belonging to the actual guest arrivals are explicitly required; the older irrelevant-car rejection does not prohibit these. Inspect Downloads/JKIS and mounted volumes for alternate coverage. The latest first supplied reference (AQP6Q0…) supplies the diya/continuation audio; the second (AQO22Uy…) supplies entry audio. Merge into the continuation track near the diya and retain only that track thereafter. Both formats are required and can use different clips. Keep portrait full bleed. The current recipe is edits/07-overview-delivery-v01; previous exports remain rejected history.
+
 ## Latest user direction — four mandatory event reels plus interview stories
 
 User rejected the previous overview drafts on 2026-10-19: arbitrary clip choices, irrelevant car shots, weak music/story correspondence and small landscape inserts in portrait. All previous exports are rejected historical drafts. The 17-reel plan and previous music assignments are superseded.
 
-Current stage is analysis only: inspect `/Volumes/SID-SSD` and `/Volumes/Sidhant-0`, compare with OCT18-PIXON, study interviews and all 17 downloaded audio selections. Plan four mandatory event stories plus additional interview-led stories justified by the material. Additional downloads are pending. Do not render new edits before this analysis and revised story plan. Do not treat automatic ASR, onset detection or sampled contact sheets as full listening/motion review.
+Analysis brief before the overview commission: inspect `/Volumes/SID-SSD` and `/Volumes/Sidhant-0`, compare with OCT18-PIXON, study interviews and all 17 downloaded audio selections. Plan four mandatory event stories plus additional interview-led stories justified by the material. Additional downloads are pending. The user commissioned the complete-event overview on20 October after the revised mapping. Render that overview in both formats; other reels remain in planning. Do not treat automatic ASR, onset detection or sampled contact sheets as full listening/motion review.
 
 Eventual deliverables: four mandatory event reels (complete overview, guest highlights/entry, matches with guest participation and event energy, teachers games), plus additional interview-led reels where the content supports a distinct story. Each needs landscape 16:9 and portrait 9:16. Combine two or three interviews only around a genuine shared point; preserve question context and complete thoughts. Relevant interview excerpts may also lead or bridge the mandatory reels. Portrait must use subject-aware full-frame compositions and suitable alternate coverage; do not shrink landscape footage over a blurred background. No event-photo inserts. Preserve complete actions and meaningful reactions, motivate slow motion by the action, and use restrained typography. Original school crest remains unchanged. Reassess exact audio phrases and structure rather than copying the old cue sheet's asserted drops. Do not select four songs solely from their names.
 
@@ -27,3 +31,9 @@ Read the root AGENTS.md, this workspace README, source-summary.json and docs/REF
 - New-volume metadata audit confirms61 Canon EOS90D files use Picture Style Auto. Do not apply a Sony Log LUT. The64 playable DJI10-bit BT709-tagged clips remain profile-unconfirmed; the official Pocket3 D-LogM LUT is staged locally, not batch-applied.
 
 - SID-SSD evening garba/dandiya footage is a separate Jet Kids event, confirmed by the user on20 October. Keep V128–V202 parked in workspaces/jetkids-evening-event and the local linked media collection. Do not mix those scenes or interview answers into the sports-event timeline without a new instruction. SID-SSD also contains65 matches to the existing sports DJI pool; current comparison uses filename/size plus first/middle/last1MiB SHA256, not a complete file identity audit.
+
+- Current Sony originals are on /Volumes/HP USB20FD/Videos,470MP4s matched by relative path and byte size. Preserve historical paths and stable S source IDs. Selected Log masters remain in media/colour/jetkids-rec709 and must match their recorded master hashes. Five historical Nikon MOVs are not on HP.
+
+- Five historical Nikon MOVs were found on /Volumes/SECRET/Photos on20 October; all five full SHA256 hashes match their original S001–S005 records. Those originals are available again. New-root survey copies of these are aliases, not five independent new camera takes.
+
+- Revision01 arrival-flow was rejected for rushed entries, plain transitions and obvious music merging. Revision02 slows native100fps entries, uses short motion-led transitions, smoothed subject tracking with visual drift rejection, native portrait tilak/ribbon alternatives, and a pitch-preserving92BPM entry/music handover. After completing this overview, the user commissioned full interview review/transcription and in-depth talking-head videos with relevant B-roll across JKIS and all volumes.

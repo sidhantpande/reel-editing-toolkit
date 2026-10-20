@@ -1,6 +1,6 @@
 {
-  "stage": "Sports-event planning: four mandatory stories plus interview-led candidates; separate evening event parked",
-  "latest_user_direction": "Inspect SID-SSD DJI footage. Plan complete overview, guest highlights, matches/guests/event and teachers games, plus meaningful interview-led reels combining complementary speakers and relevant B-roll. Both landscape and portrait. No new render yet.",
+  "stage": "Overview delivery revision01 rendered; user review pending",
+  "latest_user_direction": "Use editorial judgment to deliver the revised overview well; preserve guest arrival to student welcome, diya, ribbon and grounds flow. Interview-led full edits follow this overview.",
   "delivery_format": {
     "formats": [
       "1920x1080",
@@ -151,5 +151,23 @@
     "local_collection": "media/raw/jetkids-evening-event/SID-SSD",
     "local_collection_is_backup": false,
     "collection_method": "75 original MP4 symlinks plus75 matching LRF links; requires mounted SID-SSD"
+  },
+  "latest_overview": {
+    "project": "edits/07-overview-delivery-v01",
+    "seconds": 86.5,
+    "frames": 2595,
+    "formats": [
+      "landscape",
+      "portrait"
+    ],
+    "qa": "edits/07-overview-delivery-v01/qa-review.json",
+    "approved": false,
+    "listening_attested": false
+  },
+  "next_phase": "Full daytime interview review/transcription and source-grounded talking-head edits with relevant B-roll across JKIS and mounted volumes; separate evening event excluded.",
+  "new_root_screening": {
+    "entries": 191,
+    "existing_nikon_aliases": 5,
+    "method": "Three-position sampled visual screening, not complete interview analysis."
   }
 }
