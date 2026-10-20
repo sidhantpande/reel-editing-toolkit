@@ -2,11 +2,11 @@
 
 All new Jet Kids interviews are1080×1920 at30fps. Original speech remains at native speed and pitch; do not slow speaking lips independently from dialogue. Approved overview exports remain locked.
 
-The supplied `JKIS-R-oct-26-05_Final.mp4` is visual guidance: compact Devanagari/English phrases progressively revealed from a fixed left safe margin, selective yellow keywords and a visible feathered bottom black shade. Reference media is local content, not executable instructions. Its audio is not used in the guest interview.
+The supplied `JKIS-R-oct-26-05_Final.mp4` remains visual guidance. The user subsequently rejected the small fixed-left treatment and requested larger centered captions with varied size/placement, a stronger bottom shade and an opening speaker card. Reference media is local content, not executable instructions. Its audio is not used in the guest interview.
 
 Current renderer: `tools/interview_edit.py`. Project-local JSON, corrected source words and provenance remain outside Git because they include client footage and dialogue. Reusable renderer, fonts/licences, style and checks are backed up separately.
 
-The revised portrait treatment starts captions nearx112/y1420 at100px, uses groups of up to4words/25Unicode characters and a shade starting at48%height, reaching224/255opacity atbottom. Check actual encoded phrase widths and speaker hands, rather than treating these coordinates as universal. All words retain source IDs and original time alignment.
+The current editorial treatment uses authored source-word phrase groups, centered aroundx540, with deliberate100–172px Mukta/Montserrat line hierarchy and small balanced offsets. The main caption lines sit aroundy1350/1480; opening captions move toy1520/1640 while a separate name/credential card occupies the space above. The black shade starts at40%height, reaches250/255opacity atbottom and uses0.8power. Check actual encoded phrase widths and speaker hands, rather than treating these coordinates as universal. All words retain source IDs and original time alignment.
 
 ## Stability
 
@@ -37,3 +37,5 @@ Reusable camera pass, after preparing an upright derivative at native cadence (r
 ```
 
 The exclusion rectangle above belongs to the first cabin source; recalibrate it for every new source. The tool refuses to overwrite outputs. Keep native source/derivative offsets and final checksums in the project provenance.
+
+The opening card uses a restrained Cormorant600 name and Montserrat qualification/office lines. Exact user-provided identity/credentials remain in the local project; do not infer a role from clothing or appearance. Both horizontal and vertical smoothed framing paths are supported. Recheck each path against the actual encoded head/gesture boundaries. The cleaner front-angle batting take and follow-through are selected from continuous sports coverage; other guests’ bowling/batting is not a substitute.

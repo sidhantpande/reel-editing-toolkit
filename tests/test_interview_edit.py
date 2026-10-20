@@ -45,6 +45,19 @@ class InterviewEditTests(unittest.TestCase):
   with tempfile.TemporaryDirectory() as t:
    a=Path(t)/'captions.ass';kit.subtitles(p,words,'portrait',a)
    self.assertNotIn(r'\fnMontserrat',a.read_text())
+ def test_editorial_caption_layout_preserves_words_and_center_geometry(self):
+  import tempfile
+  p=self.plan();p['captionStyle']={'treatment':'editorial'};p['captionPhrases']=['Complete thought'];p['captionLayouts']=[{'lines':[{'words':1,'size':110,'y':1350},{'words':1,'size':150,'y':1480}]}]
+  with tempfile.TemporaryDirectory() as t:
+   q=Path(t)/'captions.ass';groups=kit.subtitles(p,self.words(),'portrait',q)
+   self.assertEqual([line['text'] for line in groups[0]['lines']],['Complete','thought'])
+   self.assertEqual([line['x'] for line in groups[0]['lines']],[540,540])
+   p['captionLayouts'][0]['lines'][1]['words']=2
+   with self.assertRaises(ValueError):kit.subtitles(p,self.words(),'portrait',q)
+ def test_vertical_crop_path_is_applied_without_changing_dialogue_speed(self):
+  plan={'sources':{'V014':{'rotate':False}}};shot={'source_id':'V014','renderFrames':30,'speed':1,'zoom':1.6,'crop_path':[[0,.48],[1,.50]],'crop_path_y':[[0,.63],[1,.65]]}
+  f=kit.crop_filter(plan,shot,'portrait',{'V014':{'width':1440,'height':2560}})
+  self.assertIn('ih*(',f);self.assertIn('iw*(',f);self.assertIn('(PTS-STARTPTS)/1',f)
  def test_second_source_word_is_not_attached_to_first_speakers_cut(self):
   p=self.plan();p['cuts'].append(dict(source_id='V015',inFrame=0,outFrame=30,timelineFrom=60,duration=30));p['dialogueFrames']=90
   for f in p['formats']:p['formats'][f]['shots'].append(dict(source_id='V015',timelineFrom=60,frames=30))

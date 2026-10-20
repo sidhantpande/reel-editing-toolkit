@@ -1,5 +1,5 @@
 {
-  "status": "Proposed for the next interview edits; not an approved rendered look",
+  "status": "Centered editorial caption and speaker-title revision; user review pending",
   "formats": {
     "portrait": [
       1080,
@@ -10,34 +10,35 @@
   "speech_speed": 1,
   "captions": {
     "latin_font": "Montserrat SemiBold",
-    "devanagari_font": "Noto Sans Devanagari Semibold",
+    "devanagari_font": "Mukta ExtraBold",
     "language": "Preserve actual spoken English/Hindi/Hinglish; manually correct ASR before word alignment",
     "max_lines": 2,
     "portrait_font_px_research_range": [
-      90,
-      104
+      100,
+      172
     ],
     "landscape_font_px_research_range": [
       34,
       44
     ],
-    "placement": "Lower safe area calibrated to speaker, hands and platform UI; do not reuse a universal y coordinate",
-    "motion": "Compact phrases build word by word from fixed left margin, restrained yellow emphasis",
+    "placement": "Centered block around x540; small balanced offsets per line. Main blocks y1350/1480; while opening title is visible, y1520/1640. Calibrate head/hands and UI.",
+    "motion": "Gentle10px rise over110ms with70ms reveal and55ms fade; no changing font during a line",
     "accent": "Warm gold on a few meaningful words; retain navy/white contrast; no clinic/NioLearn styling",
-    "progressive": true,
+    "progressive": false,
     "reference": "User-supplied JKIS-R-oct-26-05_Final.mp4",
     "bottom_gradient": {
-      "start_fraction": 0.48,
-      "max_alpha": 224
+      "start_fraction": 0.4,
+      "max_alpha": 250,
+      "power": 0.8
     },
-    "current_g1_px": 100
+    "treatment": "Centered semantic blocks with authored line hierarchy"
   },
-  "speaker_identity": "Name/role lower third only after reliable verification. Appearance alone does not establish parent/teacher/guest role.",
+  "speaker_identity": "Opening name/qualification/office supplied by user; store exact details in private source-owned project. Cormorant600 name, compact Montserrat credentials. No identity inference from face.",
   "broll": "Actual Jet Kids footage matched to the spoken point. No event photos, fabricated classroom/library shots, evening-event continuity or unrelated stock footage.",
   "cuts": "Preserve complete words, meaning and genuine gestures. Remove interviewer setup/false starts at reviewed boundaries; do not build statements from unrelated answers.",
   "audio": "Original native-speed dialogue; pinned DeepFilterNet3 attenuation12–18dB selected per source, exact48k sample count and delay verification, gentle presence EQ/compression, quiet original bed; combined approximately-14LUFS and <=-1dBTP. Actual listening review still required.",
   "j_l_cuts": "Use short speech bridges under relevant B-roll when the complete sentence remains clear; avoid chopping phonemes or covering a needed facial reaction.",
-  "portrait": "Full-frame source-specific crop or upright native portrait; inspect head, hands and gesture throughout.",
+  "portrait": "Full-bleed, per-source crop; smoothed horizontal and vertical face-rectangle geometry for the selected cabin source, with headroom and complete sentence review.",
   "landscape": "Prefer real landscape A-roll/coverage. For a true vertical cabin source, evaluate a full-frame close crop or a generous talking-head/B-roll split composition rather than silently losing the full gesture.",
   "required_review": "Correct selected dialogue, verify source/action/crop, inspect every caption and boundary, full encoded audio/visual review before recording final QA.",
   "font_sources": {

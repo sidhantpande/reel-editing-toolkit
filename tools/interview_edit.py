@@ -111,10 +111,48 @@ def caption_groups(words,compact=False,phrases=None):
 def ass_time(t):
  cent=round(t*100);return f'{cent//360000}:{cent//6000%60:02}:{cent//100%60:02}.{cent%100:02}'
 def escaped(t):return t.replace('\\','').replace('{','').replace('}','').replace('\n',' ')
+def editorial_captions(plan,groups,header,path):
+ """Curated centered blocks; each line owns exact source words and fixed geometry."""
+ layouts=plan['captionLayouts']
+ if len(layouts)!=len(groups):raise ValueError('Every phrase needs an editorial layout')
+ lines=[header];checks=[]
+ for i,(group,layout) in enumerate(zip(groups,layouts)):
+  a=group[0]['start'];b=min(plan['dialogueFrames']/30,group[-1]['end']+.14)
+  if i+1<len(groups):b=min(b,groups[i+1][0]['start']-.01)
+  cursor=0;review=[]
+  for spec in layout['lines']:
+   count=spec['words'];owned=group[cursor:cursor+count];cursor+=count
+   if len(owned)!=count or not count:raise ValueError('Caption line has missing words')
+   text=' '.join(escaped(word['text']) for word in owned)
+   family='Montserrat' if all(ord(c)<128 for c in text) else 'Mukta'
+   size=spec['size'];x=540+spec.get('dx',0);y=spec['y']
+   if not 72<=size<=176 or not 420<=x<=660 or not 1240<=y<=1690:raise ValueError('Editorial caption outside calibrated range')
+   color=spec.get('color','FFFFFF')
+   tags=rf'{{\an5\fn{family}\b800\fs{size}\c&H00{color}&\move({x},{y+10},{x},{y},0,110)\fad(70,55)}}'
+   start=max(a,owned[0]['start'])
+   lines.append(f'Dialogue: 1,{ass_time(start)},{ass_time(b)},Main,,0,0,0,,{tags}{text}\n')
+   review.append(dict(text=' '.join(word['text'] for word in owned),start=start,end=b,font=family,size=size,x=x,y=y))
+  if cursor!=len(group):raise ValueError('Caption layout omits words')
+  checks.append(dict(start=a,end=b,text=' '.join(word['text'] for word in group),words=group,lines=review))
+ title=plan.get('speakerTitle')
+ if title:
+  end=title.get('end',4.4)
+  # The identity was supplied by the client; credentials are not inferred from appearance.
+  rows=[('JET KIDS  /  GUEST VOICES','Montserrat',24,1040,'C9DADD'),
+        (title['name'],'Cormorant Garamond Light',98,1140,'FFFFFF'),
+        (title['qualification'],'Montserrat',36,1222,'6CEBF5'),
+        (title['office'],'Montserrat',34,1285,'FFFFFF'),
+        (title['officeExpansion'],'Montserrat',27,1335,'C9DADD')]
+  for text,font,size,y,color in rows:
+   tag=rf'{{\an5\fn{font}\b600\fs{size}\bord0\shad1\c&H00{color}&\move(540,{y+10},540,{y},0,260)\fad(260,300)}}'
+   lines.append(f'Dialogue: 2,0:00:00.15,{ass_time(end)},Main,,0,0,0,,{tag}{escaped(text)}\n')
+  lines.append(f'Dialogue: 2,0:00:00.15,{ass_time(end)},Main,,0,0,0,,'+r'{\an7\pos(490,1082)\p1\c&H006CEBF5&\bord0\shad0\fad(260,300)}m 0 0 l 100 0 l 100 2 l 0 2'+'\n')
+ path.write_text(''.join(lines));return checks
 def subtitles(plan,words,fmt,path):
  w,h=(1920,1080) if fmt=='landscape' else (1080,1920);font=82 if fmt=='landscape' else plan.get('captionStyle',{}).get('fontSize',82);y=895 if fmt=='landscape' else plan.get('captionStyle',{}).get('y',1455)
  header=f'''[Script Info]\nScriptType: v4.00+\nPlayResX: {w}\nPlayResY: {h}\nScaledBorderAndShadow: yes\nWrapStyle: 2\n\n[V4+ Styles]\nFormat: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding\nStyle: Main,Noto Sans Devanagari,{font},&H00FFFFFF,&H00FFFFFF,&H50201810,&H70000000,-1,0,0,0,100,100,0,0,1,0.8,1.5,5,70,70,0,1\nStyle: Label,Montserrat,28,&H00503E21,&H00FFFFFF,&H90000000,&H90000000,0,0,0,0,100,100,2,0,1,0,1,7,0,0,0,1\n\n[Events]\nFormat: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text\n'''
  lines=[header];groups=caption_groups(mapped_words(plan,words),plan.get('captionStyle',{}).get('progressive',False),plan.get('captionPhrases'));checks=[]
+ if plan.get('captionStyle',{}).get('treatment')=='editorial':return editorial_captions(plan,groups,header,path)
  for i,g in enumerate(groups):
   a=max(0,g[0]['start']-.03);b=min(plan['dialogueFrames']/30-.025,g[-1]['end']+.10)
   if i+1<len(groups):b=min(b,groups[i+1][0]['start']-.01)
@@ -145,6 +183,8 @@ def crop_filter(plan,s,fmt,checks):
  cx,cy=s.get('center',[.5,.5]);x=max(0,min(sw-cw,sw*cx-cw/2));y=max(0,min(sh-ch,sh*cy-ch/2))
  if s.get("crop_path"):
   x=f"max(0,min(iw-ow,iw*({crop_expression(s['crop_path'])})-ow/2))"
+ if s.get('crop_path_y'):
+  y=f"max(0,min(ih-oh,ih*({crop_expression(s['crop_path_y'])})-oh/2))"
  vf+=f"trim=duration={(s['renderFrames']-s.get('holdTailFrames',0))/30*s.get('speed',1):.7f},setpts=(PTS-STARTPTS)/{s.get('speed',1)},fps=30,crop={cw}:{ch}:x='{x}':y='{y}',scale={w}:{h}:flags=lanczos"
  if q.get('range')=='pc':vf+=':in_range=full:out_range=tv'
  
@@ -198,7 +238,7 @@ def render(project,formats=None):
   ass=work/'captions.ass';groups=subtitles(plan,words,fmt,ass);save(work/'caption-groups.json',groups)
   gradient=work/'shade.png';im=Image.new('RGBA',(w,h));px=im.load()
   for y in range(h):
-   a=int(plan.get('captionStyle',{}).get('gradientAlpha',155)*max(0,(y/h-plan.get('captionStyle',{}).get('gradientStart',.63))/(1-plan.get('captionStyle',{}).get('gradientStart',.63)))**1.15)
+   a=int(plan.get('captionStyle',{}).get('gradientAlpha',155)*max(0,(y/h-plan.get('captionStyle',{}).get('gradientStart',.63))/(1-plan.get('captionStyle',{}).get('gradientStart',.63)))**plan.get('captionStyle',{}).get('gradientPower',1.15))
    for x in range(w):px[x,y]=(0,0,0,a)
   im.save(gradient)
   # libass shapes the Devanagari font; font files are original reusable licensed assets.
