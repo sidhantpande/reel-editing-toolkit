@@ -1,0 +1,182 @@
+{
+  "status": "Review exports rendered and sampled visual checks complete; user response pending",
+  "user_approved": false,
+  "baseline_feedback": "User said07 is much better, requested native audio speed and further beat polish.",
+  "review_method": "Every encoded frame decoded/scanned at reduced resolution. All9 contact pages per format inspected:2fps and every cut -4,-1,0,+1,+4 frames. Landscape7.52s transition/ribbon/bat focal strips and source ribbon/bat crops also inspected. Not full-resolution every-frame playback.",
+  "listening_review": "not attested",
+  "audio_speed": {
+    "entry": 1,
+    "continuation": 1,
+    "entry_phrase_repeat_seconds": 8
+  },
+  "formats": {
+    "landscape": {
+      "scan": {
+        "video": "/Users/shwetaranjan/Desktop/Video-Editingh/exports/jetkids-overview-polish-v01/landscape.mp4",
+        "sha256": "f04714d14dc3d0843fcd3c3facbd7accb541396718246f61c22ce175fdefaee5",
+        "width": 1920,
+        "height": 1080,
+        "frames_decoded": 2595,
+        "expected_frames": 2595,
+        "contact_frames": 314,
+        "contact_pages": 9,
+        "boundaries": [
+          0,
+          73,
+          147,
+          222,
+          298,
+          418,
+          566,
+          655,
+          721,
+          775,
+          933,
+          1014,
+          1093,
+          1169,
+          1327,
+          1409,
+          1488,
+          1564,
+          1664,
+          1723,
+          1801,
+          1876,
+          1957,
+          2033,
+          2110,
+          2192,
+          2267,
+          2343,
+          2427,
+          2536,
+          2594
+        ],
+        "very_dark_frames": [
+          0,
+          2536
+        ],
+        "mean_rgb_min": 0.0,
+        "visual_review": "All9 contact pages inspected; sampled review only.",
+        "audio_listening": "not attested"
+      },
+      "encoded": {
+        "file": "/Users/shwetaranjan/Desktop/Video-Editingh/exports/jetkids-overview-polish-v01/landscape.mp4",
+        "sha256": "f04714d14dc3d0843fcd3c3facbd7accb541396718246f61c22ce175fdefaee5",
+        "frames": "2595",
+        "full_decode": "passed",
+        "loudness": {
+          "input_i": "-14.07",
+          "input_tp": "-1.35",
+          "input_lra": "4.80",
+          "input_thresh": "-24.21",
+          "output_i": "-14.25",
+          "output_tp": "-1.08",
+          "output_lra": "4.30",
+          "output_thresh": "-24.35",
+          "normalization_type": "dynamic",
+          "target_offset": "0.25"
+        },
+        "visual_review": "Sampled encoded contacts inspected; see review_method.",
+        "listening_review": "not attested"
+      },
+      "contacts_reviewed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "dark_frames_explanation": "Intentional opening fade and start of logo fade."
+    },
+    "portrait": {
+      "scan": {
+        "video": "/Users/shwetaranjan/Desktop/Video-Editingh/exports/jetkids-overview-polish-v01/portrait.mp4",
+        "sha256": "e2d36886135b9d49355dfd95dee99b08b8b452700e4d129395a803598c78fa18",
+        "width": 1080,
+        "height": 1920,
+        "frames_decoded": 2595,
+        "expected_frames": 2595,
+        "contact_frames": 314,
+        "contact_pages": 9,
+        "boundaries": [
+          0,
+          73,
+          147,
+          222,
+          298,
+          418,
+          566,
+          655,
+          721,
+          775,
+          933,
+          1014,
+          1093,
+          1169,
+          1327,
+          1409,
+          1488,
+          1564,
+          1664,
+          1723,
+          1801,
+          1876,
+          1957,
+          2033,
+          2110,
+          2192,
+          2267,
+          2343,
+          2427,
+          2536,
+          2594
+        ],
+        "very_dark_frames": [
+          0,
+          2536
+        ],
+        "mean_rgb_min": 0.0,
+        "visual_review": "All9 contact pages inspected; sampled review only.",
+        "audio_listening": "not attested"
+      },
+      "encoded": {
+        "file": "/Users/shwetaranjan/Desktop/Video-Editingh/exports/jetkids-overview-polish-v01/portrait.mp4",
+        "sha256": "e2d36886135b9d49355dfd95dee99b08b8b452700e4d129395a803598c78fa18",
+        "frames": "2595",
+        "full_decode": "passed",
+        "loudness": {
+          "input_i": "-14.07",
+          "input_tp": "-1.35",
+          "input_lra": "4.80",
+          "input_thresh": "-24.21",
+          "output_i": "-14.25",
+          "output_tp": "-1.08",
+          "output_lra": "4.30",
+          "output_thresh": "-24.35",
+          "normalization_type": "dynamic",
+          "target_offset": "0.25"
+        },
+        "visual_review": "Sampled encoded contacts inspected; see review_method.",
+        "listening_review": "not attested"
+      },
+      "contacts_reviewed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "dark_frames_explanation": "Intentional opening fade and start of logo fade."
+    }
+  }
+}

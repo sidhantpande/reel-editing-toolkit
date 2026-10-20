@@ -1,0 +1,267 @@
+{
+  "finding": "Selected Sony arrival/ceremony originals are normal100p, not preconformed slow motion. Converted masters retain identical frame counts, frame rates and durations.",
+  "delivery_fps": 30,
+  "native_slow_speed": 0.3,
+  "sources": [
+    {
+      "source_id": "S159",
+      "original": "/Volumes/HP USB20FD/Videos/1/C4265.MP4",
+      "xml": "/Volumes/HP USB20FD/Videos/1/C4265M01.XML",
+      "VideoFrame": {
+        "videoCodec": "AVC_1920_1080_HP@L51",
+        "captureFps": "100.00p",
+        "formatFps": "100p"
+      },
+      "RecordingMode": {
+        "type": "normal",
+        "cacheRec": "false"
+      },
+      "original_timing": {
+        "r_frame_rate": "100/1",
+        "avg_frame_rate": "100/1",
+        "nb_frames": "3072",
+        "duration": "30.720000"
+      },
+      "master_timing": {
+        "r_frame_rate": "100/1",
+        "avg_frame_rate": "100/1",
+        "nb_frames": "3072",
+        "duration": "30.720000"
+      }
+    },
+    {
+      "source_id": "S164",
+      "original": "/Volumes/HP USB20FD/Videos/1/C4270.MP4",
+      "xml": "/Volumes/HP USB20FD/Videos/1/C4270M01.XML",
+      "VideoFrame": {
+        "videoCodec": "AVC_1920_1080_HP@L51",
+        "captureFps": "100.00p",
+        "formatFps": "100p"
+      },
+      "RecordingMode": {
+        "type": "normal",
+        "cacheRec": "false"
+      },
+      "original_timing": {
+        "r_frame_rate": "100/1",
+        "avg_frame_rate": "100/1",
+        "nb_frames": "384",
+        "duration": "3.840000"
+      },
+      "master_timing": {
+        "r_frame_rate": "100/1",
+        "avg_frame_rate": "100/1",
+        "nb_frames": "384",
+        "duration": "3.840000"
+      }
+    },
+    {
+      "source_id": "S166",
+      "original": "/Volumes/HP USB20FD/Videos/1/C4272.MP4",
+      "xml": "/Volumes/HP USB20FD/Videos/1/C4272M01.XML",
+      "VideoFrame": {
+        "videoCodec": "AVC_1920_1080_HP@L51",
+        "captureFps": "100.00p",
+        "formatFps": "100p"
+      },
+      "RecordingMode": {
+        "type": "normal",
+        "cacheRec": "false"
+      },
+      "original_timing": {
+        "r_frame_rate": "100/1",
+        "avg_frame_rate": "100/1",
+        "nb_frames": "384",
+        "duration": "3.840000"
+      },
+      "master_timing": {
+        "r_frame_rate": "100/1",
+        "avg_frame_rate": "100/1",
+        "nb_frames": "384",
+        "duration": "3.840000"
+      }
+    },
+    {
+      "source_id": "S167",
+      "original": "/Volumes/HP USB20FD/Videos/1/C4273.MP4",
+      "xml": "/Volumes/HP USB20FD/Videos/1/C4273M01.XML",
+      "VideoFrame": {
+        "videoCodec": "AVC_1920_1080_HP@L51",
+        "captureFps": "100.00p",
+        "formatFps": "100p"
+      },
+      "RecordingMode": {
+        "type": "normal",
+        "cacheRec": "false"
+      },
+      "original_timing": {
+        "r_frame_rate": "100/1",
+        "avg_frame_rate": "100/1",
+        "nb_frames": "1152",
+        "duration": "11.520000"
+      },
+      "master_timing": {
+        "r_frame_rate": "100/1",
+        "avg_frame_rate": "100/1",
+        "nb_frames": "1152",
+        "duration": "11.520000"
+      }
+    },
+    {
+      "source_id": "S168",
+      "original": "/Volumes/HP USB20FD/Videos/1/C4274.MP4",
+      "xml": "/Volumes/HP USB20FD/Videos/1/C4274M01.XML",
+      "VideoFrame": {
+        "videoCodec": "AVC_1920_1080_HP@L51",
+        "captureFps": "100.00p",
+        "formatFps": "100p"
+      },
+      "RecordingMode": {
+        "type": "normal",
+        "cacheRec": "false"
+      },
+      "original_timing": {
+        "r_frame_rate": "100/1",
+        "avg_frame_rate": "100/1",
+        "nb_frames": "720",
+        "duration": "7.200000"
+      },
+      "master_timing": {
+        "r_frame_rate": "100/1",
+        "avg_frame_rate": "100/1",
+        "nb_frames": "720",
+        "duration": "7.200000"
+      }
+    },
+    {
+      "source_id": "S169",
+      "original": "/Volumes/HP USB20FD/Videos/1/C4275.MP4",
+      "xml": "/Volumes/HP USB20FD/Videos/1/C4275M01.XML",
+      "VideoFrame": {
+        "videoCodec": "AVC_1920_1080_HP@L51",
+        "captureFps": "100.00p",
+        "formatFps": "100p"
+      },
+      "RecordingMode": {
+        "type": "normal",
+        "cacheRec": "false"
+      },
+      "original_timing": {
+        "r_frame_rate": "100/1",
+        "avg_frame_rate": "100/1",
+        "nb_frames": "528",
+        "duration": "5.280000"
+      },
+      "master_timing": {
+        "r_frame_rate": "100/1",
+        "avg_frame_rate": "100/1",
+        "nb_frames": "528",
+        "duration": "5.280000"
+      }
+    },
+    {
+      "source_id": "S171",
+      "original": "/Volumes/HP USB20FD/Videos/1/C4277.MP4",
+      "xml": "/Volumes/HP USB20FD/Videos/1/C4277M01.XML",
+      "VideoFrame": {
+        "videoCodec": "AVC_1920_1080_HP@L51",
+        "captureFps": "100.00p",
+        "formatFps": "100p"
+      },
+      "RecordingMode": {
+        "type": "normal",
+        "cacheRec": "false"
+      },
+      "original_timing": {
+        "r_frame_rate": "100/1",
+        "avg_frame_rate": "100/1",
+        "nb_frames": "336",
+        "duration": "3.360000"
+      },
+      "master_timing": {
+        "r_frame_rate": "100/1",
+        "avg_frame_rate": "100/1",
+        "nb_frames": "336",
+        "duration": "3.360000"
+      }
+    },
+    {
+      "source_id": "S191",
+      "original": "/Volumes/HP USB20FD/Videos/1/C4297.MP4",
+      "xml": "/Volumes/HP USB20FD/Videos/1/C4297M01.XML",
+      "VideoFrame": {
+        "videoCodec": "AVC_1920_1080_HP@L51",
+        "captureFps": "100.00p",
+        "formatFps": "100p"
+      },
+      "RecordingMode": {
+        "type": "normal",
+        "cacheRec": "false"
+      },
+      "original_timing": {
+        "r_frame_rate": "100/1",
+        "avg_frame_rate": "100/1",
+        "nb_frames": "5136",
+        "duration": "51.360000"
+      },
+      "master_timing": {
+        "r_frame_rate": "100/1",
+        "avg_frame_rate": "100/1",
+        "nb_frames": "5136",
+        "duration": "51.360000"
+      }
+    },
+    {
+      "source_id": "S200",
+      "original": "/Volumes/HP USB20FD/Videos/1/C4306.MP4",
+      "xml": "/Volumes/HP USB20FD/Videos/1/C4306M01.XML",
+      "VideoFrame": {
+        "videoCodec": "AVC_1920_1080_HP@L51",
+        "captureFps": "100.00p",
+        "formatFps": "100p"
+      },
+      "RecordingMode": {
+        "type": "normal",
+        "cacheRec": "false"
+      },
+      "original_timing": {
+        "r_frame_rate": "100/1",
+        "avg_frame_rate": "100/1",
+        "nb_frames": "720",
+        "duration": "7.200000"
+      },
+      "master_timing": {
+        "r_frame_rate": "100/1",
+        "avg_frame_rate": "100/1",
+        "nb_frames": "720",
+        "duration": "7.200000"
+      }
+    },
+    {
+      "source_id": "S244",
+      "original": "/Volumes/HP USB20FD/Videos/1/C4351.MP4",
+      "xml": "/Volumes/HP USB20FD/Videos/1/C4351M01.XML",
+      "VideoFrame": {
+        "videoCodec": "AVC_1920_1080_HP@L51",
+        "captureFps": "100.00p",
+        "formatFps": "100p"
+      },
+      "RecordingMode": {
+        "type": "normal",
+        "cacheRec": "false"
+      },
+      "original_timing": {
+        "r_frame_rate": "100/1",
+        "avg_frame_rate": "100/1",
+        "nb_frames": "528",
+        "duration": "5.280000"
+      },
+      "master_timing": {
+        "r_frame_rate": "100/1",
+        "avg_frame_rate": "100/1",
+        "nb_frames": "528",
+        "duration": "5.280000"
+      }
+    }
+  ]
+}

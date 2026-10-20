@@ -1,0 +1,22 @@
+{
+  "status": "Polish revision; user liked07 but requested refinement",
+  "previous_revision": "Rejected: rushed entries, plain transitions, obvious music merge",
+  "scope": "Overview first; interview-led full edits after this",
+  "actions": "Preserve complete guest greetings, student welcome, diya and ribbon before grounds action",
+  "arrival_speeds": [
+    0.4,
+    0.5,
+    0.75,
+    0.6,
+    0.55,
+    0.65,
+    0.3
+  ],
+  "portrait": "Full bleed, independently selected native portrait ceremony angles and6 accepted smoothed subject tracks; one drifted tracker rejected",
+  "audio": "Native speed on both supplied tracks;8s phrase repeat, no WSOLA/atempo; rhythm handover instead of tempo matching",
+  "speech_captions": false,
+  "event_photos": false,
+  "evening_event": false,
+  "speed_review": "Original Sony capture/format100p, normal recording. Native30% slow used for lady entry and student batting; other timings preserve complete greetings. No source above100% speed.",
+  "cut_polish": "Greeting to car cut centred at7.52s; blend midpoints align with predicted pulses; ribbon and bat action accents aligned"
+}

@@ -1,0 +1,1434 @@
+{
+  "id": "jetkids-overview-polish-v01",
+  "format": "portrait",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "eventPhotoInserts": false,
+  "no_evening_event": true,
+  "shots": [
+    {
+      "source_id": "S159",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4265.mov",
+      "in": 0.4,
+      "speed": 0.4,
+      "frames": 73,
+      "timeline_start_frame": 0,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Vehicle arrival"
+    },
+    {
+      "source_id": "S159",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4265.mov",
+      "in": 29.1,
+      "speed": 0.5,
+      "frames": 74,
+      "timeline_start_frame": 73,
+      "crop_center": [
+        0.5823046875,
+        0.45365885416666674
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "White-kurta guest greeting",
+      "transitionIn": {
+        "kind": "hblur",
+        "frames": 6
+      },
+      "crop_path": [
+        [
+          0.0,
+          0.5823046875
+        ],
+        [
+          0.13333333333333333,
+          0.57703125
+        ],
+        [
+          0.26666666666666666,
+          0.5683072916666667
+        ],
+        [
+          0.4,
+          0.5578255208333334
+        ],
+        [
+          0.5333333333333333,
+          0.546953125
+        ],
+        [
+          0.6666666666666666,
+          0.5358203125000001
+        ],
+        [
+          0.8,
+          0.5246223958333334
+        ],
+        [
+          0.9333333333333333,
+          0.5138802083333334
+        ],
+        [
+          1.0666666666666667,
+          0.5041145833333334
+        ],
+        [
+          1.2,
+          0.4963020833333333
+        ],
+        [
+          1.3333333333333333,
+          0.49096354166666667
+        ],
+        [
+          1.4666666666666666,
+          0.48705729166666667
+        ],
+        [
+          1.6,
+          0.48315104166666667
+        ],
+        [
+          1.7333333333333334,
+          0.4791796875
+        ],
+        [
+          1.8666666666666667,
+          0.4760546875
+        ],
+        [
+          2.0,
+          0.4739713541666667
+        ],
+        [
+          2.1333333333333333,
+          0.47240885416666667
+        ],
+        [
+          2.2666666666666666,
+          0.47110677083333335
+        ],
+        [
+          2.4,
+          0.4692838541666667
+        ],
+        [
+          2.533333333333333,
+          0.46511718750000003
+        ],
+        [
+          2.6666666666666665,
+          0.45880208333333333
+        ],
+        [
+          2.8,
+          0.45365885416666674
+        ]
+      ],
+      "crop_method": "OpenCV CSRT15fps; editor-selected target; smoothed path visually checked at first/middle/last; encoded review pending"
+    },
+    {
+      "source_id": "S164",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4270.mov",
+      "in": 0.05,
+      "speed": 0.75,
+      "frames": 75,
+      "timeline_start_frame": 147,
+      "crop_center": [
+        0.56,
+        0.56
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Blue-shirt guest complete greeting",
+      "transitionIn": {
+        "kind": "fadeslow",
+        "frames": 8
+      }
+    },
+    {
+      "source_id": "S166",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4272.mov",
+      "in": 0.7,
+      "speed": 0.6,
+      "frames": 76,
+      "timeline_start_frame": 222,
+      "crop_center": [
+        0.48,
+        0.65
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Cream-coat guest vehicle approaching",
+      "transitionIn": {
+        "kind": "smoothleft",
+        "frames": 8
+      }
+    },
+    {
+      "source_id": "S167",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4273.mov",
+      "in": 0.05,
+      "speed": 0.55,
+      "frames": 120,
+      "timeline_start_frame": 298,
+      "crop_center": [
+        0.567529296875,
+        0.4848307291666667
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Cream-coat guest handshake and namaste",
+      "transitionIn": {
+        "kind": "fadeslow",
+        "frames": 6
+      },
+      "crop_path": [
+        [
+          0.0,
+          0.567529296875
+        ],
+        [
+          0.1212121212121212,
+          0.564794921875
+        ],
+        [
+          0.24242424242424246,
+          0.5597493489583333
+        ],
+        [
+          0.36363636363636365,
+          0.553515625
+        ],
+        [
+          0.4848484848484848,
+          0.5471028645833333
+        ],
+        [
+          0.606060606060606,
+          0.5404296875000001
+        ],
+        [
+          0.7272727272727273,
+          0.5338541666666667
+        ],
+        [
+          0.8484848484848485,
+          0.5285807291666667
+        ],
+        [
+          0.9696969696969696,
+          0.5254231770833333
+        ],
+        [
+          1.0909090909090908,
+          0.5241861979166667
+        ],
+        [
+          1.212121212121212,
+          0.5239583333333333
+        ],
+        [
+          1.333333333333333,
+          0.523828125
+        ],
+        [
+          1.4545454545454546,
+          0.5232747395833333
+        ],
+        [
+          1.5757575757575757,
+          0.5223958333333333
+        ],
+        [
+          1.6969696969696968,
+          0.5219401041666667
+        ],
+        [
+          1.8181818181818181,
+          0.5223958333333333
+        ],
+        [
+          1.9393939393939392,
+          0.5230143229166666
+        ],
+        [
+          2.0606060606060606,
+          0.5222981770833333
+        ],
+        [
+          2.1818181818181817,
+          0.5192708333333333
+        ],
+        [
+          2.3030303030303028,
+          0.51376953125
+        ],
+        [
+          2.424242424242424,
+          0.5063802083333333
+        ],
+        [
+          2.545454545454545,
+          0.49820963541666663
+        ],
+        [
+          2.666666666666666,
+          0.49049479166666665
+        ],
+        [
+          2.7878787878787876,
+          0.48460286458333335
+        ],
+        [
+          2.909090909090909,
+          0.4810872395833333
+        ],
+        [
+          3.0303030303030303,
+          0.47906901041666666
+        ],
+        [
+          3.1515151515151514,
+          0.4774088541666667
+        ],
+        [
+          3.2727272727272725,
+          0.47578125
+        ],
+        [
+          3.3939393939393936,
+          0.4747721354166667
+        ],
+        [
+          3.5151515151515147,
+          0.4752278645833333
+        ],
+        [
+          3.636363636363636,
+          0.47734375
+        ],
+        [
+          3.757575757575758,
+          0.48040364583333334
+        ],
+        [
+          3.8787878787878785,
+          0.483203125
+        ],
+        [
+          4.0,
+          0.4848307291666667
+        ]
+      ],
+      "crop_method": "OpenCV CSRT15fps; editor-selected target; smoothed path visually checked at first/middle/last; encoded review pending"
+    },
+    {
+      "source_id": "S169",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4275.mov",
+      "in": 0.1,
+      "speed": 0.65,
+      "frames": 148,
+      "timeline_start_frame": 418,
+      "crop_center": [
+        0.56,
+        0.56
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Guest steps out of his actual vehicle and greets host; no unrelated police-car pairing",
+      "transitionIn": {
+        "kind": "hblur",
+        "frames": 6
+      },
+      "crop_method": "Manual stable guest/handshake composition; automatic path rejected after visual identity drift to car/police officer"
+    },
+    {
+      "source_id": "S171",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4277.mov",
+      "in": 0.2,
+      "speed": 0.3,
+      "frames": 89,
+      "timeline_start_frame": 566,
+      "crop_center": [
+        0.451171875,
+        0.40141601562499996
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Lady guest entry",
+      "transitionIn": {
+        "kind": "fadeslow",
+        "frames": 10
+      },
+      "crop_path": [
+        [
+          0,
+          0.4317220052083333
+        ],
+        [
+          0.11111111111111109,
+          0.4317220052083333
+        ],
+        [
+          0.3333333333333335,
+          0.4296712239583333
+        ],
+        [
+          0.5555555555555557,
+          0.42755533854166666
+        ],
+        [
+          0.7777777777777778,
+          0.4259440104166667
+        ],
+        [
+          1.0,
+          0.42470703125
+        ],
+        [
+          1.222222222222222,
+          0.42399088541666674
+        ],
+        [
+          1.4444444444444444,
+          0.42425130208333334
+        ],
+        [
+          1.6666666666666665,
+          0.42539062499999997
+        ],
+        [
+          1.8888888888888888,
+          0.42666015625
+        ],
+        [
+          2.111111111111111,
+          0.4275390625
+        ],
+        [
+          2.3333333333333335,
+          0.4280924479166667
+        ],
+        [
+          2.5555555555555554,
+          0.42841796875
+        ],
+        [
+          2.7777777777777786,
+          0.4282877604166667
+        ],
+        [
+          3.0000000000000004,
+          0.4270182291666666
+        ],
+        [
+          3.2222222222222228,
+          0.4239583333333333
+        ],
+        [
+          3.444444444444445,
+          0.42001953125
+        ],
+        [
+          3.666666666666667,
+          0.41725260416666665
+        ]
+      ],
+      "crop_method": "OpenCV CSRT15fps; editor-selected target; smoothed path visually checked at first/middle/last; encoded review pending"
+    },
+    {
+      "source_id": "V327",
+      "source": "/Users/shwetaranjan/Downloads/JKIS/osmo 4/DJI_20261018105948_0026_D.MP4",
+      "in": 0.7,
+      "speed": 0.7,
+      "frames": 66,
+      "timeline_start_frame": 655,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Student-guided steps",
+      "transitionIn": {
+        "kind": "fadeslow",
+        "frames": 12
+      }
+    },
+    {
+      "source_id": "V312",
+      "source": "/Users/shwetaranjan/Downloads/JKIS/osmo 2/DJI_20261018100951_0006_D.MP4",
+      "in": 1.0,
+      "speed": 0.7,
+      "frames": 54,
+      "timeline_start_frame": 721,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Student-led band procession"
+    },
+    {
+      "source_id": "V389",
+      "source": "/Volumes/SECRET/osmo 3/DJI_20261018110018_0027_D.MP4",
+      "in": 45.55,
+      "speed": 0.7,
+      "frames": 158,
+      "timeline_start_frame": 775,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Native portrait tilak: both guest/student faces, touch, hand withdrawal and smile; alternate complete action",
+      "transitionIn": {
+        "kind": "fade",
+        "frames": 12
+      },
+      "zoom": 1.1,
+      "crop_center_y": 0.58
+    },
+    {
+      "source_id": "V319",
+      "source": "/Users/shwetaranjan/Downloads/JKIS/osmo 3/DJI_20261018110326_0031_D.MP4",
+      "in": 8.5,
+      "speed": 1.0,
+      "frames": 81,
+      "timeline_start_frame": 933,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Diya lighting: guest hand and lamp; alternate native portrait view",
+      "transitionIn": {
+        "kind": "fadeslow",
+        "frames": 15
+      }
+    },
+    {
+      "source_id": "S195",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4301.mov",
+      "in": 0.15,
+      "speed": 0.9,
+      "frames": 79,
+      "timeline_start_frame": 1014,
+      "crop_center": [
+        0.53,
+        0.53
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Lady guest lights diya",
+      "transitionIn": {
+        "kind": "fade",
+        "frames": 10
+      }
+    },
+    {
+      "source_id": "S196",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4302.mov",
+      "in": 0.02,
+      "speed": 0.55,
+      "frames": 76,
+      "timeline_start_frame": 1093,
+      "crop_center": [
+        0.53,
+        0.53
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Blue-shirt guest lights diya; final ceremonial detail",
+      "transitionIn": {
+        "kind": "fade",
+        "frames": 8
+      }
+    },
+    {
+      "source_id": "V301",
+      "source": "/Users/shwetaranjan/Downloads/JKIS/osmo 11/DJI_20261018110621_0033_D.MP4",
+      "in": 11.212000000000002,
+      "speed": 0.6,
+      "frames": 158,
+      "timeline_start_frame": 1169,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Ribbon preparation, release and applause; release placed on continuation bar; alternate native portrait view",
+      "zoom": 1.16,
+      "crop_center_y": 0.58,
+      "transitionIn": {
+        "kind": "fade",
+        "frames": 12
+      }
+    },
+    {
+      "source_id": "S201",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4307.mov",
+      "in": 0.5,
+      "speed": 1.0,
+      "frames": 82,
+      "timeline_start_frame": 1327,
+      "crop_center": [
+        0.48,
+        0.48
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Ground reveal and guest group after opening",
+      "transitionIn": {
+        "kind": "fadeslow",
+        "frames": 8
+      }
+    },
+    {
+      "source_id": "V361",
+      "source": "/Volumes/SECRET/drive-download-20261019T154400Z-1-002/Slot-05/MVI_0789.MP4",
+      "in": 3.5,
+      "speed": 1.0,
+      "frames": 79,
+      "timeline_start_frame": 1409,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Ground visit; guide explains the court; alternate native portrait view"
+    },
+    {
+      "source_id": "S207",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4313.mov",
+      "in": 0.5,
+      "speed": 1.0,
+      "frames": 76,
+      "timeline_start_frame": 1488,
+      "crop_center": [
+        0.43,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Lady guest interacts with student leaders on ground"
+    },
+    {
+      "source_id": "V029",
+      "source": "/Volumes/Sidhant-0/DCIM/Slot-07/MVI_2483.MP4",
+      "in": 1.8,
+      "speed": 1.0,
+      "frames": 100,
+      "timeline_start_frame": 1564,
+      "crop_center": [
+        0.2760416666666667,
+        0.5378580729166667
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Guest cricket swing with follow-through",
+      "transitionIn": {
+        "kind": "hblur",
+        "frames": 6
+      },
+      "crop_path": [
+        [
+          0.0,
+          0.2760416666666667
+        ],
+        [
+          0.06666666666666667,
+          0.2781901041666667
+        ],
+        [
+          0.13333333333333333,
+          0.2817057291666667
+        ],
+        [
+          0.2,
+          0.28470052083333336
+        ],
+        [
+          0.26666666666666666,
+          0.2861328125
+        ],
+        [
+          0.3333333333333333,
+          0.28619791666666666
+        ],
+        [
+          0.4,
+          0.2855143229166667
+        ],
+        [
+          0.4666666666666667,
+          0.2848307291666667
+        ],
+        [
+          0.5333333333333333,
+          0.284375
+        ],
+        [
+          0.6,
+          0.2841471354166667
+        ],
+        [
+          0.6666666666666666,
+          0.2848307291666667
+        ],
+        [
+          0.7333333333333333,
+          0.28740234375
+        ],
+        [
+          0.8,
+          0.2921549479166667
+        ],
+        [
+          0.8666666666666667,
+          0.2994140625
+        ],
+        [
+          0.9333333333333333,
+          0.31028645833333335
+        ],
+        [
+          1.0,
+          0.3275065104166667
+        ],
+        [
+          1.0666666666666667,
+          0.35296223958333334
+        ],
+        [
+          1.1333333333333333,
+          0.37666015625
+        ],
+        [
+          1.2,
+          0.3819986979166667
+        ],
+        [
+          1.2666666666666666,
+          0.3707682291666667
+        ],
+        [
+          1.3333333333333333,
+          0.3603515625
+        ],
+        [
+          1.4,
+          0.3587239583333333
+        ],
+        [
+          1.4666666666666666,
+          0.36321614583333334
+        ],
+        [
+          1.5333333333333334,
+          0.37265625
+        ],
+        [
+          1.6,
+          0.3853515625
+        ],
+        [
+          1.6666666666666667,
+          0.396484375
+        ],
+        [
+          1.7333333333333334,
+          0.40501302083333335
+        ],
+        [
+          1.8,
+          0.4126953125
+        ],
+        [
+          1.8666666666666667,
+          0.4195963541666667
+        ],
+        [
+          1.9333333333333333,
+          0.426953125
+        ],
+        [
+          2.0,
+          0.4369140625
+        ],
+        [
+          2.066666666666667,
+          0.44915364583333334
+        ],
+        [
+          2.1333333333333333,
+          0.4617838541666667
+        ],
+        [
+          2.2,
+          0.47369791666666666
+        ],
+        [
+          2.2666666666666666,
+          0.48561197916666665
+        ],
+        [
+          2.3333333333333335,
+          0.5008463541666667
+        ],
+        [
+          2.4,
+          0.5203125000000001
+        ],
+        [
+          2.466666666666667,
+          0.5385416666666667
+        ],
+        [
+          2.533333333333333,
+          0.5521484375000001
+        ],
+        [
+          2.6,
+          0.5620442708333333
+        ],
+        [
+          2.6666666666666665,
+          0.5668619791666667
+        ],
+        [
+          2.7333333333333334,
+          0.5656901041666667
+        ],
+        [
+          2.8,
+          0.5613932291666667
+        ],
+        [
+          2.8666666666666667,
+          0.5570963541666667
+        ],
+        [
+          2.933333333333333,
+          0.5532552083333333
+        ],
+        [
+          3.0,
+          0.5485677083333333
+        ],
+        [
+          3.066666666666667,
+          0.54326171875
+        ],
+        [
+          3.1333333333333333,
+          0.5394205729166667
+        ],
+        [
+          3.2,
+          0.5378580729166667
+        ]
+      ],
+      "crop_method": "OpenCV CSRT15fps; editor-selected target; smoothed path visually checked at first/middle/last; encoded review pending"
+    },
+    {
+      "source_id": "S206",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4312.mov",
+      "in": 20.0,
+      "speed": 0.9,
+      "frames": 59,
+      "timeline_start_frame": 1664,
+      "crop_center": [
+        0.48,
+        0.48
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Guests meet students while touring the ground"
+    },
+    {
+      "source_id": "S042",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4147.mov",
+      "in": 4.097999999999999,
+      "speed": 0.3,
+      "frames": 78,
+      "timeline_start_frame": 1723,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Student cricket: backswing, contact and follow-through"
+    },
+    {
+      "source_id": "S259",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4366.mov",
+      "in": 18.5,
+      "speed": 1.0,
+      "frames": 75,
+      "timeline_start_frame": 1801,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Kabaddi: lunge/tackle with recovery"
+    },
+    {
+      "source_id": "S281",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4388.mov",
+      "in": 3.2,
+      "speed": 0.8,
+      "frames": 81,
+      "timeline_start_frame": 1876,
+      "crop_center": [
+        0.209814453125,
+        0.45354817708333334
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Kho-kho direction change and chase",
+      "transitionIn": {
+        "kind": "smoothleft",
+        "frames": 6
+      },
+      "crop_path": [
+        [
+          0.0,
+          0.209814453125
+        ],
+        [
+          0.08333333333333333,
+          0.21036783854166666
+        ],
+        [
+          0.16666666666666666,
+          0.20769856770833334
+        ],
+        [
+          0.25,
+          0.20270182291666666
+        ],
+        [
+          0.3333333333333333,
+          0.20078125
+        ],
+        [
+          0.41666666666666663,
+          0.20520833333333333
+        ],
+        [
+          0.5,
+          0.21578776041666667
+        ],
+        [
+          0.5833333333333333,
+          0.23294270833333333
+        ],
+        [
+          0.6666666666666666,
+          0.25680338541666664
+        ],
+        [
+          0.7499999999999999,
+          0.2851236979166667
+        ],
+        [
+          0.8333333333333333,
+          0.3162109375
+        ],
+        [
+          0.9166666666666665,
+          0.3489583333333333
+        ],
+        [
+          1.0,
+          0.3800130208333333
+        ],
+        [
+          1.0833333333333333,
+          0.4069010416666667
+        ],
+        [
+          1.1666666666666665,
+          0.43007812500000003
+        ],
+        [
+          1.25,
+          0.4494140625
+        ],
+        [
+          1.3333333333333333,
+          0.464453125
+        ],
+        [
+          1.4166666666666665,
+          0.47610677083333336
+        ],
+        [
+          1.4999999999999998,
+          0.4848307291666667
+        ],
+        [
+          1.5833333333333333,
+          0.4904296875
+        ],
+        [
+          1.6666666666666665,
+          0.4931640625
+        ],
+        [
+          1.7499999999999998,
+          0.49322916666666666
+        ],
+        [
+          1.833333333333333,
+          0.490625
+        ],
+        [
+          1.9166666666666667,
+          0.48593749999999997
+        ],
+        [
+          2.0,
+          0.4798828125
+        ],
+        [
+          2.0833333333333335,
+          0.47382812500000004
+        ],
+        [
+          2.1666666666666665,
+          0.46966145833333334
+        ],
+        [
+          2.25,
+          0.46634114583333336
+        ],
+        [
+          2.333333333333333,
+          0.46168619791666665
+        ],
+        [
+          2.4166666666666665,
+          0.45673828125
+        ],
+        [
+          2.5,
+          0.45354817708333334
+        ]
+      ],
+      "crop_method": "OpenCV CSRT15fps; editor-selected target; smoothed path visually checked at first/middle/last; encoded review pending"
+    },
+    {
+      "source_id": "S231",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4337.mov",
+      "in": 4.35,
+      "speed": 0.6,
+      "frames": 76,
+      "timeline_start_frame": 1957,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Coordinated drill prop lift"
+    },
+    {
+      "source_id": "V279",
+      "source": "/Users/shwetaranjan/Downloads/JKIS/drive-download-20261019T154400Z-1-009/Slot-06/MVI_0564.MP4",
+      "in": 3.4,
+      "speed": 1.0,
+      "frames": 77,
+      "timeline_start_frame": 2033,
+      "crop_center": [
+        0.6296223958333333,
+        0.47722981770833334
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Actual table-tennis serve/return; discard former static waiting shot",
+      "transitionIn": {
+        "kind": "fadeslow",
+        "frames": 6
+      },
+      "crop_path": [
+        [
+          0.0,
+          0.6296223958333333
+        ],
+        [
+          0.06666666666666667,
+          0.62646484375
+        ],
+        [
+          0.13333333333333333,
+          0.6209635416666667
+        ],
+        [
+          0.2,
+          0.6123046875
+        ],
+        [
+          0.26666666666666666,
+          0.6028645833333334
+        ],
+        [
+          0.3333333333333333,
+          0.59755859375
+        ],
+        [
+          0.4,
+          0.597265625
+        ],
+        [
+          0.4666666666666667,
+          0.6002604166666666
+        ],
+        [
+          0.5333333333333333,
+          0.6060546875
+        ],
+        [
+          0.6,
+          0.6111328125
+        ],
+        [
+          0.6666666666666666,
+          0.6097005208333334
+        ],
+        [
+          0.7333333333333333,
+          0.6029296875000001
+        ],
+        [
+          0.8,
+          0.5967447916666667
+        ],
+        [
+          0.8666666666666667,
+          0.5918619791666667
+        ],
+        [
+          0.9333333333333333,
+          0.5867187500000001
+        ],
+        [
+          1.0,
+          0.582421875
+        ],
+        [
+          1.0666666666666667,
+          0.5798177083333333
+        ],
+        [
+          1.1333333333333333,
+          0.5787760416666667
+        ],
+        [
+          1.2,
+          0.5784505208333334
+        ],
+        [
+          1.2666666666666666,
+          0.5770182291666667
+        ],
+        [
+          1.3333333333333333,
+          0.5739583333333333
+        ],
+        [
+          1.4,
+          0.5700520833333333
+        ],
+        [
+          1.4666666666666666,
+          0.5651041666666666
+        ],
+        [
+          1.5333333333333334,
+          0.5583984375
+        ],
+        [
+          1.6,
+          0.5490885416666667
+        ],
+        [
+          1.6666666666666667,
+          0.536328125
+        ],
+        [
+          1.7333333333333334,
+          0.5203776041666667
+        ],
+        [
+          1.8,
+          0.50126953125
+        ],
+        [
+          1.8666666666666667,
+          0.4812825520833333
+        ],
+        [
+          1.9333333333333333,
+          0.4664388020833333
+        ],
+        [
+          2.0,
+          0.45758463541666666
+        ],
+        [
+          2.066666666666667,
+          0.4500651041666667
+        ],
+        [
+          2.1333333333333333,
+          0.44342447916666666
+        ],
+        [
+          2.2,
+          0.4403645833333334
+        ],
+        [
+          2.2666666666666666,
+          0.4412109375
+        ],
+        [
+          2.3333333333333335,
+          0.4440104166666667
+        ],
+        [
+          2.4,
+          0.447265625
+        ],
+        [
+          2.466666666666667,
+          0.4537109375
+        ],
+        [
+          2.533333333333333,
+          0.46686197916666666
+        ],
+        [
+          2.6,
+          0.48118489583333335
+        ],
+        [
+          2.6666666666666665,
+          0.486572265625
+        ],
+        [
+          2.7333333333333334,
+          0.482666015625
+        ],
+        [
+          2.8,
+          0.47722981770833334
+        ]
+      ],
+      "crop_method": "OpenCV CSRT15fps; editor-selected target; smoothed path visually checked at first/middle/last; encoded review pending"
+    },
+    {
+      "source_id": "S103",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4209.mov",
+      "in": 6.0,
+      "speed": 0.7,
+      "frames": 82,
+      "timeline_start_frame": 2110,
+      "crop_center": [
+        0.52,
+        0.52
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Chess piece movement and concentration",
+      "transitionIn": {
+        "kind": "fadeslow",
+        "frames": 8
+      }
+    },
+    {
+      "source_id": "S111",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4217.mov",
+      "in": 5.15,
+      "speed": 0.8,
+      "frames": 75,
+      "timeline_start_frame": 2192,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Teacher hoop game interaction"
+    },
+    {
+      "source_id": "S149",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4255.mov",
+      "in": 0.35,
+      "speed": 0.6,
+      "frames": 76,
+      "timeline_start_frame": 2267,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Teacher reaction and smile",
+      "zoom": 1.24,
+      "crop_center_y": 0.52,
+      "transitionIn": {
+        "kind": "fade",
+        "frames": 6
+      }
+    },
+    {
+      "source_id": "S333",
+      "source": "/Volumes/HP USB20FD/Videos/1/C4440.MP4",
+      "in": 0.1,
+      "speed": 0.7,
+      "frames": 84,
+      "timeline_start_frame": 2343,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Student award and school celebration",
+      "transitionIn": {
+        "kind": "fade",
+        "frames": 10
+      }
+    },
+    {
+      "source_id": "S341",
+      "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/colour/jetkids-rec709/Videos/1/C4448.mov",
+      "in": 1.15,
+      "speed": 0.65,
+      "frames": 109,
+      "timeline_start_frame": 2427,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "grade": {
+        "gamma": 1.0,
+        "contrast": 1.0,
+        "saturation": 1.0
+      },
+      "note": "Team trophy lift completes the event overview"
+    }
+  ],
+  "logoFrames": 59,
+  "totalFrames": 2595,
+  "logo": "/Users/shwetaranjan/Desktop/Video-Editingh/public/assets/brands/jetkids/logo-original.jpg",
+  "audio": {
+    "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/music/jetkids/overview-user-tracks/v03-native-normalised.wav",
+    "in": 0,
+    "entry_tempo": 1,
+    "continuation_tempo": 1,
+    "continuation_source_in": 0.04,
+    "continuation_timeline_in": 28.74,
+    "note": "Both supplied tracks at original speed/pitch. One8s entry phrase repeat preserves near-approved visual flow. Handover suppresses competing percussion instead of tempo matching."
+  }
+}

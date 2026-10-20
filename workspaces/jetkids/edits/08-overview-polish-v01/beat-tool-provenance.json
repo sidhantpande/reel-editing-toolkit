@@ -1,0 +1,10 @@
+{
+  "implementation": "https://github.com/CPJKU/beat_this/tree/v1.1.0",
+  "license": "MIT; docs/licenses/Beat-This-LICENSE.txt",
+  "checkpoint": "final0",
+  "checkpoint_source": "https://cloud.cp.jku.at/public.php/dav/files/7ik4RrBKTS273gp/final0.ckpt",
+  "checkpoint_sha256": "8c328b45f59d8dd3dff219253ff6a8d6482be57d0133a29140e2febbf8eb8331",
+  "runtime": "Isolated local beat-env; CPU with2threads. No changes to primary rendering environment.",
+  "outputs": "Beat and downbeat estimates, never transcript or listening approval.",
+  "lock": "tools/requirements-beats.lock"
+}

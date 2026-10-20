@@ -1,6 +1,6 @@
 {
-  "stage": "Overview delivery revision01 rendered; user review pending",
-  "latest_user_direction": "Use editorial judgment to deliver the revised overview well; preserve guest arrival to student welcome, diya, ribbon and grounds flow. Interview-led full edits follow this overview.",
+  "stage": "Overview polish01 delivered for review",
+  "latest_user_direction": "User likes07 baseline; polish7\u20138second cut, musical transitions and beats. Slow video only; original music speed.",
   "delivery_format": {
     "formats": [
       "1920x1080",
@@ -153,16 +153,17 @@
     "collection_method": "75 original MP4 symlinks plus75 matching LRF links; requires mounted SID-SSD"
   },
   "latest_overview": {
-    "project": "edits/07-overview-delivery-v01",
+    "project": "edits/08-overview-polish-v01",
     "seconds": 86.5,
     "frames": 2595,
     "formats": [
       "landscape",
       "portrait"
     ],
-    "qa": "edits/07-overview-delivery-v01/qa-review.json",
+    "qa": "edits/08-overview-polish-v01/qa-review.json",
     "approved": false,
-    "listening_attested": false
+    "listening_attested": false,
+    "audio_speed": 1
   },
   "next_phase": "Full daytime interview review/transcription and source-grounded talking-head edits with relevant B-roll across JKIS and mounted volumes; separate evening event excluded.",
   "new_root_screening": {

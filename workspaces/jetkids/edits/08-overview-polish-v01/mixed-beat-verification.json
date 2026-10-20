@@ -1,0 +1,181 @@
+{
+  "source": "/Users/shwetaranjan/Desktop/Video-Editingh/media/music/jetkids/overview-user-tracks/v03-native-normalised.wav",
+  "source_sha256": "52916f126d6e6a619427bc7941ea6f975c08ca5d1938efa5b9435fc9ea9ef6e0",
+  "tool": "beat-this",
+  "version": "1.1.0",
+  "checkpoint": "final0",
+  "entry_estimated_bpm": 120.0,
+  "continuation_estimated_bpm": 90.90909090909138,
+  "native_speed_proof": "Audio generation uses sample slices, no atempo or change of playback rate/time stretching; tempo ratios1 in audio-mix.json.",
+  "cut_verification": [
+    {
+      "incoming_shot": 1,
+      "visual_midpoint_seconds": 2.533333333333333,
+      "nearest_mixed_prediction": 2.52,
+      "error_ms": 13.33
+    },
+    {
+      "incoming_shot": 2,
+      "visual_midpoint_seconds": 5.033333333333333,
+      "nearest_mixed_prediction": 5.02,
+      "error_ms": 13.33
+    },
+    {
+      "incoming_shot": 3,
+      "visual_midpoint_seconds": 7.533333333333333,
+      "nearest_mixed_prediction": 7.52,
+      "error_ms": 13.33
+    },
+    {
+      "incoming_shot": 4,
+      "visual_midpoint_seconds": 10.033333333333333,
+      "nearest_mixed_prediction": 10.02,
+      "error_ms": 13.33
+    },
+    {
+      "incoming_shot": 5,
+      "visual_midpoint_seconds": 14.033333333333333,
+      "nearest_mixed_prediction": 14.04,
+      "error_ms": -6.67
+    },
+    {
+      "incoming_shot": 6,
+      "visual_midpoint_seconds": 19.033333333333335,
+      "nearest_mixed_prediction": 19.02,
+      "error_ms": 13.33
+    },
+    {
+      "incoming_shot": 7,
+      "visual_midpoint_seconds": 22.033333333333335,
+      "nearest_mixed_prediction": 22.04,
+      "error_ms": -6.67
+    },
+    {
+      "incoming_shot": 8,
+      "visual_midpoint_seconds": 24.033333333333335,
+      "nearest_mixed_prediction": 24.04,
+      "error_ms": -6.67
+    },
+    {
+      "incoming_shot": 9,
+      "visual_midpoint_seconds": 26.033333333333335,
+      "nearest_mixed_prediction": 26.02,
+      "error_ms": 13.33
+    },
+    {
+      "incoming_shot": 10,
+      "visual_midpoint_seconds": 31.35,
+      "nearest_mixed_prediction": 31.34,
+      "error_ms": 10.0
+    },
+    {
+      "incoming_shot": 11,
+      "visual_midpoint_seconds": 33.96666666666667,
+      "nearest_mixed_prediction": 33.96,
+      "error_ms": 6.67
+    },
+    {
+      "incoming_shot": 12,
+      "visual_midpoint_seconds": 36.56666666666667,
+      "nearest_mixed_prediction": 36.58,
+      "error_ms": -13.33
+    },
+    {
+      "incoming_shot": 13,
+      "visual_midpoint_seconds": 39.166666666666664,
+      "nearest_mixed_prediction": 39.16,
+      "error_ms": 6.67
+    },
+    {
+      "incoming_shot": 14,
+      "visual_midpoint_seconds": 44.36666666666667,
+      "nearest_mixed_prediction": 44.38,
+      "error_ms": -13.33
+    },
+    {
+      "incoming_shot": 15,
+      "visual_midpoint_seconds": 46.96666666666667,
+      "nearest_mixed_prediction": 46.98,
+      "error_ms": -13.33
+    },
+    {
+      "incoming_shot": 16,
+      "visual_midpoint_seconds": 49.6,
+      "nearest_mixed_prediction": 49.6,
+      "error_ms": 0.0
+    },
+    {
+      "incoming_shot": 17,
+      "visual_midpoint_seconds": 52.233333333333334,
+      "nearest_mixed_prediction": 52.22,
+      "error_ms": 13.33
+    },
+    {
+      "incoming_shot": 18,
+      "visual_midpoint_seconds": 55.46666666666667,
+      "nearest_mixed_prediction": 55.46,
+      "error_ms": 6.67
+    },
+    {
+      "incoming_shot": 19,
+      "visual_midpoint_seconds": 57.43333333333333,
+      "nearest_mixed_prediction": 57.42,
+      "error_ms": 13.33
+    },
+    {
+      "incoming_shot": 20,
+      "visual_midpoint_seconds": 60.03333333333333,
+      "nearest_mixed_prediction": 60.04,
+      "error_ms": -6.67
+    },
+    {
+      "incoming_shot": 21,
+      "visual_midpoint_seconds": 62.63333333333333,
+      "nearest_mixed_prediction": 62.64,
+      "error_ms": -6.67
+    },
+    {
+      "incoming_shot": 22,
+      "visual_midpoint_seconds": 65.23333333333333,
+      "nearest_mixed_prediction": 65.24,
+      "error_ms": -6.67
+    },
+    {
+      "incoming_shot": 23,
+      "visual_midpoint_seconds": 67.86666666666666,
+      "nearest_mixed_prediction": 67.86,
+      "error_ms": 6.67
+    },
+    {
+      "incoming_shot": 24,
+      "visual_midpoint_seconds": 70.46666666666667,
+      "nearest_mixed_prediction": 70.46,
+      "error_ms": 6.67
+    },
+    {
+      "incoming_shot": 25,
+      "visual_midpoint_seconds": 73.06666666666666,
+      "nearest_mixed_prediction": 73.06,
+      "error_ms": 6.67
+    },
+    {
+      "incoming_shot": 26,
+      "visual_midpoint_seconds": 75.66666666666667,
+      "nearest_mixed_prediction": 75.68,
+      "error_ms": -13.33
+    },
+    {
+      "incoming_shot": 27,
+      "visual_midpoint_seconds": 78.26666666666667,
+      "nearest_mixed_prediction": 78.28,
+      "error_ms": -13.33
+    },
+    {
+      "incoming_shot": 28,
+      "visual_midpoint_seconds": 80.9,
+      "nearest_mixed_prediction": 80.9,
+      "error_ms": 0.0
+    }
+  ],
+  "limitations": "Model estimates remain suggestions; no listening attestation."
+}

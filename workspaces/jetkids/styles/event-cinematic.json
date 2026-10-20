@@ -20,8 +20,10 @@
   "speed_rule": "No automatic speedups; preserve complete gestures. Native slow where action supports it; deliberate intermediate speeds allowed.",
   "colour": "Official Sony LC709 once for confirmed SLog3/SGamut3.Cine; no guessed LUT on unknown profiles.",
   "portrait": "Full bleed; native portrait alternates or editor seeded, visually reviewed CSRT. Reject semantic drift even when tracker reports success.",
-  "audio": "48kHz; target -14LUFS, true peak <=-1dBTP; phrase and pitch-aware music handover, predictions require review.",
+  "audio": "Both supplied tracks at100% native speed and pitch. Video slow motion must never stretch music. Use musical phrase edits/short native-speed repeats when necessary, with documented source ranges; exchange rhythms at different-tempo joins.48kHz; -14LUFS target, <=-1dBTP.",
   "transitions": "Short source-handle blends and motivated directional/blur cuts, no random flashes.",
   "logo": "Original crest unchanged.",
-  "approval": "Preset is editorial configuration, not user approval of a render."
+  "approval": "Preset is editorial configuration, not user approval of a render.",
+  "audio_playback_speed": 1,
+  "beat_alignment": "Hard cut on pulse; blended transition midpoint on pulse, not simply transition start. Align selected action contact/release moments independently; preserve complete gestures."
 }

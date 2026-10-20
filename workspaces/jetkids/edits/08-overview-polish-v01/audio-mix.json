@@ -1,0 +1,46 @@
+{
+  "duration": 86.5,
+  "sample_rate": 48000,
+  "samples": 4152000,
+  "entry_tempo_ratio": 1,
+  "continuation_tempo_ratio": 1,
+  "time_stretch": false,
+  "pitch_change": false,
+  "entry_edits": [
+    {
+      "timeline_in": 0,
+      "source_in": 0.2,
+      "source_out": 16.22,
+      "speed": 1
+    },
+    {
+      "timeline_in": 16.02,
+      "source_in": 8.22,
+      "source_out": 24.2,
+      "speed": 1
+    }
+  ],
+  "repeat_join_seconds": 16.02,
+  "anti_click_ms": 5,
+  "tail_padding_samples": 2427,
+  "tail_padding_note": "Only the final50.6ms of the0.85s ending fade requires zero padding; no tempo change.",
+  "continuation_source_in": 0.04,
+  "continuation_timeline_in": 28.74,
+  "handover_seconds": 3.26,
+  "percussion_pivot_seconds": 30.04,
+  "method": "Native-speed sample slices; one8s phrase repeat. HPSS short overlap: outgoing harmony fades0.85s; incoming harmony rises0.95\u20132.35s; outgoing percussion falls1.0\u20131.3s and incoming rises1.3\u20131.5s. Different tempos remain unchanged.",
+  "first_pass_loudness": {
+    "input_i": "-16.03",
+    "input_tp": "-2.37",
+    "input_lra": "5.20",
+    "input_thresh": "-26.17",
+    "output_i": "-13.57",
+    "output_tp": "-1.50",
+    "output_lra": "3.90",
+    "output_thresh": "-23.67",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.43"
+  },
+  "mixed_pcm_sha256": "52916f126d6e6a619427bc7941ea6f975c08ca5d1938efa5b9435fc9ea9ef6e0",
+  "listening_review": "not attested"
+}
