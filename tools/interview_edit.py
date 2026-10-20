@@ -34,8 +34,14 @@ def validate_structure(plan,words):
  if not plan.get('formats') or set(plan['formats'])-{'portrait','landscape'}:raise ValueError('Specify supported picture formats')
  for fmt in plan['formats']:
   shots=plan['formats'][fmt]['shots'];at=0
-  for s in shots:
+  for i,s in enumerate(shots):
    if type(s['frames']) is not int or s['frames']<=0 or s['timelineFrom']!=at:raise ValueError('Discontinuous picture shots')
+   for key in ['holdLeadFrames','holdTailFrames']:
+    n=s.get(key,0)
+    if type(n) is not int or n<0 or n>=s['frames']:raise ValueError('Invalid decoded-frame hold')
+   if s.get('holdLeadFrames',0) and i!=0:raise ValueError('Lead hold belongs only to the first shot')
+   if s.get('holdTailFrames',0) and i!=len(shots)-1:raise ValueError('Tail hold belongs only to the last shot')
+   if s.get('holdLeadFrames',0)+s.get('holdTailFrames',0)>=s['frames']:raise ValueError('A picture shot needs decoded source frames')
    transition(s);at+=s['frames']
   if at!=plan['dialogueFrames']:raise ValueError('Picture must cover the complete dialogue')
  if not words:raise ValueError('Source-owned caption words required')
@@ -72,6 +78,11 @@ def preflight(project):
   rotation=next((x.get('rotation',0) for x in v.get('side_data_list',[]) if 'rotation' in x),0)
   if s.get('rotate') and abs(rotation)==90:raise ValueError('Metadata already rotates source; do not apply a second manual rotation: '+sid)
   source_checks[sid]=dict(path=str(path),sha256=h,duration=float(q['format']['duration']),native_fps=float(Fraction(v['avg_frame_rate'])),width=v['width'],height=v['height'],range=v.get('color_range'),rotation=next((x.get('rotation',0) for x in v.get('side_data_list',[]) if 'rotation' in x),0))
+  if s.get('preparedAudio'):
+   a=s['preparedAudio'];verified_hash(a['path'],a['sha256']);aq=probe(a['path']);stream=next(t for t in aq['streams'] if t['codec_type']=='audio')
+   if int(stream['sample_rate'])!=48000 or a['source_start']<0:raise ValueError('Prepared dialogue must retain48kHz and a valid source offset')
+   for c in p['cuts']:
+    if c['source_id']==sid and not a['source_start']-.001<=c['inFrame']/30<c['outFrame']/30<=a['source_start']+float(aq['format']['duration'])+.001:raise ValueError('Prepared dialogue does not cover the original selected cut')
  for c in p['cuts']:
   if c['outFrame']/30>source_checks[c['source_id']]['duration']+.04:raise ValueError('Dialogue exceeds source')
  for fmt in p['formats']:
@@ -80,7 +91,7 @@ def preflight(project):
    src=source_checks[s['source_id']];outgoing=transition(shots[i+1])[1] if i+1<len(shots) else 0
    if not 0<s.get('speed',1)<=1.2 or s['in']<0:raise ValueError('Invalid picture timing')
    if s.get('speed',1)<1 and s['speed']*src['native_fps']<29.9:raise ValueError('Slow motion would duplicate frames')
-   if s['in']+(s['frames']+outgoing-s.get('holdTailFrames',0))/30*s.get('speed',1)>src['duration']+.04:raise ValueError('Picture exceeds source handle')
+   if s['in']+(s['frames']+outgoing-s.get('holdTailFrames',0)-s.get('holdLeadFrames',0))/30*s.get('speed',1)>src['duration']+.04:raise ValueError('Picture exceeds source handle')
  if not Path(p['logo']).is_file() or not Path(p['music']).is_file():raise ValueError('Missing logo/music')
  return p,ws,source_checks
 
@@ -96,9 +107,13 @@ def caption_groups(words,compact=False,phrases=None):
  if phrases:
   groups=[];cursor=0
   for phrase in phrases:
-   count=len(phrase.split());group=words[cursor:cursor+count]
-   if not group or ' '.join(w['text'] for w in group)!=phrase:raise ValueError('Curated caption phrase differs from source words')
-   groups.append(group);cursor+=count
+   target=' '.join(phrase.split());group=[]
+   while cursor<len(words):
+    group.append(words[cursor]);cursor+=1;actual=' '.join(' '.join(w['text'] for w in group).split())
+    if actual==target:break
+    if not target.startswith(actual+' '):raise ValueError('Curated caption phrase differs from source words')
+   if not group or actual!=target:raise ValueError('Curated caption phrase differs from source words')
+   groups.append(group)
   if cursor!=len(words):raise ValueError('Curated captions omit source words')
   return groups
  groups=[];g=[]
@@ -138,12 +153,13 @@ def editorial_captions(plan,groups,header,path):
  if title:
   end=title.get('end',4.4)
   # The identity was supplied by the client; credentials are not inferred from appearance.
-  rows=[('JET KIDS  /  GUEST VOICES','Montserrat',24,1040,'C9DADD'),
-        (title['name'],'Cormorant Garamond Light',98,1140,'FFFFFF'),
-        (title['qualification'],'Montserrat',36,1222,'6CEBF5'),
-        (title['office'],'Montserrat',34,1285,'FFFFFF'),
-        (title['officeExpansion'],'Montserrat',27,1335,'C9DADD')]
+  rows=[(title.get('eyebrow','JET KIDS  /  GUEST VOICES'),'Montserrat',24,1040,'C9DADD'),
+        (title['name'],'Cormorant Garamond Light',title.get('nameSize',98),1140,'FFFFFF'),
+        (title.get('qualification',''),'Montserrat',36,1222,'6CEBF5'),
+        (title.get('office',''),'Montserrat',title.get('officeSize',34),1285,'FFFFFF'),
+        (title.get('officeExpansion',''),'Montserrat',title.get('expansionSize',27),1335,'C9DADD')]
   for text,font,size,y,color in rows:
+   if not text:continue
    tag=rf'{{\an5\fn{font}\b600\fs{size}\bord0\shad1\c&H00{color}&\move(540,{y+10},540,{y},0,260)\fad(260,300)}}'
    lines.append(f'Dialogue: 2,0:00:00.15,{ass_time(end)},Main,,0,0,0,,{tag}{escaped(text)}\n')
   lines.append(f'Dialogue: 2,0:00:00.15,{ass_time(end)},Main,,0,0,0,,'+r'{\an7\pos(490,1082)\p1\c&H006CEBF5&\bord0\shad0\fad(260,300)}m 0 0 l 100 0 l 100 2 l 0 2'+'\n')
@@ -185,16 +201,19 @@ def crop_filter(plan,s,fmt,checks):
   x=f"max(0,min(iw-ow,iw*({crop_expression(s['crop_path'])})-ow/2))"
  if s.get('crop_path_y'):
   y=f"max(0,min(ih-oh,ih*({crop_expression(s['crop_path_y'])})-oh/2))"
- vf+=f"trim=duration={(s['renderFrames']-s.get('holdTailFrames',0))/30*s.get('speed',1):.7f},setpts=(PTS-STARTPTS)/{s.get('speed',1)},fps=30,crop={cw}:{ch}:x='{x}':y='{y}',scale={w}:{h}:flags=lanczos"
+ vf+=f"trim=duration={(s['renderFrames']-s.get('holdTailFrames',0)-s.get('holdLeadFrames',0))/30*s.get('speed',1):.7f},setpts=(PTS-STARTPTS)/{s.get('speed',1)},fps=30,crop={cw}:{ch}:x='{x}':y='{y}',scale={w}:{h}:flags=lanczos"
  if q.get('range')=='pc':vf+=':in_range=full:out_range=tv'
  
  if s.get('holdTailFrames'):vf+=f",tpad=stop_mode=clone:stop_duration={s['holdTailFrames']/30}"
+ if s.get('holdLeadFrames'):vf+=f",tpad=start_mode=clone:start_duration={s['holdLeadFrames']/30}"
  return vf+',setsar=1,format=yuv420p'
 
 def normalized_audio(plan,cache):
  clips=[]
  for i,c in enumerate(plan['cuts']):
-  p=cache/f'voice-{i:02}.wav';run(['-ss',c['inFrame']/30,'-i',plan['sources'][c['source_id']]['path'],'-t',c['duration']/30,'-vn','-af',f"highpass=f=65,afade=t=in:d=0.008,afade=t=out:st={c['duration']/30-.012}:d=0.012",'-ar','48000','-ac','2','-c:a','pcm_s24le','-y',p]);clips.append(p)
+  source=plan['sources'][c['source_id']];prepared=source.get('preparedAudio',{});audio_path=prepared.get('path',source['path']);audio_in=c['inFrame']/30-prepared.get('source_start',0)
+  if audio_in<-.001:raise ValueError('Negative prepared dialogue offset')
+  p=cache/f'voice-{i:02}.wav';run(['-ss',max(0,audio_in),'-i',audio_path,'-t',c['duration']/30,'-vn','-af',f"highpass=f=65,afade=t=in:d=0.008,afade=t=out:st={c['duration']/30-.012}:d=0.012",'-ar','48000','-ac','2','-c:a','pcm_s24le','-y',p]);clips.append(p)
  listing=cache/'audio-concat.txt';listing.write_text(''.join("file '"+str(p)+"'\n" for p in clips));dialogue=cache/'dialogue.wav';run(['-f','concat','-safe','0','-i',listing,'-c','copy','-y',dialogue])
  voice=cache/'dialogue-normalized.wav'
  if plan.get('voiceEnhancement'):

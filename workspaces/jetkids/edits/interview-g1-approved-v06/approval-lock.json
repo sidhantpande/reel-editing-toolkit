@@ -1,0 +1,17 @@
+{
+  "status": "APPROVED \u2014 G1v06 locked; current interview quality baseline",
+  "approval_recorded_utc": "2026-10-20T08:35:25.373432+00:00",
+  "approval_evidence": "User: This one is perfect ... saare reels ... issi quality ko match",
+  "files": [
+    {
+      "format": "portrait",
+      "path": "/Users/shwetaranjan/Desktop/Video-Editingh/exports/jetkids-interview-edits/jetkids-guest-g1-v06/portrait.mp4",
+      "sha256": "d9f30cdad5f731dc99a5754514ab200d41340a209f9cdc88f8c83f08dae41171",
+      "bytes": 21172010,
+      "frames": 1103,
+      "fps": 30
+    }
+  ],
+  "scope": "G1v06 portrait only; other reels still require individual source/content QA",
+  "editor_listening_attestation": "User approval recorded separately; no additional subjective listening claim"
+}

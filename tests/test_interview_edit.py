@@ -58,6 +58,24 @@ class InterviewEditTests(unittest.TestCase):
   plan={'sources':{'V014':{'rotate':False}}};shot={'source_id':'V014','renderFrames':30,'speed':1,'zoom':1.6,'crop_path':[[0,.48],[1,.50]],'crop_path_y':[[0,.63],[1,.65]]}
   f=kit.crop_filter(plan,shot,'portrait',{'V014':{'width':1440,'height':2560}})
   self.assertIn('ih*(',f);self.assertIn('iw*(',f);self.assertIn('(PTS-STARTPTS)/1',f)
+ def test_merged_alignment_unit_remains_atomic_in_curated_phrase(self):
+  words=[dict(source_id='V020',text='The sports',start=1,end=1.4),dict(source_id='V020',text='is',start=1.4,end=1.6)]
+  groups=kit.caption_groups(words,False,['The sports is'])
+  self.assertEqual(len(groups[0]),2)
+  self.assertEqual(groups[0][0]['text'],'The sports')
+ def test_decoded_holds_cannot_replace_all_source_frames(self):
+  for lead,tail in [(60,0),(30,30),(-1,0),(True,0)]:
+   p=self.plan();p['formats']['portrait']['shots'][0].update(holdLeadFrames=lead,holdTailFrames=tail)
+   with self.assertRaises(ValueError):kit.validate_structure(p,self.words())
+ def test_prepared_dialogue_uses_original_source_offset(self):
+  from unittest.mock import patch
+  import tempfile
+  p=self.plan();p['sources']={'V014':{'path':'original.mov','preparedAudio':{'path':'prepared.wav','source_start':.75}}};p['music']='music.wav'
+  measured={'input_i':'-15','input_tp':'-2','input_lra':'3','input_thresh':'-25','target_offset':'0'}
+  import json
+  with tempfile.TemporaryDirectory() as t,patch.object(kit,'run') as run,patch.object(kit.subprocess,'run',return_value=type('Result',(),{'stderr':json.dumps(measured)})()):
+   kit.normalized_audio(p,Path(t))
+   first=run.call_args_list[0].args[0];self.assertEqual(first[:4],['-ss',.25,'-i','prepared.wav']);self.assertEqual(first[first.index('-t')+1],2)
  def test_second_source_word_is_not_attached_to_first_speakers_cut(self):
   p=self.plan();p['cuts'].append(dict(source_id='V015',inFrame=0,outFrame=30,timelineFrom=60,duration=30));p['dialogueFrames']=90
   for f in p['formats']:p['formats'][f]['shots'].append(dict(source_id='V015',timelineFrom=60,frames=30))

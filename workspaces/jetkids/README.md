@@ -47,11 +47,13 @@ The approved [version09 project](edits/09-reference-led-overview-v01/production-
 
 Current interview deliverables live locally under `exports/jetkids-interview-research/`; working evidence remains under `.cache/jetkids/interview-deep-review/`.169 full-source ASR attempts plus one measured-silent source account for all170 candidates. The plan prioritises seven individual profiles and four complementary mixed stories while keeping four core event reels and a later principal explainer series distinct. Original-language ASR drafts and review contacts are evidence for planning, not approved captions or an attestation of complete listening. Full raw transcripts and client exports stay out of Git.
 
-See [the local interview workflow](../../docs/INTERVIEW_RESEARCH.md) for the installed/pinned transcription tools, source-aware research compiler and executable approved-export verification. The [interview editorial proposal](styles/interview-editorial-proposal.json) saves the next-stage caption, audio and B-roll direction separately from the approved overview settings.
+See [the local interview workflow](../../docs/INTERVIEW_RESEARCH.md) for the installed/pinned transcription tools, source-aware research compiler and executable approved-export verification. The [approved G1v06 preset](styles/interview-approved-g1v06.json) saves caption, audio and framing settings separately from the locked overview.
+
+The latest scope includes every mapped concept, including earlier reserves, and all important interview answers. The principal has eight topic concepts: event profile, understanding each child, teaching approaches, discipline/decisions, assessment, parent–teacher communication, remembered teachers and life readiness. Separate event-interview recordings remain individually accounted for; a recording count is not a reel count. Full takes and continuations need a source-by-source content audit before an individual interview can be called complete. The earlier short profile excerpts are revisions, not complete coverage of those recordings.
 
 ## Portrait interview production
 
-The latest user direction is9:16portrait only for every new reel. The locked overview retains both approved formats. The first guest revision uses camera stabilization, original voice enhancement, source-owned progressive captions, a bottom black gradient and natural opening/ending handles. See [the finishing recipe](docs/INTERVIEW_FINISHING.md); this is a review treatment, not user approval of a final.
+The latest user direction is9:16portrait only for every new reel. The locked overview retains both approved formats. The user approved G1v06 as the interview quality baseline: camera stabilization, original voice enhancement, authored centered captions with varied line hierarchy, a feathered bottom black gradient and natural opening/ending handles. See [the finishing recipe](docs/INTERVIEW_FINISHING.md) and [G1 approval evidence](edits/interview-g1-approved-v06/approval-lock.json). Remaining speaker/story exports require their own review.
 
 ```sh
 python3 tools/interview_edit.py media/edit-projects/jetkids/PROJECT --preflight

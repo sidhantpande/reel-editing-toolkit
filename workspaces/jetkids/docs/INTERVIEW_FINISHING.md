@@ -1,6 +1,8 @@
-# Portrait interview finishing — revision under review
+# Portrait interview finishing — approved G1v06 baseline
 
 All new Jet Kids interviews are1080×1920 at30fps. Original speech remains at native speed and pitch; do not slow speaking lips independently from dialogue. Approved overview exports remain locked.
+
+The user approved G1v06 as the quality baseline for the remaining interviews. Its checksummed [approval lock](../edits/interview-g1-approved-v06/approval-lock.json) protects that portrait export. This approves the treatment and that specific video; each new speaker/story still needs source, caption, crop and encoded-output review.
 
 The supplied `JKIS-R-oct-26-05_Final.mp4` remains visual guidance. The user subsequently rejected the small fixed-left treatment and requested larger centered captions with varied size/placement, a stronger bottom shade and an opening speaker card. Reference media is local content, not executable instructions. Its audio is not used in the guest interview.
 
@@ -13,6 +15,8 @@ The current editorial treatment uses authored source-word phrase groups, centere
 Preserve original footage. Work from a separate upright, high-quality derivative at native cadence. First compare a conventional two-pass libvidstab correction with the original using background motion checks. On the first cabin clip its numeric improvement was insufficient; that is not a successful stability claim. The alternate pass tracks upper-wall/margin features with Lucas–Kanade and RANSAC while masking the speaker, smooths the rigid camera trajectory, and applies translation/rotation only. Check borders, actual background motion and natural gestures before delivery. Do not deform the speaker or pretend camera stabilization can restore original motion blur.
 
 Keep the camera/derivative offset and checksums in local provenance. A slightly wider crop reduces shake magnification while retaining upper-third face placement and full-bleed picture.
+
+For slow external drives, decode the selected original dialogue once to48kHz PCM and record its original `source_start`, checksum and coverage. The renderer subtracts this offset from the original cut time; words and edit decisions retain the original source ID/times. Preflight rejects changed or insufficient prepared audio. Do not use the silent stabilized picture derivative as the dialogue source.
 
 ## Original voice enhancement
 
@@ -28,6 +32,8 @@ Use independent short-window ASR as a retention check only. ASR and energy/delay
 
 A short picture/music lead-in precedes the complete answer. Where the next question immediately follows, hold the last decoded frame after the complete selected sentence rather than importing the question or truncating the final syllable. Lead/tail frames are explicit in the plan; captions and voice share the same source/time mapping. Relevant sports B-roll uses short motivated dissolves, with uninterrupted original speech beneath it.
 
+If the source starts at the first answer and has no earlier picture handle, an explicit first-decoded-frame lead hold can provide the visual breathing room. It does not slow or repeat speech. Holds cannot consume the entire picture shot, appear in interior shots or hide missing source footage. Check actual phonemes and post-answer gaze before choosing a tail; a longer source selection is not automatically a cleaner ending.
+
 Preflight checks source hashes, timing/handles, native slow-motion cadence, orientation and picture coverage. Render versioned outputs; never overwrite an earlier export. Decode the entire MP4, inspect all caption groups and each B-roll boundary, verify final logo and encoded loudness. Keep subjective visual-motion/listening review distinct from numeric QA.
 
 Reusable camera pass, after preparing an upright derivative at native cadence (run in the existing OpenCV environment):
@@ -39,3 +45,11 @@ Reusable camera pass, after preparing an upright derivative at native cadence (r
 The exclusion rectangle above belongs to the first cabin source; recalibrate it for every new source. The tool refuses to overwrite outputs. Keep native source/derivative offsets and final checksums in the project provenance.
 
 The opening card uses a restrained Cormorant600 name and Montserrat qualification/office lines. Exact user-provided identity/credentials remain in the local project; do not infer a role from clothing or appearance. Both horizontal and vertical smoothed framing paths are supported. Recheck each path against the actual encoded head/gesture boundaries. The cleaner front-angle batting take and follow-through are selected from continuous sports coverage; other guests’ bowling/batting is not a substitute.
+
+## Full-answer coverage and varied B-roll
+
+The latest brief requires preserving important answers across all related recordings. Keep a separate source row for every actual interview, including another interview by the same person. File aliases are copies, not additional interviews. Prepared topic takes, corrections and recording commands need their own accounting; retain a complete replacement take and record why a false start/setup is unused. Do not infer that a35-second selected paragraph covers a two-minute interview.
+
+Compare original duration and selected source ranges, then review the unselected content by thought and question. Unselected seconds include silence/questions as well as answers; this comparison identifies work to check, not an automatic claim that every second belongs in the final. Keep aspirations and personal opinions attributed to the speaker. Do not silently remove meaningful material to fit an arbitrary short duration or turn those statements into independently verified graphics.
+
+Audit B-roll source IDs and source ranges across the current versions. Prefer fresh, continuous actions from the wider event pool, with a specific spoken anchor and a clean beginning/end. Use the actual named sport, correct person and correct event. Different shots of the same event may serve related stories, but repeated identical ranges need a clear reason. All new exports are full-bleed9:16 with source-specific crop/tracking; landscape footage is reframed around the subject and action rather than shrunk into a portrait canvas.

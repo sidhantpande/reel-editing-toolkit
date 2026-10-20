@@ -1,0 +1,47 @@
+{
+  "status": "G1v06 user-approved quality baseline; every new story still requires source and encoded-output review",
+  "formats": {
+    "portrait": [
+      1080,
+      1920
+    ]
+  },
+  "timeline_fps": 30,
+  "speech_speed": 1,
+  "captions": {
+    "latin_font": "Montserrat SemiBold",
+    "devanagari_font": "Mukta ExtraBold",
+    "language": "Preserve actual spoken English/Hindi/Hinglish; manually correct ASR before word alignment",
+    "max_lines": 2,
+    "placement": "Centered block around x540; small balanced offsets per line. Main blocks y1350/1480; while opening title is visible, y1520/1640. Calibrate head/hands and UI.",
+    "motion": "Gentle10px rise over110ms with70ms reveal and55ms fade; no changing font during a line",
+    "accent": "Warm gold on a few meaningful words; retain navy/white contrast; no clinic/NioLearn styling",
+    "progressive": false,
+    "reference": "User-supplied JKIS-R-oct-26-05_Final.mp4",
+    "bottom_gradient": {
+      "start_fraction": 0.4,
+      "max_alpha": 250,
+      "power": 0.8
+    },
+    "treatment": "Centered semantic blocks with authored line hierarchy",
+    "portrait_font_px_range": [
+      100,
+      172
+    ]
+  },
+  "speaker_identity": "Use exact user-supplied name/role in local source-owned project. No clothing-based role inference. A speaker explicitly requested without a name/title card starts directly.",
+  "broll": "Actual Jet Kids footage matched to the spoken point. No event photos, fabricated classroom/library shots, evening-event continuity or unrelated stock footage.",
+  "cuts": "Preserve complete words, meaning and genuine gestures. Remove interviewer setup/false starts at reviewed boundaries; do not build statements from unrelated answers.",
+  "audio": "Original native-speed dialogue; pinned DeepFilterNet3 attenuation12–18dB selected per source, exact48k sample count and delay verification, gentle presence EQ/compression, quiet original bed; combined approximately-14LUFS and <=-1dBTP. Actual listening review still required.",
+  "j_l_cuts": "Use short speech bridges under relevant B-roll when the complete sentence remains clear; avoid chopping phonemes or covering a needed facial reaction.",
+  "portrait": "Full-bleed, per-source crop; smoothed horizontal and vertical face-rectangle geometry for the selected cabin source, with headroom and complete sentence review.",
+  "required_review": "Correct selected dialogue, verify source/action/crop, inspect every caption and boundary, full encoded audio/visual review before recording final QA.",
+  "font_sources": {
+    "Montserrat": "workspaces/my-dental-skin-clinic/assets/fonts/montserrat/Montserrat[wght].ttf",
+    "Noto Sans Devanagari": "workspaces/my-dental-skin-clinic/assets/fonts/notosansdevanagari/NotoSansDevanagari[wdth,wght].ttf"
+  },
+  "font_note": "Existing reusable font files; new Jet Kids treatment, not the clinic caption preset.",
+  "current_user_direction": "All new reels portrait only; approved overview unchanged",
+  "stabilization": "Masked background LK/RANSAC rigid camera trajectory with Gaussian smoothing; inspect edges/head/gestures and compare background motion. Conventional vidstab is a candidate only if its actual result improves the shot.",
+  "approval_lock": "workspaces/jetkids/edits/interview-g1-approved-v06/approval-lock.json"
+}
