@@ -1,5 +1,9 @@
 # Jet Kids International School
 
+## Latest Amol Malpani revision
+
+Only Dr Amol Malpani's six portrait parts receive an opening question screen. Show the question in both Hindi and English, a matching `भाग N / Part N` label, larger readable type and an airy ivory/navy composition. Condense actual interviewer questions faithfully; do not invent questions or treat noisy ASR as verbatim. Preserve the complete approved interview body. Use `tools/interview_question.py` and local `opening-question.json`; this recomposes from original silent picture/lossless mix with a shared audio/video offset and a short dissolve entirely inside the silent lead. Keep total duration including the card/crest below50s. Review the new opening and transition; preserve honest provenance for inherited body review. Leave all other interviews and the approved overview unchanged.
+
 ## Latest approved interview finish —20 October
 
 The user first approved17 portrait parts, then confirmed the current batch is reviewed and correct and directed work to the remaining planned reels. Keep that approved editorial. Their latest clarification removes the corner logo's black background: use `public/assets/brands/jetkids/logo-transparent.png`, an RGBA cutout,176px wide at44,64. No rectangle, shadow or black glow. Keep approved picture/pacing/audio and ASS `shaping=complex`. The original JPEG remains the centered closing crest. The user explicitly asked to skip repeated per-video image cross-checks for this logo-only refresh and will review the finished batch themselves. Inspect the transparent asset once; preserve executable preflight, full-decode/frame/loudness and exact AAC packet checks. Record the user-review waiver honestly; do not call the refreshed frames visually reviewed. New reels still receive the normal encoded review. This request authorizes replacing G1's logo in place and renewing its lock after technical verification; the approved overview stays unchanged.

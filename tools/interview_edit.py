@@ -279,7 +279,7 @@ def corner_crest():
    raise ValueError('Corner crest background corners must be transparent')
  return path
 
-def finish_picture(plan,words,fmt,work,audio,target,copy_audio=False):
+def finish_picture(plan,words,fmt,work,audio,target,copy_audio=False,question=None):
  crest=corner_crest()
  w,h=(1920,1080) if fmt=='landscape' else (1080,1920)
  ass=work/'captions.ass';groups=subtitles(plan,words,fmt,ass);save(work/'caption-groups.json',groups)
@@ -290,15 +290,25 @@ def finish_picture(plan,words,fmt,work,audio,target,copy_audio=False):
  im.save(gradient)
  fontdir=ROOT/'.cache/jetkids/interview-edits/fonts';body=plan['dialogueFrames']/30
  fc=f"[0:v][1:v]overlay=0:0:shortest=1:enable='lt(t,{body})',{caption_filter(ass,fontdir)}[captioned];[3:v]scale=176:-2,setsar=1[crest];[captioned][crest]overlay=44:64:shortest=1:enable='lt(t,{body})'[v]"
+ extra=[];audio_map='2:a';frames=plan['dialogueFrames']+plan['logoFrames']
+ if question:
+  if copy_audio or fmt!='portrait':raise ValueError('Question openings require portrait and a lossless audio master')
+  # One integer frame offset controls both clocks. The overlap must fit wholly
+  # inside the existing silent picture lead, never the first spoken phoneme.
+  from interview_question import opening_timing
+  timing=opening_timing(plan,question);overlap=timing['transitionFrames']/30;offset=timing['bodyOffsetFrames']/30
+  fc=fc[:-3]+'[body];'+f"[4:v]settb=AVTB,setpts=PTS-STARTPTS,format=yuv420p[card];[body]settb=AVTB,setpts=PTS-STARTPTS[prepared];[card][prepared]xfade=transition=fade:duration={overlap}:offset={offset},format=yuv420p[v];[5:a]aformat=sample_rates=48000:channel_layouts=stereo[prefix];[2:a]aformat=sample_rates=48000:channel_layouts=stereo[bodyaudio];[prefix][bodyaudio]acrossfade=d={overlap}:c1=qsin:c2=qsin[a]"
+  extra=['-i',question['cardPath'],'-i',question['audioPath']];audio_map='[a]';frames=timing['totalFrames']
  audio_args=['-c:a','copy'] if copy_audio else ['-c:a','aac','-b:a','256k','-ar','48000']
- run(['-threads','2','-filter_complex_threads','2','-i',work/'silent.mp4','-loop','1','-i',gradient,'-i',audio,'-loop','1','-i',crest,'-filter_complex',fc,'-map','[v]','-map','2:a','-frames:v',plan['dialogueFrames']+plan['logoFrames'],'-t',(plan['dialogueFrames']+plan['logoFrames'])/30,'-c:v','libx264','-preset','veryfast','-crf','18','-threads','2','-pix_fmt','yuv420p',*audio_args,'-movflags','+faststart','-y',target])
- q=probe(target);v=next(x for x in q['streams'] if x['codec_type']=='video');assert int(v['nb_frames'])==plan['dialogueFrames']+plan['logoFrames'];assert (v['width'],v['height'])==(w,h)
+ run(['-threads','2','-filter_complex_threads','2','-i',work/'silent.mp4','-loop','1','-i',gradient,'-i',audio,'-loop','1','-i',crest,*extra,'-filter_complex',fc,'-map','[v]','-map',audio_map,'-frames:v',frames,'-t',frames/30,'-c:v','libx264','-preset','veryfast','-crf','18','-threads','2','-pix_fmt','yuv420p',*audio_args,'-movflags','+faststart','-y',target])
+ q=probe(target);v=next(x for x in q['streams'] if x['codec_type']=='video');assert int(v['nb_frames'])==frames;assert (v['width'],v['height'])==(w,h)
  run(['-xerror','-i',target,'-f','null','-'])
  p=subprocess.run(['ffmpeg','-hide_banner','-i',str(target),'-vn','-af','loudnorm=I=-14:TP=-1:LRA=11:print_format=json','-f','null','-'],capture_output=True,text=True,check=True);m=json.loads(p.stderr[p.stderr.rfind('{'):]);assert float(m['input_tp'])<=-1
  return v,m,groups
 
 def refinish_current(project,fmt='portrait'):
  """Refresh captions/crest from the same cached picture; retain encoded audio."""
+ if (project/'opening-question.json').exists():raise ValueError('Use interview_question.py to retain the question opening')
  plan,words,checks=preflight(project);cache=ROOT/'.cache/jetkids/interview-edits'/plan['id'];work=cache/fmt
  sig=hashlib.sha256(json.dumps(dict(plan=plan,words=words),sort_keys=True).encode()).hexdigest()
  if not (cache/'signature').is_file() or (cache/'signature').read_text()!=sig:raise ValueError('Changed edit plan: use --replace-current for a complete render')
@@ -317,6 +327,7 @@ def refinish_current(project,fmt='portrait'):
  print('REFINISHED',dest,flush=True)
 
 def render(project,formats=None,replace_current=False):
+ if (project/'opening-question.json').exists():raise ValueError('Use interview_question.py to retain the question opening')
  plan,words,checks=preflight(project);cache=ROOT/'.cache/jetkids/interview-edits'/plan['id'];cache.mkdir(parents=True,exist_ok=True);sig=hashlib.sha256(json.dumps(dict(plan=plan,words=words),sort_keys=True).encode()).hexdigest();stamp=cache/'signature'
  if stamp.exists() and stamp.read_text()!=sig:
   if not replace_current:raise ValueError('Changed plan: use --replace-current to rebuild this current edit')

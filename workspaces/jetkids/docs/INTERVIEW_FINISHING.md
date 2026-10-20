@@ -8,6 +8,22 @@ The supplied `JKIS-R-oct-26-05_Final.mp4` remains visual guidance. The user subs
 
 Current renderer: `tools/interview_edit.py`. Project-local JSON, corrected source words and provenance remain outside Git because they include client footage and dialogue. Reusable renderer, fonts/licences, style and checks are backed up separately.
 
+## Optional opening question — Amol Malpani only
+
+The latest user revision adds an airy opening question to Dr Amol Malpani's six parts only. Keep the other interviews' approved editorial. Author the actual interviewer question's meaning in Hindi and English, with a matching `भाग N / Part N` label. These are condensed questions and faithful translations, not asserted verbatim quotes; record the source ID and original interviewer range. The two parts of a long answer may share the same question. Do not manufacture a different question to justify each split.
+
+Use a warm ivory background, navy Hindi110px type, muted English46px type, readable60px bilingual part labels, generous space, a small name eyebrow and restrained gold hairline. Keep the original transparent176px crest at44,64. No heavy box, text shadow, collage or spoken synthetic question. Native ASS/HarfBuzz complex shaping is required in both the card and body. Isolate opening fonts so their addition cannot change existing caption font selection. Measure safe margins from the actual shaped raster rather than Pillow's unshaped Devanagari text metrics.
+
+Save local `opening-question.json` beside the unchanged body plan, then run:
+
+```sh
+python tools/interview_question.py media/edit-projects/jetkids/PROJECT_ID
+```
+
+This tool reuses the original silent body picture and lossless mastered mix with matching signatures/checksums. It never prefixes a previously prefixed export. A single integer frame offset shifts both clocks, with the six-frame dissolve confined to the existing silent lead so the first spoken phoneme is untouched. The original answer, source cuts, crops, speed, captions, B-roll and closing crest stay intact. Include the question and crest in the50second limit. The current bilingual cards last156frames; body offset150frames. Finish to a temporary file, decode/measure, then atomically replace the same current path. Standard rendering/refinishing refuses projects carrying an opening config to prevent silently dropping it.
+
+Review the newly encoded bilingual card and every opening transition frame, check original-source audio correlation including the first phrase, and compare encoded upper-face pixels at the shared offset with the original silent cache. Inherit the unchanged body review with explicit cache hashes; do not claim that a new full listening or body inspection occurred. Keep all client questions/dialogue, cards and final exports local.
+
 The current editorial treatment uses authored source-word phrase groups, centered aroundx540, with deliberate100–172px Mukta/Montserrat line hierarchy and small balanced offsets. The main caption lines sit aroundy1350/1480; opening captions move toy1520/1640 while a separate name/credential card occupies the space above. The black shade starts at40%height, reaches250/255opacity atbottom and uses0.8power. Check actual encoded phrase widths and speaker hands, rather than treating these coordinates as universal. All words retain source IDs and original time alignment.
 
 ## Stability
