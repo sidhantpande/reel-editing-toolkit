@@ -89,6 +89,7 @@ def uses_prepared_voice(plan):
 
 def preflight(project):
  assert_unlocked(project)
+ corner_crest()
  for f in ['edit-plan.json','source-words.json','editorial.json','production-plan.md','assets-provenance.json']:
   if not (project/f).is_file():raise ValueError('Missing '+f)
  if len((project/'production-plan.md').read_text())<150:raise ValueError('Write the actual production plan')
@@ -268,7 +269,18 @@ def caption_filter(ass,fontdir):
  # libass build. ASS with explicit COMPLEX shaping preserves Indic clusters.
  return f"ass=filename='{ass}':fontsdir='{fontdir}':shaping=complex"
 
+def corner_crest():
+ """The corner mark must have real transparency, never the closing JPEG box."""
+ path=ROOT/'public/assets/brands/jetkids/logo-transparent.png'
+ with Image.open(path) as im:
+  if im.mode!='RGBA' or im.getchannel('A').getextrema()!=(0,255):
+   raise ValueError('Corner crest requires an RGBA cutout with transparent background')
+  if any(im.getpixel(p)[3]!=0 for p in [(0,0),(im.width-1,0),(0,im.height-1),(im.width-1,im.height-1)]):
+   raise ValueError('Corner crest background corners must be transparent')
+ return path
+
 def finish_picture(plan,words,fmt,work,audio,target,copy_audio=False):
+ crest=corner_crest()
  w,h=(1920,1080) if fmt=='landscape' else (1080,1920)
  ass=work/'captions.ass';groups=subtitles(plan,words,fmt,ass);save(work/'caption-groups.json',groups)
  gradient=work/'shade.png';im=Image.new('RGBA',(w,h));px=im.load()
@@ -279,7 +291,7 @@ def finish_picture(plan,words,fmt,work,audio,target,copy_audio=False):
  fontdir=ROOT/'.cache/jetkids/interview-edits/fonts';body=plan['dialogueFrames']/30
  fc=f"[0:v][1:v]overlay=0:0:shortest=1:enable='lt(t,{body})',{caption_filter(ass,fontdir)}[captioned];[3:v]scale=176:-2,setsar=1[crest];[captioned][crest]overlay=44:64:shortest=1:enable='lt(t,{body})'[v]"
  audio_args=['-c:a','copy'] if copy_audio else ['-c:a','aac','-b:a','256k','-ar','48000']
- run(['-threads','2','-filter_complex_threads','2','-i',work/'silent.mp4','-loop','1','-i',gradient,'-i',audio,'-loop','1','-i',plan['logo'],'-filter_complex',fc,'-map','[v]','-map','2:a','-frames:v',plan['dialogueFrames']+plan['logoFrames'],'-t',(plan['dialogueFrames']+plan['logoFrames'])/30,'-c:v','libx264','-preset','veryfast','-crf','18','-threads','2','-pix_fmt','yuv420p',*audio_args,'-movflags','+faststart','-y',target])
+ run(['-threads','2','-filter_complex_threads','2','-i',work/'silent.mp4','-loop','1','-i',gradient,'-i',audio,'-loop','1','-i',crest,'-filter_complex',fc,'-map','[v]','-map','2:a','-frames:v',plan['dialogueFrames']+plan['logoFrames'],'-t',(plan['dialogueFrames']+plan['logoFrames'])/30,'-c:v','libx264','-preset','veryfast','-crf','18','-threads','2','-pix_fmt','yuv420p',*audio_args,'-movflags','+faststart','-y',target])
  q=probe(target);v=next(x for x in q['streams'] if x['codec_type']=='video');assert int(v['nb_frames'])==plan['dialogueFrames']+plan['logoFrames'];assert (v['width'],v['height'])==(w,h)
  run(['-xerror','-i',target,'-f','null','-'])
  p=subprocess.run(['ffmpeg','-hide_banner','-i',str(target),'-vn','-af','loudnorm=I=-14:TP=-1:LRA=11:print_format=json','-f','null','-'],capture_output=True,text=True,check=True);m=json.loads(p.stderr[p.stderr.rfind('{'):]);assert float(m['input_tp'])<=-1
@@ -301,7 +313,7 @@ def refinish_current(project,fmt='portrait'):
  ah=audio_hash(dest)
  if audio_hash(target)!=ah:raise ValueError('Graphics refresh changed encoded audio')
  os.replace(target,dest)
- save(work/'qa.json',dict(path=str(dest),sha256=digest(dest),frames=int(v['nb_frames']),full_decode='passed',loudness=m,captions=len(groups),visual_review='Pending corrected caption and corner crest review',listening_review=oldqa.get('listening_review','Not attested'),status='Graphics refresh review draft',graphicsRefresh=dict(previous_sha256=before,encoded_audio_hash=ah,audio='Exact original AAC packets retained',picture='Same cached picture, cuts, crop and speed',captions='Explicit HarfBuzz complex shaping',cornerLogo='Original unmodified crest,176px wide at44,64 during picture body')))
+ save(work/'qa.json',dict(path=str(dest),sha256=digest(dest),frames=int(v['nb_frames']),full_decode='passed',loudness=m,captions=len(groups),visual_review='Pending user graphics review',listening_review=oldqa.get('listening_review','Not attested'),status='Graphics refresh review draft',graphicsRefresh=dict(previous_sha256=before,encoded_audio_hash=ah,audio='Exact original AAC packets retained',picture='Same cached picture, cuts, crop and speed',captions='Explicit HarfBuzz complex shaping',cornerLogo='Transparent crest,176px wide at44,64 during picture body',cornerLogoSha256=digest(corner_crest()))))
  print('REFINISHED',dest,flush=True)
 
 def render(project,formats=None,replace_current=False):
@@ -333,7 +345,7 @@ def render(project,formats=None,replace_current=False):
   pieces.append(ending);listing=work/'concat.txt';listing.write_text(''.join("file '"+str(p)+"'\n" for p in pieces));silent=work/'silent.mp4';run(['-f','concat','-safe','0','-i',listing,'-c','copy','-y',silent])
   v,m,groups=finish_picture(plan,words,fmt,work,audio,target)
   os.replace(target,dest)
-  save(work/'qa.json',dict(path=str(dest),sha256=digest(dest),frames=int(v['nb_frames']),full_decode='passed',loudness=m,captions=len(groups),visual_review='Pending encoded frame review',listening_review='Not attested',status='Review draft'))
+  save(work/'qa.json',dict(path=str(dest),sha256=digest(dest),frames=int(v['nb_frames']),full_decode='passed',loudness=m,captions=len(groups),cornerLogoSha256=digest(corner_crest()),visual_review='Pending encoded frame review',listening_review='Not attested',status='Review draft'))
   print('EXPORTED',dest,flush=True)
 
 def main():

@@ -53,6 +53,9 @@ jetkids_provenance=R/'workspaces/jetkids/brand-provenance.json'
 if jetkids_provenance.is_file():
  asset=json.loads(jetkids_provenance.read_text())
  jetkids=[{'id':'jetkids-school-crest-original','brand':'jetkids','kind':'logo','subject':'Jet Kids International School original JKIS crest','repositoryFile':asset['logo'],'sha256':asset['sha256'],'source':asset['source'],'treatment':asset['treatment'],'git_storage':'lfs'}]
+ if asset.get('cornerLogoProvenance'):
+  corner=json.loads((R/asset['cornerLogoProvenance']).read_text())
+  jetkids.append({'id':'jetkids-school-crest-transparent','brand':'jetkids','kind':'logo','subject':'Jet Kids original crest with transparent background for corner watermark','repositoryFile':asset['cornerLogo'],'sha256':corner['sha256'],'source':asset['source'],'provenance':asset['cornerLogoProvenance'],'treatment':'Outside black background removed; original crest and lettering preserved','git_storage':'lfs'})
  music=R/'workspaces/jetkids/music-assets.json'
  if music.is_file():jetkids+=json.loads(music.read_text())['assets']
  (R/'catalog/jetkids-assets.json').write_text(json.dumps(jetkids,ensure_ascii=False,indent=2)+'\n')

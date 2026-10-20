@@ -1,20 +1,20 @@
 {
-  "status": "User-approved editorial baseline; requested caption/crest refresh verified",
+  "status": "User-approved editorial baseline; transparent corner logo technically verified; user image re-review waived",
   "approval_recorded_utc": "2026-10-20T08:35:25.373432+00:00",
   "approval_evidence": "User: This one is perfect ... saare reels ... issi quality ko match",
   "files": [
     {
       "format": "portrait",
       "path": "/Users/shwetaranjan/Desktop/Video-Editingh/exports/jetkids-interview-edits/jetkids-guest-g1-v06/portrait.mp4",
-      "sha256": "ddc06a91736e3b264499fbb937593841e971120fb9c94214faae1a4f013d2780",
-      "bytes": 21046192,
+      "sha256": "9c3f8f52476fb818c06bab942b165e2200ed943eb7b717b1e2de2b8b635d4a7e",
+      "bytes": 21156804,
       "frames": 1103,
       "fps": 30
     }
   ],
   "scope": "G1v06 portrait only; other reels still require individual source/content QA",
   "editor_listening_attestation": "User approval recorded separately; no additional subjective listening claim",
-  "latest_change_authorization": "20October2026 latest user: all17 reviewed very good; correct Devanagari matra placement and add original Jet Kids logo top-left to all current/future reels; preserve everything else; same-file replacement authorized",
-  "previous_approved_sha256": "d9f30cdad5f731dc99a5754514ab200d41340a209f9cdc88f8c83f08dae41171",
+  "latest_change_authorization": "Latest user explicitly requests transparent top-left logo on every reel, replacing current files; no repeated per-finalised-video image cross-checks; user will review completed batch. Continue normal QA for new reels.",
+  "previous_approved_sha256": "ddc06a91736e3b264499fbb937593841e971120fb9c94214faae1a4f013d2780",
   "graphics_only_revision": true
 }

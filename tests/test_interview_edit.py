@@ -5,6 +5,18 @@ sys.path.insert(0,str(Path(__file__).resolve().parents[1]/'tools'))
 import interview_edit as kit
 
 class InterviewEditTests(unittest.TestCase):
+ def test_corner_crest_rejects_opaque_background_and_accepts_cutout(self):
+  from unittest.mock import patch
+  import tempfile
+  from PIL import Image
+  with tempfile.TemporaryDirectory() as t,patch.object(kit,'ROOT',Path(t)):
+   path=Path(t)/'public/assets/brands/jetkids/logo-transparent.png';path.parent.mkdir(parents=True)
+   Image.new('RGB',(12,12),'black').save(path)
+   with self.assertRaisesRegex(ValueError,'RGBA cutout'):kit.corner_crest()
+   im=Image.new('RGBA',(12,12),(0,0,0,0));im.paste((255,255,255,255),(3,3,9,9));im.save(path)
+   self.assertEqual(kit.corner_crest(),path)
+   im.putpixel((0,0),(0,0,0,255));im.save(path)
+   with self.assertRaisesRegex(ValueError,'corners must be transparent'):kit.corner_crest()
  def plan(self):
   return dict(kind='jetkids-interview',id='jetkids-test-v01',fps=30,eventPhotoInserts=False,logoFrames=45,dialogueFrames=60,cuts=[dict(source_id='V014',inFrame=30,outFrame=90,timelineFrom=0,duration=60)],formats={f:dict(shots=[dict(source_id='V014',timelineFrom=0,frames=60)]) for f in ['landscape','portrait']})
  def words(self):return [dict(source_id='V014',text='Complete',start=1.2,end=1.6),dict(source_id='V014',text='thought',start=1.6,end=2.5)]

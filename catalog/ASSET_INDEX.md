@@ -272,6 +272,7 @@ Search: `python3 tools/reelctl.py assets --brand clinic --query implant`.
 Search: `python3 tools/reelctl.py assets --brand jetkids --query crest`.
 
 - [Jet Kids International School original JKIS crest](../public/assets/brands/jetkids/logo-original.jpg) — logo; Git LFS.
+- [Jet Kids original crest with transparent background for corner watermark](../public/assets/brands/jetkids/logo-transparent.png) — logo; Git LFS.
 - [Zinda — Sports — Jet Kids in Action](../public/assets/brands/jetkids/audio/jetkids-music-01.mp3) — music; Git LFS.
 - [Shubhaarambh — Guest Entry + Ribbon Cutting](../public/assets/brands/jetkids/audio/jetkids-music-02.mp3) — music; Git LFS.
 - [Galti Se Mistake — Teachers — Game On!](../public/assets/brands/jetkids/audio/jetkids-music-03.mp3) — music; Git LFS.

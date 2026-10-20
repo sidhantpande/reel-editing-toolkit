@@ -7,7 +7,19 @@
     "repositoryFile": "public/assets/brands/jetkids/logo-original.jpg",
     "sha256": "8f08947c33860a12a794f9d7ca1b43bdb8777980f2058300ae24b0fcfc7f1db0",
     "source": "User supplied attachment 2026-10-19",
-    "treatment": "Unmodified original; black background is part of supplied JPEG",
+    "treatment": "Original JPEG for centered closing crest; latest user requests outside-black removal for transparent top-left watermark. Original design and lettering retained.",
+    "git_storage": "lfs"
+  },
+  {
+    "id": "jetkids-school-crest-transparent",
+    "brand": "jetkids",
+    "kind": "logo",
+    "subject": "Jet Kids original crest with transparent background for corner watermark",
+    "repositoryFile": "public/assets/brands/jetkids/logo-transparent.png",
+    "sha256": "50717f5f74450376922b10c735490b2fc0b5bbf981baf86b8f525ab7e5061053",
+    "source": "User supplied attachment 2026-10-19",
+    "provenance": "public/assets/brands/jetkids/logo-transparent.provenance.json",
+    "treatment": "Outside black background removed; original crest and lettering preserved",
     "git_storage": "lfs"
   },
   {
