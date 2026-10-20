@@ -49,7 +49,13 @@ def main():
    return subprocess.call([sys.executable,str(ROOT/'tools/music_assets.py'),*a.arguments],cwd=ROOT)
   elif a.command in ('preflight','render'):
    if not a.arguments:p.error('Supply the reviewed event-plan JSON')
-   args=[sys.executable,str(ROOT/'tools/event_render.py'),*a.arguments]
+   target=Path(a.arguments[0])
+   candidate=target/'edit-plan.json' if target.is_dir() else target
+   interview=candidate.is_file() and json.loads(candidate.read_text()).get('kind')=='jetkids-interview'
+   if interview:
+    args=[sys.executable,str(ROOT/'tools/interview_edit.py'),str(candidate.parent),*a.arguments[1:]]
+   else:
+    args=[sys.executable,str(ROOT/'tools/event_render.py'),*a.arguments]
    if a.command=='preflight':args.append('--preflight')
   elif a.command=='assets':
    return subprocess.call([sys.executable,str(ROOT/'tools/reelctl.py'),'assets','--brand','jetkids',*a.arguments],cwd=ROOT)

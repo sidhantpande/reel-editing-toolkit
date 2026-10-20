@@ -1,9 +1,8 @@
 {
-  "stage": "Overview09 approved/locked; interview research mapped",
-  "latest_user_direction": "Lock overview09. Review all Jet Kids roots, transcribe interviews, plan each cabin guest individually plus coherent parent/teacher and mixed stories. Clear obsolete overview caches.",
+  "stage": "Portrait-only interview edits in production",
+  "latest_user_direction": "Start sequential edits. Latest steering: all new reels, including talking heads, portrait9:16 only. Approved overview stays locked.",
   "delivery_format": {
     "formats": [
-      "1920x1080",
       "1080x1920"
     ],
     "fps": 30,
@@ -82,7 +81,7 @@
     "interview_and_setup_candidates": 36,
     "music_base_ASR_passes": 17,
     "music_small_ASR_passes": 17,
-    "scope": "Sports registry remains V001\u2013V127. Six additional full-span2fps action surveys and8 English-constrained ASR comparisons inform the current story map. Source action/contact frames, dialogue wording/listening and final edit points still need approval through actual review.",
+    "scope": "Sports registry remains V001–V127. Six additional full-span2fps action surveys and8 English-constrained ASR comparisons inform the current story map. Source action/contact frames, dialogue wording/listening and final edit points still need approval through actual review.",
     "additional_downloads": "SID-SSD intake mapped; user confirmed evening clips belong to a separate Jet Kids event and asked to park them",
     "mapping_workbook": "exports/jetkids-restart-review/jetkids-footage-mapping.xlsx",
     "historical_missing_originals": 5,
@@ -215,5 +214,28 @@
     "final_intake_delta": "No new mounted-volume/JKIS video paths since the inventory",
     "research_workbook_raw_dialogue": false,
     "unused_benchmark_distinct_inode_bytes_removed": 2565043803
+  },
+  "current_interview_revision": {
+    "id": "jetkids-guest-g1-v05",
+    "format": "portrait",
+    "status": "Portrait revision rendered, full decode and caption/boundary contact checks passed; user review pending",
+    "changes": [
+      "Masked-background rigid camera stabilization",
+      "Reference-led progressive captions with bottom gradient",
+      "DeepFilterNet3 original voice cleanup, native pitch/rate",
+      "Short opening lead and complete-sentence tail hold",
+      "Curated source-word phrase groups and consistent mixed-language font"
+    ],
+    "subjective_listening_attested": false,
+    "other_profiles": "Paused while first-profile treatment is revised; do not restart stale batch script",
+    "encoded_checks": {
+      "frames": 1103,
+      "captions": 26,
+      "loudness_lufs": -14.14,
+      "true_peak_dbtp": -1.48,
+      "full_decode": "passed",
+      "contact_pages_inspected": 3,
+      "caption_phrase_proofs_inspected": 26
+    }
   }
 }

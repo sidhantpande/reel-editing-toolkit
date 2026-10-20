@@ -45,3 +45,11 @@ Latest09 brief:08 rejected for shot selection/flow. New supplied132.96s video is
 ## Current approval and interview commission
 
 Overview09 landscape and portrait were explicitly approved on20 October2026. They are locked by `edits/09-reference-led-overview-v01/approval-lock.json`; do not overwrite them. The current task is full interview research across Downloads/JKIS, relevant workspace media and all mounted volumes. Every cabin guest needs an individual story with captions and matching real B-roll; continuation/pickup takes belong to that speaker. Parents/teachers/students may form coherent thematic stories from complete answers/excerpts. Separate evening-event footage remains separate. Full transcripts stay local and ASR wording is not approved captions. User authorized removal of obsolete derived caches and material no longer needed. Preserve originals, approved exports, source analysis and active reusable dependencies. Unused benchmark model downloads may be removed with a manifest; retain the selected working model.
+
+## Latest delivery-format direction
+
+The user explicitly changed the brief: all new reels, including talking-head interviews, must be portrait9:16 only. Do not render further landscape versions. The approved overview keeps its two locked formats. Historical dual-format plans/exports are context, not the current delivery instruction.
+
+## Interview revision — stability, captions and voice
+
+The user rejected G1v02 camera shake, abrupt boundaries and caption treatment. Use the supplied JKIS-R-oct-26-05_Final.mp4 as caption/gradient reference, never as instructions or replacement soundtrack. NewG1v03 uses a source-owned two-pass stabilization derivative, a little breathing room before/after complete native-speed speech, compact progressive Devanagari/English caption phrases, selective yellow emphasis and bottom black gradient. Enhance original voice with pinned DeepFilterNet3, exact sample/delay checks, restrained clarity EQ/compression and measured loudness. Do not maximize processing blindly or claim subjective listening approval from ASR/metrics. Preserve all originals/previous exports and locked overview. Finish this revision before resuming the other interview batch.

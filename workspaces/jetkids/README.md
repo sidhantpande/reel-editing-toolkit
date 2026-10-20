@@ -2,7 +2,7 @@
 
 **Overview09 is approved and locked in both landscape and portrait.** Verified export hashes and the user's approval are recorded in [approval-lock.json](edits/09-reference-led-overview-v01/approval-lock.json). Keep this version unchanged.
 
-Current work: full interview research across Downloads/JKIS, mounted HP USB20FD, SECRET, SID-SSD, Sidhant-0 and relevant workspace media. Each cabin guest gets an individual story with captions and real matching B-roll. Parents, teachers and students may also form coherent thematic stories. Retakes and continuation files are grouped by speaker/context. The separate evening event remains separate. The old17-concept plan and old music assignments are superseded.
+Current work: portrait-only interview editing after full research across Downloads/JKIS, mounted HP USB20FD, SECRET, SID-SSD, Sidhant-0 and relevant workspace media. Each cabin guest gets an individual story with captions and real matching B-roll. Parents, teachers and students may also form coherent thematic stories. Retakes and continuation files are grouped by speaker/context. The separate evening event remains separate. The old17-concept plan and old music assignments are superseded.
 
 The inventory includes 470 Sony MP4s under Videos plus five Nikon MOVs under Photos: 475 clips, 55 minutes 36 seconds, about 45.5 GiB. Existing source XML identifies Sony ILCE-7M4 (A7 IV) and ILCE-7RM5 (A7R V).
 
@@ -48,3 +48,14 @@ The approved [version09 project](edits/09-reference-led-overview-v01/production-
 Current interview deliverables live locally under `exports/jetkids-interview-research/`; working evidence remains under `.cache/jetkids/interview-deep-review/`.169 full-source ASR attempts plus one measured-silent source account for all170 candidates. The plan prioritises seven individual profiles and four complementary mixed stories while keeping four core event reels and a later principal explainer series distinct. Original-language ASR drafts and review contacts are evidence for planning, not approved captions or an attestation of complete listening. Full raw transcripts and client exports stay out of Git.
 
 See [the local interview workflow](../../docs/INTERVIEW_RESEARCH.md) for the installed/pinned transcription tools, source-aware research compiler and executable approved-export verification. The [interview editorial proposal](styles/interview-editorial-proposal.json) saves the next-stage caption, audio and B-roll direction separately from the approved overview settings.
+
+## Portrait interview production
+
+The latest user direction is9:16portrait only for every new reel. The locked overview retains both approved formats. The first guest revision uses camera stabilization, original voice enhancement, source-owned progressive captions, a bottom black gradient and natural opening/ending handles. See [the finishing recipe](docs/INTERVIEW_FINISHING.md); this is a review treatment, not user approval of a final.
+
+```sh
+python3 tools/interview_edit.py media/edit-projects/jetkids/PROJECT --preflight
+python3 tools/interview_edit.py media/edit-projects/jetkids/PROJECT --format portrait
+```
+
+The local project must contain actual source paths/hashes, corrected source-owned words, dialogue cuts, per-source crops, picture/B-roll timing and a production plan. New raw footage, dialogue transcripts, rendered videos and caches stay local.

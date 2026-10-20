@@ -4,10 +4,6 @@
     "portrait": [
       1080,
       1920
-    ],
-    "landscape": [
-      1920,
-      1080
     ]
   },
   "timeline_fps": 30,
@@ -18,21 +14,28 @@
     "language": "Preserve actual spoken English/Hindi/Hinglish; manually correct ASR before word alignment",
     "max_lines": 2,
     "portrait_font_px_research_range": [
-      48,
-      60
+      90,
+      104
     ],
     "landscape_font_px_research_range": [
       34,
       44
     ],
     "placement": "Lower safe area calibrated to speaker, hands and platform UI; do not reuse a universal y coordinate",
-    "motion": "Gentle4–6frame rise/fade, restrained shadows; no continuous bouncing",
-    "accent": "Warm gold on a few meaningful words; retain navy/white contrast; no clinic/NioLearn styling"
+    "motion": "Compact phrases build word by word from fixed left margin, restrained yellow emphasis",
+    "accent": "Warm gold on a few meaningful words; retain navy/white contrast; no clinic/NioLearn styling",
+    "progressive": true,
+    "reference": "User-supplied JKIS-R-oct-26-05_Final.mp4",
+    "bottom_gradient": {
+      "start_fraction": 0.48,
+      "max_alpha": 224
+    },
+    "current_g1_px": 100
   },
   "speaker_identity": "Name/role lower third only after reliable verification. Appearance alone does not establish parent/teacher/guest role.",
   "broll": "Actual Jet Kids footage matched to the spoken point. No event photos, fabricated classroom/library shots, evening-event continuity or unrelated stock footage.",
   "cuts": "Preserve complete words, meaning and genuine gestures. Remove interviewer setup/false starts at reviewed boundaries; do not build statements from unrelated answers.",
-  "audio": "Natural original dialogue at100% speed. Conservative denoise only where needed, stable dialogue level, quiet instrumental bed with ducking; combined target around-14LUFS and <=-1dBTP. Measure and listen after render.",
+  "audio": "Original native-speed dialogue; pinned DeepFilterNet3 attenuation12–18dB selected per source, exact48k sample count and delay verification, gentle presence EQ/compression, quiet original bed; combined approximately-14LUFS and <=-1dBTP. Actual listening review still required.",
   "j_l_cuts": "Use short speech bridges under relevant B-roll when the complete sentence remains clear; avoid chopping phonemes or covering a needed facial reaction.",
   "portrait": "Full-frame source-specific crop or upright native portrait; inspect head, hands and gesture throughout.",
   "landscape": "Prefer real landscape A-roll/coverage. For a true vertical cabin source, evaluate a full-frame close crop or a generous talking-head/B-roll split composition rather than silently losing the full gesture.",
@@ -41,5 +44,7 @@
     "Montserrat": "workspaces/my-dental-skin-clinic/assets/fonts/montserrat/Montserrat[wght].ttf",
     "Noto Sans Devanagari": "workspaces/my-dental-skin-clinic/assets/fonts/notosansdevanagari/NotoSansDevanagari[wdth,wght].ttf"
   },
-  "font_note": "Existing reusable font files; new Jet Kids treatment, not the clinic caption preset."
+  "font_note": "Existing reusable font files; new Jet Kids treatment, not the clinic caption preset.",
+  "current_user_direction": "All new reels portrait only; approved overview unchanged",
+  "stabilization": "Masked background LK/RANSAC rigid camera trajectory with Gaussian smoothing; inspect edges/head/gestures and compare background motion. Conventional vidstab is a candidate only if its actual result improves the shot."
 }
