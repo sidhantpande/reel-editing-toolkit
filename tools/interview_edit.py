@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Serial, source-owned interview rendering for Jet Kids. Outputs remain review drafts."""
 from __future__ import annotations
-import argparse,hashlib,json,math,re,subprocess
+import argparse,hashlib,json,math,re,subprocess,shutil,os
 from pathlib import Path
 from fractions import Fraction
 from PIL import Image
@@ -50,8 +50,26 @@ def validate_structure(plan,words):
   a,b=word['start'],word['end']
   if not all(math.isfinite(t) for t in [a,b]) or not 0<=a<b:raise ValueError('Invalid source word timing')
   if not any(c['source_id']==word['source_id'] and c['inFrame']/30-.04<=a<b<=c['outFrame']/30+.04 for c in plan['cuts']):raise ValueError('Word is outside its selected source cut')
+ if plan.get('enforceDialoguePictureSync'):validate_picture_sync(plan)
  if plan.get('captionPhrases'):caption_groups(mapped_words(plan,words),True,plan['captionPhrases'])
  return plan['dialogueFrames']
+
+def validate_picture_sync(plan):
+ """Check original camera time against native dialogue, excluding decoded holds/B-roll."""
+ for fmt,settings in plan['formats'].items():
+  for shot in settings['shots']:
+   source=plan['sources'][shot['source_id']];sid=source.get('derivedFrom',shot['source_id'])
+   lead=shot.get('holdLeadFrames',0);start=shot['timelineFrom']+lead
+   end=shot['timelineFrom']+shot['frames']-shot.get('holdTailFrames',0)
+   for cut in plan['cuts']:
+    if cut['source_id']!=sid:continue
+    a=max(start,cut['timelineFrom']);b=min(end,cut['timelineFrom']+cut['duration'])
+    if b<=a:continue
+    for frame in [a,b-1]:
+     picture=shot['in']+source.get('sourceOffset',0)+(frame-start)/30*shot.get('speed',1)
+     dialogue=(cut['inFrame']+frame-cut['timelineFrom'])/30
+     if abs(picture-dialogue)>1/30+.0001:
+      raise ValueError(f'Lip-sync mismatch in {fmt} {shot["source_id"]} at frame {frame}: picture offset {(picture-dialogue)*30:.2f} frames')
 
 def verified_hash(path,expected=None):
  path=Path(path);key=str(path.resolve());folder=ROOT/'.cache/jetkids/interview-edits/source-hash-records';folder.mkdir(parents=True,exist_ok=True)
@@ -63,6 +81,11 @@ def verified_hash(path,expected=None):
   value=digest(path);save(cache,dict(path=key,fingerprint=fingerprint,sha256=value))
  if expected and value!=expected:raise ValueError('Source changed: '+key)
  return value
+
+def uses_prepared_voice(plan):
+ flags=[bool(plan['sources'][c['source_id']].get('preparedVoice')) for c in plan['cuts']]
+ if any(flags) and not all(flags):raise ValueError('Use the same prepared-voice workflow for every dialogue cut')
+ return bool(flags and all(flags))
 
 def preflight(project):
  assert_unlocked(project)
@@ -78,8 +101,9 @@ def preflight(project):
   rotation=next((x.get('rotation',0) for x in v.get('side_data_list',[]) if 'rotation' in x),0)
   if s.get('rotate') and abs(rotation)==90:raise ValueError('Metadata already rotates source; do not apply a second manual rotation: '+sid)
   source_checks[sid]=dict(path=str(path),sha256=h,duration=float(q['format']['duration']),native_fps=float(Fraction(v['avg_frame_rate'])),width=v['width'],height=v['height'],range=v.get('color_range'),rotation=next((x.get('rotation',0) for x in v.get('side_data_list',[]) if 'rotation' in x),0))
-  if s.get('preparedAudio'):
-   a=s['preparedAudio'];verified_hash(a['path'],a['sha256']);aq=probe(a['path']);stream=next(t for t in aq['streams'] if t['codec_type']=='audio')
+  for audio_key in ['preparedAudio','preparedVoice']:
+   if not s.get(audio_key):continue
+   a=s[audio_key];verified_hash(a['path'],a['sha256']);aq=probe(a['path']);stream=next(t for t in aq['streams'] if t['codec_type']=='audio')
    if int(stream['sample_rate'])!=48000 or a['source_start']<0:raise ValueError('Prepared dialogue must retain48kHz and a valid source offset')
    for c in p['cuts']:
     if c['source_id']==sid and not a['source_start']-.001<=c['inFrame']/30<c['outFrame']/30<=a['source_start']+float(aq['format']['duration'])+.001:raise ValueError('Prepared dialogue does not cover the original selected cut')
@@ -92,6 +116,7 @@ def preflight(project):
    if not 0<s.get('speed',1)<=1.2 or s['in']<0:raise ValueError('Invalid picture timing')
    if s.get('speed',1)<1 and s['speed']*src['native_fps']<29.9:raise ValueError('Slow motion would duplicate frames')
    if s['in']+(s['frames']+outgoing-s.get('holdTailFrames',0)-s.get('holdLeadFrames',0))/30*s.get('speed',1)>src['duration']+.04:raise ValueError('Picture exceeds source handle')
+ uses_prepared_voice(p)
  if not Path(p['logo']).is_file() or not Path(p['music']).is_file():raise ValueError('Missing logo/music')
  return p,ws,source_checks
 
@@ -209,14 +234,18 @@ def crop_filter(plan,s,fmt,checks):
  return vf+',setsar=1,format=yuv420p'
 
 def normalized_audio(plan,cache):
- clips=[]
+ clips=[];prepared_voice=uses_prepared_voice(plan)
  for i,c in enumerate(plan['cuts']):
-  source=plan['sources'][c['source_id']];prepared=source.get('preparedAudio',{});audio_path=prepared.get('path',source['path']);audio_in=c['inFrame']/30-prepared.get('source_start',0)
+  source=plan['sources'][c['source_id']];prepared=source.get('preparedVoice') if prepared_voice else source.get('preparedAudio',{});audio_path=prepared.get('path',source['path']);audio_in=c['inFrame']/30-prepared.get('source_start',0)
   if audio_in<-.001:raise ValueError('Negative prepared dialogue offset')
-  p=cache/f'voice-{i:02}.wav';run(['-ss',max(0,audio_in),'-i',audio_path,'-t',c['duration']/30,'-vn','-af',f"highpass=f=65,afade=t=in:d=0.008,afade=t=out:st={c['duration']/30-.012}:d=0.012",'-ar','48000','-ac','2','-c:a','pcm_s24le','-y',p]);clips.append(p)
+  prefix='' if prepared_voice else 'highpass=f=65,'
+  p=cache/f'voice-{i:02}.wav';run(['-ss',max(0,audio_in),'-i',audio_path,'-t',c['duration']/30,'-vn','-af',f"{prefix}afade=t=in:d=0.008,afade=t=out:st={c['duration']/30-.012}:d=0.012",'-ar','48000','-ac','2','-c:a','pcm_s24le','-y',p]);clips.append(p)
  listing=cache/'audio-concat.txt';listing.write_text(''.join("file '"+str(p)+"'\n" for p in clips));dialogue=cache/'dialogue.wav';run(['-f','concat','-safe','0','-i',listing,'-c','copy','-y',dialogue])
  voice=cache/'dialogue-normalized.wav'
- if plan.get('voiceEnhancement'):
+ if prepared_voice:
+  run(['-i',dialogue,'-ar','48000','-c:a','pcm_s24le','-y',voice])
+  save(cache/'prepared-voice-reuse.json',dict(status='Source-owned enhanced master reused without a second neural/EQ pass',sources={c['source_id']:plan['sources'][c['source_id']]['preparedVoice'] for c in plan['cuts']},nativeSpeed=True))
+ elif plan.get('voiceEnhancement'):
   import sys
   sys.path.insert(0,str(ROOT/'workspaces/my-dental-skin-clinic/tools'))
   import audio_enhance,shutil
@@ -227,21 +256,28 @@ def normalized_audio(plan,cache):
  else:run(['-i',dialogue,'-af','loudnorm=I=-15:TP=-2:LRA=9','-ar','48000','-c:a','pcm_s24le','-y',voice])
  total=(plan['dialogueFrames']+plan['logoFrames'])/30;body=plan['dialogueFrames']/30
  # Quiet instrumental at fixed native speed; original dialogue is never time-stretched.
- raw=cache/'mix.wav';fc=f'[0:a]adelay={plan.get('leadFrames',0)*1600}S:all=1,apad,atrim=duration={total}[v];[1:a]volume=1.1,atrim=duration={total},afade=t=in:d=0.7,afade=t=out:st={total-.8}:d=0.8[m];[v][m]amix=inputs=2:duration=first:normalize=0[a]'
+ lead=plan.get('leadFrames',0)*1600
+ raw=cache/'mix.wav';fc=f'[0:a]adelay={lead}S:all=1,apad,atrim=duration={total}[v];[1:a]volume=1.1,atrim=duration={total},afade=t=in:d=0.7,afade=t=out:st={total-.8}:d=0.8[m];[v][m]amix=inputs=2:duration=first:normalize=0[a]'
  run(['-i',voice,'-stream_loop','-1','-i',plan['music'],'-filter_complex',fc,'-map','[a]','-ar','48000','-c:a','pcm_s24le','-y',raw])
  p=subprocess.run(['ffmpeg','-nostdin','-hide_banner','-i',str(raw),'-af','loudnorm=I=-14:TP=-1.5:LRA=11:print_format=json','-f','null','-'],capture_output=True,text=True,check=True);m=json.loads(p.stderr[p.stderr.rfind('{'):]);save(cache/'loudness-input.json',m)
  filt=f"loudnorm=I=-14:TP=-1.5:LRA=11:measured_I={m['input_i']}:measured_TP={m['input_tp']}:measured_LRA={m['input_lra']}:measured_thresh={m['input_thresh']}:offset={m['target_offset']}:linear=true"
  out=cache/'mixed-normalized.wav';run(['-i',raw,'-af',filt,'-ar','48000','-c:a','pcm_s24le','-y',out]);return out
 
-def render(project,formats=None):
+def render(project,formats=None,replace_current=False):
  plan,words,checks=preflight(project);cache=ROOT/'.cache/jetkids/interview-edits'/plan['id'];cache.mkdir(parents=True,exist_ok=True);sig=hashlib.sha256(json.dumps(dict(plan=plan,words=words),sort_keys=True).encode()).hexdigest();stamp=cache/'signature'
- if stamp.exists() and stamp.read_text()!=sig:raise ValueError('Changed plan: use a new version or clear this derived render cache')
+ if stamp.exists() and stamp.read_text()!=sig:
+  if not replace_current:raise ValueError('Changed plan: use --replace-current to rebuild this current edit')
+  # Never delete a cache that has become an input to its own project.
+  inputs=[s['path'] for s in plan['sources'].values()]+[a['path'] for s in plan['sources'].values() for key in ['preparedAudio','preparedVoice'] if (a:=s.get(key))]+[plan['logo'],plan['music']]
+  if any(Path(p).resolve().is_relative_to(cache.resolve()) for p in inputs):raise ValueError('Move active input assets out of this render cache before replacing it')
+  shutil.rmtree(cache);cache.mkdir(parents=True)
  stamp.write_text(sig);save(cache/'preflight.json',dict(sources=checks,status='passed',editor_listening_attestation=False));audio=cache/'mixed-normalized.wav'
  if not audio.exists():audio=normalized_audio(plan,cache)
  output=ROOT/'exports/jetkids-interview-edits'/plan['id'];output.mkdir(parents=True,exist_ok=True)
  for fmt in formats or ['portrait']:
   dest=output/(fmt+'.mp4')
-  if dest.exists():raise ValueError('Versioned export already exists: '+str(dest))
+  if dest.exists() and not replace_current:raise ValueError('Current export already exists; use --replace-current: '+str(dest))
+  target=dest.with_name(fmt+'.pending.mp4')
   work=cache/fmt;work.mkdir(exist_ok=True);shots=plan['formats'][fmt]['shots'];segments=[];w,h=(1920,1080) if fmt=='landscape' else (1080,1920)
   for i,s in enumerate(shots):
    tail=transition(shots[i+1])[1] if i+1<len(shots) else 0;s=dict(s,renderFrames=s['frames']+tail);p=work/f'{i:03}.mp4'
@@ -263,16 +299,17 @@ def render(project,formats=None):
   # libass shapes the Devanagari font; font files are original reusable licensed assets.
   fontdir=ROOT/'.cache/jetkids/interview-edits/fonts'
   fc=f"[0:v][1:v]overlay=0:0:shortest=1:enable='lt(t,{plan['dialogueFrames']/30})',subtitles=filename='{ass}':fontsdir='{fontdir}'[v]"
-  run(['-threads','2','-filter_complex_threads','2','-i',silent,'-loop','1','-i',gradient,'-i',audio,'-filter_complex',fc,'-map','[v]','-map','2:a','-frames:v',plan['dialogueFrames']+plan['logoFrames'],'-t',(plan['dialogueFrames']+plan['logoFrames'])/30,'-c:v','libx264','-preset','veryfast','-crf','18','-threads','2','-pix_fmt','yuv420p','-c:a','aac','-b:a','256k','-ar','48000','-movflags','+faststart','-y',dest])
-  q=probe(dest);v=next(x for x in q['streams'] if x['codec_type']=='video');assert int(v['nb_frames'])==plan['dialogueFrames']+plan['logoFrames'];assert (v['width'],v['height'])==(w,h)
-  run(['-xerror','-i',dest,'-f','null','-'])
-  p=subprocess.run(['ffmpeg','-hide_banner','-i',str(dest),'-vn','-af','loudnorm=I=-14:TP=-1:LRA=11:print_format=json','-f','null','-'],capture_output=True,text=True,check=True);m=json.loads(p.stderr[p.stderr.rfind('{'):]);assert float(m['input_tp'])<=-1
+  run(['-threads','2','-filter_complex_threads','2','-i',silent,'-loop','1','-i',gradient,'-i',audio,'-filter_complex',fc,'-map','[v]','-map','2:a','-frames:v',plan['dialogueFrames']+plan['logoFrames'],'-t',(plan['dialogueFrames']+plan['logoFrames'])/30,'-c:v','libx264','-preset','veryfast','-crf','18','-threads','2','-pix_fmt','yuv420p','-c:a','aac','-b:a','256k','-ar','48000','-movflags','+faststart','-y',target])
+  q=probe(target);v=next(x for x in q['streams'] if x['codec_type']=='video');assert int(v['nb_frames'])==plan['dialogueFrames']+plan['logoFrames'];assert (v['width'],v['height'])==(w,h)
+  run(['-xerror','-i',target,'-f','null','-'])
+  p=subprocess.run(['ffmpeg','-hide_banner','-i',str(target),'-vn','-af','loudnorm=I=-14:TP=-1:LRA=11:print_format=json','-f','null','-'],capture_output=True,text=True,check=True);m=json.loads(p.stderr[p.stderr.rfind('{'):]);assert float(m['input_tp'])<=-1
+  os.replace(target,dest)
   save(work/'qa.json',dict(path=str(dest),sha256=digest(dest),frames=int(v['nb_frames']),full_decode='passed',loudness=m,captions=len(groups),visual_review='Pending encoded frame review',listening_review='Not attested',status='Review draft'))
   print('EXPORTED',dest,flush=True)
 
 def main():
- p=argparse.ArgumentParser(description=__doc__);p.add_argument('project',type=Path);p.add_argument('--preflight',action='store_true');p.add_argument('--format',choices=['portrait','landscape'],default='portrait');a=p.parse_args()
+ p=argparse.ArgumentParser(description=__doc__);p.add_argument('project',type=Path);p.add_argument('--preflight',action='store_true');p.add_argument('--format',choices=['portrait','landscape'],default='portrait');p.add_argument('--replace-current',action='store_true',help='Rebuild the same edit and atomically replace its current export');a=p.parse_args()
  if a.preflight:
   plan,words,checks=preflight(a.project);print(json.dumps(dict(id=plan['id'],dialogueFrames=plan['dialogueFrames'],words=len(words),sources=checks),indent=2));return
- render(a.project,[a.format] if a.format else None)
+ render(a.project,[a.format] if a.format else None,replace_current=a.replace_current)
 if __name__=='__main__':main()

@@ -81,4 +81,35 @@ class InterviewEditTests(unittest.TestCase):
   for f in p['formats']:p['formats'][f]['shots'].append(dict(source_id='V015',timelineFrom=60,frames=30))
   w=self.words()+[dict(source_id='V015',text='Another',start=.1,end=.8)]
   kit.validate_structure(p,w);self.assertAlmostEqual(kit.mapped_words(p,w)[-1]['start'],2.1)
+ def test_prepared_voice_does_not_receive_a_second_enhancement_or_eq_pass(self):
+  from unittest.mock import patch
+  import tempfile,json
+  p=self.plan();p['sources']={'V014':{'path':'original.mov','preparedVoice':{'path':'enhanced-master.wav','source_start':.75}}};p['music']='music.wav';p['voiceEnhancement']={'engine':'DeepFilterNet3'}
+  measured={'input_i':'-15','input_tp':'-2','input_lra':'3','input_thresh':'-25','target_offset':'0'}
+  with tempfile.TemporaryDirectory() as t,patch.object(kit,'run') as run,patch.object(kit.subprocess,'run',return_value=type('Result',(),{'stderr':json.dumps(measured)})()):
+   kit.normalized_audio(p,Path(t));calls=[c.args[0] for c in run.call_args_list]
+   self.assertEqual(calls[0][:4],['-ss',.25,'-i','enhanced-master.wav'])
+   filters=' '.join(str(c) for c in calls)
+   self.assertNotIn('highpass',filters);self.assertNotIn('equalizer',filters)
+   self.assertTrue((Path(t)/'prepared-voice-reuse.json').exists())
+ def test_mixing_prepared_and_unprocessed_voice_is_rejected(self):
+  p=self.plan();p['cuts'].append(dict(source_id='V015'));p['sources']={'V014':{'preparedVoice':{'path':'master.wav'}},'V015':{}}
+  with self.assertRaises(ValueError):kit.uses_prepared_voice(p)
+ def sync_plan(self):
+  p=self.plan();p.update(leadFrames=6,dialogueFrames=66,enforceDialoguePictureSync=True)
+  p['cuts'][0]['timelineFrom']=6
+  p['sources']={'V014':{'path':'original.mov'},'STABLE':{'path':'stable.mp4','derivedFrom':'V014','sourceOffset':0}}
+  for fmt in p['formats']:p['formats'][fmt]['shots']=[dict(source_id='STABLE',timelineFrom=0,frames=66,holdLeadFrames=6,**{'in':1.0})]
+  return p
+ def test_decoded_opening_hold_is_excluded_from_lipsync_clock(self):
+  self.assertEqual(kit.validate_structure(self.sync_plan(),self.words()),66)
+ def test_twelve_frame_picture_lead_is_rejected(self):
+  p=self.sync_plan();p['formats']['portrait']['shots'][0]['in']+=.4
+  with self.assertRaisesRegex(ValueError,'Lip-sync mismatch'):kit.validate_structure(p,self.words())
+ def test_broll_can_slow_down_but_talking_head_cannot(self):
+  p=self.sync_plan();p['sources']['GAME']={'path':'game.mp4'}
+  p['formats']['portrait']['shots'][0].update(source_id='GAME',speed=.4)
+  kit.validate_structure(p,self.words())
+  p['formats']['portrait']['shots'][0].update(source_id='STABLE')
+  with self.assertRaisesRegex(ValueError,'Lip-sync mismatch'):kit.validate_structure(p,self.words())
 if __name__=='__main__':unittest.main()
