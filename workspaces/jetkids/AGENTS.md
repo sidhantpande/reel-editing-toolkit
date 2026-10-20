@@ -1,5 +1,11 @@
 # Jet Kids International School
 
+## Latest approved interview finish —20 October
+
+The user reviewed all17 current portrait parts and approved their editing, requesting correct Devanagari matra placement and the original Jet Kids crest at top-left on every current/future reel. Keep the approved picture, pacing, source-aware speech and caption layouts. Use ASS with explicit `shaping=complex`; do not manually reorder Unicode matras. Keep the original unmodified crest176px wide at44,64 during the picture body and the original centered closing crest alone. `tools/interview_edit.py PROJECT --refinish-current` refreshes these graphics on the same cached picture while copying and hash-checking exact existing AAC packets. Renew a delivery lock only after inspecting the corrected encoded captions/crest. This user request authorizes the G1 graphics-only correction; the locked overview stays unchanged.
+
+Keep one current file per reel and replace it in place. Remove superseded edited exports and unused derived caches after verifying their replacements and active input dependencies; preserve originals, active masters and canonical transcripts. New parts are distinct deliverables, not revision versions. All remaining mapped reels are still commissioned; preserve complete guest answers across natural parts of at most50seconds including the crest.
+
 ## Current overview revision —20 October
 
 The user rejected overview-rebuild-v01 and asked for a fresh edit: each guest car/entry, student-guided welcome, diya, ribbon cut, grounds tour and play. Cars belonging to the actual guest arrivals are explicitly required; the older irrelevant-car rejection does not prohibit these. Inspect Downloads/JKIS and mounted volumes for alternate coverage. The latest first supplied reference (AQP6Q0…) supplies the diya/continuation audio; the second (AQO22Uy…) supplies entry audio. Merge into the continuation track near the diya and retain only that track thereafter. Both formats are required and can use different clips. Keep portrait full bleed. The current recipe is edits/09-reference-led-overview-v01; delivery07 is a liked baseline pending this polish; older rejected exports remain historical.
