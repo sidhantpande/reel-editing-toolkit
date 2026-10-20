@@ -21,9 +21,11 @@
   "colour": "Official Sony LC709 once for confirmed SLog3/SGamut3.Cine; no guessed LUT on unknown profiles.",
   "portrait": "Full bleed; native portrait alternates or editor seeded, visually reviewed CSRT. Reject semantic drift even when tracker reports success.",
   "audio": "Both supplied tracks at100% native speed and pitch. Video slow motion must never stretch music. Use musical phrase edits/short native-speed repeats when necessary, with documented source ranges; exchange rhythms at different-tempo joins.48kHz; -14LUFS target, <=-1dBTP.",
-  "transitions": "Short source-handle blends and motivated directional/blur cuts, no random flashes.",
+  "transitions": "Mostly direct cuts; sparse6\u201310frame source-handle chapter fades. No decorative blur/zoom panels.",
   "logo": "Original crest unchanged.",
   "approval": "Preset is editorial configuration, not user approval of a render.",
   "audio_playback_speed": 1,
-  "beat_alignment": "Hard cut on pulse; blended transition midpoint on pulse, not simply transition start. Align selected action contact/release moments independently; preserve complete gestures."
+  "beat_alignment": "Hard cut on pulse; blended transition midpoint on pulse, not simply transition start. Align selected action contact/release moments independently; preserve complete gestures.",
+  "reference_policy": "Latest supplied reference is visual guidance only. Retain the selected entry/diya tracks unless user explicitly changes music. Do not borrow reference audio/footage.",
+  "shot_selection": "Choose short clear, purposeful source actions and reactions; avoid prolonged foreground obstruction. Review independent portrait compositions."
 }

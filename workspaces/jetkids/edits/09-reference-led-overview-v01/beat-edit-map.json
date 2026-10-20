@@ -1,0 +1,209 @@
+{
+  "audio": "Existing08 native-speed entry/diya mix retained; latest video is visual reference only",
+  "source_beat_predictions": ".cache/jetkids/polish-v01/mixed-beats.json",
+  "cuts": [
+    {
+      "shot": 0,
+      "source_id": "S017",
+      "target_audio_beat": 0,
+      "transition_midpoint": 0.0,
+      "note": "Original camera trophy reveal"
+    },
+    {
+      "shot": 1,
+      "source_id": "S014",
+      "target_audio_beat": 2.52,
+      "transition_midpoint": 2.533333333333333,
+      "note": "School identity sign"
+    },
+    {
+      "shot": 2,
+      "source_id": "S159",
+      "target_audio_beat": 4.52,
+      "transition_midpoint": 4.533333333333333,
+      "note": "BMW guest car arrival"
+    },
+    {
+      "shot": 3,
+      "source_id": "S166",
+      "target_audio_beat": 7.02,
+      "transition_midpoint": 7.033333333333333,
+      "note": "Innova approach"
+    },
+    {
+      "shot": 4,
+      "source_id": "S167",
+      "target_audio_beat": 9.52,
+      "transition_midpoint": 9.533333333333333,
+      "note": "Clean handshake finish and namaste, before foreground obstruction"
+    },
+    {
+      "shot": 5,
+      "source_id": "S169",
+      "target_audio_beat": 12.02,
+      "transition_midpoint": 12.033333333333333,
+      "note": "Waistcoat guest greeting: clear faces and handshake"
+    },
+    {
+      "shot": 6,
+      "source_id": "S171",
+      "target_audio_beat": 14.52,
+      "transition_midpoint": 14.533333333333333,
+      "note": "Lady guest arrival"
+    },
+    {
+      "shot": 7,
+      "source_id": "S178",
+      "target_audio_beat": 16.52,
+      "transition_midpoint": 16.533333333333335,
+      "note": "All guests with student escort at school entrance"
+    },
+    {
+      "shot": 8,
+      "source_id": "S181",
+      "target_audio_beat": 19.02,
+      "transition_midpoint": 19.033333333333335,
+      "note": "Student-guided descent from steps"
+    },
+    {
+      "shot": 9,
+      "source_id": "S186",
+      "target_audio_beat": 21.54,
+      "transition_midpoint": 21.533333333333335,
+      "note": "Band in profile; clear marching movement"
+    },
+    {
+      "shot": 10,
+      "source_id": "S191",
+      "target_audio_beat": 24.04,
+      "transition_midpoint": 24.033333333333335,
+      "note": "Tilak touch, withdrawal and smile"
+    },
+    {
+      "shot": 11,
+      "source_id": "S194",
+      "target_audio_beat": 28.54,
+      "transition_midpoint": 28.533333333333335,
+      "note": "Diya lighting wide context"
+    },
+    {
+      "shot": 12,
+      "source_id": "S195",
+      "target_audio_beat": 30.68,
+      "transition_midpoint": 30.666666666666668,
+      "note": "Lady guest lights diya"
+    },
+    {
+      "shot": 13,
+      "source_id": "S200",
+      "target_audio_beat": 33.3,
+      "transition_midpoint": 33.3,
+      "note": "Ribbon preparation, actual cut and release"
+    },
+    {
+      "shot": 14,
+      "source_id": "S205",
+      "target_audio_beat": 37.86,
+      "transition_midpoint": 37.86666666666667,
+      "note": "Guests tour coloured courts"
+    },
+    {
+      "shot": 15,
+      "source_id": "S214",
+      "target_audio_beat": 40.48,
+      "transition_midpoint": 40.46666666666667,
+      "note": "Guest memento and genuine smile"
+    },
+    {
+      "shot": 16,
+      "source_id": "S231",
+      "target_audio_beat": 43.08,
+      "transition_midpoint": 43.06666666666667,
+      "note": "Unified drill prop lift"
+    },
+    {
+      "shot": 17,
+      "source_id": "S244",
+      "target_audio_beat": 45.02,
+      "transition_midpoint": 45.03333333333333,
+      "note": "Guest cricket swing and follow-through"
+    },
+    {
+      "shot": 18,
+      "source_id": "S042",
+      "target_audio_beat": 47.64,
+      "transition_midpoint": 47.63333333333333,
+      "note": "Student bat action, native slow motion"
+    },
+    {
+      "shot": 19,
+      "source_id": "S259",
+      "target_audio_beat": 50.24,
+      "transition_midpoint": 50.233333333333334,
+      "note": "Kabaddi tackle and reaction"
+    },
+    {
+      "shot": 20,
+      "source_id": "S281",
+      "target_audio_beat": 52.22,
+      "transition_midpoint": 52.233333333333334,
+      "note": "Kho-kho chase and turn"
+    },
+    {
+      "shot": 21,
+      "source_id": "S103",
+      "target_audio_beat": 54.82,
+      "transition_midpoint": 54.833333333333336,
+      "note": "Chess piece movement"
+    },
+    {
+      "shot": 22,
+      "source_id": "V279",
+      "target_audio_beat": 57.42,
+      "transition_midpoint": 57.43333333333333,
+      "note": "Table-tennis serve and return"
+    },
+    {
+      "shot": 23,
+      "source_id": "S111",
+      "target_audio_beat": 59.38,
+      "transition_midpoint": 59.36666666666667,
+      "note": "Teachers hoop game"
+    },
+    {
+      "shot": 24,
+      "source_id": "S149",
+      "target_audio_beat": 62.0,
+      "transition_midpoint": 62.0,
+      "note": "Teachers warm applause"
+    },
+    {
+      "shot": 25,
+      "source_id": "S065",
+      "target_audio_beat": 64.58,
+      "transition_midpoint": 64.56666666666666,
+      "note": "Guests applaud together"
+    },
+    {
+      "shot": 26,
+      "source_id": "S333",
+      "target_audio_beat": 66.56,
+      "transition_midpoint": 66.56666666666666,
+      "note": "Student trophy presentation"
+    },
+    {
+      "shot": 27,
+      "source_id": "S341",
+      "target_audio_beat": 69.16,
+      "transition_midpoint": 69.16666666666667,
+      "note": "Team trophy lift"
+    },
+    {
+      "shot": 28,
+      "source_id": "S104",
+      "target_audio_beat": 71.12,
+      "transition_midpoint": 71.13333333333334,
+      "note": "Original camera children applause closing"
+    }
+  ]
+}

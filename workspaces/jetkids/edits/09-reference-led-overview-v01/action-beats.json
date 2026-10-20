@@ -1,0 +1,19 @@
+{
+  "audio": "Existing native-speed entry/diya mix",
+  "events": [
+    {
+      "shot": 13,
+      "event": "First ribbon release",
+      "source_seconds_landscape": 3.4,
+      "source_seconds_portrait": 12.9,
+      "audio_pulse": 35.92
+    },
+    {
+      "shot": 18,
+      "event": "Student bat contact",
+      "source_seconds": 4.49,
+      "audio_pulse": 48.94
+    }
+  ],
+  "review": "Final encoded ribbon/bat contact pages inspected after source-in adjustment; sampled action review."
+}

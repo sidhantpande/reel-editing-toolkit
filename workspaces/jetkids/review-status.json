@@ -1,6 +1,6 @@
 {
-  "stage": "Overview polish01 delivered for review",
-  "latest_user_direction": "User likes07 baseline; polish7\u20138second cut, musical transitions and beats. Slow video only; original music speed.",
+  "stage": "Fresh09 overview rendered for user review",
+  "latest_user_direction": "Use new reference for visual guidance only. Existing entry/diya soundtrack must remain; improve shot selection/flow and beat timing quickly.",
   "delivery_format": {
     "formats": [
       "1920x1080",
@@ -153,17 +153,18 @@
     "collection_method": "75 original MP4 symlinks plus75 matching LRF links; requires mounted SID-SSD"
   },
   "latest_overview": {
-    "project": "edits/08-overview-polish-v01",
-    "seconds": 86.5,
-    "frames": 2595,
+    "project": "edits/09-reference-led-overview-v01",
+    "seconds": 76.33333333333333,
+    "frames": 2290,
     "formats": [
       "landscape",
       "portrait"
     ],
-    "qa": "edits/08-overview-polish-v01/qa-review.json",
+    "qa": "edits/09-reference-led-overview-v01/qa-review.json",
     "approved": false,
     "listening_attested": false,
-    "audio_speed": 1
+    "audio_speed": 1,
+    "reference_media_used": false
   },
   "next_phase": "Full daytime interview review/transcription and source-grounded talking-head edits with relevant B-roll across JKIS and mounted volumes; separate evening event excluded.",
   "new_root_screening": {

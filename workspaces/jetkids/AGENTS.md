@@ -2,7 +2,7 @@
 
 ## Current overview revision —20 October
 
-The user rejected overview-rebuild-v01 and asked for a fresh edit: each guest car/entry, student-guided welcome, diya, ribbon cut, grounds tour and play. Cars belonging to the actual guest arrivals are explicitly required; the older irrelevant-car rejection does not prohibit these. Inspect Downloads/JKIS and mounted volumes for alternate coverage. The latest first supplied reference (AQP6Q0…) supplies the diya/continuation audio; the second (AQO22Uy…) supplies entry audio. Merge into the continuation track near the diya and retain only that track thereafter. Both formats are required and can use different clips. Keep portrait full bleed. The current recipe is edits/08-overview-polish-v01; delivery07 is a liked baseline pending this polish; older rejected exports remain historical.
+The user rejected overview-rebuild-v01 and asked for a fresh edit: each guest car/entry, student-guided welcome, diya, ribbon cut, grounds tour and play. Cars belonging to the actual guest arrivals are explicitly required; the older irrelevant-car rejection does not prohibit these. Inspect Downloads/JKIS and mounted volumes for alternate coverage. The latest first supplied reference (AQP6Q0…) supplies the diya/continuation audio; the second (AQO22Uy…) supplies entry audio. Merge into the continuation track near the diya and retain only that track thereafter. Both formats are required and can use different clips. Keep portrait full bleed. The current recipe is edits/09-reference-led-overview-v01; delivery07 is a liked baseline pending this polish; older rejected exports remain historical.
 
 ## Latest user direction — four mandatory event reels plus interview stories
 
@@ -39,3 +39,5 @@ Read the root AGENTS.md, this workspace README, source-summary.json and docs/REF
 - Revision01 arrival-flow was rejected for rushed entries, plain transitions and obvious music merging. Revision02 slows native100fps entries, uses short motion-led transitions, smoothed subject tracking with visual drift rejection, native portrait tilak/ribbon alternatives, and a pitch-preserving92BPM entry/music handover. After completing this overview, the user commissioned full interview review/transcription and in-depth talking-head videos with relevant B-roll across JKIS and all volumes.
 
 - Latest polish: user likes delivery07 more, requests7–8s cut and better beat placement. Only VIDEO slows. Both music tracks must stay100% native speed/pitch; previous entry tempo change is superseded. Preserve the existing story/crops while polishing beat-centred transitions.
+
+Latest09 brief:08 rejected for shot selection/flow. New supplied132.96s video is VISUAL REFERENCE ONLY. Keep the existing original-speed entry/diya soundtrack; do not use any audio or picture from the new reference. Fresh shorter, clear original-camera shots and restrained cuts;76.333s dual-format review.
