@@ -87,18 +87,27 @@ def uses_prepared_voice(plan):
  if any(flags) and not all(flags):raise ValueError('Use the same prepared-voice workflow for every dialogue cut')
  return bool(flags and all(flags))
 
+def validate_event_scope(plan):
+ """An explicit evening commission must not borrow sports footage, or vice versa."""
+ event=plan.get('event','sports')
+ if event not in {'sports','evening'}:raise ValueError('Unsupported interview event scope')
+ for sid,source in plan.get('sources',{}).items():
+  source_event=source.get('event','')
+  if event=='evening':
+   if source_event!='evening':raise ValueError('Evening plan requires an explicitly evening source: '+sid)
+  elif 'evening' in source_event.lower():raise ValueError('Evening source requires an explicit evening plan: '+sid)
+
 def preflight(project):
  assert_unlocked(project)
  corner_crest()
  for f in ['edit-plan.json','source-words.json','editorial.json','production-plan.md','assets-provenance.json']:
   if not (project/f).is_file():raise ValueError('Missing '+f)
  if len((project/'production-plan.md').read_text())<150:raise ValueError('Write the actual production plan')
- p=read(project/'edit-plan.json');ws=read(project/'source-words.json')['words'];validate_structure(p,ws)
+ p=read(project/'edit-plan.json');ws=read(project/'source-words.json')['words'];validate_structure(p,ws);validate_event_scope(p)
  source_checks={}
  for sid,s in p['sources'].items():
   path=Path(s['path']);q=probe(path);v=next(v for v in q['streams'] if v['codec_type']=='video');h=verified_hash(path,s.get('sha256'))
   if s.get('sha256') and h!=s['sha256']:raise ValueError('Source changed: '+sid)
-  if 'evening' in s.get('event','').lower():raise ValueError('Parked evening source: '+sid)
   rotation=next((x.get('rotation',0) for x in v.get('side_data_list',[]) if 'rotation' in x),0)
   if s.get('rotate') and abs(rotation)==90:raise ValueError('Metadata already rotates source; do not apply a second manual rotation: '+sid)
   source_checks[sid]=dict(path=str(path),sha256=h,duration=float(q['format']['duration']),native_fps=float(Fraction(v['avg_frame_rate'])),width=v['width'],height=v['height'],range=v.get('color_range'),rotation=next((x.get('rotation',0) for x in v.get('side_data_list',[]) if 'rotation' in x),0))

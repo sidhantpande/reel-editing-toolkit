@@ -22,6 +22,17 @@ class InterviewEditTests(unittest.TestCase):
  def words(self):return [dict(source_id='V014',text='Complete',start=1.2,end=1.6),dict(source_id='V014',text='thought',start=1.6,end=2.5)]
  def test_portrait_only_delivery_does_not_require_landscape(self):
   p=self.plan();del p['formats']['landscape'];self.assertEqual(kit.validate_structure(p,self.words()),60)
+ def test_evening_footage_requires_explicit_event_commission(self):
+  p=self.plan();p['sources']={'V128':{'event':'evening'}}
+  with self.assertRaisesRegex(ValueError,'explicit evening plan'):kit.validate_event_scope(p)
+  p['event']='evening';kit.validate_event_scope(p)
+ def test_evening_plan_rejects_morning_and_unassigned_broll(self):
+  p=self.plan();p['event']='evening';p['sources']={'V128':{'event':'evening'}}
+  for event in ['sports','']:
+   p['sources']['BROLL']={'event':event}
+   with self.assertRaisesRegex(ValueError,'explicitly evening source'):kit.validate_event_scope(p)
+ def test_historical_sports_plans_remain_valid_without_event_field(self):
+  p=self.plan();p['sources']={'V014':{},'V015':{'event':'sports'}};kit.validate_event_scope(p)
  def test_dialogue_speed_change_is_rejected(self):
   p=self.plan();p['cuts'][0]['speechSpeed']=.6
   with self.assertRaises(ValueError):kit.validate_structure(p,self.words())
