@@ -17,9 +17,12 @@ def crop_expression(points):
         if not math.isfinite(t) or t < 0 or t <= previous or not math.isfinite(centre) or not .158 <= centre <= .842:
             raise ValueError('Crop times must increase and centres must stay inside a full-height9:16 crop')
         previous = t
-    expression = f'{points[-1][1]:.7f}'
-    for (a, x), (b, y) in reversed(list(zip(points, points[1:]))):
-        expression = f'if(lt(t,{b:.7f}),({x:.7f}+({y-x:.7f})*max(0,t-{a:.7f})/{b-a:.7f}),{expression})'
+    if len(points) == 1:
+        return f'{points[0][1]:.7f}'
+    # Flat piecewise-linear form: start value + sum of clipped ramps (no nesting depth).
+    expression = f'{points[0][1]:.7f}'
+    for (a, x), (b, y) in zip(points, points[1:]):
+        expression += f'+({y-x:.7f})*clip((t-{a:.7f})/{b-a:.7f},0,1)'
     return expression
 
 

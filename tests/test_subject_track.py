@@ -20,5 +20,10 @@ class SubjectPathTests(unittest.TestCase):
 
     def test_expression_keeps_nonlinear_intermediate_target(self):
         expression = kit.crop_expression([[0, .3], [1, .7], [2, .4]])
-        self.assertIn('lt(t,1.0000000)', expression)
-        self.assertIn('0.7000000', expression)
+        self.assertNotIn('if(', expression)
+        clip = lambda v, a, b: max(a, min(b, v))
+        value = lambda t: eval(expression, {'clip': clip, 't': t})
+        self.assertAlmostEqual(value(0), .3)
+        self.assertAlmostEqual(value(1), .7)
+        self.assertAlmostEqual(value(1.5), .55)
+        self.assertAlmostEqual(value(5), .4)
