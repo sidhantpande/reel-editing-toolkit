@@ -31,7 +31,7 @@ def assemble(segments,shots,cache):
         if i and fade:
             previous=shots[i-1];seam=cache/f'seam-{i:03d}.mp4'
             if not seam.exists():
-                filters=f"[0:v]trim=start_frame={previous['frames']}:end_frame={previous['frames']+fade},settb=1/30,setpts=N,format=yuv444p[a];[1:v]trim=end_frame={fade},settb=1/30,setpts=N,format=yuv444p[b];[a][b]xfade=transition={kind}:duration={fade/FPS:.9f}:offset=0,format=yuv420p[v]"
+                filters=f"[0:v]trim=start_frame={previous['frames']}:end_frame={previous['frames']+fade},settb=1/30,setpts=N,fps=30,format=yuv444p[a];[1:v]trim=end_frame={fade},settb=1/30,setpts=N,fps=30,format=yuv444p[b];[a][b]xfade=transition={kind}:duration={fade/FPS:.9f}:offset=0,format=yuv420p[v]"
                 encode(['-i',str(segments[i-1]),'-i',str(segment)],seam,fade,filters)
             pieces.append(seam)
         first=fade if i else 0;core_frames=shot['frames']-first

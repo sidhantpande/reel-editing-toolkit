@@ -69,7 +69,7 @@ class InterviewQuestionTests(unittest.TestCase):
         plan = self.plan()
         plan.update(captionStyle={}, fps=30)
         opening = dict(self.opening(), cardPath='card.mkv', audioPath='prefix.wav')
-        measured = dict(input_tp='-1.5')
+        measured = dict(input_i='-14.0', input_tp='-1.5')
         with tempfile.TemporaryDirectory() as t:
             folder = Path(t)
             with patch.object(kit, 'corner_crest', return_value=folder/'crest.png'), \

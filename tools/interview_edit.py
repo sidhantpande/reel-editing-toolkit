@@ -17,6 +17,14 @@ def save(p,x):Path(p).write_text(json.dumps(x,ensure_ascii=False,indent=2)+'\n')
 def run(args):
  p=subprocess.run(['ffmpeg','-nostdin','-hide_banner','-loglevel','error',*map(str,args)],capture_output=True,text=True)
  if p.returncode:raise RuntimeError(p.stderr[-4000:])
+def loudness_json(stderr):
+ """FFmpeg may append progress/summary lines after loudnorm's JSON object."""
+ start=stderr.rfind('{')
+ if start<0:raise ValueError('FFmpeg did not return loudness measurements')
+ try:measurement,_=json.JSONDecoder().raw_decode(stderr[start:])
+ except json.JSONDecodeError as error:raise ValueError('Invalid FFmpeg loudness measurements') from error
+ if not isinstance(measurement,dict) or not {'input_i','input_tp'}<=measurement.keys():raise ValueError('Incomplete FFmpeg loudness measurements')
+ return measurement
 def validate_structure(plan,words):
  if plan.get('kind')!='jetkids-interview' or plan.get('fps')!=30:raise ValueError('Expected30fps Jet Kids interview plan')
  if not re.fullmatch(r'jetkids-[a-z0-9-]+',plan.get('id','')):raise ValueError('Use a versioned Jet Kids ID')
@@ -241,7 +249,9 @@ def crop_filter(plan,s,fmt,checks):
  
  if s.get('holdTailFrames'):vf+=f",tpad=stop_mode=clone:stop_duration={s['holdTailFrames']/30}"
  if s.get('holdLeadFrames'):vf+=f",tpad=start_mode=clone:start_duration={s['holdLeadFrames']/30}"
- return vf+',setsar=1,format=yuv420p'
+ # A ceil-rounded source end may have one fewer decoded 30fps frame. Hold
+ # its last decoded frame for that fraction, then enforce the edit clock.
+ return vf+f",tpad=stop_mode=clone:stop_duration={1/30},trim=end_frame={s['renderFrames']},setpts=N/(30*TB),setsar=1,format=yuv420p"
 
 def normalized_audio(plan,cache):
  clips=[];prepared_voice=uses_prepared_voice(plan)
@@ -269,7 +279,7 @@ def normalized_audio(plan,cache):
  lead=plan.get('leadFrames',0)*1600
  raw=cache/'mix.wav';fc=f'[0:a]adelay={lead}S:all=1,apad,atrim=duration={total}[v];[1:a]volume=1.1,atrim=duration={total},afade=t=in:d=0.7,afade=t=out:st={total-.8}:d=0.8[m];[v][m]amix=inputs=2:duration=first:normalize=0[a]'
  run(['-i',voice,'-stream_loop','-1','-i',plan['music'],'-filter_complex',fc,'-map','[a]','-ar','48000','-c:a','pcm_s24le','-y',raw])
- p=subprocess.run(['ffmpeg','-nostdin','-hide_banner','-i',str(raw),'-af','loudnorm=I=-14:TP=-1.5:LRA=11:print_format=json','-f','null','-'],capture_output=True,text=True,check=True);m=json.loads(p.stderr[p.stderr.rfind('{'):]);save(cache/'loudness-input.json',m)
+ p=subprocess.run(['ffmpeg','-nostdin','-hide_banner','-i',str(raw),'-af','loudnorm=I=-14:TP=-1.5:LRA=11:print_format=json','-f','null','-'],capture_output=True,text=True,check=True);m=loudness_json(p.stderr);save(cache/'loudness-input.json',m)
  filt=f"loudnorm=I=-14:TP=-1.5:LRA=11:measured_I={m['input_i']}:measured_TP={m['input_tp']}:measured_LRA={m['input_lra']}:measured_thresh={m['input_thresh']}:offset={m['target_offset']}:linear=true"
  out=cache/'mixed-normalized.wav';run(['-i',raw,'-af',filt,'-ar','48000','-c:a','pcm_s24le','-y',out]);return out
 
@@ -309,10 +319,10 @@ def finish_picture(plan,words,fmt,work,audio,target,copy_audio=False,question=No
   fc=fc[:-3]+'[body];'+f"[4:v]settb=AVTB,setpts=PTS-STARTPTS,format=yuv420p[card];[body]settb=AVTB,setpts=PTS-STARTPTS[prepared];[card][prepared]xfade=transition=fade:duration={overlap}:offset={offset},format=yuv420p[v];[5:a]aformat=sample_rates=48000:channel_layouts=stereo[prefix];[2:a]aformat=sample_rates=48000:channel_layouts=stereo[bodyaudio];[prefix][bodyaudio]acrossfade=d={overlap}:c1=qsin:c2=qsin[a]"
   extra=['-i',question['cardPath'],'-i',question['audioPath']];audio_map='[a]';frames=timing['totalFrames']
  audio_args=['-c:a','copy'] if copy_audio else ['-c:a','aac','-b:a','256k','-ar','48000']
- run(['-threads','2','-filter_complex_threads','2','-i',work/'silent.mp4','-loop','1','-i',gradient,'-i',audio,'-loop','1','-i',crest,*extra,'-filter_complex',fc,'-map','[v]','-map',audio_map,'-frames:v',frames,'-t',frames/30,'-c:v','libx264','-preset','veryfast','-crf','18','-threads','2','-pix_fmt','yuv420p',*audio_args,'-movflags','+faststart','-y',target])
+ run(['-threads','2','-filter_complex_threads','2','-i',work/'silent.mp4','-loop','1','-i',gradient,'-i',audio,'-loop','1','-i',crest,*extra,'-filter_complex',fc,'-map','[v]','-map',audio_map,'-r','30','-fps_mode','cfr','-frames:v',frames,'-t',frames/30,'-c:v','libx264','-preset','veryfast','-crf','18','-threads','2','-pix_fmt','yuv420p',*audio_args,'-movflags','+faststart','-y',target])
  q=probe(target);v=next(x for x in q['streams'] if x['codec_type']=='video');assert int(v['nb_frames'])==frames;assert (v['width'],v['height'])==(w,h)
  run(['-xerror','-i',target,'-f','null','-'])
- p=subprocess.run(['ffmpeg','-hide_banner','-i',str(target),'-vn','-af','loudnorm=I=-14:TP=-1:LRA=11:print_format=json','-f','null','-'],capture_output=True,text=True,check=True);m=json.loads(p.stderr[p.stderr.rfind('{'):]);assert float(m['input_tp'])<=-1
+ p=subprocess.run(['ffmpeg','-hide_banner','-i',str(target),'-vn','-af','loudnorm=I=-14:TP=-1:LRA=11:print_format=json','-f','null','-'],capture_output=True,text=True,check=True);m=loudness_json(p.stderr);assert float(m['input_tp'])<=-1
  return v,m,groups
 
 def refinish_current(project,fmt='portrait'):
@@ -358,7 +368,7 @@ def render(project,formats=None,replace_current=False):
     vf=crop_filter(plan,s,fmt,checks)
     if i==0:vf+=',fade=t=in:st=0:d=0.12'
     if i==len(shots)-1:vf+=f",fade=t=out:st={s['frames']/30-.16}:d=0.16"
-    run(['-threads','2','-filter_threads','2','-ss',s['in'],'-i',plan['sources'][s['source_id']]['path'],'-an','-vf',vf,'-frames:v',s['renderFrames'],'-c:v','libx264','-preset','veryfast','-crf','18','-threads','2','-y',p])
+    run(['-threads','2','-filter_threads','2','-ss',s['in'],'-i',plan['sources'][s['source_id']]['path'],'-an','-vf',vf,'-r','30','-fps_mode','cfr','-frames:v',s['renderFrames'],'-c:v','libx264','-preset','veryfast','-crf','18','-threads','2','-y',p])
    segments.append(p);print(plan['id'],fmt,'shot',i,s['source_id'],flush=True)
   pieces=assemble(segments,shots,work);ending=work/'ending.mp4'
   if not ending.exists():run(['-loop','1','-i',plan['logo'],'-an','-vf',f'scale={560 if fmt=="portrait" else 620}:-2,pad={w}:{h}:(ow-iw)/2:(oh-ih)/2:black,setsar=1,fade=t=in:st=0:d=0.2,format=yuv420p','-r','30','-frames:v',plan['logoFrames'],'-c:v','libx264','-preset','veryfast','-crf','18','-threads','2','-y',ending])

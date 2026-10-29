@@ -5,6 +5,13 @@ sys.path.insert(0,str(Path(__file__).resolve().parents[1]/'tools'))
 import interview_edit as kit
 
 class InterviewEditTests(unittest.TestCase):
+ def test_loudnorm_json_survives_ffmpeg_trailing_progress(self):
+  expected={'input_i':'-14.12','input_tp':'-1.50'}
+  import json
+  self.assertEqual(kit.loudness_json('[Parsed_loudnorm] '+json.dumps(expected)+'\n[out] audio:6325KiB\nsize=0 time=00:00:33.73\n'),expected)
+ def test_missing_or_incomplete_loudness_is_not_treated_as_success(self):
+  for text in ['no measurement','{invalid}','{"output_i":"-14"}']:
+   with self.assertRaises(ValueError):kit.loudness_json(text)
  def test_corner_crest_rejects_opaque_background_and_accepts_cutout(self):
   from unittest.mock import patch
   import tempfile
@@ -81,6 +88,18 @@ class InterviewEditTests(unittest.TestCase):
   plan={'sources':{'V014':{'rotate':False}}};shot={'source_id':'V014','renderFrames':30,'speed':1,'zoom':1.6,'crop_path':[[0,.48],[1,.50]],'crop_path_y':[[0,.63],[1,.65]]}
   f=kit.crop_filter(plan,shot,'portrait',{'V014':{'width':1440,'height':2560}})
   self.assertIn('ih*(',f);self.assertIn('iw*(',f);self.assertIn('(PTS-STARTPTS)/1',f)
+ def test_fractional_source_end_keeps_requested_frame_count(self):
+  import shutil,tempfile,subprocess
+  if not shutil.which('ffmpeg') or not shutil.which('ffprobe'):self.skipTest('FFmpeg integration runtime unavailable')
+  with tempfile.TemporaryDirectory() as folder:
+   source=Path(folder)/'source.mp4';output=Path(folder)/'picture.mp4'
+   kit.run(['-f','lavfi','-i','testsrc2=size=180x320:rate=25:duration=1.04','-c:v','libx264','-y',source])
+   plan={'sources':{'V014':{'rotate':False}}};shot={'source_id':'V014','renderFrames':38,'holdLeadFrames':6,'speed':1}
+   vf=kit.crop_filter(plan,shot,'portrait',{'V014':{'width':180,'height':320}})
+   kit.run(['-threads','2','-filter_threads','2','-i',source,'-vf',vf,'-r','30','-fps_mode','cfr','-frames:v',38,'-c:v','libx264','-preset','ultrafast','-threads','2','-y',output])
+   video=next(v for v in kit.probe(output)['streams'] if v['codec_type']=='video')
+   self.assertEqual(int(video['nb_frames']),38)
+   self.assertAlmostEqual(float(video['duration']),38/30,places=5)
  def test_merged_alignment_unit_remains_atomic_in_curated_phrase(self):
   words=[dict(source_id='V020',text='The sports',start=1,end=1.4),dict(source_id='V020',text='is',start=1.4,end=1.6)]
   groups=kit.caption_groups(words,False,['The sports is'])
