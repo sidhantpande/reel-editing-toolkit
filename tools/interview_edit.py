@@ -220,6 +220,8 @@ def editorial_captions(plan,groups,header,path):
 def subtitles(plan,words,fmt,path):
  w,h=(1920,1080) if fmt=='landscape' else (1080,1920);font=82 if fmt=='landscape' else plan.get('captionStyle',{}).get('fontSize',82);y=895 if fmt=='landscape' else plan.get('captionStyle',{}).get('y',1455)
  header=f'''[Script Info]\nScriptType: v4.00+\nPlayResX: {w}\nPlayResY: {h}\nScaledBorderAndShadow: yes\nWrapStyle: 2\n\n[V4+ Styles]\nFormat: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding\nStyle: Main,Noto Sans Devanagari,{font},&H00FFFFFF,&H00FFFFFF,&H50201810,&H70000000,-1,0,0,0,100,100,0,0,1,0.8,1.5,5,70,70,0,1\nStyle: Label,Montserrat,28,&H00503E21,&H00FFFFFF,&H90000000,&H90000000,0,0,0,0,100,100,2,0,1,0,1,7,0,0,0,1\n\n[Events]\nFormat: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text\n'''
+ if plan.get('captionStyle',{}).get('enabled') is False:
+  path.write_text(header);return []
  lines=[header];groups=caption_groups(mapped_words(plan,words),plan.get('captionStyle',{}).get('progressive',False),plan.get('captionPhrases'));checks=[]
  if plan.get('captionStyle',{}).get('treatment')=='editorial':return editorial_captions(plan,groups,header,path)
  for i,g in enumerate(groups):
