@@ -84,6 +84,29 @@ class InterviewEditTests(unittest.TestCase):
    self.assertEqual([line['x'] for line in groups[0]['lines']],[540,540])
    p['captionLayouts'][0]['lines'][1]['words']=2
    with self.assertRaises(ValueError):kit.subtitles(p,self.words(),'portrait',q)
+ def test_block_caption_lines_remain_readable_until_complete_phrase_end(self):
+  import tempfile
+  p=self.plan();p['captionStyle']={'treatment':'editorial','lineReveal':'block'};p['captionPhrases']=['Complete thought'];p['captionLayouts']=[{'lines':[{'words':1,'size':110,'y':1350},{'words':1,'size':150,'y':1480}]}]
+  with tempfile.TemporaryDirectory() as folder:
+   group=kit.subtitles(p,self.words(),'portrait',Path(folder)/'captions.ass')[0]
+   self.assertEqual([line['start'] for line in group['lines']],[group['start'],group['start']])
+   self.assertEqual([line['end'] for line in group['lines']],[group['end'],group['end']])
+   self.assertEqual([w['text'] for w in group['words']],['Complete','thought'])
+ def test_source_grade_rejects_unbounded_or_executable_values(self):
+  for grade in [{'gamma':1.9},{'brightness':float('nan')},{'gamma_r':True},{'gamma':'1;movie=private'},{'lut3d':'guess.cube'}]:
+   with self.assertRaises(ValueError):kit.colour_grade_filter({'colourGrade':grade})
+ def test_source_grade_lifts_dark_picture_without_changing_frame_clock(self):
+  import shutil,tempfile,subprocess
+  if not shutil.which('ffmpeg') or not shutil.which('ffprobe'):self.skipTest('FFmpeg integration runtime unavailable')
+  with tempfile.TemporaryDirectory() as folder:
+   source=Path(folder)/'source.mp4';kit.run(['-f','lavfi','-i','color=c=0x506050:size=180x320:rate=25:duration=0.24','-c:v','libx264','-y',source]);means=[]
+   for i,grade in enumerate([{},dict(gamma=1.12,brightness=.01,gamma_r=1.02,gamma_g=.98,gamma_b=1.02)]):
+    plan={'sources':{'V014':{'rotate':False,'colourGrade':grade}}};shot={'source_id':'V014','renderFrames':8,'speed':1};output=Path(folder)/f'picture-{i}.mp4'
+    vf=kit.crop_filter(plan,shot,'portrait',{'V014':{'width':180,'height':320}})
+    kit.run(['-threads','2','-filter_threads','2','-i',source,'-vf',vf,'-r','30','-fps_mode','cfr','-frames:v',8,'-c:v','libx264','-preset','ultrafast','-threads','2','-y',output])
+    video=next(v for v in kit.probe(output)['streams'] if v['codec_type']=='video');self.assertEqual(int(video['nb_frames']),8);self.assertAlmostEqual(float(video['duration']),8/30,places=5)
+    pixels=subprocess.check_output(['ffmpeg','-v','error','-i',str(output),'-vf','scale=16:16','-frames:v','1','-pix_fmt','rgb24','-f','rawvideo','-']);means.append(sum(pixels)/len(pixels));self.assertLess(max(pixels),245)
+   self.assertGreater(means[1],means[0]+5)
  def test_vertical_crop_path_is_applied_without_changing_dialogue_speed(self):
   plan={'sources':{'V014':{'rotate':False}}};shot={'source_id':'V014','renderFrames':30,'speed':1,'zoom':1.6,'crop_path':[[0,.48],[1,.50]],'crop_path_y':[[0,.63],[1,.65]]}
   f=kit.crop_filter(plan,shot,'portrait',{'V014':{'width':1440,'height':2560}})

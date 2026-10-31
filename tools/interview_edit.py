@@ -25,6 +25,15 @@ def loudness_json(stderr):
  except json.JSONDecodeError as error:raise ValueError('Invalid FFmpeg loudness measurements') from error
  if not isinstance(measurement,dict) or not {'input_i','input_tp'}<=measurement.keys():raise ValueError('Incomplete FFmpeg loudness measurements')
  return measurement
+
+def colour_grade_filter(source):
+ """Small display-space corrections only; Log transforms remain source-owned."""
+ grade=source.get('colourGrade',{})
+ limits={'gamma':(.85,1.2),'brightness':(-.04,.04),'contrast':(.9,1.1),'saturation':(.8,1.2),'gamma_r':(.9,1.1),'gamma_g':(.9,1.1),'gamma_b':(.9,1.1)}
+ if not isinstance(grade,dict) or set(grade)-limits.keys():raise ValueError('Unsupported source colour correction')
+ for key,value in grade.items():
+  if isinstance(value,bool) or not isinstance(value,(int,float)) or not math.isfinite(value) or not limits[key][0]<=value<=limits[key][1]:raise ValueError('Source colour correction outside restrained range: '+key)
+ return 'eq='+':'.join(f'{key}={value}' for key,value in grade.items())+':gamma_weight=0.65' if grade else ''
 def validate_structure(plan,words):
  if plan.get('kind')!='jetkids-interview' or plan.get('fps')!=30:raise ValueError('Expected30fps Jet Kids interview plan')
  if not re.fullmatch(r'jetkids-[a-z0-9-]+',plan.get('id','')):raise ValueError('Use a versioned Jet Kids ID')
@@ -114,6 +123,7 @@ def preflight(project):
  p=read(project/'edit-plan.json');ws=read(project/'source-words.json')['words'];validate_structure(p,ws);validate_event_scope(p)
  source_checks={}
  for sid,s in p['sources'].items():
+  colour_grade_filter(s)
   path=Path(s['path']);q=probe(path);v=next(v for v in q['streams'] if v['codec_type']=='video');h=verified_hash(path,s.get('sha256'))
   if s.get('sha256') and h!=s['sha256']:raise ValueError('Source changed: '+sid)
   rotation=next((x.get('rotation',0) for x in v.get('side_data_list',[]) if 'rotation' in x),0)
@@ -187,7 +197,7 @@ def editorial_captions(plan,groups,header,path):
    if not 72<=size<=176 or not 420<=x<=660 or not 1240<=y<=1690:raise ValueError('Editorial caption outside calibrated range')
    color=spec.get('color','FFFFFF')
    tags=rf'{{\an5\fn{family}\b800\fs{size}\c&H00{color}&\move({x},{y+10},{x},{y},0,110)\fad(70,55)}}'
-   start=max(a,owned[0]['start'])
+   start=a if plan.get('captionStyle',{}).get('lineReveal')=='block' else max(a,owned[0]['start'])
    lines.append(f'Dialogue: 1,{ass_time(start)},{ass_time(b)},Main,,0,0,0,,{tags}{text}\n')
    review.append(dict(text=' '.join(word['text'] for word in owned),start=start,end=b,font=family,size=size,x=x,y=y))
   if cursor!=len(group):raise ValueError('Caption layout omits words')
@@ -246,6 +256,8 @@ def crop_filter(plan,s,fmt,checks):
   y=f"max(0,min(ih-oh,ih*({crop_expression(s['crop_path_y'])})-oh/2))"
  vf+=f"trim=duration={(s['renderFrames']-s.get('holdTailFrames',0)-s.get('holdLeadFrames',0))/30*s.get('speed',1):.7f},setpts=(PTS-STARTPTS)/{s.get('speed',1)},fps=30,crop={cw}:{ch}:x='{x}':y='{y}',scale={w}:{h}:flags=lanczos"
  if q.get('range')=='pc':vf+=':in_range=full:out_range=tv'
+ grade=colour_grade_filter(src)
+ if grade:vf+=','+grade
  
  if s.get('holdTailFrames'):vf+=f",tpad=stop_mode=clone:stop_duration={s['holdTailFrames']/30}"
  if s.get('holdLeadFrames'):vf+=f",tpad=start_mode=clone:start_duration={s['holdLeadFrames']/30}"
