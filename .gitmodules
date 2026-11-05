@@ -10,3 +10,9 @@
 [submodule "vendor/repos/gl-transitions"]
 	path = vendor/repos/gl-transitions
 	url = https://github.com/gl-transitions/gl-transitions.git
+[submodule "vendor/repos/editly"]
+	path = vendor/repos/editly
+	url = https://github.com/mifi/editly.git
+[submodule "vendor/repos/muses"]
+	path = vendor/repos/muses
+	url = https://github.com/fiehrfly/muses.git

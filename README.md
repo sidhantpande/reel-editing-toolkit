@@ -33,7 +33,7 @@ Current reliable renderer: 1080×1920 / 30 fps, serial PNG capture, software GL 
 
 Repository: [sidhantpande/reel-editing-toolkit](https://github.com/sidhantpande/reel-editing-toolkit). Binary original assets use Git LFS. Third-party code/fonts retain attribution and licences; Remotion use is subject to its [included licence](docs/licenses/Remotion-LICENSE.md).
 
-Pinned source checkouts for HyperFrames, Remotion, Motion Canvas and GL Transitions are included as [video repository submodules](docs/VIDEO_REPOSITORIES.md). That guide also documents the lightweight portrait activity-reel renderer.
+Pinned source checkouts for HyperFrames, Remotion, Motion Canvas, GL Transitions, Editly and the Muses music-source index are included as [video repository submodules](docs/VIDEO_REPOSITORIES.md). That guide also documents the portrait activity-reel renderer and festive Diwali treatment. [Music sources](docs/MUSIC_SOURCES.md) retain exact track links and use context.
 
 ## Clinic quick start
 

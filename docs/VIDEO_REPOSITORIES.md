@@ -8,6 +8,8 @@ The toolkit includes pinned Git submodules under `vendor/repos/`. They retain up
 | `remotion` | https://github.com/remotion-dev/remotion | Source for the toolkit's existing React video engine |
 | `motion-canvas` | https://github.com/motion-canvas/motion-canvas | Programmatic animation and motion scenes |
 | `gl-transitions` | https://github.com/gl-transitions/gl-transitions | Full transition source library; selected existing shaders remain in `vendor/gl-transitions` |
+| `editly` | https://github.com/mifi/editly | Declarative video editing, transition integration and examples |
+| `muses` | https://github.com/fiehrfly/muses | Music-source index with licence and platform notes; contains links rather than a licensed audio collection |
 
 Restore exactly the pinned revisions, without downloading upstream LFS test footage:
 
@@ -30,4 +32,8 @@ Keep the reviewed JSON plan in ignored `media/edit-projects/`, containing `shots
   --output exports/Diwali-Reel-v01.mp4 --cache .cache/diwali-v01
 ```
 
-The November Diwali edit uses only the four supplied portrait camera clips, a restrained natural grade, short chapter dissolves, a brief opening title, the existing school crest and the existing Shubhaarambh music excerpt at native speed. Classroom chatter is omitted; no spoken captions or event claims are invented. Music attribution and supplied-use context remain in `workspaces/jetkids/music-assets.json`. Raw footage, source plans, review images and the final reel stay local. Encoded frame count, dimensions and complete decode are measured; visual and subjective listening review are tracked separately in local QA.
+The revised November Diwali edit uses only the four supplied portrait camera clips and the user's selected **Free Soul Indian Sitar Tabla Flute** by kalsstockmedia. The earlier Shubhaarambh, Lotus Dreams and Festival of Lights choices were rejected. Selected music and source-plan details remain local; the source link is in [MUSIC_SOURCES.md](MUSIC_SOURCES.md).
+
+Set `look` to `festive` for the original gold/serif Diwali artwork, warm natural grade, controlled close-up pushes, amber edge bokeh and three optional light sweeps (`light_cues`, in seconds). The transparent school crest is176px wide at44,64 throughout the footage. The closing card uses one larger centered crest. Chapters use the existing source-handle transition engine's `hblur`, `zoomin`, `smoothleft`, `smoothright` and `fade`; no new GL renderer is required. `tools/activity_design.py` makes the original artwork locally using the included Sora and OFL Cormorant Garamond fonts. Cormorant's existing font/licence files remain under the clinic fonts directory; no clinic identity is applied to the school.
+
+`--picture-only` allows picture approval before music selection. Otherwise `music_in` selects source seconds at native speed and pitch; it defaults to0. Festive picture is encoded once and the selected music is muxed without re-encoding it. Source chatter is omitted; no spoken captions or event claims are invented. Camera footage, source plans, review images and final reels stay local. Encoded frame count, dimensions and full decode are measured; visual and subjective listening review are tracked separately in local QA. The downloaded repositories are available for future use; their addition is not a claim that Editly or every shader was built or used in this export.
