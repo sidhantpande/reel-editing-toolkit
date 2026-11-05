@@ -4,7 +4,7 @@ import random
 import subprocess
 
 
-def build(cache, logo, root, seconds, light_cues):
+def build(cache, logo, root, seconds, light_cues, restrained=False):
     from PIL import Image, ImageDraw, ImageFilter, ImageFont
     sans = root / 'public/assets/fonts/Sora.ttf'
     serif = root / 'workspaces/my-dental-skin-clinic/assets/fonts/cormorantgaramond/CormorantGaramond[wght].ttf'
@@ -27,10 +27,14 @@ def build(cache, logo, root, seconds, light_cues):
     draw = ImageDraw.Draw(title)
     for y in range(1160, 1920):
         draw.line((0, y, 1080, y), fill=(18, 15, 18, round(184*((y-1160)/760)**.8)))
-    label(draw, 'F E S T I V A L   O F   L I G H T S', 1395, 25, '#FFEBC0')
-    label(draw, 'Diwali', 1455, 150, '#FFF1CF', True)
-    draw.line((380, 1640, 700, 1640), fill='#E8BE72', width=2)
-    label(draw, 'Little hands. Endless light.', 1682, 34, '#FFFFFF')
+    if restrained:
+        label(draw, 'Diwali', 1500, 130, '#FFF1CF', True)
+        label(draw, 'Colours of joy', 1650, 34, '#FFFFFF')
+    else:
+        label(draw, 'F E S T I V A L   O F   L I G H T S', 1395, 25, '#FFEBC0')
+        label(draw, 'Diwali', 1455, 150, '#FFF1CF', True)
+        draw.line((380, 1640, 700, 1640), fill='#E8BE72', width=2)
+        label(draw, 'Little hands. Endless light.', 1682, 34, '#FFFFFF')
     title.save(cache / 'title.png')
 
     end = Image.new('RGB', (1080, 1920), '#102532')
@@ -54,6 +58,9 @@ def build(cache, logo, root, seconds, light_cues):
     crest.thumbnail((176, 176))
     corner.alpha_composite(crest, (44, 64))
     corner.save(cache / 'corner.png')
+
+    if restrained:
+        return
 
     # Black is transparent under screen blending. Only the outer edges carry bokeh.
     ambient = cache / 'edge-lights.mp4'

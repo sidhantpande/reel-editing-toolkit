@@ -22,6 +22,17 @@ def festive_filters(body_frames, width=1080, height=1920):
     return f'[0:v]format=gbrp[base];[1:v]scale={width}:{height},format=gbrp[lights];[base][lights]blend=all_mode=screen:all_opacity=0.27:enable=lt(t\\,{body_frames/30})[glow];[2:v]format=rgba,fade=t=in:st=0.15:d=0.6:alpha=1,fade=t=out:st=2.65:d=0.65:alpha=1[t];[glow][t]overlay=y=60*pow(max(0\\,1-t/0.8)\\,3):enable=lt(t\\,3.35):shortest=1[titled];[titled][3:v]overlay=enable=lt(t\\,{body_frames/30}):shortest=1,format=yuv420p[v]'
 
 
+def crop_filter(shot):
+    values = [shot.get('crop_factor', 1), shot.get('crop_x', .5), shot.get('crop_y', .5)]
+    if any(isinstance(x, bool) or not isinstance(x, (int, float)) or not math.isfinite(x) for x in values):
+        raise ValueError('Crop requires finite numeric factor and positions')
+    factor, x, y = values
+    if not 1 <= factor <= 1.3 or not 0 <= x <= 1 or not 0 <= y <= 1:
+        raise ValueError('Crop factor/position outside reviewed portrait bounds')
+    width, height = round(1080*factor/2)*2, round(1920*factor/2)*2
+    return f'scale={width}:{height},crop=1080:1920:(iw-1080)*{x}:(ih-1920)*{y},setsar=1'
+
+
 def render(plan_path, source_root, output, cache, picture_only=False):
     from PIL import Image, ImageDraw, ImageFont
     plan = json.loads(plan_path.read_text())
@@ -62,16 +73,19 @@ def render(plan_path, source_root, output, cache, picture_only=False):
             raise ValueError('Shot exceeds source handles')
         if not shot.get('review_note'):
             raise ValueError('Shot needs visual review note')
+        crop_filter(shot)
         resolved.append((path, frames + outgoing, speed))
     cache.mkdir(parents=True, exist_ok=True)
     segments = []
     for i, (path, frames, speed) in enumerate(resolved):
         segment = cache / f'shot-{i:03d}.mp4'
-        vf = f'trim=duration={frames / 30 * speed:.9f},setpts=(PTS-STARTPTS)/{speed},fps=30,scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,setsar=1'
+        vf = f'trim=duration={frames / 30 * speed:.9f},setpts=(PTS-STARTPTS)/{speed},fps=30,scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,'+crop_filter(shots[i])
         if plan.get('look') == 'festive':
             if shots[i].get('push_in'):
                 vf += f",zoompan=z='1.015+0.025*on/{frames}':x='iw/2-iw/zoom/2':y='ih/2-ih/zoom/2':d=1:s=1080x1920:fps=30"
             vf += ',eq=contrast=1.025:saturation=1.045:gamma=1.01,colorbalance=rs=0.018:bs=-0.012:rm=0.009:bm=-0.008,unsharp=3:3:0.18'
+        elif plan.get('look') == 'natural-festive':
+            vf += ',eq=contrast=1.015:saturation=1.025:gamma=1.005'
         else:
             vf += ',eq=contrast=1.015:saturation=1.06:brightness=0.004'
         vf += ',format=yuv420p'
@@ -90,7 +104,8 @@ def render(plan_path, source_root, output, cache, picture_only=False):
         music_info = probe(ROOT / plan['music'])
         if not any(s['codec_type'] == 'audio' for s in music_info['streams']) or offset+total/30 > float(music_info['format']['duration']):
             raise ValueError('Music has insufficient duration')
-    festive = plan.get('look') == 'festive'
+    festive = plan.get('look') in ('festive', 'natural-festive')
+    restrained = plan.get('look') == 'natural-festive'
     font = ROOT / 'public/assets/fonts/Sora.ttf'
     def text_center(draw, y, text, size, fill):
         f = ImageFont.truetype(str(font), size)
@@ -115,7 +130,7 @@ def render(plan_path, source_root, output, cache, picture_only=False):
     end.save(cache / 'ending.png')
     if festive:
         from activity_design import build
-        build(cache, ROOT / plan['logo'], ROOT, total/30, plan.get('light_cues', []))
+        build(cache, ROOT / plan['logo'], ROOT, total/30, plan.get('light_cues', []), restrained=restrained)
     ending = cache / 'ending.mp4'
     if not ending.exists():
         end_filter = 'format=yuv420p' if ending_fade else 'fade=t=in:st=0:d=0.2,format=yuv420p'
@@ -133,8 +148,13 @@ def render(plan_path, source_root, output, cache, picture_only=False):
         # Picture is rendered independently so music can be selected without recapturing.
         picture = output if picture_only else cache / 'finished-picture.mp4'
         if not picture.exists():
-            filters = festive_filters(body_frames)
-            run(['ffmpeg', '-v', 'error', '-nostdin', '-n', '-filter_complex_threads', '2', '-i', str(silent), '-i', str(cache/'edge-lights.mp4'), '-loop', '1', '-i', str(cache/'title.png'), '-loop', '1', '-i', str(cache/'corner.png'), '-filter_complex', filters, '-map', '[v]', '-an', '-frames:v', str(total), '-c:v', 'libx264', '-preset', 'fast', '-crf', '17', '-threads', '2', '-movflags', '+faststart', str(picture)])
+            if restrained:
+                inputs = ['-i', str(silent), '-loop', '1', '-i', str(cache/'title.png'), '-loop', '1', '-i', str(cache/'corner.png')]
+                filters = f'[1:v]format=rgba,fade=t=in:st=0.1:d=0.35:alpha=1,fade=t=out:st=1.75:d=0.4:alpha=1[t];[0:v][t]overlay=enable=lt(t\\,2.2):shortest=1[titled];[titled][2:v]overlay=enable=lt(t\\,{body_frames/30}):shortest=1,format=yuv420p[v]'
+            else:
+                inputs = ['-i', str(silent), '-i', str(cache/'edge-lights.mp4'), '-loop', '1', '-i', str(cache/'title.png'), '-loop', '1', '-i', str(cache/'corner.png')]
+                filters = festive_filters(body_frames)
+            run(['ffmpeg', '-v', 'error', '-nostdin', '-n', '-filter_complex_threads', '2', *inputs, '-filter_complex', filters, '-map', '[v]', '-an', '-frames:v', str(total), '-c:v', 'libx264', '-preset', 'fast', '-crf', '17', '-threads', '2', '-movflags', '+faststart', str(picture)])
         if not picture_only:
             offset = plan.get('music_in', 0)
             run(['ffmpeg', '-v', 'error', '-nostdin', '-n', '-i', str(picture), '-ss', str(offset), '-i', str(ROOT/plan['music']), '-map', '0:v', '-map', '1:a', '-c:v', 'copy', '-af', f'atrim=duration={duration},asetpts=PTS-STARTPTS,afade=t=in:d=0.4,afade=t=out:st={duration-1.8}:d=1.8,loudnorm=I=-14:TP=-1.5:LRA=9', '-c:a', 'aac', '-b:a', '256k', '-ar', '48000', '-t', str(duration), '-movflags', '+faststart', str(output)])
