@@ -32,7 +32,7 @@ Keep the reviewed JSON plan in ignored `media/edit-projects/`, containing `shots
   --output exports/Diwali-Reel-v01.mp4 --cache .cache/diwali-v01
 ```
 
-The revised November Diwali edit uses only the four supplied portrait camera clips and the user's selected **Free Soul Indian Sitar Tabla Flute** by kalsstockmedia. The earlier Shubhaarambh, Lotus Dreams and Festival of Lights choices were rejected. Selected music and source-plan details remain local; the source link is in [MUSIC_SOURCES.md](MUSIC_SOURCES.md).
+The revised November Diwali edit uses only the four supplied portrait camera clips. The user approved the festive picture and subsequently requested a higher-energy soundtrack. Its current audio uses **Deva Deva** from the existing toolkit music assets; the approved video stream stays unchanged. Free Soul was superseded for low energy; Shubhaarambh, Lotus Dreams and Festival of Lights were rejected earlier. Exact music/source-plan details remain local; current and historical selections are in [MUSIC_SOURCES.md](MUSIC_SOURCES.md).
 
 Set `look` to `festive` for the original gold/serif Diwali artwork, warm natural grade, controlled close-up pushes, amber edge bokeh and three optional light sweeps (`light_cues`, in seconds). The transparent school crest is176px wide at44,64 throughout the footage. The closing card uses one larger centered crest. Chapters use the existing source-handle transition engine's `hblur`, `zoomin`, `smoothleft`, `smoothright` and `fade`; no new GL renderer is required. `tools/activity_design.py` makes the original artwork locally using the included Sora and OFL Cormorant Garamond fonts. Cormorant's existing font/licence files remain under the clinic fonts directory; no clinic identity is applied to the school.
 
