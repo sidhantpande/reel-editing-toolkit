@@ -1,0 +1,12 @@
+[submodule "vendor/repos/hyperframes"]
+	path = vendor/repos/hyperframes
+	url = https://github.com/heygen-com/hyperframes.git
+[submodule "vendor/repos/remotion"]
+	path = vendor/repos/remotion
+	url = https://github.com/remotion-dev/remotion.git
+[submodule "vendor/repos/motion-canvas"]
+	path = vendor/repos/motion-canvas
+	url = https://github.com/motion-canvas/motion-canvas.git
+[submodule "vendor/repos/gl-transitions"]
+	path = vendor/repos/gl-transitions
+	url = https://github.com/gl-transitions/gl-transitions.git
